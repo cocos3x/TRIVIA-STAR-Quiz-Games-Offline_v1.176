@@ -1,0 +1,100 @@
+SCQ001	Queen	0	Which famous Queen song was featured in the movie "Wayne's World"?	Another One Bites the Dust	Under Pressure	We Will Rock You	Bohemian Rhapsody
+SCQ002	Queen	0	Which of the following is a Queen song?	I Wanna Dance with Somebody	Take On Me	Don't Stop Believin'	Killer Queen
+SCQ003	Queen	0	Finish the lyric: "We Will..."	Make It	Go On	Survive	Rock You
+SCQ004	Queen	0	Who played Freddie Mercury in the 2018 Queen Biopic "Bohemian Rhapsody"?	Henry Cavill	Taron Egerton	Joaquin Phoenix	Rami Malek
+SCQ005	Queen	0	Which of the following is NOT a Queen song?	Nevermore	One Year of Love	Radio Ga Ga	Bye Bye Bye
+SCQ006	Queen	0	Finish the lyric: "We are the..."	Best	Greatest	Winners	Champions
+SCQ007	Queen	0	Which of these films did Queen perform the soundtrack for?	This is Spinal Tap	Walk the Line	Tommy	Flash Gordon
+SCQ008	Queen	0	What famous singer performed a duet with Freddie Mercury on "Under Pressure"?	Elton John	Stevie Nicks	Linda Ronstadt	David Bowie
+SCQ009	Queen	0	What song does "We Will Rock You" lead into?	You're My Best Friend	Another One Bites The Dust	Sheer Heart Attack	We Are The Champions
+SCQ010	Queen	0	Who retired from Queen in 1997?	Gene Simmons	Geddy Lee	Lemmy	John Deacon
+SCQ011	Queen	0	Which famous singer began touring as Queen's vocalist in 2009?	Lady Gaga	Robert Plant	Kelly Clarkson	Adam Lambert
+SCQ012	Queen	0	Which of the following is NOT a Queen song?	Tie Your Mother Down	You're My Best Friend	Don't Stop Me Now	Master of Puppets
+SCQ013	Queen	0	The lyric "I'm just a poor boy, nobody loves me," comes from which Queen song?	Radio Ga Ga	We Are the Champions	Killer Queen	Bohemian Rhapsody
+SCQ014	Queen	0	Finish the lyric: "Good Old-Fashioned..."	Cocktail	Rock and Roll	Woman	Lover Boy
+SCQ015	Queen	0	Which Queen song did rapper Vanilla Ice famously sample that resulted in lawsuit?	Bohemian Rhapsody	We Will Rock You	We Are the Champions	Under Pressure
+SCQ016	Queen	0	Finish the song title: "Lazing on a..."	Prayer	Pile of Rags	Sunny Day	Sunday Afternoon
+SCQ017	Queen	0	Which of the following is a 1977 Queen album?	Scary Monsters	Back in Black	Dirty Mind	News Of The World
+SCQ018	Queen	0	Which of these musicians is Queen's drummer?	Phil Collins	Peter Criss	Neil Peart	Roger Taylor
+SCQ019	Queen	0	Which Queen song starts with "Tonight I'm gonna have myself a real good time"?	Crazy Little Thing Called Love	Under Pressure	We Are the Champions	Don't Stop Me Now
+SCQ020	Queen	0	What country does Queen hail from?	Germany	France	United States	England
+SCQ021	Queen	0	Which of the following is a Queen song?	Kickstart My Heart	Purple Rain	Sweet Child O' Mine	We Will Rock You
+SCQ022	Queen	0	Which Queen song is this lyric, "Mama, just killed a man," from?	Father to Son	Don't Try So Hard	Blurred Vision	Bohemian Rhapsody
+SCQ023	Queen	0	In what year did lead singer Freddie Mercury pass away?	2006	2015	1975	1991
+SCQ024	Queen	0	Which of the following is NOT a Queen song?	Get Down, Make Love	Heaven for Everyone	We Are the Champions	Blitzkrieg Bop
+SCQ025	Queen	0	The lyric "You got mud on your face, you big disgrace," comes from which Queen song?	Cool Cat	Calling All Girls	We Are the Champions	We Will Rock You
+SCQ026	Queen	0	Finish the lyric: "I Want to Break..."	Me	It	Stuff	Free
+SCQ027	Queen	0	Which keyboard player is dubbed the "fifth" member of Queen?	Brian May	Freddie Mercury	George Harrison	Spike Edney
+SCQ028	Queen	0	Which of the following is a Queen album?	The Marshall Mathers LP	Funeral	American Idiot	Sheer Heart Attack
+SCQ029	Queen	0	Which of these musicians is Queen's bassist?	Adam Lambert	Freddie Mercury	Roger Taylor	John Deacon
+SCQ030	Queen	0	Finish the song title: "Radio..."	Ooh La La	Ra Ra	Goo Goo	Ga Ga
+SCQ031	Queen	0	Which song does the lyric "Gunpowder, gelatine, dynamite with a laser beam" come from?	Back Chat	Feelings, Feelings	In the Lap of the Gods	Killer Queen
+SCQ032	Queen	0	Which of the following is a Queen song?	Baby	New York, New York	Hello	We Are the Champions
+SCQ033	Queen	0	Which of the following is a Queen album?	Nevermind	Thriller	Ride the Lightning	A Night At The Opera
+SCQ034	Queen	0	Where was lead vocalist Freddie Mercury born?	Chicago, Illinois	Nice, France	Lima, Peru	Zanzibar, Tanzania
+SCQ035	Queen	0	Finish the lyric: "Gunpowder, gelatine, dynamite with a..."	Wrecking Spleen	Lecture Screen	Mint Ice Cream	Laser Beam
+SCQ036	Queen	0	What was the name of Queen's final album?	39	A Night at the Opera	Last of All	Made In Heaven
+SCQ037	Queen	0	Which of the following is a Queen song?	Chop Suey	Livin' On A Prayer	Girls Just Want to Have Fun	Another One Bites the Dust
+SCQ038	Queen	0	Which of the following is a lyric from the Queen song "Bohemian Rhapsody"?	There's no stopping me	You got mud on your face	No time for losers	As if nothing really matters
+SCQ039	Queen	0	Which of the following is a Queen song?	Thriller	Smells Like Teen Spirit	Baby One More Time	Fat Bottomed Girls
+SCQ040	Queen	0	What does Queen's logo, called the "Queen crest" contain?	A crab	A lion	A crown	All of these
+SCQ041	Queen	0	Who was Mary Austin?	Queen's manager	Freddie Mercury's daughter	A Queen dancer	Freddie Mercury's girlfriend
+SCQ042	Queen	0	Which lyric comes after "I've paid my dues," in the song "We Are the Champions"?	We are the champions	And bad mistakes	I'll never lose	Time after time
+SCQ043	Queen	0	Which song does the lyric "Are you ready, hey, are you ready for this?" come from?	Hammer to Fall	Who Wants to Live Forever	I Want to Break Free	Another One Bites the Dust
+SCQ044	Queen	0	In what city did Queen form?	New York	Paris	Zanzibar City	London
+SCQ045	Queen	0	Which song does the lyric "I wanna make a supersonic man out of you," come from?	Love of My Life	Radio Ga Ga	Fat Bottomed Girls	Don't Stop Me Now
+SCQ046	Queen	0	Which of the following is a Queen song?	Wannabe	My Heart Will Go On	Hey Ya!	Don't Stop Me Now
+SCQ047	Queen	0	Which song does the lyric "You say black, I say white, you say bark, I say bite," come from?	Somebody to Love	The Prophet's Song	Keep Yourself Alive	Bicycle Race
+SCQ048	Queen	0	Which newspaper did Queen title one of their albums after? 	The Times	The Washington Post	Guardian	News of the World
+SCQ049	Queen	0	What year was Freddie Mercury born?	1966	1923	1975	1946
+SCQ050	Queen	0	What was the name of Freddie Mercury's first solo album?	Queen II	Queen	A Night at the Opera	Mr. Bad Guy
+SCQ051	Queen	0	Which of the following was a band Freddie Mercury was in before Queen?	The Beatles	Nsync	The Rolling Stones	Ibex
+SCQ052	Queen	0	What decade is the hit single "Another One Bites The Dust" by Queen from?	Fifties	Nineties	Sixties	Eighties
+SCQ053	Queen	0	What year did Queen have the hit single "You're My Best Friend" on Elektra?	1993	2000	1966	1976
+SCQ054	Queen	0	Finish the lyric: "And another one gone, and another one gone..."	Now he's dead	You took everything I had	Never getting it back	Another one bites the dust
+SCQ055	Queen	0	"You make the rockin' world go 'round," is a lyric from which Queen song?	Bohemian Rhapsody	We Will Rock You	Another One Bites the Dust	Fat Bottomed Girls
+SCQ056	Queen	0	Which of the following is a Queen song?	Bye Bye Bye	Lose Yourself	Seven Nation Army	Love of My Life
+SCQ057	Queen	0	Which of the following is NOT a Queen song?	Another One Bites the Dust	Calling All Girls	Bicycle Race	Free Fallin'
+SCQ058	Queen	1	What is the name of Brian May's signature guitar?	Lucille	Frankenstein	Yellow Cloud	The Red Special
+SCQ059	Queen	1	What Queen song was featured in the movie "Shaun of the Dead"?	Killer Queen	Crazy Little Thing Called Love	Death On Two Legs	Don't Stop Me Now
+SCQ060	Queen	1	Which of these Queen albums was released in 1975?	Made in Heaven	The Miracle	The Works	A Night at the Opera
+SCQ061	Queen	1	Which of these musicians is Queen's lead guitarist?	Jimmy Page	Eddie Van Halen	Joe Perry	Brian May
+SCQ062	Queen	1	What field does lead guitarist Brian May hold a PhD in?	Medicine	History	Theology	Astrophysics
+SCQ063	Queen	1	Who sang lead vocals for Queen until his death in 1991?	George Harrison	Ringo Starr	David Bowie	Freddie Mercury
+SCQ064	Queen	1	Which of these Queen songs did Roger Taylor write and sing lead vocals on?	39	Under Pressure	Bohemian Rhapsody	I'm In Love With My Car
+SCQ066	Queen	1	What's famous amplifier was built by Queen bass guitarist John Deacon?	The Boom Boom	Amp-litude	The Princeton Reverb	The Deacy Amp
+SCQ067	Queen	1	What was Queen's original name?	King	Sox Off	Turnabout 	Smile
+SCQ068	Queen	1	What is Freddie Mercury's real name?	Frederick Malan	John Spacey	Hachi Williams	Farrokh Bulsara
+SCQ069	Queen	1	Who shot the iconic cover to Queen II?	Freddie Mercury	Mary Austin	John Lennon	Mick Rock
+SCQ070	Queen	1	Who designed the Queen crest logo?	A fan	The band manager	Brian May's mother	Freddie Mercury
+SCQ071	Queen	1	What was Queen's first single?	Bohemian Rhapsody	We Are the Champions	Another One Bites the Dust	Keep Yourself Alive
+SCQ072	Queen	1	Which member of Queen was first to release a solo album?	Brian May	John Deacon	Barry Mitchell	Roger Taylor
+SCQ073	Queen	1	Who was the subject of Queen's "Death On Two Legs"?	The Queen	A Kangaroo	Brian's ex-girlfriend	Their Former Manager
+SCQ074	Queen	1	What was the name of Freddie Mercury's longtime partner?	Barry Hanson	Tim Lodge	Brian May	Jim Hutton
+SCQ075	Queen	1	What was the name of Freddie Mercury's London mansion?	Queen Estate	London Bridges	Mary Austin	Garden Lodge
+SCQ076	Queen	1	What did John Deacon train in prior to joining Queen?	Mathematics	Culinary	Gender Studies	Electrical Engineering
+SCQ077	Queen	1	Which album was the first to hit #1 in the UK?	Hot Space	Innuendo	Flash Gordon	A Night at the Opera
+SCQ078	Queen	1	What did the 2018 film Bohemian Rhapsody NOT win an Academy Award for?	Best Sound Mixing	Best Sound Editing	Best Actor	Best Picture
+SCQ079	Queen	1	Who sings in the five part harmony of "Bohemian Rhapsody"?	Brian May	Backup singers	The Whole Band	Freddie Mercury
+SCQ065	Queen	1	Which song was the B-Side to Bohemian Rhapsody?	Hello Goodbye	Hey Jude	You're My Best Friend	I'm In Love With My Car
+SCQ080	Queen	1	What was the first queen single to reach #1 in the U.S.?	Man on the Prowl	Nevermore	Soul Brother	Crazy Little Thing Called Love
+SCQ081	Queen	1	What is the last track on Freddie Mercury's final album recorded with Queen?	We Will Rock You	Bicycle	Bohemian Rhapsody	The Show Must Go On
+SCQ082	Queen	1	Which song does the lyric "You're so self satisfied I don't need you" come from?	Killer Queen	Let Me Live	Bohemian Rhapsody	I Want to Break Free
+SCQ083	Queen	1	Where did Freddie write the lyrics to "A Crazy Little Thing Called Love"?	In an airplane restroom	His basement	A hotel in Sweden	In the bath
+SCQ084	Queen	1	Where was the video for "We Will Rock You" filmed?	Seaworld	School gym	A baseball field	Roger Daltrey's back garden
+SCQ085	Queen	1	Who did Freddie leave his mansion, Garden Lodge, to when he died?	His children	His mother	Brian May	Mary Austin
+SCQ086	Queen	1	What was the name of Freddie Mercury's first band?	Artemis	Hello	Queen	The Hectics
+SCQ087	Queen	1	Which Queen video features band members dressed in drag and vacuuming?	Under Pressure	All of these	Bohemian Rhapsody	I Want to Break Free
+SCQ088	Queen	1	"You gave them all those old time stars," is a lyric from which Queen song?	Who Wants to Live Forever	Killer Queen	We Are the Champions	Radio Ga Ga
+SCQ089	Queen	1	"Empty spaces, what are we living for?" is a lyric from which Queen song?	Bicycle Race	The Prophet's Song	Love of My Life	The Show Must Go On
+SCQ090	Queen	1	Which of the following is NOT a Queen song?	Stone Cold Crazy	Sheer Heart Attack	Jealousy	Go Your Own Way
+SCQ091	Queen	1	Which Queen album came out in 1982?	A Day at the Races	Innuendo	A Night at the Opera	Hot Space
+SCQ092	Queen	1	Which Queen album came out in 1978?	The Miracle	A Night at the Opera	Hot Space	Jazz
+SCQ093	Queen	1	Which Queen album came out in 1974?	Innuendo	Flash Gordon	Jazz	Sheer Heart Attack
+SCQ094	Queen	1	"We Are the Champions" is a song on which Queen album?	The Game	The Works	Jazz	News of the World
+SCQ095	Queen	1	"Bohemian Rhapsody" is a song on which Queen album?	Sheer Heart Attack	A Day at the Races	The Works	A Night at the Opera
+SCQ096	Queen	1	"We Will Rock You" is a song on which Queen album?	The Game	Innuendo	Flash Gordon	News of the World
+SCQ097	Queen	1	"Don't Stop Me Now" is a song on which Queen album?	Sheer Heart Attack	A Day at the Races	News of the World	Jazz
+SCQ098	Queen	1	"Killer Queen" is a song on which Queen album?	News of the World	A Kind of Magic	The Works	Sheer Heart Attack
+SCQ099	Queen	2	What was the name of the Queen video game released in 1998?	Queen Fighter	Queen Bros	Queen Kong	Queen: The eYe
+SCQ100	Queen	2	What school did Freddie Mercury begin attending in 1955?	St. Anselm's Abbey School	Marymount School	Regis High School	St. Peter's School

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1790755205036370577
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790755204986038869}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 100, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790755204986038869
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790755205036370577}
+  - component: {fileID: 1790755206881864466}
+  - component: {fileID: 1790755206881864509}
+  - component: {fileID: 1790755206881864485}
+  m_Layer: 5
+  m_Name: "Manager_WGSFXController"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790755206881864466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790755204986038869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40434e8ff4bad5fc7114c9236ac39361, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  makeRootPersistent: 0
+  unparentFromRootOnStart: 0
+--- !u!114 &1790755206881864485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790755204986038869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26a9e7ab262dc6ab54491485adca52e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disableByDefault: 0
+  themed: 0
+  instantiateAllOnAwake: 1
+  instantiateAsChild: 0
+  themeType: 0
+  parentingMethod: 0
+  folder: "SFX"
+  allowedSubFolders: []
+  tagFilterMode: 0
+  tagFilter: []
+--- !u!114 &1790755206881864509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790755204986038869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d44b1188005ab07412fc7c5b23df374, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabsFromFolder: {fileID: 1790755206881864485}

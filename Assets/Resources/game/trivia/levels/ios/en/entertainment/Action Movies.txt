@@ -1,0 +1,460 @@
+0DIFETM1	Action Movies	0	What famous action star was elected governor of California?	Tom Cruise	Keanu Reeves	Vin Diesel	Arnold Schwarzenegger
+0DIFETM10	Action Movies	0	In what series does Harrison Ford play a whip-cracking archeologist?	Terminator	Justice League	Last Action Hero	Indiana Jones
+0DIFETM13	Action Movies	0	Bruce Willis fights terrorists in a skyscraper in which movie?	Rocky	Captain Marvel	Friday the 13th	Die Hard
+0DIFETM17	Action Movies	0	What movie stars Will Smith as a jet pilot fighting an alien invasion?	Die Hard	Mission Impossible	Spider-Man 3	Independence Day
+0DIFETM2	Action Movies	0	What brand of toy robots was adapted to live action film by Michael Bay?	He-Man	Barbie	Street Sharks	Transformers
+0DIFETM19	Action Movies	0	Sly Stallone stars as super soldier John in which movie franchise?	The Matrix	Batman	Indiana Jones	Rambo
+0DIFETM7	Action Movies	0	James Bond is the main character in which of these movies?	Iron Man	The Amazing Spider-Man	John Wick	Casino Royale
+0DIFETM18	Action Movies	0	Which of these movies involves going through peoples' dreams?	Enter the Dragon	Armageddon	The Dark Knight	Inception
+0DIFETM3	Action Movies	0	What movie about blue aliens was once the highest earning movie ever?	Mad Max	Avengers	Jurassic Park	Avatar
+0DIFETM11	Action Movies	0	Which movie franchise stars Tom Cruise as super-spy Ethan Hunt?	Aliens	Indiana Jones	The Fast and the Furious	Mission Impossible
+0DIFETM14	Action Movies	0	An army of primates terrorizes San Francisco in what movie?	Terminator 2: Judgement Day	Batman Begins	Avatar	Rise of the Planet of The Apes
+0DIFETM16	Action Movies	0	Who starred as Neo in The Matrix?	Marlon Brando	Will Smith	Harrison Ford	Keanu Reeves
+0DIFETM9	Action Movies	0	What DC movie character can breathe underwater and talk to fish?	John Wick	Thor	Optimus Prime	Aquaman
+20VE1740	Action Movies	0	Which of these characters is a hero in the "Star Wars" film series?	King Leonidas	JJ Smooth	Ellen Ripley	Han Solo
+20VE1766	Action Movies	0	Who does Samuel L. Jackson play in "The Avengers" movie series?	Hulk	Iron Man	Superman	Nick Fury
+20VE1762	Action Movies	0	Which is the title of a sequel to the "Matrix" movie?	Matrix: Redux	Matrix: Untold Truth	Matrix Movement	Matrix Reloaded
+20VE1724	Action Movies	0	Who plays James Bond in the 2015 film "Spectre"?	Robert Downey Jr.	Ralph Fiennes	Tom Cruise	Daniel Craig
+20VE1714	Action Movies	0	What color helmet does Darth Vader wear in the "Star Wars" movies?	Orange	Green	Yellow	Black
+20VE1758	Action Movies	0	The action film "Taken" is about what crime?	Jaywalking	Lying to FBI	Bank Robbery	Kidnapping
+20VE1788	Action Movies	0	Which is a 1980s action film starring Chuck Norris about Special Forces commanders?	Wrath of the Titans	Silence of the Lambs	Cold Mountain	The Delta Force
+20VE1798	Action Movies	0	What is the 2019 movie "Midway" about?	Wild Animals	Superhero Gone Bad	Circus Clowns	WW II Battle At Sea
+20VE1734	Action Movies	0	Tony Montana played by Al Pacino in "Scarface" got rich and powerful selling what?	Secret Codes	Computers	Whiskey	Drugs
+20VE1748	Action Movies	0	What name is Dr. Henry Walton "Indiana" Jones, Jr. better known by?	La Bamba	The Rock	Hammer	Indy
+20VE1770	Action Movies	0	Jules Winnfield and Vincent Vega were hit men in what Quentin Tarantino movie?	The Wolf of Wall Street	Goodfellas	Inglourious Basterds	Pulp Fiction
+20VE1750	Action Movies	0	Who plays Hong Kong policeman Keun in the 90s hit "Rumble in the Bronx"?	Danny Aiello	Robert Redford	Warren Beatty	Jackie Chan
+20VE1712	Action Movies	0	Who does the character played by Uma Thurman want to "Kill" in the Quentin Tarantino movie series?	Irving	Charles Manson	Hannibal Lecter	Bill
+20VE1796	Action Movies	0	What subject is the film "1917" about?	Dancing	Titanic	Money	War
+20VE1790	Action Movies	0	Which is the real 2019 Martin Scorsese film title?	The Spanishman	The Chineseman	The Englishman	The Irishman
+20VE1718	Action Movies	0	The action film "Escape From LA" took place in what U.S. state?	Texas	New York	Washington	California
+20VE1700	Action Movies	0	What is the agent named Bourne's first name from "Bourne Identity" ?	Felipe	Bruce	Martinez	Jason
+20VE1720	Action Movies	0	Which of these characters is part of the "Star Wars" film series?	Robocop	Simba	T-101	Chewbacca
+20VE1706	Action Movies	0	Which is a fictional supervillain that appeared in the Batman film "Dark Night Rises"?	Sheriff Woody	Buzz Lightyear	Shredder	Bane
+20VE1722	Action Movies	0	What outdoor thriller film starring Sylvester Stallone is about a mountain rescuer and a group of criminals?	Last Action Hero	GoldenEye	Star Wars	Cliffhanger
+20VE1708	Action Movies	0	Who is the hero in "The Dark Knight"?	Iron Man	Jessica Jones	Hulk	Batman
+20VE1764	Action Movies	0	What did the Terminator use for transportation in "Terminator 2: Judgement Day"?	Skateboard	Segway	Bicycle	Motorcycle
+20VE1768	Action Movies	0	Who of these fictional characters is a Jedi Master gifted in the ways of the Force?	Max Rockatansky	Deadpool	Riddick	Obi-Wan Kenobi
+20VE1716	Action Movies	0	What color hair does the character Harley Quinn have in "Harley Quinn: Birds of Prey"?	Black	Grey	Navy Blue	Blonde with Multi-Colors
+20VE1774	Action Movies	0	Which of these is the actual title of a Star Wars movie?	War of the Worlds	Deadly Hollow	Spirited Away	Revenge of the Sith
+20VE1726	Action Movies	0	What do the agents put on when they flash the Neuralyzer in the film "Men In Black"?	Leggings	Wool Socks	Helmets	Dark Sunglasses
+20VE1704	Action Movies	0	What actor played the Terminator in the movie "Terminator 2: Judgement Day"?	Tom Hanks	Michael Keaton	Seth Rogan	Arnold Schwarzenegger
+20VE1786	Action Movies	0	Scarlett Johansson plays Black Widow Natalia Romanova in what film series?	Lord of the Rings	Star Wars	Batman	The Avengers
+20VE1772	Action Movies	0	What color is Iron Man's body armor in the movie "Iron Man"?	Pink	Purple	White	Red
+20VE1794	Action Movies	0	Who is the Godfather in the 1972 mob film "The Godfather"?	Henry Hill	Joe Piscopo	Tom Hagen	Vito Corleone
+20VE1742	Action Movies	0	Which of these films is about crime and stars Al Pacino, Robert De Niro, and Val Kilmer?	A.I. Artificial Intelligence	Sunshine	Deep Rising	Heat
+20VE1780	Action Movies	0	What is the name of the Scottish knight that Mel Gibson played in the film "Braveheart?	Max Rockatansky	Snake Plissken	Sir Duke	Sir William Wallace
+20VE1736	Action Movies	0	What character did actress Sigourney Weaver play in the "Alien" movie series?	Jane Hathaway	Bella Swan	Joanne Worley	Ellen Ripley
+20VE1784	Action Movies	0	Which of these characters is a movie villain?	Detective John McClane	Rocket Racoon	Star-Lord	Thanos
+20VE1792	Action Movies	0	Marshal Reuben J. Cogburn is a character played by both John Wayne and Jeff Bridges in what movies?	Pulp Fiction	The Mummy Returns	Justified	True Grit
+20VE1744	Action Movies	0	What is the Black Hawk in the film "Black Hawk Down"?	Russian Spy	A Pet Hawk	Race Car	Helicopter
+20VE1760	Action Movies	0	Where does the Martin Scorsese film "Casino" take place?	London	San Francisco	Orlando	Las Vegas
+20VE1728	Action Movies	0	What is the profession of the two lead characters in the film "Bad Boys"?	Hairdressers	Rock Stars	Jazz Musicians	Detectives
+20VE1782	Action Movies	0	Kylo Ren is from which of these movies?	Ted 2	The Huntsman: Winter's War	Cold Pursuit	Star Wars: The Rise of Skywalker
+20VE1702	Action Movies	0	Which of these films is about war?	The Departed	The Town	Silence of the Lambs	Apocalypse Now
+20VE1710	Action Movies	0	Which of these films is loosely based on the board game with the same name?	Non-Stop	Cold Pursuit	The Prophet	Battleship
+516030	Action Movies	1	What hour does the Purge start in the 2014 film "The Purge: Anarchy"?	5:00 AM	Noon	2:00 AM	7:00 PM
+8436	Action Movies	1	What animal is Indiana Jones afraid of?	Lion	Rat	Monkey	Snake
+528516	Action Movies	1	What movie includes the line, "I love the smell of napalm in the morning"?	Cool Hand Luke	A Few Good Men	Sudden Impact	Apocalypse Now
+71T1906	Action Movies	1	In what city does most of the action take place in "John Wick: Chapter 3 – Parabellum"?	Las Vegas	London	Denver	New York City
+80434	Action Movies	1	Which of the following was a character in the movie "The Matrix"?	Voldemort	Ratman	Junktrap	Trinity
+481916	Action Movies	1	Which 2011 film directed by Steven Soderbergh examines the potential repercussions of a pandemic?	The Andromeda Strain	The Plague	Outbreak	Contagion
+36107	Action Movies	1	How does Zorin die in the James Bond film "A View To A Kill"?	He Is Caught In An Explosion	He Is Crushed	He Is Shot	He Falls To His Death
+233671	Action Movies	1	Who starred as Lara Croft in the "Lara Croft: Tomb Raider" movie?	Faith Hill	Julia Roberts	Anne Heche	Angelina Jolie
+475601	Action Movies	1	In the movie "Fast Five" who kills Reyes?	Dom	Brian	Vince	Hobbs
+777T1912	Action Movies	1	What film includes the character Supreme Leader Snoke?	Wolf Warrior 2	Thor: Ragnarok	Beauty and the Beast	Star Wars: The Last Jedi
+777T1924	Action Movies	1	What pop star plays Nine Ball in "Ocean's 8"?	Katy Perry	Justin Bieber	Taylor Swift	Rihanna
+8789	Action Movies	1	In which James Bond movie did Grace Jones star?	Octopussy	For Your Eyes Only	Live And Let Die	A View To A Kill
+515831	Action Movies	1	Who played Joe Brody, the former lead engineer at the Janjira nuclear plant, in the 2014 film "Godzilla"?	Aaron Taylor-Johnson	David Strathairn†	Ken Watanabe†	Bryan Cranston
+90I10000	Action Movies	1	What year did "Mission Impossible: Fallout" hit the theaters?	2005	2011	2017	2018
+475600	Action Movies	1	In the movie "Fast Five" where does Reyes keep his money?	In a bank	In his home	Underground	The police station
+1V10467	Action Movies	1	What film was made under the working title "Ahab"?	Glass	Hellboy	New Mutants	Aquaman
+515799	Action Movies	1	Sally Field reprised which character in the 2014 film "The Amazing Spider-Man 2"?	Aunt June	Aunt April	Aunt July	Aunt May
+516031	Action Movies	1	Who seeks to rally followers against the New Founding Fathers in the 2014 film "The Purge: Anarchy"?	Big Daddy	Shane	Leo	Carmelo
+329475	Action Movies	1	Why does Li Mu Bai refuse to kill Jen in "Crouching Tiger, Hidden Dragon"?	He Loves Her	She Is His Daughter	She Is Under A Spell	He Wants Her To Be His Apprentice
+528424	Action Movies	1	Finish this 2013 movie title: "Thor: The ____ World".	Big	Only	Good	Dark
+504750	Action Movies	1	What movie is about the first American cargo ship to be hijacked in 200 years?	The Counselor	Don Jon	Carrie	Captain Phillips
+475602	Action Movies	1	In the movie "Fast Five" what does Dom do with his share of the money?	Buys several cars	Gets a beach house	Charters a private jet	Gives it to Vince's family
+325657	Action Movies	1	Cillian Murphy, Damien in "The Wind That Shakes The Barley", played which "Batman Begins" villain?	Joker	Penguin	Two-Face	Scarecrow
+1V10290	Action Movies	1	What is the full title of the April 2019 release of the Avenger film?	Avengers: Gametime	Avengers: Egames	Avengers: End of Games	Avengers: Endgame
+8437	Action Movies	1	In the movie "Raiders of the Lost Ark", why is Indy afraid of snakes?	He Accidentally Ate One	His Dad Got Bit By One And Died	One Bit Him When He Bought His Whip	He Fell Into A Circus Cart Full
+343508	Action Movies	1	In "Star Wars IV - A New Hope", what was the name of Darth Vader's personal ship?	The Sepater	Slave 1	Slave 2	The Avenger
+45D638	Action Movies	1	Which film enlisted 3 American heroes as its stars?	Every Day	Unseen	Death Wish	The 15:17 to Paris
+254548	Action Movies	1	Who appeared in both "The Lord of the Rings" and "Armageddon"?	Christina Applegate	Cameron Diaz	Drew Barrymore	Liv Tyler
+481869	Action Movies	1	Which superhero film from January of 2011 starred Seth Rogen as a millionaire playboy turned crime fighter?	Hawkeye	Thor	Iron Man	The Green Hornet
+8942	Action Movies	1	Bruce Wayne, Batman's secret identity, has a butler named what?	Grayson	Neumann	Wayne	Pennyworth
+475580	Action Movies	1	What does Goodwin do to Stevens after one last time in "Source Code"?	Erase his memory	Bring him back to life	Kiss him	Disable his life support
+777T1914	Action Movies	1	Who stars is in the film "John Wick: Chapter 3 – Parabellum"?	Jason Sudeikis	Kevin Hart	Chris Rock	Keanu Reeves
+515830	Action Movies	1	Who played Dr. Ishiro Serizawa, the lead scientist investigating the MUTOs, in the 2014 film "Godzilla"?	David Strathairn†	Aaron Taylor-Johnson	Bryan Cranston	Ken Watanabe
+1V10359	Action Movies	1	Dan Stevens appears as David Halle in what TV series?	The Gifted	Black Lightning	Krypton	Legion
+515975	Action Movies	1	Who played the eccentric Minister Mason in the 2014 film "Snowpiercer"?	Sally Hawkins	Kate Winslet	Cate Blanchett·	Tilda Swinton
+899994	Action Movies	1	In the 2016 film "Suicide Squad", who plays Batman?	Henry Cavill	James Marsden	Jonathan Rhys Meyers	Ben Affleck
+410173	Action Movies	1	What Kung Fu artist co-stars with Brendan Fraser in "The Mummy 3"?	Bruce Lee	Chuck Norris	Tian Liang	Jet Li
+516057	Action Movies	1	Who provided the voice for the sentient tree, Groot, in the 2014 film "Guardians of the Galaxy"?	Michael Rooker	Djimon Hounsou	Bradley Cooper	Vin Diesel
+496852	Action Movies	1	Who does Oscar winner Javier Bardem play in the film "Skyfall"?	Bill Tanner	Patrice	James Bond	Raoul Silva
+475527	Action Movies	1	What gift does Dylan give to Carly in "Transformers: Dark of the Moon"?	Jewelry	A Cell Phone	The Key to his Place	A Car
+8825	Action Movies	1	Which of the following movies is based on a true story?	Halloween	The Shining	Cujo	The Town That Dreaded Sundown
+528520	Action Movies	1	Which film is centered around the British intelligence agency and WWII?	American Sniper	Divergen	Foxcatcher	The Imitation Game
+54607	Action Movies	1	What character did Tom Sizemore portray in "Natural Born Killers"?	Mark Andrews	Warden McCluskey	Wayne Gale	Jack Scagnetti
+528413	Action Movies	1	Finish this action movie title: "_______ of the Galaxy".	Protectors	Guard	Lord	Guardians
+99573	Action Movies	1	In which 2001 movie did Brendan Fraser play the character Richard "Rick" O'Connell?	We Were Soldiers	Fargo	American Pie 2	The Mummy Returns
+99586	Action Movies	1	In which 2001 movie did Sam Neill play the character Dr. Alan Grant?	The Others	Independence Day	Ice Age	Jurassic Park III
+45D605	Action Movies	1	Who directed the film "Ready Player One"?	Martin Scorsese	Spike Jones	Clint Eastwood	Steven Spielberg
+223712	Action Movies	1	Which is a character from the movie "Courage Under Fire"?	A Bankruptcy Judge	Bessie	Sarah	Captain Karen Emma Walden
+504850	Action Movies	1	What actor played a former FBI agent-turned-criminal in "Fast & Furious 6"?	Michelle Rodriguez	Dwayne Johnson	Tyrese Gibson	Paul Walker
+90I10001	Action Movies	1	What is the full title of the 2017 "Blade Runner" film?	Blade Runner 2009	Blade Runner 3030	Blade Runner 2020	Blade Runner 2049
+1V10413	Action Movies	1	What is Aquaman's name ?	Tim Bacon	Leo Roar	Seth Green	Arthur Curry
+1V10311	Action Movies	1	Who is the film "Dark Phoenix" about ?	Dorian Grey	Bob Grey	Venom	Jean Grey
+21089	Action Movies	1	In the movie "Raiders of the Lost Ark", what is Indiana Jones' real name?	Grace Jones	Henry Jones III	James Earl Jones	Henry Jones, Jr.
+385256	Action Movies	1	The Bourne Ultimatum, released in 2007, is the third film in a trilogy based on the works of whom?	Lewis Carroll	Isaac Asimov	Kurt Vonnegut	Robert Ludlum
+515832	Action Movies	1	Elle Brody, who is Ford's wife and a nurse, was portrayed by which actress in the 2014 film "Godzilla"?	Mary-Kate Olsen	Ashley Olsen	Sally Hawkins	Elizabeth Olsen
+528412	Action Movies	1	Finish the title of this award winning movie, "The Grand Budapest ____".	Heist	Motel	Life	Hotel
+515995	Action Movies	1	Who transforms into a rusty Marmon cab-over truck in the 2014 film "Transformers: Age of Extinction"?	Lockdown	Ratchet	Bumblebee	Optimus Prime
+515991	Action Movies	1	Who played Tessa's boyfriend, Shane Dyson, in the 2014 film "Transformers: Age of Extinction"?	Brenton Thwaites	Landon Liboiron	Luke Grimes	Jack Reynor
+100021	Action Movies	1	In which 2000 movie did Christian Bale play the character Walter Wade, Jr.?	Fargo	Gone In Sixty Seconds	Slackers	Shaft
+475559	Action Movies	1	X-Men: First Class is what number installment in the X-Men series?	Sixth	Fourth	Third	Fifth
+295763	Action Movies	1	Why do they call Johnny "The Human Torch" in "Fantastic Four"?	Fire Shoots Out Of His Mouth	He Melts In Extreme Heat	He Projects Light From His Eyes	He Can Engulf Himself In Flames
+273073	Action Movies	1	Colin Farrell played a man pinned down by an unseen sniper in which movie?	Kitchen	The Man Behind You	The Hunted	Phone Booth
+618D599	Action Movies	1	What character does Jeff Goldblum play in "Jurassic World: Fallen Kingdom"?	Scott Woolley	Owen Grady	Gunnar Eversol	Ian Malcolm
+528522	Action Movies	1	What movie is about a US Military tank crew and World War II?	Calvary	Kingsman	The Raid 2	Fury
+475531	Action Movies	1	Who contacted Mearing demanding that Autobots are exiled from Earth in "Transformers: Dark of the Moon"?	Ratchet	Starscream	Megatro	Sentinel Prime
+475531	Action Movies	1	Who contacted Mearing demanding that Autobots are exiled from Earth in "Transformers: Dark of the Moon"?	Ratchet	Starscream	Megatro	Sentinel Prime
+234225	Action Movies	1	In "Swordfish", John Travolta starred along with which actress?	Uma Thurman	Andi Macdowell	Emma Thompson	Halle Berry
+9183022	Action Movies	1	Who playas Riley North in the 2018 film "Peppermint"?	Jennifer Lawrence	Gal Gadot	Reese Witherspoon	Jennifer Garner
+1V10350	Action Movies	1	The movie "Shazam!" is based on what?	Marvel Comic Character	Indie Comic Character	Classic Novel Character	DC Comics Character
+32017107	Action Movies	1	Who plays Thor in the film, "Thor: Ragnarok"?	Robert Downey Jr.	Tom Hiddleston	Ben Affleck	Chris Hemsworth
+17614	Action Movies	1	In "Star Wars: A New Hope", according to R2-D2 and C-3P0, Sand People are coming from where?	Northeast	Northwest	Southwest	Southeast
+475417	Action Movies	1	In "Captain America: The First Avenger" what character does Tommy Lee Jones play?	Steve Rogers	Dr. Abraham Erskine	Johann Schmidt	Colonel Chester Phillips
+1V10329	Action Movies	1	Who is the head of security for Stark Industries in "Spider-Man: Far From Home"?	Mr. Harrington	Henry "Happy" Morgan	J. B. Smooth	Harold "Happy" Hogan
+515793	Action Movies	1	Who is an old friend of Peter and son of Norman Osborn in the 2014 film "The Amazing Spider-Man 2"?	Larry Osborn	Gary Osborn	Barry Osborn	Harry Osborn
+228054	Action Movies	1	What war is portrayed in the movie "Glory"?	Vietnam War	Korean War	World War II	Civil War
+504908	Action Movies	1	In what 2013 movie would you hear of Odin and Asgard?	The Hunger Games: Catching Fire	The Secret Life of Walter Mitty	47 Ronin	Thor: The Dark World
+899993	Action Movies	1	In the 2016 film "Suicide Squad", who plays Deadshot?	Ian Somerhalder	Zac Efron	Derek Luke	Will Smith
+528419	Action Movies	1	Finish this action movie title, "Avengers: Age of _____".	Voltron	Extinction	Death	Ultron
+327157	Action Movies	1	Who plays Spider-Man in the movie "Spider-Man 3"?	Thomas Maguire	Trent Maguire	Terrence Maguire	Tobey Maguire
+1V10293	Action Movies	1	Who is the adopted daughter of Thanos in the 2109 Avengers movie?	Okoye	Wasabi	Pepper	Nebula
+56534	Action Movies	1	In the movie "The Mummy", what was placed in the sarcophagus with Imhotep?	Ants	Bees	Water	Scarabs
+515996	Action Movies	1	Which Decepticon is possessed by Megatron's mind in the 2014 film "Transformers: Age of Extinction"?	Traxes	Junkheap	Stinger	Galvatron
+528427	Action Movies	1	Complete this horror movie title, "Abraham Lincoln: ______ Hunter".	Ghost	Zombie	Spider	Vampire
+777T1951	Action Movies	1	Who plays Logan in the 2017 film "Logan"?	Robert De Niro	Patrick Stewart	Hugh Grant	Hugh Jackman
+52562	Action Movies	1	Which actress portrayed Princess Leia in "Star Wars"?	Heather Graham	Lea Thompson	Donna Langley	Carrie Fisher
+777T1942	Action Movies	1	What film includes the characters Enchantress and Captain Boomerang?	Black Panther	Incredibles 2	Deadpool 2	Suicide Squad
+220491	Action Movies	1	The movie, "Gladiator", was directed by whom?	Bruce Joel Rubin	George A. Romero	Rachel Talalay	Ridley Scott
+494610	Action Movies	1	What is the post-apocalyptic science fiction film based on a graphic novel?	The Great Gatsby	Peeples	Venus and Serena	Oblivion
+1V10353	Action Movies	1	Dr. Thaddeus Sivana is a character in which film?	Spider-Man: Far From Home	Dark Phoenix	The Death of Superman	Shazam!
+475419	Action Movies	1	Who murdered Dr. Erskine in "Captain America: The First Avenger"?	Steve Rodgers	Peggy Carter	Colonel Chester Phillips	Johann Schmidt
+777T1913	Action Movies	1	What film includes the character Poe Dameron?	Despicable Me 3	Sleepless	Wonder Woman	Star Wars: The Last Jedi
+99745	Action Movies	1	In which movie did Heath Ledger play the character Sir William Thatcher?	Independence Day	High Crimes	Josie And The Pussycats	A Knight's Tale
+618D609	Action Movies	1	What actor portrays Cable in "Deadpool 2"?	Hugh Dancy	Casey Affleck	Jake Gyllenhaal	Josh Brolin
+904	Action Movies	1	What other Batman film did "The Dark Knight" director Christopher Nolan direct?	Batman Forever	Batman	Batman And Robin	Batman Begins
+777T1940	Action Movies	1	What film includes the character CIA assassin August Walker?	Annihilation	Roma	Leave No Trace	Mission: Impossible – Fallout
+499197	Action Movies	1	Which film includes both Zoe Saldana as Uhura and Benedict Cumberbatch as Khan?	Star Trek IV: The Voyage Home	Star Trek: Generations	Star Trek VI: The Undiscovered Country	Star Trek: Into Darkness
+324744	Action Movies	1	What superhero movie opened on a record 4,352 screens on May 4, 2007?	Fantastic Four: Rise Of The Silver Surfer	Superman Returns	Shrek The Third	Spider-Man 3
+8448	Action Movies	1	Which of these did Indiana Jones use to help find the Holy Grail in "The Last Crusade"?	A Fortune Teller	An Ancient Map	The Constellation Orion	His Father's Diary
+515794	Action Movies	1	Which major character falls to her death in the 2014 film "The Amazing Spider-Man 2"?	Mary Parker	Aunt May	Mary Jane Watson	Gwen Stacy
+777T1943	Action Movies	1	Which film is based on the Marvel Comics character?	Eighth Grade	Braven	The Dark Knight	Ant-Man
+90I9998	Action Movies	1	What war is the film "Dunkirk" set in?	World War I	Vietnam	Iraq War	World War II
+287861	Action Movies	1	Which actor plays weapons dealer Owen Davian in "Mission: Impossible III"?	Sean Bean	Alan Rickman	Ed Harris	Phillip Seymour Hoffman
+504900	Action Movies	1	Who performs the song "Gale Song" heard in the movie "The Hunger Games: Catching Fire"?	Mumford & Sons	Skrillex	U2	The Lumineers
+329921	Action Movies	1	In the beginning of the movie "X-Men", how is Logan making a living?	As An Assassin	As A Lumberjack	He's Unemployed	Cage Fighting
+528435	Action Movies	1	Which of these movies is science fiction?	High Noon	Tombstone	Silverado	Blade Runner
+20VE1756	Action Movies	1	Which of the characters is in the film series "The Hunger Games"?	Dr. Ryan Stone	Alex Honnold	Mallory Kane	Katniss Everdeen
+494614	Action Movies	1	What is the title of the 2013 Star Trek movie directed by J.J. Abrams?	Star Trek One Step Beyond	Star Trek Trucking Through Space	Star Trek Payload	Star Trek Into Darkness
+265720	Action Movies	2	In the 2005 adventure film "Sahara", who played Dirk Pitt?	Simon Baker	Martin Freeman	Owen Wilson	Matthew McConaughey
+46663	Action Movies	2	In "Batman", what does the Joker say about Vicki Vale when Bob tells him she's dating Bruce Wayne?	She Can Do So Much Better	Well, That's A Waste!	Was Dating Him, You Mean	She's About To Trade Up
+282740	Action Movies	2	In the original "King Kong", how tall was the model monkey?	3 Feet	60 Feet	10 Feet	18 Inches
+66534	Action Movies	2	What language does William Wallace in "Braveheart" know how to speak?	German	Mexican	Sweden	French
+462298	Action Movies	2	Which actor stepped down from the lead role as Agent 47 in the movie "Hitman"?	Mark Wahlberg	Matt Damon	Jackie Chan	Vin Diesel
+220476	Action Movies	2	Who directed the 1987 action, "Full Metal Jacket"?	Buddy Van Horn	Emir Kusturica	Tim Johnson & Eric Darnell	Stanley Kubrick
+516003	Action Movies	2	Who played Joshua Joyce, the arrogant head of KSI, in the 2014 film "Transformers: Age of Extinction"?	Thomas Lennon·	James Bachman	Kelsey Grammer	Stanley Tucci
+496835	Action Movies	2	Who is the CIA Section Chief for South America in "Quantum of Solace"?	Bennie Boomer	Ed Gregg	Paul Mason	Gregg Beam
+223005	Action Movies	2	What 1981 film is about the claustrophobic world of a WWII German U-boat?	Coal Miner's Daughter	Miller's Crossing	Goodfellas	Das Boot
+380165	Action Movies	2	Who accompanies Luke on his journey to Dagobah in "The Empire Strikes Back"?	C-3P0	Leia	Chewbacca	R2-D2
+99620	Action Movies	2	In which 2002 movie did Denzel Washington play the character John Quincy Archibald?	Changing Lanes	Exit Wounds	Moulin Rouge!	John Q.
+515974	Action Movies	2	Edgar, who idolizes Curtis, was played by which actor in the 2014 film "Snowpiercer"?	Hayden Christensen	Miles Teller	Michael B.·Jordan	Jamie Bell
+496844	Action Movies	2	Who played Eve Moneypenny in "Skyfall"?	Pamela Salem	Lois Maxwell	Samantha Bond	Naomie Harris
+481884	Action Movies	2	What number in the "Scream" series of films premiered in 2011?	5	1	6	4
+30914	Action Movies	2	Who commands Echo Base on Hoth in "Star Wars: Episode V - The Empire Strikes Back"?	Admiral Ackbar	General Duros	General Veers	General Rieekan
+254611	Action Movies	2	Which movie is the character Batgirl from?	The Cookout	Maid In Manhattan	Spy Kids	Batman & Robin
+462313	Action Movies	2	What does Lara Croft look for in "Lara Croft Tomb Raider: The Cradle of Life"?	Fountain Of Eternity	El Dorado	The Holy Grail	Pandora's Box
+21109	Action Movies	2	In "Indiana Jones and the Temple of Doom", what does Willie have that Indy wants?	A Diamond	Cloth From Pankot Palace	Maps	A Poison Antidote
+214466	Action Movies	2	What year did Roger Moore make his Debut as Bond?	1972	1974	1971	1973
+380157	Action Movies	2	Inside what does Han Solo hide from the Empire in "The Empire Strikes Back"?	A Cave	A Black Hole	A Moon	A Space Slug
+267633	Action Movies	2	What was the film "Transporter 2" rated on release in the U.S.?	R	PG	NR	PG-13
+265742	Action Movies	2	Which star portrayed Lt. Ben Gannon in the movie "Stealth"?	John Cusack	Michael Angarano	Bruce Willis	Josh Lucas
+96985	Action Movies	2	What former "Saturday Night Live" star had a cameo appearance in "Temple of Doom"?	Bill Murray	Chevy Chase	Phil Hartman	Dan Aykroyd
+499229	Action Movies	2	Who directed the "Star Trek film, "Star Trek: First Contact"?	Dave Filoni	J.J. Abrams	Irvin Kershner	Jonathan Frakes
+17265	Action Movies	2	In "Star Wars IV: A New Hope", which bounty hunter was the partner of 4-LOM?	Dengar	Dyyz Nataz	Snoova	Zuckuss
+40408	Action Movies	2	Who played Admiral Piett in "Star Wars IV: A New Hope"?	Clive Revill	Julian Glover	Michael Pennington	Kenneth Colley
+9381	Action Movies	2	Who played Batgirl in the movie "Batman and Robin"?	Jenny McCarthy	Demi Moore	Natalia Fernandez	Alicia Silverstone
+46623	Action Movies	2	In "Batman Forever", what was Edward Nigma's invention designed to work with?	Radio	Sound Waves	Telescopes	Television
+46620	Action Movies	2	In "Batman", what does the Joker tell Bob Gotham City needs after watching news reports of Batman?	Bat Traps	Money	More Guns	An Enema
+496290	Action Movies	2	Which character breaks Batman's back in "The Dark Knight Rises"?	Scarecrow	The Riddler	Solomon Grundy	Bane
+1V10296	Action Movies	2	Captain Marvel is what type of an extraterrestrial warrior?	Key	Lee	Wee	Kree
+9183004	Action Movies	2	What athlete can be seen in the movie "Mile 22"?	LeBron James	Dan Marino	Brett Favre	Ronda Rousey
+515973	Action Movies	2	Who is Curtis' second-in-command in the 2014 film "Snowpiercer"?	Wilford	Mason	Gilliam	Edgar
+516063	Action Movies	2	Who is the primary villain in the 2014 film "Guardians of the Galaxy"?	Nebula	Thanos	The Collector	Ronan The Accuser
+516043	Action Movies	2	Who played Eva's teenage daughter, Cali, in the 2014 film "The Purge: Anarchy"?	Justina Machado	Kiele Sanchez	Carmen Ejogo	ZoÎ Soul
+900004	Action Movies	2	In the 2016 film "X-Men: Apocalypse", what power does Apocalypse possess?	Telekinesis	Firebreathing	Astral Projection	Move Between Bodies
+8785	Action Movies	2	What did Gobinda crush in his hands in front of James Bond in "Octopussy"?	A Golf Ball	An Apple	Bond's Gun	A Pair Of Dice
+234475	Action Movies	2	In what film does Robert Patrick portray a robot?	Star Wars	Artificial Intelligence	I Robot	Terminator 2
+9183023	Action Movies	2	Complete the tagline for the film "Peppermint", The System Failed, She ___?	Killed It	Unplugged It	Lost	Won't
+218541	Action Movies	2	In what movie does New York cop John McClane arrive in Los Angeles on Christmas Eve?	Dragnet	Beverly Hills Cop	Shaft	Die Hard
+8935	Action Movies	2	Which of these actresses never played Catwoman in the "Batman" movies or TV series?	Eartha Kitt	Lee Meriwether	Michelle Pfeiffer	Yvonne De Carlo
+97228	Action Movies	2	The movie "Bullitt" involves a spectacular car chase in which city?	Chicago	New York	Los Angeles	San Francisco
+45D596	Action Movies	2	"How far would you go to protect your family?" is the tagline to what 2018 film?	Pickings	The Forgiven	Red Sparrow	Death Wish
+99743	Action Movies	2	In which 2001 movie did Paul Bettany play the character Geoffrey Chaucer?	Memento	Independence Day	Dragonfly	A Knight's Tale
+497022	Action Movies	2	In "Quantum of Solace" what is the airport in Bolivia Bond goes to with Rene Mathis?	Bolivar Airport	Caviahue Airport	General Alvear Airport	La Paz
+8934	Action Movies	2	In the movie "Batman Returns", who was originally slated to play Catwoman?	Cher	Isabella Rossellini	Michelle Pfeiffer	Annette Benning
+515804	Action Movies	2	What is the real name of Electro, the main villain in the 2014 film "The Amazing Spider-Man 2"?	Aleksei Sytsevich	Harry Osborn	Curt Connors	Max Dillon
+515803	Action Movies	2	What nickname did Spider-Man call Electro in the 2014 film "The Amazing Spider-Man 2"?	Twinkles	Shiny	Glitters	Sparkles
+900005	Action Movies	2	In the 2016 film "Captain America: Civil War" there is a rift between Captain America and who?	Deadpool	Winter Soldier	Falcon	Iron Man
+532936	Action Movies	2	Who is the true main antagonist in the film "A Good Day to Die Hard"?	Alik	Irina Komarov	Viktor Chagarin	Yuri Komarov
+8976	Action Movies	2	What actress played Poison Ivy in "Batman And Robin"?	Alicia Silverstone	Nicole Kidman	Sharon Stone	Uma Thurman
+268825	Action Movies	2	Who played Oracle in "The Matrix"?	Linda Hamilton	Daryl Hannah	Gina Torres	Gloria Foster
+1V10308	Action Movies	2	Who was digitally de-aged by about 25 years for their role in "Captain Marvel"?	Brie Larson	Ben Mendelsohn	Seth Rogan	Samuel L. Jackson
+8835	Action Movies	2	In the movie "Alien 3", what is Ripley's first name?	Sharon	Megan	Danielle	Ellen
+8782	Action Movies	2	Which of these bad guys did not die in the James Bond film "Live and Let Die"?	Kananga	Mr. Big	Tee Hee	Baron Samedi
+254623	Action Movies	2	What movie is the character Grace Stamper from?	Crazy/Beautiful	The New Guy	Bringing Down The House	Armageddon
+265730	Action Movies	2	Which star portrayed Danny in the movie "Unleashed"?	Trevor Blumas	Keanu Reeves	Orlando Bloom	Jet Li
+483039	Action Movies	2	The main antagonist of "Super 8" is a colonel in which branch of the US armed forces?	Navy	Army	Coast Guard	Air Force
+496310	Action Movies	2	Which actor plays Bane in "The Dark Knight Rises"?	Aiden Gillen	Burn Gorman	Josh Stewart	Tom Hardy
+504821	Action Movies	2	Who was credited as the director for the 2013 film "Big Sur"?	Brad J. Silverman	Jean-Marc Vallee	Michael Bay	Michael Polish
+462240	Action Movies	2	What is the name of the security system of The Hive in "Resident Evil"?	The Black Queen	The Black Widow	The Grey Queen	The Red Queen
+380155	Action Movies	2	Where does Han go to evade Imperial forces after his escape from Hoth in "The Empire Strikes Back"?	Black Hole	Underground	Jabba's Palace	Asteroid Field
+618D603	Action Movies	2	Where does the heist take place in the film, "Ocean's 8"?	Fort Knox	Academy Awards	Las Vegas Casino	Met Gala
+8936	Action Movies	2	Who did Maggie Gyllenhaal replace as Rachel Dawes in "The Dark Knight"?	Kim Basinger	Jerry Hall	Uma Thurman	Katie Holmes
+45890	Action Movies	2	In the movie "Braveheart", what were William Wallace's last words?	Never Again!	No!	I Am Not Dying Alone!	Freedom!
+45D602	Action Movies	2	What is the name of the virtual reality world in the film "Ready Player One"?	Hyrule	The Animus	Utopia	Oasis
+1V10317	Action Movies	2	Who plays Professor Charles Xavier in the 2019 film, "Dark Phoenix"?	Brad Pitt	Brandon Routh	Billy Crudup	James McAvoy
+8979	Action Movies	2	Which of the following characters killed Dick Grayson's family in "Batman Forever"?	Edward Nigma	Joe Swanson	Tony Zucco	Harvey Dent
+515971	Action Movies	2	Who portrayed Curtis, who led the tail inhabitants in revolt, in the 2014 film "Snowpiercer"?	Jeremy Renner	Sebastian Stan	Chris Hemsworth	Chris Evans
+254833	Action Movies	2	In the film "Be Cool," The Rock does a monologue from what 2000 teen flick?	Lion King	The Wizard Of Oz	E.T.	Bring It On
+272731	Action Movies	2	What character did Bruce Willis play in "The Whole Ten Yards"?	Strabo	Lazlo	Oz	Jimmy
+900006	Action Movies	2	Gal Gadot portrays which superhero in the 2016 film "Batman v Superman: Dawn of Justice"?	Supergirl	Batgirl	Catwoman	Wonder Woman
+496831	Action Movies	2	Who did Giancarlo Giannini play in "Quantum of Solace"?	Felix Leiter	Gregg Beam	Yusef	Rene Mathis
+900007	Action Movies	2	In the 2016 film "Batman v Superman: Dawn of Justice", who plays Lois Lane?	Bella Thorne	Dakota Fanning	Diane Lane	Amy Adams
+268849	Action Movies	2	What year did "Total Recall" come out?	1978	1982	1995	1990
+462295	Action Movies	2	What is staff sergeant John Grimm's nickname in the film "Doom"?	Sarge	Duke	Pat	Reaper
+254642	Action Movies	2	What character did Demi Moore play in "Charlie's Angels: Full Throttle"?	Arwen	Wednesday Addams	Daphne Reynolds	Madison Lee
+481905	Action Movies	2	A 2011 horror film centers around the events of what actually-canceled NASA mission?	Mercury-Atlas X	Ares I-Y	Apollo 15	Apollo 18
+8943	Action Movies	2	What is the real name of the villain in "Batman Returns" called the Penguin?	Edward Nigma	Tyler Penguin	Walter Coldcort	Oswald Cobblepot
+94963	Action Movies	2	In "Batman", who says "Where does he get those wonderful toys"?	The Penguin	Robin	The Riddler	The Joker
+45000	Action Movies	2	In the 1984 movie "Runaway", starring Tom Selleck, what rock star played his nemesis?	Billy Idol	Mick Jagger	Sting	Gene Simmons
+900002	Action Movies	2	In the 2016 film "X-Men: Apocalypse", who plays Jean Grey?	Shailene Woodley	Dakota Johnson	Hailee Steinfield	Sophie Turner
+32017117	Action Movies	2	Who plays the career assassin in "23 Hours To Live'?	Tom Cruise	Jet Li	Jason Statham	Ethan Hawke
+265575	Action Movies	2	What is unique about the first kiss in the movie "Spider-man"?	It's Under Water	It's On A Roof	They're Both Falling	He's Upside Down
+516041	Action Movies	2	Who played the waitress, Eva Sanchez, in the 2014 film "The Purge: Anarchy"?	Roberta Valderrama	Justina Machado	Kiele Sanchez	Carmen Ejogo
+8781	Action Movies	2	Who played Ernst Stavro Blofeld in the film "On Her Majesty's Secret Service"?	Charles Gray	Donald Pleasence	Mitchell Baylis	Telly Savalas
+1V10299	Action Movies	2	Who did Captain Marvel battle in the 2019 film?	Kree	Cobra	Venom	Skrulls
+17438	Action Movies	2	In "Star Wars IV: A New Hope", what is the technical name for a Rebel Snowspeeder?	Incom T-16	Incom T-65	YT-1300	Incom T-47
+504788	Action Movies	2	Who played the role of Sarah Shaw in the film "The Fifth Estate"?	Catherine Keener	Zoe Saldana	Winona Ryder	Laura Linney
+98242	Action Movies	2	In "Jurassic Park", what part of Samuel L. Jackson's body is found in the power station?	Fingers	Leg	Head	Arm
+250513	Action Movies	2	Who played the T-1000 cyborg in "Terminator 2: Judgment Day"?	Billy Barty	Anna Paquin	Kent McCord	Robert Patrick
+481936	Action Movies	2	Ryan Gosling plays a stuntman/getaway driver in what 2011 film by Nicolas Refn?	Beastly	Drive Angry	Fast Five	Drive
+1V10422	Action Movies	2	Where did the film "Captain Marvel" have its premiere on February 27, 2019?	Paris	Toronto	Dallas	London
+410647	Action Movies	2	Who murders Witwer in "Minority Report"?	Jad	Fletcher	Anderton	Burgess
+516000	Action Movies	2	Who was assigned by "The Creators" to capture Optimus Prime in 2014's "Transformers: Age of Extinction"?	Stinger	Galvatron	Traxes	Lockdown
+45D635	Action Movies	2	Scott Eastwood and Tian Jing both star in which 2018 film?	Death Wish	Red Sparrow	Game Night	Pacific Rim: Uprising
+312700	Action Movies	2	Who played Sarah Connor in the film, "Terminator: Dark Fate"?	Linda Carter	Demi Moore	Natalia Reyes	Linda Hamilton
+516042	Action Movies	2	Who informed Leo of the unwritten rule: "do not save people" in the 2014 film "The Purge: Anarchy"?	Warren	Carmelo	Shane	Big Daddy
+618D643	Action Movies	2	Who curated the soundtrack for the film, "SuperFly"?	Dave Chappelle	Jay-Z	Kanye West	Future
+380189	Action Movies	2	In "Star Wars: Episode V - The Empire Strikes Back", how does the Empire find the Rebel Base?	Spies	The Senate Tells Them	They Find An Abandoned Ship	Probe Droids
+496830	Action Movies	2	Gemma Arterton played which character with a Beatles inspired name in "Quantum of Solace"?	Penny Lane	Rocky Raccoon	Sexy Sadie	Strawberry Fields
+1V10449	Action Movies	2	Eddie Brock and Carlton Drake are character from which film?	Dark Phoenix	Hellboy	Spider‑Man: Far From Home	Venom
+496309	Action Movies	2	Which actor plays Alfred in "The Dark Knight Rises"?	Morgan Freeman	Matthew Modine	Marion Cotillard	Michael Caine
+1V10410	Action Movies	2	In "Aquaman" the city of Atlantis is ruled by what power-hungry King?	King Leo	Aquaman	King James	King Orm
+79935	Action Movies	2	In which city is the school pictured in the movie "Top Gun" located?	San Diego	Monterey	Los Angeles	Miramar
+481926	Action Movies	2	Which 2011 action film starred Nicolas Cage and Ron Perlman as Teutonic knights?	The Rite	I Saw the Devil	Warrior	Season of the Witch
+481923	Action Movies	2	Liam Neeson is chased by a pack of wolves in a 2012 thriller named for which color?	White	Black	Red	Grey
+632	Action Movies	2	Which woman was the original "Terminator" sent back to kill?	Cindy Carlson	Sandra O'Connor	Sally Conners	Sarah Connor
+103918	Action Movies	2	In "Independence Day" what does the U.S. use to first communicate with the aliens?	Flags	Music	Pictures	Lights
+462161	Action Movies	2	What is the name of the Hollywood movie star in "Mortal Kombat"?	Joey Wrecked	Frank Worell	John Wayne	Johnny Cage
+515972	Action Movies	2	Who played Curtis' mentor, Gilliam, in the 2014 film "Snowpiercer"?	Tilda Swinton	Ed Harris	Jamie Bell	John Hurt
+462163	Action Movies	2	Who is the god of lightning and Earthrealm's defender in "Mortal Kombat"?	Maiden	Wooden	Raider	Raiden
+80998	Action Movies	2	Where was the majority of "Braveheart" filmed?	England	Scotland	United States	Ireland
+265770	Action Movies	2	Which of these major movies featured Will Yun Lee and Kirsten Prout?	The Wedding Date	Hitch	Son Of The Mask	Elektra
+9183020	Action Movies	2	Denzel Washington plays what character in the "The Equalizer 2"?	John Moore	Miles Whittaker	Syd Barrett	Robert McCall
+1V10335	Action Movies	2	What is the title of the 2019 American superhero horror film directed by David Yarovesky?	Joker	Brightwitch	Glass	Brightburn
+900008	Action Movies	2	What is the real name of Deadpool according to the 2016 film?	Gavin Jones	Ben Berman	Luke Terence	Wade Wilson
+1V10416	Action Movies	2	Who directed the blockbuster film "Aquaman"?	Jon Watts	Steven Spielberg	Jon Bream	James Wan
+1V10332	Action Movies	2	What movie was filmed under the working title "Fall of George"?	Dark Phoenix	Captain Marvel	Avengers: Endgame	Spider-Man: Far From Home
+90I10002	Action Movies	2	Who stars as Agent Burns in "Bumblebee"?	Clint Eastwood	Ben Stiller	Alec Baldwin	John Cena
+481930	Action Movies	2	Steven Spielberg's "War Horse" is set during which war?	World War II	Crimean War	Korean War	World War I
+380289	Action Movies	2	How is Boba Fett killed in "Return of the Jedi"?	Shot By Han Solo	Lightsaber Wound	Blows Up On Jabba's Ship	Eaten By Sarlacc
+250393	Action Movies	2	Who played Robert the Bruce in "Braveheart" and in "Robert the Bruce"?	Ethan Phillips	Robert Duncan McNeill	Marne Patterson	Angus Macfadyen
+462299	Action Movies	2	From the restaurant of which city Agent 47 and Nika abducts Price in "Hitman"?	Tokyo	San Francisco	Dallas	Istanbul
+516001	Action Movies	2	Who transforms into a green 2004 Hummer H2 Ambulance in the 2014 film "Transformers: Age of Extinction"?	Drift	Crosshairs	Hound	Ratchet
+223313	Action Movies	2	What talk show host played themselves in "The Long Kiss Goodnight"?	Johnny Carson	Geraldo Rivera	Oprah	Larry King
+516002	Action Movies	2	Who played paranoid CIA agent Harold Attinger in the 2014 film "Transformers: Age of Extinction"?	Charles Parnell·	Titus Welliver	Stanley Tucci	Kelsey Grammer
+224090	Action Movies	2	What year did the movie "Armageddon" come out?	1996	1995	1994	1998
+254485	Action Movies	2	What movie is about a feisty taxicab driver and a cop chasing bad guys?	Are We There Yet?	Finding Neverland	Matchstick Men	Taxi
+483051	Action Movies	2	What occupation does Ryan Reynolds' character hold down before becoming a superhero in "Green Lantern"?	Firefighter	Mercenary	Scientist	Test Pilot
+899992	Action Movies	2	In the 2016 film "Suicide Squad", who plays the Joker?	Will Smith	Channing Tatum	James Franco	Jared Leto
+191682	Action Movies	2	What movie are Agents J and K (Will Smith and Tommy Lee Jones) from?	Monsters, Inc.	Mr. Deeds	Shrek	Men In Black I And II
+462314	Action Movies	2	In "Tomb Raider: The Cradle of Life", Jonathan Reiss is the winner of which prize?	Pulitzer	Oscar	Booker	Nobel
+1V10320	Action Movies	2	Who does Texas born actor Tye Sheridan play in the 2019 film, "Dark Phoenix'?	Hulk	Nightcrawler	Storm	Cyclops
+1V10419	Action Movies	2	What actress plays Y'Mera Xebella "Mera" Challa in the 2018 movie "Aquaman"?	Hayley Atwell	Jenna Coleman	Teresa Palmer	Amber Heard
+1V10434	Action Movies	2	What 2019 film includes the characters The Blood Queen and Professor Broom?	Captain Marvel	Glass	Dark Phoenix	Hellboy
+73453	Action Movies	2	Who played the role of a younger Indiana Jones in "The Last Crusade"?	Christian Slater	Leonardo DiCaprio	Michael J. Fox	River Phoenix
+504721	Action Movies	2	What film stars both Amber Heard and Mel Gibson?	Ender's Game	Big Sur	Philomena	Machete Kills
+17450	Action Movies	2	Where did Luke Skywalker make his new lightsaber after his Cloud City battle with Vader?	His Foster Parents' Moisture Farm	On The Millennium Falcon	Yavin IV Jedi Academy	Ben Kenobi's House
+3996	Action Movies	2	According to "Star Wars: A New Hope", what was C-3PO's first job?	Etiquette And Protocol	Translation	Vehicular Repair	Programming Binary Load Lifters
+19FM9102	Action Movies	2	Who plays JJ Shaft in the 2019 version of "Shaft"?	Method Man	Samuel L. Jackson	Richard Roundtree	Jessie T. Usher
+100027	Action Movies	2	In which 1996 movie did Judd Hirsch play the character Julius Levinson?	Pitch Black	What Women Want	Gladiator	Independence Day
+17363	Action Movies	2	What actor played Emperor Palpatine in "Return of the Jedi"?	Clive Revill	Ian Bryce	Robert Latham Brown	Ian McDiarmid
+8893	Action Movies	2	What is the sequel to the movie "Re-Animator"?	Herbert West - Re-Animator	Re-Animator Lives!	Re-Animated	Bride Of Re-Animator
+283446	Action Movies	2	As it relates to Mel Gibson, what part did Heath Ledger play in the 2000 movie "The Patriot"?	His Enemy	His Body Double	His Stunt Double	His Son
+250536	Action Movies	2	Who was in "Tank Girl" & "Point Break"?	Beverley Mitchell	Chris Penn	Sean Penn	Lori Petty
+504849	Action Movies	2	The premiere of "Fast & Furious 6" on May 7, 2013 was at the Empire cinema at what location?	Brooklyn, New York	Hollywood, California	Monaco	Leicester Square, London
+8774	Action Movies	2	What was the name of the diminutive helicopter James Bond piloted in "You Only Live Twice"?	Little Charlie	Little Penny	Little Queenie	Little Nellie
+504780	Action Movies	2	Who played the role of Andrea Phillips in the film "Captain Phillips"?	Natalie Portman	Jennifer Garner	Keira Knightley	Catherine Keener
+397298	Action Movies	2	What character in the film "Alien" ends up with an alien attached to his face?	Ash	Dallas	Parker	Kane
+462056	Action Movies	2	What year was the box office bomb "Cutthroat Island" released?	1985	1975	2005	1995
+618D631	Action Movies	2	What actor plays Tobias Beckett in "Solo: A Star Wars Story"?	Tom Hanks	Paul Bettany	Donald Sutherland	Woody Harrelson
+462156	Action Movies	2	Who played the role of Lara's father Lord Richard Croft in "Lara Croft: Tomb Raider"?	Daniel Craig	Leslie Phillips	Clint Eastwood	Jon Voight
+481931	Action Movies	2	David Fincher's "The Girl With the Dragon Tattoo" is a remake of a 2009 film in which language?	German	French	Russian	Swedish
+100003	Action Movies	2	In which 2000 movie did Bruce Willis play the character Jimmy "The Tulip" Tudeski?	Kiss Of The Dragon	Sorority Boys	Independence Day	The Whole Nine Yards
+380207	Action Movies	2	What was Luke's rank in the Rebel army in "The Empire Strikes Back"?	Jedi Master	Captain	Sergeant	Commander
+462285	Action Movies	2	Who played the role of Nizam in "Prince of Persia: The Sands of Time"?	Val Kilmer	Harrison Ford	Anthony Quinn	Ben Kingsley
+265852	Action Movies	2	What two main characters were featured in the 2005 movie "Constantine"?	Jacob Grimm And Wilhelm Grimm	Ben And Al	Alex And Marty	John Constantine And Chas
+230740	Action Movies	2	In the film "Around the World in 80 Days" who co-starred with Jackie Chan?	Drew Barrymore	James Caan	Kirsten Dunst	Steve Coogan
+17479	Action Movies	2	In "Star Wars: Episode IV - A New Hope", what is the common name for the Incom T-65B Starfighter?	Skyhopper	Tie Defender	Y-Wing	X-Wing
+1V10305	Action Movies	2	Who played Yon-Rogg in the film "Captain Marvel"?	Tom Cruise	Clark Gregg	Seth Rogan	Jude Law
+9183003	Action Movies	2	In what movie is American black operations agent James Silva a character?	8 Mile	Life Itself	Operation Finale	Mile 22
+1V10356	Action Movies	2	Rosa Vasquez is a character in which film?	Avengers: Endgame	Avengers: Infinity War	Aquaman	Shazam!
+481907	Action Movies	2	Which science fiction film from 2011 centered around a robot fighting league?	The Mighty Macs	Immortals	Rock 'Em Sock 'Em	Real Steel
+265847	Action Movies	2	The action film "Assault on Precinct 13" was about which two characters?	Jeff Talley And Walter Smith	Sam Snead And Tiger Jones	Charles And Orlando	Smiley And Sgt. Jake Roenick
+230858	Action Movies	2	What film is about a female assassin attacked on her wedding day?	White Chicks	Dodgeball	The Bourne Supremacy	Kill Bill: Vol. 1
+220165	Action Movies	2	Who directed the 1989 thriller, "Batman"?	Bernard Rose	Charles Shyer	Sylvester Stallone	Tim Burton
+21083	Action Movies	2	What did young Indiana attempt to recover in "Indiana Jones and the Last Crusade"?	His Mother's Remains	Dagger Of Cortez	Holy Grail	Cross Of Coronado
+222438	Action Movies	2	What 1998 movie included the characters Captain Fred Hamill and Private 1st Class Richard Reiben?	U.S. Marshals	Three To Tango	Lorenzo's Oil	Saving Private Ryan
+618D611	Action Movies	2	What was the tagline for the 2018 film "Deadpool 2"?	Be First To See The Second	Ready Steady Two!	Let There Be Two!	Prepare For The Second Coming
+380290	Action Movies	2	Who kills Jabba in "Star Wars: Episode VI - Return of the Jedi"?	Luke Skywalker	Han Solo	Lando Calrissian	Leia
+26106	Action Movies	2	Who wrote the original screenplay for "The Terminator"?	Arnold Schwarzenegger	Gail-Anne Hurd	John Carpenter	James Cameron
+96568	Action Movies	2	What kind of jet did Tom Cruise fly in the movie "Top Gun"?	F-18 Hornet	F-15 Eagle	F-111 Aardvark	F-14 Tomcat
+32206	Action Movies	2	What was Bruce Willis' character's name is "Die Hard"?	Jack McClancey	Jack McCleary	John McCleary	John McClane
+96005	Action Movies	2	What is the name of the robot Lara Croft trains with in "Tomb Raider"?	Damon	Edgar	Alex	Simon
+223229	Action Movies	2	In what year did "Braveheart" win the best picture Oscar?	1980	1969	1939	1995
+223976	Action Movies	2	In what year does "Minority Report" take place?	3906	2008	1999	2054
+504789	Action Movies	2	What actress did the role of Valentine Wiggin in the film "Ender's Game"?	Kate Bosworth	Evangeline Lilly	Amber Heard	Abigail Breslin
+88522	Action Movies	3	Who sang the theme song to the Bond film "The World Is Not Enough"?	Sheryl Crow	Tina Turner	Sheena Easton	Garbage
+532952	Action Movies	3	Which actor portrayed CIA agent and Jack McClane's partner Mike Collins in "A Good Day to Die Hard"?	Jai Courtney	Amaury Nolasco	Sebastian Koch	Cole Hauser
+354181	Action Movies	3	Who is the leader of the Autobots in the 2007 movie "Transformers"?	Megatron	Ratchet	Starscream	Optimus Prime
+90I10004	Action Movies	3	In what decade is "Captain Marvel" set?	2010s	1950s	1980s	1990s
+214467	Action Movies	3	What year did Timothy Dalton make his debut as Bond?	1985	1986	1988	1987
+54394	Action Movies	3	In the movie "Jurassic Park", where is the headquarters of InGen located?	Beverly Hills	San Diego	San Francisco	Palo Alto
+46628	Action Movies	3	In "Batman Returns", where is Bruce Wayne when he first sees the Bat Signal?	At WayneTech	In The Batmobile	Outside Wayne Manor	In His Study
+462159	Action Movies	3	Who directed the movie "Mortal Kombat" released in 1995?	Lauri Apelian	Ron Howard	Kevin Droney	Paul W.S. Anderson
+296168	Action Movies	3	In the movie "X-Men: The Last Stand", why does Rogue wear gloves all the time?	She Doesn't Want To Break A Nail	She Has Claws	She Has Ugly Fingers	If She Touches People, She Drains Power Out Of Them
+21948	Action Movies	3	Who played the Russian mob boss in the James Bond movie "Goldeneye"?	Michael Caine	Robert Shaw	Topol	Robby Coltraine
+532911	Action Movies	3	In "Live Free or Die Hard", what is the name of the cyber-terrorist attack launched on the U.S.?	Blackout	Traffic Jam	Break-In	Fire Sale
+496827	Action Movies	3	What country is the plot of "Quantum of Solace" mostly about?	China	Mexico	Argentina	Bolivia
+250426	Action Movies	3	Who is the French actor playing Angelo in "The Horseman on the Roof"?	Colm Meaney	Ke Huy Quan	Marne Patterson	Olivier Martinez
+516065	Action Movies	3	Who played Taneleer Tivan, aka The Collector, in the 2014 film "Guardians of the Galaxy"?	Michael Rooker	Lee Pace	Djimon Hounsou	Benicio Del Toro
+499202	Action Movies	3	Which Star Trek film is about Mr. Spock's long-lost half-brother who hijacks the Enterprise?	Star Trek: First Contact	Star Trek: The Motion Picture	Star Trek II: The Wrath of Khan	Star Trek V: The Final Frontier
+462154	Action Movies	3	Who played the role of Alex West in "Lara Croft: Tomb Raider"?	Jon Voight	Noah Taylor	Russell Crowe	Daniel Craig
+311970	Action Movies	3	Which supervillain was the first to defeat Spider-Man?	Sandman	Doc Ock	Optimus Prime	The Green Goblin
+499190	Action Movies	3	Which Star Trek film includes Todd Bryant as Captain Klaa and Spice Williams-Crosby as Vixis?	Star Trek: First Contact	Star Trek IV: The Voyage Home	Star Trek III: The Search for Spock	Star Trek V: The Final Frontier
+61837	Action Movies	3	How many years did it take to film "Braveheart"?	Six	Three	One	Four
+99911	Action Movies	3	In which 2000 movie did Hugh Jackman play the character Wolverine?	Erin Brockovich	Orange County	A Walk To Remember	X-Men
+215142	Action Movies	3	Name the one armed villain in "Live and Let Die".	Whisper	Baron Samedi	Mr. Big	Tee-Hee
+1V10323	Action Movies	3	How long is the running time for the film "Dark Phoenix"?	48 Minutes	99 Minutes	175 Minutes	114 Minutes
+296164	Action Movies	3	In the movie "X-Men: The Last Stand", where does the actor Hugh Jackman, who plays Wolverine, come from?	China	United States	England	Australia
+497023	Action Movies	3	In "Quantum of Solace" Greene's bodyguards use what guns as they pursue Bond during the Tosca performance?	Rohrbaugh R9s Stealth	SIG P210	IMI Uzi	Glock 17
+499200	Action Movies	3	Which movie is about going to the restricted Genesis planet to recover Spock's body?	Star Trek II: The Wrath of Khan	Star Trek: Into Darkness	Star Trek: Insurrection	Star Trek III: The Search for Spock
+79942	Action Movies	3	In the movie "Top Gun" starring Tom Cruise, in what ocean is the aircraft carrier located?	Pacific	Arctic	Atlantic	Indian
+899999	Action Movies	3	In the 2016 film "Doctor Strange", who portrays Dr. Stephen Strange?	Luke Grimes	Orlando Bloom	Robert Pattinson	Benedict Cumberbatch
+90I10005	Action Movies	3	What is the runtime of "Avengers: Endgame"?	82 minutes	302 minutes	122 minutes	182 minutes
+220359	Action Movies	3	The movie, "Die Hard 2", was directed by whom?	Carl Gottlieb & Joe Dante	Garry Marshall	Ron Howard	Renny Harlin
+99992	Action Movies	3	In which 2000 movie did Dylan Baker play the character Henry West?	Fargo	Resident Evil	The Patriot	The Cell
+408933	Action Movies	3	Who was the lead costume designer for "The Dark Knight"?	Bob Ringwood	Angus Strathie	Pitof	Lindy Hemming
+49959	Action Movies	3	What name was given to "Return of the Jedi" in order to preserve secrecy while filming?	Dr. X-Ray	Return Of The Whiney Boy	Revenge Of The Jedi	Blue Harvest
+499230	Action Movies	3	Who directed the film, "Star Trek: Insurrection"?	Leonard Nimoy	Richard Marquand	Irvin Kershner	Jonathan Frakes
+64344	Action Movies	3	Who was the voice of Yoda in "The Empire Strikes Back"?	George Lucas	James Earl Jones	Jim Henson	Frank Oz
+59116	Action Movies	3	What is the name of Ripley's cat in "Alien"?	Jax	Jack	Jumpy	Jonesy
+78017	Action Movies	3	In which two James Bond movies did the character "Q" not appear?	A View To A Kill, Goldfinger	The Living Daylights, Moonraker	Moonraker, Tomorrow Never Dies	Dr. No, Live And Let Die
+288362	Action Movies	3	Which actor does not appear in "V for Vendetta"?	Hugo Weaving	Stephen Rea	John Hurt	Jonathan Rhys Meyers
+58313	Action Movies	3	Which of the following was one of Mr. Big's henchmen in the James Bond movie "Live and Let Die"?	Jaws	Gobinda	Oddjob	Baron Samedi
+516045	Action Movies	3	Who played police sergeant Leo Barnes in the 2014 film "The Purge: Anarchy"?	Michael K. Williams	Jack Conley	Zach Gilford	Frank Grillo
+900003	Action Movies	3	How many cameos has "X-Men" creator Stan Lee had including the 2016 film "X-Men: Apocalypse"?	7	2	5	3
+223844	Action Movies	3	The movie "No Way Out" with Kevin Costner came out which year?	1981	1996	1992	1987
+1V10314	Action Movies	3	Who directed the film "Dark Phoenix"?	James Gunn	David F. Sandberg	Luc Besson	Simon Kinberg
+515988	Action Movies	3	The 2014 film "Snowpiercer" is based on what French graphic novel by Jacques Lob?	Barres De Proteines	L'Age De Glace	Le Train Perpetuel	Le Transperceneige
+462176	Action Movies	3	On which game is the 1997 movie "Mortal Kombat: Annihilation" based?	Mortal Kombat 4	Mortal Kombat 5	Mortal Kombat 6	Mortal Kombat 3
+287860	Action Movies	3	Which character is Ethan Hunt's girlfriend in "Mission: Impossible III"?	Lindsey	Zhen	Beth	Julia
+499195	Action Movies	3	Alan Dale played Praetor Hiren and Jonathan Frakes played William Riker in which film?	Star Trek: Insurrection	Star Trek VI: The Undiscovered Country	Star Trek IV: The Voyage Home	Star Trek: Nemesis
+100770	Action Movies	3	What is the Sub-title of the first "X-Files" movie?	Believe The Lie	The Truth Is Out There	Deny Everything	Fight The Future
+499228	Action Movies	3	Star Trek: Generations was directed by whom?	Leonard Nimoy	Robert Wise	Nicholas Meyer	David Carson
+21945	Action Movies	3	Who played Solitaire in one of the James Bond movies?	Britt Eklund	Famke Janssen	Maud Adams	Jane Seymour
+483045	Action Movies	3	In which year does "Super 8" take place?	1969	1989	1999	1979
+21947	Action Movies	3	How did Felix Leiter in "Never Say Never Again" differ from his other James Bond movie appearances?	Felix Was A Woman	Felix Was Bad	Felix Wore An Eye Patch	Felix Was African-American
+311971	Action Movies	3	Adrian Toomes is the real name of what Spider-Man villain?	The Rhino	Sandman	The Green Goblin	Vulture
+192258	Action Movies	3	In what 1998 movie did Vin Diesel play the character Caparzo?	Pitch Black	The Fast And The Furious	Boiler Room	Saving Private Ryan
+97077	Action Movies	3	Who was originally asked to do "Raiders of the Lost Ark", but turned it down?	Harry Hamlin	Nick Nolte	Kurt Russell	Tom Selleck
+61821	Action Movies	3	What disease did Admiral James Greer have in the movie "Clear and Present Danger"?	Prostate Cancer	Liver Cancer	Lung Cancer	Pancreatic Cancer
+287707	Action Movies	3	Which thespian was originally cast in "Mission: Impossible III", only to leave before production began?	Ricky Gervais	Kenneth Branagh	Scarlett Johansson	Thandie Newton
+401794	Action Movies	3	What race is Speed Racer determined to win to avenge his brother's death in the 2008 movie?	Indy 5000	Rover Race Cup 10	X-Cross 1000	Casa Cristo Classic 5000
+8814	Action Movies	3	Who played the "Creature from the Black Lagoon" in the underwater scenes?	Ben Chapman	Eddie Parker	Kevin Clement	Rico Browning
+92868	Action Movies	3	Who played Private First Class Melvin Peterson in, "A Soldier's Story"?	Morgan Freeman	Richard Gere	Martin Sheen	Denzel Washington
+1V10326	Action Movies	3	Who directed the superhero film, "Spider-Man: Far From Home"?	Jacob Batalon	Sam Raimi	Grant Curtis	Jon Watts
+267642	Action Movies	3	Who is the streetwise Memphis pimp yearning to be a rap star from "Hustle and Flow"?	Nola	Shug	Otto	Djay
+354178	Action Movies	3	What do many of the robots in the 2007 movie "Transformers" turn into?	People	Washing Machines	Stereos	Cars
+354176	Action Movies	3	What are the "good guys" called in the 2007 movie "Transformers"?	Decepticons	GoBots	Cobra	Autobots
+54396	Action Movies	3	In the movie "Jurassic Park", what is the name of the island that Jurassic Park is located on?	Isla Muertes	Isla Sorna	Site B	Isla Nublar
+618D629	Action Movies	3	Which was a working title for the film "Solo: A Star Wars Story"?	Going Solo	Star Wars: Again	Star Wars: Opie One	Star Wars: Red Cup
+224099	Action Movies	3	What year did the movie "Clear and Present Danger" come out?	1999	1996	1997	1994
+516064	Action Movies	3	Who played the leader of the Nova Corps of the planet Xandar in the 2014 film "Guardians of the Galaxy"?	Susan Sarandon	Diane Keaton	Janet McTeer	Glenn Close
+389697	Action Movies	3	Which rapper appears in the 2007 film "American Gangster"?	Ludacris	Jay-Z	Tupac	T.I.
+99912	Action Movies	3	In which 2000 movie did James Marsden play the character Cyclops?	Fargo	O Brother, Where Art Thou?	Independence Day	X-Men
+80435	Action Movies	3	What was Neo's given name in the 1999 movie "The Matrix"?	Thomas Smith	Thomas Andrews	Thomas Elliot	Thomas Anderson
+230733	Action Movies	3	Who starred with Kirsten Dunst in "Kaena: The Prophecy"?	Kate Beckinsale	Jennifer Aniston	Sarah Michelle Gellar	Anjelica Huston
+45D608	Action Movies	3	Who portrays the protagonist Wade Watts in the film "Ready Player One"?	Nick Robinson	Miles Teller	Dane DeHaan	Tye Sheridan
+1V10425	Action Movies	3	Who is a Kree swordsman and second-in-command of Starforce from "Captain Marvel"?	Talos	Joojer	Soupy	Korath
+467813	Action Movies	3	What book is the movie "Die Hard" based on?	Black Cherry Blues	True Detective	The Black Dahlia	Nothing Lasts Forever
+79566	Action Movies	3	What was the full name of Simon, the villain in "Die Hard With a Vengeance"?	Carl Simon Gruber	Hans Simon Gruber	Simon Fritz Gruber	Simon Peter Gruber
+499199	Action Movies	3	Which film is about a life-generating device, the Genesis Device, as the ultimate weapon?	Star Trek: Generations	Star Trek IV: The Voyage Home	Star Trek III: The Search for Spock	Star Trek II: The Wrath of Khan
+234686	Action Movies	3	Which actor appeared in the film, "Blade"?	Balthazar Getty	Kevin Daniels	Robert Patrick	Tim Guinee
+532954	Action Movies	3	Which actor portrayed Yuri Komarov's former partner Viktor Chagarin in "A Good Day to Die Hard"?	Amaury Nolasco	Sebastian Koch	Radivoje Bukvic	Sergei Kolesnikov
+100020	Action Movies	3	In which 2000 movie did Christian Bale play the character Walter Wade, Jr.?	Scream 3	Fargo	The Animal	Shaft
+329454	Action Movies	3	In which legendary Hong Kong studio were parts of the "Kill Bill" movies filmed?	Cathay	Golden Harvest	Cinema City	Shaw Brothers
+499196	Action Movies	3	Alan Ruck played Captain John Harriman and Tim Russ played Tuvok in which Star Trek movie?	Star Trek: Nemesis	Star Trek III: The Search for Spock	Star Trek: The Motion Picture	Star Trek: Of Gods and Men
+499192	Action Movies	3	Malcolm McDowell played Soran and Jacqueline Kim played Demora in which Star Trek movie?	Star Trek II: The Wrath of Khan	Star Trek IV: The Voyage Home	Star Trek: Into Darkness	Star Trek: Generations
+354180	Action Movies	3	Who is Optimus Prime's rival and leader of the Decepticons in the 2007 movie "Transformers"?	Barricade	Starscream	Blackout	Megatron
+58359	Action Movies	3	Who wrote the title song to the James Bond film "Goldeneye"?	A-Ha	Duran Duran	Tina Turner	Bono And The Edge
+234688	Action Movies	3	Which actor did stunts in the film "Kill Bill: Vol. 1"?	Robert Patrick	Tim Guinee	James E. Ash	Sho Brown
+288359	Action Movies	3	Which musical piece cannot be heard in "V for Vendetta"?	Yackety Sax	Street Fighting Man	The Girl from Ipanema	Carmina Burana
+900000	Action Movies	3	Who portrays The Ancient One in the 2016 film "Doctor Strange"?	Brie Larson	Maika Monroe	Mia Wasikowska	Tilda Swinton
+515908	Action Movies	3	Who wrote the light novel "All You Need Is Kill", the inspiration for the 2014 film "Edge of Tomorrow"?	Keiji Kiriya	Chohei Kanbayashi	Yasutaka Tsutsui·	Hiroshi Sakurazaka
+88521	Action Movies	3	Who sang the theme song of the Bond film "The Man with the Golden Gun"?	Sheena Easton	Gladys Knight	Nancy Sinatra	Lulu
+516004	Action Movies	3	Which Autobot was a former Decepticon tactician in the 2014 film "Transformers: Age of Extinction"?	Ratchet	Hound	Crosshairs	Drift
+618D601	Action Movies	3	Jurassic World: Fallen Kingdom takes place how many years after the Jurassic World theme park was closed?	1 Year	10 Years	5 Years	4 Years
+499201	Action Movies	3	Which movie revolves around Admiral Kirk and his fugitive crew going back in time to 20th century Earth?	Star Trek: Of Gods and Men	Star Trek III: The Search for Spock	Star Trek II: The Wrath of Khan	Star Trek IV: The Voyage Home
+532951	Action Movies	3	Which actor portrayed government whistleblower Yuri Komarov in "A Good Day to Die Hard"?	Cole Hauser	Amaury Nolasco	Sergei Kolesnikov	Sebastian Koch
+515907	Action Movies	3	Which actor played Master Sergeant Farell in the 2014 sci-fi film "Edge of Tomorrow"?	Kick Gurry·	Brendan Gleeson	Noah Taylor	Bill Paxton
+481964	Action Movies	3	What is Gary Oldman's character's codename in the 2011 spy drama "Tinker, Tailor, Soldier, Spy"?	Tinker	Tailor	Poorman	Beggarman
+265689	Action Movies	3	What actor played Will Stronghold in "Sky High"?	Terrence Howard	Keanu Reeves	Adam Sandler	Michael Angarano
+516046	Action Movies	3	Who played Shane's partner, Liz, in the 2014 film "The Purge: Anarchy"?	Justina Machado	Zo? Soul	Carmen Ejogo	Kiele Sanchez
+234684	Action Movies	3	Which actor appeared in the film "Torque"?	Joaquin Phoenix	John Travolta	Morris Chestnut	Jay Hernandez
+230737	Action Movies	3	Who starred with Vin Diesel in "The Chronicles of Riddick"?	James Garner	Matthew Broderick	Kate Beckinsale	Judi Dench
+397163	Action Movies	3	In which country is the film "Mad Max" set?	United States Of America	Canada	Mexico	Australia
+462311	Action Movies	3	Which military dictator is the main villain in "Street Fighter"?	Rue	Masters	Volza	Bison
+61003	Action Movies	3	In the movie "Saving Private Ryan", which of the Ryan brothers was killed on the same beach that Tom Hanks' regiment fought on?	Peter Ryan	James Ryan	Daniel Ryan	Shawn Ryan
+532953	Action Movies	3	Which actor portrayed the villain Alik in the film "A Good Day to Die Hard"?	Amaury Nolasco	Sebastian Koch	Sergei Kolesnikov	Radivoje Bukvic
+462162	Action Movies	3	Who was the original choice for playing Sonya Blade in "Mortal Kombat"?	Angelina Jolie	Kate Winslet	Halle Berry	Cameron Diaz
+499227	Action Movies	3	Who was director on the film, "Star Trek VI: The Undiscovered Country"?	Stuart Baird	J.J. Abrams	Irvin Kershner	Nicholas Meyer
+401805	Action Movies	3	Where does Tony Stark AKA "Iron Man" call home?	Miami	Chicago	New York City	Malibu
+224091	Action Movies	3	What year did the movie "Backdraft" come out?	1993	1998	1999	1991
+221891	Action Movies	3	What 1999 movie included the characters named Chicago and Thomas Aquinas?	Notting Hill	Ironweed	The Mexican	End Of Days
+401801	Action Movies	3	Robert Downey Jr. plays "Iron Man", better known as whom when he's not fighting crime?	Clark Kent	Ralph Humble	Mark Anthony	Tony Stark
+224088	Action Movies	3	What year did the movie "Air Force One" come out?	1990	1994	1996	1997
+496832	Action Movies	3	During filming "Quantum of Solace" what country was used to double for Haiti and Bolivia?	Columbia	Bahamas	Costa Rica	Panama
+354182	Action Movies	3	In 2007's "Transformers", who claims this motto: "Freedom is the right of all sentient beings"?	Bumblebee	Ironhide	Frenzy	Optimus Prime
+255629	Action Movies	3	What does Belle Williams dream of being in "Taxi"?	A Hairstylist	A Model	Pit Stop Crew	Race Car Driver
+462297	Action Movies	3	Interpol agent Mike Whittier is asked to kill which Russian president in "Hitman"?	Vladimir Putin	Sergey Barbatov	Mikhail Kalhan	Mikhail Belicoff
+378187	Action Movies	3	Originally a VW Beetle, what kind of car was Bumblebee in 2007's version of "Transformers"?	Corvette	PT Cruiser	Prius	Camaro
+21949	Action Movies	3	Who played James Bond's CIA contact in "Goldeneye"?	Bernie Casey	Powers Booth	Robby Coltraine	Joe Don Baker
+46606	Action Movies	3	Who wrote the screenplay for "Batman"?	Bob Kane	Jack Kirby	Tim Burton	Sam Hamm
+254618	Action Movies	3	Dylan Sanders is a character in which of these films?	Bringing Down The House	Ghost Ship	Spy Kids	Charlie's Angels
+265698	Action Movies	3	Which star portrayed Smiley in the movie "Assault on Precinct 13"?	Mark Wahlberg	Tommy Lee Jones	John C. Reilly	Ja Rule
+288254	Action Movies	3	In which city is "The Inside Man "starring Denzel Washington set?	Philadelphia	Baltimore	Boston	New York City
+54099	Action Movies	3	In the book "Jurassic Park", what type of tepees does Grant's research team use in the badlands?	Apache	Creek	Sioux	Blackfoot

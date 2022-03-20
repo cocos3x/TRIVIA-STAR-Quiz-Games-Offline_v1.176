@@ -1,0 +1,458 @@
+SKU	Title	Author	Rarity	Collection
+3AA171D64EEECC0B2A303AF144E7CF6D	A Christmas Carol	Charles Dickens	C	Charles Dickens I
+C55215698B92BB80396AA30221BDFD31	Oliver Twist	Charles Dickens	C	Charles Dickens I
+7881F40331A68EE9ADBC6B97DB9A5DD0	Hard Times	Charles Dickens	C	Charles Dickens I
+3572C036CF412A2493BDF5955E97467B	The Old Curiosity Shop	Charles Dickens	C	Charles Dickens I
+F8B8B152FFE7371495B424CB892B255A	Barnaby Ridge	Charles Dickens	U	Charles Dickens I
+57AD2DFD5C2D84407B0E003798898161	Nicholas Nickleby	Charles Dickens	U	Charles Dickens I
+B5051AA7E7FE8E289943C3309C15EC28	Martin Chuzzlewit	Charles Dickens	U	Charles Dickens I
+30C4E4A91EAB539C3EBD9CBBBD129066	The Chimes	Charles Dickens	R	Charles Dickens I
+D5FC22870E7409277FAB30D1753AC149	The Cricket on the Hearth	Charles Dickens	R	Charles Dickens I
+51885B44A42711D28148BEABA1675FB7	Dombey and Son	Charles Dickens	SR	Charles Dickens I
+A542C3D5CC1FC14A4AFA8DF1D760F46E	The Haunted Man	Charles Dickens	C	Charles Dickens II
+5EC436CC2C701973EEBD04DEB7916AE3	The Pickwick Papers	Charles Dickens	C	Charles Dickens II
+C5570BBE4FD73C2ADF4F1017B5491DA2	A Tale of Two Cities	Charles Dickens	C	Charles Dickens II
+C346425CD49BB315167BB1915956987A	Great Expectations	Charles Dickens	C	Charles Dickens II
+64FE3CE9738A038D3F474F72CC0FB7A1	Little Dorrit	Charles Dickens	U	Charles Dickens II
+B9127FD175591525114EB646D66BE3CB	David Copperfield	Charles Dickens	U	Charles Dickens II
+62D0BBF5AF805A7FEEABE6DDF1D16100	Bleak House	Charles Dickens	U	Charles Dickens II
+4FD78E8321C1C6C1B362E169156D7E6A	Our Mutual Friend	Charles Dickens	R	Charles Dickens II
+290A193C27FE25FDEF09B2F0F3B83301	The Signal-Man	Charles Dickens	R	Charles Dickens II
+87BAA5A0E45A00987D54E945FEAB1D23	Edwin Drood	Charles Dickens	SR	Charles Dickens II
+7E46BE65620D0C1CB6C91C992308070B	Adventures of Huckleberry Finn	Mark Twain	C	Mark Twain
+228115D9AD7410F482D48E7B88EE8374	Adventures of Tom Sawyer	Mark Twain	C	Mark Twain
+04B7D4C610CB7D9E98C3E896DD823773	A Dog's Tale	Mark Twain	C	Mark Twain
+04B5529FD7E33745056C5CE35DEA7B4E	The Gilded Age	Mark Twain	C	Mark Twain
+BD17C49B9C58A069CF94EC47260D55FA	A Horse's Tale	Mark Twain	U	Mark Twain
+6B6BE622751AF051C591559AA5A9AD04	The Innocents Abroad	Mark Twain	U	Mark Twain
+B5AD86F10F953C4E5E3A4CF91E5053DD	Life on the Mississippi	Mark Twain	U	Mark Twain
+B66EC19508C164881AEAD86DF54BA6E1	The Prince and the Pauper	Mark Twain	R	Mark Twain
+53EF2BD313FB562732EEB4BE28BD343F	Roughing It	Mark Twain	R	Mark Twain
+8567A322CF84DB5CC47799D3C115A6D8	A Tramp Abroad	Mark Twain	SR	Mark Twain
+47755AE67981C7ADFD8FF224A5D83C47	Pride and Prejudice	Jane Austen	C	Jane Austen
+2F9272C06122048B776B6CD6660F08AF	Sense and Sensibility	Jane Austen	C	Jane Austen
+60BC3600A1FA26F52C19F66925176805	Mansfield Park	Jane Austen	U	Jane Austen
+0780E5AD92F78F3B9A957641E211654D	Northanger Abbey	Jane Austen	U	Jane Austen
+A5015DDCA49F7BD3FF4ECCF22D74BE68	Persuasion	Jane Austen	R	Jane Austen
+AD73F9D4C70CE00F73ED8BAEF13AD669	Lady Susan	Jane Austen	R	Jane Austen
+17BE30BCA769D57A2391BE9C1D98C41E	Emma	Jane Austen	SR	Jane Austen
+500F2FA468EC497027AE3C1D3EC8652B	The Beautiful and Damned	F. Scott Fitzgerald	C	F. Scott Fitzgerald
+D55E71A6513798060156BF45C7F8C6D1	Flappers and Philosophers	F. Scott Fitzgerald	U	F. Scott Fitzgerald
+96CCB748037844F10A2BEB279CD03676	Tales of the Jazz Age	F. Scott Fitzgerald	R	F. Scott Fitzgerald
+B6190283F470716D710F13057C3BFF2C	This Side of Paradise	F. Scott Fitzgerald	SR	F. Scott Fitzgerald
+AE96CB1CE8CECF32718E8FFDA6DAD87B	Anna Karenina	Leo Tolstoy	C	Leo Tolstoy
+2839C14C8F084B948B2EEBCA76EE6F63	War and Peace	Leo Tolstoy	C	Leo Tolstoy
+9C36D7545D5481881804B995D0224B19	Resurrection	Leo Tolstoy	C	Leo Tolstoy
+BA31BC7FF916EC65403EBC76A42186BE	Childhood	Leo Tolstoy	C	Leo Tolstoy
+A3726486F01BFEEDC66F122B4BD19B04	Boyhood	Leo Tolstoy	C	Leo Tolstoy
+F103571A87B451EB3F60504971DE66EA	Youth	Leo Tolstoy	U	Leo Tolstoy
+BE0BF11CD1429523BC1A23E0B0E5E80A	Family Happiness	Leo Tolstoy	U	Leo Tolstoy
+0E84BE4A1747F4AA14E3D3271F9D6DC2	The Cossacks	Leo Tolstoy	U	Leo Tolstoy
+BF57CF26D1D82C769A4E2F26DB4B6DFC	The Death of Ivan Ilyich	Leo Tolstoy	U	Leo Tolstoy
+BEE47A45470EC82FA4F54839DEE10973	The Kreutzer Sonata	Leo Tolstoy	R	Leo Tolstoy
+46663A0E8D5F2E0B740F555438DDF035	The Devil	Leo Tolstoy	R	Leo Tolstoy
+7DD3C7378BF6DDCDC3CEF7C03A68676F	The Forged Coupon	Leo Tolstoy	SR	Leo Tolstoy
+C517D023FD139D21F3EC9DBC6561A495	Jacob's Room	Virginia Woolf	C	Virginia Woolf
+04CFB237B60096D02CF314C3CCB076BB	Monday or Tuesday	Virginia Woolf	C	Virginia Woolf
+304AAE12145B86A97BAD6E373E11A45A	Night and Day	Virginia Woolf	U	Virginia Woolf
+25FF3AE0C3BB685DD2FA243F7D2ED661	The Voyage Out	Virginia Woolf	R	Virginia Woolf
+665EF77EE46CAFD4698CB08100AFAC97	The Murder on the Links	Agatha Christie	U	Agatha Christie
+67203290E4368295B6D05E00BD86B919	The Mysterious Affair at Styles	Agatha Christie	R	Agatha Christie
+D12FA942AD7BF25DA7F5CEB09CE4D44F	The Secret Adversary	Agatha Christie	R	Agatha Christie
+BB20890CCFEBCAA424926E212A22C4DA	Moby Dick	Herman Melville	C	Herman Melville
+7BE6E3012E528ADEFABA90956026841F	Typee: A Peep at Polynesian Life	Herman Melville	C	Herman Melville
+9BD9B07E7B94CA1BBD63EAA7866693F4	Omoo: A Narrative Adventure in the South Seas	Herman Melville	C	Herman Melville
+C3D282632D5F9969E94C34CF3BB760B4	Mardi: And a Voyage Thither	Herman Melville	C	Herman Melville
+D7ECE2280577E59254B01F4C30E290A3	Redburn: His First Voyage	Herman Melville	U	Herman Melville
+45DF8096A04C3484B2E7AC775E747A98	The World in a Man-of-War	Herman Melville	U	Herman Melville
+617A85E9A8B221296CD11C7FFFF51A97	Israel Potter: His Fifty Years of Exile	Herman Melville	U	Herman Melville
+4B789380E1F370CC6672FE40CC7DB6B1	The Confidence Man: His Masquerade	Herman Melville	R	Herman Melville
+8C1264B6E733D9A334222E82DA188DC3	The Ambiguities	Herman Melville	R	Herman Melville
+06820DB92A1012E303FB77404E8F96FF	Billy Budd, Sailor	Herman Melville	SR	Herman Melville
+1AA47171D8193EE25B1C2AF8B3DC9E07	Isle of the Cross	Herman Melville	SR	Herman Melville
+7B93AC82136A2842C9D26561C1B094FF	Crime and Punishment	Fyodor Dostoyevsky	C	Dostoyevsky
+B1811F3FCDF8361F081CE1A673159B29	The Brothers Karamazov	Fyodor Dostoyevsky	C	Dostoyevsky
+6D3F80A55DE1A2A67EBA0ADE209C752D	The Gambler	Fyodor Dostoyevsky	C	Dostoyevsky
+B5767E2A0D1A2B34570EF00A3C9BF051	The Double	Fyodor Dostoyevsky	C	Dostoyevsky
+6F9FDB7DE4B41ADF0F4495C416C37753	The Landlady	Fyodor Dostoyevsky	U	Dostoyevsky
+BB3473E39A7D017973BE8D3A1A54F956	Uncle's Dream	Fyodor Dostoyevsky	U	Dostoyevsky
+5508C972739AE34B9FA6A6E84209BF30	Humiliated and Insulted	Fyodor Dostoyevsky	U	Dostoyevsky
+135B3A2FFA4CABE7CCCAC6AD292629A9	The House of the Dead	Fyodor Dostoyevsky	R	Dostoyevsky
+E74C2E087D04AD9D9973C4E6F55C2B89	Notes from Underground	Fyodor Dostoyevsky	R	Dostoyevsky
+4D44AF68A804B2D0FEF1BF54B25CD1C0	The Eternal Husband	Fyodor Dostoyevsky	R	Dostoyevsky
+742981FFF898540B1305981616471ADD	Demons	Fyodor Dostoyevsky	SR	Dostoyevsky
+45D1E2A36F697EBD604B8AF26EFF8C39	The Adolescent	Fyodor Dostoyevsky	SR	Dostoyevsky
+CA7F2026DC504ADF77044BEE33D8D5A6	The Picture of Dorian Gray	Oscar Wilde	C	Oscar Wilde
+6F7E745DAD0787EF7DDA0997A578A52B	An Ideal Husband	Oscar Wilde	C	Oscar Wilde
+0E4D07458E39418A8DFED4286EBEEA0D	The Importance of Being Earnest	Oscar Wilde	C	Oscar Wilde
+9431814457608965CE2543C34DE1A9AF	The Canterville Ghost	Oscar Wilde	U	Oscar Wilde
+5E7F94537A2754DBA18BFAADA2A01B4A	De Profundis	Oscar Wilde	U	Oscar Wilde
+C06CD0D4841556B98292F3A255917E4D	The Dutchess of Padua	Oscar Wilde	U	Oscar Wilde
+35E8C4F44B96A0A2FB0FBE2A4D730542	The Happy Prince	Oscar Wilde	R	Oscar Wilde
+F1051933CF7845D9EFCEB9D892F53E52	Salomé	Oscar Wilde	R	Oscar Wilde
+3BE402029854CD2CA0DA09BD295313C7	The Trial	Franz Kafka	C	Franz Kafka
+1FE43F3F347A67378DCE8B83E77C09A8	The Metamorphosis	Franz Kafka	C	Franz Kafka
+5A1ECE5AB9CE79364A211CE5C0D765AF	In the Penal Colony	Franz Kafka	C	Franz Kafka
+4EEE948E02E6A937E670AB41291679D6	A Hunger Artist	Franz Kafka	C	Franz Kafka
+F4E651C2986F8DF020A499CD55D5CEC2	The Castle	Franz Kafka	U	Franz Kafka
+5917AFAC1B6B6E526E7114A6A0C3E79E	Letter to His Father	Franz Kafka	U	Franz Kafka
+7CF31A1A267FC49713FBDE316F30D9A9	Amerika	Franz Kafka	U	Franz Kafka
+75E1D051A53AAB99FAB64E35919DD816	A Country Doctor	Franz Kafka	R	Franz Kafka
+430C3AE01A3B8A0C5D87E8C701D6C4A4	The Burrow	Franz Kafka	R	Franz Kafka
+A45C927D90BF4AF098960FF61902A883	Contemplation	Franz Kafka	SR	Franz Kafka
+999C5972F648F021EF21D9259F599CED	Investigations of a Dog	Franz Kafka	SR	Franz Kafka
+71A3F905D1E16D988F95153ACBEFE65A	20,000 Leagues Under the Sea	Jules Verne	C	Jules Verne I
+DFAFBAADB052AB0918FFC3C47C7C2301	Journey to the Center of the Earth	Jules Verne	C	Jules Verne I
+B41C6CE6D3D79FAB7550B22F3182FB6B	Around the World in Eighty Days	Jules Verne	C	Jules Verne I
+A273E4701CC9C128CE115055BD33F20F	The Mysterious Island	Jules Verne	C	Jules Verne I
+EC45C36E996FB983938D76569D2A31E1	From the Earth to the Moon	Jules Verne	C	Jules Verne I
+286E1CD4C9768F492A20906267B2D05C	Five Weeks in a Balloon	Jules Verne	U	Jules Verne I
+A0E8D0C828BE7B64D2720DEA8494912F	Around the Moon	Jules Verne	U	Jules Verne I
+B154DF2C3E66FF5643404278D762EA01	Master of the World	Jules Verne	U	Jules Verne I
+F389780E5AC652DA6280AC149CF1B056	Michael Strogoff	Jules Verne	U	Jules Verne I
+9F4EA4395583A940341358F965F90084	In Search of the Castaways	Jules Verne	R	Jules Verne I
+3E0DCFA71092501043CA46F73F96A880	Robur the Conqueror	Jules Verne	R	Jules Verne I
+082BD0F17ABD3DD5E41F4B6EB817E3E9	Off on a Comet	Jules Verne	SR	Jules Verne I
+96BB58DF419F5655D46A7405F18E3019	Eight Hundred Leagues on the Amazon	Jules Verne	C	Jules Verne II
+B16B882CECCAE9E30773EFBBC558498C	The Purchase of the North Pole	Jules Verne	C	Jules Verne II
+247A7C0BA762601AE24E39EAABB5F12D	The Begum's Fortune	Jules Verne	C	Jules Verne II
+9FC7919C7CE3407791BF8593335C03EF	An Antartic Mystery	Jules Verne	C	Jules Verne II
+A3B1E80F4DD31B4F8FB0617167FD958A	Propeller Island	Jules Verne	C	Jules Verne II
+7D97142EE32FA917BF916D53376D098D	Lighthouse at the End of the World	Jules Verne	U	Jules Verne II
+117AA22C64E08EDF5EED757BC3091C21	The Chase of the Golden Meteor	Jules Verne	U	Jules Verne II
+FA2CC5AC085A41C0041D84C8C6736265	Facing the Flag	Jules Verne	U	Jules Verne II
+233DF790F319DB838FCE55497CC838CC	Mathias Sandorf	Jules Verne	U	Jules Verne II
+B23CC3DF02D5B9218F82D94E9BB15C6F	The Carpathian Castle	Jules Verne	R	Jules Verne II
+BD73D7DFC1BE32A7977E21A741EE6C03	The Steam House	Jules Verne	R	Jules Verne II
+222752C1F484F209A4A961B7D0297ADD	The Child of the Cavern	Jules Verne	SR	Jules Verne II
+6BC460A2C24A2E1FE7B56092B7208446	Romeo and Juliet	William Shakespeare	C	Shakespeare I
+A0306D3E7FF0AD822EE5030957BA2FA5	Macbeth	William Shakespeare	C	Shakespeare I
+250175CA2B00789F6839839E53261578	Hamlet	William Shakespeare	C	Shakespeare I
+8CBFC28BAD5FEA89465151FCD48B9D8C	Othello	William Shakespeare	C	Shakespeare I
+961A7A6E65F1216E2B9CF452E9E04F48	The Tempest	William Shakespeare	U	Shakespeare I
+0D10ADDE69E8084256FEA76B22F99F7D	Julius Caesar	William Shakespeare	U	Shakespeare I
+95E10DBFC65BFD93D2B28B3998048012	A Midsummer Night's Dream	William Shakespeare	U	Shakespeare I
+FBFC6A7F16E81B74755C0E2817D0F2E6	King Lear	William Shakespeare	R	Shakespeare I
+BF7017531D9B8F5ECF3166489E6EBFDF	Twelfth Night	William Shakespeare	R	Shakespeare I
+A3DCAE8A5E872ED93D7A3F1F0973FF22	The Merchant of Venice	William Shakespeare	SR	Shakespeare I
+5ABC62250A7543E5922875E0C0AA3A02	Richard III	William Shakespeare	C	Shakespeare II
+41477915DD22593155F2EF2B8DE24FCE	Much Ado About Nothing	William Shakespeare	C	Shakespeare II
+FE8DABFA775A86625B63A9306328B41B	As You Like It	William Shakespeare	C	Shakespeare II
+77CD1854103D929B9C21C931002E5F67	The Taming of the Shrew	William Shakespeare	C	Shakespeare II
+CBBE2337B5D200D9C9F71218B84C90A5	The Winter's Tale	William Shakespeare	U	Shakespeare II
+D8644C51D4EE50F165622A76AC9D22A6	Antony and Cleopatra	William Shakespeare	U	Shakespeare II
+B4735D72F033114DC5647977A9CB7CAC	Richard II	William Shakespeare	U	Shakespeare II
+84480CDC05E31429A1DCDED2A8796973	Measure for Measure	William Shakespeare	R	Shakespeare II
+2AEB36C79A75547F64A0EE162F9210ED	The Comedy of Errors	William Shakespeare	R	Shakespeare II
+18B77DDD760F8A596EE759C78547634C	Titus Andronicus	William Shakespeare	SR	Shakespeare II
+13C906C3BACA07079216210AAD731951	All's Well That Ends Well	William Shakespeare	C	Shakespeare III
+189F5A493F4EA995DF85D65474CF9C13	King John	William Shakespeare	C	Shakespeare III
+6C1410C22A78C7624AD8424A56F23896	Coriolanus	William Shakespeare	C	Shakespeare III
+A273D3D68B17C40FF81A72BF991056CD	Cymbeline	William Shakespeare	C	Shakespeare III
+0DAEB20EDAA79FB643B8210757A0303A	The Merry Wives of Windsor	William Shakespeare	U	Shakespeare III
+FA64DA13D84FFD2CD389389F1BD04FAA	Love's Labour's Lost	William Shakespeare	U	Shakespeare III
+AAC5D1E31E3E76CE50E935F7A1721708	Pericles	William Shakespeare	U	Shakespeare III
+35297B4D59345EC58501F7F1375FA9DA	The Two Gentlemen of Verona	William Shakespeare	R	Shakespeare III
+BA5D9602230C1F9CBAE60E933AC9A223	Timon of Athens	William Shakespeare	R	Shakespeare III
+C76D28366907CF99CBAC898F018A81E7	Troilus and Cressida	William Shakespeare	SR	Shakespeare III
+DC76AF05354D1033B73A9BB7E767E9D4	The Raven	Edgar Allan Poe	C	Edgar Allen Poe
+5F789B0A98C3B5899E22C84C986E3ADB	The Fall of the House of Usher	Edgar Allan Poe	U	Edgar Allen Poe
+57B1E5EF14083F3444FA89B6CBF2274F	The Cask of Amontillado	Edgar Allan Poe	R	Edgar Allen Poe
+6D77912CF81B9A6915EAB537FEAD2FC1	The Masque of the Red Death	Edgar Allan Poe	SR	Edgar Allen Poe
+9242E7B21E6BFD8D115D7D8D949462AC	Alice's Adventures in Wonderland	Lewis Carroll	C	Lewis Carrol
+F69D4997F960F15BCB33EDFEEEE7B39E	Through the Looking-Glass	Lewis Carroll	C	Lewis Carrol
+BFA0197644114B5F70132726D69D71DC	Jabberwocky	Lewis Carroll	U	Lewis Carrol
+59600266F656AE87E0763252C4D651F5	The Hunting of the Snark	Lewis Carroll	U	Lewis Carrol
+EC063636AF78DEA35706510671C25EF0	Sylvie and Bruno	Lewis Carroll	R	Lewis Carrol
+34680A5875F14966DA9A954D7BF0FC4C	The Game of Logic	Lewis Carroll	SR	Lewis Carrol
+4629FB413762BB3EB02E271D62C09FDD	Middlemarch	George Eliot	C	George Eliot
+DAD836AABA76B7E3F6D1ACC6B6557D50	Silas Marner	George Eliot	C	George Eliot
+14A75EB2ECAFFCED90DFDA2E513A730D	The Mill on the Floss	George Eliot	U	George Eliot
+781AFE43B412BAE76F2D7189FE180A76	Adam Bede	George Eliot	U	George Eliot
+32A45B1AD0AE19F38B7722D79FFA58F9	Daniel Deronda	George Eliot	U	George Eliot
+AA35CCF0D519DFFD0C4AA812BCD193BB	Romola	George Eliot	R	George Eliot
+7E2537824551D1081230065EE2C2D62B	Scenes of Clerical Life	George Eliot	R	George Eliot
+1D4669CD592E40488FAFD95607DE2FDB	Felix Holt, the Radical	George Eliot	SR	George Eliot
+C9040D7D712A6250ECA30B775862F0AC	The Lady with the Dog	Anton Chekhov	U	Chekhov
+5921CD00388502209A586026B5CCA495	The Bet	Anton Chekhov	U	Chekhov
+BEE2F7F4B1F5D9DA67BA11D508306A74	The House with the Mezzanine	Anton Chekhov	R	Chekhov
+FD47671887430FE8A0343890285E697B	The Black Monk	Anton Chekhov	SR	Chekhov
+01E6C020884A521F6895CF4631D07B8D	Divine Comedy	Dante Alighieri	C	Dante Alighieri
+1DA42394ABB6E4462B9BEF7144C786D0	La Vita Nuova	Dante Alighieri	R	Dante Alighieri
+E6B7C23C609AAB4755F660FEC0F8229D	The Three Musketeers	Alexandre Dumas	C	Dumas
+CF8D774E76F0E693F4935613431B34D5	The Count of Monte Cristo	Alexandre Dumas	C	Dumas
+5577E1EBA9C79E1FBC87C6A4DB013AE3	The Vicomte of Bragelonne	Alexandre Dumas	U	Dumas
+F1B99B6DB7F94FCAF8F1B1EC6D6775BB	Twenty Years After	Alexandre Dumas	R	Dumas
+4C41CAD95644B0DF68D17ACCCCF221CE	The Black Tulip	Alexandre Dumas	R	Dumas
+A1237FBF1B780197313AB27128C2CF66	The Turn of the Screw	Henry James	C	Henry James
+AF5F785C9E854D6B88EC693681406E54	The Portrait of a Lady	Henry James	C	Henry James
+5BE0DD908CEB9AD57213FBB94BDE5694	The American	Henry James	U	Henry James
+F91A6E48E49C78D33C53A9E2A167CE0F	Daisy Miller	Henry James	U	Henry James
+D3D767E4795C9CF1EA24BB01D17C0B85	The Ambassadors	Henry James	U	Henry James
+2C9364E1CF0849C5F7F3640F86B01C3A	The Wings of the Dove	Henry James	R	Henry James
+55A7091F075B78A41DACE9FB5C1E7D81	Washington Square	Henry James	R	Henry James
+057893A394C51E571B11974082654F44	The Golden Bowl	Henry James	SR	Henry James
+9458E653676FB33F77324F4C778CDDBA	The Odyssey	Homer	C	Homer
+7FF9548E97AA0C674B8C7B779483276D	The Iliad	Homer	C	Homer
+BF6B275885D571E52F26AD9E705FCD55	Les Misérables	Victor Hugo	C	Victor Hugo
+DB148E59A3E58AE04A1DDFC1BC20F7EF	The Hunchback of Notre Dame	Victor Hugo	C	Victor Hugo
+BA38A83053B8D58B6C5186B7352B9CE2	The Man Who Laughs	Victor Hugo	U	Victor Hugo
+33905AC771B77C53E332DDE8B6719871	The Last Day of a Condemned Man	Victor Hugo	R	Victor Hugo
+6FFC82536075DFD759A7DDF123ACDD42	Ninety-Three	Victor Hugo	SR	Victor Hugo
+57549E83571B4AA33329199B510B1896	The Republic	Plato	C	Plato
+3596B9D048ADA0ACD95439A9983E5B09	Symposium	Plato	C	Plato
+041FC6E1576D877EBDA9AE4C941C1FE6	Apology	Plato	C	Plato
+E04DD82317ED42A8E20DF736ADD19AA4	Laws	Plato	U	Plato
+A37D9866615D6F991634D994897CD768	Phaedo	Plato	R	Plato
+CF49F6760B9951341DC49AF7C71C0A94	Crito	Plato	SR	Plato
+B2D1D2348DCC240995A64CCB668997CD	Don Quixote	Miguel de Cervantes	C	Cervantes
+4FEB0BE7AAC91671BE414A8DBD58B2AF	La Galatea	Miguel de Cervantes	R	Cervantes
+22AA3753771142039DB62D57D6AF966D	La Gitanilla	Miguel de Cervantes	SR	Cervantes
+FA9694EAF9711F18146083439EE446B5	The Adventures of Sherlock Holmes	Arthur Conan Doyle	C	A.C. Doyle
+82F4DF766C92A5490EB44D8BFB2B4EB7	The Lost World	Arthur Conan Doyle	C	A.C. Doyle
+1242DCF68908CB122BC9B2B1A649D15A	The Adventure of the Cardboard Box	Arthur Conan Doyle	U	A.C. Doyle
+BCC9C4774863885067BA78905C3C3B33	The Adventure of the Dying Detective	Arthur Conan Doyle	U	A.C. Doyle
+96D2349255E6409928E75C4BAF9287E7	The Adventure of Wisteria Lodge	Arthur Conan Doyle	U	A.C. Doyle
+AB0E44CE724D8560122F622B399A65C7	The Sign of the Four	Arthur Conan Doyle	R	A.C. Doyle
+CB54E27B541506C9CF2BE7758A8AAE12	His Last Bow	Arthur Conan Doyle	R	A.C. Doyle
+3628B0FE53BC1CCD2BFBE854B98C18A1	The White Company	Arthur Conan Doyle	SR	A.C. Doyle
+B412CB72280B57F81490200E7D6D27A9	The Hound of the Baskervilles	Arthur Conan Doyle	C	A.C. Doyle
+4E77948B78258929A15055828A306525	A Study in Scarlet	Arthur Conan Doyle	C	A.C. Doyle
+2E3F53309552D7F4025781CB72A074B5	The Return of Sherlock Holmes	Arthur Conan Doyle	U	A.C. Doyle
+7DB6BA919A6CD244EB0DFD7D06454F45	The Adventure of the Bruce-Partington Plans	Arthur Conan Doyle	U	A.C. Doyle
+FC93781364B5F71C2BBD365BCFB4420D	The Adventure of the Devil's Foot	Arthur Conan Doyle	U	A.C. Doyle
+C73CBA6A3F3468DEB4A236F2963A435B	The Adventure of the Red Circle	Arthur Conan Doyle	U	A.C. Doyle
+071F2D188B18C1A34260F4E6873B9A30	The Valley of Fear	Arthur Conan Doyle	R	A.C. Doyle
+2213EA08C7886CBE9DE7CD78FB0A0CAA	Sir Nigel	Arthur Conan Doyle	SR	A.C. Doyle
+78F73B98D982FBA09D347B6627FAE933	The Sorcerer's Apprentice	Johann Wolfgang von Goethe	C	Goethe
+19B3D0337AAF6B912BA05D9F2A420415	The Sorrows of Young Werther	Johann Wolfgang von Goethe	U	Goethe
+2545967C9CCDD0DF8B42D9ABCE9C2552	Theory of Colours	Johann Wolfgang von Goethe	R	Goethe
+1E657C2AAEB6E60ABA4B48F73878475A	Prometheus	Johann Wolfgang von Goethe	SR	Goethe
+66CB03AC96D743367FE80E3A85FB082E	Treasure Island	Robert Louis Stevenson	C	R.L. Stevenson
+A14C697C442F2E6FF448A74D15530874	The Strange Case of Dr Jekyll and Mr Hyde	Robert Louis Stevenson	C	R.L. Stevenson
+B0EFDA5F1C3608E8FCB84D0BBD58B474	New Arabian Nights	Robert Louis Stevenson	C	R.L. Stevenson
+7E91380B31FB278DFFE68BA0D729E43C	Kidnapped	Robert Louis Stevenson	C	R.L. Stevenson
+CB97FA3EDF93B2120E9F41DD612F4BB7	The Black Arrow: A Tale of Two Roses	Robert Louis Stevenson	C	R.L. Stevenson
+626259EF898B3AC2D68D2A4A34486D27	A Child's Garden of Verses	Robert Louis Stevenson	U	R.L. Stevenson
+5BE562B038E781345C21416B0AB234E7	Travels with a Donkey in the Cévennes	Robert Louis Stevenson	U	R.L. Stevenson
+57CB93F5E02A916B1F9570B810C5518D	The Master of Ballantrae	Robert Louis Stevenson	U	R.L. Stevenson
+343E85289E1BD281EF7618301009C2C5	Catriona	Robert Louis Stevenson	R	R.L. Stevenson
+53BC98DCB15684DEFE0A8793CA330108	Weir of Hermiston	Robert Louis Stevenson	R	R.L. Stevenson
+608749979F1A1C51A830527DFDE2D6CE	Prince Otto	Robert Louis Stevenson	R	R.L. Stevenson
+173A0D7278866EAA1F5646F14A35C3AA	The Wrong Box	Robert Louis Stevenson	SR	R.L. Stevenson
+2F065171B9E38D2438448EE54B8DA7A4	Civil Disobedience	Henry David Thoreau	C	Thoreau
+77387236ACBEB54AFB06925426B06679	Walden; or, Life in the Woods	Henry David Thoreau	C	Thoreau
+87A8622B0FB5C5BD42D9595249740804	The Maine Woods	Henry David Thoreau	U	Thoreau
+77573EC1709A7D8B5957C0C894004F7E	A Week on the Concord and Merrimack Rivers	Henry David Thoreau	R	Thoreau
+6FD1D4F2EA566EC40D2D5C14A3612D48	Cape Cod	Henry David Thoreau	SR	Thoreau
+A579C8E437366933B513B0E571F77553	Leaves of Grass 	Walt Whitman	U	Walt Whitman
+04A531325117074311776ADE460CE5D8	Drum-Taps	Walt Whitman	R	Walt Whitman
+7B41E30047BF7A94261F3BDE66CA78A1	The Tortoise and the Hare	Aesop	C	Aesop I
+A1CEF54822C0DB07A7EECD18E6505B03	The Lion and the Mouse	Aesop	C	Aesop I
+CF6025943D9833CCD62582951553F13D	The Ant and the Grasshopper	Aesop	C	Aesop I
+3DCF98B04FFBED743564983066A3F43D	The Fox and the Grapes	Aesop	C	Aesop I
+6B282BDAE6B8B8DE7C3D0D3BF43DD26D	The Fox and the Crow	Aesop	C	Aesop I
+E7F7BC4B08CDB5F8D7C404FF06EF2EE6	The Fox and the Sick Lion	Aesop	U	Aesop I
+77FDAF7A0285F121B7FF482E289E49BD	The Snake and the Farmer	Aesop	U	Aesop I
+D3A8A7493BABA060CC06809A5D29CAA5	The Eagle and the Fox	Aesop	U	Aesop I
+617622206ADCBF73466F3903F80E6D93	The Frog and the Ox	Aesop	U	Aesop I
+A36D4B228883465FCBBE03862147F49E	The Ass in the Lion's Skin	Aesop	R	Aesop I
+50E41B2177586BEDDF9AFCC9AF42E874	The Farmer and his Sons	Aesop	R	Aesop I
+F60F7F8105010DD27AF10BC88092D919	The Man with Two Mistresses	Aesop	SR	Aesop I
+24552798DB764B3EB3CFF38603A6399B	The Boy Who Cried Wolf	Aesop	C	Aesop II
+3E45CD2231CCFAF32C4B6C9FA89D48EB	The Goose that Laid the Golden Eggs	Aesop	C	Aesop II
+1FD1B0348D8724A32429B34307B65E9C	The Town Mouse and the Country Mouse	Aesop	C	Aesop II
+5D54F054213C891427E92BF72AC79AD1	The North Wind and the Sun	Aesop	C	Aesop II
+F67EC47EEE017B6CD467522EB6CBBAA1	The Dog and Its Reflection	Aesop	C	Aesop II
+BD909429DF45D9E51DC2943582241865	The Mischievous Dog	Aesop	U	Aesop II
+DD162143787FC73032E2E4FF072F43D6	The Astrologer who Fell into a Well	Aesop	U	Aesop II
+CC145F5A254951931BB8B444A7802590	The Bird in Borrowed Feathers	Aesop	U	Aesop II
+16949925088F2DD34BB8C70EA42E6EBA	The Oak and the Reed	Aesop	U	Aesop II
+22A93F51C8AEC86C857AB037FDCBDBB7	The Farmer and the Stork	Aesop	R	Aesop II
+48417EAF906600A1AED49EF8C2471E23	The Frog and the Mouse	Aesop	R	Aesop II
+80E975ED730D839EF062E10AB91C4F62	The Satyr and the Traveller	Aesop	SR	Aesop II
+50D73ADBA6E0884A263C242E399FC686	The Crow and the Pitcher	Aesop	C	Aesop III
+7BC115C48C17ADD5E5385BE0B242B865	The Dove and the Ant	Aesop	C	Aesop III
+805110275CAD2EBCB63497E509D319A6	The Bear and the Travelers	Aesop	C	Aesop III
+F9492E21FF8535E817095534261D9B67	The Honest Woodcutter	Aesop	C	Aesop III
+5F418310DFBB962E6B7CCDA99E2FE821	The Wolf and the Crane	Aesop	C	Aesop III
+E733513076FB0DEAFE92360374DC5FFB	The Miser and his Gold	Aesop	C	Aesop III
+4691C7F773821E858E387A82D02D00F8	The Wolf and the Lamb	Aesop	U	Aesop III
+9D52C7E766A4749E61EFB9DDA9097D05	The Old Man and his Sons	Aesop	U	Aesop III
+EAEAC815F0ED8B0C8F88415C8389949E	The Cock and the Jewel	Aesop	U	Aesop III
+6D78594E0EBA4D4FAC884F50E17547CC	The Fisherman and the Little Fish	Aesop	R	Aesop III
+92BBD726E60D48A1A22201B34230C618	The Cock, the Dog and the Fox	Aesop	R	Aesop III
+61756445D602F655DB4ED1F7CD9C98A4	The Bulls and the Lion	Aesop	SR	Aesop III
+4676C942D1D2810FA0B9FAEF8A67158B	Swann's Way	Marcel Proust	C	Proust
+AA5192562E24E9EDFC0AE48942216467	Within a Budding Grove	Marcel Proust	C	Proust
+F38EE99B46493D46B96A2F1D4A6C956F	The Guermantes Way	Marcel Proust	C	Proust
+21463B85F70FA93616ACCC33C7032D01	Cities on the Plain	Marcel Proust	U	Proust
+3A90B326529330DF1CE7FC0FE40BCC49	The Captive	Marcel Proust	U	Proust
+B60A23B8E445ACF67294E7CD4E31556C	The Sweet Cheat Gone	Marcel Proust	R	Proust
+552424C6B0758A7604943A7225BA850E	Time Regained	Marcel Proust	SR	Proust
+896B732DDDAD8FED2B798EC78473A580	Paradise Lost	John Milton	C	John Milton
+D57F4088E087FF013223D458023FC643	Paradise Regained	John Milton	U	John Milton
+EB6B5F25D1C222DA3C8F264E6323300F	Areopagitica	John Milton	U	John Milton
+95DF514FB88854609F7B742048DF50D1	The Tenure of Kings and Magistrates	John Milton	R	John Milton
+8221F045C4C3B5B2107D6C858512EE54	The Waste Land	T.S. Eliot	C	T.S. Eliot
+046E54FEA7AF0913A8ED7FD1F975FEC8	Prufrock and Other Observations	T.S. Eliot	C	T.S. Eliot
+0EA9E12E41FAF6A1FBB2622FA525D17F	The Sacred Wood	T.S. Eliot	U	T.S. Eliot
+400F85B72686DDF33A0922FBA01280D8	Eeldrop and Appleplex	T.S. Eliot	R	T.S. Eliot
+A455EC9C2BA9CCB56EEA011740AA2603	The Call of the Wild	Jack London	C	Jack London I
+33C7A6EA1EE783C5A1A77EBC1BC663B2	White Fang 	Jack London	C	Jack London I
+01A02B530C8DD841AAC42EE553B72C17	Martin Eden	Jack London	C	Jack London I
+FDB13E43F8BAB45CF5EB4B4E3462048F	The Sea-Wolf 	Jack London	C	Jack London I
+41692D6A95DF01C42FDC4CEDC77D4B80	The Iron Heel 	Jack London	C	Jack London I
+3902A89AC0A8E16A402427AC2ADEAA98	The People of the Abyss	Jack London	C	Jack London I
+041D379E6F31E005CE2700C97D617A77	Children of the Frost	Jack London	U	Jack London I
+892F530A411523183549F798B486B89B	Hearts of Three	Jack London	U	Jack London I
+418DBE74C2CC96AF7301C67C55DE8977	The House of Pride & Other Tales of Hawaii	Jack London	U	Jack London I
+F9C69389B7832E3BB4B16EAB8A4B81AD	The Game	Jack London	R	Jack London I
+EF466C08E217C46EFEBFDCF218B5C3AC	A Son of the Sun	Jack London	R	Jack London I
+341EA50D3D3A1DF87D1A87B5DF62C5AB	Theft	Jack London	SR	Jack London I
+2B2E129699ABF9F003DDEDE44704C58B	Lost Face	Jack London	C	Jack London II
+738A3D67C02B1D2F17B662B097251DB5	The Scarlet Plague	Jack London	C	Jack London II
+0BC2C7E66FF0894F301B261A3AF8108D	Love of Life and Other Stories	Jack London	C	Jack London II
+222D3A874E7F953CFA2DFAFD8B321BF7	John Barleycorn	Jack London	C	Jack London II
+5B9931487993BC0B90AB83931AF0F07D	Smoke Bellew	Jack London	C	Jack London II
+BD24381AB17DF1B506FB8951D4B93283	A Daughter of the Snows 	Jack London	U	Jack London II
+66FA4646F4D156B4A94869ADFC57EF94	Jerry of the Islands	Jack London	U	Jack London II
+B4EBBFC99713EB44A52A223F569C9D29	The God of His Fathers & Other Stories	Jack London	U	Jack London II
+95FC5D62021E94A8DE0DF57D653DB8A1	The Strength of the Strong	Jack London	U	Jack London II
+71DC180C301BE0D4D3C97D45D5CA09F1	The Mutiny of the Elsinore	Jack London	R	Jack London II
+1CB2318807CB25A4A7645E62AFA0409A	The War of the Classes	Jack London	R	Jack London II
+351759CAD44DD396C055E8F38614EB22	An Odyssey of the North	Jack London	SR	Jack London II
+B42CCCB063784DF7E6B0F4DAAE7F7B22	The Road 	Jack London	C	Jack London III
+082797EF3D7A4336CD0D00254DE49E2F	The Valley of the Moon	Jack London	C	Jack London III
+0F5DA0D0516398F67BE5A34436A0D11C	The Star Rover	Jack London	C	Jack London III
+46D8191315BF16A8039F561F41A61929	The Cruise of the Snark 	Jack London	C	Jack London III
+71B8F6B9CB81AB10E7B4EBEA71157E6C	Brown Wolf	Jack London	C	Jack London III
+DBD18BCBDDAD8E0763A96EAD5CEB79F9	The Son of the Wolf	Jack London	C	Jack London III
+78331CF77A012D515D750CEA4F18AD83	The Abysmal Brute	Jack London	U	Jack London III
+A2576E38E57750E8A2F152AFE1AFACA0	Revolution, and other Essays	Jack London	U	Jack London III
+8A481059BE46125519FC5C755EE7BCE6	The Night Born	Jack London	U	Jack London III
+A34E4DE7C83C1903B1CFFEAD793BCA06	Dutch Courage and Other Stories	Jack London	R	Jack London III
+E957A758AB42FE8E0AF7F970F3FB5A8E	The Turtles of Tasman	Jack London	R	Jack London III
+A55ECFFBCA54C007263B7C4C28822373	The House of Mapuhi	Jack London	SR	Jack London III
+500E6168F74DB3ACB4F951F3A9FE3AB4	Burning Daylight	Jack London	C	Jack London IV
+9F79B91AC572EF50DA2B42582E16F348	When God Laughs and Other Stories	Jack London	C	Jack London IV
+5C709B11460B70FBF88C1AD85E34809B	South Sea Tales	Jack London	C	Jack London IV
+44F2EEE329E4F83BC757FD646F5A809F	Moon-Face and Other Stories	Jack London	C	Jack London IV
+279754A8F495C4652A9E9E7F1A26FEAA	The Little Lady of the Big House	Jack London	C	Jack London IV
+6583223305DAA84AA81283BFB5999662	Before Adam	Jack London	C	Jack London IV
+6D8C93B7B0CF12DC728EAFB228D604FA	The Faith of Men and Other Stories	Jack London	U	Jack London IV
+5857C5FF9F906362131B50B9FE5374A1	The Human Drift 	Jack London	U	Jack London IV
+BD967314CC08F5A6C6F304EA42D0CB60	The Red One	Jack London	U	Jack London IV
+863CB82928FEB48269937C4DD2FFC48F	Adventure	Jack London	R	Jack London IV
+6030DFB20A6BE4E9D175FAAB2FF744F1	On the Makaloa Mat	Jack London	R	Jack London IV
+A0F53114B1BF5AAB81012DFCDC29BD0A	The Acorn Planter: A California Forest Play	Jack London	SR	Jack London IV
+955B6692BB318C13D1D0BAB495963889	Siddhartha	Hermann Hesse	C	Hesse
+07C556C63BC9105441B5C738BC527A3A	Demian	Hermann Hesse	C	Hesse
+820F71793B47466A1D7530A29987D9D0	Beneath the Wheel	Hermann Hesse	U	Hesse
+D5D0305A11AF527F5B5C090C48FAFC21	Peter Camenzind	Hermann Hesse	R	Hesse
+1EE58F7ED89E139E1E8C46F7FD611908	Klingsor's Last Summer	Hermann Hesse	SR	Hesse
+C428D03EA6389EED5D90652DC0239224	Candide	Voltaire	C	Voltaire
+3AA57AA287E7C58A16360E92C10F0E03	Micromegas	Voltaire	C	Voltaire
+070341535FFA6E73E7FD53E7777482F6	Zadig, or, Destiny	Voltaire	C	Voltaire
+ACAA9C5D49B29B540E8029749D422080	Letters concerning the English nation	Voltaire	C	Voltaire
+E705ECC0A64A3ADA57C19E5536570ACF	History of the Russian Empire Under Peter the Great	Voltaire	C	Voltaire
+5D93A821024E8869ECD476E628C3AFE9	Socrate	Voltaire	U	Voltaire
+27005ED96F6AF3136C0896BE6D1DEF82	Treatise on Tolerance	Voltaire	U	Voltaire
+A2CA0602E3E12FBF62DC91E6EF08DA0C	The Huron	Voltaire	U	Voltaire
+37CB913639EA1DE3155BDEC8199143C8	Memnon	Voltaire	U	Voltaire
+394CCA0883B50DEE6D86426C8CF30737	The World as it Goes	Voltaire	R	Voltaire
+D89F07BD5E74C3FDD8707FF9431F25D9	The White and the Black	Voltaire	R	Voltaire
+D60F809A24A5330FF65793A3C7F41232	Jeannot and Colin	Voltaire	SR	Voltaire
+66D066A35AFAAEC9EBA54AB3E8BCED14	Oedipus King of Thebes	Sophocles	C	Sophocles
+FD6C522DD955BAC011CF1C4B93DA7AB7	Antigone	Sophocles	U	Sophocles
+69B215C76B2F660CB0C19107FFED3A9E	Philoctetes	Sophocles	R	Sophocles
+74F3349D77E09F9B50BFE9B82AA77C2C	Electra	Sophocles	R	Sophocles
+508541F11A6E2D4418C28A17253BA188	Ajax	Sophocles	SR	Sophocles
+194858E502A0200898BFDB4679893C35	Crome Yellow	Aldous Huxley	C	Aldous Huxley
+F9A71E3A8B3B6C1597D8BAEF7B1BED23	Limbo	Aldous Huxley	U	Aldous Huxley
+BF7954ACABA94ABBC5DF66D5A27F11DC	Mortal Coils	Aldous Huxley	U	Aldous Huxley
+EF9A99841B5A34D165D2CD6A3A223ADA	The Burning Wheel	Aldous Huxley	R	Aldous Huxley
+C21F111F79A4B733ED6EF9CBF14B2A91	The Defeat of Youth and Other Poems	Aldous Huxley	R	Aldous Huxley
+CBB895753A1F4618EFF0A626D522529C	Leda	Aldous Huxley	SR	Aldous Huxley
+CE2EE87353A02C5799A88220A01BC3FB	Frankenstein; or, The Modern Prometheus	Mary Shelley	C	Mary Shelley
+DE0A53998F8A710BB83CEF4DC3A1CD9B	The Last Man	Mary Shelley	C	Mary Shelley
+FAB3E06FFC3E4BF1B16D51F9F3FD976F	Mathilda	Mary Shelley	U	Mary Shelley
+DC9DDAEF22FF93FE9DB9041C573184A5	History of a Six Weeks' Tour	Mary Shelley	U	Mary Shelley
+56B40CFD2B670263228FC34551F3BD67	Proserpine and Midas	Mary Shelley	R	Mary Shelley
+6BD08B399397E31DC573F2726CB7C37E	The Emperor's New Clothes	Hans Christian Anderson	C	H.C. Anderson I
+4F9272C0F820EE6440563CC5EB0845AE	The Fir-Tree	Hans Christian Anderson	C	H.C. Anderson I
+46DDE83EE3914D5B949EBFEDB3FBA2B2	The Little Match Girl	Hans Christian Anderson	C	H.C. Anderson I
+7CB04D2A771AA8F1F3B6514F3C41425C	The Little Mermaid	Hans Christian Anderson	C	H.C. Anderson I
+56302D911ECEB08EFEA75C14C44E88E8	The Nightingale	Hans Christian Anderson	C	H.C. Anderson I
+112648260A08D9720134A94982C479E8	The Princess and the Pea	Hans Christian Anderson	C	H.C. Anderson I
+EB24A8294AAF57928FE6AA50789461F6	The Galoshes of Fortune	Hans Christian Anderson	U	H.C. Anderson I
+B73444BAB85FA1225A84508511D73C33	The Ice-Maiden	Hans Christian Anderson	U	H.C. Anderson I
+DC5144B3A2099BE407417DB8851FC38C	The Red Shoes	Hans Christian Anderson	U	H.C. Anderson I
+6B4D509455CFF1983F276BF24FFA0A70	The Most Incredible Thing	Hans Christian Anderson	R	H.C. Anderson I
+9BB35CDD1B06734035F5D6084380624B	The Old House	Hans Christian Anderson	R	H.C. Anderson I
+D79742207438A163A98464D987FE2030	The Angel	Hans Christian Anderson	SR	H.C. Anderson I
+437F65D600F3EE7EF272F2B3C01EE840	The Snow Queen	Hans Christian Anderson	C	H.C. Anderson II
+6125863A22D383957DED0C65E15BC491	The Steadfast Tin Soldier	Hans Christian Anderson	C	H.C. Anderson II
+B485DCB4A63425282A40FB21C6D76A22	Thumbelina	Hans Christian Anderson	C	H.C. Anderson II
+399D1F8F28DBDE290D125652B98643D0	The Tinderbox	Hans Christian Anderson	C	H.C. Anderson II
+8B132C0336957FFF4A558B07F3ACC0B6	The Ugly Duckling	Hans Christian Anderson	C	H.C. Anderson II
+F9E93FFA4EDFEA23B5B0E93ACE6745A6	The Shadow	Hans Christian Anderson	U	H.C. Anderson II
+623E5F59EB8F76EB088BC0C62DB64E45	The Story of a Mother	Hans Christian Anderson	U	H.C. Anderson II
+237D554C52F7916844067F0861ABD691	The Swineherd 	Hans Christian Anderson	U	H.C. Anderson II
+6D4E2AA7136FEC18FB9353B697C22095	The Wild Swans	Hans Christian Anderson	U	H.C. Anderson II
+C1DA998201A08BA12C18C79229690115	The Philosopher's Stone	Hans Christian Anderson	R	H.C. Anderson II
+C441511F02E81C531DA3491BC34C8ED2	Sandman	Hans Christian Anderson	R	H.C. Anderson II
+9C26414EF20484F56DDD61A42B12076C	The Shepherdess and the Chimney Sweep	Hans Christian Anderson	SR	H.C. Anderson II
+B496010DB84CD47ECA2B0A07EE442CC0	The Time Machine	H.G. Wells	C	H.G. Wells I
+940E4794C675DC74E2F8ECA79EB95F80	The War of the Worlds	H.G. Wells	C	H.G. Wells I
+76C20B007A1FFB0F2999EE2C59CD884A	The Island of Doctor Moreau	H.G. Wells	C	H.G. Wells I
+5431968B81BAA73FFCB57B347207B04D	The Invisible Man	H.G. Wells	C	H.G. Wells I
+341976F791724961CB2528CCD4E33106	The Red Room	H.G. Wells	C	H.G. Wells I
+EB3524903ABEC36CDD2C0F1E75C44907	War and the Future	H.G. Wells	U	H.G. Wells I
+034A077CB911C3FCE0D4D51E2462C4AA	The Stolen Bacillus and Other Incidents	H.G. Wells	U	H.G. Wells I
+9E354E3F162781CC7EC286F619C97E3D	Floor Games	H.G. Wells	U	H.G. Wells I
+AA0CE12F1947507A64C421BCC55EF22E	Certain Personal Matters	H.G. Wells	R	H.G. Wells I
+9A6BBD6E31E9DF897C0A472E711DAAE4	The Future in America: A Search After Realities	H.G. Wells	R	H.G. Wells I
+7F533A63FD943BD2FB5425D44E230666	The Salvaging of Civilization	H.G. Wells	SR	H.G. Wells I
+A2B6419F971C64B16AFD5685DEFDD858	The Country of the Blind	H.G. Wells	C	H.G. Wells II
+4B5B769C195F4CF6A26FDF5A6D9003B8	The Outline of History	H.G. Wells	C	H.G. Wells II
+D310E0ECAFA431906731CC51E6DA840D	Little Wars	H.G. Wells	C	H.G. Wells II
+40292D97EFE0D61E359D63F142E3BEDA	The World Set Free	H.G. Wells	C	H.G. Wells II
+C49D35F869B81EB2D1EDC8D87FA676A0	The First Men in the Moon	H.G. Wells	C	H.G. Wells II
+1A430A998E6021E71C95248DEA5C2C78	The Wheels of Chance	H.G. Wells	U	H.G. Wells II
+9C570E44D357E7BEA07FD9F8DAD20AD2	The Wonderful Visit	H.G. Wells	U	H.G. Wells II
+92898D472ACC5E8F142486B973F31AC9	The Research Magnificent	H.G. Wells	U	H.G. Wells II
+7F544FE8FE432AA5922531FA4D6FEA69	An Englishman Looks at the World	H.G. Wells	R	H.G. Wells II
+BB6DB6220ABD8AF841EAD227D60F50E9	The Wife of Sir Isaac Harman	H.G. Wells	SR	H.G. Wells II
+354C290218A44FAA9A21131CFB35032B	The Door in the Wall and Other Stories	H.G. Wells	C	H.G. Wells III
+DEF38EB7877FF1C02177F2885AC0891E	Twelve Stories and a Dream	H.G. Wells	C	H.G. Wells III
+BC4FA33C34C7E50C3301C442E5BD6E7F	The War in the Air	H.G. Wells	C	H.G. Wells III
+FDDC02AC3D0D6F5A363CEB599E1990E7	Tales of Space and Time	H.G. Wells	C	H.G. Wells III
+C0CB3BDE334FC030752D7AA3FCB884F1	Tono-Bungay	H.G. Wells	C	H.G. Wells III
+6C4D4BE6B6E6ABD6271CBE43442FB901	Marriage	H.G. Wells	U	H.G. Wells III
+31F04BF53A1FC47D458E38347C88FD5D	The Passionate Friends	H.G. Wells	U	H.G. Wells III
+E5B0D215574B9B49AA761A52C1853242	The War That Will End War	H.G. Wells	U	H.G. Wells III
+947FDA38142264ADE19F9EB4CDF83DF2	First and Last Things	H.G. Wells	R	H.G. Wells III
+39FB90D4DBF1131B730CB3393ACFC387	Love and Mr Lewisham	H.G. Wells	R	H.G. Wells III
+7AC40461C03D25F28742131EE871B9EC	This Misery of Boots	H.G. Wells	SR	H.G. Wells III
+905A01F7CE1B8AC1431E38768FC7AC15	Anticipations	H.G. Wells	C	H.G. Wells IV
+3FFD9425C690D31C2AC357AD44451276	A Modern Utopia	H.G. Wells	C	H.G. Wells IV
+4318A559503691E85EEF3CC1FF4FC112	Ann Veronica	H.G. Wells	C	H.G. Wells IV
+B59D9C5C390BDC20429092A045C6EB13	Washington and the Riddle of Peace	H.G. Wells	C	H.G. Wells IV
+D0B0E3A206E4ABC323AB951C0B212F09	Kipps	H.G. Wells	C	H.G. Wells IV
+E95E6E7DB3F1E6D1CE3BAF5634D47429	In the Days of the Comet	H.G. Wells	U	H.G. Wells IV
+54B09BD07B29899511B71ADFA098649D	New Worlds for Old	H.G. Wells	U	H.G. Wells IV
+C9E67F14C1B8B974F1927E4A068DD46B	Mankind in the Making	H.G. Wells	R	H.G. Wells IV
+1BE4C1227D9D7B7745D0E5145F542D66	The Secret Places of the Heart	H.G. Wells	R	H.G. Wells IV
+BB50644C10E84F8D474F2995CDA762BF	What is Coming?	H.G. Wells	SR	H.G. Wells IV
+FA5D31EFFA52269209C39F5A1BBBED14	The New Machiavelli	H.G. Wells	C	H.G. Wells V
+B92AFFAA83F723A1FE48FFD845731AB3	The Discovery of the Future	H.G. Wells	C	H.G. Wells V
+CEB63A5710AF993050EF78FB2022A2C1	When the Sleeper Wakes	H.G. Wells	C	H.G. Wells V
+9E918895B0BAA5F21F7AE32A8AE1BCA6	The Food of the Gods and How It Came to Earth	H.G. Wells	C	H.G. Wells V
+65736C4DDE96A5A288DA4592CE307EE5	The History of Mr Polly	H.G. Wells	C	H.G. Wells V
+5C3400EB91F513239ADAA7F9941D4A90	God the Invisible King	H.G. Wells	U	H.G. Wells V
+3F37CF246A626410AE444AD13B1E6D7F	The Sea Lady	H.G. Wells	U	H.G. Wells V
+A456BD4D610B1D15C9741F52ED92B456	Mr Britling Sees It Through	H.G. Wells	U	H.G. Wells V
+F72ECF5393BEFDB5A586CA46C9238553	The Plattner Story and Others	H.G. Wells	U	H.G. Wells V
+A5BD3EB566A22D069C4D558413CEC15F	The Soul of a Bishop	H.G. Wells	R	H.G. Wells V
+8BA41678C594C20236B876F0A7C828FD	The Island Of Dr Moreau	H.G. Wells	SR	H.G. Wells V

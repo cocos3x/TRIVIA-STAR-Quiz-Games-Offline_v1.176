@@ -1,0 +1,62 @@
+Animals	0
+Rugby	50
+Aussie TV	60
+Food	0
+Cricket	0
+UK TV	120
+Brands	2
+Golf	27
+Aussie Celebrities	15
+Birds	5
+Tennis	36
+Animated Movies	0
+World Geography	12
+Olympics	42
+Disney	1
+Capital Cities	19
+Soccer	45
+Celebrities	7
+Biology	26
+Boxing	65
+Pop Music	16
+Travel	33
+Auto Racing	74
+Movies 90s	25
+Pets	40
+College Sports	83
+TV 10s	34
+Landmarks	47
+Basketball	92
+Music 10s	43
+World History	54
+Baseball	94
+Movies 10s	52
+Literature	61
+Football	100
+Reality TV	62
+Poetry	68
+Hockey	119
+Plays & Musicals	70
+Technology	75
+Country Music	79
+Mythology	82
+TV 90s	88
+Science	89
+Sitcoms	97
+Art	96
+Awards	106
+Oceans	103
+Rock Music	115
+Chemistry	110
+Video Games	124
+U.S. History	117
+Music R&B	133
+Earth	125
+Music 00s	142
+U.S. Geography	131
+Music 90s	151
+Wine	145
+Movies 00s	160
+Hip Hop	169
+Action Movies	178
+TV 00s	187

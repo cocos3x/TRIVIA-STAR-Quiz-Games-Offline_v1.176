@@ -1,0 +1,318 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ace1532e7671a2887ab7036ee42bfd, type: 3}
+  m_Name: "TRVIcons"
+  m_EditorClassIdentifier: 
+  icons:
+  - name: "General"
+    translations: []
+    sprite: {fileID: 21300000, guid: 433cc1f5535049c7a4a714c54c164473, type: 3}
+  - name: "Sports"
+    translations: []
+    sprite: {fileID: 21300000, guid: 433cc1f5535049c7a4a714c54c164473, type: 3}
+  - name: "Entertainment"
+    translations: []
+    sprite: {fileID: 21300000, guid: 433cc1f5535049c7a4a714c54c164473, type: 3}
+  - name: "Science"
+    translations:
+    - "Ciencias"
+    sprite: {fileID: 21300006, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Chemistry"
+    translations:
+    - "Qu\u00EDmica"
+    sprite: {fileID: 21300008, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Biology"
+    translations:
+    - "Biolog\u00EDa"
+    sprite: {fileID: 21300026, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "U.S. History"
+    translations:
+    - "U.S. Historia"
+    sprite: {fileID: 21300070, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "World History"
+    translations:
+    - "Historia mundial"
+    sprite: {fileID: 21300122, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "U.S. Geography"
+    translations:
+    - "U.S. Geografia"
+    sprite: {fileID: 21300034, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "World Geography"
+    translations:
+    - "Geografia mundial"
+    sprite: {fileID: 21300082, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Landmarks"
+    translations:
+    - "Monumentos"
+    sprite: {fileID: 21300134, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Capital Cities"
+    translations:
+    - "Ciudades capitales"
+    sprite: {fileID: 21300024, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Poetry"
+    translations:
+    - "Poes\u00EDa"
+    sprite: {fileID: 21300130, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Art"
+    translations:
+    - "Arte"
+    sprite: {fileID: 21300124, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Literature"
+    translations:
+    - "Literatura"
+    sprite: {fileID: 21300110, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Food"
+    translations:
+    - "Comida"
+    sprite: {fileID: 21300086, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Wine"
+    translations:
+    - "Vino"
+    sprite: {fileID: 21300112, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Pets"
+    translations:
+    - "Mascotas"
+    sprite: {fileID: 21300042, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Birds"
+    translations:
+    - "Aves"
+    sprite: {fileID: 21300128, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Animals"
+    translations:
+    - "Animales"
+    sprite: {fileID: 21300058, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Brands"
+    translations:
+    - "Marcas"
+    sprite: {fileID: 21300038, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Mythology"
+    translations:
+    - "Mitolog\u00EDa"
+    sprite: {fileID: 21300048, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Technology"
+    translations:
+    - "Computadoras y tecnolog\u00EDa"
+    sprite: {fileID: 21300010, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Earth"
+    translations:
+    - "Tierra"
+    sprite: {fileID: 21300050, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Travel"
+    translations:
+    - "Viajar"
+    sprite: {fileID: 21300104, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Oceans"
+    translations:
+    - "Oc\u00E9anos"
+    sprite: {fileID: 21300126, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Baseball"
+    translations: []
+    sprite: {fileID: 21300080, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Football"
+    translations:
+    - "F\u00FAtbol Americano"
+    sprite: {fileID: 21300078, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Basketball"
+    translations: []
+    sprite: {fileID: 21300046, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Hockey"
+    translations: []
+    sprite: {fileID: 21300018, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Tennis"
+    translations: []
+    sprite: {fileID: 21300100, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Soccer"
+    translations:
+    - "F\u00FAtbol"
+    sprite: {fileID: 21300092, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Auto Racing"
+    translations: []
+    sprite: {fileID: 21300002, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "College Sports"
+    translations: []
+    sprite: {fileID: 21300054, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Super Bowl"
+    translations: []
+    sprite: {fileID: 21300078, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Boxing"
+    translations: []
+    sprite: {fileID: 21300060, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Cricket"
+    translations: []
+    sprite: {fileID: 21300074, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Olympics"
+    translations: []
+    sprite: {fileID: 21300020, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Golf"
+    translations: []
+    sprite: {fileID: 21300068, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Awards"
+    translations: []
+    sprite: {fileID: 21300004, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Celebrities"
+    translations:
+    - "Celebridades Latinoamericanos"
+    sprite: {fileID: 21300032, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Video Games"
+    translations: []
+    sprite: {fileID: 21300028, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "TV 10s"
+    translations: []
+    sprite: {fileID: 21300056, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "TV 00s"
+    translations: []
+    sprite: {fileID: 21300096, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "TV 90s"
+    translations: []
+    sprite: {fileID: 21300116, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Movies 10s"
+    translations: []
+    sprite: {fileID: 21300000, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Movies 00s"
+    translations: []
+    sprite: {fileID: 21300062, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Movies 90s"
+    translations: []
+    sprite: {fileID: 21300052, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Music 10s"
+    translations: []
+    sprite: {fileID: 21300066, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Music 00s"
+    translations: []
+    sprite: {fileID: 21300040, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Music 90s"
+    translations: []
+    sprite: {fileID: 21300022, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Hip Hop"
+    translations: []
+    sprite: {fileID: 21300108, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Pop Music"
+    translations:
+    - "Musica Latinoamericana"
+    sprite: {fileID: 21300044, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Rock Music"
+    translations: []
+    sprite: {fileID: 21300090, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Country Music"
+    translations: []
+    sprite: {fileID: 21300088, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Music R&B"
+    translations: []
+    sprite: {fileID: 21300064, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Reality TV"
+    translations: []
+    sprite: {fileID: 21300120, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Sitcoms"
+    translations:
+    - "Telenovelas"
+    sprite: {fileID: 21300114, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Action Movies"
+    translations: []
+    sprite: {fileID: 21300118, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Foreign Films"
+    translations: []
+    sprite: {fileID: 21300098, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Plays & Musicals"
+    translations: []
+    sprite: {fileID: 21300094, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Animated Movies"
+    translations: []
+    sprite: {fileID: 21300012, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Disney"
+    translations: []
+    sprite: {fileID: 21300084, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "AnimalsFTUX"
+    translations: []
+    sprite: {fileID: 21300058, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "BrandsFTUX"
+    translations: []
+    sprite: {fileID: 21300038, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "FoodFTUX"
+    translations: []
+    sprite: {fileID: 21300086, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "BasketballFTUX"
+    translations: []
+    sprite: {fileID: 21300046, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "FootballFTUX"
+    translations: []
+    sprite: {fileID: 21300078, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "BaseballFTUX"
+    translations: []
+    sprite: {fileID: 21300080, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "CelebritiesFTUX"
+    translations: []
+    sprite: {fileID: 21300032, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Animated MoviesFTUX"
+    translations: []
+    sprite: {fileID: 21300012, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Pop MusicFTUX"
+    translations: []
+    sprite: {fileID: 21300044, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Queen"
+    translations: []
+    sprite: {fileID: 21300000, guid: 2ec8a1d840254de3a5487f515386aeda, type: 3}
+  - name: "Pop Culture"
+    translations: []
+    sprite: {fileID: 21300136, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Premier League"
+    translations: []
+    sprite: {fileID: 21300036, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "UK TV"
+    translations: []
+    sprite: {fileID: 21300030, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "UK Celebrities"
+    translations: []
+    sprite: {fileID: 21300076, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "UK Music"
+    translations: []
+    sprite: {fileID: 21300072, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Bollywood"
+    translations: []
+    sprite: {fileID: 21300000, guid: 2ec8a1d840254de3a5487f515386aeda, type: 3}
+  - name: "Indian TV"
+    translations: []
+    sprite: {fileID: 21300016, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Bollywood Celebrities"
+    translations: []
+    sprite: {fileID: 21300106, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Rugby"
+    translations: []
+    sprite: {fileID: 21300102, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Aussie TV"
+    translations: []
+    sprite: {fileID: 21300014, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "Aussie Celebrities"
+    translations: []
+    sprite: {fileID: 21300132, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "UK Reality Shows"
+    translations: []
+    sprite: {fileID: 21300120, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  - name: "U.K. Brands"
+    translations: []
+    sprite: {fileID: 21300038, guid: 5ac3dad9f74849ccbff307ca0a66057e, type: 3}
+  eventIcons:
+  - name: "TRIVIA MASTERS"
+    translations: []
+    sprite: {fileID: 21300000, guid: 7e3874a781de42c0ba1c5ece81892064, type: 3}
+  - name: "STAR CHAMPIONSHIP"
+    translations: []
+    sprite: {fileID: 21300000, guid: 028780da844b46a78d7ae6375c316152, type: 3}
+  - name: "TRIVIA PURSUIT"
+    translations: []
+    sprite: {fileID: 21300000, guid: f80efdd7f6ef4c729631ba44cb597825, type: 3}
+  - name: "Queen"
+    translations: []
+    sprite: {fileID: 21300000, guid: 2ec8a1d840254de3a5487f515386aeda, type: 3}
+  specialCats:
+  - name: "Queen"
+    translations: []
+    sprite: {fileID: 21300000, guid: 2ec8a1d840254de3a5487f515386aeda, type: 3}

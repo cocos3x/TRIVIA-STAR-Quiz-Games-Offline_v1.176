@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c84e628d48bafcc9dcafd1aa64580514, type: 3}
+  m_Name: "Trivia_Skeuomorphic"
+  m_EditorClassIdentifier: 
+  themeType: 1
+  themeSettings:
+    lineDragColor: {r: 1, g: 1, b: 1, a: 1}
+    tileHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+    cellTile: {fileID: 0}
+    LetterTile: {fileID: 0}
+  sprites: []
+  textures: []
+  fonts: []
+  themeTextSettings:
+  - {fileID: 11400000, guid: 157b3a2dba2b426887743e0373d97ab3, type: 2}
+  statViewPrefab: {fileID: 1790755204986038796, guid: 1454208727c542dc8d1c3b837beb8058, type: 2}
+  gridCoinCollectAnimation: {fileID: 1790755206881864205, guid: 7ee7861e17f448b7af25ab3b98877eb2, type: 2}
+  animatedCoin: {fileID: 1790755206881864209, guid: 90845b52184e4c49bb2e5b000057157b, type: 2}
+  coinsGainedAnimContents: {fileID: 1790755204986038795, guid: ec675dc179a243abbd24f3555366f832, type: 2}
+  goldenCurrencyStatViewPrefab: {fileID: 1790755204986038795, guid: af61c1984f6547bcbc3650a0af0ce225, type: 2}
+  goldCurrencyParticleSystem: {fileID: 1790755204986038795, guid: e0a9baa483b744f9bf0d3f0fbddc36f7, type: 2}
+  gemCurrencyStatViewPrefab: {fileID: 1790755204986038795, guid: 4364fe673434480fb408a086752a1f08, type: 2}
+  gemCurrencyParticleSystem: {fileID: 1790755204986038795, guid: 021d0b2509f24b7eabe857e1738ab89b, type: 2}
+  coinCurrencyStatViewPrefab: {fileID: 1790755204986038796, guid: 1454208727c542dc8d1c3b837beb8058, type: 2}
+  coinCurrencyParticleSystem: {fileID: 1790755204986038794, guid: db9966b6bc2a4d55b381fbdd144da8ef, type: 2}
+  petsFoodStatViewPrefab: {fileID: 0}
+  petsFoodCurrencyParticleSystem: {fileID: 0}
+  wordIQCell: {fileID: 0}
+  wordIQNewWordTag: {fileID: 0}
+  wordIQNewWordAnswered: {fileID: 0}
+  wordIQMilestoneColorableSprite: {fileID: 0}
+  wordIQMilestoneMasterSprite: {fileID: 0}
+  categoryLetterCell: {fileID: 0}
+  graphicTemplates:
+  - gameObject: {fileID: 0}
+    widthApplication: 1
+    heightApplication: 0
+    applyXPosition: 1
+    applyYPosition: 1
+    applyImageType: 0
+    applyPreserveAspect: 0
+    applyPivot: 1
+    applyMatchingChildrenXfms: 1
+  - gameObject: {fileID: 0}
+    widthApplication: 1
+    heightApplication: 0
+    applyXPosition: 1
+    applyYPosition: 1
+    applyImageType: 0
+    applyPreserveAspect: 0
+    applyPivot: 1
+    applyMatchingChildrenXfms: 1

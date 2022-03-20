@@ -1,0 +1,490 @@
+0DIF352	Viajar	0	¿En cuál de estas ciudades de Italia se encuentra el Coliseo?	Milán	Bolonia	Nápoles	Roma
+60E2449	Viajar	0	¿Cuál es un sitio web que se especializa en reservas de habitaciones?	Amazon.com	IRS.gov	Si.com	Hoteles.com
+0DIF357	Viajar	0	¿Cómo se llama el conjunto de tres cascadas que existe entre Estados Unidos y Canadá?	Angel Falls	Cataratas Victoria	Cataratas de Yosemite	Cataratas del Niágara
+0DIF353	Viajar	0	¿La Isla Esmeralda es un apodo para cuál de estos países?	Cuba	Japón	Nueva Zelanda	Irlanda
+40E2689	Viajar	0	¿A dónde viajarías para ir a esquiar?	Vietnam	Jamaica	Guam	Suiza
+0DIF351	Viajar	0	¿Yosemite es un parque nacional ubicado en qué estado de EE. UU.?	Idaho	Maine	Nevada	California
+40E2799	Viajar	0	Si aterriza en el Aeropuerto Internacional O'Hare, ¿en qué país estaría?	Japón	China	Dubai	Estados Unidos
+40E2179	Viajar	0	¿Qué ciudad estadounidense se conoce como NOLA?	Portland	Cleveland	Colón	Nueva Orleans
+40E2639	Viajar	0	¿Cuál es una pequeña ciudad de montaña suiza conocida por el esquí?	Coffee Bay	Franschhoek	Ciudad del cabo	St. Moritz
+611FTUX124	Viajar	0	Voy a un teatro de ópera famoso y una barrera de coral que es genial. Voy a:	Groenlandia	Noruega	Tailandia	Australia
+0DIF341	Viajar	0	¿Qué ciudad de EE. UU. Recibe el sobrenombre de 'La Gran Manzana'?	Atlanta	Denver	Cleveland	Nueva York
+611FTUX111	Viajar	0	¿Cuál de estas no es una aerolínea importante?	Delta	Southwest	American Airlines	Skybirds
+611FTUX123	Viajar	0	¿A dónde irías para el encierro, para ver la Alhambra e ir a Ibiza?	México	Brasil	Portugal	España
+40E2239	Viajar	0	Si quisieras ir a pescar en el hielo, ¿a dónde viajarías?	Arizona	Georgia	Florida	Dakota del Norte
+60E1969	Viajar	0	¿Qué es un boleto sin papel que permite a los viajeros volar solo con una identificación con foto?	Ticket de carril rápido	Entrada UPC	F-Ticket	Billete electrónico
+60E2729	Viajar	0	¿Cuál es un sitio web que se especializa en reservas de aerolíneas?	Yelp.com	Trustpilot.com	Manta.com	Kayak.com
+611FTUX116	Viajar	0	¿Qué área al norte de San Francisco es conocida por su vino?	Sausalito	Fresno	Mendocino	Napa
+611FTUX121	Viajar	0	Este estado tiene estas atracciones: Madison Square Garden, Salón de la Fama del Béisbol, Sede de las Naciones Unidas	California	Florida	Texas	Nueva York
+0DIF355	Viajar	0	¿Cuál de estos países tiene el apodo de "El Gran Norte Blanco"?	Antártida	Rusia	Groenlandia	Canadá
+60E2549	Viajar	0	¿Dónde puedes encontrar playas, volcanes, dragones de Komodo y selvas?	Nome, Alaska	Moscú	Nueva York	Indonesia
+60E2069	Viajar	0	¿Cuál ofrece el servicio más premium en un vuelo?	Entrenador	Clase de negocios	Colocarse	Primera clase
+611FTUX113	Viajar	0	Si viajaras al lago Tahoe, ¿por qué cordillera estarías navegando?	Alpes suizos	Apalaches	Monte Fuji	Sierra Nevada
+40E2739	Viajar	0	¿A quién acudiría para reservar sus planes de viaje?	Ayudante de cámara	Corredor	Agente de talentos	Agente de viajes
+40E2869	Viajar	0	¿En qué estación del año es más probable que vayas a esquiar?	Verano	Primavera	Otoño	Invierno
+60E2429	Viajar	0	Si vamos de excursión al bosque, ¿qué debemos ponernos?	Chancletas	Patines de hielo	Tacos	Botas de montaña
+611FTUX117	Viajar	0	Si estuviera volando a LAX, ¿dónde aterrizaría?	Las Vegas	Luisiana	Lafayette	los Angeles
+611FTUX115	Viajar	0	¿A cuál de estas ciudades necesitaría un pasaporte para viajar desde Nueva York?	San Diego	Seattle	Las Vegas	Toronto
+60E1429	Viajar	0	¿Qué es un boleto emitido en el check-in del aeropuerto que autoriza a un pasajero a subir a un avión?	Tabla de asientos	Pase de pasillo	Boleto dorado	Tarjeta de embarque
+40E2229	Viajar	0	¿Qué es un vuelo que viaja directamente a su destino sin conexiones ni escalas?	Pernocta	Camino directo	Un camino	Sin escalas
+0DIF349	Viajar	0	¿En cuál de estos países se encuentra el monumento religioso más grande, Angkor Wat?	Nueva Zelanda	Polonia	Vietnam	Camboya
+611FTUX112	Viajar	0	Si viajaras a través de Amtrak, ¿en qué estarías?	Coche	Autobús	Bote	Tren
+0DIF356	Viajar	0	¿Cuál de estas ciudades de Irlanda tiene el sobrenombre de "La ciudad justa"?	corcho	Kilkenny	Belfast	Dublín
+60E1489	Viajar	0	¿En qué estado de EE. UU. Estaría si estuviera visitando el campus de UCLA?	Kansas	Georgia	Maine	California
+60E2369	Viajar	0	Para ir a surfear, ¿a dónde viajarías?	Alaska	Islandia	Noruega	Hawai
+40E2509	Viajar	0	Okinawa es un volcán en qué país?	Irlanda	Noruega	Vietnam	Japón
+60E2289	Viajar	0	Si quisieras tarta de espinacas y queso feta, ¿a dónde viajarías?	México	Tailandia	China	Grecia
+611FTUX122	Viajar	0	¿Qué estado tiene Disney World, Daytona 500 y Panama City Beach?	Carolina del Norte	Kansas	California	Florida
+0DIF344	Viajar	0	La maravilla del mundo de las 'Grandes Pirámides' se encuentra en qué país	Francia	Alemania	Brasil	Egipto
+0DIF350	Viajar	0	¿Cuál de estos países tiene el sobrenombre de 'Tierra del sol naciente'?	Canadá	Panamá	Mónaco	Japón
+60E1009	Viajar	0	¿Cuántos asientos de pasajeros tiene el avión Airbus A320?	1050 asientos	5 asientos	2450 asientos	150 asientos
+60E1329	Viajar	0	Si fueras a Jamaica, ¿qué llevarías contigo?	Botas de invierno	Bufanda	Guantes	Traje de baño
+0DIF346	Viajar	0	¿En cuál de estos países se encuentra la ciudadela Inca, Machu Picchu?	Bahamas	Dinamarca	Honduras	Perú
+0DIF354	Viajar	0	¿En cuál de estos países se encuentra el Cristo Redentor?	Cuba	Albania	Samoa	Brasil
+60E2109	Viajar	0	Si estuvieras en el aeropuerto Charles de Gaulle, ¿en qué país estarías?	Alemania	Estados Unidos	China	Francia
+611FTUX118	Viajar	0	¿Cuál de las siguientes no es una aplicación de viaje compartido?	Uber	Lyft	RideScout	Google Riders
+611FTUX125	Viajar	0	¿A cuál de estos estados probablemente irías para disfrutar de una gran barbacoa?	Washington	Vermont	Alaska	Texas
+0DIF343	Viajar	0	¿En cuál de los siguientes países se encuentra la Torre Eiffel?	Suecia	Estados Unidos	Irlanda	Francia
+0DIF360	Viajar	0	¿Cuál de estas ciudades de Francia tiene el sobrenombre de 'La ciudad de las luces'?	Lyon	Marsella	Toulouse	París
+0DIF358	Viajar	0	¿La Sagrada Familia es un destino turístico habitual en cuál de estos países?	Ucrania	Noruega	Canadá	España
+60E2389	Viajar	0	¿A dónde viajarías para ver volcanes?	Florida	Misisipí	Nueva York	Hawai
+60E1289	Viajar	0	¿Qué isla se encuentra en el sur del Caribe?	Maui	Isla de Fuego	Isla de Navidad	Barbados
+0DIF342	Viajar	0	¿Se puede encontrar la Gran Barrera de Coral en la costa de cuál de estos países?	Estados Unidos	Groenlandia	Sudáfrica	Australia
+60E1549	Viajar	0	¿Cómo se llama el equipaje que llevas en un avión?	Guardianes de tramperos	Mochilas	Bolsos de mano	Carry on
+60E2649	Viajar	0	Si quisieras ir a ver los cerezos en flor, ¿a qué país viajarías?	Jamaica	Cuba	Guam	Japón
+0DIF345	Viajar	0	¿En cuál de estos países se encuentra el monte Fuji?	China	Brasil	Rusia	Japón
+40E2429	Viajar	0	¿Qué es un vuelo en el que el viaje se realiza entre las 9 p.m. y las 7 a.m.?	Vuelo oscuro	Fiesta de pijamas	Ojo rosa	Ojo rojo
+60E2309	Viajar	0	¿Cuál de estas es una línea de autobús en la que puedes viajar por EE. UU.?	Delta	Amtrak	UPS	Galgo
+40E2539	Viajar	0	¿A dónde irías para ver templos budistas y disfrutar de la música K-Pop?	Copenhague, Dinamarca	Lisboa, Portugal	Ibiza, España	Seúl, Corea
+40E2789	Viajar	0	¿A dónde viajarías por Shepherd's pie?	Brasil	Bélgica	China	Reino Unido
+40E2009	Viajar	0	¿Qué es el seguro complementario de alquiler de coches que cubre daños por accidente?	Seguro de vida	Seguro de tapacubos	Fondo Oopsie	Exención de responsabilidad por daños y perjuicios
+611FTUX114	Viajar	0	¿En qué carretera interestatal larga de este a oeste de los EE. UU. Le "divertiría"?	I-95	I-5	Autopista 101	Ruta 66
+60E2669	Viajar	0	¿Cuál de estas es realmente una aerolínea estadounidense?	Jet púrpura	Rosa azabache	Negro azabache	Azul azabache
+0DIF359	Viajar	0	¿Se podría encontrar la Capilla Sixtina en cuál de estas ciudades?	Atenas	Berlín 	Viena	Ciudad del Vaticano
+60E1029	Viajar	0	¿Cuál es la estimación más cercana a la distancia en millas entre Nueva York y Los Ángeles?	150 millas	18000 Millas	9000 millas	3000 Millas
+0DIF348	Viajar	0	¿Cuál de estas ciudades de EE. UU. Se conoce como 'La ciudad del viento'?	Boise	Las Vegas	Orlando	Chicago
+40E2779	Viajar	0	Si estuvieras en el aeropuerto de Londres Heathrow, ¿en qué país estarías?	España	India	Holanda	Reino Unido
+40E2749	Viajar	0	¿Cuál es la organización encargada de la seguridad de los vuelos aéreos en Estados Unidos?	CCCP	USP	CIA	TSA
+0DIF347	Viajar	0	La maravilla natural, el Gran Cañón, ¿en qué estado de EE. UU. está?	Michigan	Washington	Texas	Arizona
+611FTUX119	Viajar	0	Para ver un juego de Golden Knights, un juego de Raiders y visitar una Torre Eiffel, ¿adónde irías?	París	Oakland	Nueva Orleans	Las Vegas
+60E1089	Viajar	0	¿Cuál es una forma de obtener un mejor precio por un billete de avión?	Traer almuerzo	Vuela de ida	Pagar en efectivo	Compra avanzada
+40E2599	Viajar	0	Si visita Alaska en el invierno, ¿qué llevaría consigo?	Sandalias	Traje de baño	Camiseta sin mangas	Botas de nieve
+40E2209	Viajar	0	¿Cómo llaman a un viajero que no aparece en su vuelo o reserva de hotel?	Caminante	Desahuciado	Abandonar	No Show
+532304	Viajar	1	¿A quién interpretó el alemán Michael Fassbender en la película "X-Men: Days of Future Past"?	Dr. Bolivar Trask	Charles Xavier	Beast	Erik Lehnsherr
+611FTUX120	Viajar	1	Si está tomando un vuelo de ojos rojos, ¿qué tiene de notable?	Alcohol de cortesía	Aerolínea económica / asientos	Café gratis ilimitado	Vuelo muy tarde / nocturno
+376767	Viajar	1	¿Dónde encontrarías una selva tropical?	Noruega	Nueva York	Antártida	Sudamérica
+532335	Viajar	1	Dinamarca limita con qué otro país?	pavo	Sudáfrica	México	Alemania
+532286	Viajar	1	Si fueras a una fiesta en México, ¿cómo se llamaría?	Carnaval	Relaxa	Mardi Gras	Fiesta
+75091	Viajar	1	¿En qué país se encuentra el aeropuerto de Copenhague?	Cuba	Portugal	Alemania	Dinamarca
+532297	Viajar	1	El primero de noviembre, España celebra "Todos los Santos" que se traduce a ¿qué en inglés?	Pascua de Resurrección	Dia del padre	Navidad	Todos los Santos
+376819	Viajar	1	¿Cuál es el nombre común del esqueleto homínido de 3,2 millones de años descubierto en 1974 en Etiopía?	Prudence	Martha	Sadie	Lucy
+532277	Viajar	1	¿El nombre de qué ciudad marroquí significa literalmente "casa blanca" en español?	Beni Mellal	Marrakech	Boulemane	Casablanca
+532345	Viajar	1	¿Cuál de los siguientes es el atuendo tradicional que usan los hombres escoceses?	Chaqueta militar	Zapatos morados	Ponchos	Falda escocesa
+368593	Viajar	1	¿Qué país se llama "Tierra de fuego y hielo"?	Creta	Cuba	Australia	Islandia
+532326	Viajar	1	¿Cuál de estas ciudades no está en Europa?	Berlín	Helsinki	Varsovia	Sydney
+532295	Viajar	1	Escocia es el país con más gente que tiene el color de cabello.	Rubia	Negro	marrón	rojo
+42423	Viajar	1	¿Qué ciudad marroquí es el escenario de una película de drama romántico de 1942 protagonizada por Humphrey Bogart e Ingrid Bergman?	Rabat	Fez	Tánger	Casablanca
+376836	Viajar	1	¿Qué ciudad se conoce como la "Ciudad del amor fraternal"?	Miami	los Angeles	Nueva York	Filadelfia
+528365	Viajar	1	¿En qué estado de EE. UU. Se encuentra el Aeropuerto Internacional de Louisville?	Carolina del Norte	Florida	Indiana	Kentucky
+376764	Viajar	1	Edimburgo, Glasgow y Dundee son ciudades en qué país?	Perú	México	Argentina	Escocia
+376704	Viajar	1	¿Cuál es el lugar más profundo del mundo?	Estrecho de Bering	Gran Barrera de Coral	mar del Sur de China	Fosa de las Marianas
+376765	Viajar	1	¿El clima de Islandia se describe mejor como qué?	Caliente	Calentar	Lluvioso	Frío
+368850	Viajar	1	¿Los rastafaris y las rastas están asociados con la cultura de qué isla?	Irlanda	Japón	Madagascar	Jamaica
+532325	Viajar	1	Si fueras al Aeropuerto Internacional de Jacksonville, ¿en qué estado de EE. UU. Estarías?	Texas	Michigan	Carolina del Norte	Florida
+532314	Viajar	1	¿Qué cordillera de Colorado contiene la División Continental?	La gama delantera	La Sangre De Cristos	Los san juan	Las Rocosas
+267798	Viajar	1	¿Qué país limita con Alaska?	Japón	Taiwán	Finlandia	Canadá
+532285	Viajar	1	¿Qué país fue el hogar del Imperio Inca?	Australia	Canadá	Francia	Perú
+376264	Viajar	1	¿Con qué cultura se asocian los sombreros flexibles llamados "boinas"?	chino	sudafricano	noruego	francés
+462325	Viajar	1	Sudáfrica tiene una larga costa que se extiende por más de 2500 km y ¿a lo largo de qué dos océanos?	Océano Pacífico y Océano Índico	Océano Pacífico y Océano Atlántico	Océano Atlántico y Océano Ártico	Océano Atlántico y Océano Índico
+40E2289	Viajar	1	¿Cuál es la atracción turística más visitada del mundo?	El Gran Cañón	El Coliseo	Disneyworld	Times Square
+462400	Viajar	1	¿Qué autor inglés, que escribió "El señor de los anillos", nació en Bloemfontein, Sudáfrica?	Peter Jackson	C. S. Lewis	J. K. Rowling	J. R. R. Tolkien
+60E1389	Viajar	1	¿A qué denominan las aerolíneas las fechas específicas en las que no aplican tarifas especiales o promociones?	Fechas globales	Holida	Días normales	Fechas de apagón
+48918	Viajar	1	¿De qué estado suele despegar el transbordador espacial?	Nebraska	Nueva York	Utah	Florida
+376842	Viajar	1	¿De qué país proceden las personas a las que se hace referencia como polacos o polacos?	Indonesia	México	Perú	Polonia
+376418	Viajar	1	¿Qué bosque nacional de California es el hogar de los árboles más grandes del mundo?	Mendocino	Sierra	Modoc	Secoya
+368787	Viajar	1	El Día de Muertos es una famosa costumbre cultural que se celebra en qué país?	Países Bajos	Rusia	Perú	México
+462399	Viajar	1	¿En cuál de estos países podrías ver canguros en la naturaleza?	Suecia	Zimbabue	China	Australia
+376838	Viajar	1	¿Qué país toca el mar Mediterráneo, el golfo de Vizcaya y el océano Atlántico?	Japón	Jamaica	Nigeria	España
+376279	Viajar	1	¿Cuál de estas es una ciudad de Pensilvania considerada la "Capital del chocolate" de Estados Unidos?	Marte	Stover	Godiva	Hershey
+532346	Viajar	1	¿Cuál de estos países atraviesa el río Nilo?	Austria	Nueva Zelanda	Brasil	Egipto
+532274	Viajar	1	¿Qué película animada le dio reconocimiento internacional a "hakuna matata", una frase de uso común en Kenia?	Historia del juguete	La bella y la Bestia	Monstruos inc.	El rey León
+532305	Viajar	1	Ubicada en el noreste de Tanzania, ¿cuál es la montaña más alta de África?	el Monte Everest	Monte Elbrus	Cerro Aconcagua	monte Kilimanjaro
+218174	Viajar	1	¿Qué ciudad de Estados Unidos se llama "Ciudad de la música"?	Nueva Orleans, LA	Hollywood, CA	Pittsburgh, PA	Nashville, TN
+532355	Viajar	1	¿Qué fenómeno es a menudo visible en las Cataratas del Niágara?	Migración de mariposas	Deslizamiento de barro	Tazón de polvo	Arco iris
+532347	Viajar	1	Marruecos es uno de los tres únicos países que tiene costas en el Océano Atlántico y ¿en qué mar?	mar Rojo	Mar Caribe	Mar de Noruega	mar Mediterráneo
+258514	Viajar	1	¿Qué montaña es la más alta de Grecia?	el Monte Everest	Monte Fuji	Monte Smolikas	Monte Olimpo
+376775	Viajar	1	Mah Jong es el juego más común en qué país?	Pakistán	EAU	Corea del Sur	China
+462408	Viajar	1	¿Qué famosa compañía de motocicletas llama hogar a Milwaukee, Wisconsin?	Suzuki	Honda	Isuzu	Harley Davidson
+532316	Viajar	1	¿Qué cordillera se encuentra en el Perú?	montañas Apalaches	montañas Rocosas	Alpes	Montañas de los Andes
+258627	Viajar	1	¿En qué dirección se encuentra el Golfo de México desde Cuba?	norte	Este	Sur	Oeste
+369199	Viajar	1	¿El kimchi es un alimento común de qué país?	Bután	Japón	Irak	Corea
+462410	Viajar	2	¿Qué zona de playa es una atracción turística popular de Carolina del Sur?	Playa Virginia	Hilton Head	St. Simons	playa Myrtle
+462405	Viajar	2	¿De qué color es el pasto azul de Kentucky?	Azul	Púrpura	marrón	Verde
+462319	Viajar	2	¿Una réplica de qué edificio en Atenas, Grecia, se encuentra en el Centennial Park de Nashville?	Gran piramide	Coliseo	Erecteión	Partenón
+258865	Viajar	2	Si fueras al aeropuerto de Martha's Vineyard, ¿en qué estado de EE. UU. Estarías?	Florida	New Hampshire	Alaska	Massachusetts
+532417	Viajar	2	Cuba tiene aproximadamente cuántos kilómetros de costa?	15.000 kilómetros	59.000 kilómetros	200 kilómetros	3.700 kilómetros
+532398	Viajar	2	¿Qué ciudad de Brasil es la ciudad más grande de América?	Lahore	Ciudad de México	Lagos	Sao Paulo
+518550	Viajar	2	¿Cuál es la montaña más alta de África?	Pico de Tanzania	Monte Stella	Victoria Peak	monte Kilimanjaro
+518422	Viajar	2	¿Qué país limita con Alemania, la República Checa, Eslovaquia y Ucrania?	Chile	Haití	India	Polonia
+394727	Viajar	2	¿Dónde NO usarías "buenos dias" (buenos días) y "buenas noches" (buenas noches)?	Bolivia	Chile	México	Japón
+532306	Viajar	2	¿Qué país está dividido en 443 islas con nombre y también tiene el territorio de Groenlandia?	Kenia	Canadá	Cuba	Dinamarca
+407354	Viajar	2	¿En qué parte del continente africano se encuentra la República Democrática del Congo?	norte	Oeste	Este	Central
+92604	Viajar	2	¿Qué país tiene la octava población más grande de Europa con aproximadamente 38,5 millones de residentes?	Dinamarca	Escocia	Nicaragua	Polonia
+532294	Viajar	2	Islandia es el hogar de volcanes activos que arrojan ¿qué?	Limo	Hielo	Hormigón	Lava
+376778	Viajar	2	¿En qué ciudad del Reino Unido encontrarás Abbey Road popularizada por The Beatles?	Liverpool	Glasgow	Manchester	Londres
+524347	Viajar	2	¿Cuál es la segunda ciudad más grande de Brasil, en la costa del Atlántico Sur?	Luanda	Foshan	Santiago	Rio de Janeiro
+480382	Viajar	2	Letonia se encuentra en las costas orientales de qué mar?	mar del Norte	Mar de Noruega	mar Mediterráneo	mar Báltico
+532354	Viajar	2	¿Qué isla cruza el puente de Queensboro entre Queens y Manhattan?	Fisher Island	Isla de Fuego	Isla Coney	Isla Roosevelt
+503048	Viajar	2	¿La parte sur de Uganda incluye una parte sustancial de qué lago principal?	Lago Tanganica	Lago malawi	Lago turkana	Lago Victoria
+532364	Viajar	2	¿Qué instrumento se presenta en las bandas de mariachis mexicanos?	Violonchelo	Piano	Tuba	Trompeta
+532275	Viajar	2	¿En qué país encontrará albóndigas fritas servidas con patatas y salsa llamadas frikadeller?	Cuba	Jamaica	México	Dinamarca
+532374	Viajar	2	¿Dónde está el sagrado río Ganges?	Cuba	Inglaterra	Venezuela	India
+376276	Viajar	2	Namaste con las manos juntas es un saludo habitual ¿en qué país asiático?	China	Japón	Mongolia	India
+518479	Viajar	2	¿Qué carretera se puede seguir hasta la costa de California?	Interestatal 5	Estados Unidos 287	Ruta 66	Carretera 1
+526516	Viajar	2	¿El nombre de qué estado de los Estados Unidos significa "montaña" en español?	Wyoming	Oklahoma	Iowa	Montana
+518573	Viajar	2	¿Qué ciudad china también es conocida como la "Perla de Oriente" y "París de Oriente"?	Lima	Karachi	Ahmedabad	Shanghai
+518493	Viajar	2	¿Qué plaza de la ciudad en el centro de Beijing, China es la cuarta plaza de la ciudad más grande del mundo?	Parque Rizal	Piazza Carlo III de Borbón	Plaza Kuybyshev	Plaza de Tiananmen
+532296	Viajar	2	¿Qué mar del océano Atlántico separa Estonia de Finlandia?	Mar Egeo	mar Mediterráneo	Mar Negro	mar Báltico
+404358	Viajar	2	El monte Kenia es el segundo más alto de África, ¿después de qué montaña?	el Monte Everest	Monte Elbrus	Cerro Aconcagua	monte Kilimanjaro
+462318	Viajar	2	¿En qué zona horaria se encuentra Hawái?	Tiempo central	Hora del Pacífico	Hora de la montaña	Hora estándar de Hawai
+532435	Viajar	2	¿Cómo se llama el lago más grande de África, que Kenia comparte con Tanzania y Uganda?	Lago chad	Lago Tanganica	Lago malawi	Lago Victoria
+376839	Viajar	2	¿En qué país diría "Auf Wiedersehen" para decir "adiós"?	Costa Rica	India	China	Alemania
+368599	Viajar	2	¿Cuál de estos países tiene una población mayoritariamente nórdica y gaélica?	Brasil	Sudáfrica	Cuba	Islandia
+258714	Viajar	2	¿Qué hotel de Las Vegas se derrumbó en 1993?	Playa	Sáhara	Bellagio	Dunas
+518552	Viajar	2	¿En qué estado de EE. UU. Abrió Walt Disney su primer parque de diversiones?	Florida	Nueva York	Nuevo Mexico	California
+532349	Viajar	2	¿Qué ciudad de California es el centro de una metrópolis que se extiende por cinco condados?	San Bernardino	San Diego	San Francisco	los Angeles
+265389	Viajar	2	¿Qué masa de agua separa Escocia de Noruega?	Pentland Firth	Bahía de Gruinard	Canal Norte	mar del Norte
+524273	Viajar	2	¿El Álamo se encuentra en qué ciudad?	Dallas	Austin	Houston	San Antonio
+479164	Viajar	2	¿Qué intersección comercial en Manhattan, Nueva York, se conoce como "La encrucijada del mundo"?	Times Center	Times Avenue	Times Street	Times Square
+282859	Viajar	2	¿Qué hotel de Las Vegas tiene forma de castillo?	Bellagio	MGM Grand	Luxor	Excalibur
+376589	Viajar	2	¿Dónde se espera que diga "kampai!" en lugar de "Saludos"?	India	Indonesia	Rusia	Japón
+376777	Viajar	2	¿Qué actor francés, que interpretó el papel principal en "León: el profesional", nació en Casablanca, Marruecos?	Gerard Depardieu	Vincent Cassel	Jean Dujardin	Jean Reno
+532379	Viajar	2	Los hornos Tandoor se utilizan para hornear panes, como naan, ¿en qué país?	Francia	Taiwán	Tahití	India
+259055	Viajar	2	¿Qué importante empresa farmacéutica tiene su sede en la ciudad de Berlín?	Novartis	Merck & Co	Eli Lilly & Co.	Bayer Health Care
+376265	Viajar	2	¿Qué cascada en la frontera entre Zambia y Zimbabwe se considera la caída más grande del mundo?	Cataratas Chavuma	Cataratas Ngonye	Cataratas de Sioma	Cataratas Victoria
+479186	Viajar	2	¿Qué hotel se conoce como la "Primera Dama de Waikiki"?	Aston Honolulu	Halekulani	Hawai Inn	Moana
+532338	Viajar	2	¿Qué cadena montañosa forma la frontera norte de Italia?	Montañas Rocosas	Macarrones	Andes	Alpes
+376827	Viajar	2	¿Cuál es una de las ruedas de observación más grandes del mundo, situada en la orilla sur del Támesis en Londres?	Nariz de Londres	London Ear	Boca de Londres	Ojo de londres
+518487	Viajar	2	¿Qué personaje de una serie de novelas de suspenso de Thomas Harris nació en Lituania?	Han Solo	Hans Gruber	Hansel	Hannibal Lecter
+376776	Viajar	2	¿De qué país, hogar de la montaña más alta del mundo, es Katmandú la capital?	Pakistán	Tíbet	Perú	Nepal
+374373	Viajar	2	¿Qué tipo de carne encontrarás en el currywurst de comida rápida alemana?	Cordero	pavo	Pollo	Cerdo
+532315	Viajar	2	¿Qué salón de la fama se encuentra en Cleveland, Ohio?	Béisbol	Baloncesto	Trompeta	Rock and roll
+376790	Viajar	2	Los estilos populares de vestir en qué país incluyen el sari para las mujeres y el dhoti para los hombres.	Inglaterra	Escocia	Australia	India
+462385	Viajar	2	¿Cuba está situada entre qué dos cuerpos de agua?	Océanos Atlántico y Pacífico	Océanos Pacífico e Índico	Mar Caribe y Canal de Panamá	Mar Caribe y Océano Atlántico
+462396	Viajar	2	El folclore irlandés a menudo incluye historias de qué criaturas verdes míticas	Pie Grande	Hadas	Demonio de Tasmania	Duendes
+369188	Viajar	2	¿Cuál es la isla más grande del mar Mediterráneo?	Creta	Cerdeña	Chipre	Sicilia
+532317	Viajar	2	¿Qué vasta llanura de Tanzania alberga la mayor migración de mamíferos terrestres del mundo?	Ruaha	Mikumi	Tarangire	Serengeti
+532299	Viajar	2	¿Cuál de las siguientes especies en peligro de extinción puede encontrar en el Gran Cañón?	Rinoceronte negro	Gorila de montaña	Jaguar	Águila calva
+394757	Viajar	2	¿Qué ciudad brasileña se conoce coloquialmente como "Sampa"?	Ciudad de México	Lima	Bangalore	Sao Paulo
+532336	Viajar	2	Después de Moscú, ¿cuál es la segunda ciudad más grande de Rusia?	Kinshasa	Jacarta	Estanbul	San Petersburgo
+376851	Viajar	3	¿En qué país encontraría el monte Egmont?	Suiza	Arabia Saudita	Nepal	Nueva Zelanda
+283373	Viajar	3	¿Cuál es la capital de Lituania y la segunda ciudad más grande de los estados bálticos?	Kaunas	Klaipeda	Siauliai	Vilna
+532344	Viajar	3	Ty es polaco para qué palabra	Amor	Lo siento	Adiós	usted
+39877	Viajar	3	¿Cómo se llama la ciudad famosa por los acantilados blancos que se pueden ver relucientes desde lejos?	Denver	Norwich	Lincoln	Dover
+479217	Viajar	3	Chilango es un término de jerga que se usa para referirse a una persona de qué ciudad de México.	São Paulo	Kinshasa	Bogotá	Ciudad de México
+532356	Viajar	3	Conocida como la "Ciudad Verde en el Sol", ¿cuál es la capital y ciudad más grande de Kenia?	Mombasa	Kisumu	Nakuru	Nairobi
+532372	Viajar	3	¿Qué pueblo sudafricano es el único lugar del mundo que tiene su propio "pregonero de ballenas"?	Fisherhaven	Wolvengat	Sandbaai	Hermanus
+63760	Viajar	3	¿Qué hotel no se encuentra en Londres?	Casa Grosvenor	Saboya	Langham	Carlton
+462316	Viajar	3	¿El puente Akashi-Kaikyo en Japón conecta Kobe con qué isla?	Isla de Honshu	Isla Kiusu	Isla Shikoku	Islas Awaji
+259069	Viajar	3	¿Qué cineasta lituano-estadounidense a menudo se ha llamado "el padrino del cine de vanguardia estadounidense"?	George Maciunas	Andy Warhol	Peter Kubelka	Jonas Mekas
+505817	Viajar	3	¿Hasta dónde se extiende el archipiélago hawaiano?	500 millas	100 millas	50.000 millas	1,600 Millas
+394451	Viajar	3	¿Cuál de estos lagos se encuentra completamente dentro de Uganda?	Lago albert	Lake Edward	Lago Victoria	Lago Kyoga
+45474	Viajar	3	¿Cuál es el idioma oficial de Surinam?	Inglés	francés	Español	holandés
+532380	Viajar	3	¿En qué año abrió el zoológico de Londres?	1955	1776	1901	1828
+462321	Viajar	3	Una cena tradicional lituana de Nochebuena normalmente consta de cuántos platos sin carne.	9	15	6	12
+532039	Viajar	3	¿Cuál fue el nombre del primer parque temático Six Flags?	Su noria más grande	Un circo local famoso	Las banderas de los estados cercanos	Banderas que han volado sobre Texas
+532434	Viajar	3	¿Cuál de estas islas japonesas es la más grande?	Kyushu	Hokkaido	Shikoku	Honshu
+532433	Viajar	3	Con su punto más alto alcanzando los 368 m, ¿qué torre en Letonia es la estructura más alta de los estados bálticos?	Mástil de TV Koeru	Torre de televisión de Vilnius	Torres Z	Torre de radio y televisión de Riga
+258796	Viajar	3	¿Qué zona de Inglaterra ha sido conocida durante mucho tiempo como una gran ciudad industrial y una ciudad de canales?	Sofá	Greenwich	Londres	Birmingham
+518483	Viajar	3	¿Qué río es propenso a inundarse y se puede encontrar en la ciudad de York?	Río Sark	Río Lyne	Río Caldew	Río Ouse
+479202	Viajar	3	Zimbabwe era conocido anteriormente por cuál de los siguientes nombres?	Dahomey	Tanganica	Zaire	Rhodesia
+376377	Viajar	3	¿Qué ciudad fue fundada en 1907 pero solo se convirtió en la capital de Ruanda cuando el país se independizó en 1962?	Nyanza	Pero son	Gitarama	Kigali
+258747	Viajar	3	Etiopía y qué otro país tiene la mayor cantidad de sitios del Patrimonio Mundial de la UNESCO en África con nueve sitios?	Egipto	Argelia	Túnez	Marruecos
+532289	Viajar	3	¿Quién fue el arquitecto del puente Golden Gate?	John A. y Washington Roebling	Art Garfinkle	Autoridad del puente Honshu-Shikoku	Joseph Baermann Strauss
+394902	Viajar	3	¿Qué guiso picante acompañado de un pan plano y esponjoso es el plato nacional de Etiopía?	Wy	Nosotros somos	Wen	Wat
+479224	Viajar	3	¿En qué ciudad inglesa se encuentra el Lowry Center, con una galería de pinturas de LS Lowry?	Leeds	Manchester	Quemadura negra	Salford
+532319	Viajar	3	¿A qué país pertenece Irlanda del Norte?	Republica de Irlanda	Alemania	Rumania	Reino Unido
+258699	Viajar	3	¿Cuál de estos es el río más largo de Inglaterra?	Río Támesis	Río humber	Río Ribble	Río Severn
+524361	Viajar	3	¿Cuál es el nombre de la calle más cercana a la playa en South Beach?	Carretera Federal	Collins Avenue	Biscayne Blvd.	Ocean Drive
+518464	Viajar	3	¿Qué ciudad iraquí es la segunda más grande del mundo árabe después de El Cairo, Egipto?	Hanoi	Wuhan	Teherán	Bagdad
+258736	Viajar	3	¿Qué ciudad balneario ha sido la capital de verano oficial de Estonia desde 1996?	Narva	Tartu	Tallin	Parnu
+532282	Viajar	3	¿Qué hotel de Las Vegas compró el multimillonario Howard Hughes en 1967?	Playa	Sáhara	Stardust	Nueva frontera
+518528	Viajar	3	Aproximadamente, ¿cuántas millas hay de París a Nueva York?	10,200 Millas	34,990 Millas	1,289 Millas	3,624 Millas
+524277	Viajar	3	¿Qué masa de agua se encuentra directamente al sur de la India?	Bahía de Fundy	mar Arabe	Golfo de México	océano Índico
+368819	Viajar	3	La primera celebración del 4 de julio en la Casa Blanca se llevó a cabo en 1801, ¿qué presidente estadounidense?	George Washington	John Adams	Abraham Lincoln	Thomas Jefferson
+532373	Viajar	3	¿Cuál de estos lagos está completamente dentro del país de Zambia?	Lago kariba	Lago Mweru	Lago Tanganica	Lago bangweulu
+97889	Viajar	3	¿Qué ciudad de Malí fue un centro mundial de aprendizaje islámico desde el siglo XIII al XVII?	Sikasso	Mopti	Bamako	Tombuctú
+91643	Viajar	3	¿Cerca de qué ciudad se encuentra el lago Truc Bach?	Tokio	San Juan	Manila	Hanoi
+532363	Viajar	3	¿Dónde en Nueva Zelanda está el kiwi gigante?	Ohakune	Whitianga	Gore	Te Puke
+532318	Viajar	3	¿Cómo se llamaba la República Democrática del Congo entre 1971 y 1997?	Biafra	Rhodesia	Tanganica	Zaire
+70990	Viajar	3	¿Los hutus, los tutsis y los pigmeos que viven en los bosques componen los tres principales grupos étnicos de Ruanda?	Hausa	Yoruba	Ibo	Twa
+490940	Viajar	3	¿Qué significa el nombre Zimbabwe en el dialecto Karanga del idioma Shona?	Tierra del Zambezi	Hermanos y hermanas	Lenguas de fuego	Grandes casas de piedra
+479225	Viajar	3	¿Qué especie de flamenco se reproduce principalmente en el altamente cáustico lago Natron en el norte de Tanzania?	Flamenco de James	Mayor Flamingo	Puna Flamingo	Flamenco menor
+258693	Viajar	3	¿Cuál es el significado de la palabra "Woolloomoolloo", el nombre de un suburbio del interior de Sydney?	Agua salada	Buen lugar para pescar	Una especie de árbol de goma	Canguro
+532383	Viajar	3	¿Cuál es el estado más seco del país más seco del mundo?	California, EE.UU	Nevada, Estados Unidos	Estado libre, Sudáfrica	Australia del Sur, Australia
+532339	Viajar	3	¿Qué isla británica, accesible por carretera solo durante la marea baja, también se conoce como Holy Island?	Holyhead	Anglesea	Pizca	Lindisfarne
+479175	Viajar	3	¿Qué ciudad de Sudáfrica es la ciudad más grande del mundo que no está situada en un río, lago o costa?	Pretoria	Bloemfontein	Ciudad del cabo	Johannesburgo
+80378	Viajar	3	¿Qué hotel y casino de Las Vegas cerró sus puertas en 2004?	Paseo marítimo de MGM	Riviera	puerta Dorada	Náufragos
+82503	Viajar	3	¿Qué país recibe una brisa marina tropical, conocida como "el Doctor"?	Austria	Cuba	Bahamas	Australia
+532376	Viajar	3	¿Qué conglomerado global de medios se formó en Adelaide, Australia?	Reuters	Gannett	Transmisión del cielo	Corporación de noticias
+518534	Viajar	3	¿Qué significa el nombre del pico más alto de Estonia, Suur Munamagi, en inglés?	Montaña Big Nut	Montaña Big Bud	Gran montaña de semillas	Big Egg Mountain
+283422	Viajar	3	La bandera de Letonia, que es rojo-blanco-rojo, a menudo se confunde con la bandera de qué otro país europeo.	Bielorrusia	Polonia	Malta	Austria
+524279	Viajar	3	¿Qué río atraviesa Glasgow, Escocia?	Río Bonnie	Temas del río	Río Annan	Río Clyde
+258767	Viajar	3	¿Qué atracción en Londres es donde puedes conocer a Jack el Destripador?	Cárcel de Tooley	Westminister	Dockland	calabozo de Londres
+394567	Viajar	3	¿Qué cascada en el sur de Tanzania es la segunda caída ininterrumpida más alta de África?	Cataratas Rusumo	Soni Falls	Cataratas de Tugela	Cataratas de Kalambo
+532367	Viajar	3	Malí es un país sin litoral ubicado en qué región de África?	Sudáfrica	África del Norte	este de Africa	África occidental
+376539	Viajar	3	¿Qué ciudad, oficialmente llamada Salisbury hasta 1982, es la capital de Zimbabwe?	Bulawayo	Mutare	Chitungwiza	Harare
+462320	Viajar	3	¿Dónde encontraría el puente Storbaelt?	Italia	España	Francia	Dinamarca
+258719	Viajar	3	¿Qué hotel ocupa toda una manzana en el centro de Riverside, California?	Marriott	Hilton	Howard Johnson	Mission Inn
+258695	Viajar	3	¿Qué ciudad está ubicada en el centro-sur de la provincia de Guangdong, China y en el este del delta del río Pearl?	Teherán	Bogotá	Bangkok	Dongguan
+528374	Viajar	3	¿En qué ciudad encontraría el río Tajo?	París	Lima	Seúl	Lisboa
+531913	Viajar	3	¿Cómo se llama el distrito de los teatros de Londres?	Britway	Camino Cultural	Globe Center	West End
+532302	Viajar	3	¿Qué masa de agua se encuentra entre Sicilia, Cerdeña e Italia?	mar Jónico	mar Adriatico	Mar Egeo	Mar Tirreno
+411001	Viajar	3	¿Qué código de aeropuerto usa el Aeropuerto Internacional Washington Dulles?	GEG	FLO	BNA	IAD
+505818	Viajar	3	¿Cómo se llama la parte más meridional de la India?	Punto indio	Punto árabe	Bengala Point	Punta Indira
+258749	Viajar	3	Okefenokee es una palabra india que significa ¿qué?	Tierra húmeda	Suelo fangoso	Caimán	Tierra temblorosa
+369307	Viajar	3	¿Dónde en Inglaterra encontrarías Durdle Door?	Yorkshire Dales	Distrito de los lagos	Los Peninos	Costa de Dorset
+532413	Viajar	3	¿Qué hotel fue el edificio más alto del estado de Texas durante varios años?	muguete	Coronado	Fitzgerald	Adolfo
+90891	Viajar	3	En 2010, Escocia ganó el Centenary Quaich por primera vez desde qué año.	1999	2003	2005	2001
+532323	Viajar	3	¿Qué hotel acogió la primera aparición de Elvis Presley en Las Vegas en 1956?	Playa	Sáhara	Stardust	Nueva frontera
+258732	Viajar	3	¿Qué grupo étnico de Malí es conocido por sus tradiciones religiosas, bailes de máscaras y arquitectura?	Bamako	Sikasso	Mopti	Dogon
+258731	Viajar	3	¿Qué isla de Nueva Zelanda lleva el nombre de un pez de la leyenda maorí?	Isla Stewart	isla del sur	Isla Blanca	isla del Norte
+532332	Viajar	3	¿Cómo se llama la torre en Oxford que contiene 99 escaleras y ofrece una vista espectacular?	Torre Bok	Torre de la calle principal	Torre de Canterbury	Torre Carfax
+258686	Viajar	3	¿Cómo se llamaba el segundo hotel que abrió en Las Vegas Strip?	Playa	Sáhara	Espejismo	Nueva frontera
+258661	Viajar	3	¿En qué año se incorporó Los Ángeles como ciudad?	1812	1890	1859	1850
+258684	Viajar	3	¿Qué puente en Western Cape, Sudáfrica es el sitio del puente bungee comercial más alto del mundo?	Puente Nelson Mandela	Puente Paul Sauer	Puente Van Stadens	Puente de Bloukrans
+289052	Viajar	3	¿En qué ciudad sudafricana encontraría uShaka Marine World, el acuario más grande de África?	Rustenburg	Puerto Elizabeth	Ciudad del cabo	Durban
+532322	Viajar	3	¿Cuál no es una isla en las Bahamas?	Andros	Torcido	Gato	Palma
+532399	Viajar	3	Según Forbes 2013, ¿qué ciudad rusa tiene el mayor número de residentes multimillonarios del mundo?	Mumbai	Dhaka	Guangzhou	Moscú
+394274	Viajar	3	¿En qué ciudad encontrarás el Museo de la Moda que da vida a la historia de la moda de los últimos 400 años?	Londres	Surrey	Bennett	Bath
+532378	Viajar	3	¿Qué describe mejor el Mar Negro?	Aproximadamente del tamaño de Rhode Island	Hogar del Partenón	También conocido como el Palacio de Westminster	El nombre se debe a su espesa niebla
+99278	Viajar	3	¿Qué significa EPCOT?	Consorcio Postal Experimental de Trinidad	Pruebas experimentales de operaciones de clonación de personas	Centros de producción de Excalibur de Tinseltown	Comunidad de prototipos experimentales del mañana
+258867	Viajar	3	¿Qué moneda anterior reemplazó el dólar surinamés?	Franco surinamés	Libra surinamés	Hier de Surinam	Florín surinamés
+194716	Viajar	3	¿Qué cadena de hoteles opera como una asociación de miembros sin fines de lucro?	Holiday Inn	Hampton Inn	Ramada	Best Western
+91147	Viajar	3	¿Dónde se encuentra Buzzards Bay?	Hawai	Jamaica	Bahamas	Massachusetts
+526489	Viajar	3	¿Dónde usaría los términos "Domnul" y "Doamna" para dirigirse a las personas?	Irak	Italia	Alemania	Rumania
+75402	Viajar	3	¿Qué mezquita ubicada en Dodoma, la capital de Tanzania, es la segunda más grande de África Oriental?	Mezquita Malindi	Mezquita de Ijumaa	Mezquita Kizimkazi	Mezquita de Gadafi
+532342	Viajar	3	¿Dónde está el hábitat indígena del pequeño árbol kawakawa?	Etiopía	Tonga	Hawai	Nueva Zelanda
+75908	Viajar	3	¿En qué estado se ubicó el primer hotel Omni?	Nueva York	California	Massachusetts	New Hampshire
+258623	Viajar	3	¿Qué ciudad de Alabama se llama "La capital mundial de los cohetes"?	Montgomery	Birmingham	cabo Cañaveral	Huntsville
+532334	Viajar	3	La gente de la tribu masai de Kenia siempre usa qué color vivo	Negro	Lavanda	marrón	rojo
+479222	Viajar	3	Tony Bennett cantó por primera vez su canción "Dejé mi corazón en San Francisco" en la ornamentada habitación veneciana de qué hotel.	El hotel Warwick	El Hotel Savery	Sir Francis Drake	El hotel Fairmont
+8474	Viajar	3	¿Cuál es el diámetro de la noria del London Eye en Londres?	335 metros	55 metros	575 metros	135 metros
+462387	Viajar	3	Según la historia antigua de Etiopía, ¿qué planta descubrió un cabrero abisinio, Kaldi?	Tabaco	Algodón	Árbol de cacao	café
+532281	Viajar	3	¿A qué iglesia monolítica de Lalibela, Etiopía se le ha llamado la "Octava Maravilla del Mundo"?	Iglesia de San Eustaquio	Iglesia de San Vito	Iglesia de San Elmo	Iglesia de San Jorge
+532395	Viajar	3	¿Cuál es el animal nacional de Sudáfrica, que también da nombre a la selección de rugby de Sudáfrica?	Fennec Fox	Jirafa	Leopardo	Gacela
+100958	Viajar	3	¿Dónde dices "gamarjoba" cuando conoces a alguien por primera vez?	Bangladesh	India	Canadá	Georgia
+60065	Viajar	3	¿Cuál es el lago más grande de la península italiana?	Lake Louis	Lake George	Lago Macarrones	Lago Trasimeno
+532351	Viajar	3	¿Cómo se llama la cadena montañosa que atraviesa el centro de Escocia?	cambriano	Wicklow	Peninos	Grampian
+518433	Viajar	3	¿Qué mezquita en Casablanca, Marruecos es la mezquita más grande de África?	Mezquita Koutoubia	Gran Mezquita de Taza	Mezquita de Mulai Idris	Mezquita de Hassan II
+258625	Viajar	3	¿Dónde se llama el Año Nuevo "Hogmanay"?	Alemania	Escandinavia	Inglaterra	Escocia
+532329	Viajar	3	¿Qué ciudad de Escocia se conoce como la "ciudad del granito" y es famosa por su arquitectura gótica?	Dundee	Perth	San Andrés	Aberdeen
+532386	Viajar	3	¿Cómo se llamaba Zambia antes de independizarse en 1964?	Dahomey	Tanganica	Zaire	Rhodesia del norte
+258730	Viajar	3	¿Cuál es la ciudad más grande, el puerto principal, el centro comercial líder y la antigua capital de Tanzania?	Dodoma	Mwanza	Arusha	Dar es Salaam
+532340	Viajar	3	¿Qué nombre comparten los hoteles de Chicago y Toronto?	Windsor	Chelsea	Plaza	Drake
+282861	Viajar	3	Reykjavik, Akureyri y Keflavik son ciudades en qué país insular remoto?	Fiyi	Tahití	Cuba	Islandia
+532396	Viajar	3	¿Qué estado de EE. UU. Es famoso por el pollo frito, el maíz y los cangrejos azules?	Virginia	New Jersey	Delaware	Maryland
+258729	Viajar	3	¿Qué significa la palabra "Denali" en el idioma nativo de Athabaskan?	Montaña	Libertad	Nubes	El alto
+532397	Viajar	3	¿Qué ciudad egipcia se llama "Umm al-Dunya", que significa "la madre del mundo"?	Dhaka	Lahore	Shenzhen	El Cairo
+258692	Viajar	3	¿Qué porcentaje de Bolivia está cubierto por selva tropical?	85%	5%	18%	40%
+91108	Viajar	3	¿Cuál es la ciudad más poblada de Turquía y su centro cultural y financiero?	Beijing	Karachi	Delhi	Estanbul
+258698	Viajar	3	¿Cuál es el promedio de nevadas en Denver durante el mes de marzo?	1.3 pulgadas	32 pulgadas	9.5 pulgadas	11,7 pulgadas
+462386	Viajar	3	¿Qué puente se suele llamar "Big Mac" o "Mighty Mac"?	Puente de Huangpu	Puente de puerta de oro	Puente Verrazano-Narrows	Puente Mackinac
+518445	Viajar	3	¿En cuántos distritos (Bezirke) se divide la ciudad de Berlín?	Cien	Tres	Cuarenta y dos	Doce
+532293	Viajar	3	¿Qué gran caldera volcánica de Tanzania alberga la mayor densidad de leones del mundo?	O'a Caldera	Waw An Namus	Menengai	Cráter del Ngorongoro
+258678	Viajar	3	¿Qué leyenda de la NBA nació en la ciudad capital de Kinshasa en la República Democrática del Congo?	Hakeem Olajuwon	Manute Bol	Patrick Ewing	Dikembe Mutombo
+369295	Viajar	3	¿Cuáles son los dos idiomas oficiales de Kenia?	Kikuyu y swahili	Kikuyu e inglés	Swahili y Kamba	Inglés y suajili
+526606	Viajar	3	¿La parte norte de qué lago forma la frontera entre Tanzania y Malawi?	Lago Tanganica	Lago Victoria	Lago turkana	Lago Nyasa
+258709	Viajar	3	¿Qué ciudad de Marruecos alberga lo que muchos consideran la universidad más antigua del mundo?	Rabat	Marrakesh	Casablanca	Fez
+532321	Viajar	3	¿Qué ciudad está ubicada en la costa este de Kenia, bordeando el Océano Índico?	Nairobi	Kisumu	Nakuru	Mombasa
+258866	Viajar	3	¿Qué ciudad incorporada de EE. UU. Tiene la mayor elevación sobre el nivel del mar?	Santa Fe, Nuevo México	Butte, Montana	Pocatello, Idaho	Leadville, Colorado
+532370	Viajar	3	¿Cuál es la ciudad más grande de Nigeria y África Occidental?	Delhi	Beijing	Shanghai	Lagos
+258770	Viajar	3	¿Qué cadena de hoteles deriva su nombre de una película de Bing Crosby?	Dias adentro	Shangri-la	Cuatro estaciones	Holiday Inn
+45293	Viajar	3	¿Quién construyó el hotel Warwick en la ciudad de Nueva York?	John D Rockefeller	Donald Trump	Dean Cornwell	William Randolph Hearst
+368591	Viajar	3	¿Qué había antes en el sitio donde el millonario William Waldorf Astor abrió el Hotel Waldorf de 13 pisos?	Una iglesia	La oficina del alcalde	Una prision	Mansión de Astor
+532375	Viajar	3	¿Cómo se llama el museo del juguete ubicado en la Isla de Skye en Escocia?	Museo Dunvegan	Juguetes, juguetes, juguetes	Lugar de los niños	Museo del Juguete de Glendale
+376824	Viajar	3	¿En qué río se encuentra el túnel Queensway?	Río Severn	Río Tyne	Río dardo	Río Mersey
+14751	Viajar	3	¿Qué ex emperador de Etiopía se considera Dios encarnado por el movimiento Rastafari?	Marcus Garvey	Menen Asfaw	Bob Marley	Haile Selassie
+282938	Viajar	3	¿Cuál de las siguientes es verdad sobre el Mar Muerto?	No tiene agua	Es hecho por el hombre	Se encuentra en Canadá	Es un lago salado
+532415	Viajar	3	¿Qué colina del norte de Lituania ha sido un lugar de peregrinaje durante cientos de años?	Colina de campanas	Cerro de los Rosarios	Colina de coronas	Colina de las cruces
+250831	Viajar	3	¿En qué ciudad se encuentra el Hotel Chelsea?	Roca	los Angeles	Miami	Nueva York
+462389	Viajar	3	¿En qué distrito de Nueva York se encuentra el Yankee Stadium?	Staten Island	Brooklyn	Reinas	Bronx
+462397	Viajar	3	¿Qué río que atraviesa Malí es el tercer río más largo de África?	Río congo	Zambezi	Nilo	Río niger
+518428	Viajar	3	¿Cuántas capitales tiene Sudáfrica?	Cuatro	Uno	Dos	Tres
+97490	Viajar	3	¿De qué nación se independizó Malí en 1960?	España	Reino Unido	Alemania	Francia
+369362	Viajar	3	¿Dónde se encuentra el destino turístico Casa Harada?	Vallejo	Inyo	Sacramento	Orilla
+258877	Viajar	3	Entre los siglos XIV y XVI, Lituania estuvo en una "unión dinástica" ¿con qué país?	Bielorrusia	Letonia	Ucrania	Polonia
+258626	Viajar	3	¿Qué rey del siglo XIV del Imperio de Malí es recordado principalmente por su extravagante peregrinaje a La Meca?	Sundiata Keita	Askia Mohammad I	Ibn Battuta	Mansa Musa
+532333	Viajar	3	¿Qué río, cuyo nombre significa "Río Madre" en estonio, conecta los dos lagos más grandes de Estonia?	Alajogi	Valgejogi	Navesti	Emajogi
+532290	Viajar	3	¿Cuál es el nombre del principal parque temático del Reino Unido ubicado en Staffordshire?	Disney	Sierra de corte	Justicia	Torres de Alton
+532357	Viajar	3	¿Gho y kira son los vestidos tradicionales de qué país?	Nepal	India	Indonesia	Bután
+532278	Viajar	3	En 1965, ¿Gambia se independizó de cuál de los siguientes países?	Portugal	Francia	Estados Unidos de America	Reino Unido
+79318	Viajar	3	En 2004, ¿qué ambientalista de Kenia se convirtió en la primera mujer africana en recibir el Premio Nobel de la Paz?	Joyce Banda	Ellen Johnson Sirleaf	Leymah Gbowee	Wangari Maathai
+282937	Viajar	3	En Inglaterra, ¿qué es "The Wash"?	Una bahía en Inglaterra en su punto más cercano a Irlanda	Una cascada en las Tierras Altas de Escocia	Un afluente del río Tyne	Una ensenada poco profunda en la costa del Mar del Norte
+532280	Viajar	3	¿Qué antiguo castillo en la parte central de Tallin alberga hoy el Parlamento de Estonia?	Castillo de Hermann	Castillo de Haapsalu	Castillo de Kuressaare	Castillo de Toompea
+369312	Viajar	3	¿A qué hotel se refirió públicamente Donald Trump como "una obra maestra" en 1988?	gran central	Biltmore	Waldorf-Astoria	Plaza
+267424	Viajar	3	¿El hotel Nob Hill es hermano de qué hotel?	Fairmont	Omni	Pan Pacífico	Fitzgerald
+518570	Viajar	3	¿Qué software fue creado por desarrolladores estonios y se desarrolla principalmente en Estonia?	WeChat	Viber	WhatsApp	Skype
+532388	Viajar	3	¿Qué río que atraviesa Letonia también se conoce como el Dvina Occidental?	Iecava	Gauja	Misa	Daugava
+94878	Viajar	3	¿Qué hotel se denomina a menudo una extensión del Palacio de Buckingham?	Ritz	Langham	Savoy	Claridge's
+394323	Viajar	3	¿Cuál es el nombre artístico del músico electrónico alemán Sascha Ring?	Heisskalt	Dillon	Moby	Apparat
+532360	Viajar	3	¿Dónde está Bryant Park en Nueva York?	Junto al Yankee Stadium	Soho	Área de Wall Street	Detrás de la biblioteca pública de Nueva York
+284804	Viajar	3	¿Cuál es el emblema nacional de Zimbabwe, que aparece en la bandera nacional y el escudo de armas del país?	Pescado de Zimbabwe	Antílope de Zimbabwe	Dragón de Zimbabwe	Pájaro de zimbabwe
+532381	Viajar	3	Anteriormente el Cathay, ¿qué hotel famoso se encuentra en el Bund en Shanghai, China?	Amor	Nube	Estrella	Paz
+532330	Viajar	3	¿Qué propiedad de Las Vegas se encontraba ahora en el lugar donde se encontraba el hotel Dunes?	MGM Grand	Luxor	Excalibur	Bellagio
+258520	Viajar	3	¿Qué pan negro elaborado con centeno es un elemento básico de la dieta letona?	Bublik	Kepta Duona	Sakotis	Rupjmaize
+518561	Viajar	3	¿En qué cadena montañosa nace el Amazonas, el sistema fluvial más grande de Brasil?	Yukon	Himalaya	Inuit	Andes
+376393	Viajar	3	Estonia comparte fronteras terrestres con Rusia y ¿qué otro país?	Lituania	Finlandia	Bielorrusia	Letonia
+479178	Viajar	3	Merkato, el mercado al aire libre más grande de África, se encuentra en el corazón de ¿qué ciudad de Etiopía?	Adama	Gondar	Mek'ele	Addis Abeba
+76962	Viajar	3	A una altura de 311,6 m sobre el nivel del mar, ¿qué colina es el punto más alto de Letonia?	Madona	Vidzeme	Suur Munamagi	Gaizinkalns
+532309	Viajar	3	¿Gran cantidad de las aves que bordean la orilla del lago Nakuru en el valle del Rift de Kenia son de qué especie?	Cigüeñas	Garzas	Cisnes	Flamencos
+192433	Viajar	3	¿Qué río que fluye a lo largo de la frontera entre Zambia y Zimbabwe es el cuarto río más largo de África?	Nilo	Río congo	Río niger	Zambezi
+376687	Viajar	3	¿En qué ciudad se encuentra Tower Bridge?	París	Barcelona	Shanghai	Londres
+258884	Viajar	3	¿En qué área de Australia puedes encontrar Wingan Inlet y los ríos Mueller y Thurra?	En el sureste de Australia Meridional	En el extremo sur de Nueva Gales del Sur	En el noreste de Tasmania	En el Lejano Oriente de Victoria
+481460	Viajar	3	¿Qué hotel de Londres, ahora propiedad de Hilton, cuenta con casi quinientas habitaciones y suites?	Saboya	Ritz	Casa Grosvenor	Langham
+70891	Viajar	3	¿Qué gran golfo del Mar Báltico se encuentra en el noroeste de Letonia?	Golfo de Finlandia	Golfo de Botnia	Golfo de Vizcaya	Golfo de Riga
+376845	Viajar	3	¿Cuántos idiomas oficiales tiene Sudáfrica?	10	5	7	11
+365450	Viajar	3	¿Qué especie grande de águila es el ave nacional de Zimbabwe y Zambia?	Águila calva	Águila arpía	Águila dorada	Águila Pescadora Africana
+532368	Viajar	3	¿Qué volcán arroja cenizas sobre Sicilia?	Ararat	Ida	Vesubio	Etna
+532389	Viajar	3	¿Cuál no es un idioma oficial de Suiza?	alemán	italiano	Romanche	sueco
+526533	Viajar	3	¿Dónde se encuentra el primer restaurante Kentucky Fried Chicken propiedad y operado por el coronel Sanders?	Grayson, KY	Lexington, KY	Louisville, KY	Corbin, KY
+88339	Viajar	3	¿Bogolanfini, una tela de algodón maliense tejida y teñida a mano, se conoce más popularmente como qué?	Paño de arcilla	Paño de arena	Paño de tierra	Paño de barro
+518499	Viajar	3	¿Qué festival de danza tiene lugar en Feropolis?	Fusión	Su festival Damit	Ultra	Melt
+258807	Viajar	3	¿Qué ciudades del mundo están enumeradas en el orden correcto desde la más septentrional hasta la más meridional?	Montevideo, Bulawayo, Minsk, Moscú	Minsk, Moscú, Montevideo, Bulawayo	Moscú, Minsk, Montevideo, Bulawayo	Moscú, Minsk, Harare, Montevideo
+532385	Viajar	3	¿Qué pájaro adorna el centro de la bandera de Uganda?	Grulla azul	Águila de estepa	Turaco de cresta roja	Grulla coronada gris
+394449	Viajar	3	¿Cómo se llama el primer parque nacional de Inglaterra en el centro y norte de Inglaterra?	Parque Sheffield	Derbyshire	Parque del patrimonio	Peak District
+532324	Viajar	3	¿Cómo se llamaba Tanzania antes de la unión de 1964 con Zanzíbar?	Zaire	Rhodesia	Biafra	Tanganica
+532301	Viajar	3	¿Qué lago de Berlín tiene las islas de Hasselwerder, Lindwerder y Scharfenberg?	Krumme Lanke	Langer Ver	Schlachtensee	Lago Tegel
+532371	Viajar	3	¿Cómo se llama la tercera ciudad más grande de Brasil?	Buenos Aires	Rio de Janeiro	Brasilia	Belo Horizonte
+532420	Viajar	3	¿Qué nombre se usa comúnmente para referirse a la Torre Elizabeth del Palacio de Westminster en Londres?	Big Jen	Gallina grande	Gran Zen	Gran Ben
+258843	Viajar	3	¿Qué parque cerca de Juodkrante, Lituania, cuenta con diferentes tallas de madera de artistas locales?	Colina de leyendas	Colina de los espíritus	Colina de los dioses	Colina de las brujas
+395731	Viajar	3	¿Dónde en California encontrará Leconte Memorial Lodge?	San Francisco	Santa elena	Sacramento	Parque Nacional de Yosemite
+394447	Viajar	3	¿En qué estado de EE. UU. Se encuentra el lago Okeechobee?	Pensilvania	Nueva York	Misisipí	Florida
+532341	Viajar	3	¿Qué grupo étnico en el norte de Malí a veces se llama la "gente azul"?	Bambara	Soninke	Marka	Tuareg
+532384	Viajar	3	¿Qué hotel no está ubicado en la ciudad de Nueva York?	Plaza	Biltmore	Royalton	Bellagio
+75410	Viajar	3	¿Qué gran lago africano se encuentra en la frontera entre la República Democrática del Congo y Ruanda?	Lago Tanganica	Lago Mweru	Lake Edward	Lago kivu
+532348	Viajar	3	¿Qué cordillera se encuentra principalmente en el centro y sur de Marruecos?	Montañas del Rif	Montañas de Togo	Montañas Aures	Montañas del Atlas
+532327	Viajar	3	¿Cuál es la mayor de las islas Baleares españolas?	Ibiza	Menorca	Cerdeña	Mallorca
+258754	Viajar	3	¿Qué ciudad del sur de China también se conoce como "Cantón" en Occidente?	Karachi	Delhi	Lahore	Guangzhou
+282942	Viajar	3	¿El "ata-balasy" es una costumbre cultural de qué país?	Italia	España	pavo	Kazajstán
+394273	Viajar	3	¿Qué ave grande es el ave nacional de Lituania?	Águila dorada	Grulla azul	Cometa roja	Cigüeña blanca
+180502	Viajar	3	¿Qué ciudad angoleña es la capital de habla portuguesa más poblada del mundo?	Wuhan	Rio de Janeiro	Santiago	Luanda
+64157	Viajar	3	¿Cuál es el lago de agua dulce más grande de Japón?	Lago Pulicat	Lago Tempe	Lago fuji	Lago biwa
+532284	Viajar	3	En Eslovaquia, si le dices "dobre rano" a alguien, ¿qué significa eso?	Buenas noches	Bienvenido	Adiós	Buenos días
+532392	Viajar	3	¿Qué se conoce como un distrito de discotecas en el norte de París, Francia?	Ile Saint-Louis	Chatelet	Val d∆Europe	Montmartre
+283173	Viajar	3	Localmente conocido como "Borreh", ¿cuál es el deporte nacional de Gambia?	Tiro al arco	Nadando	Boxeo	Lucha
+531912	Viajar	3	¿Qué tipo de vientos impulsan los cambios climáticos en India?	Santa Ana	Corriente del Golfo	Ártico	Monzón
+532320	Viajar	3	¿En qué año los Países Bajos despenalizaron la posesión de drogas blandas como el cannabis?	1990	1985	1969	1976
+78771	Viajar	3	¿Qué hotel actual abrió el 1 de octubre de 1931 como el hotel más grande y más alto del mundo en ese momento?	El Hotel Algonquin	gran Hotel	Hotel Fontainebleau	Waldorf Astoria
+90816	Viajar	3	¿Qué metrópolis italiana tiene la mayor población?	Turin	Roma	Nápoles	Milán
+462324	Viajar	3	¿Cuántas zonas horarias cubre Brasil?	1 zona horaria	6 zonas horarias	10 zonas horarias	3 zonas horarias
+462384	Viajar	3	¿Cuál es el nombre del museo ubicado en Keswick que documenta el descubrimiento del grafito de Borrowdale?	Museo de Grafito	Museo Derwent	Museo Greta	El Museo del Lápiz
+462398	Viajar	3	¿Qué río fluye desde las montañas de los Andes hacia el oeste y divide en dos a la capital de Chile, Santiago?	río Amazonas	Nilo	Río Yangtze	Río Mapocho
+532358	Viajar	3	¿Cuál es el código de ciudad de Ámsterdam?	88	1	15	20
+258864	Viajar	3	¿Cuántos pisos tiene el Waldorf Astoria?	12 historias	132 Historias	32 historias	42 Historias
+532337	Viajar	3	¿Qué bebida tradicional de Malí se sirve tres veces de la misma olla?	Tamarindo de Malí	Zumo de guayaba	Café de Malí	Té de Malí
+74260	Viajar	3	¿Cuánto mide el punto más estrecho del Gran Cañón?	Cuatro pies	Cuatrocientas millas	Cuarenta yardas	Cuatro millas
+518566	Viajar	3	¿Cuándo se estableció el Parque Nacional Denali?	26 de febrero de 57	26 de febrero de 1817	26-febrero-72	26-feb-17
+394900	Viajar	3	En 2007, el presidente de Gambia, Yahya Jammeh, afirmó que podía curar qué enfermedad con hierbas naturales.	Malaria	Sarampión	Tuberculosis	SIDA
+258734	Viajar	3	¿Cuál de estos es el escenario de la película "Halloween"?	Iram, Kentucky	Hart, Misuri	Ciudad de Halloween, Ohio	Haddonfield, Illinois
+369309	Viajar	3	Pierre Charles L'Enfant, un arquitecto francés, ¿qué renombrada ciudad estadounidense diseñó?	Cincinnati	Detroit	Orlando	Washington DC
+74616	Viajar	3	John Lennon y Yoko Ono grabaron la canción "Give Peace a Chance" en qué hotel?	Marriott	Biltmore	Waldorf-Astoria	Reina Elizabeth
+76212	Viajar	3	¿Cuál de estos países no tiene una ciudad capital que comience con la letra B?	Kirguistán	Tailandia	Eslovaquia	Bangladesh
+407178	Viajar	3	¿Dónde se encuentra la ciudad de Valencia?	Brasil	Perú	México	Venezuela
+317342	Viajar	3	Situado en la frontera entre Estonia y Rusia, ¿cuál es el lago transfronterizo más grande de Europa?	Lago Ladoga	Lago Onega	Lago Vanern	Lago Peipus
+88291	Viajar	3	¿Qué hotel está ubicado en Union Square de San Francisco?	Pato	Plaza	Biltmore	Fitzgerald
+2732	Viajar	3	¿Qué hito natural actúa como un divisor entre las zonas geográficas de Bolivia?	lago Titicaca	río Amazonas	Valle de Yungas	Montañas de los Andes
+45477	Viajar	3	¿Cuál es el punto geográfico más alto de Italia?	el Monte Everest	Monte Katahdin	Monte Rushmore	Mont Blanc
+524276	Viajar	3	¿En qué isla se pueden encontrar Madang, Wewak, Alotau, Wapenamanda, Fak Fak y Jayapura?	Madagascar	Sri Lanka	Jamaica	Nueva Guinea
+74274	Viajar	3	¿Sobre qué río se ha construido el puente Royal Gorge de Colorado?	Crystal River	Río alamosa	Rio Azul	Río Arkansas
+518541	Viajar	3	¿Qué parque de atracciones es el hogar de "La Bestia"?	Disneyland (Anaheim, California)	Disney World (Orlando, Florida)	Six Flags Magic Mountain (Los Ángeles, California)	Isla del Rey (Cincinnati, Ohio)
+532312	Viajar	3	¿Qué ciudad que se encuentra en el río Emajogi a menudo se considera el centro intelectual de Estonia?	Narva	Tallin	Parnu	Tartu
+258624	Viajar	3	¿De qué museo de Boston se robaron pinturas por valor de 200 millones de dólares en 1990?	Museo Beantown	Museo de Bellas Artes de Boston	Casa Mary Baker Eddy	Museo Isabella Stewert Gardner
+479219	Viajar	3	¿Qué hotel está ubicado en la esquina de la Quinta Avenida y Central Park South en Manhattan?	Hudson	Royalton	Chelsea	Plaza
+374332	Viajar	3	¿Qué deporte que implica un swing modificado fue inventado en Estonia por Ado Kosk en 1996?	Esquí	Scootering	Surf de vela	Kiiking
+532353	Viajar	3	¿En qué país se puede hacer referencia a un hombre como "primer pie de página"?	Estados Unidos	Inglaterra	Alemania	Escocia
+532292	Viajar	3	The Soup Dragons de Glasgow, Escocia, ¿qué dos álbumes lanzaron en los 80?	Arena y gracias	Heaven Up Here y Electrafixion	Danza ingenua y liberación	¡Caída diez! Y este es nuestro arte
+532331	Viajar	3	Alice Springs se encuentra en el Territorio del Norte, pero ¿dónde está la ciudad de Alice River?	Tasmania	Territorio del Norte	Sur de Australia	Queensland
+532283	Viajar	3	¿En qué país encontraría Mont St. Michel?	Andorra	Mónaco	Luxemburgo	Francia
+462391	Viajar	3	¿Dónde se originó el shortbread?	Estados Unidos	Francia	Irlanda	Escocia
+376783	Viajar	3	¿En qué país encontraría "Sento", o baños de barrio?	Tailandia	México	Brasil	Japón
+258683	Viajar	3	En Escocia, ¿qué verdura se tallaba tradicionalmente en una Jack-o-lantern?	Berenjena	Cebolla	Patata	Nabo
+532365	Viajar	3	¿Cuál es la montaña más alta de la República Democrática del Congo y Uganda, y la tercera más alta de África?	monte Kilimanjaro	Monte Kenia	Mount Speke	Mount Stanley
+462382	Viajar	3	¿Cuál es el palacio más grande de Berlín?	Palacio de Bellevue	Palacio de Glienicke	Palacio de las princesas	Palacio de Charlottenburg
+532300	Viajar	3	¿El nombre de qué ciudad, que es la capital de Mali, proviene de la palabra Bambara que significa "río cocodrilo"?	Tombuctú	Sikasso	Mopti	Bamako
+532310	Viajar	3	¿Cuándo se abrió el puente de Waterloo que cruza el río Támesis en Londres?	Diciembre 1815	Dic-59	Dic-99	Dic-45
+374591	Viajar	3	¿Cuál es el nombre común de la versión de Amsterdam de la arquitectura gótica?	Clasicismo holandés	Estilo plano	Estilo Louis	Pólder gótico
+532276	Viajar	3	¿El Puente de la Capilla es una atracción turística famosa en qué país?	Canadá	Rusia	pavo	Suiza
+518538	Viajar	3	¿Qué hotel de Las Vegas tiene canales?	Sáhara	Luxor	Playa	veneciano
+73190	Viajar	3	¿Quiénes son Sonja Glass y Valeska Steiner?	Anfitriones de programas de entrevistas	Dúo vocal, Baccara	Miembros de Atomic Kitten	Pop Duo, boy
+95893	Viajar	3	¿El río Gambia fluye a lo largo de toda Gambia y desemboca en qué océano?	océano Pacífico	océano Índico	océano Ártico	océano Atlántico
+92320	Viajar	3	¿Qué cadena de hoteles lleva el nombre de un explorador francés del siglo XVII?	Ramada	Hilton	Hyatt	Radisson
+532393	Viajar	3	¿Dónde se encuentra Cathedral Cove en Nueva Zelanda?	Bahía de islas	Región septentrional	Southland	Península de Coromandel
+376689	Viajar	3	¿Cuál es la capital de Marruecos, cuyo nombre se traduce como "lugar fortificado"?	Fez	Marrakesh	Casablanca	Rabat
+374475	Viajar	3	¿Qué industria celebra la Semana Verde en Berlín cada año?	Industria de la energía solar	Industria del carbon	Cultivadores de flores	Industria de alimentos
+532288	Viajar	3	¿Qué sitio del Patrimonio Mundial se encuentra al norte de la ciudad de Janjanbureh en el este de Gambia?	Filas de piedra de Senegambia	Círculos de madera de Senegambia	Piedras guardianas de Senegambia	Círculos de piedra de Senegambia
+532298	Viajar	3	Mardi es francés para qué día de la semana?	miércoles	lunes	viernes	martes
+394893	Viajar	3	¿En qué ciudad de la India se encuentra la tumba de Humayun, la primera tumba jardín del subcontinente indio?	Estanbul	Dhaka	El Cairo	Delhi
+532369	Viajar	3	¿Cómo se llama el hipódromo principal de Darwin, Australia?	Grayville	Haberton	Palmeston	Fannie Bay
+79317	Viajar	3	¿Qué rareza más grande del mundo se encuentra en la isla de Oahu?	Reloj	Lei	Palmera	Molino
+194457	Viajar	3	¿Dónde se encuentra la ciudad de Bogotá?	Brasil	México	Ecuador	Colombia
+518556	Viajar	3	¿Qué atracción turística de Florida cuenta con más de 20 complejos hoteleros?	estudios Universales	Fantasía de vuelo	Autopista de Daytona	El mundo de Walt Disney
+394277	Viajar	3	¿Cuál es el número de emergencia para llamar a la policía, los bomberos y la ambulancia en Ámsterdam?	555	911	411	112
+394897	Viajar	3	¿De qué material está hecha la Gran Mezquita en la ciudad de Djenne, Mali?	Vaso	Madera	Granito	Barro
+291698	Viajar	3	¿Qué idioma oficial de Sudáfrica se denominaba anteriormente "holandés del Cabo" o "holandés de cocina"?	zulú	Xhosa	Sesotho	africaans
+83584	Viajar	3	¿Qué hotel de Los Ángeles fue propiedad de Lillian Gish, la estrella de numerosas películas mudas?	Furama	Wilshire Grand	Omni	Maison 140
+524364	Viajar	3	¿El calendario etíope consta de cuántos meses?	14	11	12	13
+258748	Viajar	3	¿Qué hotel no se encuentra en Canadá?	grandioso	Reina Elizabeth	Fairmount	Broadmoor
+532350	Viajar	3	Siegfried y Roy realizaron su espectáculo de magia en qué hotel de Las Vegas antes de un trágico accidente en 2003?	Luxor	Bellagio	MGM Grand	Espejismo
+256717	Viajar	3	¿La cabra montés walia, una cabra salvaje, en peligro de extinción, es endémica de qué montañas del norte de Etiopía?	Montañas Bale	Montañas Entoto	Montañas de Amaro	Montañas Semien
+532391	Viajar	3	¿Qué río forma parte de la frontera entre Zambia y la República Democrática del Congo?	Zambezi	Río Kafue	Río Kalambo	Río Luapula
+85189	Viajar	3	¿Cómo se llamaba el hotel de Hong Kong que aparece en "El hombre de la pistola dorada"?	Isla	Meseta	Horizonte	Península
+369019	Viajar	3	¿Qué jugador de baloncesto lituano retirado es reconocido como uno de los mejores jugadores europeos de su época?	Drazen Petrovic	Vlade Divac	Toni Kukoc	Arvydas Sabonis
+376791	Viajar	3	¿Qué ciudad paquistaní comenzó como un pequeño pueblo de pescadores llamado "Kolachi"?	Lahore	Bangalore	Hyderabad	Karachi
+532279	Viajar	3	¿Cuál de los cuatro países fronterizos con Letonia tiene el tamaño más parecido?	Estonia	Rusia	Bielorrusia	Lituania
+74735	Viajar	3	Gambia es el hogar de Kunta Kinte, el personaje principal de la epopeya de esclavitud de 1976 de Alex Haley.	Descendencia	Sangre	Origen	Raíces
+518529	Viajar	3	¿Qué cascada de 37 a 45 metros de altura en Etiopía también se conoce como Tis Abay, que significa "agua humeante"?	Cataratas del Nilo Blanco	Cataratas del Nilo Verde	Cataratas del Nilo Negro	Cataratas del Nilo Azul
+186692	Viajar	3	¿Qué le diría a una persona a la que quiere desear "Buenos días" en Turquía?	Iyi Gunler	Memnun Oldum	Nasilsiniz	Gunaydin
+258700	Viajar	3	¿Cuál es el vínculo de John Wesley Powell con el Gran Cañón?	Lo salté en una motocicleta	Caminó por la cuerda floja a través de ella	Oro descubierto	Liderar la primera expedición
+491518	Viajar	3	¿Hyatt tiene hoteles en cuántos continentes?	3	4	5	6
+532343	Viajar	3	En Escocia, ¿The Bairns y The Bully Wee se refieren a qué dos equipos?	Motherwell y Stranraer	Stirling Albion y Morton	East Fife y Kilmarnock	Falkirk y Clyde
+402073	Viajar	3	En los acantilados de qué ciudad de California se encuentra el Post Ranch Inn?	Monterey	San Luis Obispo	Carmelo	Sur grande
+532361	Viajar	3	¿Qué parque nacional de Kenia es mundialmente famoso por la migración anual de cebras y ñus?	Parque Nacional Amboseli	? Parque Nacional del Lago Nakuru	Reserva Nacional de Samburu	Reserva Nacional Maasai Mara
+532414	Viajar	3	¿Cuál es el hotel más antiguo de Denver, Colorado?	Mónaco	Oxford	Inverness	Palacio marrón
+66974	Viajar	3	¿En qué ciudad francesa se encuentra el Palais des Papes?	Burdeos	Lyon	París	Avignon
+532416	Viajar	3	¿Qué lago de Tanzania es el segundo lago de agua dulce más grande del mundo por volumen y el segundo más profundo?	Lago Natron	Lago Victoria	Lago rukwa	Lago Tanganica
+282939	Viajar	3	¿Qué hito natural se encuentra parcialmente en Bolivia?	Montañas patagónicas	Cataratas Victoria	Río Paraguay	Selva amazónica
+532418	Viajar	3	¿Dónde en Inglaterra se encuentra el Distrito de los Lagos?	Área de Londres	Sur oeste	Punta Sur	Noroeste
+532307	Viajar	3	¿Qué pequeño país de África occidental se conoce como "la costa sonriente de África"?	Mali	Mauritania	Senegal	Gambia
+532390	Viajar	3	¿Qué ciudad de Ohio cuenta con el primer semáforo de Estados Unidos?	Baltimore	Boise	Memphis	Cleveland
+518400	Viajar	3	¿Qué país de África occidental rodea casi por completo a Gambia?	Guinea	Mali	Mauritania	Senegal
+35105	Viajar	3	¿Dónde se construyó el primer Hard Rock Cafe de Australia?	Melbourne	Brisbane	Canberra	Sydney
+394566	Viajar	3	¿Dónde se presenta a la gente con los títulos "Pan" (Sr.) o "Pani" (Sra.)?	Iran	Mongolia	Japón	Eslovaquia
+532352	Viajar	3	¿Cuándo se celebró la primera carrera de yates de Sydney a Hobart?	1955	1935	1925	1945
+90074	Viajar	3	¿Qué hotel está ubicado en la cima de un acantilado con vista al valle de Megalong?	Coronado	muguete	Nob Hill	Hydro Majestic
+532419	Viajar	3	¿Cuba está rodeada por cuántos grupos principales de islas?	Seis	Dos	Tres	Cuatro
+282928	Viajar	3	¿Cuál es el nombre irlandés de Dublín?	Daba Ath Cleithe	Dubh Linnhe	Dublín	Baile Atha Cliath
+75621	Viajar	3	Si condujera de Melbourne a Adelaide a lo largo de la costa, ¿por qué carretera panorámica viajaría?	Autopista de Hume	Adelourne Road	Gran camino del sur	Great Ocean Road
+532308	Viajar	3	¿Quién se convirtió en el director principal de la Orquesta Filarmónica de Berlín en 2002?	Sergiu Celibidache	Juan Cicero	Kani Alavi	Simón Rattle
+368719	Viajar	3	¿Qué hotel de Escocia cuenta con un campo de golf diseñado por Jack Nicklaus?	Pitlochry	San Andrés	Loch Lomond	Gleneagles
+408863	Viajar	3	¿Cuántas millas cuadradas cubre el desierto del Sahara?	1,000,000	6.000.000	10,000,000	3,000,000
+532328	Viajar	3	¿Qué lago del Valle del Rift de Kenia es el lago desértico permanente más grande del mundo?	Lago nakuru	Lago Magadi	Lago Natron	Lago turkana
+258518	Viajar	3	¿Qué ciudad de Bangladesh es conocida como la "Capital mundial del rickshaw"?	Guangzhou	Estanbul	Delhi	Dhaka
+532313	Viajar	3	¿Qué edificio del gobierno de Iowa tiene un techo abovedado de vidrio?	Edificio Capital de Des Moines	Palacio de justicia de Waterloo	Ayuntamiento de Fort Dodge	Palacio de Justicia de Dubuque
+376714	Viajar	3	¿Cuál es el país más pequeño de África continental?	Zambia	Ruanda	Seychelles	Gambia
+83101	Viajar	3	¿Qué mar separa Asia Menor de Grecia?	báltico	Mediterráneo	adriático	Egeo
+532303	Viajar	3	¿Cómo se llama el verdadero "Hotel Rwanda"?	Mille Ruean	Ville Ruanda	Ville Collines	Mille Collines
+532291	Viajar	3	¿Desde qué siglo se juega al golf en St. Andrews Links de Escocia?	18	17	13	15
+258855	Viajar	3	Montevideo es una ciudad en que país?	Honduras	México	Brasil	Uruguay
+259057	Viajar	3	La Henley-on-Todd Regatta, una carrera de botes de agosto celebrada en Alice Springs, Australia, ¿es inusual en qué sentido?	Solo los niños pueden ingresar	Los concursantes compiten con patos de goma	La carrera se celebra de noche	Celebrada en el lecho de un río seco
+532362	Viajar	3	¿Cómo se dice "gracias" en maltés?	Donka	Iva	Kif Int	Grazzi
+98937	Viajar	3	¿El Teatro Kodak se construyó en el sitio de qué antiguo hotel?	Hotel Wilshire	Hotel Hyatt	hotel Hilton	Hollywood Hotel
+34817	Viajar	3	¿Qué se puede visitar en el Gran Cañón de la Reserva India Havasupai?	Géiser	glaciar	Parque de atracciones	Cascada
+70831	Viajar	3	¿Qué cadena principal adquirió el hotel Le Meridien de la ciudad de Kuwait en 2002?	Hilton	Wyndham	Radisson	Marriott
+374368	Viajar	3	¿Cuál de estos es el desierto más grande de Australia?	Stevens	Afuera	Thomson	Gibson
+376421	Viajar	3	¿Cuál es el apodo de la selección nacional de fútbol de Gambia?	Las arañas	Los ácaros	Las garrapatas	Los escorpiones
+258868	Viajar	3	¿Cuál es el único hotel de la ciudad de Nueva York designado como Monumento Histórico Nacional?	Hudson	Deauville	Chelsea	Plaza
+532382	Viajar	3	¿Dónde se encuentra Sugar Bay Resort & Spa?	Bahamas	Fiyi	Hawai	Islas Vírgenes
+256719	Viajar	3	¿En qué parque nacional de Letonia se pueden encontrar más de 500 monumentos culturales e históricos?	Parque Nacional Lahemaa	Parque Nacional Aukstaitija	Parque Nacional de Bialowieza	Parque Nacional Gauja
+258715	Viajar	3	¿Qué hotel es uno de los edificios de madera más grandes y antiguos de California?	3 picos	Big Bear Lake	Prescott	Hotel del Coronado
+258737	Viajar	3	¿Cuál era el nombre antiguo de Casablanca, la ciudad más grande de Marruecos?	Fez	Rabat	Marrakesh	Anfa

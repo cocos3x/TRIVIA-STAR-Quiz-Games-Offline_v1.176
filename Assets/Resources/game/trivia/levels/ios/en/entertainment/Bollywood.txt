@@ -1,0 +1,100 @@
+FTUXUIND01	Bollywood	0	In which city is the film industy "Bollywood," based?	New Delhi	Agra	Bengaluru	Mumbai
+FTUXUIND02	Bollywood	0	What language do Bollywood films tend to use?	Tamil	Telugu	English	Hindustani
+FTUXUIND03	Bollywood	0	What is the most popular commercial genre in Bollywood films?	Comedy	Action	Romance	Masala (Musical)
+FTUXUIND04	Bollywood	0	In the 1970's, who was 1 of Bollywood's biggest stars?	Shah Rukh Khan	Akshay Kumar	Dev Patel	Amitabh Bachchan
+FTUXUIND05	Bollywood	0	In what year was the first feature film (silent) made in India?	1931	1945	1899	1913
+FTUXUIND06	Bollywood	0	When was the first sound film made in India?	1910	1949	1954	1931
+FTUXUIND07	Bollywood	0	Released in 1943, what was Bollywood's first "blockbuster" film?	Anari	Johny Mera Naam	Beta	Kismet
+FTUXUIND08	Bollywood	0	As of 2020, which Bollywood film had the longest run in theaters?	Kismet	Sholay	Deewaar	DDLJ
+FTUXUIND48	Bollywood	0	How many bombs did the caller claim to have planted in "A Wednesday!"?	1	10	16	5
+FTUXUIND76	Bollywood	0	In the 2007 film "Guru", who suffers a stroke?	"Nanaji" Manikdas	Shyam Saxena	Meenu	Gurukant
+FTUXUIND78	Bollywood	0	In "Chak De! India", where does a brawl take place?	A bar	Stadium	Burger King	McDonald's
+FTUXUIND31	Bollywood	0	Who starred as Shahid Azmi in the film "Shahid"?	Aamir Khan	Amitabh Bachchan	Dev Patel	Rajkummar Rao
+FTUXUIND80	Bollywood	0	Which film is about an alien visiting earth?	Alien	Armageddon	Mr. India	PK
+FTUXUIND88	Bollywood	0	In the 2005 film "Black", how is Michelle McNally's disabled?	Alzheimer's disease	Polio disease	Paralized	Blind and Deaf
+FTUXUIND15	Bollywood	0	Who starred as Ishaan Awasthi in "Like Stars on Earth"?	Amitabh Bachchan	Namit Shah	Vishesh Bansal	Darsheel Safary
+FTUXUIND28	Bollywood	0	Who starred as Satya in the film "Satya"?	Amitabh Bachchan	Salman Khan	Sohum Shah	J.D. Chakravarthi
+FTUXUIND11	Bollywood	0	In the 2013 film "Queen", where does Rani travel to first?	Amsterdam	New York	Cairo	Paris
+FTUXUIND30	Bollywood	0	Which film is based on the life of a human rights lawyer?	Andhadhun	Queen	Mother India	Shahid
+FTUXUIND97	Bollywood	0	In "Nil Battey Sannata", Chanda supports the family with how many jobs?	1	8	10	4
+FTUXUIND18	Bollywood	0	In "Drishyam" (2015), who accidentally kills someone?	Anu	Nandini	Vijay	Anju
+FTUXUIND91	Bollywood	0	What film is adapted from the life of businessman Mathhunny Mathews?	Argo	Guru	Gangs of Wasseypur	Airlift
+FTUXUIND50	Bollywood	0	Who is Anupam Kher's character in the film, "A Wednesday!"?	Arif Khan	Jai Singh	Ajay Khanna	Prakash Rathod
+FTUXUIND51	Bollywood	0	Who is expelled from school in "Udaan"?	Arjun	Maninder	Jimmy	Rohan
+FTUXUIND20	Bollywood	0	In the film "Khosla's Nest," Anupam Kher is who?	Bapu	Sahni	Kishan Khurana	Kamal Khosla
+FTUXUIND58	Bollywood	0	In "Zindagi Na Milegi Dobara", how many childhood friends go on a trip?	6	9	12	3
+FTUXUIND71	Bollywood	0	In the 2012 film "Barfi!", who does Shruti marry?	Barfi	Sudhanshu Dutta	Mr. Chatterjee	Ranjeet
+FTUXUIND64	Bollywood	0	Which film is based on the life of a steeplechase runner?	Bhaag Milkha Bhaag	Super Singh	Talvar	Paan Singh Tomar
+FTUXUIND14	Bollywood	0	"All is well" is a common phrase in which film?	Black Friday	Drishyam	Like Stars on Earth	3 Idiots
+FTUXUIND26	Bollywood	0	Rahi Anil Barve, Anand Gandhi, and Adesh Prasad collaborated on which film?	Black Friday	Satya	Shahid	Tumbbad
+FTUXUIND44	Bollywood	0	In which film does a jet crash lead to protesting the government?	Black Friday	Pink	Gangs of Wasseypur	Rang De Basanti
+FTUXUIND47	Bollywood	0	In which film does a retiring police commissioner recall his most trying day?	Black Friday	Friday	Any Given Sunday	A Wednesday!
+FTUXUIND85	Bollywood	0	In "Kahaani", who is Vidya searching for?	Bob Biswas	Mr. Khan	Son	Arnab Bagchi
+FTUXUIND92	Bollywood	0	In the film "Neerja", which airline's plane is hijacked?	British Airways	Quantus	Delta	Pan Am
+FTUXUIND96	Bollywood	0	In "Nil Battey Sannata", who attends school with Appu?	Brother	Dog	Invisible dragon	Chanda (mother)
+FTUXUIND74	Bollywood	0	In the 2007 film "Guru", what is his first company in Bombay called?	Burmah Shell	Asian Paints	Bharti Airtel	Shakti Corporation
+FTUXUIND89	Bollywood	0	In the 2005 film "Black", who is Michelle McNally's teacher?	Catherine McNally	Paul McNally	Mrs. Gomes	Debraj Sahai
+FTUXUIND65	Bollywood	0	In "Paan Singh Tomar", what was his job when his abilty was discovered?	Chef	Engineer	Police man	Army soldier
+FTUXUIND84	Bollywood	0	In "PK", what is in PK's suit cases when leaving earth?	Clothes	Gold	Food	Tapes and batteries
+FTUXUIND95	Bollywood	0	Which film is based on a real airplane hijacking in 1986?	Con Air	Airlift	Rang De Basanti	Neerja
+FTUXUIND54	Bollywood	0	What sport is featured in "Bhaag Milkha Bhaag"?	Cricket	Football (Soccer)	Tennis	Running (Track)
+FTUXUIND45	Bollywood	0	In "Rang De Basanti", which character died in a jet crash?	Daljeet "DJ"	Sukhi	Sue McKinley	Ajay Rathod
+FTUXUIND13	Bollywood	0	In the film "3 Idiots," who tops the school's ranking?	Farhan	Raju	Viru	Rancho
+FTUXUIND40	Bollywood	0	What sport is featured in "Lagaan: Once Upton a Time in India"?	Football (Soccer)	Rugby	Badminton	Cricket
+FTUXUIND38	Bollywood	0	In what year was "Lagaan: Once Upton a Time in India" Oscar nominated?	2012	1990	1984	2002
+FTUXUIND37	Bollywood	0	Who is Richa Chadha's character in "Gangs of Wasseypur"?	Gauri	Rani	Mohsina	Nagma Kahtoon
+FTUXUIND41	Bollywood	0	In the film "Swades", who is Mohan searching for in India?	Gita	Haridas	Chikku	Kaveri Amma
+FTUXUIND99	Bollywood	0	In "The Lunchbox", what lunchbox delivery system is featured?	Grubhub	Swiggy	DoorDash	Dabbawalas
+FTUXUIND75	Bollywood	0	In the 2007 film "Guru", who suffers from multiple sclerosis?	Gurukant	"Nanaji" Manikdas	Shyam Saxena	Meenu
+FTUXUIND57	Bollywood	0	Who directed the film, "Bhaag Milkha Bhaag"?	Hansal Mehta	Prakash Jha	Nitesh Tiwari	Rakeysh O. Mehra
+FTUXUIND93	Bollywood	0	In what country does most of the film, "Neerja", take place?	India	Afghanistan	Iraq	Pakistan
+FTUXUIND39	Bollywood	0	In "Lagaan", what caused crops to fail that year?	Insect swarm	Plant disease	Poor soil	Delayed monsoon
+FTUXUIND87	Bollywood	0	In "Kahaani", who does Vidya's husband work for?	Intelignece Bureau	Bharti Airtel	Burmah Shell	National Data Center
+FTUXUIND90	Bollywood	0	In what country does most of the film, "Airlift", take place?	Iraq	Iran	Turkey	Kuwait
+FTUXUIND27	Bollywood	0	Who starred as Vinayak Rao in "Tumbbad"?	J.D. Chakravarthi	Ajay Devgn	Anil Dhawan	Sohum Shah
+FTUXUIND67	Bollywood	0	In "Special 26", who is raided first?	Jewelry Store	Burrabazar	Loan Shark	Minister Gupta
+FTUXUIND21	Bollywood	0	In the film "Khosla's Nest," Boman Irani is who?	Kamal Khosla	Kallu Mama	Manoj Bajpayee	Kishan Khurana
+FTUXUIND16	Bollywood	0	Fatima Sana Shaikh and Sanya Malhotra play sisters in which film?	Like Stars on Earth	Drishyam	Water	Dangal
+FTUXUIND35	Bollywood	0	Who directed the film, "Gangs of Wasseypur"?	Martin Scorsese	Ashutosh Gowariker	Nitesh Tiwari	Anurag Kashyap
+FTUXUIND46	Bollywood	0	Who directed the film, "Rang De Basanti"?	Priyadarshan	Nitesh Tiwari	Anurag Kashyap	Rakeysh O. Mehra
+FTUXUIND52	Bollywood	0	In "Udaan", who supports Rohan's desire to be a writer?	Mother	Sister	Father	Uncle
+FTUXUIND33	Bollywood	0	What film was divided into 2 parts for theaters because it was too long?	Mother India	Black Friday	Lagaan	Gangs of Wasseypur
+FTUXUIND98	Bollywood	0	In "My Name is Khan", who does Khan travel across the country to meet?	Movie star	Rock star	Prime Minister	U.S. President
+FTUXUIND86	Bollywood	0	In "Kahaani", where does Vidya travel to in her search?	New Delhi	Calcutta	Bangladesh	Kolkata
+FTUXUIND12	Bollywood	0	Who stars as DCP Rakesh Maria in "Black Friday"?	Pavan Malhotra	Shah Rukh Khan	Amitabh Bachchan	Kay Kay Menon
+FTUXUIND32	Bollywood	0	Who directed the film, "Shahid"?	Rajkumar Hirani	Nitesh Tiwari	Sriram Raghavan	Hansal Mehta
+FTUXUIND94	Bollywood	0	In the film "Neerja", what was Neerja's job title?	Pilot	Attendant	Air marshall	Head purser
+FTUXUIND53	Bollywood	0	In "Udaam", who does Rohan punch?	Police	Brother	Uncle	Father
+FTUXUIND42	Bollywood	0	In "Swades", what is the main character's occupation?	Politician	Gang leader	Farmer	NASA scientist
+FTUXUIND49	Bollywood	0	Who directed the film, "A Wednesday!"?	Prakash Jha	Indra Kumar	Rakeysh O. Mehra	Neeraj Pandey
+FTUXUIND22	Bollywood	0	In "Andhadhun", who wakes up in an illegal organ harvesting clinic?	Pramod Sinha	Sophie	Manohar	Akash
+FTUXUIND24	Bollywood	0	Who directed the film, "Andhadhun"?	Ram Gopal Varma	Rahi Anil Barve	Aamir Khan	Sriram Raghavan
+FTUXUIND69	Bollywood	0	In "Special 26", what is sent to Waseem Khan at the end of the film?	Rs 100,000	A car	Jewelry	Rs 100
+FTUXUIND100	Bollywood	0	In "The Lunchbox", who is the home cooked lunch meant for?	Sajaan	Shaikh	Ila	Rajeev
+FTUXUIND43	Bollywood	0	Who directed the film, "Swades"?	Prakash Jha	Rakeysh O. Mehra	Hansal Mehta	Ashutosh Gowariker
+FTUXUIND17	Bollywood	0	What film is loosely based on the life of Mahavir S. Phogat?	Sanju	Khosla's Nest	Andhadhun	Dangal
+FTUXUIND25	Bollywood	0	In the film "Tumbbad", which God is a temple built for.	Saraswati	Vishnu	Cthulhu	Hastar
+FTUXUIND68	Bollywood	0	In which film do con-men rob prominent businessmen and politicians?	Satya	Baby	Madaari	Special 26
+FTUXUIND59	Bollywood	0	Which of the following events occur in "Zindagi Na Milegi Dobara"?	Scuba diving	Skydiving	Running of the Bulls	All of these
+FTUXUIND19	Bollywood	0	Who starred as I.G. Meera Deshmukh in "Drishyam" (2015)?	Shriya Saran	Taapsee Pannu	Tara Sharma	Tabu
+FTUXUIND70	Bollywood	0	In the 2012 film "Barfi!", who is kidnapped?	Shruti	Minister Gupta	Mother	Jhilmil
+FTUXUIND72	Bollywood	0	In the 2012 film "Barfi!", who does Barfi marry?	Shruti	Rani	Meenu	Jhilmil
+FTUXUIND66	Bollywood	0	In "Paan Singh Tomar", who is killed in Bhanwar's attack on his family.	Sister	Brother	Daughter	Mother
+FTUXUIND09	Bollywood	0	What was the first Bollywood film nominated for an Academy Award?	Slumdog Millionaire	Water	Life of Pi	Mother India
+FTUXUIND79	Bollywood	0	In "Chak De! India", who does the team play against 1st in the world cup?	South Korea	England	Spain	Australia
+FTUXUIND81	Bollywood	0	In "PK", what is stolen from PK?	Space suit	Tape recorder	Food	Ship's remote control
+FTUXUIND83	Bollywood	0	In "PK", how do aliens communicate?	Staring into eyes	Sign language	Scents	Holding hands
+FTUXUIND60	Bollywood	0	Who directed the film, "Zindagi Na Milegi Dobara"?	Rakeysh O. Mehra	Priyadarshan	Nitesh Tiwari	Zoya Akhtar
+FTUXUIND73	Bollywood	0	The 2007 film "Guru", is largely based on which industiral tyccon?	Subrata Roy	Amitabh Bachchan	Aamir Khan	Dhirubhai Ambani
+FTUXUIND55	Bollywood	0	Which film is based on the life of Milkha Singh?	Super Singh	Bhaag Beanie Bhaag	Paan Singh Tomar	Bhaag Milkha Bhaag
+FTUXUIND77	Bollywood	0	Which film is about a fictional Indian women's field hockey team?	The Mighty Ducks 5	Dutch Girls	Harjeeta	Chak De! India
+FTUXUIND61	Bollywood	0	Around what historical event does the film, "Haider" take place?	The Partition of India	Golden Temple Assult	Sino-Indian War	1995 Kashmir conflicts
+FTUXUIND34	Bollywood	0	What Bollywood film centers around a coal mafia?	Tumbbad	Lagaan	3 Idiots	Gangs of Wasseypur
+FTUXUIND63	Bollywood	0	The film "Haider", is a modern day adaptation of which classic?	Twelfth Knight	Death of a Salesman	Romeo and Juliet	Hamlet
+FTUXUIND23	Bollywood	0	Who starred as Simi in "Andhadhun"?	Urmila Matondkar	Radhika Apte	Anita Date	Tabu
+FTUXUIND82	Bollywood	0	In "PK", the alien adopts PK as his name. What does PK mean in Hindi?	Very smart	Evil	Beautiful	Drunk
+FTUXUIND29	Bollywood	0	In "Satya", who does Satya meet in jail?	Vidya	Amod Shukla	Pyarri Mhatre	Bhiku Mhatre
+FTUXUIND10	Bollywood	0	Who starred in the 2016 film, "Pink"?	Vidya Balan	Nargis Dutt	Kangana Ranaut	Taapsee Pannu
+FTUXUIND36	Bollywood	0	Who is Manoj Bajpayee's character in "Gangs of Wasseypur"?	Vijay Salgaonkar	Rancho	Faizal Khan	Sardar Khan
+FTUXUIND62	Bollywood	0	Haider returns from University to search for who in the film, "Haider"?	Wife	Grandson	Son	Father
+FTUXUIND56	Bollywood	0	What historical event greatly affected young Milkha Singh?	WWII	1995 Kashmir conflicts	Golden Temple Assult	The Partition of India

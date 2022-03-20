@@ -1,0 +1,487 @@
+611FTUX47	Ciudades capitales	1	¿Cuál de estas es la capital de un estado de EE. UU. En el Este?	Fénix	Salem	Carson City	Tallahassee
+0DIF104	Ciudades capitales	0	¿Cuál es la capital del estado de Colorado?	Sacramento	Salt Lake City	Madrid	Denver
+611FTUX58	Ciudades capitales	0	¿Cuál de estos se encuentra en la ciudad capital de Moscú?	Stonehenge	El Palacio de Buckingham	La Gran Muralla China	Plaza Roja
+365258	Ciudades capitales	0	¿Cuál es la capital de Tailandia?	Waterford	Ennis	Athlone	Bangkok
+365502	Ciudades capitales	0	¿Cuál es la capital de Egipto?	Alejandría	Luxor	Giza	El Cairo
+365233	Ciudades capitales	0	¿Cuál es la ciudad capital de Austria?	Kapfenberg	Leonding	Wolfsberg	Viena
+363838	Ciudades capitales	0	¿Qué ciudad capital del país de habla hispana tiene más de 8 millones de personas viviendo allí?	Liechtenstein	Malta	Groenlandia	México
+363829	Ciudades capitales	0	¿Cuál es el idioma oficial de Estocolmo?	ruso	italiano	Español	sueco
+611FTUX43	Ciudades capitales	0	Esta es la ciudad capital de Montana:	Grandes caídas	Glasgow	Billings	Helena
+40E2169	Ciudades capitales	0	¿En qué ciudad capital encontrarías India Gate?	Seúl	Praga	El Cairo	Nueva Delhi
+611FTUX53	Ciudades capitales	0	¿En qué ciudad capital encontraría el Templo Mayor?	Ottawa	Kioto	Washington DC	Ciudad de México
+611FTUX48	Ciudades capitales	0	¿En qué ciudad capital puedes encontrar el Santuario Meiji y el Templo Sensoji?	Berlín	Oslo	Frankfort	Tokio
+611FTUX55	Ciudades capitales	0	¿En qué ciudad capital se encuentra el edificio del parlamento húngaro?	Moscú	Ciudad de México	Ottawa	Budapest
+60E1989	Ciudades capitales	0	¿Cuál es la ciudad capital de Nueva Zelanda?	Seúl	Hanoi	Oslo	Wellington
+365424	Ciudades capitales	0	¿Cuál es la capital de Turquía?	Roma	Egipto	Amazonas	Ankara
+0DIF107	Ciudades capitales	0	¿Cuál es la capital de Rusia?	Dublín	Bostón	Tokio	Moscú
+0DIF112	Ciudades capitales	0	¿Cuál es la capital de Irak?	Canberra	Atenas	Dublín	Bagdad
+394342	Ciudades capitales	0	¿Qué masa de agua comparte su nombre con la ciudad capital de Kabul?	Océano de Kabul	Gran lago de Kabul	Río Stan	Río Kabul
+611FTUX60	Ciudades capitales	0	¿Cuál de estos se encuentra en la ciudad capital de Edimburgo?	Buda Tian Tan	Museo de Barcos Vikingos	Jardín Nacional Shinjuku Gyoen	Museo Nacional de Escocia
+611FTUX42	Ciudades capitales	0	¿Cuál es la capital de Nevada?	Reno	Elko	Área 51	Carson City
+0DIF115	Ciudades capitales	0	¿Cuál es la capital del estado de Nueva York?	los Angeles	Sacramento	Bostón	Albany
+0DIF108	Ciudades capitales	0	Cual es la capital de Irlanda?	París	Austin	Estocolmo	Dublín
+611FTUX54	Ciudades capitales	0	¿En qué ciudad capital se encuentra el Museo Nacional Smithsonian de Historia Natural?	Fénix	Olimpia	Sacramento	Washington DC
+0DIF116	Ciudades capitales	0	Cual es la capital de Noruega?	Varsovia	Beijing	Tokio	Oslo
+40E2529	Ciudades capitales	0	¿Qué ciudad capital tiene la mayor población?	Bruselas	Ciudad del Vaticano	Atenas	Seúl
+60E2169	Ciudades capitales	0	En la ciudad capital de Berlín, ¿qué idioma se habla principalmente?	francés	Inglés	italiano	alemán
+0DIF117	Ciudades capitales	0	¿Cuál es la capital del estado de Massachusetts?	Varsovia	Oslo	Shinjuku	Boston
+0DIF113	Ciudades capitales	0	Cual es la capital de Francia?	Estocolmo	Londres	Varsovia	París
+40E2469	Ciudades capitales	0	En la ciudad capital de Moscú, ¿qué idioma se habla principalmente?	Inglés	Español	alemán	ruso
+611FTUX46	Ciudades capitales	0	¿Cuál de estas es la capital de un estado de EE. UU. En Occidente?	Augusta	Albany	Tallahassee	Sacramento
+40E2059	Ciudades capitales	0	¿En qué ciudad capital encontraría la Puerta del Sol?	Moscú	Beijing	Atenas	Madrid
+611FTUX51	Ciudades capitales	0	¿En qué ciudad capital encontraría Notre Dame?	Madrid	Atenas	Tokio	París
+318003	Ciudades capitales	0	¿Columbia es la ciudad capital de qué estado de EE. UU.?	Tennesse	Alaska	Kansas	Carolina del Sur
+317972	Ciudades capitales	0	¿En qué estado encontraría la ciudad capital de Trenton?	Hawai	Maryland	Carolina del Norte	New Jersey
+60E1229	Ciudades capitales	0	¿En qué ciudad capital encontrarías el Partenón?	Ottawa	Madrid	Helsinki	Atenas
+317981	Ciudades capitales	0	¿Baton Rouge es la capital de qué estado de EE. UU.?	Oklahoma	Washington	Nuevo Mexico	Luisiana
+365418	Ciudades capitales	0	¿En qué ciudad capital encontrarás la Plaza Roja y el Teatro Bolshoi?	Manilla	Londres	Nueva York	Moscú
+40E2309	Ciudades capitales	0	¿En qué ciudad capital se encuentra la Galería Nacional de Canadá?	Estocolmo	Puerto Príncipe	Seúl	Ottawa
+317993	Ciudades capitales	0	¿Trenton es la capital de qué estado de EE. UU.?	California	Carolina del Sur	Georgia	New Jersey
+0DIF101	Ciudades capitales	0	¿Cuál es la capital del estado de Arizona?	Roca pequeña	Jackson	Austin	Fénix
+611FTUX45	Ciudades capitales	0	¿Cuál NO es un monumento de Washington, DC?	Memorial de Lincoln	Monumento de Washington	casa Blanca	campana de la Libertad
+374265	Ciudades capitales	0	¿Qué ciudad capital del país asiático tiene más de 9 millones de personas viviendo allí?	Jamaica	Noruega	Portugal	Corea del Sur
+0DIF119	Ciudades capitales	0	Cual es la capital de China?	Hong Kong	Oahu	Shinjuku	Beijing
+0DIF118	Ciudades capitales	0	¿Cuál es la capital de Japón?	Kioto	Maui	Albany	Tokio
+40E2299	Ciudades capitales	0	¿En qué ciudad capital se encuentra el Museo de Barcos Vikingos?	Nueva Delhi	San Juan	San Salvador	Oslo
+393101	Ciudades capitales	0	¿La capital de Missouri lleva el nombre de qué presidente de Estados Unidos?	George W. Bush	Donald Trump	Richard Nixon	Thomas Jefferson
+60E2609	Ciudades capitales	0	En la ciudad capital de Roma, ¿qué idioma se habla principalmente?	ruso	Español	francés	italiano
+0DIF110	Ciudades capitales	0	¿Cuál es la capital de España?	Bagdad	Ikebukuro	Albany	Madrid
+40E2839	Ciudades capitales	0	En la ciudad capital de Londres, ¿qué encontrarías?	Torre de Pisa	Mont St. Michel	Castillo de Bran	Abadía de Westminster
+611FTUX44	Ciudades capitales	0	Compartiendo el nombre de un presidente, esta es la capital de Nebraska:	Washington	Conceder	Jackson	Lincoln
+40E2669	Ciudades capitales	0	¿En qué ciudad capital se lleva a cabo la ceremonia del Premio Nobel?	Moscú	Tallahasse	Hanoi	Estocolmo
+611FTUX61	Ciudades capitales	0	¿Cuál de estos se encuentra en la ciudad capital de Beijing?	El Palacio de Buckingham	cuadrado rojo	muro de Berlín	Gran Muralla Mutianyu
+611FTUX49	Ciudades capitales	0	¿En qué ciudad capital encontraría la Puerta de Brandenburgo?	Nueva Delhi	Varsovia	Madrid	Berlín
+611FTUX59	Ciudades capitales	0	¿Cuál de estos se encuentra en la ciudad capital de Londres?	castillo de Edimburgo	Santuario Meiji	Palacio de Changdeokgung	Abadía de Westminster
+365273	Ciudades capitales	0	¿Cuál es la ciudad capital de Hungría?	Erd	Sopron	Dunaujvaros	Budapest
+60E1109	Ciudades capitales	0	¿En qué ciudad capital encontraría la Casa de Ana Frank?	Beijing	Hanoi	Helsinki	Amsterdam
+0DIF102	Ciudades capitales	0	¿Cuál es la capital de Grecia?	Berlín	Tokio	Moscú	Atenas
+611FTUX56	Ciudades capitales	0	¿Cuál de estos NO está ubicado en la ciudad capital de Tokio?	Parque Ueno	Jardín Nacional Shinjuku Gyoen	Santuario Meiji	Palacio de Changdeokgung
+365257	Ciudades capitales	0	¿Cuál es la ciudad capital de Vietnam?	Munich	Dresde	Ratisbona	Hanoi
+0DIF103	Ciudades capitales	0	¿Cuál es la capital del estado de Texas?	Denver	Beijing	Ciudad de México	Austin
+611FTUX50	Ciudades capitales	0	¿En qué ciudad capital encontrarías el Tower Bridge?	Nueva Delhi	Oslo	Seúl	Londres
+0DIF114	Ciudades capitales	0	¿Cuál es la capital del estado de Hawái?	Maui	Londres	París	Honolulu
+60E1349	Ciudades capitales	0	¿Qué ciudad capital tiene la mayor población?	San Salvador	Ciudad del Vaticano	San Juan	Beijing
+102876	Ciudades capitales	0	¿Olympia es la capital de qué estado de EE. UU.?	Illinois	Iowa	Connecticut	Washington
+40E2099	Ciudades capitales	0	¿Qué ciudad capital tiene la mayor población?	Santo Domingo	Dublín	Puerto Príncipe	Moscú
+611FTUX52	Ciudades capitales	0	¿En qué ciudad capital encontraría la Capilla Sixtina?	Ciudad de México	Brasilia	Berlín	Roma
+0DIF120	Ciudades capitales	0	Cual es la capital de Mexico?	Tijuana	París	Munich	Ciudad de México
+135720	Ciudades capitales	0	Viena es la capital de qué país?	Hungría	Belice	Tayikistán	Austria
+42443	Ciudades capitales	0	¿En qué estado de EE. UU. Encontrará la ciudad capital de Sacramento?	Texas	Utah	Hawai	California
+0DIF111	Ciudades capitales	0	¿Cuál es la capital del Reino Unido?	Honolulu	Hong Kong	Berlín	Londres
+40E2849	Ciudades capitales	0	En la ciudad capital Washington DC, ¿qué edificio encontrarías allí?	Estatua de la Libertad	arco de la entrada	Catedral de San Basilio	casa Blanca
+0DIF106	Ciudades capitales	0	¿Cuál es la capital del estado de Utah?	Honolulu	Jackson	Dublín	Salt Lake City
+0DIF105	Ciudades capitales	0	¿Cuál es la capital de Alemania?	Londres	París	Bagdad	Berlín
+135850	Ciudades capitales	1	¿De qué país es Hanoi la capital?	Honduras	Etiopía	Islas Marshall	Vietnam
+42800	Ciudades capitales	1	¿Cuál es la capital y la ciudad más poblada de Tailandia?	Foshan	Santiago	Shantou	Bangkok
+135744	Ciudades capitales	1	¿Qué ciudad, ubicada al pie de las nevadas montañas Elburz, es la capital de Irán?	Isfahan	Mallado	Bagdad	Teherán
+135727	Ciudades capitales	1	¿Budapest es la capital de qué país?	Paraguay	Camerún	Burundi	Hungría
+526298	Ciudades capitales	1	¿La Habana es la capital de qué país?	Trinidad y Tobago	Isla del hombre	Arabia Saudita	Cuba
+150785	Ciudades capitales	1	¿Cuáles de estos grupos se corresponden correctamente?	Europa - Ucrania - Wellington	América del Norte - Ucrania - Kiev	Europa - Uganda - Kiev	Europa - Ucrania - Kiev
+42813	Ciudades capitales	1	¿Bruselas es la capital de qué país?	Filipinas	Corea del Norte	Anguila	Bélgica
+135824	Ciudades capitales	1	¿Boise es la capital de qué estado de EE. UU.?	Iowa	Virginia	Nuevo Mexico	Idaho
+42594	Ciudades capitales	1	¿Port-au-Prince es la capital de qué país?	Tailandia	Reino Unido	Colombia	Haití
+191786	Ciudades capitales	1	¿Cuál es la capital de Pakistán?	Multan	Rawalpindi	Dacca	Islamabad
+518508	Ciudades capitales	1	¿San Salvador es la capital de qué país?	Honduras	Venezuela	Bolivia	El Salvador
+47518	Ciudades capitales	1	¿Kingston es la capital de qué país?	España	Bélgica	Brunei	Jamaica
+95904	Ciudades capitales	1	¿Topeka es la ciudad capital de qué estado de EE. UU.?	Montana	Carolina del Sur	Luisiana	Kansas
+150908	Ciudades capitales	1	¿Cuáles de estos grupos se corresponden correctamente?	África - Sudán - Castries	Asia - Sudán - Jartum	África - Chile - Jartum	África - Sudán - Jartum
+150901	Ciudades capitales	1	¿Cuáles de estos grupos se corresponden correctamente?	África - Zimbabue - Wellington	América del Norte - Zimbabue - Harare	África - Lituania - Harare	África - Zimbabue - Harare
+47517	Ciudades capitales	1	¿Cuál es la ciudad capital del estado indio de Maharashtra?	Moscú	Guangzhou	Estanbul	Mumbai
+42811	Ciudades capitales	1	¿Cuál es la ciudad capital de Italia?	Londres	París	Toronto	Roma
+43321	Ciudades capitales	1	¿En qué estado encontrarías la ciudad capital de Saint Paul?	Oklahoma	Nuevo Mexico	Hawai	Minnesota
+42826	Ciudades capitales	1	¿Qué país tiene Bissau como capital?	India	Kuwait	Rumania	Guinea-Bissau
+47538	Ciudades capitales	1	¿La capital de Irak, Bagdad, se encuentra a orillas de qué río?	Yangtze	Amazonas	Nilo	Tigris
+233815	Ciudades capitales	1	¿Cuál es la capital de Japón y la sede del gobierno japonés y del Palacio Imperial?	Shanghai	Beijing	Seúl	Tokio
+375255	Ciudades capitales	1	¿Qué país con un área total de 41,526 kilómetros cuadrados tiene a Ámsterdam como su capital?	Liberia	Etiopía	Guinea	Países Bajos
+135809	Ciudades capitales	1	¿Cuál es la ciudad capital del país centroamericano de Guatemala?	Antigua	Puerto Barrios	Quezaltenango	Ciudad de Guatemala
+65341	Ciudades capitales	1	Fundada en 1541, ¿cuál ha sido la capital de Chile desde la época colonial?	Valparaíso	Concepcion	Antofagasta	Santiago
+42440	Ciudades capitales	1	Perú, el tercer país más grande de América del Sur, ¿qué ciudad capital tiene?	Asunción	Trujillo	Arequipa	Lima
+81860	Ciudades capitales	1	¿Qué país con un área total de 1,001,450 kilómetros cuadrados tiene a El Cairo como su ciudad capital?	Singapur	Colombia	San Marino	Egipto
+135829	Ciudades capitales	1	¿Cuál es la capital de Brasil?	Recife	Sao Paulo	Rio de Janeiro	Brasilia
+518533	Ciudades capitales	1	Nashville es la ciudad capital de qué estado de EE. UU.	Illinois	Vermont	Wyoming	Tennesse
+317967	Ciudades capitales	1	¿Montpelier es la capital de qué estado de EE. UU.?	Delaware	Dakota del Sur	Wyoming	Vermont
+518472	Ciudades capitales	1	¿Providence es la capital de qué estado de EE. UU.?	Nuevo Mexico	Alaska	Alabama	Rhode Island
+47512	Ciudades capitales	1	¿Ottawa es la capital de qué país?	Santa Sede (Ciudad del Vaticano)	Hong Kong	Antigua y Barbuda	Canadá
+318005	Ciudades capitales	1	¿Atlanta es la capital de qué estado de EE. UU.?	Maryland	Nueva York	Kansas	Georgia
+233963	Ciudades capitales	1	¿San Juan es la capital de qué territorio estadounidense?	Wallis y Futuna	Tailandia	Uzbekistán	Puerto Rico
+135863	Ciudades capitales	1	¿Cuál es la capital de la República Popular China y una de las ciudades más pobladas del mundo?	Karachi	Delhi	Mumbai	Beijing
+56294	Ciudades capitales	1	Nueva Delhi es la capital de qué país?	Islas Marshall	Uruguay	Corea del Norte	India
+150950	Ciudades capitales	1	¿Cuáles de estos grupos se corresponden correctamente?	África - Argelia - Brasilia	Europa - Argelia - Argel	América del Sur - Irán - Argel	África - Argelia - Argel
+42040	Ciudades capitales	1	¿Cuál es la capital de Gales?	Bangor	Swansea	Newport	Cardiff
+42438	Ciudades capitales	1	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Japón - Suva	África - Japón - Tokio	Asia - Suecia - Tokio	Asia - Japón - Tokio
+150903	Ciudades capitales	1	¿Cuáles de estos grupos se corresponden correctamente?	África - Uganda - Castries	Europa - Uganda - Kampala	África - Irak - Kampala	África - Uganda - Kampala
+135806	Ciudades capitales	1	¿En qué ciudad capital encontraría el Louvre?	Bruselas	Berna	Londres	París
+135816	Ciudades capitales	1	¿Cuál es la capital y ciudad más grande de Chile?	Riad	Ahmedabad	Foshan	Santiago
+44368	Ciudades capitales	1	¿Cuál es la capital de New Hampshire?	Lansing	Lincoln	Austin	Concordia
+42808	Ciudades capitales	1	¿El Cairo, la capital de Egipto, se encuentra a orillas de qué río?	Amazonas	Yangtze	Tigris	Nilo
+317979	Ciudades capitales	1	Little Rock es la ciudad capital de qué estado de EE. UU.	Wisconsin	Rhode Island	Dakota del Norte	Arkansas
+150862	Ciudades capitales	1	Cual es la capital de Jamaica?	Lanton	Ocho Ríos	Lanstead	Kingston
+52862	Ciudades capitales	1	Praga es la capital de qué país?	Iran	Turkmenistán	Uzbekistán	Republica checa
+47537	Ciudades capitales	1	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Israel - San Juan	África - Israel - Jerusalén	Asia - Bulgaria - Jerusalén	Asia - Israel - Jerusalén
+150786	Ciudades capitales	1	¿Cuáles de estos grupos se corresponden correctamente?	Asia - Suiza - Berna	Europa - El Salvador - Berna	Europa - Suiza - Port Louis	Europa - Suiza - Berna
+135799	Ciudades capitales	1	¿Cuál es la capital de Luxemburgo?	Berlín	Seúl	Líbano	Ciudad de Luxemburgo
+317975	Ciudades capitales	1	¿Cuál es la capital de Ucrania?	Estanbul	Budapest	Sofía	Kiev
+50714	Ciudades capitales	1	¿Santo Tomé es la capital de qué país?	Níger	Ghana	Cabo Verde	Santo Tomé y Príncipe
+526295	Ciudades capitales	1	¿Buenos Aires es la capital de qué país sudamericano?	Venezuela	Brasil	Chile	Argentina
+611FTUX57	Ciudades capitales	1	¿Cuál de estos NO se encuentra en la ciudad capital de Berlín?	muro de Berlín	Alexanderplatz	Palacio de Charlottenburg	Parque temático Liseberg
+317968	Ciudades capitales	1	¿Cuál es la ciudad capital de México y la ciudad más grande de América del Norte por población?	Puerto Vallarta	Tijuana	Kinshasa	Ciudad de México
+15095	Ciudades capitales	1	Juneau es la ciudad capital de qué estado de EE. UU.	Oklahoma	Wisconsin	Iowa	Alaska
+135924	Ciudades capitales	1	Islamabad es la capital de qué país?	Vanuatu	Andorra	Isla de Navidad	Pakistán
+150858	Ciudades capitales	1	¿Charleston es la capital de qué estado de EE. UU.?	Minnesota	Alabama	Utah	Virginia del Oeste
+135926	Ciudades capitales	1	¿Cuál es la capital de Rusia y una de las ciudades más grandes de Europa?	Estanbul	Lagos	Karachi	Moscú
+135726	Ciudades capitales	1	¿La Ciudad del Vaticano es la capital de qué país?	Australia	Malta	Costa de Marfil	Santa Sede (Ciudad del Vaticano)
+42791	Ciudades capitales	1	Amsterdam; ¿La Haya es la sede del gobierno es la capital de qué país?	Argentina	Islandia	Sudán	Países Bajos
+192447	Ciudades capitales	2	¿Qué país con un área total de 193 kilómetros cuadrados tiene a Oranjestad como su ciudad capital?	Kuwait	Japón	Santa Sede (Ciudad del Vaticano)	Aruba
+518420	Ciudades capitales	2	Indonesia, el archipiélago más grande del mundo, ¿qué ciudad capital tiene?	Surabaya	Medan	Bandung	Jacarta
+150890	Ciudades capitales	2	¿Cuál es la ciudad capital de Irán?	Bogotá	Dongguan	Pune	Teherán
+233930	Ciudades capitales	2	¿Qué estado tiene Montgomery como capital?	Vermont	Virginia	Kentucky	Alabama
+135874	Ciudades capitales	2	Saksaywaman es un complejo amurallado cerca de qué ciudad peruana, que es la capital histórica del Imperio Inca.	Yzma	Kronk	Pachá	Cusco
+518543	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - San Marino - Teherán	Asia - Irán - Brasilia	América del Norte - Irán - Teherán	Asia - Irán - Teherán
+50718	Ciudades capitales	2	¿Qué país tiene Nuku'alofa como capital?	Omán	Perú	Argelia	Tonga
+62551	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Camboya - Paramaribo	Europa - Camboya - Phnom Penh	Asia - Togo - Phnom Penh	Asia - Camboya - Phnom Penh
+135767	Ciudades capitales	2	¿Qué país oceánico, con Honiara como capital, utiliza el dólar como unidad monetaria?	Tanzania	Serbia y Montenegro	Bolivia	Islas Salomón
+44792	Ciudades capitales	2	¿Qué país tiene un área total de 51,100 kilómetros cuadrados y tiene a San José como su ciudad capital?	Gibraltar	Laos	Tayikistán	Costa Rica
+61434	Ciudades capitales	2	¿Antananarivo es la capital de qué isla grande?	Malta	Samoa	Tasmania	Madagascar
+102865	Ciudades capitales	2	¿Cuál es la capital de la República Checa?	Ostrava	Liberec	Payav	Praga
+85966	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Jordania - Bamako	América del Sur - Jordania - Amman	Asia - Bahamas - Amman	Asia - Jordania - Amman
+135858	Ciudades capitales	2	¿Cuál es la tercera ciudad capital más alta de América del Sur a 2.640 metros sobre el nivel del mar?	Bangkok	Hyderabad	El Cairo	Bogotá
+102894	Ciudades capitales	2	¿Qué país tiene Port Moresby como capital?	Suecia	Perú	Costa de Marfil	Papúa Nueva Guinea
+135760	Ciudades capitales	2	¿Qué capital asiática solía llamarse Pekín?	Tokio	Jacarta	Kuala Lumpur	Beijing
+518393	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Estados Unidos - Pyongyang	Asia - Corea del Norte - Bogotá	Europa - Corea del Norte - Pyongyang	Asia - Corea del Norte - Pyongyang
+184156	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	América del Norte - Níger - Ciudad de México	América del Norte - México - Riga	Asia - México - Ciudad de México	América del Norte - México - Ciudad de México
+233838	Ciudades capitales	2	¿De qué país es la capital de Jartum?	Malasia	Iran	Siria	Sudán
+85974	Ciudades capitales	2	Santo Domingo es la capital de qué país?	Tuvalu	Chad	Argentina	República Dominicana
+44559	Ciudades capitales	2	¿Riga es la capital de qué país?	Jordán	Guam	Corea del Sur	Letonia
+233831	Ciudades capitales	2	¿Pierre es la capital de qué estado de EE. UU.?	Florida	Minnesota	Hawai	Dakota del Sur
+233851	Ciudades capitales	2	¿Cuál es la capital de la provincia de Guangdong y la tercera ciudad más grande de China después de Beijing y Shanghai?	Lagos	Estanbul	Mumbai	Guangzhou
+518535	Ciudades capitales	2	¿Cuál es la capital de la provincia de Sindh y es la ciudad más grande y capital financiera de Pakistán?	Shanghai	Beijing	Delhi	Karachi
+150856	Ciudades capitales	2	¿Cual es la capital de Australia?	Melbourne	Sydney	Territorio de Van Diemen	Canberra
+518446	Ciudades capitales	2	¿Cuál fue la capital de India antes de Nueva Delhi?	Chennai	Mumbai	Vieja delhi	Calcuta
+2727	Ciudades capitales	2	¿Cuál es la capital de la India, también conocida como el Territorio Capital Nacional de la India?	Dhaka	El Cairo	Jacarta	Delhi
+47539	Ciudades capitales	2	¿Saint Paul es la capital de qué estado de EE. UU.?	Indiana	Pensilvania	Montana	Minnesota
+233787	Ciudades capitales	2	¿Cuál es la capital de Colombia y la ciudad más grande del país?	Teherán	Dongguan	Ciudad de Ho Chi Minh	Bogotá
+191520	Ciudades capitales	2	¿Qué ciudad actúa como capital comercial de Nigeria y puerta de entrada a África Occidental?	Moscú	Estanbul	Beijing	Lagos
+103973	Ciudades capitales	2	¿Qué país del Medio Oriente tiene Muscat como capital y usa el rial como moneda?	Camboya	Sudán	Estonia	Omán
+135752	Ciudades capitales	2	¿Qué ciudad compite con Bangalore y Chennai por la corona de la capital de TI de India?	Madrid	El Cairo	Lima	Hyderabad
+135779	Ciudades capitales	2	¿Qué país con un área total de 572 kilómetros cuadrados tiene a Douglas como su ciudad capital?	Bélgica	Paraguay	Portugal	Isla del hombre
+42801	Ciudades capitales	2	¿Cuál de estas ciudades es la capital de un país cuya costa este se enfrenta al Océano Pacífico?	San'a	Beirut	Bakú	Manila
+135791	Ciudades capitales	2	Andorra la Vella es la capital de qué país?	Burkina Faso	Singapur	Belice	Andorra
+50915	Ciudades capitales	2	¿Cuál es la ciudad más grande de Vietnam y la antigua capital de Vietnam del Sur?	Hong Kong	Luanda	Bogotá	Ciudad de Ho Chi Minh
+48891	Ciudades capitales	2	¿La capital de Wyoming comparte su nombre con qué tribu de nativos americanos?	Seminole	Choctaw	Pueblo	Cheyenne
+52859	Ciudades capitales	2	¿Yakarta es la capital de qué país?	Taiwán	Venezuela	Wallis y Futuna	Indonesia
+47487	Ciudades capitales	2	¿Cuál de estos continentes, países o grupos de capitales es correcto?	América del Norte, Brasil, Ottawa	Asia, Chad, Njemena	África, Granada, St. George's	África, Angola, Luanda
+54040	Ciudades capitales	2	¿Qué país de América del Sur con Santiago como capital usa el peso como moneda?	Guernsey	Italia	Brasil	Chile
+102892	Ciudades capitales	2	¿Qué país del sudeste asiático con Bandar Seri Begawan como capital utiliza el dólar como moneda?	Suecia	Italia	Venezuela	Brunei
+526595	Ciudades capitales	2	¿Cuál es la ciudad capital de Afganistán?	Islamabad	Bagdad	Damasco	Kabul
+150869	Ciudades capitales	2	¿Cuál es el nombre de la ciudad capital de Siria?	Ulan Bator	Addis Abeba	Rabat	Damasco
+233812	Ciudades capitales	2	¿Qué país con un área total de 2,381,740 kilómetros cuadrados tiene a Argel como su capital?	Islas Cook	Birmania	Santo Tomé y Príncipe	Argelia
+368737	Ciudades capitales	2	¿Madison es la capital de qué estado de EE. UU.?	Nueva York	Arizona	Utah	Wisconsin
+150868	Ciudades capitales	2	¿Qué ciudad turca ha sido la capital de tres grandes imperios: romano, bizantino y otomano?	Moscú	El Cairo	Delhi	Estanbul
+42429	Ciudades capitales	2	¿Cuál es la ciudad capital de la Antártida?	Tierra de la Reina Maud	Tierra de Wilkes	Enderby Land	No hay ciudad capital
+44791	Ciudades capitales	2	¿Qué país con un área total de 261 kilómetros cuadrados tiene a Basseterre como su capital?	Islandia	Bután	Malasia	Saint Kitts y Nevis
+86497	Ciudades capitales	2	¿Cuáles son, respectivamente, las capitales de Inglaterra, Irlanda, Escocia y Gales?	Londres, Boston, Dublín, Edimburgo	Londres, Edimburgo, Belfast, Cardiff	Chelsea, Cardiff, Edimburgo, Dublín	Londres, Dublín, Edimburgo, Cardiff
+40214	Ciudades capitales	2	¿El asentamiento es el nombre común de la capital de qué territorio insular australiano?	Isla Norfolk	Palau	Sudán	Isla de Navidad
+135733	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	África - Tanzania - Bangkok	Europa - Tanzania - Dodoma	África - Venezuela - Dodoma	África - Tanzania - Dodoma
+135831	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	América del Sur - Kenia - Nairobi	África - Costa Rica - Nairobi	África - Kenia - Dhaka	África - Kenia - Nairobi
+317965	Ciudades capitales	2	¿De qué estado de EE. UU. Es la capital de Olimpia?	Idaho	Georgia	Oregón	Washington
+43434	Ciudades capitales	2	¿Cuál es la ciudad capital del Líbano, que limita con el mar Mediterráneo?	Neumático	Baalbek	Sidón	Beirut
+34819	Ciudades capitales	2	¿De qué país es Skopje la capital?	Corea del Sur	Irlanda	Jordán	macedonia
+135882	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	América del Norte - Indonesia - Yakarta	Asia - Indonesia - Nouakchott	Asia - Moldavia - Yakarta	Asia - Indonesia - Yakarta
+317986	Ciudades capitales	2	¿Reykjavik es la capital de qué país?	Lituania	Dominica	Jordán	Islandia
+42794	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	América del Norte - Eslovaquia - Ciudad de Panamá	América del Norte - Panamá - Gaborone	Asia - Panamá - Ciudad de Panamá	América del Norte - Panamá - Ciudad de Panamá
+42592	Ciudades capitales	2	¿Cuál es la capital de Sudáfrica?	Johannesburgo	Natal	Puerto Elizabeth	Pretoria
+41675	Ciudades capitales	2	¿Qué ciudad de Ucrania fue una vez el centro del estado vikingo de Vladimir I?	Moscú	Copenhague	Oslo	Kiev
+135883	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Marruecos - Pekín	Asia - China - Apia	Europa - China - Pekín	Asia - China - Beijing
+233842	Ciudades capitales	2	¿Qué país de África con Accra como capital utiliza el cedi como moneda?	Macao	Saint Kitts y Nevis	Brasil	Ghana
+47509	Ciudades capitales	2	¿Cuál es la capital del Perú y su ciudad más grande?	Hyderabad	Londres	Ciudad de México	Lima
+102904	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Irak - Ciudad de Panamá	Europa - Irak - Bagdad	Asia - Somalia - Bagdad	Asia - Irak - Bagdad
+518489	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Hungría - Ciudad de Kuwait	Asia - Kuwait - Sucre	África - Kuwait - Ciudad de Kuwait	Asia - Kuwait - Ciudad de Kuwait
+49363	Ciudades capitales	2	¿Qué país con un área total de 10,990 kilómetros cuadrados tiene a Kingston como su ciudad capital?	España	Zambia	Tonga	Jamaica
+135870	Ciudades capitales	2	¿Cuál es la capital de Nueva Gales del Sur, Australia?	Lithgow	Newcastle	Canberra	Sydney
+233947	Ciudades capitales	2	¿Qué país con un área total de 43,094 kilómetros cuadrados tiene a Copenhague como su capital?	Zimbabue	Montserrat	Azerbaiyán	Dinamarca
+48899	Ciudades capitales	2	¿Qué país tiene Saint-Denis como capital?	Japón	Cuba	Burkina Faso	Reunión
+233958	Ciudades capitales	2	¿Cuál es la capital y ciudad más grande de Indonesia?	Bangalore	Lahore	Mumbai	Jacarta
+135861	Ciudades capitales	2	¿Qué capital se construyó en las Siete Colinas?	Washington DC	París	Bogotá	Roma
+518492	Ciudades capitales	2	¿Sofía es la capital de qué país?	Chile	Tokelau	Kenia	Bulgaria
+49295	Ciudades capitales	2	Canberra es la capital de qué país?	Somalia	Irlanda	Trinidad y Tobago	Australia
+47511	Ciudades capitales	2	¿Qué país tiene Bishkek como capital?	Madagascar	Isla del hombre	India	Kirguistán
+368573	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	América del Norte - Estados Unidos - Mascate	América del Norte - Mónaco - Washington, DC	América del Sur - Estados Unidos - Washington, DC	América del Norte - Estados Unidos - Washington, DC
+44822	Ciudades capitales	2	¿De qué país es Pyongyang la capital?	Corea del Sur	Japón	Laos	Corea del Norte
+135838	Ciudades capitales	2	¿Cuál es la capital de Vietnam y la segunda ciudad más grande del país?	Luanda	Santiago	Foshan	Hanoi
+135916	Ciudades capitales	2	¿La capital de qué país es Kampala?	Nepal	Andorra	Suiza	Uganda
+150861	Ciudades capitales	2	¿En qué isla hawaiana se encuentra la ciudad capital de Honolulu?	Kauai	Maui	Hawai	Oahu
+150927	Ciudades capitales	2	¿Qué país con un área total de 181,040 kilómetros cuadrados tiene Phnom Penh como su ciudad capital?	Suecia	Panamá	Dinamarca	Camboya
+135738	Ciudades capitales	2	¿Cuál es la capital de Kenia en África?	Kikuyu	bantú	Mombasa	Nairobi
+135719	Ciudades capitales	2	¿Qué país tiene a Lilongwe como capital?	Omán	Países Bajos	China	Malawi
+233955	Ciudades capitales	2	¿Se cree que el nombre actual de qué ciudad proviene de la palabra coreana para "ciudad capital", "Seorabeol"?	Delhi	Kinshasa	Karachi	Seúl
+42414	Ciudades capitales	2	¿Cuál es la capital de Chechenia?	Kiev	Tbilisi	Minsk	Grozny
+42825	Ciudades capitales	2	¿De qué país es Rabat la capital?	Suiza	China	El Salvador	Marruecos
+135864	Ciudades capitales	2	¿Vilnius es la capital de qué país?	Birmania	Honduras	Barbados	Lituania
+518540	Ciudades capitales	2	¿En qué ciudad capital se encuentra la Universidad de Haití?	Georgetown	Kingston	Santa domingo	Puerto Príncipe
+410947	Ciudades capitales	2	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	África - Mozambique - La Paz	Europa - Mozambique - Maputo	África - Jordania - Maputo	África - Mozambique - Maputo
+150865	Ciudades capitales	2	¿Qué estado de EE. UU. Se ganó el título de "Capital de la cerveza"?	Michigan	Minnesota	Indiana	Wisconsin
+150885	Ciudades capitales	2	¿Qué país de Europa con Helsinki como capital utiliza tanto el markka (FIM) como el euro (EUR) como moneda?	Ucrania	Australia	India	Finlandia
+135736	Ciudades capitales	2	¿Qué país de Europa con Sarajevo como capital utiliza el marco como moneda?	Nigeria	Guatemala	Libia	Bosnia y Herzegovina
+135792	Ciudades capitales	3	Situada en la costa occidental de África, ¿cuál es la capital de la República de Guinea?	Labe	Bissau	Nzerekore	Conakry
+65682	Ciudades capitales	3	¿Qué ciudad capital tiene una estación de tren llamada Waverley?	Cardiff	Dublín	Belfast	Edimburgo
+62479	Ciudades capitales	3	¿Asunción es la capital de qué país?	Vanuatu	Santa Sede (Ciudad del Vaticano)	Sri Lanka	Paraguay
+64092	Ciudades capitales	3	¿Basseterre es la capital de qué país?	Venezuela	Níger	Haití	Saint Kitts y Nevis
+135871	Ciudades capitales	3	Con una población de alrededor de 3,5 millones, ¿cuál es la capital de Bangladesh?	Chittagong	Khulna	Islamabad	Dhaka
+44430	Ciudades capitales	3	¿Cuál es la ciudad capital de Taiwán?	Tienemen	Tainan	Taichung	Taipei
+135866	Ciudades capitales	3	¿Qué país de América del Sur con Quito como capital usa el dólar como moneda?	Barbados	Comoras	Noruega	Ecuador
+233855	Ciudades capitales	3	¿Qué país de la Comunidad de Estados Independientes con Dushanbe como capital utiliza el somoni como moneda?	Congo, República Democrática	Nicaragua	Islas Turcas y Caicos	Tayikistán
+233791	Ciudades capitales	3	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Bahamas - Thimphu	Asia - Bután - Lusaka	Europa - Bután - Thimphu	Asia - Bután - Thimphu
+135878	Ciudades capitales	3	Kingstown es la capital de qué país?	Montserrat	Guayana	Austria	San Vicente y las Granadinas
+43329	Ciudades capitales	3	¿Cuál es la capital de Letonia y la ciudad más grande de los estados bálticos?	Vilna	Tallin	Kaunas	Riga
+135865	Ciudades capitales	3	¿Qué parque se conoce como "La capital mundial de la montaña rusa"?	Gran aventura	Busch Gardens	Parque Hershey	punto de cedro
+518548	Ciudades capitales	3	¿Qué ciudad fue la capital de Myanmar antes de ser reemplazada por Naypyidaw en marzo de 2006?	San Petersburgo	Chongqing	Alejandría	Yangon
+48591	Ciudades capitales	3	¿Qué país sudamericano tiene a Montevideo como capital?	Perú	Paraguay	Ecuador	Uruguay
+135832	Ciudades capitales	3	¿Qué país de África con Asmara como capital usa la nakfa como moneda?	Italia	San Pedro y Miquelón	Tonga	Eritrea
+56837	Ciudades capitales	3	¿De qué país es Alofi la capital?	Somalia	Namibia	Tonga	Niue
+518539	Ciudades capitales	3	¿Qué ciudad se convirtió en la capital del gobierno del mariscal Pétain después de la invasión nazi de Francia en 1940?	agradable	Lyon	Marsella	Vichy
+50900	Ciudades capitales	3	¿Qué país de Oceanía, con Matu-Utu (en Ile Uvea) como capital, usa el franco como moneda?	Mayotte	Kuwait	Zambia	Wallis y Futuna
+62462	Ciudades capitales	3	¿Cuál es la ciudad capital del estado mexicano de Nuevo León?	Guadalajara	Toluca	Ciudad de México	Monterrey
+318011	Ciudades capitales	3	¿Cuál es la capital de Queensland, Australia?	Gladstone	Ipswich	Melbourne	Brisbane
+135725	Ciudades capitales	3	¿Cuál es la capital de Omán?	Sanaa	Bagdad	Ankara	Moscatel
+42827	Ciudades capitales	3	¿Cuál es la capital del Sahara Occidental, una antigua colonia española, ocupada por Marruecos?	Ghardaia	Sidi-Bel-Abes	Tlemcen	El Aaiún
+184140	Ciudades capitales	3	¿Qué ciudad sirvió como capital de Costa de Marfil desde 1933 hasta 1983?	Alejandría	San Petersburgo	Riad	Abidjan
+135928	Ciudades capitales	3	Estonia, una ex República de la URSS, ubicada en el noreste de Europa, ¿qué ciudad tiene como capital?	Parnu	Narva	Tartu	Tallin
+42629	Ciudades capitales	3	¿Cuál de las siguientes ciudades no es la capital de su país?	Helsinki	Tegucigalpa	Seúl	Barcelona
+410906	Ciudades capitales	3	¿Qué ciudad capital tiene el grupo de islas de Vanuatu en el Pacífico?	Mariana	Palmira	Luganville	Port Vila
+135856	Ciudades capitales	3	¿En qué ciudad capital se encuentra el lago Shisha Houhai?	Pago Pago	Honolulu	Tokio	Beijing
+42797	Ciudades capitales	3	Mata-Utu (en Ile Uvea) es la capital de qué país?	Groenlandia	Laos	Granada	Wallis y Futuna
+518560	Ciudades capitales	3	¿Qué ciudad se construyó durante la década de 1960 para reemplazar a Karachi como capital de Pakistán?	Bagdad	Riad	Ahmedabad	Islamabad
+518524	Ciudades capitales	3	¿Thimphu es la capital de qué país?	Bangladesh	Tayikistán	Nepal	Bután
+56840	Ciudades capitales	3	¿Qué ciudad es la capital más austral del mundo?	Santiago	Ciudad del Cabo	Canberra	Wellington
+135849	Ciudades capitales	3	Port Louis es la capital de qué país?	Malawi	Bután	Taiwán	Mauricio
+532377	Ciudades capitales	3	¿En qué ciudad capital encontraría el Museo Marley?	Puerto Príncipe	Canberra	Amsterdam	Kingston
+95644	Ciudades capitales	3	¿Cuál es la capital de las Highlands, en Escocia?	Perth	Glasgow	Edimburgo	Inverness
+518496	Ciudades capitales	3	¿Qué país del Caribe tiene Kingstown como capital y usa el dólar como moneda?	Martinica	Tanzania	Estados Federados de Micronesia	San Vicente y las Granadinas
+135898	Ciudades capitales	3	¿Cuál es la capital de Tasmania, Australia?	Nueva Norfolk	Launcestown	Deviltown	Hobart
+216038	Ciudades capitales	3	¿Cuál es la ciudad capital de Martinica, la isla de las Indias Occidentales que tiene unas 40 millas de largo y 12 millas de ancho?	La Lamentin	Schoelcher	Sainte-Marie	Fort De France
+97465	Ciudades capitales	3	¿Cuál de las siguientes capitales de las islas del Pacífico Sur no se encuentra en el Mar del Coral?	Port-Moresby	Honiara	Port-Vila	Suva
+233938	Ciudades capitales	3	¿Cuál es la ciudad capital de Tanzania?	Zanzibar	Katmandú	Tanga	Dar es Salaam
+135872	Ciudades capitales	3	¿Cuál es la ciudad capital de Fiji?	Nadi	Puerto pacífico	Beqa	Suva
+35271	Ciudades capitales	3	¿Cuál es la ciudad capital de la volcánica isla caribeña de Granada?	Grenville	Gouyave	De San Juan	St. Georges
+65339	Ciudades capitales	3	¿Cuál es la ciudad capital de Bulgaria, un país aproximadamente del tamaño de Ohio?	Burgas	Varna	Plovdiv	Sofía
+42439	Ciudades capitales	3	¿Cuál es la ciudad capital del país antes conocida como Abisinia?	Lagos	Abuja	Nairobi	Addis Abeba
+135798	Ciudades capitales	3	¿Cuál es la ciudad capital de Sierra Leona en la costa occidental de África?	Mombasa	San Pedro	Ladysmith	Freetown
+135818	Ciudades capitales	3	¿Cuál es la capital del estado indio de Karnataka?	Bangkok	El Cairo	Jacarta	Bangalore
+62552	Ciudades capitales	3	¿De qué país es Palikir la capital?	Corea del Norte	Tonga	Letonia	Micronesia
+42442	Ciudades capitales	3	¿Qué ciudad de Bangladesh también se conoce como la "Ciudad de las mezquitas"?	Mumbai	Delhi	Bangalore	Dhaka
+47516	Ciudades capitales	3	¿Cuál es la capital de Burundi en África central?	Oslo	Ngozi	Bosa	Gitega
+62476	Ciudades capitales	3	¿Qué capital no administra una población kurda significativa dentro de las fronteras de su país?	Ankara	Teherán	Damasco	Amman
+42593	Ciudades capitales	3	¿Cuál es la capital de Sri Lanka?	Kandy	Dacca	Ceilán	Colombo
+66428	Ciudades capitales	3	¿Cómo se llamaba la capital de la desafortunada República de Biafra?	Lagos	Aba	Abuja	Port-Harcourt
+518454	Ciudades capitales	3	¿Cuál es la capital de Benin, en África occidental?	Cotonou	Abomey	Ouidah	Porto-Novo
+102903	Ciudades capitales	3	¿Cuál es la capital y ciudad más grande de Arabia Saudita?	Santiago	Foshan	Ahmedabad	Riad
+97461	Ciudades capitales	3	¿Cuáles son las dos capitales de los países que pelearon en la llamada "Guerra del Fútbol" en Centroamérica?	Managua, San Salvador	Honduras, San Salvador	Managua, Guatemala	Tegucigalpa, San Salvador
+410915	Ciudades capitales	3	¿Cuál es la capital de Niue, una nación insular en el Pacífico Sur administrada por Nueva Zelanda?	Pago-Pago	Papeete	Avarua	Alofi
+150860	Ciudades capitales	3	¿Cuáles de estas ciudades fueron las capitales de la monarquía dual de los Habsburgo que se disolvió en la Primera Guerra Mundial?	Viena, Trieste	Budapest, Pressburg	Praga, Budapest	Viena, Budapest
+50017	Ciudades capitales	3	¿Qué país con un área total de 58.8 kilómetros cuadrados tiene a Hamilton como su ciudad capital?	Maldivas	Túnez	Corea del Norte	islas Bermudas
+410951	Ciudades capitales	3	¿Cuál es la capital de la isla Pitcairn?	Bahía Bounty	Fletcher	Pitcairn	Adamstown
+518567	Ciudades capitales	3	La capital de la India, Delhi, se encuentra a orillas de qué río	Amazonas	Nilo	Yangtze	Yamuna
+518512	Ciudades capitales	3	¿Cuál es la capital de Costa de Marfil?	Windhoek	Luanda	El Cairo	Abidjan
+50707	Ciudades capitales	3	¿Qué país tiene Hagatna (Agana) como capital?	Gambia	Islas Caimán	Mauritania	Guam
+518484	Ciudades capitales	3	¿De qué país es Tbilisi la capital?	Congo	Níger	Palau	Georgia
+135732	Ciudades capitales	3	¿Roseau es la capital de qué país?	Guinea-Bissau	Jersey	Belice	Dominica
+43439	Ciudades capitales	3	La República Dominicana utiliza hasta el 66% de la isla Hispaniola, ¿Cuál es su ciudad capital?	La vega	San Pedro	Santiago	Santo Domingo
+135820	Ciudades capitales	3	¿Doha es la capital de qué país?	Ecuador	Barbados	Zambia	Katar
+283352	Ciudades capitales	3	¿Numea es la capital de qué país?	Islas Salomón	Guernsey	Guinea Ecuatorial	Nueva Caledonia
+49253	Ciudades capitales	3	¿Dónde se encuentra la capital de Suecia, Estocolmo?	Noroeste	Sur oeste	Sur	Sureste
+2659	Ciudades capitales	3	¿Qué nombre de la ciudad significa "Capital del Norte", refiriéndose a la ubicación de la ciudad en el norte de China?	Wuhan	Foshan	Shantou	Beijing
+135745	Ciudades capitales	3	¿Bangui es la capital de qué país?	Estonia	Filipinas	Togo	República Centroafricana
+150878	Ciudades capitales	3	¿Cuál es la ciudad capital de Bielorrusia?	Kiev	Talinn	Vilna	Minsk
+233998	Ciudades capitales	3	¿En qué atolón del Pacífico Sur se encuentra Avarua, la capital de las Islas Cook?	Tongatapu	Bora-Bora	Aitutaki	Rarotonga
+44831	Ciudades capitales	3	Georgia, una ex república de la URSS que limita con el sur de Rusia, ¿qué ciudad capital reclama?	Kutaisi	Rustavi	Batumi	Tbilisi
+42816	Ciudades capitales	3	¿Cuál es la ciudad capital del país Bosnia y Herzegovina?	Banja	Luka	Zenica	Sarajevo
+410900	Ciudades capitales	3	Majuro es la capital de qué país?	Macao	Kiribati	Honduras	Islas Marshall
+233951	Ciudades capitales	3	¿Qué país de la Comunidad de Estados Independientes con Ereván como capital utiliza el dram como moneda?	Bangladesh	Guam	Hong Kong	Armenia
+518536	Ciudades capitales	3	¿Cuál es la segunda ciudad más grande de Pakistán y la capital de la provincia de Punjab?	São Paulo	Shenzhen	El Cairo	Lahore
+54036	Ciudades capitales	3	¿Point Pelee es el punto más al sur del continente de qué país?	Argentina	Francia	Estados Unidos	Canadá
+91948	Ciudades capitales	3	¿Qué ciudad capital está situada más al este de Londres?	Beirut	Ankara	El Cairo	Moscú
+233954	Ciudades capitales	3	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Baréin - Canberra	América del Norte - Baréin - Manama	Asia - Finlandia - Manama	Asia - Baréin - Manama
+518436	Ciudades capitales	3	¿Cuál es la capital de las Islas Feroe?	Sandvik	Reikiavik	Copenhague	Torshavn
+135836	Ciudades capitales	3	¿Cuál es la capital de Uzbekistán?	Tbilisi	Alma-Ata	Dushanbe	Tashkent
+135896	Ciudades capitales	3	¿Cual es la capital de Croacia?	Rijeka	Sisak	Osijek	Zagreb
+135823	Ciudades capitales	3	¿Qué país de África con Freetown como capital usa el leona como moneda?	Dinamarca	Montserrat	Costa de Marfil	Sierra Leona
+518386	Ciudades capitales	3	¿Qué ciudad es la capital de Groenlandia?	Godhavn	Sydproven	Upernivik	Nuuk
+518388	Ciudades capitales	3	¿Cuál es la capital de Yukon?	Yellowknife	Bancroft	Peterborough	Whitehorse
+518568	Ciudades capitales	3	¿Cuál de estas capitales no está situada en una isla?	Copenhague, Dinamarca	Banjul - Gambia	Malabo - Guinea Ecuatorial	Amsterdam, Holanda
+70459	Ciudades capitales	3	¿Qué ciudad fue la última capital imperial de Vietnam bajo la dinastía Nguyen?	Saigón	Hanoi	Haiphong	Matiz
+518416	Ciudades capitales	3	¿Qué país tiene Maseru como capital?	Mónaco	Tanzania	Nauru	Lesoto
+233800	Ciudades capitales	3	¿Teherán es la capital de qué país?	Irak	Jordán	Pakistán	Iran
+87466	Ciudades capitales	3	¿Qué país de la Comunidad de Estados Independientes, con Bakú como capital, usa el manat como moneda?	Siria	Congo, República Democrática	Israel	Azerbaiyán
+233768	Ciudades capitales	3	¿Cuál es la ciudad y capital más grande de Guyana?	Nueva Amsterdam	Paramaribo	Bartica	Georgetown
+66442	Ciudades capitales	3	Tayikistán, anteriormente parte de la URSS, ¿qué ciudad tiene como capital?	Khodzhent	Bishkek	Kulyab	Dushanbe
+76175	Ciudades capitales	3	¿Cuál es la capital de Somalia?	Ciudad somalí	Bari	Birmania	Mogadisio
+194443	Ciudades capitales	3	¿Cuál es la capital de Albania?	Alger	Rabat	Lima	Tirana
+135787	Ciudades capitales	3	¿De qué país es la capital de Tegucigalpa?	Isla Norfolk	Egipto	Martinica	Honduras
+44832	Ciudades capitales	3	¿Qué país con un área total de 637,657 kilómetros cuadrados tiene Mogadiscio como su ciudad capital?	Liberia	Hungría	Finlandia	Somalia
+85967	Ciudades capitales	3	Según la ONU en 2001, ¿cuál de estas capitales propiamente dicha tenía la mayor población?	Tokio	Ciudad de México	Moscú	Seúl
+42805	Ciudades capitales	3	¿Qué capital asiática se conocía anteriormente como Batavia?	Manila	Singapur	Colombo	Jacarta
+56834	Ciudades capitales	3	¿Yamoussoukro es la capital de qué nación?	Sahara Occidental	Chile	Zambia	Costa de Marfil
+135784	Ciudades capitales	3	¿Cuál es la capital de Angola y la ciudad más poblada e importante del país?	Foshan	Rio de Janeiro	Hanoi	Luanda
+518458	Ciudades capitales	3	¿Charleston es la ciudad capital de qué estado de EE. UU.?	Maine	Nueva York	Carolina del Norte	Virginia del Oeste
+233903	Ciudades capitales	3	¿Qué ciudad capital es en realidad 2 ciudades separadas?	Istanbul, Turquía	Bucarest, Rumania	Berlín, Alemania	Budapest, Hungría
+97470	Ciudades capitales	3	¿Cuál es la capital de Eslovaquia (o República Eslovaca), anteriormente parte de Checoslovaquia?	Brno	Trnava	Kosice	Bratislava
+92136	Ciudades capitales	3	¿De qué país es la capital Nouakchott?	Benin	Taiwán	Sahara Occidental	Mauritania
+233974	Ciudades capitales	3	¿Qué país con un área total de 1,780 kilómetros cuadrados tiene Basse-Terre como su capital?	Haití	Cabo Verde	Barbados	Guadalupe
+518456	Ciudades capitales	3	¿Cuál es la ciudad capital de la República del Congo, hogar de las tribus bantú?	Pointe-Noire	Nyaki	Loubomo	Brazzaville
+229567	Ciudades capitales	3	¿Cuál es la ciudad capital de la isla caribeña más oriental de las Indias Occidentales, Barbados?	Speightstown	Betsabé	Jamesville	Bridgetown
+135764	Ciudades capitales	3	¿Sarajevo es la capital de qué país?	Belice	Irak	Islas Caimán	Bosnia y Herzegovina
+97494	Ciudades capitales	3	¿Cuál es la ciudad capital de Níger?	Argel	Harare	Asmera	Niamey
+42795	Ciudades capitales	3	Nassau es la ciudad capital de qué país?	Brasil	islas Bermudas	Jamaica	Bahamas
+233780	Ciudades capitales	3	¿San Juan es la capital de qué país?	Polinesia francés	Mali	Noruega	Antigua y Barbuda
+50712	Ciudades capitales	3	¿En qué ciudad capital se encuentra el lago Parano?	Roma, Italia	Nueva Delhi, India	Buenos Aires, Argentina	Brasilia, Brasil
+518571	Ciudades capitales	3	¿Cuál es la capital de Costa Rica en Centroamérica?	Santa Cruz	Limón	San Juan	San José
+42595	Ciudades capitales	3	¿Cuál es la ciudad capital de Nueva Escocia?	San Juan	Fredericton	Ottawa	Halifax
+135756	Ciudades capitales	3	¿Qué ciudad es la capital rusa del cristianismo ortodoxo oriental?	Lagos	Karachi	Dhaka	Moscú
+233830	Ciudades capitales	3	¿Gaborone es la capital de qué país?	El Salvador	Jamaica	Islas Marshall	Botswana
+61138	Ciudades capitales	3	¿Cuál es la capital de Chad?	Moundau	Bongol	Bechir	Yamena
+233839	Ciudades capitales	3	¿Qué ciudad es la capital de Telangana en el sur de la India?	Lima	Shenzhen	El Cairo	Hyderabad
+44824	Ciudades capitales	3	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	Asia - Kazajstán - Andorra La Vella	Asia - Granada - Astaná	África - Kazajstán - Astana	Asia - Kazajstán - Astaná
+42437	Ciudades capitales	3	¿Qué país tiene a Paramaribo como capital?	Isla Norfolk	Seychelles	Azerbaiyán	Surinam
+233788	Ciudades capitales	3	¿Cuál era la capital del Imperio brasileño cuando el emperador Dom Pedro I huyó de Napoleón de Portugal a Brasil?	Belo Horizonte	Brasilia	el Salvador	Rio de Janeiro
+80596	Ciudades capitales	3	¿Dónde estuvo la primera capital del imperio ruso?	San Petersburgo	Moscú	Kiev	Novgorod
+135754	Ciudades capitales	3	¿Cual es la capital de Guyana?	Lisboa	Kinshasa	Katmandú	Georgetown
+135748	Ciudades capitales	3	Tallin es la capital de qué país?	Argelia	Isla Norfolk	Aruba	Estonia
+47513	Ciudades capitales	3	Situada en la costa occidental de África, ¿cuál es la capital de la República de Guinea-Bissau?	Nzerekore	Ciudad de Guinea	Labe	Bissau
+150906	Ciudades capitales	3	¿Ammán es la capital de qué país?	Guayana Francesa	Laos	Países Bajos	Jordania
+135793	Ciudades capitales	3	¿Cuál es la ciudad capital de Camboya (o Kampuchea) que se encuentra en el río Mekong?	Sihanouk	Kompong Chan	Battambang	Phnom Penh
+135876	Ciudades capitales	3	¿Belmopán es la capital de qué país?	Gambia	Antigua y Barbuda	Azerbaiyán	Belice
+135715	Ciudades capitales	3	¿Cuál es la capital provincial y la ciudad más grande de la provincia de Sichuan en el suroeste de China?	Abidjan	Yangon	Ahmedabad	Chengdu
+135835	Ciudades capitales	3	¿Qué ciudad capital fue fundada por Pedro Arias de Ávila en 1519?	Madrid	Buenos Aires	Ciudad de México	ciudad de Panamá
+54930	Ciudades capitales	3	¿Cuáles son las capitales de Azerbaiyán y Kazajstán, respectivamente?	Astana y Bakú	Dushanbe y Tashkent	Tashkent y Dushanbe	Bakú y Astana
+135763	Ciudades capitales	3	Anteriormente conocida como Titograd, ¿qué ciudad es la capital de Crna Gora (Montenegro)?	Kotor	Shkoder	Novi Sad	Podgorica
+8473	Ciudades capitales	3	¿Qué país tiene a Nuuk (Godthab) como capital?	Ucrania	Guayana Francesa	Albania	Groenlandia
+233962	Ciudades capitales	3	¿Cuál es la capital de la Guayana Francesa, entre Surinam y Brasil?	Mont Royal	St. Laurent	Ile Du Diable	Cayenne
+524322	Ciudades capitales	3	Ligeramente más grande que Montana, Zimbabwe, en el continente africano, ¿qué ciudad capital alberga?	Bulawayo	Masvingo	Hatie	Harare
+50713	Ciudades capitales	3	¿Cuál es la capital y la ciudad más grande de Gales que tiene tres lugares principales de artes escénicas?	Swansea	Newport	Glasgow	Cardiff
+518440	Ciudades capitales	3	¿Qué ciudad de la provincia central de Guangdong, China, se ganó la reputación de ser la "capital del sexo de China"?	Jacarta	Tokio	Singapur	Dongguan
+135837	Ciudades capitales	3	¿Accra es la capital de qué país de África Occidental?	Gambia	Chad	Gabón	Ghana
+135774	Ciudades capitales	3	Lituania, que se encuentra a orillas del Mar Báltico, ¿qué ciudad capital reclama?	Liepaja	Klaipedia	Kaunas	Vilna
+50710	Ciudades capitales	3	¿Cuál es la capital de la República Centroafricana?	Lusaka	Luanda	Kinshasa	Bangui
+135875	Ciudades capitales	3	¿Qué país con un área total de 196.190 kilómetros cuadrados tiene a Dakar como su capital?	Islas Salomón	Nepal	Maldivas	Senegal
+135751	Ciudades capitales	3	¿Cuál es la ciudad capital de Angola en África Occidental?	Labito	Beneguela	Huambo	Luanda
+233803	Ciudades capitales	3	¿Cuál es la capital de Mozambique?	Maseru	Abuja	Jartum	Maputo
+97063	Ciudades capitales	3	¿Cuál es la capital de la provincia de Hubei en China y un puerto importante en el río Yangtze?	Luanda	Lima	Santiago	Wuhan
+69241	Ciudades capitales	3	¿La isla de Bioko tiene la capital de qué país africano?	Camerún	Argelia	Madagascar	Guinea Ecuatorial
+253945	Ciudades capitales	3	¿Qué país tiene una capital que se encuentra en una isla?	Letonia	Nicaragua	Katar	Dinamarca
+135812	Ciudades capitales	3	¿Cuál es la capital de Eire?	Belfast	corcho	Edimburgo	Dublín
+103288	Ciudades capitales	3	Vanuatu, un grupo de islas en el suroeste del Pacífico, ¿qué ciudad capital reclama?	Santo	Angelo	Tanna	Vila
+410981	Ciudades capitales	3	¿Cuál es la capital del único país del África subsahariana con el español como idioma oficial?	Luanda	Lusaka	Maputo	Malabo
+233919	Ciudades capitales	3	¿Qué país tiene Damasco como su capital?	Iran	Jordán	Latakia	Siria
+54035	Ciudades capitales	3	¿Cuál es la ciudad capital de Santa Elena, una pequeña isla a medio camino entre América del Sur y África?	Fitzroy	Tristan Da Cunha	Saint-Cloud	Jamestown
+518559	Ciudades capitales	3	¿N'Djamena es la capital de qué país?	Tokelau	Islas Caimán	Antigua y Barbuda	Chad
+135927	Ciudades capitales	3	¿Cuál es la ciudad capital de Yemen que se encuentra a orillas del Mar Rojo?	Ta'izz	Al-Hudayah	Al-Mukalla	San'a
+42042	Ciudades capitales	3	¿Minsk se convirtió en la capital de qué nación independiente en 1991?	macedonia	Letonia	San Pedro y Miquelón	Bielorrusia
+50914	Ciudades capitales	3	¿Cuál es la ciudad capital de Botswana?	Serowe	Addis Abeba	Nairobi	Gaborone
+135897	Ciudades capitales	3	¿Kinshasa es la capital de qué país?	Bulgaria	Santo Tomé y Príncipe	Sierra Leona	Congo
+518432	Ciudades capitales	3	¿Fort-de-France es la capital de qué país?	Islandia	Antigua y Barbuda	Islas Marshall	Martinica
+42432	Ciudades capitales	3	¿Cuál es la capital de Gabón que se encuentra en la costa oeste de África?	Port Gentil	Orán	Franceville	Libreville
+135886	Ciudades capitales	3	¿Cuál es la ciudad capital de la ex República Yugoslava de Macedonia?	Kumanovo	Prilep	Bitolj	Skopje
+135728	Ciudades capitales	3	¿Qué ciudad capital fue diseñada por Pierre L'Enfant?	Londres	París	Ottawa	Washington DC
+518558	Ciudades capitales	3	¿Qué país de Europa con Saint Peter Port como capital utiliza la libra como moneda?	Argelia	China	Hungría	Guernsey
+62465	Ciudades capitales	3	¿Kuala Lumpur es la capital de qué nación del sudeste asiático?	Singapur	Tailandia	Indonesia	Malasia
+518466	Ciudades capitales	3	¿Qué ciudad de Oklahoma es la capital tribal de la nación Cherokee?	Ciudad de Oklahoma	normando	Edmond	Tahlequah
+44367	Ciudades capitales	3	¿Basse-Terre es la capital de qué país?	Burkina Faso	Irlanda	Maldivas	Guadalupe
+135747	Ciudades capitales	3	¿Qué capital de la nación del Pacífico Occidental se llamaba originalmente Granville?	Wellington, Nueva Zelanda	Noumea, Nueva Caledonia	Honiara, Islas Salomón	Port Moresby, Papua Nueva Guinea
+135877	Ciudades capitales	3	¿Cuál es la capital de las exóticas Islas Caimán?	James Town	Johnston	Jonestown	George Town
+518544	Ciudades capitales	3	¿Belgrado es la capital de qué región tradicional de Europa?	Albania	Moldavia	Eslovenia	Serbia
+42804	Ciudades capitales	3	¿Qué estado de EE. UU. Se conoce como la capital del rayo?	New Hampshire	Kansas	Alaska	Florida
+47515	Ciudades capitales	3	Salem es la capital de qué estado de EE. UU.	Massachusetts	Virginia del Oeste	New Jersey	Oregón
+532156	Ciudades capitales	3	¿Cuál es la única capital nacional que se encuentra en el río Dnieper?	Moscú	Minsk	Bakú	Kiev
+150863	Ciudades capitales	3	¿Cuál es la ciudad capital de los Emiratos Árabes Unidos?	Ar Runwats	Al Fujayrah	Dubai	Abu Dhabi
+233875	Ciudades capitales	3	¿Qué país con un área total de 45,226 kilómetros cuadrados tiene a Tallin como su capital?	Nueva Caledonia	San Marino	Surinam	Estonia
+250644	Ciudades capitales	3	¿Cuál es la capital de Nepal?	Shimla	Lhasa	Amarnath	Katmandú
+150874	Ciudades capitales	3	Charlotte Amalie es la capital de qué país?	Singapur	Guinea Ecuatorial	Dominica	Islas Virgenes
+135797	Ciudades capitales	3	Trinidad y Tobago fueron descubiertas por Colón en su tercer viaje, ¿cuál es su capital?	Arima	Agave	San Fernando	Puerto de España
+233835	Ciudades capitales	3	¿Bamako es la capital de qué país?	Islas Turcas y Caicos	Liechtenstein	Libia	Mali
+150934	Ciudades capitales	3	¿Cuál es la capital de Guinea Ecuatorial?	Acalayang	San Juan	Bata	Malabo
+43322	Ciudades capitales	3	¿Qué país con un área total de 11,300 kilómetros cuadrados tiene a Banjul como su capital?	Lituania	Hong Kong	Nueva Zelanda	Gambia
+54802	Ciudades capitales	3	¿Cuál es la capital de Botswana?	Brezo	Rhodesia	Maputo	Gaborone
+368630	Ciudades capitales	3	¿Cuál es la capital más al norte del mundo?	Moscú, Rusia	Helsinki, Finlandia	Ottawa, Canadá	Reykjavik, Islandia
+233959	Ciudades capitales	3	¿Cuál es la capital y ciudad más grande de Bangladesh?	Moscú	Mumbai	El Cairo	Dhaka
+62549	Ciudades capitales	3	¿De qué piedra está hecha el edificio de la capital del estado de Colorado?	Yeso	Caliza	Cemento	Mármol
+135768	Ciudades capitales	3	¿Georgetown es la capital de qué país?	San Pedro y Miquelón	Finlandia	Chipre	Guayana
+82071	Ciudades capitales	3	¿De qué país es la capital de Chisinau?	Suiza	Eslovenia	Zimbabue	Moldavia
+43325	Ciudades capitales	3	¿De qué país es Male la capital?	Guayana	Níger	Islandia	Maldivas
+42818	Ciudades capitales	3	Papeete es la capital de qué país?	Tuvalu	República Centroafricana	Antigua y Barbuda	Polinesia francés
+233943	Ciudades capitales	3	¿Qué ciudad es un importante puerto marítimo y puerta de entrada a la capital de China, Beijing?	Seúl	Lahore	Dhaka	Tianjin
+35259	Ciudades capitales	3	¿Cuál es la ciudad capital de Mauritania?	Riad	Lagos	Rabat	Nouakchott
+150872	Ciudades capitales	3	¿Saipán es la capital de qué país?	Australia	Bosnia y Herzegovina	Bangladesh	Islas Marianas del Norte
+62478	Ciudades capitales	3	¿En qué capital nacional se encuentran Phoenix Park y St. Stephen's Green?	Ottawa	Canberra	Londres	Dublín
+50018	Ciudades capitales	3	¿Cuál es la capital de Angola?	Luena	Huambo	Malanje	Luanda
+47481	Ciudades capitales	3	¿Tarawa es la capital de qué país?	Congo	Marruecos	Corea del Norte	Kiribati
+62461	Ciudades capitales	3	¿Cuál es la capital de Serbia?	Pancevo	Sarajevo	Cacak	Belgrado
+57043	Ciudades capitales	3	La Isla de la Reunión, parte de las Islas Mascareñas en el Océano Índico, ¿qué ciudad capital tiene?	Saint-Jacques	Saint-Pierre	Saint-Georges	Saint-Denis
+135851	Ciudades capitales	3	¿Bridgetown es la capital de qué país?	Japón	Bangladesh	Granada	Barbados
+80009	Ciudades capitales	3	Beirut es la capital de qué nación?	Jordán	Siria	Egipto	Líbano
+233818	Ciudades capitales	3	Malí, cuya principal exportación es el uranio, ¿es el país donde se encuentra qué ciudad capital?	Massapequa	Berna	Hialeah	Bamako
+410933	Ciudades capitales	3	¿De qué país es Sucre la capital?	Chipre	Reino Unido	Taiwán	Bolivia
+195069	Ciudades capitales	3	¿Cuál es la capital del antiguo protectorado de Sikkim, ahora un estado de la India?	Imphal	Thimphu	Lhasa	Gangtok
+233950	Ciudades capitales	3	¿Brisbane es la capital de qué estado o territorio australiano?	Victoria	Territorio del Norte	Tasmania	Queensland
+44874	Ciudades capitales	3	¿Cuál es la capital de Etiopía?	El Cairo	Mogadisio	Faraka	Addis Abeba
+194816	Ciudades capitales	3	¿Cuál es la ciudad capital de Cabo Verde, un pequeño grupo de islas frente a la costa oeste de África?	Boa Vista	Escudo	Mindelo	Praia
+42445	Ciudades capitales	3	¿La isla mediterránea de Chipre reclama qué ciudad capital?	Brno	Larnaka	Limassol	Nicosia
+67460	Ciudades capitales	3	¿Banjul es la capital de cuál de los siguientes países africanos?	Ghana	Ir	Gabón	Gambia
+102900	Ciudades capitales	3	Malta, una isla ubicada a 93 kilómetros al sur de Sicilia, ¿qué ciudad capital alberga?	Birkirkara	Qormi	Hamrun	La Valeta
+518384	Ciudades capitales	3	¿Qué ciudad capital contiene el Prado, uno de los bulevares más bellos del mundo?	Rio de Janeiro	Lisboa	Buenos Aires	Madrid
+135759	Ciudades capitales	3	¿Cuál es la capital de la nación con mayor área?	Beijing	Washington DC	Ottawa	Moscú
+272101	Ciudades capitales	3	¿En qué capital europea se encuentra el río Aare?	Estocolmo	Viena	Berlín	Berna
+62720	Ciudades capitales	3	¿Cuál es la capital de la pintoresca isla de Saba, en las antiguas Antillas Holandesas?	Windwardside	Barrio Inglés	La puerta del infierno	El fondo (The Bottom)
+479205	Ciudades capitales	3	¿Qué capital de Europa del Este se conocía anteriormente como Pressburg bajo el Imperio Austro-Húngaro?	Praga	Belgrado	Zagreb	Bratislava
+233826	Ciudades capitales	3	¿Cuál es la capital de Eritrea, que una vez fue provincia de Etiopía?	Asseb	Keren	Massawa	Asmara
+233807	Ciudades capitales	3	¿Qué antigua capital de Myanmar también se conoce como "Rangún"?	Mandalay	Mawlamyaing	Taunggyi	Yangon
+102878	Ciudades capitales	3	¿Qué país de Oriente Medio con Nicosia como capital utiliza la libra y la lira como moneda?	Aruba	Zimbabue	Argelia	Chipre
+233781	Ciudades capitales	3	¿Road Town es la capital de qué país?	Islandia	Irak	Micronesia	Islas Vírgenes Británicas
+369212	Ciudades capitales	3	¿En qué isla se encuentra la capital de la Columbia Británica?	Victoria	Graham	Calvert	Vancouver
+39934	Ciudades capitales	3	¿Qué país con un área total de 259 kilómetros cuadrados tiene a George Town como su capital?	Zambia	Arabia Saudita	Camerún	Islas Caimán
+518564	Ciudades capitales	3	¿Qué ciudad reemplazó a Lagos como capital de Nigeria en 1991?	Mumbai	Guangzhou	Estanbul	Abuja
+135827	Ciudades capitales	3	¿Qué sitio arqueológico en el oeste de Bolivia es la capital de un imperio que floreció alrededor del 300 al 1000 d.C.?	Titicaca	Altiplano	Andes	Tiwanaku
+135844	Ciudades capitales	3	¿Plymouth es la capital de qué país?	México	Granada	Seychelles	Montserrat
+44823	Ciudades capitales	3	¿Qué país de Oriente Medio con Riad como capital utiliza el riyal como moneda?	Dinamarca	Georgia	Azerbaiyán	Arabia Saudita
+51250	Ciudades capitales	3	¿Castries es la capital de qué país?	Maldivas	Australia	Santo Tomé y Príncipe	Santa Lucía
+135795	Ciudades capitales	3	¿Cuáles son las capitales legislativa, ejecutiva y judicial de Sudáfrica?	Ciudad del Cabo, Pretoria, Durban	Ciudad del Cabo, Johannesburgo, Durban	Ciudad del Cabo, Johannesburgo, Pretoria	Ciudad del Cabo, Pretoria, Bloemfontain
+62466	Ciudades capitales	3	¿Qué país tiene el mayor porcentaje de su masa terrestre en una isla?	Malasia	Guinea Ecuatorial	Canadá	Singapur
+135815	Ciudades capitales	3	¿Willemstad es la capital de qué país?	Taiwán	Sierra Leona	Uganda	Curazao
+135825	Ciudades capitales	3	¿Qué capital fue destruida por un terremoto y una erupción volcánica en 1917?	San Juan	San Pedro	San Jose	San Salvador
+518563	Ciudades capitales	3	¿El punto más alto de qué estado de EE. UU. Es Mount Hood, medido a 11,239 pies?	Alaska	Georgia	Wyoming	Oregón
+233827	Ciudades capitales	3	¿Qué país con un área total de 2.860 kilómetros cuadrados tiene a Apia como su ciudad capital?	Reunión	Libia	Saint Kitts y Nevis	Samoa
+51244	Ciudades capitales	3	¿Victoria es la capital de qué país?	Vietnam	Granada	Anguila	Seychelles
+62477	Ciudades capitales	3	¿Cuál es la ciudad y capital económica más grande de Costa de Marfil?	Bagdad	Riad	Singapur	Abidjan
+518518	Ciudades capitales	3	¿Cuál es la capital de Paraguay, un país fronterizo con Brasil, Argentina y Bolivia?	Pilar	Villaricca	Santiago	Asunción
+150917	Ciudades capitales	3	Turkmenistán, que se encuentra al norte de Irán, ¿qué ciudad tiene como capital?	Charjew	Dashhovuz	María	Ashgabat
+62463	Ciudades capitales	3	¿Cuál es la ciudad capital de la provincia de Saskatchewan, Canadá?	mandíbula de alce	Saskatoon	Príncipe Alberto	Regina
+135841	Ciudades capitales	3	¿Jamestown es la capital de qué país?	Costa Rica	Omán	Sierra Leona	Santa elena
+135842	Ciudades capitales	3	¿Qué ciudad ordenó construir Genghis Khan y que su hijo, Ogodei, la convirtió en capital del Imperio mongol?	Darhan	Khara Khot	Ulaanbaatar	Khara Khorum
+135887	Ciudades capitales	3	¿Praia es la capital de qué país?	Chile	Islas Caimán	Andorra	Cabo Verde
+518554	Ciudades capitales	3	¿Cuál fue la ciudad capital del Imperio Heian en Japón?	Tokio	Sapporo	Nagasaki	Kioto
+75931	Ciudades capitales	3	¿Qué ciudad capital está más al sur?	Canberra, Australia	Colombo, Sri Lanka	Lisboa, Portugal	Wellington, Nueva Zelanda
+229569	Ciudades capitales	3	¿Qué país tiene a Kigali como capital?	Surinam	Mónaco	Jamaica	Ruanda
+57044	Ciudades capitales	3	Port-Vila es la capital de qué país?	Islas Vírgenes Británicas	Angola	Colombia	Vanuatu
+135880	Ciudades capitales	3	¿Cuál es la capital del Emirato de Bahréin?	Umm-Al-Qiwain	Ad Dawhah	Ra's Al Khaymah	Al Manamah
+50704	Ciudades capitales	3	¿Con qué apodo se conoce a El Cairo, la capital de Egipto?	Perla del oriente	París de las Américas	La ciudad Prohibida	La ciudad de los mil minaretes
+135859	Ciudades capitales	3	¿Cuál es la capital del país norteafricano de Chad?	Abeche	Sarh	Moundou	Yamena
+228287	Ciudades capitales	3	¿Cuál es la ciudad capital de Samoa Americana, un grupo de islas en el Pacífico Sur?	Pogo Pogo	Bago Bago	Bogo Bogo	Pago Pago
+85969	Ciudades capitales	3	¿Qué país de Oceanía con Avarua como capital utiliza el dólar como moneda?	Panamá	Guayana	Islas Cocos (Keeling)	Islas Cook
+102896	Ciudades capitales	3	¿Cuál es la capital de la isla caribeña que obtuvo su independencia el 6 de agosto de 1962?	Bridgetown	Georgetown	Puerto de España	Kingston
+51253	Ciudades capitales	3	¿Cuál de las siguientes es la capital del estado de Quintana Roo, en el este de México?	Monterrey	Mérida	Cancún	Chetumal
+135776	Ciudades capitales	3	¿Qué ciudad es la capital de Papúa Nueva Guinea?	Port Stanley	Port Arthur	Port Chester	Port Moresby
+135923	Ciudades capitales	3	¿Cuál es la capital de la nación insular de Palau en el Pacífico norte?	Ladrar	Truk	Majuro	Koror
+51426	Ciudades capitales	3	¿Qué ciudad es la capital de Malawi, una pequeña nación del sudeste de África?	Blantyre	Mzuzu	Nyasa	Lilongwe
+50699	Ciudades capitales	3	¿Malabo es la capital de cuál de los siguientes países africanos?	Guinea-Bissau	Guinea	Senegal	Guinea Ecuatorial
+62490	Ciudades capitales	3	¿Cuál es la capital de Santa Lucía, una de las islas de Barlovento de las Indias Occidentales?	Vieux-Fort	Soufriere	Petit Pitons	Castries
+135909	Ciudades capitales	3	¿Qué país de Europa con Tirana como capital utiliza el lek como moneda?	Eslovenia	Emiratos Árabes Unidos	Seychelles	Albania
+410898	Ciudades capitales	3	¿Malabo es la capital de qué país?	Bielorrusia	Santo Tomé y Príncipe	Mozambique	Guinea Ecuatorial
+44794	Ciudades capitales	3	¿Cuál de estos grupos de capitales continentales - nacionales - es correcto?	África - Etiopía - Nassau	África - Yemen - Addis Abeba	Europa - Etiopía - Addis Abeba	África - Etiopía - Addis Abeba
+80597	Ciudades capitales	3	¿Cuál fue la capital de Pandavas en Mahabharata?	Hastinapur	Pataliputra	Dwaraka	Indraprashta
+34288	Ciudades capitales	3	¿Vaduz es la capital de qué país?	Ghana	Polonia	Haití	Liechtenstein
+518501	Ciudades capitales	3	Situada entre Italia y Hungría, ¿cuál es la capital de Eslovenia, una antigua parte de Yugoslavia?	Celji	Kranj	Maribor	Liubliana
+91258	Ciudades capitales	3	¿Yaundé es la capital y Douala es la ciudad más grande de qué país?	Vietnam	Nueva Guinea	Chad	Camerún
+410983	Ciudades capitales	3	¿De qué país es Colombo la capital?	Mauritania	Barbados	Sudán	Sri Lanka
+135786	Ciudades capitales	3	¿Cuál de estas capitales es el octavo lugar más caro del mundo para vivir?	Londres	Sydney	París	Dublín
+150859	Ciudades capitales	3	¿Qué ciudad capital tiene muchas de sus calles con nombres de letras del alfabeto?	Canberra	Lima	Viena	Washington DC
+42630	Ciudades capitales	3	¿Cuál es la capital de Camboya?	Sisophon	Kampot	Kampung	Phnom Penh
+50842	Ciudades capitales	3	¿Cuál de las siguientes ciudades nunca sirvió como capital del Pakistán independiente?	Larkana	Islamabad	Rawalpindi	Karachi

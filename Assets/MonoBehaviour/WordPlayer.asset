@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 816b5bc07127d58aa47db6bcb61a0416, type: 3}
+  m_Name: "WordPlayer"
+  m_EditorClassIdentifier: 
+  isNew: 1
+  adExcludedNetworkPurchaser: 0
+  totalRevenue: 0
+  properties:
+    offline_fb_id: 
+    fb_access_token: 
+    online_fb_id: 
+    InstalledFromMGDeeplink: 0
+    MGPlaysCount: 0
+    MGAdsCount: 0
+    MGHintsCount: 0
+    LifetimeHints: 0
+    LifetimeFreeHints: 0
+    LifetimeStruggleHints: 0
+    LifetimeDCHints: 0
+    LifetimeHintPickers: 0
+    LifetimeMegaHints: 0
+    LifetimeCheckHints: 0
+    ChaptersPlayedWithoutHints: 0
+    HintsUsedOnCurrentChapter: 0
+    incentivisedVideosWatched: 0
+    prizeBalloonTapped: 0
+    prizeBalloonAppeared: 0
+    gridSize: 0
+    SkippedTutorial: 0
+    AdvancedSkipLevel: 0
+    WWWServerTimestamp: 0
+    WWWEventProgress: 0
+    wWWEventCollected: 0
+    adsNotClicked: 0
+    LevelsPlayedPostPurchase: 0
+    LastSeenDateString: 
+    profile_avatar_id: 0
+    profile_location: 
+    story_mode_vote: 
+    gdprConsent: 0
+    WHDPlayerVarsTokenized: 
+    GOTDDaysSeenWoInstallation: 0
+    LifetimeDefinitionsViewed: 0
+    GoalExtraWords: 0
+    GoalUseHints: 0
+    GoalGoldenCurrency: 0
+    GoalDailyChallenge: 0
+    GoalTwitterPosts: 0
+    GoalFriendInvites: 0
+    MysteryGiftReceived: 0
+    ab_currentCollectionIndex: 0
+    ab_totalCollectionsComplete: 0
+    ab_currentCollectionBox: []
+    ab_currentCollectionProgress: []
+    ab_nextLevel: 0
+    ab_currentLanguage: 
+    ab_lifeftime_redraws: 0
+    has_Active_Subscription: 0
+    numSubscriptionsPurchased: 0
+    numTrialSubs: 0
+    has_Active_Subscription_Silver: 0
+    numSubscriptionsPurchased_Silver: 0
+    numTrialSubs_Silver: 0
+    LifetimeApplesEarnedFromExtraWords: 0
+    PlayerIQ: 0
+    LifetimeVipPartyPurchases: 0
+    LifetimeLargestStreak: 0
+    LifetimeProfileAvatarChanges: 0
+    LifetimeProfileNameChanges: 0
+    FTUXWasBlockedByKnob: 0
+    appleUserId: 
+    verifiedEmail: 0
+    ads_segment: 
+    imported: 0
+    oldSupportId: 
+    treasure_chest: 
+    GoldenMultiplier: 0
+    DailyChallengeTutorialStatus: 0
+  id: 
+  uuid: 
+  support: 
+  playerBucket: 
+  clientCreated: 0
+  dcStars: 0
+  last_daily_amount: 0
+  no_ads: 1
+  lifetimePlays: 0
+  max_item_purchased: " "
+  last_item_purchased: " "
+  lastItemPrice: 0
+  network_purchaser: "false"
+  IsLapsingPurchaser: 0
+  IsLapsingNonPurchaser: 0
+  QAHACK_FreeCoinsTrace: []
+  QAHACK_NonCoinsAwardTrace: []

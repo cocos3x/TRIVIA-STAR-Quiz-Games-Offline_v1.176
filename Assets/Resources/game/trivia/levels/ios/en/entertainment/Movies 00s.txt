@@ -1,0 +1,473 @@
+20VE2139	Movies 00s	0	Which movie is about a female boxer?	Children Of Men	Gladiator	The Departed	Million Dollar Baby
+20VE2085	Movies 00s	0	Where does Christopher go in the movie "Into the Wild"?	Florida	Brooklyn	Montreal	Alaska
+20VE2161	Movies 00s	0	The 2007 film "Knocked Up" starring Seth Rogan is about?	Bank Robbery	Hockey Injury	Dental Procedure	Surprise Pregnancy
+20VE2121	Movies 00s	0	In the movie "Pearl Harbor" what country attacked the US Navy base?	Italy	Iraq	Canada	Japan
+20VE2129	Movies 00s	0	Which of these movies is set in Japan?	The Pianist	Enchanted	Hannibal	Lost In Translation
+20VE2119	Movies 00s	0	What was the title of the 2007 parody film about cops?	Sin City	Alex & Emma	White Chicks	Hot Fuzz
+20VE2107	Movies 00s	0	Which of these is a science-fiction movie?	Employee Of The Month	Zodiac	Collateral	District 9
+20VE2111	Movies 00s	0	The Sandra Bullock movie "The Blind Side" is about what sport?	Ping Pong	Skiing	Swimming	Football
+20VE2173	Movies 00s	0	Which is a movie about uninvited guests?	The Dark Knight	Hot Fuzz	Zodiac	Wedding Crashers
+20VE2165	Movies 00s	0	Which of these movies is about the fashion industry?	Along Came Polly	Kate & Leopold	The Breakup	The Devil Wears Prada
+20VE2155	Movies 00s	0	Which of these movies is set in India?	Brokeback Mountain	Minority Report	Casino Royale	Slumdog Millionaire
+20VE2127	Movies 00s	0	Who is Stitch's buddy in the animated movies?	Shrek	Barney	Elmo	Lilo
+20VE2137	Movies 00s	0	What subject is the focus of the movie "A Beautiful Mind"?	Painting	Pottery	Poetry	Mathematics
+20VE2141	Movies 00s	0	Which movie is a musical?	Munich	Gran Torino	Mulholland Drive	Moulin Rouge!
+20VE2115	Movies 00s	0	What famous filmmaker directed the blood-soaked "Kill Bill" movies?	Orson Welles	Tony Stark	Barack Obama	Quentin Tarantino
+20VE2131	Movies 00s	0	Which film is a romantic comedy?	Donnie Darko	American Gangster	No Country For Old Men	Love Actually
+20VE2159	Movies 00s	0	Which of these films has a dance themed plot?	Avatar	Kill Bill	Zodiac	Step Up
+20VE2169	Movies 00s	0	What is V for in the 2005 movie starring Natalie Portman?	Volume	Volleyball	Vices	Vendetta
+0DIFETM169	Movies 00s	0	In "Shaun of the Dead," the city of London is overrun with what undead monsters?	Rabid dogs	The biggest monster of all: Man	Fishmen	Zombies
+0DIFETM170	Movies 00s	0	Russell Crowe starred as a Roman soldier in which period-drama?	Lost in Translation	Minority Report	The Princess and the Frog	Gladiator
+20VE2143	Movies 00s	0	What movie starring James Franco and Seth Rogan is cannabis themed?	Charlie And The Chocolate Factory	Ocean's Eleven	A Knight's Tale	Pineapple Express
+0DIFETM167	Movies 00s	0	What teen starlet played the main character in "Mean Girls"?	Daniel Craig	Keanu Reeves	Ryan Gosling	Lindsay Lohan
+20VE2149	Movies 00s	0	Which of these movies is based on the science fiction TV series "Firefly"?	White Chicks	Pearl Harbor	The Da Vinci Code	Serenity
+20VE2147	Movies 00s	0	Which of these films has a dance themed plot?	The Challenge	28 Days Later	Superbad	Save The Last Dance
+20VE2079	Movies 00s	0	How many "First Dates" was in the title of the 2004 Adam Sandler and Drew Barrymore film?	99	2	12	50
+20VE2095	Movies 00s	0	Complete the title of the film starring Brad Pitt, "The Curious Case of Benjamin ___"?	Lechter	Smith	Zipper	Button
+20VE2097	Movies 00s	0	In the Clint Eastwood film "Gran Torino", what is a Gran Torino?	Mexican Dish	River	Boat	Car
+20VE2133	Movies 00s	0	What does Jack Black's character do with the kids in "School of Rock"?	Teaches Karate	Takes Them To Alaska	Teaches Cooking	Makes A Band
+20VE2103	Movies 00s	0	Who starred as James Bond in "Quantum of Solace"?	Jim Carrey	George Clooney	Brad Pitt	Daniel Craig
+20VE2167	Movies 00s	0	Which of these movies is about professional wrestling?	Mystic River	Final Destination	Ponyo	The Wrestler
+0DIFETM175	Movies 00s	0	A trilogy of superhero movies starring Tobey Maguire followed which web-slinging New York hero?	Captain America	Superman	Wonder Woman	Spider-Man
+20VE2105	Movies 00s	0	Complete the title of the 2001 Bridget Jones movie "Bridget Jones's ___"?	Dog	Ex Husband	Bad Luck	Diary
+20VE2087	Movies 00s	0	Which movie is about a rock journalist and a rock band?	The Holiday	Juno	Donnie Darko	Almost Famous
+0DIFETM178	Movies 00s	0	The movie "2012" is about what event?	A house party	A day at the beach	An election	The End of the World
+0DIFETM165	Movies 00s	0	What David Fincher drama chronicles the mystery of the Zodiac Killer?	Monsters Inc.	Crouching Tiger, Hidden Dragon	Mean Girls	Zodiac
+0DIFETM171	Movies 00s	0	Which of these is NOT a "Lord of the Rings" movie?	Fellowship of the Ring	The Two Towers	The Return of the King	Iron Man
+20VE2113	Movies 00s	0	What movie was about a mother and daughter switching bodies?	Whatever It Takes	Aquamarine	The Notebook	Freaky Friday
+20VE2171	Movies 00s	0	Finish the movie title: "My Big Fat Greek ______"?	Birthday	Graduation	Funeral	Wedding
+20VE2077	Movies 00s	0	Complete the name of the movie, "___ Year Old Virgin"?	25	52	68	40
+20VE2101	Movies 00s	0	Which of these movies takes place in a New York bar?	White Chicks	Hot Fuzz	The Prestige	Coyote Ugly
+20VE2099	Movies 00s	0	The 2000 film "Bring it On", is about what competitive sport?	Cricket	Curling	Football	Cheerleading
+20VE2145	Movies 00s	0	What is the subtitle of the 2004 film "Princess Diary 2"?	Fight Club	Walking Tall	Royal Run Around	Royal Engagement
+20VE2151	Movies 00s	0	What 2019 film is part of the detective movie series starring Richard Roundtree?	Enchanted	I Am Legend	The Punisher	Shaft
+0DIFETM166	Movies 00s	0	In "Pirates of the Caribbean: Curse of the Black Pearl," what is the name of Johnny Depp's character?	James Bond	Optimus Prime	Gandalf the White	Captain Jack Sparrow
+0DIFETM164	Movies 00s	0	What movie about tall blue aliens was once the highest earning movie of all time?	The Dark Knight	Kill Bill Vol. 1	Finding Nemo	Avatar
+20VE2109	Movies 00s	0	What is the correct title of the film based an 80s TV series about two cousins?	Brats Of Hazzard	Dukes Of Broward	Put up Your Dukes	Dukes Of Hazzard
+0DIFETM162	Movies 00s	0	Revenge of the Sith was the final movie in what franchise's Prequel Trilogy?	Jaws	Indiana Jones	The Lord of the Rings	Star Wars
+0DIFETM180	Movies 00s	0	Mamma Mia is a musical that uses the songs of what Swedish pop-band?	Metallica	The Rolling Stones	Outkast	ABBA
+0DIFETM177	Movies 00s	0	The "Ice Age" movies starred what kinds of characters?	Ghosts	Aliens	Humans	Talking animals
+20VE2083	Movies 00s	0	Which movie features jousting on horseback?	The Room	Shaft	Van Helsing	A Knight's Tale
+20VE2075	Movies 00s	0	How many "dresses" are in the title of the romantic comedy starring Katherine Heigl?	2	82	5	27
+272584	Movies 00s	1	Drew Barrymore played a pregnant Sally Jackson in which romantic comedy?	Mad Love	Babes In Toyland	The Pacifier	Home Fries
+343571	Movies 00s	1	In the 2005 movie "The Dukes of Hazzard", what do the boys deliver for Uncle Jesse?	Mountain Dew	Bourbon	Beer	Moonshine
+273125	Movies 00s	1	Which Keanu Reeves film received awards for sound effects and editing at the 2000 Academy Awards?	Dangerous Liaisons	Speed	Hardball	The Matrix
+284722	Movies 00s	1	What character did Orlando Bloom play in "The Lord of the Rings" movie trilogy?	Gandalf	Lord Sauron	Bilbo Baggins	Legolas
+265919	Movies 00s	1	Which 2005 movie is about an abandoned zebra growing up believing he is a racehorse?	Sin City	Cinderella Man	Valiant	Racing Stripes
+296065	Movies 00s	1	In "The Lion, the Witch and the Wardrobe", what type of candy does Edmund love above all else?	Jelly Beans	Black Licorice	Dark Chocolate	Turkish Delight
+329606	Movies 00s	1	Who arranged for Goldie's murder in the movie "Sin City"?	Jackie Boy	Manute	Roark Junior	Patrick Henry Roark
+304443	Movies 00s	1	In the 2006 film "The Benchwarmers", how many players make up Gus' team?	Nine	One	Six	Three
+68456	Movies 00s	1	What two characters died in "Harry Potter and the Goblet of Fire"?	Cedric Diggory And Fleur Declaur	Viktor Krum And Hermione Granger	Hermione Granger And Rubeus Hagrid	Cedric Diggory And Bertha Jorkins
+325034	Movies 00s	1	In which language is the 2007 Indian film "Guru"?	Bengali	Tamil	Urdu	Hindi
+329605	Movies 00s	1	In "Sin City", what is Kevin?	A Vampire	A Priest	A Hitman	A Cannibal
+329987	Movies 00s	1	In "Moulin Rouge!", what does Satine die of?	Influenza	Hepatitis	Syphilis	Tuberculosis
+267603	Movies 00s	1	What film starred Queen Latifah as Gina the hairstylist?	Boogeyman	The Ring Two	The Longest Yard	Beauty Shop
+282813	Movies 00s	1	What was the name of the character played by Mandy Moore in "A Walk To Remember"?	Halley Martin	Lana Thomas	Sally Kendoo	Jamie Sullivan
+295862	Movies 00s	1	What is the last name of the children in "Lemony Snicket's A Series of Unfortunate Events"?	Bowman	Olaf	Beaufort	Baudelaire
+99964	Movies 00s	1	In which 2000 movie did John Forsythe play the character Charles Townsend?	We Were Soldiers	Driven	John Q.	Charlie's Angels
+272895	Movies 00s	1	Nicolas Cage must help steal 50 exotic cars in what thriller?	Face/Off	Driven	Days Of Thunder	Gone In Sixty Seconds
+338691	Movies 00s	1	What was Fred Casely's profession in the movie "Chicago"?	Car Salesman	Travel Agent	Real Estate Agent	Furniture Salesman
+265828	Movies 00s	1	What two characters were in the children's movie "Madagascar"?	Jeff Talley And Walter Smith	Djay And Key	John Constantine And Chas	Alex And Marty
+98020	Movies 00s	1	What is Warner's full name in "Legally Blonde"?	Warner B Hunnington	Warner Hunnington	Warner Hunninton II	Warner Hunnington III
+326433	Movies 00s	1	Who portrays Borat in "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"?	Tyler Baron Johnson	William Baron Sacha	Clyde Barrow Cohen	Sacha Baron Cohen
+220756	Movies 00s	1	Who directed the 2001 drama, "Moulin Rouge!"?	Gus Van Sant	Lawrence Kasdan	Ralph Bakshi	Baz Luhrmann
+265833	Movies 00s	1	"Robots" included Cappy and which other characters?	Mr. Murray And Jeff Bottle	Nick Jones And Vincent	Bruce Wayne And Alfred	Broken Arm Bot And Bigweld
+99568	Movies 00s	1	In which 2001 movie did Bernie Mac play the character Frank Catton?	Free Willey	Hollow Man	Fargo	Ocean's Eleven
+302030	Movies 00s	1	In "The Chronicles of Narnia", it is always winter but never what?	Easter	Mother's Day	Halloween	Christmas
+265830	Movies 00s	1	The movie "Hitch" included which two characters?	Jeff Foreman And Stan Fields	Preacher And Otis	Smiley And Sgt. Jake Roenick	Alex Hitchens And Albert
+295759	Movies 00s	1	What is Sue Storm's younger brother's name in the movie "Fantastic Four"?	White Rain	Alpha Storm	Ben Grimm	Johnny Storm
+325124	Movies 00s	1	The movie "Are We Done Yet?" is the follow-up to which 2005 film?	Barbershop	Do The Right Thing	Bamboozled	Are We There Yet?
+295748	Movies 00s	1	What spell is cast on Ella in the 2004 movie "Ella Enchanted"?	She Is Always Mean	Her Nose Grows When She Lies	She Can't Talk	She Must Obey
+265681	Movies 00s	1	What actor played Alex "Hitch" Hitchens in "Hitch"?	Ashton Kutcher	Vin Diesel	Steve Carell	Will Smith
+265674	Movies 00s	1	Which star portrayed Luke Duke in the movie "The Dukes of Hazzard"?	Will Smith	Steve Harris	Vin Diesel	Johnny Knoxville
+295860	Movies 00s	1	Who is the children's mean guardian in "Lemony Snicket's A Series of Unfortunate Events"?	King Igor	Duke Ellington	Prince Albert	Count Olaf
+99768	Movies 00s	1	In which 2001 movie did Brad Pitt play the character Jerry Welbach?	Moulin Rouge!	Big Trouble	Independence Day	The Mexican
+272889	Movies 00s	1	Nicolas Cage plays an arms dealer in what 2005 movie?	Hustle And Flow	Sonny	Syriana	Lord Of War
+302029	Movies 00s	1	What kind of animal is Aslan in "The Chronicles of Narnia"?	Bear	Squirrel	Mouse	Lion
+230736	Movies 00s	1	Who played the young female lead in "Harry Potter and the Prisoner of Azkaban"?	Judi Dench	Halle Berry	Ellen Page	Emma Watson
+304444	Movies 00s	1	In "The Benchwarmers", Gus's friends are used to sitting on what?	Sofas	The Floor	Dirt	The Bench
+284724	Movies 00s	1	What character did Orlando Bloom play in "Pirates of the Caribbean"?	Jack Sparrow	Joe Byrne	Legolas Greenleaf	Will Turner
+329919	Movies 00s	1	Which original X-man from the comic doesn't appear in the "X-Men" movie?	Iceman	Cyclops	Rogue	The Beast
+325036	Movies 00s	1	What character is killed in a car accident in the opening scenes of the 2007 movie "Disturbia"?	Kale's Mother	Kale's Cousin	Kale's Girlfriend	Kale's Father
+230756	Movies 00s	1	In the film "The Passion Of The Christ", who co-starred with James Caviezel?	Ellen Degeneres	Catherine Zeta-Jones	Halle Berry	Monica Bellucci
+338575	Movies 00s	1	Which "X-Men" producer appears near a beach hot dog stand when Senator Kelly comes out of the water?	Jim Lee	David Hayter	Dave Cockrum	Stan Lee
+329764	Movies 00s	1	Why did Vanessa Williams turn down the role of Leticia in "Monster's Ball"?	She Was Not Offered The Role	Because Of The Film's Violence	She Didn't Like The Story	Because It Required Nudity
+295822	Movies 00s	1	What does the fat lady in the portrait do, in the movie "Harry Potter and the Prisoner of Azkaban"?	Covers The Entire Wall	Becomes Invisible	Always Laughs At Jokes	Guards The Gryffindor Tower
+272581	Movies 00s	1	Which angel did Drew Barrymore play in the 2000 film "Charlie's Angels"?	Natalie Cook	Alex Munday	Vivian Wood	Dylan Sanders
+99845	Movies 00s	1	In which 2001 movie did Jet Li play the character Gabe Law?	Snow Dogs	Driven	Independence Day	The One
+272566	Movies 00s	1	Jennifer Aniston starred alongside Jim Carrey in which 2003 comedy film?	Shrek	Along Came Polly	Liar Liar	Bruce Almighty
+327158	Movies 00s	1	Who plays Mary Jane in the movie "Spider-Man 3"?	Katie Dunst	Katherine Dunst	Kim Dunst	Kirsten Dunst
+254500	Movies 00s	1	What is the name of Kip's internet girlfriend in "Napoleon Dynamite"?	Loretta Lucas	Keeshaw Lucas	Summer Lucas	Lafawnduh Lucas
+272828	Movies 00s	1	Halle Berry co-starred with John Travolta in what 2001 film?	Pulp Fiction	Bulworth	Gothika	Swordfish
+20VE2081	Movies 00s	1	How many "Days of Summer" was in the title of the 2009 Zooey Deschanel film?	66	1250	12	500
+283153	Movies 00s	1	In "The Da Vinci Code", what is the name of the banker?	Lars Malchman	Leigh Teabing	Jonas Faukman	Andre Vernet
+272583	Movies 00s	1	What 2005 baseball movie did Drew Barrymore star in with Jimmy Fallon?	Boys On The Side	The Rookie	Angels In The Outfield	Fever Pitch
+99954	Movies 00s	1	In which 2000 movie did Robert Duvall play the character Otto Halliwell, Auto Restorer?	Not Another Teen Movie	Fargo	Collateral Damage	Gone In Sixty Seconds
+288226	Movies 00s	1	What former NFL player plays Tripp's dad in "Failure to Launch"?	Dick Butkus	Alex Karras	Merlin Olsen	Terry Bradshaw
+296069	Movies 00s	1	In "The Lion, the Witch and the Wardrobe", what does Lucy see first when she enters the forest?	A Sign For Narnia	A Talking Tree	A Sword In A Stone	A Lamppost
+465208	Movies 00s	1	Spike Jones directed a 2010 adaptation of which Maurice Sendak film?	In the Night Kitchen	Chicken Soup with Rice	Pierre	Where the Wild Things Are
+296021	Movies 00s	1	How does Doc Ock look different from normal humans in "Spider-Man 2"?	Wings On His Back	Eight Legs	Tail With Spikes	Four Metal Arms On His Back
+424829	Movies 00s	1	What actor starred alongside Beyonce Knowles in the 2002 movie "Austin Powers in Goldmember"?	Arnold Schwarzenegger	Brad Pitt	Richard Gere	Mike Myers
+99904	Movies 00s	1	In which 2000 movie did Richard Harris play the character Emperor Marcus Aurelius?	Evolution	Mission: Impossible II	Ice Age	Gladiator
+329854	Movies 00s	1	Where do Nemo and Marlin live in the movie "Finding Nemo"?	The Arctic Ocean	The Atlantic Ocean	The Hawaiian Shoals	The Great Barrier Reef
+254382	Movies 00s	1	Who is not part of the family in "The Incredibles"?	Violet	Dash	Jack-Jack	Ramjet
+273083	Movies 00s	1	In 2003's "The Lizzie McGuire Movie", where does Lizzie, played by Hilary Duff, go on a trip?	Mexico	Columbia	Japan	Italy
+324820	Movies 00s	1	The killer depicted in the 2007 movie "Zodiac" killed people in what decade?	1980's	1920's	1930's	1970's
+99957	Movies 00s	1	In which 2000 movie did Delroy Lindo play the character Detective Roland Castlebeck?	U-571	Ice Age	Cast Away	Gone In Sixty Seconds
+273237	Movies 00s	1	How many Golden Globe Awards did Mariska Hargitay win in 2005?	4	2	3	1
+99864	Movies 00s	1	In which 2001 movie did Gene Hackman play the character Reigart?	Sweet November	Fargo	Crossroads	Behind Enemy Lines
+20VE2125	Movies 00s	1	Which of these movies is about a doll that comes to life?	Wall-E	Saved	Shrek	Life-Size
+324959	Movies 00s	1	Which exotic collection owned by film producer Daniel Sadek does the 2007 film "Redline" feature?	Art Collection	Doll Collection	Gun Collection	Car Collection
+273071	Movies 00s	1	What is the name of the 2002 Hilary Duff Disney channel movie?	A Cinderella Story	Agent Cody Banks	Boys	Cadet Kelly
+287481	Movies 00s	1	Which of the following characters dies in the movie "X-Men: The Last Stand"?	Logan/Wolverine	Ororo Munroe	Bobby Drake/Iceman	Scott Summers/Cyclops
+329979	Movies 00s	1	When Nemo was put in a fish tank in "Finding Nemo", what new name did the other fish give him?	Shrimp	Short Fin	Stumpy	Sharkbait
+272904	Movies 00s	1	In which 2003 film does Nicolas Cage play a con artist?	Dead Presidents	Adaptation	Con Air	Matchstick Men
+329609	Movies 00s	1	In the movie "Sin City", how is Kevin killed?	He Commits Suicide	Shot By Marv	Electrocuted	Eaten By A Wolf
+318143	Movies 00s	1	Who directed the "The Passion of the Christ"?	Sylvester Stallone	Francis Ford Coppola	Clint Eastwood	Mel Gibson
+425352	Movies 00s	1	What role did Beyonce land in the movie "Cadillac Records"?	Diana Washington	Billie Holiday	Aretha Franklyn	Etta James
+304349	Movies 00s	1	In "Akeelah and the Bee", who coaches Akeelah?	Bart Simpson	Ronald McDonald	The President	Dr. Larabee
+324822	Movies 00s	1	Which one-time pro wrestler made a cameo appearance in the 2007 movie "Reno 911!: Miami"?	Stone Cold Steve Austin	Vince McMahon	Hulk Hogan	The Rock
+295712	Movies 00s	1	What is the character Charlie's last name in the movie "Charlie and the Chocolate Factory"?	Crocket	Wonka	Gloop	Bucket
+423501	Movies 00s	1	Beyonce Knowles played the lead role in what film adaptation of a 1981 Broadway musical?	Woman Of The Year	Pippin	Annie	Dreamgirls
+343635	Movies 00s	1	In "Pan's Labyrinth", what captures Ofelia's attention and lures her to the labyrinth?	European Goldfinch	Stray Cat	Lightning Bug	Dragonfly
+324832	Movies 00s	1	In the 2007 movie "Blades of Glory", what move won Chazz and Jimmy the final championship?	The Pansy Pat	The Death Spiral	The Toss And Die	The Iron Lotus
+324945	Movies 00s	1	Reno 911!: Miami is based on a show from what TV network?	MTV	NBC	TNN	Comedy Central
+302449	Movies 00s	1	What movie did Mariah Carey star in 2001 that didn't shine, but was a box office bomb?	The Prince of Egypt	Rush Hour	How the Grinch Stole Christmas	Glitter
+329868	Movies 00s	1	Which character in the movie "Finding Nemo" is a clownfish?	Nigel	Crush	Chum	Marlin
+304442	Movies 00s	1	In the film "The Benchwarmers", what league of teams do Gus and his nerdy friends play against?	NBA	NFL	PGA Tour	Little League
+325249	Movies 00s	1	In the 2007 movie "Stomp the Yard", what job did DJ take to pay the bill for his education?	Waiter	Telemarketer	Stripper	Gardener
+265823	Movies 00s	1	The comedy film "The Dukes of Hazzard" was about what two main characters?	James And Jorge	Shane Wolfe And Capt. Bill Fawcett	Jack Wyatt/Darrin And Nigel Bigelow	Luke Duke And Bo Duke
+99879	Movies 00s	1	In which 2001 movie did Sylvester Stallone play the character Joe Tanto?	Ocean's Eleven	Independence Day	High Fidelity	Driven
+223149	Movies 00s	1	Which film did Halle Berry win an Oscar for in 2001?	Coming Home	Boys Don't Cry	Roman Holiday	Monster's Ball
+265672	Movies 00s	1	In the comedy film "Wedding Crashers" who played John Beckwith?	Ewan McGregor	Ashton Kutcher	Samuel L. Jackson	Owen Wilson
+287514	Movies 00s	1	What former TV star directed "The Da Vinci Code"?	Jimmy Walker	Rob Reiner	Penny Marshall	Ron Howard
+99569	Movies 00s	1	In which 2001 movie did Brad Pitt play the character Rusty Ryan?	Jeepers Creepers	Fargo	The Others	Ocean's Eleven
+254496	Movies 00s	1	What office did Pedro run for in "Napoleon Dynamite"?	Waterboy	Student Body Treasurer	Mascot	Student Body President
+296043	Movies 00s	1	What is the name of Superman's enemy in "Superman Returns"?	Darth Vader	Commissioner Gordon	The Joker	Lex Luthor
+338659	Movies 00s	1	In the 2003 movie "Finding Nemo", how old is the adult sea turtle Crush?	200	100	250	150
+99553	Movies 00s	1	In which 2001 movie did Alec Baldwin play the character Jimmy Doolittle?	Fargo	Independence Day	Gladiator	Pearl Harbor
+295747	Movies 00s	1	What "gift" is Ella given in the 2004 movie "Ella Enchanted"?	Charity	Kindness	Patience	Obedience
+324889	Movies 00s	1	In the 2007 movie "Reign Over Me", what is Alan's connection with Charlie?	Co-Workers	Doctor And Patient	Neighbors	Old College Roommates
+325222	Movies 00s	1	How did Jesse Aarons and Leslie Burke get to their secret kingdom in 2007's "Bridge to Terabithia"?	Holding Hands, Saying Magic Words	An Elaborate Path Through The Town	Climbing A Ladder	Swinging Over A Stream
+312279	Movies 00s	1	What actress played the Bride in the "Kill Bill" movies?	Julia Roberts	Jessica Alba	Madonna	Uma Thurman
+376904	Movies 00s	1	What 2007 movie is based on a 1988 John Waters film promoting racial tolerance?	Across The Universe	Enchanted	Cry-Baby	Hairspray
+99773	Movies 00s	1	In which 2001 movie did Brad Pitt play the character Tom Bishop?	Fargo	Ice Age	Hannibal	Spy Game
+20VE2123	Movies 00s	1	Which rock star is the movie "Nowhere Boy" about?	Iggy Pop	Freddie Mercury	Little Richard	John Lennon
+254827	Movies 00s	1	What superpower does Dashiell have in the movie "The Incredibles"?	Strength	Elasticity	Invisibility	Speed
+343570	Movies 00s	1	In the 2005 movie version of "The Dukes of Hazzard", to whom does Flash belong?	Enos Strait	Boss Hogg	Daisy Duke	Rosco P Coltrane
+330010	Movies 00s	1	Finding Nemo is a journey from the Great Barrier Reef, to what Australian city?	Melbourne, Australia	Cairns, Australia	Brisbane, Australia	Sydney, Australia
+272901	Movies 00s	1	Nicolas Cage must help protect the Navajo Codetalkers in which war movie?	Black Hawk Down	Pearl Harbor	National Treasure	Windtalkers
+329983	Movies 00s	1	Which Madonna song was in the movie "Moulin Rouge!"?	Papa Don't Preach	Love Makes The World Go Round	Where's The Party	Like A Virgin
+325214	Movies 00s	1	What did the serial killer in the 2007 movie "Zodiac" send to newspapers to taunt authorities?	Candy	Flowers	Remains Of Victims	Ciphers
+325577	Movies 00s	1	Chazz and Jimmy perform what move in the 2007 film "Blades of Glory" to win the WinterSport Games?	Iron Butterfly	Iron Monkey	Iron Cheetah	Iron Lotus
+254558	Movies 00s	1	Who appeared in both "Lemony Snicket's A Series of Unfortunate Events" and "Ghost Ship"?	Jennifer Lopez	Liv Tyler	Demi Moore	Emily Browning
+273211	Movies 00s	1	Denzel Washington starred with Dakota Fanning in what 2004 film?	Glory	The Bodyguard	The Manchurian Candidate	Man On Fire
+265866	Movies 00s	1	The 2005 movie "Sin City" included which two characters?	Jackson Rippner And Joe Reisert	Jeff Talley And Walter Smith	Xena And Steroidman	Hartigan And The Man
+282540	Movies 00s	1	Kristin Cavallari appeared on the cover of what magazine in October 2005?	Tiger Beat	Teen Beat	YM	Seventeen
+99760	Movies 00s	1	In which 2001 movie did Denzel Washington play the character Detective Alonzo Harris?	Independence Day	The Sweetest Thing	Fargo	Training Day
+385281	Movies 00s	2	In the 2007 movie "Good Luck Chuck", what kind of animal does Cam specialize in studying?	Llamas	Dolphins	Wolves	Penguins
+288788	Movies 00s	2	Which actor is not in "The Benchwarmers"?	Jon Heder	David Spade	Rob Schneider	Jack Black
+223150	Movies 00s	2	Julia Roberts won the 2000 Best Actress Oscar for which film?	A Streetcar Named Desire	Monster's Ball	Coquette	Erin Brockovich
+295749	Movies 00s	2	Who was the leading actress in the 2004 movie "Ella Enchanted"?	Lindsay Lohan	Hilary Duff	Paris Hilton	Anne Hathaway
+354174	Movies 00s	2	What wealthy family does Annie Braddock go to work for in the 2007 movie "The Nanny Diaries"?	The Davenports	The Hiltons	The Ws	The Xs
+384859	Movies 00s	2	In the 2007 movie "Transformers", the Autobot called Ratchet was a modified version of what vehicle?	Pontiac Solstice	18 Wheeler	VW Beetle	Hummer H2
+234049	Movies 00s	2	Which movie featuring Guy Pearce and Carrie-Anne Moss was released in 2000?	Goodfellas	L.A. Confidential	All The Right Moves	Memento
+99943	Movies 00s	2	In which 2000 movie did Heath Ledger play the character Corporal Gabriel Edward Martin?	We Were Soldiers	Planet Of The Apes	The Man Who Wasn't There	The Patriot
+419872	Movies 00s	2	In the 2008 film "Twilight", what character nearly hits Bella with his van?	Charlie	Mike	Emmet	Tyler
+265633	Movies 00s	2	Which 2005 flop had the tagline "Who's next"?	The Ringer	Bewitched	Aeon Flux	Son Of The Mask
+379526	Movies 00s	2	Helena Bonham Carter played what role in 2007's "Harry Potter and the Order of the Phoenix"?	Narcissa Malfoy	Lily Potter	Petunia Dursley	Bellatrix Lestrange
+385215	Movies 00s	2	What does the mysterious guest in the 2007 movie "Death at a Funeral" do to Daniel?	Kill Him	Propose To Him	Punch Him	Blackmail Him
+265867	Movies 00s	2	Which of the following are characters from the 2005 film "Beauty Shop"?	Jacob Grimm And Wilhelm Grimm	Broken Arm Bot And Bigweld	Ben And Al	Mrs. Towner And Ms. Josephine
+267561	Movies 00s	2	What 2005 movie did film critic Roger Ebert call "a lame-brained, outdated wheeze"?	The Brothers Grimm	The Ring Two	Sahara	The Dukes Of Hazzard
+401823	Movies 00s	2	In "Forgetting Sarah Marshall", Peter has the idea to make a musical about what?	Water Treatment Plants	Helen Keller	Chernobyl	Dracula
+385133	Movies 00s	2	What type of law firm does the title character work for in the 2007 film "Michael Clayton"?	Family Law	Criminal Law	International Law	Corporate Law
+267564	Movies 00s	2	Critic Roger Ebert wrote about what film "a big, clunky movie containing some sensational sights"?	Hustle & Flow	Coach Carter	Broken Flowers	War Of The Worlds
+401826	Movies 00s	2	Both Boleyn sisters in "The Other Boleyn Girl" have relationships with whom?	Winston Churchill	Napoleon	Henry III	Henry VIII
+414972	Movies 00s	2	What sort of bird is Goose in the 2005 movie "Racing Stripes"?	Goose	Hummingbird	Moa	Pelican
+99557	Movies 00s	2	In which 2001 movie did Mark Wahlberg play the character "Captain Leo Davidson"?	Mission: Impossible II	Independence Day	Ocean's Eleven	Planet Of The Apes
+401791	Movies 00s	2	In the 2008 movie "Speed Racer", who was Speed Racer's older brother who died in a car wreck?	Chim Chim	Jim	Charlie	Rex
+99819	Movies 00s	2	In which 2001 movie did Nicolas Cage play the character Captain Antonio Corelli?	Jurassic Park III	Sorority Boys	We Were Soldiers	Captain Corelli's Mandolin
+401821	Movies 00s	2	What is Peter Bretter eating in the opening scene of "Forgetting Sarah Marshall"?	Peppermint Patties	Spinach	Hot Dogs	Cereal
+354078	Movies 00s	2	In the 2007 movie "Blades of Glory", what do Jimmy and Chazz have to do to compete in skating again?	Apologize To The Media And Fans	Pretend They Are Women	Stop Partying And Drinking	Skate Together In Pairs Competition
+99807	Movies 00s	2	In which 2001 movie did Jack Nicholson play the character Detective Jerry Black?	The Patriot	Josie And The Pussycats	Frequency	The Pledge
+99566	Movies 00s	2	In which 2001 movie did Elliott Gould play the character "Reuben Tishkoff"?	Changing Lanes	Crossroads	Wonder Boys	Ocean's Eleven
+354143	Movies 00s	2	In 2007's "Spider-Man 3", who does Venom team up with to fight Spider-Man?	Riddler	New Goblin	Lex Luthor	Sandman
+397340	Movies 00s	2	What young child accidentally slips into the monsters' world in "Monsters, Inc."?	Roz	Sulley	Flint	Boo
+458504	Movies 00s	2	What is the Motion Picture Association of America rating for "New Moon"?	R	PG	G	PG-13
+383143	Movies 00s	2	Who plays the title character in the 2008 film "Indiana Jones and the Kingdom of the Crystal Skull"?	Gene Hackman	Alan Dale	Chris Donovan	Harrison Ford
+397205	Movies 00s	2	What kind of song is Mumble incapable of singing in the animated movie "Happy Feet"?	Karaoke Song	Theme Song	Lungsong	Heartsong
+401793	Movies 00s	2	In the 2008 "Speed Racer", his brother Spritle plays with Chim Chim who is what type of pet?	Snake	Rabbit	Chihuahua	Chimpanzee
+378435	Movies 00s	2	The 2007 film "The Order of The Phoenix" was which film in the "Harry Potter" series?	Second	Sixth	Third	Fifth
+99764	Movies 00s	2	In which 2001 movie did Eddie Murphy play the character Dr. Dolittle?	Bandits	Changing Lanes	Rollerball	Dr. Dolittle 2
+99635	Movies 00s	2	In which 2002 movie did Eddie Murphy play the character Trey Sellars?	Jurassic Park III	Angel Eyes	O Brother, Where Art Thou?'	Showtime
+376950	Movies 00s	2	Who directed the 2007 "Halloween" movie remake?	John Singleton	David Brewer	Quentin Tarantino	Rob Zombie
+419964	Movies 00s	2	Which of these movies does Kristen Stewart, co-star of 2008's "Twilight", appear in?	Blade	Transformers	Underworld	Zathura: A Space Adventure
+354139	Movies 00s	2	Who takes over Peter's job of photographer at the Daily Bugle in the 2007 film "Spider-Man 3"?	Flint Marko	Harry Osborn	Gwen Stacy	Eddie Brock
+288191	Movies 00s	2	Which actress stars in "The Break-Up"?	Kirsten Dunst	Kate Hudson	Gwyneth Paltrow	Jennifer Aniston
+272846	Movies 00s	2	Ben Affleck plays a lowly thug in what 2003 flick?	Jay And Silent Bob Strike Back	Daredevil	Boyz N' The Hood	Gigli
+99565	Movies 00s	2	In which 2001 movie did Russell Crowe play the character John Nash?	Orange County	Chocolat	Scary Movie 2	A Beautiful Mind
+283289	Movies 00s	2	Which male actor starred opposite Jake Gyllenhaal in the 2005 film "Brokeback Mountain"?	Matt Damon	Matt Dillon	Russell Crowe	Heath Ledger
+354073	Movies 00s	2	Why do Chazz and Jimmy have their gold medals taken away in the 2007 movie "Blades of Glory"?	For Taking Steroids	For Yelling At The Judges	For Throwing Things At The Press	For Fighting
+254828	Movies 00s	2	What superpower does Violet have in the movie "The Incredibles"?	Speed	Strength	Elasticity	Invisibility
+401736	Movies 00s	2	In "The Chronicles of Narnia: Prince Caspian", where do the Pevensies live?	Seattle	Jekyll Island	Sydney	London
+382179	Movies 00s	2	What is the profession of Robert Philip in the film "Enchanted"?	Car Salesman	Vacuum Repair Man	Mechanic	Divorce Lawyer
+384837	Movies 00s	2	In 2007's "Harry Potter and the Order of the Phoenix", which character leads the D.A.?	Draco Malfoy	Ron Weasley	Lord Voldemort	Harry Potter
+384824	Movies 00s	2	In the 2007 film "Music and Lyrics", Sophie's sister first sees Alex perform at what function?	Wedding	Birthday Party	Christmas Party	High School Reunion
+265891	Movies 00s	2	Who are characters from the 2005 film "Stealth"?	Shane Wolfe And Capt. Bill Fawcett	Stacy And Jay	John Constantine And Chas	Lt. Ben Gannon And Lt. Henry Purcell
+385138	Movies 00s	2	What is the rank of Officer Joseph Grusinsky in the 2007 movie "We Own the Night"?	Deputy Chief	Detective	Sergeant	Lieutenant
+315915	Movies 00s	2	What is the name of the 2002 film Mariah Carey starred in with Mira Sorvino?	Street Girls	Good Girls	Bad Girls	Wise Girls
+382104	Movies 00s	2	Who do Bloog and Elliot attempt to outsmart in the 2006 film "Open Season"?	Royalty	Bankers	Turtles	Hunters
+283149	Movies 00s	2	In "The Da Vinci Code", which of the following is the Fibonacci series?	11234456	87654321	12345678	11235813
+288789	Movies 00s	2	Which comic actor co-produced "The Benchwarmers"?	Jack Black	Jim Carrey	Tim Allen	Adam Sandler
+385217	Movies 00s	2	In the 2007 movie "Superbad", who punches Fogell in a liquor store?	A Clerk	A Policeman	A Customer	A Robber
+385181	Movies 00s	2	Which member of "The Jane Austen Book Club" is left by her husband in the 2007 movie?	Prudie	Danielle	Allegra	Sylvia
+385210	Movies 00s	2	The 2007 movie "Halloween" tells the story of Michael Myers starting at what stage of life?	Birth	Retirement	Adulthood	Childhood
+383187	Movies 00s	2	Who directed the 2008 film "Indiana Jones and the Kingdom of the Crystal Skull"?	Roman Polanski	Ted Turner	Michael Moore	Steven Spielberg
+419281	Movies 00s	2	How old is Isabella Swan in the 2008 movie "Twilight"?	16	15	13	17
+221592	Movies 00s	2	What 2000 movie featured characters named Patrick Bateman and Donald Kimball?	Lake Placid	Jay And Silent Bob Strike Back	Election	American Psycho
+283286	Movies 00s	2	In which 2001 movie did Jake Gyllenhaal play a rather disturbing role?	Jarhead	Spider-Man	Meet The Parents	Donnie Darko
+397350	Movies 00s	2	In the computer-animated film "Happy Feet", what area of dance is Mumble especially gifted in?	Ballet	Sword Dance	Square Dance	Tap Dance
+354121	Movies 00s	2	Who wishes to destroy all pirates in the 2007 sequel "Pirates of the Caribbean: At World's End"?	Elizabeth Swann	Will Turner	Captain Barbossa	Lord Beckett
+295710	Movies 00s	2	In "Charlie and the Chocolate Factory", who goes with Charlie to the factory?	His Mother	Grandma Josephine	Grandpa George	Grandpa Joe
+385226	Movies 00s	2	What is the opening line and hero's catchphrase in the 2007 film "Underdog"?	Look To The Sky	Up, Up And Away	I Can Help You	There's No Need To Fear
+347908	Movies 00s	2	In the film "Pan's Labyrinth", who is the main villain?	Resistance Soldiers	The Faun, Pan	Doctor Ferreiro	Captain Vidal
+385130	Movies 00s	2	What is the marital status of Dan from the 2007 movie "Dan In Real Life"?	Married	Divorced	Separated	Widower
+414971	Movies 00s	2	What race is Stripes training for in the 2005 movie "Racing Stripes"?	Kentucky Derby	Breeders Cup	100-Meter Backstroke	Kentucky Open
+354081	Movies 00s	2	In 2007's "Evan Almighty", what was Evan Baxter's job before he was chosen by God?	Insurance Salesman	Schoolteacher	Stay-At-Home Dad	Newscaster And Congressman
+385279	Movies 00s	2	What happened when Charlie Logan refused to kiss the Goth girl in the 2007 movie "Good Luck Chuck"?	She Punched Him	She Kissed Him	She Hugged Him	She Hexed Him
+283142	Movies 00s	2	In what position is Jacques Sauniere's body found in "The Da Vinci Code"?	The Last Supper	The Madonna Of The Rocks	The Mona Lisa	The Vitruvian Man
+385221	Movies 00s	2	What does the evil witch Lamia need the star for in the 2007 film "Stardust"?	To Claim The Throne	To Find A Treasure	To Go Back Home	To Regain Her Youth
+391667	Movies 00s	2	Which is associated with Mutt Williams in the 2008 "Indiana Jones" film?	Jet Airliner	Dodge Ram	A Donkey	Motorcycle
+379107	Movies 00s	2	Where does the final battle in the 2007 film "Harry Potter and the Order of the Phoenix" occur?	Flourish And Blotts	The Room Of Requirement	The Chamber Of Secrets	The Ministry Of Magic
+99812	Movies 00s	2	In which 2001 movie did Ben Stiller play the character Derek Zoolander?	Crossroads	Me, Myself & Irene	Fargo	Zoolander
+354136	Movies 00s	2	Why does Peter Parker's suit turn black in the 2007 sequel "Spider-Man 3"?	He Spills Black Paint On It	Someone Dyes It As A Prank	He Wants To Change His Image	From A Symbiotic Alien Substance
+99967	Movies 00s	2	In which 2000 movie did Crispin Glover play a character called the Thin Man?	Kate & Leopold	Big Trouble	40 Days And 40 Nights	Charlie's Angels
+354119	Movies 00s	2	Where does Captain Jack get trapped in the 2007 film "Pirates of the Caribbean: At World's End"?	The County Jail	A Rum Barrel	Elizabeth Swann's Closet	Davy Jones' Locker
+419864	Movies 00s	2	Which vampire bites Bella in the 2008 movie "Twilight"?	Esme	Jasper	Victoria	James
+265422	Movies 00s	2	The 2000 movie "The Family Man" starred which actor?	Mel Gibson	Tom Cruise	Richard Gere	Nicolas Cage
+99953	Movies 00s	2	In which 2000 movie did Mark Wahlberg play the character Bobby Shatford?	Hollow Man	Exit Wounds	The Mothman Prophecies	The Perfect Storm
+385280	Movies 00s	2	In the 2007 movie "Good Luck Chuck", who refers to Charlie Logan as a "good luck charm"?	His Parents	His Patients	His Classmates	His Ex-Girlfriends
+401825	Movies 00s	2	Paul Rudd has a small role in "Forgetting Sarah Marshall" as what Hawaiian character?	Fire Dancer	Limo Driver	Shark Jumper	Surf Instructor
+382165	Movies 00s	2	What is the title of the 2008 "Chronicles of Narnia" film?	Voyage Of The Dawn Treader	The Horse And His Boy	Baby Mama	Prince Caspian
+397191	Movies 00s	2	What city do the animated monsters in the movie "Monsters, Inc." live in?	Fearville	Scaryton	Boo Town	Monstropolis
+382570	Movies 00s	2	Who directed and starred in the film "Leatherheads"?	Brad Pitt	Tom Hanks	Will Ferrell	George Clooney
+376897	Movies 00s	2	Allison Janney from "The West Wing" plays Prudy Pingleton in what 2007 movie musical?	Dreamgirls	Moulin Rouge	Chicago	Hairspray
+98072	Movies 00s	2	Which actor played Vivian Kensington on "Legally Blonde"?	Neve Campbell	Sarah Michelle Gellar	Selma Hayek	Selma Blair
+354169	Movies 00s	2	In the 2007 movie "The Nanny Dairies", who does Annie Braddock work for?	Patrick And Squidward	Elmo And Zoe	Harry Potter	Mr. And Mrs. X
+191753	Movies 00s	2	In what 2002 movie did Will Smith play J?	Mr.Deeds	Like Mike	Collateral Damage	Men In Black II
+192482	Movies 00s	2	Who is truly behind the evil goings on Spooky Island in the 2002 "Scooby Doo" movie?	Rowan Atkinson's Character	Don Knotts' Character	Shaggy	Scrappy Doo
+354168	Movies 00s	2	In the 2007 movie "The Nanny Diaries", what level of schooling is Annie at?	Graduate School	High School	Band Camp	College
+401810	Movies 00s	2	Thomas Barnes and Kent Taylor work for whom in "Vantage Point"?	Brinks Security	Chinese Embassy	Lord & Taylor	United States Secret Service
+397211	Movies 00s	2	What is Stitch's name at the beginning of the film "Lilo & Stitch"?	Leon	Lilo	Lola	Experiment #626
+385278	Movies 00s	2	What childhood game did Charlie Logan play in the 2007 movie "Good Luck Chuck"?	Truth Or Dare	Hide And Seek	Freeze Tag	Spin The Bottle
+401742	Movies 00s	2	In 2007's "Juno, where does the title character search for potential parents for her baby?	Washington Square Park	Starbucks	Telephone Directory	Penny Saver Ads
+344099	Movies 00s	2	In 2007's "Reign Over Me", how did Charlie Fineman (Adam Sandler) know Alan Johnson (Don Cheadle)?	They Were Best Friends As Kids	They Used To Work Together	Charlie Once Dated Alan's Wife	They Were Roommates In College
+354144	Movies 00s	2	Which villains does Peter Parker face in 2007's "Spider-Man 3"?	The Green Goblin And Vulture	Electro And Doctor Octopus	Chameleon And Mysterio	Venom And Sandman
+385262	Movies 00s	2	In 2007's "Eastern Promises", what was left behind by a teenage mother that midwife Anna decodes?	An Encrypted CD	A Coded Scroll	A Puzzle	A Diary
+385179	Movies 00s	2	How many men belong to the titular group in the 2007 film "The Jane Austen Book Club"?	Seven	Two	None	One
+347910	Movies 00s	2	In "Pan's Labyrinth", Ofelia encounters what kind of creature for her first task?	Giant Tree Troll	The Pale Man Monster	The Faun, Pan	Giant Toad
+99998	Movies 00s	2	In which 2000 movie did Mel Gibson play the character Nick Marshall?	Blade II	U-571	Valentine	What Women Want
+458492	Movies 00s	2	Whose image follows Bella around when she is in trouble in "New Moon"?	Jacob's	Her Dad's	Dr. Carlisle Cullen's	Edward's
+295964	Movies 00s	2	What kind of animal is Tucker, who helps Stripes train for the big race in "Racing Stripes"?	A Goose	A Goat	A Wombat	A Shetland Pony
+401822	Movies 00s	2	In "Forgetting Sarah Marshall", British pop star Aldous Snow is shown singing about what?	Ghost Hunters	The Lollipop Guild	Plagues And Witches	Global Warming
+376885	Movies 00s	2	In the 2007 film "Reno 911!: Miami", which character is left in charge after everyone is trapped?	Travis Junior	Clementine Johnson	Cherisha Kimball	Jeff Spoder
+401721	Movies 00s	2	In "27 Dresses", Jane's sister Tess makes an entrance at a dance club wearing what?	A Black Feather Boa	A Red Bikini	A Wedding Dress	A Short Gold Dress
+382388	Movies 00s	2	Which of these movies had a hit soundtrack in April 2008?	The Sound Of Music	Fiddler On The Roof	Phantom Of The Opera	Alvin And The Chipmunks
+376953	Movies 00s	2	Who is the main star in the 2007 movie "Transformers"?	T.I.	Matt Damon	Ashton Kutcher	Shia LaBeouf
+284729	Movies 00s	2	In what film did Orlando Bloom play a shoe designer?	Haven	The Calcium Kid	Love And Other Disasters	Elizabethtown
+376863	Movies 00s	2	In the 2007 movie "Stardust", what is Lamia trying to retrieve that will restore her youth?	A Ruby Necklace	An Asteroid Rock	Cat Intestines	The Heart Of A Star
+385131	Movies 00s	2	In the 2007 movie "Michael Clayton", what is the law-office function of the title character?	Receptionist	Paralegal	The Founder	The Fixer
+376880	Movies 00s	2	Besides Matt Damon, who has appeared in all of the first three "Bourne" films?	Joan Allen	Brian Cox	David Strathairn	Julia Stiles
+376900	Movies 00s	2	What kind of store does Wilbur Turnblad own in the 2007 movie "Hairspray"?	Health Food Store	Shoe Store	Plus Sized Women's Clothing Store	Joke Shop
+99550	Movies 00s	2	In which 2001 movie did Ben Affleck play the character Rafe McCawley?	Fargo	Evolution	The Mothman Prophecies	Pearl Harbor
+385145	Movies 00s	2	How is Madison Pettis related to Joe Kingman in the 2007 movie "The Game Plan"?	She Is His Ex-Wife	She Is His Mother	She Is His Girlfriend	She Is His Daughter
+374035	Movies 00s	2	In 2007's "Zodiac", who played the obsessed newspaper cartoonist Robert Graysmith?	Robert Downey, Jr.	Mark Ruffalo	Anthony Edwards	Jake Gyllenhaal
+295661	Movies 00s	2	Which TV show stars Frankie Muniz, Cody Banks of "Agent Cody Banks 2: Destination London"?	All That	CSI	The Amanda Show	Malcolm In The Middle
+265727	Movies 00s	2	Who played Balian in "Kingdom of Heaven"?	Ben Stiller	Daniel Edward Mora	Dermot Mulroney	Orlando Bloom
+401785	Movies 00s	2	In the beginning of the movie "10,000 BC", D'Leh sets out on an annual hunt for what animal?	Seal	Humpback Whale	Grizzly Bear	Wooly Mammoth
+378768	Movies 00s	2	John Travolta played what role in the 2007 musical "Hairspray"?	Corny Collins	Motormouth Maybelle	Wilbur Turnblad	Edna Turnblad
+385218	Movies 00s	2	What party-based mission do Seth and Evan undertake in the 2007 movie "Superbad"?	To Find A DJ	To Clean The House	To Print Invitations	To Get Alcohol
+304396	Movies 00s	2	In "Hoot", what animals are Roy and his friends trying to save?	Lizards	Piranhas	Sharks	Owls
+385220	Movies 00s	2	What name appears on Fogell's fake ID in the 2007 movie "Superbad"?	Fogmeister	Fogey	McFogell	McLovin
+401741	Movies 00s	2	What high school sport does Paulie Bleeker from the movie "Juno" participate in?	Gymnastics	Swimming	Golf	Track And Field
+354098	Movies 00s	2	With whom did Harry share a first kiss in 2007's "Harry Potter and the Order of the Phoenix"?	Luna Lovegood	Hermione Granger	Bellatrix Lestrange	Cho Chang
+288251	Movies 00s	2	Who plays Detective Keith Frazier in "The Inside Man"?	Will Smith	Don Cheadle	Terrence Howard	Denzel Washington
+401828	Movies 00s	2	Which character in "The Other Boleyn Girl" suffers a miscarriage?	Mary	Morgan	Claudia	Anne
+99552	Movies 00s	2	In which 2001 movie did Tom Sizemore play the character Earl Sistern?	The Cell	Ghosts Of Mars	Hearts In Atlantis	Pearl Harbor
+354080	Movies 00s	2	In the 2007 movie "Evan Almighty", what is Evan building an ark for?	A Snowstorm	A Drought	Christmas	A Flood
+99933	Movies 00s	2	In which 2000 movie did Dennis Farina play the character Cousin Abraham "Avi" Denovitz?	Ice Age	Hearts In Atlantis	Driven	Snatch
+401782	Movies 00s	2	The Yagahl tribe function as what in "10,000 BC"?	Indians	Psychics	Physicians	Hunters
+98023	Movies 00s	2	In "Legally Blonde", what is Warner's nickname for Elle?	Baby Bear	Doll Face	Sweetness	Pooh Bear
+288231	Movies 00s	2	Which actor stars in "Failure to Launch"?	Ben Affleck	Ben Stiller	Adam Sandler	Matthew McConaughey
+354084	Movies 00s	2	In the 2007 film "Evan Almighty", who orders Evan Baxter to build an ark?	Bruce Nolan	Zeus	Noah	God
+376877	Movies 00s	2	In the 2007 film "Disturbia", how does Kale's father die during the opening scenes?	Gunfire	Heart Attack	Plane Crash	A Car Crash
+385228	Movies 00s	2	What type of dog is the title character of the 2007 movie "Underdog"?	Doberman	Poodle	Mutt	Beagle
+379454	Movies 00s	2	Which of these characters did not appear in 2007's "Harry Potter and the Order of the Phoenix"?	Luna Lovegood	Dolores Umbridge	Molly Weasley	Fleur Delacour
+265677	Movies 00s	2	Which actor played the main character Ray Ferrier in Steven Spielberg's version of "War of the Worlds"?	Owen Wilson	Bryce Wilson	Josh Lucas	Tom Cruise
+272732	Movies 00s	2	Which Bruce Willis movie is based on a fictional town?	North	The Town	Die Hard	Sin City
+385128	Movies 00s	2	Where do Dan and Marie meet in the 2007 movie "Dan In Real Life"?	At Work	On The Street	In School	A Bookstore
+338693	Movies 00s	2	What kind of car did James Bond win from Alex Dimitrios in the 2006 version of "Casino Royale"?	Austin-Healey Sprite	Bentley Mark VI	Daimler DS420	Aston Martin DB5
+268845	Movies 00s	2	Who played Chief John Anderton in "Minority Report"?	Mark Hamill	Edward Furlong	Harrison Ford	Tom Cruise
+401718	Movies 00s	2	In "Sweeney Todd", Signor Pirelli sells an elixir that supposedly does what?	Cures Measles	Prevents Blindness	Strengthens Teeth	Helps Grow Hair
+354087	Movies 00s	2	In 2007's "Evan Almighty", how many of each animal does Evan need?	One	Nine	A Dozen	Two
+392196	Movies 00s	2	In "Indiana Jones and the Kingdom of the Crystal Skull", Indiana Jones battles who?	North Korean Army	French Canadians	Drug Lords	Soviet Union
+99818	Movies 00s	2	In which 2001 movie did Bruce Willis play the character Joe Blake?	Shaft	Ghost World	K-Pax	Bandits
+99922	Movies 00s	2	In which 2000 movie did Dougray Scott play the character Sean Ambrose?	All About The Benjamins	Memento	Panic Room	Mission: Impossible II
+99519	Movies 00s	2	In which 2002 movie did Mel Gibson play the character Lt. Colonel Hal Moore?	Save The Lance Dance	The Sweetest Thing	Ghosts Of Mars	We Were Soldiers
+401829	Movies 00s	2	Which character is axed in "The Other Boleyn Girl"?	Kate	Dorothy	Mary	Anne
+265629	Movies 00s	2	Which 2005 film's tagline was "Love doesn't come cheap"?	Wedding Crashers	Sin City	Cinderella Man	The Wedding Date
+265605	Movies 00s	2	"Cousins. Outlaws. Thrillbillies." is the tagline for which film?	The Great Raid	Madagascar	Unleashed	The Dukes Of Hazzard
+265703	Movies 00s	2	Who was John Constantine in "Constantine"?	Johnny Depp	Jimmy Fallon	Terry Bradshaw	Keanu Reeves
+376901	Movies 00s	2	What is the central theme of the 2007 film "Hairspray"?	Hair Dressing	Fashion	Family Values	Tolerance
+288182	Movies 00s	2	Which "Frat Pack" member stars in "The Break-Up"?	Will Ferrell	Ben Stiller	Owen Wilson	Vince Vaughn
+385224	Movies 00s	2	In the 2007 movie "Stardust", what is the character Yvaine's original form?	A River Nymph	A Fairy	An Evil Witch	A Falling Star
+354142	Movies 00s	2	In the 2007 movie "Spider-Man 3", who becomes the New Goblin in order to avenge his father's death?	Eddie Brock	Flint Marko	Captain Stacy	Harry Osborn
+295907	Movies 00s	2	In what 2004 hit did Jon Heder play an unpopular teen?	Saved By The Bell: The Movie	Sugartown	Funky Town	Napoleon Dynamite
+401841	Movies 00s	2	What is an alethiometer in "The Golden Compass"?	Magic Dust	Key To The Castle	Time Travel Device	A Golden Compass
+99649	Movies 00s	2	In which 2002 movie did Bruce Willis play the character Col. William A. McNamara?	Ocean's Eleven	The Mexican	Jurassic Park III	Hart's War
+376876	Movies 00s	2	In the 2007 film "Breach", what religion does FBI agent Robert Hanssen follow?	Protestantism	Judaism	Islam	Catholicism
+419272	Movies 00s	2	What part does Robert Pattinson play in the 2008 movie "Twilight"?	Esme Cullen	Laurent	Tom Cruise	Edward Cullen
+354120	Movies 00s	2	Who was the main character in 2007's "Pirates of the Caribbean: At World's End"?	Harry Potter	Hannah Montana	Squidward Tentacles	Jack Sparrow
+354076	Movies 00s	2	What song did Chazz want to skate to in 2007's "Blades of Glory"?	Maniac	America The Beautiful	Three Blind Mice	My Humps
+376899	Movies 00s	2	On what dance show is Tracy Turnblad desperate to appear in the 2007 movie "Hairspray"?	Soul Train	Dance TV	American Bandstand	The Corny Collins Show
+401720	Movies 00s	2	What is the real name of the title character in "Sweeney Todd: The Demon Barber of Fleet Street"?	Alan Elderby	Sweeney Todd	Gus Frankenstein	Benjamin Barker
+99955	Movies 00s	2	In which 2000 movie did Will Patton play the character Atley Jackson?	Independence Day	Scream 3	Fargo	Gone In Sixty Seconds
+408929	Movies 00s	2	Who plays the Gotham Mayor in "The Dark Knight"?	Morgan Freeman	Dominic Monaghan	Matthew Fox	Nestor Carbonell
+483057	Movies 00s	2	In 2011, Rooney Mara starred in a remake of what 2009 Swedish film?	The Side Effects	Youth in Revolt	The Winning Season	The Girl With the Dragon Tattoo
+354138	Movies 00s	2	In 2007's "Spider-Man 3", who becomes Venom after Spider-Man frees himself from the black ooze?	Harry Osborn	Flint Marko	J. Jameson	Eddie Brock
+354125	Movies 00s	2	In the 2007 film "Pirates of the Caribbean: At World's End", where is Jack rescued from?	Cleveland	123 Sesame Street	Bikini Bottom	The Land Of The Dead
+376895	Movies 00s	2	Who stars as Mrs. Edna Turnblad in the 2007 film "Hairspray"?	Divine	Michelle Pfeiffer	Danny DeVito	John Travolta
+385263	Movies 00s	2	In the 2007 film "Eastern Promises", what kind of business is the Trans-Siberian?	A Hostel	A Nightclub	A Comedy Club	A Restaurant
+255639	Movies 00s	2	Who is the genius inventor in the 2005 movie "Robots"?	Loretta Geargrinder	Madame Gasket	Aunt Fanny	Rodney Copperbottom
+378832	Movies 00s	2	In what city and year did the action of 2007's "Hairspray" take place?	New York, 1955	Boston, 2005	Los Angeles, 1984	Baltimore, 1962
+354123	Movies 00s	2	Where does most of the 2007 movie "Pirates of the Caribbean: At World's End" take place?	In New York City	On A Beach	In A Swamp	On A Ship
+385255	Movies 00s	2	In the movie "The Bourne Ultimatum", what has Jason Bourne been trained to be?	Concert Pianist	Video Game Designer	Translator	A Killer
+354118	Movies 00s	2	Which sea goddess do the pirates try to free in 2007's "Pirates of the Caribbean: At World's End"?	Aphrodite	Sedna	Stella Maris	Calypso
+382338	Movies 00s	2	Who provides the voice of Aslan in the 2008 film "Prince Caspian"?	Jim Carrey	George Clooney	Brad Pitt	Liam Neeson
+295750	Movies 00s	2	What fairy tale is the 2004 movie "Ella Enchanted" an update of?	Little Red Riding Hood	Pinocchio	Puss In Boots	Cinderella
+354075	Movies 00s	2	Who does Chazz Michael Michaels skate with in the 2007 movie "Blades of Glory"?	Stranz Van Waldenberg	Frederick Oldenburg	Hector	Jimmy MacElroy
+272843	Movies 00s	2	In 2001, what famous war movie did Ben Affleck star in?	Gladiator	The Sum Of All Fears	Jarhead	Pearl Harbor
+283290	Movies 00s	2	In 2002, which movie did Jake Gyllenhaal co-star in with Jennifer Aniston?	Brokeback Mountain	Donnie Darko	Moonlight Mile	The Good Girl
+99637	Movies 00s	2	In which 2002 movie did Ben Affleck play the character Gavin Banek?	The Rookie	O Brother, Where Art Thou?	Erin Brockovich	Changing Lanes
+99863	Movies 00s	2	In which 2001 movie did Will Smith play the character "Muhammad Ali"?	Independence Day	Spy Game	Erin Brockovich	Ali
+338695	Movies 00s	2	In the 2006 movie "Casino Royale", who gives James Bond more money to keep him in the poker game?	Vesper	Mathis	Mr. White	Felix Leiter
+98024	Movies 00s	2	Where did Elle grow-up in the movie "Legally Blonde"?	Hollywood	Miami	Santa Monica	Bel Air
+265676	Movies 00s	3	In the Adventure film "Star Wars: Episode III - Revenge of the Sith", who played Obi-Wan Kenobi?	Bernie Mac	Will Smith	Johnny Depp	Ewan McGregor
+496826	Movies 00s	3	Who played General Medrano in "Quantum of Solace"?	Mathieu Amalric	Javier Bardem	Mads Mikkelsen	Joaquin Cosio
+273330	Movies 00s	3	In which 2000 film does Tyra Banks play a bar maid?	Sideways	Juice	Swingers	Coyote Ugly
+499714	Movies 00s	3	In "Pirates of the Caribbean: At World's End", what are the names of Sao Feng's bodyguards?	Ciao and Shen	Wang and Dun	Lo and Pan	Park and Lian
+385098	Movies 00s	3	What is the relationship between the sheriff and deputy in the 2007 movie "30 Days of Night"?	They Are Twins	They Are Sisters	They Are Father And Daughter	They Are Married
+194725	Movies 00s	3	In "Star Wars: Episode III - Revenge of the Sith", what species is Jedi Master Shaak Ti?	Human	Hutt	Twilek	Togruta
+380728	Movies 00s	3	In "Star Wars: Episode III", who plays Bail Organa?	Harrison Ford	Antonio Banderas	Anthony Hopkins	Jimmy Smits
+325613	Movies 00s	3	Which adversaries do National Guard trainees face in the 2007 sequel "The Hills Have Eyes II"?	Visitors From Mars	Islamic Terrorists	Caribbean Pirates	Cannibalistic Mutants
+295945	Movies 00s	3	In "Pirates of the Caribbean", what leads Captain Jack to the thing he desires most?	His Brother	His Rum	His Hat	A Compass
+384836	Movies 00s	3	In the 2007 movie "Evan Almighty", which actor played the part of God?	Steve Carell	John Goodman	Lauren Graham	Morgan Freeman
+384687	Movies 00s	3	Who wrote the short story upon which the 1957 and 2007 movies titled "3:10 to Yuma" were based?	Ernest Hemingway	Luke Short	Louis L'Amour	Elmore Leonard
+380762	Movies 00s	3	In "Star Wars: Episode III", who was present at the birth of Luke and Leia?	Yoda, Obi-Wan, Anakin	Mace Windu, Obi-Wan, Yoda	Obi-Wan Only	Bail Organa, Yoda, Obi-Wan
+380614	Movies 00s	3	What is the Empire building during "Revenge of the Sith"?	A New Clone	Ships For The Sith Lords	A Trading Post	The Death Star
+378754	Movies 00s	3	At what restaurant did Kate work in the 2007 film "No Reservations"?	Rum Runners	Table Nine	Monkeyshines	22 Bleecker
+340251	Movies 00s	3	Who plays Captain Jack's father in the third "Pirates of the Caribbean" movie?	Richard Starsky	Paul McCartney	Rudy Boesch	Keith Richards
+385086	Movies 00s	3	What is the occupation of Meryl Streep's character in the 2007 movie "Lions for Lambs"?	Teacher	Soldier	Spy	Reporter
+324905	Movies 00s	3	In the 2007 movie "Premonition", whose death is experienced over and over by his wife?	Edward Hanson	Boris Hanson	Henry Hanson	Jim Hanson
+385188	Movies 00s	3	Which British city is featured in the 2007 film "Across the Universe"?	Manchester	Blackpool	London	Liverpool
+380613	Movies 00s	3	In "Star Wars: Episode III", what is it discovered that Palpatine is?	Jedi Knight	Smuggler	King	Sith Lord
+485950	Movies 00s	3	In "Twilight: Breaking Dawn Pt. 1", which of the following characters does not go out hunting while Bella is giving birth?	Carlisle	Emmett	Esme	Edward
+385143	Movies 00s	3	Whose autopsy opens the action of the 2007 film "Saw IV"?	Elliot Smith	Amanda	Cheryl Jackson	Jigsaw
+296038	Movies 00s	3	In "Star Wars: Episode III - Revenge of the Sith", what directs the Clone Troopers to kill the Jedi?	Order 56	Command 66	Command 56	Order 66
+385125	Movies 00s	3	Where do the couples of the 2007 film "Why Did I Get Married?" hold their week-long retreat?	In Barbados	At Shelia's House	In Alaska	In The Mountains
+377955	Movies 00s	3	What actor in 2007's "I Now Pronounce You Chuck and Larry" was once a New York City firefighter?	Adam Sandler	Kevin James	Dan Aykroyd	Steve Buschemi
+401846	Movies 00s	3	In "Bee Movie", Barry is expected to follow in his father's footsteps as what?	Pollen Jock	Headgear Protector	Dipper	Honey Stirrer
+380104	Movies 00s	3	Why did C-3PO threaten to kill Jedi during "Attack of the Clones"?	He Had Been Reprogrammed	He Was Joking	He Was Lying	His Head Was On A Battle Droid's Body
+385175	Movies 00s	3	On what type of journey are the brothers going in the 2007 film "The Darjeeling Limited"?	A Business Trip	A Treasure Hunt	A Sightseeing Tour	A Spiritual Quest
+385184	Movies 00s	3	Where was Alice hiding in the 2007 movie "Resident Evil: Extinction"?	The Mississippi Delta	The Arctic Circle	The Brazilian Rainforests	The Nevada Desert
+384688	Movies 00s	3	Which actor turned down the role of Ben Wade in the 2007 remake of "3:10 to Yuma"?	Tom Hanks	Ben Affleck	Matt Damon	Tom Cruise
+499792	Movies 00s	3	Who stabs Blackbeard with a poison sword in "Pirates of the Caribbean: On Stranger Tides"?	Jack Sparrow	Syrena	Angelica	Barbossa
+385160	Movies 00s	3	What is the name of the young actor played by Jude Law in the 2007 movie "Sleuth"?	Zachary Tiddale	Evan Tryson	Marcus Trelawney	Milo Tindle
+496834	Movies 00s	3	What French actress played Camille Montes in "Quantum of Solace"?	Sophie Marceau	Aure Atika	LeÔla Bekhti	Olga Kurylenko
+379078	Movies 00s	3	What was an actual title of an early promotional poster for the 2007 movie "Captivity"?	Escape	Release	Surveillance	Awakening
+499497	Movies 00s	3	In "The Curse of the Black Pearl", who proposes marriage to Elizabeth Swann?	Sparrow	Barbossa:	Gillette	Norrington
+385277	Movies 00s	3	In the 2007 movie "Sydney White", what do Sydney and her new friends attempt to take over?	Greek Row	Math Club	City Council	Student Government
+385183	Movies 00s	3	What type of media does the 2007 movie "Resident Evil: Extinction" reflect?	Comic Books	Songs	Cartoons	Video Games
+401808	Movies 00s	3	Rex Brooks, played by Sigourney Weaver, views "Vantage Point" from what angle?	School Teacher	F.B.I. Agent	Waitress	Television Reporter
+385177	Movies 00s	3	What Martin Scorsese film did Wes Anderson say inspired his 2007 film "The Darjeeling Limited"?	Raging Bull	Goodfellas	Mississippi Burning	The River
+385094	Movies 00s	3	The 2007 film "30 Days of Night" is based on what type of work by Steve Niles?	Rock Opera	Poem	Song	Graphic Novel
+485962	Movies 00s	3	According to Edward and Bella's wedding invitations in "Twilight: Breaking Dawn Pt. 1", which of the following is one of Edward's middle names?	Allen	Arnold	Albert	Anthony
+304438	Movies 00s	3	In the 2006 movie "The Santa Clause 3: The Escape Clause", where does Santa live?	London	The Moon	The Amazon	The North Pole
+385083	Movies 00s	3	In the 2007 movie "Fred Claus", what relation is Fred to Santa Claus?	Nephew	Son	Older Brother	Younger Brother
+496828	Movies 00s	3	Who escaped from MI6 custody in the film "Quantum of Solace"?	Mr. Blue	General Medrano	Le Chiffre	Mr. White
+385135	Movies 00s	3	Where was the 2007 film "Gone Baby Gone" release delayed due to its similarity to an actual case?	Mexico	France	Colombia	The United Kingdom
+202701	Movies 00s	3	In "Star Wars Episode II Attack of the Clones" what was Count Dooku's dark side name?	Darth Maul	Darth Vader	Darth Sideous	Darth Tyranus
+499791	Movies 00s	3	In "Pirates of the Caribbean: On Stranger Tides", what is the "only thing" Philip asks from Syrena?	A Tear	Her Love	Death	Forgiveness
+283291	Movies 00s	3	In 2001, Jake Gyllenhaal had the lead role in which Touchstone film?	Suds Boy	Bubble Guy	Soap Man	Bubble Boy
+295944	Movies 00s	3	Who plays Elizabeth Swann in "Pirates of the Caribbean"?	Paris Hilton	Hilary Duff	Mandy Moore	Keira Knightley
+380730	Movies 00s	3	In "Revenge of the Sith", what does Anakin do when he sees Obi-Wan in Padme's ship?	Force Chokes Obi-Wan	Kills Obi-Wan	Goes To Find Palpatine	Force Chokes Padme
+499716	Movies 00s	3	In "Pirates of the Caribbean: At World's End", the Pirate Lords all convene at which site?	Bilgewater Pass	Deadeye Lagoon	Corsair Island	Shipwreck Cove
+195086	Movies 00s	3	In "Attack of the Clones", what was the name of the organic waitress at Dexter's Diner on Coruscant?	Di Mantid	Kell Borean	Wa-7	Hermione Bagwa
+385085	Movies 00s	3	What job does Fred have in the 2007 movie "Fred Claus"?	Accountant	Sales Clerk	Chef	Repo Man
+496825	Movies 00s	3	Who did the duet on the "Quantum of Solace" soundtrack?	Elton John and Eminem	Kid Rock and Sheryl Crow	Elvis Costello and Prince	Jack White and Alicia Keys
+499794	Movies 00s	3	In "Pirates of the Caribbean: On Stranger Tides", what is Philip Swift's line of work?	Carpenter	Blacksmith	Cartographer	Missionary
+380615	Movies 00s	3	In "Revenge of the Sith", why does Anakin join the Sith order?	Because He Hates Obi-Wan	He Is Angry With Palpatine	He Is Afraid Of The Jedi	To Protect Padme From Death
+485977	Movies 00s	3	During Bella and Edward's first kiss as man and wife in "Twilight: Breaking Dawn Pt. 1", a song by which band plays?	The Cranberries	Wolf Parade	Slip Restaurant	Iron & Wine
+329471	Movies 00s	3	In the movie "Pirates of the Caribbean", what is the first name of pirate Barbossa?	Edward	Maurice	Manuel	Hector
+385161	Movies 00s	3	How many characters appear in the 2007 film "Sleuth"?	Two	Twenty	Six Hundred	Three
+380102	Movies 00s	3	Who told Anakin that he was the most gifted Jedi he had ever met in "Attack of the Clones"?	Mace Windu	Yoda	Obi-Wan Kenobi	Senator Palpatine
+296047	Movies 00s	3	Who plays Superman in "Superman Returns"?	Sam Huntington	Kal Penn	Ashton Kutcher	Brandon Routh
+385100	Movies 00s	3	What crime plays a pivotal role in the film "Gone Baby Gone"?	Insider Trading	Drug Smugging	Computer Hacking	Child Abduction
+385148	Movies 00s	3	What happens to Isabella's husband Anwar in the 2007 movie "Rendition"?	He Wins The Lottery	He Gets A Job With The CIA	He Goes Blind	He Disappears
+378606	Movies 00s	3	Aaron Eckhart's character in the 2007 movie "No Reservations" listens to what music while cooking?	Rap	Country	Classical	Opera
+496824	Movies 00s	3	Who directed "Quantum of Solace"?	Matt Chesse	Neal Purvis	David Arnold	Marc Forster
+385238	Movies 00s	3	At which New York City parade does Rob perform in the 2007 film "Feel The Noise"?	Thanksgiving	Christmas	Veteran's Day	Puerto Rican Day
+385084	Movies 00s	3	What big favor does Santa Claus do for Fred in the 2007 movie "Fred Claus"?	Pays His Loans	Buys Him A House	Fixes His Marriage	Bails Him Out Of Jail
+265678	Movies 00s	3	Who portrayed Bruce Wayne in the movie "Batman Begins"?	Daniel Edward Mora	Ewan McGregor	Steve Harris	Christian Bale
+384835	Movies 00s	3	In the 2007 movie "Nancy Drew", what is the name of Nancy's new school?	Pasadena High School	Washington High School	Lincoln High School	Hollywood High School
+325021	Movies 00s	3	What 2007 comedy is a sequel to "Are We There Yet?" from 2005?	Waitress	Offside	Blades Of Glory	Are We Done Yet?
+296116	Movies 00s	3	Where does the movie "The Princess Diaries 2: Royal Engagement" take place?	Paris	London	Barcelona	Genovia
+385115	Movies 00s	3	In the 2007 movie "American Gangster", what is the name of the cop played by Russell Crowe?	Ridley Scott	Robert Richards	Frank Lucas	Richie Roberts
+499496	Movies 00s	3	In "The Curse of the Black Pearl", what does Elizabeth hide that Will has when they first meet?	Coins	Map	Picture Of His Dad	Gold Medallion
+385178	Movies 00s	3	In what country does most of the action of 2007's "The Darjeeling Limited" take place?	France	Canada	Spain	India
+384686	Movies 00s	3	Which actress played Parker Posey's mother in the 2007 indie movie "Broken English"?	Mia Farrow	Cybill Shepherd	Candice Bergen	Gena Rowlands
+296112	Movies 00s	3	Who directed the movie "The Princess Diaries 2: Royal Engagement"?	Sharon Maguire	Penny Marshall	James Cameron	Garry Marshall
+485939	Movies 00s	3	In "Twilight: Breaking Dawn Pt. 1", what name does Bella decide to give her baby if it is a girl?	Rosalind	Rose of Sharon	Rebecca	Renesmee
+378661	Movies 00s	3	The 2007 movie "Talk To Me" was based on the real-life story of what Washington DC DJ?	Wolfman Jack	Howard Stern	Les Nessman	Ralph "Petey" Greene
+499713	Movies 00s	3	Which mystic is the newest member of the motley crew in "Pirates of the Caribbean: At World's End"?	Oona Mala	Vina Rias	Bela Sinka	Tia Dalma
+499715	Movies 00s	3	In "Pirates of the Caribbean: At World's End", the pirates go to Davy Jones' Locker to rescue which Pirate Lord?	Ethan Hawk	Zephyr McGee	Thaddeus Crane	Jack Sparrow
+384685	Movies 00s	3	Which chanteuse is the subject of the 2007 French movie "La Mome/La vie en rose"?	Patricia Kaas	Francoise Hardy	Josephine Baker	Edith Piaf
+193737	Movies 00s	3	Chad Kroeger and Josey Scott recorded the song "Hero" for what movie?	Superman	Batman	X-Men	Spider-Man
+376864	Movies 00s	3	In the 2007 film "Mr. Brooks", what alias does Dane Cook's character go by?	Mr. Brooks	John Doe	Tyler Durden	Mr. Smith
+385193	Movies 00s	3	What crime did Feng commit in the 2007 movie "Balls of Fury"?	He Kidnapped Randy's Wife	He Stole Randy's Trophy	He Rigged The Tournament	He Murdered Randy's Father
+296113	Movies 00s	3	What royal position is Princess Mia about to claim in "The Princess Diaries 2: Royal Engagement"?	Princess Consort Of Alezzia	Duchess Of Cornwall	Queen Of England	Queen Of Genovia
+380772	Movies 00s	3	In "Star Wars: Episode III", who in the Jedi Order escaped the extermination?	Obi-Wan	Yoda And Mace Windu	Yoda	Yoda And Obi-Wan
+496833	Movies 00s	3	Who is a henchman who fights 007 in Haiti, in "Quantum of Solace"?	Yusef	Gemma	Johnny Brasino	Edmund Slate
+384834	Movies 00s	3	In the 2007 movie "The Bridge to Terabithia", how does the character of Leslie die?	She Is Struck By Lightning	She Is Hit By A Car	She Is Stabbed By The School Bully	The Rope Breaks And She Drowns
+329468	Movies 00s	3	What is the name of the ship that portrays HMS Interceptor in the film "Pirates of the Caribbean"?	The Ice Maiden	HMS Enterprise	HMS Rose	The Lady Washington
+496839	Movies 00s	3	In "Quantum of Solace", who played Elvis?	David Harbour	Martin Campbell	Timothy Dalton	Anatole Taubman
+338742	Movies 00s	3	In the Oscar winning movie "Crash", who does Officer Hanson kill?	Farhad	Daniel	Anthony	Peter
+385187	Movies 00s	3	Across the Universe is a 2007 film based on the music of which British band?	The Who	Cream	The Animals	The Beatles
+265822	Movies 00s	3	What two characters were in "The Skeleton Key"?	Denny Davies And Adam "Shep" Goodman	Mark Miller And Kirigi	Balian And Priest	Ben Devereaux And Luke
+379495	Movies 00s	3	What is the occupation of Catherine Zeta-Jones' character in the 2007 movie "No Reservations"?	Waitress	Teacher	Social Worker	Chef
+385114	Movies 00s	3	Where does the 2007 movie "American Gangster" take place?	Brooklyn	Chicago	Los Angeles	Harlem
+385126	Movies 00s	3	In the 2007 film "Why Did I Get Married?", who wrote a book with the same title as the movie?	Gavin	Sheila	Mike	Patricia
+418503	Movies 00s	3	The lead male character in the 2008 movie "Twilight" is played by which actor?	Robert Patterson	Robert Pentergast	Robert DeNiro	Robert Pattinson
+329473	Movies 00s	3	During the filming of "Pirates of the Caribbean", why did Johnny Depp wear contact lenses?	His Eyes Were Too Dark	His Eyes Were Too Light	To Correct His Vision	As Sunglasses
+202150	Movies 00s	3	Which "Star Wars" film was not nominated for a Best Visual Effects Oscar?	Episode IV - A New Hope	Episode V - The Empire Strikes Back	Episode I - The Phantom Menace	Episode III - Revenge Of The Sith
+380735	Movies 00s	3	In "Star Wars: Episode III", who rescues Darth Vader after his duel with Obi-Wan?	Padme	Yoda	A Storm Trooper	Palpatine
+385141	Movies 00s	3	In the 2007 film "Saw IV", what is discovered to be the real name of the Jigsaw Killer?	Cosmo Kramer	Jim Kramer	Kramer Johnson	John Kramer
+385242	Movies 00s	3	The 2007 movie "Control" is based on the true story of which British rock star?	Eric Burdon	John Lennon	John Bonham	Ian Curtis
+385140	Movies 00s	3	What do the doctors find in Jigsaw's stomach in the 2007 movie "Saw IV"?	A Key	A Finger	A Notepad	A Cassette Tape
+380101	Movies 00s	3	Why was Yoda upset following the battle on Geonosis in "Attack of the Clones"?	They Lost The Battle	Dooku Escaped	Anakin Used Rage	They Won The Battle
+380608	Movies 00s	3	In "Star Wars: Episode III", Anakin returns to what news from Padme?	That The Sith Are After Him	Palpatine Is Attacking	The Senate Is No More	That She Is Pregnant
+267565	Movies 00s	3	About which film did critic Roger Ebert say, "The movie works dramatically in addition to being entertainment"?	The 40 Year-Old Virgin	Stealth	The Wedding Date	Batman Begins
+499495	Movies 00s	3	In "The Curse of the Black Pearl", who old is Elizabeth Swann when she first sails to Jamaica?	14 Years Old	9 Years Old	17 Years Old	12 Years Old
+296115	Movies 00s	3	In the movie, "The Princess Diaries 2: Royal Engagement", how long does Princess Mia have to find a husband?	1 Year	2 Weeks	48 Hours	30 Days
+385099	Movies 00s	3	What is the profession of the main character in the 2007 movie "Gone Baby Gone"?	Author	Detective	Psychic	Private Investigator
+304437	Movies 00s	3	In "The Santa Clause 3: The Escape Clause", what is Mrs. Claus' first name?	Ned	Morris	Joe	Carol
+499793	Movies 00s	3	What rating did the MPAA give "Pirates of the Caribbean: On Stranger Tides"?	PG	R	G	PG-13
+380731	Movies 00s	3	In "Revenge of the Sith", where did Yoda find Palpatine and then battle him?	On Tatooine	On Naboo	On Yavin	On Coruscant
+385186	Movies 00s	3	In the 2007 movie "Resident Evil: Extinction", what threatens to turn all humans "undead"?	An Alien Invasion	Vampires	A Zombie Horde	A Virus
+485951	Movies 00s	3	In "Twilight: Breaking Dawn Pt. 1", why does Jacob decide not to kill Edward after Bella's heart stops?	He Knows the Baby Needs a Father	He Made a Promise to Bella	He is Too Depressed Due to Bella's Death	He Wants Him To Live With the Guilt
+338694	Movies 00s	3	What MI6 section chief is James Bond sent to kill in the 2006 movie "Casino Royale"?	Fisher	Dimitrios	Le Chiffre	Dryden
+385190	Movies 00s	3	In the 2007 film "Across the Universe", which characters act as guides for Jude and Lucy?	Billy Shears And Maxwell	Mr. Mustard And Eleanor Rigby	Dickie Shears And The Walrus	Mr. Kite And Dr. Robert
+324994	Movies 00s	3	What is the name of the hitchhiker in the 2007 movie "The Hitcher"?	Joe Ryder	John Thumb	Joe Thumb	John Ryder
+385142	Movies 00s	3	What was the official tag-line for the 2007 movie "Saw IV"?	It's Not Over	It's Not About You	It's About Time	It's A Trap
+385185	Movies 00s	3	With which retail chain does a character in 2007's "Resident Evil: Extinction" share his name?	The Gap	Lane Bryant	Wal-Mart	Kmart
+246998	Movies 00s	3	The song "Chicago" by Old Days was in which film?	Wicker Park	The Princess Diaries 2	Confessions Of A Teenage Drama Queen	Starsky & Hutch

@@ -1,0 +1,100 @@
+FTUXUK402	Premier League		Which league is at the top of the English football league system?	NFL	National League	The Championship	Premier League	
+FTUXUK403	Premier League		In what year was the FA Premier League founded?	1888	1946	2002	1992	
+FTUXUK404	Premier League		What team was involved in the Munich air disaster in 1958?	Real Madrid	Sheffield United F.C.	Chelsea F.C.	Manchester United F.C.	
+FTUXUK405	Premier League		In 2020, the Premier League trophy features what at its top?	Wreath	Football	Wings	Crown	
+FTUXUK406	Premier League		As of 2020, how many teams play in the Premier League each season?	16	40	32	20	
+FTUXUK407	Premier League		As of 2020, which is London's oldest F.C. playing professionally?	Manchester United F.C.	Chelsea F.C.	Liverpool F.C.	Fulham F.C.	
+FTUXUK408	Premier League		How many teams are promoted into the Premier League each season?	1	6	9	3	
+FTUXUK409	Premier League		How many teams are relegated out of the Premier League each season?	2	7	10	3	
+FTUXUK410	Premier League		As of 2020, which sports league is watched worldwide, more than Premier League?	La Liga	NFL	Bundesliga	None	
+FTUXUK411	Premier League		What caused a 5 year ban on English clubs from European competition?	Brexit	Ibrox disaster	Luzhniki disaster	Heysel Stadium disaster	
+FTUXUK412	Premier League		As of 2020, who is the top scorer in Premier League history?	Harry Maguire	Sergio Aguero	Nicolas Pepe	Alan Shearer	
+FTUXUK413	Premier League		Who won Player of the Season in the 2019-20 season?	Gareth Bale	Peter Schmeichel	Cristiano Ronaldo	Kevin De Bruyne	
+FTUXUK414	Premier League		Who won the Golden Boot in the 2018-19 season?	Harry Kane	Cristiano Ronaldo	Thierry Henry	Sadio Mane	
+FTUXUK415	Premier League		As of 2020, who has won the Golden Boot the most?	Mohamed Salah	Robin van Persie	Gareth Bale	Thierry Henry	
+FTUXUK416	Premier League		Who won the Golden Glove in the 2018-19 season?	Joe Hart	Thierry Henry	Petr Cech	Alisson Becker	
+FTUXUK417	Premier League		As of 2020, who's won the Golden Glove with 2 different teams?	Ederson	Harry Kane	Wojciech Szczesny	Petr Cech	
+FTUXUK418	Premier League		Who won Playmaker of the Season in the 2018-19 season?	Kevin De Bruyne	Thierry Henry	Cristiano Ronaldo	Eden Hazard	
+FTUXUK419	Premier League		Who won Manager of the Season in the 2017-18 season?	Alex Ferguson	Jose Mourinho	Nuno Santo	Pep Guardiola	
+FTUXUK420	Premier League		As of 2020, who's won Manager of the Season the most?	Cristiano Ronaldo	Arsene Wenger	Thierry Henry	Alex Ferguson	
+FTUXUK421	Premier League		Who celebrated their goals by wearing a zorro mask?	Wayne Rooney	Cristiano Ronaldo	Son Heung-min	Facundo Sava	
+FTUXUK422	Premier League		What is the max number of players from 1 team, allowed in play at once?	16	8	20	11	
+FTUXUK423	Premier League		Which of the following is NOT a position in soccer (aka football outside the U.S.)?	Striker	Center-back	Wing-back	Quarterback	
+FTUXUK424	Premier League		Which league are teams relegated out of the Premier League to?	Bundesliga	Serie A	EFL One	EFL Championship	
+FTUXUK425	Premier League		As of 2020, the Premier League logo dipicts what animal?	Eagle	Dragon	Bear	Lion	
+FTUXUK426	Premier League		Which is NOT 1 of the "Top Four" clubs that dominated the 2000's?	Manchester United	Liverpool	Chelsea	Manchester City	
+FTUXUK427	Premier League		Which team was the first to complete a season with 0 losses?	Liverpool F.C.	Everton F.C.	Leicester City F.C.	Arsenal F.C.	
+FTUXUK428	Premier League		The UEFA Champions League semi-finals had 3 Premier League clubs in?	1994	2018	2000	2007	
+FTUXUK429	Premier League		Which F.C. was the first non-English team in the Premier League?	Aston Villa F.C.	Tottenham Hotspur F.C.	Manchester United F.C.	Swansea City F.C.	
+FTUXUK430	Premier League		In 2020, the Premier League broadcasts in the U.S. on what network?	ABC	CBS	Fox	NBC	
+FTUXUK431	Premier League		As of 2020, which Premier League F.C. is owned by a Saudi Prince?	Manchester United F.C.	Tottenham Hotspur F.C.	Everton F.C.	Sheffield United F.C.	
+FTUXUK432	Premier League		As of 2020, Thailand's travel retail group, King Power, owns which F.C.?	Liverpool F.C.	Swansea City A.F.C.	Cardiff City F.C.	Leicester City F.C.	
+FTUXUK433	Premier League		As of 2020, Arsenal were champions of the Premier League how many seasons?	0	14	9	3	
+FTUXUK434	Premier League		In what city is Arsenal F.C. based?	Leeds	Downton	Notting Hill	London	
+FTUXUK435	Premier League		Arsenal F.C. was founded in 1886 by?	Restaurant employees	Aristocrats	Ceramic Artisans	Munitions workers	
+FTUXUK436	Premier League		Aston Villa F.C.'s traditional badge displays what animal?	Horse	Owl	Ferret	Lion	
+FTUXUK437	Premier League		In what city is Aston Villa F.C. based?	London	Lincoln	Swansea	Birmingham	
+FTUXUK438	Premier League		What are Aston Villa F.C.'s colors?	Red and Pink	Gold and Black	Green and Orange	Claret and Sky Blue	
+FTUXUK439	Premier League		Brighton and Hove Albion F.C.'s traditional badge displays what?	Lion	Griffon	Tiger	Seagull	
+FTUXUK440	Premier League		What are Brighton and Hove Albion F.C.'s colors?	Silver and Orange	Yellow and Pink	Purple and Gray	Blue and White	
+FTUXUK441	Premier League		Where does Brighton and Hove F.C. play its home games?	Elland Road	Oracle Park	Wembley Stadium	Falmer Stadium	
+FTUXUK442	Premier League		What animal is NOT on Burnley F.C.'s crest?	Bee	Stork	Lion	Hamster	
+FTUXUK443	Premier League		What are Burnley F.C.'s colors?	Red and White	Gold and Black	Green and Orange	Claret and Blue	
+FTUXUK444	Premier League		Where does Burnley F.C. play its home games?	Wembley Stadium	Goodison Park	Oracle Park	Turf Moor	
+FTUXUK445	Premier League		As of 2020, in how many seasons was Chelsea champions of the Premier League?	0	2	10	5	
+FTUXUK446	Premier League		In what city is Chelsea F.C. based?	Belfast	Edmonton	Leeds	London	
+FTUXUK447	Premier League		Chelsea F.C.'s crest displays what animal?	Eagle	Fox	Swan	Lion	
+FTUXUK448	Premier League		Crystal Palace F.C.'s crest displays what animal?	Griffon	Lion	Stork	Eagle	
+FTUXUK449	Premier League		In what city is Crystal Palace F.C. based?	Liverpool	Perth	Derry	London	
+FTUXUK450	Premier League		What are Crystal Palace F.C.'s colors?	Red and Green	Silver and Gold	Gold and Black	Red and Blue	
+FTUXUK451	Premier League		In what city is Everton F.C. based?	Winchester	Oldham	Paisley	Liverpool	
+FTUXUK452	Premier League		What is displayed on Everton F.C.'s crest?	Lion	Cannon	Rose	Lock-Up	
+FTUXUK453	Premier League		Which team listed some shares of their club on the New York Stock Exchange?	Swansea City A.F.C.	Southampton F.C.	Newcastle United F.C.	Manchester United F.C.	
+FTUXUK454	Premier League		In what city is Fulham F.C. based?	Larne	Bath	Oxford	London	
+FTUXUK455	Premier League		What are Fulham F.C.'s colors?	Claret and Blue	Blue and White	Green and Silver	Black and White	
+FTUXUK456	Premier League		What animal is on Fulham F.C.'s crest?	Lion	Eagle	Badger	None	
+FTUXUK457	Premier League		In what city is Leeds United F.C. based?	Glasgow	Bristol	London	West Yorkshire	
+FTUXUK458	Premier League		What is displayed on Leeds United F.C.'s crest?	Swan	Horse	Lion	White Rose	
+FTUXUK459	Premier League		As of 2020, which F.C. is partly owned by 49ers Enterprises (of the NFL)?	Cardiff City F.C.	Watford F.C.	Crystal Palace F.C.	Leeds United F.C.	
+FTUXUK460	Premier League		What animal is on Leicester City F.C.'s crest?	Stag	Lion	Horse	Fox	
+FTUXUK461	Premier League		What are Leicester City F.C.'s colors?	Red and White	Gold and Black	Black and White	Royal Blue and White	
+FTUXUK462	Premier League		Where does Leicester City F.C. play its home games?	Wembley Stadium	Turf Moor	FedExField	King Power Stadium	
+FTUXUK463	Premier League		What animal is on Liverpool F.C.'s crest?	Dragon	Lion	Tiger	Liver Bird	
+FTUXUK464	Premier League		Who are champions of the league's 2019-20 season?	Aston Villa F.C.	West Ham United F.C.	Fulham F.C.	Liverpool F.C.	
+FTUXUK465	Premier League		Who won the 2019 European Cup (EUFA)?	Tottenham Hotspur	Manchester City	Real Madrid	Liverpool F.C.	
+FTUXUK466	Premier League		As of 2020, in how many seasons was Manchester City champions of the Premier League?	13	0	8	4	
+FTUXUK467	Premier League		Which English mens F.C. is the first to win the domestic treble in a season?	Arsenal F.C.	Norwich City F.C.	Watford F.C.	Manchester City F.C.	
+FTUXUK468	Premier League		What is displayed on Manchester City F.C.'s crest?	Seagull	Castle	Seahorse	Ship	
+FTUXUK469	Premier League		As of 2020, in how many seasons was Manchester United champions of the Premier League?	1	5	9	13	
+FTUXUK470	Premier League		As of 2020, which English mens F.C. has the most trophies?	Manchester City F.C.	Leicester City F.C.	Everton F.C.	Manchester United F.C.	
+FTUXUK471	Premier League		Which English mens F.C. is the first to win the continental European treble?	Newcastle United	Leeds United F.C.	Tottenham Hotspur F.C.	Manchester United F.C.	
+FTUXUK472	Premier League		Which English mens F.C. crest features seahorses?	Crystal Palace F.C.	Southampton F.C.	Tottenham Hotspur F.C.	Newcastle United F.C.	
+FTUXUK473	Premier League		Which team was promoted to the Premier League in 2017?	Burnley F.C.	Southampton F.C.	Manchester United F.C.	Newcastle United F.C.	
+FTUXUK474	Premier League		Where does Newcastle F.C. play its home games?	Lincoln Park	Wembley Stadium	Old Trafford	St. James Park	
+FTUXUK475	Premier League		Which English mens F.C. crest features blades?	Arsenal F.C.	Watford F.C.	Manchester City F.C.	Sheffield United F.C.	
+FTUXUK476	Premier League		Which team scored the first goal of the Premier League era?	Leicester City F.C.	Fulham F.C.	Burnley F.C.	Sheffield United F.C.	
+FTUXUK477	Premier League		What color are Sheffield United F.C.'s home shirts?	Blue and White	Green and Black	Yellow and Black	Red and White	
+FTUXUK478	Premier League		Which team first began as a church football team?	Arsenal F.C.	West Ham United F.C.	Liverpool F.C.	Southampton F.C.	
+FTUXUK479	Premier League		Which English mens F.C. crest features a tree?	Tottenham Hotspur F.C.	Crystal Palace F.C.	West Ham United F.C.	Southampton F.C.	
+FTUXUK480	Premier League		What color are Southampton F.C.'s home shirts?	Blue and White	Green and Black	Yellow and Black	Red and White	
+FTUXUK481	Premier League		In what city is Tottenham Hotspur F.C. based?	Oldham	Paisley	Liverpool	London	
+FTUXUK482	Premier League		What animal is on Tottenham Hotspur F.C.'s crest?	Owl	Badger	Dragon	Cockerel	
+FTUXUK483	Premier League		Who played in the 2019 European Cup (EUFA) against Liverpool?	Real Madrid	Club Brugge	Bayern Munich	Tottenham Hotspur F.C.	
+FTUXUK484	Premier League		Which team was promoted to the Premier League in 2020?	Manchester United	Newcastle United	Liverpool	West Bromwich Albion	
+FTUXUK485	Premier League		What animal is on West Bromwich Albion F.C.'s crest?	Ferret	Griffon	Moose	Throstle	
+FTUXUK486	Premier League		Where does West Bromwich Albion F.C. play its home games?	Emirates Stadium	Selhurst Park	St. Andrew's	The Hawthorns	
+FTUXUK487	Premier League		Which English mens F.C. crest features hammers?	Leicester City F.C.	Aston Villa F.C.	Everton F.C.	West Ham United F.C.	
+FTUXUK488	Premier League		In what city is West Ham United F.C. based?	Oldham	Paisley	Birmingham	London	
+FTUXUK489	Premier League		What are West Ham United F.C.'s colors?	Blue and White	Red and Black	Claret and Green	Claret and Sky Blue	
+FTUXUK490	Premier League		What animal is on Wolverhampton Wanderers F.C.'s badge?	Cockerel	Moose	Seahorse	Wolf	
+FTUXUK491	Premier League		Which team was promoted to the Premier League in 2018?	Sheffield United	Burnley	Manchester City	Wolverhampton Wanderers	
+FTUXUK492	Premier League		In 2020, what animal appears on the Premier League trophy?	Unicorns	Eagles	Stags	Lions	
+FTUXUK493	Premier League		Arsenal F.C.'s traditional badge displays what?	Castle	Lion	Dragon	Cannon	
+FTUXUK494	Premier League		What is displayed on Manchester United F.C.'s crest?	Lion	Dragon	Owl	Red Devil	
+FTUXUK495	Premier League		In 2020, Premier League matches aired live for the first time on which network?	BSkyB	TBS	CBS	BBC	
+FTUXUK496	Premier League		In 2020, Premier League matches can be watched online on which streaming service?	Netflix	Disney+	Hulu	Amazon Prime	
+FTUXUK497	Premier League		How many Premier League clubs are based in London, during the 2020-21 season?	2	11	9	6	
+FTUXUK498	Premier League		As of 2020, how many different champions of the Premier League are there?	40	25	16	7	
+FTUXUK499	Premier League		As of 2020, how many different clubs have played in a Premier League season?	64	96	32	49	
+FTUXUK500	Premier League		In 2020, which F.C. did Sergio Aguero play for?	Fulham F.C.	AFC Bournemouth	Norwich City F.C.	Manchester City F.C.	
+FTUXUK501	Premier League		In 2020, which F.C. did Jamie Vardy play for?	West Ham United F.C.	Watford F.C.	Norwich City F.C.	Leicester City F.C.	

@@ -1,0 +1,447 @@
+FTUXPIC197	Aves	0	¿Cómo se llama este pajarito?	Robin	Pinzón	Avestruz	Colibrí
+0DIF68	Aves	1	¿Aproximadamente cuántas especies de aves hay en el mundo?	800	2	100	10,000
+FTUXPIC199	Aves	0	¿Qué es este pájaro común de ciudad?	Arrendajo azul	Cardenal	Robin	Cuervo
+611FTUX40	Aves	1	¿Cuál de las siguientes afirmaciones es cierta sobre un colibrí?	Su vida útil es de aproximadamente un mes.	Pueden pasar semanas sin comer	Pueden comer pescado del doble de su tamaño	Pueden volar hacia atrás
+0DIF72	Aves	1	¿Cuál es el único continente donde no se encuentran los búhos?	Sudamerica	Norteamérica	Asia	Antártida
+FTUXPIC190	Aves	0	¿Cómo se llama este pájaro de cuello largo?	Arrendajo azul	Cóndor	Halcón	Pelícano
+FTUXPIC182	Aves	0	¿Qué ave es esta que puede imitar las llamadas de los halcones?	Gorrión	Paro	Paloma	Arrendajo azul
+611FTUX39	Aves	0	¿Cuál de los siguientes no es parte de la anamotía de un pájaro?	Pico	corona	Mandíbula	Aletas
+FTUXPIC200	Aves	0	¿Cómo se llama esta ave acuática común?	Cisne	Pingüino	Shoebill	Pato
+611FTUX38	Aves	0	¿Cuál de estas aves suele ser completamente negra?	Colibrí	Búho	Pato	Cuervo
+FTUXPIC201	Aves	0	¿Cómo se llama este pájaro que hace un ruido similar a una bocina?	Cóndor	Tucan	Canario	ganso
+0DIF80	Aves	0	¿Cuándo son los búhos más activos?	Por la mañana	Solo en verano	Durante la tarde	Por la noche
+611FTUX36	Aves	0	¿Cuál de los siguientes NO está en la dieta típica de un pájaro?	Semillas	Nueces	Vegetales	Cebollas
+0DIF74	Aves	0	¿Qué hacen los búhos machos para atraer a las hembras?	Flexionar	Danza	Recoger ratones	Ulular
+FTUXPIC189	Aves	0	¿Qué es este pájaro de playa común?	Pelícano	Cuervo	Pato	Gaviota
+FTUXPIC194	Aves	0	¿Qué es este pájaro rosa?	Pájaro carpintero	Emú	Cardenal	Flamenco
+0DIF62	Aves	0	¿Cómo se llaman las crías de gallina?	Cachorros	Gatitos	Niños	Pollitos
+0DIF69	Aves	0	¿Dónde duermen normalmente las gallinas?	Jardín	Sótano	Estable	Gallinero
+0DIF61	Aves	0	¿Qué pájaro blanco y negro puede nadar pero no volar?	Colibrí	Paloma	Vejestorio	Pingüino
+FTUXPIC184	Aves	0	¿Qué es este pájaro carroñero?	Cisne	Pato	Gaviota	Buitre
+FTUXPIC196	Aves	0	¿Cómo se llama este pájaro que come de los árboles?	Tucan	Cisne	Cóndor	Pájaro carpintero
+FTUXPIC191	Aves	0	¿Qué es este pájaro no volador?	Emú	Cardenal	Vejestorio	Avestruz
+FTUXPIC192	Aves	0	¿Qué es este ave común de la ciudad?	Perico	Buitre	Canario	Paloma
+FTUXPIC186	Aves	0	¿Qué pájaro es este que puede repetir sonidos?	Canario	Gorrión	Pinzón	Loro
+0DIF75	Aves	0	¿Qué pájaro no puede volar?	Cigüeña	Cardenal	Paloma	Emú
+0DIF76	Aves	0	¿Qué tipo de pico tienen las aves rapaces?	Pulido	Borroso	Invisible	Enganchado
+0DIF70	Aves	0	¿Cómo se llaman las estructuras afiladas ubicadas en los extremos de las patas de los pájaros carnívoros?	Razers	Pies de gancho	Uñas negras	Garras
+0DIF64	Aves	0	¿Qué pájaro come huesos?	Paloma	Paloma	Colibrí	Buitre
+0DIF67	Aves	0	¿Qué pájaro no puede volar?	Paloma	Colibrí	Gorrión	Avestruz
+0DIF78	Aves	0	¿Cuándo suelen aparearse los cisnes?	Todos los días	Nunca están extintos	Invierno	Primavera
+0DIF71	Aves	0	¿Qué pájaro fue elegido como emblema de los Estados Unidos de América?	Paloma	Pingüino	Pollo	Águila calva
+FTUXPIC185	Aves	0	¿Qué es este pájaro no volador?	Vejestorio	Perico	Loro	Pingüino
+FTUXPIC195	Aves	0	¿Cómo se llama este pájaro común del establo?	Buitre	Loro	Pingüino	Búho
+0DIF73	Aves	0	¿En qué país se encuentra el kiwi?	México	Estados Unidos	Antártida	Nueva Zelanda
+0DIF66	Aves	0	¿El búho manchado del norte es un qué?	Omnívoro	Herbívoro	Carroñero	Carnívoro
+611FTUX37	Aves	0	¿Cuál de estas aves está extinta?	Buho Nevado	Cardenal	Cuervo	Vejestorio
+FTUXPIC193	Aves	0	¿Cómo se llama esta ave por el calzado?	Ibis	Guacamayo	Cacatúa	Shoebill
+0DIF65	Aves	0	¿Qué pájaro puede volar hacia atrás?	Halcón	Pingüino	Pollo	Colibrí
+0DIF63	Aves	0	¿Qué significa cuando un pájaro está mudando?	Esta durmiendo	Tiene hambre	Está a punto de poner huevos	Esta perdiendo plumas
+FTUXPIC198	Aves	0	¿Qué es este pájaro que es símbolo de paz?	Pájaro carpintero	Halcón	Pato	Paloma
+FTUXPIC188	Aves	0	¿Qué es este pájaro tropical?	Águila	Pinzón	ganso	Tucan
+0DIF79	Aves	0	¿Con qué frecuencia ponen huevos las gallinas?	Cada 10 dias	Una vez al mes	Cada 7 minutos	Todos los días
+611FTUX41	Aves	0	¿Cuál de los siguientes es un ave de presa?	Paloma	Pinzón	Colibrí	Halcón
+FTUXPIC187	Aves	0	¿Qué es este pájaro, que aparece en el poema de Edgar Allan Poe?	Tucán	Paloma	Paro	Cuervo
+FTUXPIC202	Aves	0	¿Cómo se llama este pájaro de "parto de bebés"?	Cacatúa	Halcón	Gorrión	Cigüeña
+0DIF77	Aves	0	¿Qué comen los búhos?	Ratones	Ratas	Conejos	Todos estos
+FTUXPIC181	Aves	0	¿Qué es este ave nacional de los EE. UU.?	Robin	Arrendajo azul	Cuervo	Águila
+1B40159	Aves	1	¿Cuál de los siguientes no es un tipo de pájaro?	Cuervo común	Arrendajo azul	Pelícano	Espiga azul
+1B40153	Aves	1	¿Qué pequeño insecto saltarín sin alas se alimenta de la sangre de mamíferos y aves?	Mosca	Mosquito	Áfido	Pulga
+1B40097	Aves	1	¿Cuál es el ave viviente más grande del mundo?	Cisne trompetista	Flamenco	Gran garza azul	Avestruz
+1B40039	Aves	1	¿Qué mantiene seco a un pato a pesar de que pasa casi todo el tiempo en el agua?	Nido	Cuenta	Espesor de la piel	Plumas
+1B40099	Aves	1	¿Qué pájaro es la mascota de "Cocoa Puffs"?	Rodney el Robin	Tucán Sam	Polly el pingüino	Sonny el pájaro cuco
+1B40123	Aves	1	¿Qué pájaros pequeños son los únicos pájaros que pueden volar hacia atrás?	Águilas	Albatros	Cóndores	Colibríes
+1B40193	Aves	1	¿Qué pájaros pueden volar a más de 100 millas por hora?	Avestruz	Pingüino	pavo	Halcón
+281602	Aves	1	¿Qué especie se puede describir como pollo de granja?	Hámster	pavo	Codorniz	Rojo de Rhode Island
+1B40069	Aves	1	¿Qué es una palabra de 6 letras que significa "un ave de caza con un cuerpo regordete y plumas de color marrón"?	Costoso	Abundante	A cuestas	Perdiz
+1B40077	Aves	1	¿Cuál de las siguientes es un ave común en América del Norte?	Coyote	Avestruz	Tijereta	Cuervo americano
+1B40201	Aves	1	¿Qué ave marina se caracteriza por un pico largo y una gran bolsa en la garganta?	Pingüino	Gaviota	Bobo	Pelícano
+1B40165	Aves	1	En el hemisferio norte, las aves suelen migrar en qué dirección en otoño.	norte	Este	Noroeste	Sur
+1B40129	Aves	1	¿Cuál es el pájaro del estado de Arizona?	Jilguero oriental	Alondra occidental	Baltimore Oriole	Cactus Wren
+1B40119	Aves	1	¿Cuál es el ave más grande del mundo?	Águila	Cóndor	Emú	Avestruz
+1B40043	Aves	1	¿Qué es una palabra de ocho letras que significa "un pájaro con un pico largo"?	Amoníaco	Escarlata	Afligir	Pelícano
+1B40021	Aves	1	¿Qué especie es un ave que nada muy bien pero no puede volar?	Gorrión	Gaviota	Búho	Pingüino
+181091	Aves	1	¿Cuáles de estas aves es las más pequeña?	Halcón	Cisne	Avestruz	Colibrí
+1B40163	Aves	1	¿Cuál de los siguientes es un ave de presa?	Gorrión	Robin	Colibrí	Halcón
+45L0659	Aves	1	¿Cuál de estos es un ave de presa?	Arrendajo azul	Cuervo americano	Cardenal	Halcón peregrino
+1B40059	Aves	1	¿Qué animal es un ave australiana grande no voladora?	Tejón	Puma	Sello	Emú
+1B40023	Aves	1	¿Cómo llamarías a un loro australiano pequeño, colorido y con lengua de cepillo?	Dromedario	Rata almizclera	Liebres	Lori arcoíris
+1B40017	Aves	1	¿Qué especie se describe como "aves magníficas de la India"?	Libélula	Chaqueta amarilla	Nutria de río	Pavo real
+1B40057	Aves	1	¿Cuál de estos es el ave más grande de una granja?	Gallina	Gallo	Pato	pavo
+1B40103	Aves	1	¿Qué animal es un pájaro grande de las islas de Australia, Tasmania y Nueva Guinea?	Rata almizclera	Gato montés	Rata canguro	Kookaburra
+1B40187	Aves	1	¿A qué clase biológica pertenecen los pájaros?	Mamífero	Reptil	Anfibio	Aves
+1B40041	Aves	1	Aunque las aves generalmente viven en árboles, ¿qué tipo se puede encontrar prosperando en ciudades de todo el mundo?	Queja	Águila	Paro	Paloma
+1B40217	Aves	1	¿Qué pájaro rosado verás a menudo posando, a veces de pie sobre una sola pierna?	Robin	Avestruz	Águila	Flamenco
+1B40013	Aves	1	¿Qué especie es un pájaro grande con cabeza calva?	Alondra	Gacela	Dromedario	Buitre
+1B40025	Aves	1	¿Qué pájaro, un corredor rápido, rara vez vuela?	Colibrí	Albatros	Gaviota argéntea	Correcaminos
+1B40009	Aves	1	¿Qué animal tiene un gran penacho de plumas en la cabeza?	Camello	Gato	Iguana	Pájaro paraguas
+FTUXPIC183	Aves	1	¿Qué es este pájaro rojo común?	Cuervo	Águila	Buitre	Cardenal
+1B40091	Aves	1	A diferencia de la mayoría de las aves, ¿qué no pueden hacer los pingüinos?	Nadar	Beber agua	Poner huevos	Volar
+1B40011	Aves	1	¿Cuál de estas especies es un ave norteamericana que puede imitar los cantos de muchas otras aves?	Liebres	Rana	Ñu	sinsonte
+228256	Aves	1	¿Cuál de los siguientes es el mejor hábitat para un pato?	Pradera	Cima de la montaña	Espacio	Estanque
+1B40055	Aves	1	¿Qué animal es un ave acuática que a menudo se cría en granjas?	Rana	Salmón	Tarántula	Pato
+1B40031	Aves	1	¿Cuál de estos es un ave de rapiña o rapaz norteamericana?	Planchazo	Pollo	Gorrión	Halcón de cola roja
+1B40019	Aves	1	¿Qué ave marina vive en el Ártico?	Pelícano	Guacamayo jacinto	Avestruz	Frailecillo
+1B40027	Aves	1	¿Qué especie es un pájaro cantor de colores brillantes?	Gorila	Elefante marino del norte	Sapo	Alondra occidental
+1B40107	Aves	1	¿Qué animal es un ave de presa grande?	Glotón	Oso negro	Panda rojo	Águila dorada
+1B40051	Aves	1	¿Cómo se llama la parte inferior del ala de un pájaro?	Ala interior	Debajo del ala	Ala inferior	Debajo del ala
+1B40029	Aves	1	¿Cómo llamarías a un pájaro negro y naranja que come frutas y néctar?	Bisonte	Pez hacha	Conejo	Oriol
+1B40093	Aves	1	¿Qué característica facilita el vuelo de las aves?	Pies escamosos	Ojos compuestos	Plumaje colorido	Huesos huecos
+233767	Aves	1	¿Cuál de estos podría usarse para identificar aves?	ESP	Constelaciones	Mitos	Guía de campo
+1B40189	Aves	1	¿Cómo se conoce a un pájaro que se alimenta de pescado con un enorme pico en la bolsa?	Pez globo	Dingo	Okapi	Pelícano marrón
+1B40151	Aves	1	¿Cuál de los siguientes no es un tipo de pájaro?	Jilguero americano	Zorzal de madera	Cardenal	Lucio del Norte
+1B40121	Aves	1	¿Cuál de estas aves hace una excelente imitación de la voz humana y otros sonidos?	Pingüino emperador	Paloma	Nene	Loro gris africano
+1B40035	Aves	1	¿Cuál es el ave más grande que no puede volar, pero corre muy rápido?	Colibrí	Pingüino	Codorniz	Avestruz
+1B40085	Aves	1	¿Cuál es el pájaro del estado de Maryland?	Kukui	Gran Carolina Wren	sinsonte	Baltimore Oriole
+1B40175	Aves	1	¿Cuál de los siguientes no es un tipo de pájaro?	Bribón común	Gorrión común	Halcón de cola roja	Monstruo Gila
+1B40203	Aves	1	¿Qué animal es un pájaro rosado que come con la cabeza al revés?	Monstruo Gila	Avestruz	Escarabajos	Flamenco
+502941	Aves	1	¿Qué pájaro representa el renacimiento de las cenizas?	Cuervo	Mirlo	Búho	Fénix
+1B40067	Aves	1	¿Qué ave marina con un pico colorido a menudo se llama "loro marino" o "payaso del mar"?	Pingüino	Pelícano	Albatros	Frailecillo
+1B40079	Aves	1	¿Cuál de los siguientes no es un tipo de pájaro?	Águila calva	Halcón peregrino	Petirrojo europeo	Anole verde
+1B40015	Aves	1	¿Qué ave de la selva tropical es famosa por su pico enorme y colorido?	Nutria de mar	Insecto Arlequín	Escorpión	Tucán
+1B40063	Aves	1	¿Cómo se llama la cubierta corporal de las aves?	Arrugas	Cabello	Cuero	Plumas
+1B40161	Aves	1	¿Qué es una palabra de cinco letras que significa "cobertura corporal de pájaros"?	Extinto	Bordillo	Mineral	Pluma
+1B40213	Aves	1	¿Qué ave vive en la Antártida?	Pájaro carpintero	Avestruz	Gorrión	Pingüino
+1B40167	Aves	1	¿Cuál de estos es un ave no voladora de América del Sur?	Oveja	León	Peces linterna	ñandú
+1B40105	Aves	1	¿Qué animal es un ave zancuda de patas largas y cuello largo?	Elefante	Babuino	Puma	Gran grúa
+1B40113	Aves	1	¿Cómo llamarías a un gran pájaro zancudo?	Murciélago vampiro	Orangután	Anguila electrica	Garceta grande
+1B40095	Aves	1	¿Cuál es el pájaro del estado de Hawaii?	Alondra occidental	Cardenal	Pelícano Pardo Oriental	Nene y Kukui
+181070	Aves	1	¿Qué tipo de ave tiene una especie cuyo nombre común comienza con "Canadá"?	Petirrojos	Flamencos	Avestruz	Gansos
+1B40215	Aves	1	¿Cuál de estos es un pequeño pájaro blanco y negro de América del Norte?	Libélula	Cebra	Pingüino	Pájaro carpintero velloso
+1B40033	Aves	1	¿Qué se posa sobre los grandes mamíferos del sur de África?	Panda	Insecto Arlequín	Pizca	Picabueyes de pico rojo
+1B40061	Aves	1	¿Qué animal es un ave de presa grande de América del Norte y del Sur?	Trucha de lago	Vinegarroon	Gorila	Gran búho cornado
+1B40117	Aves	1	¿Cuál de estas aves está extinta?	AVE del Paraiso	Catbird	Codorniz	Vejestorio
+1B40155	Aves	1	¿Cómo se llama el pajarito que bebe néctar de flores?	Urraca	Perico	Gorrión	Colibrí
+228251	Aves	1	¿Cómo se llama un pájaro cantor de cola larga con una corona roja?	Codorniz	Colibrí	Paloma	Gorrión arborícola americano
+1B40169	Aves	1	¿Qué animal es un pájaro pequeño que come semillas de América del Norte?	Pez globo	Loris	Cuervo	Jilguero americano
+1B40111	Aves	1	¿Qué es una palabra de 9 letras que significa "pájaro joven"?	Camaleón	Delinear	Pentagrama	Volantón
+1B40073	Aves	1	¿Qué pájaros quedan al cuidado de Jim Carrey en una comedia familiar de 2011?	Cuervos	Avestruces	Loros	Pingüinos
+1B40087	Aves	1	¿Qué pájaro no puede caminar?	Pinzón	Paloma	Loro	Colibrí
+1B40185	Aves	1	¿Qué especie encaja mejor con esta descripción, "pequeño pájaro cantor que canta canciones hermosas y complejas, a menudo por la noche"?	Oveja	Zorro	Tritón	Ruiseñor
+1B40131	Aves	1	¿Cuál es el nombre común del pájaro Tragopan temminckii?	Búho Estigio	Búho enmascarado Taliabu	Pingüino de Fiordland	Tragopan de Temminck
+181066	Aves	1	¿Qué especie encaja mejor con esta descripción, "pájaro inteligente y hablador"?	Emú	Pelícano	Pinzón	Loro
+1B40053	Aves	1	¿Cómo se llama el estudio de las aves?	Wingology	Captiología	Bitología	Ornitología
+1B40173	Aves	1	¿Qué es un ave marina no voladora en blanco y negro del hemisferio sur?	Pardela	Murre	Pelícano	Pingüino
+181077	Aves	1	¿Qué tipo de edificio está diseñado para mantener aves?	Conservatorio	Estable	Cuartel	Pajarera
+1B40037	Aves	2	¿Cuáles de estos son pájaros grandes que anidan en el suelo?	Zorro	Pizca	Dingo	pavo
+1B40127	Aves	2	¿Cuál es el pájaro del estado de Nuevo México?	Alondra occidental	Baltimore Oriole	Paro	Correcaminos
+181108	Aves	2	¿Cuál es el pájaro del estado de Rhode Island?	Cardenal	Yellowhammer	Pelícano Pardo Oriental	Rojo de Rhode Island
+483763	Aves	2	¿Qué permite que algunas aves, como los pollos, digieran materiales duros como las semillas?	Mugre	Sierra circular	Bazo	Molleja
+1B40147	Aves	2	Murres, frailecillos y araos son todos tipos de qué ave marina que tiene alas cortas?	Pingüino	Pelícano	Albatros	Alca
+181073	Aves	2	¿Los científicos creen que las primeras aves descienden de qué grupo de animales?	Mamíferos	Caracoles	Cícadas	Reptiles
+181088	Aves	2	¿Cuál es el pájaro y el árbol del estado de Carolina del Sur?	Carbonero y olmo americano	Robin y pino blanco	Western Meadowlark y Douglas Fir	Great Carolina Wren Y Sabal Palmetto
+181107	Aves	2	¿Qué dinosaurio se considera el primer pájaro verdadero?	Tirano saurio Rex	Triceratops	Diplodocus	Arqueoptérix
+411654	Aves	2	¿Cómo se llaman los mechones de plumas en la cabeza del pájaro?	Tiara	Brida	Canal artificial	Cresta
+228407	Aves	2	¿Las plumas de un pájaro son versiones especializadas de qué característica animal?	Brazos	Dedos	Antenas	Escamas
+349921	Aves	2	¿Qué parte del cuerpo revelaría mucho sobre la comida y el estilo de vida de un pájaro?	Miembro	Pluma	Ala	Pico
+149352	Aves	2	¿Cuál es el nombre común del ave Columba trocaz?	Trocaz Guan	Columbiabird	Paloma imperial de nudos rojos	Paloma Trocaz
+483796	Aves	2	¿Cuál es el nombre común del pájaro Lophura hoogerwerfi?	Paloma de Lophura	Paloma de tierra de pecho liso	Búho enmascarado Taliabu	Faisán de Hoogerwerf
+309643	Aves	2	¿Qué estado de los EE. UU. Apodado el "Estado de las Montañas Verdes" tiene al tordo ermitaño como ave estatal?	Nueva York	Minnesota	Misuri	Vermont
+1B40143	Aves	2	En el "Libro del Génesis", ¿cuál fue el primer pájaro enviado desde el Arca de Noé?	Paloma	Gaviota	Águila	Cuervo
+1P0012	Aves	2	¿Cuál es la superficie superior del lomo y las alas del ave cubiertas con plumas más cortas?	Abajo	Mediana	Cresta	Manto
+411643	Aves	2	¿Cuál de estos es el pájaro más rápido?	Águila	Halcón	Colibrí	Vencejo de cola espinosa
+1B40137	Aves	2	¿Qué animal es un pájaro norteamericano grande que hace ruido similar a la bocina?	Colibrí	Somorgujo	Trepatroncos	Ganso de Canadá
+1P0066	Aves	2	En un pájaro, ¿cómo se llama la parte ventral del cuello debajo del pico?	Cuello exterior	Adams Frontal	Mirar boquiabierto	Jugulum
+218295	Aves	2	¿Cuál es el área lateral posterior al lado del cuerpo del ave que se extiende hasta la base de la cola?	Piñón	Torso	Brida	Flanco
+1B40207	Aves	2	Una pintura de 1866 de Edouard Manet es de una mujer, ¿qué pájaro de colores brillantes la acompaña?	Un buitre	Un flamenco	Una paloma	Un loro
+181046	Aves	2	¿Qué ave del estado podría aterrizar en el árbol del estado de Oregon, el abeto de Douglas?	Jilguero oriental	Gran Carolina Wren	Zorzal ermitaño	Alondra occidental
+181067	Aves	2	¿Qué estado de los EE. UU. Apodado "Estado del tejón" tiene al petirrojo como ave estatal?	Virginia del Oeste	New Hampshire	Montana	Wisconsin
+1B40195	Aves	2	¿Qué tipo de pájaro tiene un ojo más grande que su cerebro?	Colibrí	Águila	Buitre	Avestruz
+527704	Aves	2	¿Cuál es el nombre común del ave Tigrisoma fasciatum?	Buho Carabo	Gran búho gris	Paloma de tierra de frente blanca	Garza Tigre Fasciada
+1B40145	Aves	2	¿Qué animal es un ave de playa de tamaño mediano?	Grillo	Hámster oso negro	Cosechador	Chorlito Dorado Americano
+181093	Aves	2	¿Cuál es el nombre común del pájaro Mitu salvini?	Paloma de la fruta de Mitú	Perdiz de cabeza carmesí	Paloma de tierra azul	Paujil de Salvin
+1P0150	Aves	2	También llamado occipucio, ¿cuál es la parte posterior de la corona de un pájaro?	atrás	Trasero	Hornhead	Nuca
+1B40083	Aves	2	¿Qué ave marina recibe su nombre por su presunta falta de inteligencia?	Pingüino	Pelícano	Albatros	Bobo
+527818	Aves	2	¿Cuál es el nombre común del pájaro Jabiru mycteria?	Mycteriabird	sinsonte	Jab Jab	Jabiru
+103075	Aves	2	¿Cuál es la parte dorsal del ave entre la base de las alas desde el cuello hasta la cola?	Torso	Cuerpo	Cofre	Flanco
+302240	Aves	2	¿Qué se encuentra entre el saber, el ojo, el auricular y la mandíbula inferior de un pájaro?	Barbilla	Cresta	Cloaca	Mejilla
+103091	Aves	2	¿Cómo se llaman las plumas de un color contrastante que se encuentran en la garganta de un pájaro?	Parche de cuello	Cresta de la garganta	Mancha de cuello	Parche de garganta
+103078	Aves	2	¿Cuáles son las plumas de contorno emparejadas en la parte superior de la cabeza de un pájaro?	Cornamenta	Jugadores de bolos	Picos	Cuernos
+1B40191	Aves	2	¿Cuál es el nombre común del pájaro Argusianus argus?	Gran búho gris	Búho de Scops Moheli	Pingüino de ojos amarillos	Gran Argus
+531194	Aves	2	¿Cuál es el área de color contrastante en el pecho del pájaro?	Espacio mamario	Salpicadura de mama	Parche de mama	Mancha de mama
+376283	Aves	2	¿Qué especie encaja mejor con esta descripción, "pájaro colorido de la selva tropical con plumas de cola muy largas"?	Codorniz	Halcón	Dromedario	Quetzal
+1B40071	Aves	2	¿Qué pájaro come con la cabeza boca abajo?	Robin	Pingüino	Buitre	Flamenco
+328166	Aves	2	¿Qué estado de EE. UU. Apodado "Estado de castor" tiene a la alondra occidental como su ave estatal?	Alaska	Rhode Island	Michigan	Oregón
+527705	Aves	2	En las aves, ¿qué es similar a la parte superior del cuello humano, ubicada en la parte posterior de la corona?	Garganta	Frente	Zarzo	Collar
+1B40209	Aves	2	¿Cuál es el nombre común del ave Tetraogallus caucasicus?	Búho Crestado	Garza pico de barco	Pingüino de Humboldt	Snowcock caucásico
+1B40199	Aves	2	¿Qué término, generalmente reservado para las aves, se usa para un grupo de camellos?	Manada	Vuelo	Condujo	Rebaño
+1P0093	Aves	2	¿Qué son las rayas de colores contrastantes en el flanco del pájaro?	Línea de flanco	Punto de flanco	Parche de flanco	Franja de flanco
+181102	Aves	2	¿Cómo se llama una pava hembra adulta?	Farrah	Jenny	Polluelo	Gallina
+1B40045	Aves	2	¿Qué tipo de ave marina se distingue por sus alas muy largas y estrechas?	Pingüino	Gaviota	Alca	Albatros
+1B40065	Aves	2	Capaz de bucear a velocidades de hasta 200 mph, ¿cuál es el ave que vuela más rápido del mundo?	Águila calva	Martín pescador	Albatros	Halcón peregrino
+1P0105	Aves	2	¿Cuál es el filo de la mandíbula inferior de un pájaro?	Tomia mandibular superior	Centro mandibular tomia	Bill inferior Tomia	Toma mandibular inferior
+525347	Aves	2	¿Cuál de los siguientes no es un ave terrestre?	Avutarda	Avestruz	Secretario pájaro	Águila de estepa
+1B40205	Aves	2	¿Qué pájaro prefirió Benjamin Franklin como símbolo de los Estados Unidos?	Gavilán pollero	Avestruz	Piolín	pavo
+450363	Aves	2	¿Qué grupo de plumas secundarias se encuentra más cerca del cuerpo del ave?	Dobles Internos	Escalas internas	Plumaje interior	Secundarios internos
+103076	Aves	2	¿Cómo se llama la parte superior de la cabeza del pájaro?	Sombrero	Cresta	Penacho	corona
+181082	Aves	2	¿Qué es el pájaro y el árbol del estado de Colorado?	Cardenal y castaño de indias	Cardenal y tulipán	Ruiseñor y nuez	Alondra y abeto azul de Colorado
+1B40135	Aves	2	¿Cuál es el nombre común del pájaro Syrmaticus ellioti?	Pingüino de Humboldt	Codorniz de madera de frente negra	Codorniz común	Faisán de Elliot
+181084	Aves	2	¿Cuál es el nombre común del pájaro Hylocharis xantusii?	Ayudante menor	Faisán de alegría	Togian Boobook	Colibrí de Xantus
+1P0228	Aves	2	¿Cuál es el pájaro y el árbol del estado de Louisiana?	Baltimore Oriole y roble blanco	Faisán de cuello anillado y abeto de Black Hills	Arce rojo y rojo de Rhode Island	Pelícano pardo oriental y ciprés calvo
+347936	Aves	2	¿Cuál es el nombre común del ave Cypseloides rothschildi?	Woodstar de cola chispeante	Espátula euroasiática	Ptarmigan sauce	Veloz de Rothschild
+181097	Aves	2	En un pájaro, ¿cómo se llama el área de la cara justo debajo del pico?	Gorguera	Pileum	Muesca	Barbilla
+1B40047	Aves	2	¿El último miembro conocido de qué especies de aves murió en 1914?	Vejestorio	Pingüino emperador	Charrán hollín	Paloma viajera
+189426	Aves	2	¿A qué familia pertenece el correcaminos?	Perdiz	pavo	jabalí	Cuco
+1B40125	Aves	2	¿De qué color es el pájaro cardenal macho?	naranja	Azul	Verde	rojo
+1P0024	Aves	2	Cuando un pájaro en vuelo sostiene sus alas de tal manera que parecen formar una “V”, ¿cómo se llaman?	Volando V	Siringe	Letargo	Diedro
+502963	Aves	2	¿Qué estado de los EE. UU. Apodado "Estado del Monte Rushmore" tiene al faisán de cuello anillado como su ave estatal?	Florida	Montana	Maine	Dakota del Sur
+527706	Aves	2	¿Cuál es el área entre los flancos de cada lado de un pájaro?	Pico	Pierna	Cuernos	Barriga
+1P0087	Aves	2	También llamado supercilicum o superciliar, ¿cuál es el arco de plumas sobre cada ojo de un pájaro?	Ojo melena	Plumaje de ojos	Pestaña	Ceja
+328167	Aves	2	¿Cómo se llama la parte frontal superior de un pájaro?	Cabeza	Nariz	Cara	Pecho
+1B40181	Aves	2	¿Qué animal es un pequeño pájaro cantor de América del Norte?	Puerco espín	Glotón	Jaeger	Junco
+302239	Aves	2	¿Qué parte de un ganso evitaría que se posara en un árbol?	Su peso	Su cuello largo	Su forma de ala	Sus pies palmeados
+233771	Aves	2	¿Cómo se conoce a un pájaro regordete con una cabeza que mira hacia adelante?	Kildeer	Estornino	Paloma de luto	Codorniz
+181100	Aves	2	¿Qué especie coincide mejor con esta descripción, "tipo de urogallo que vive en los pastizales de América del Norte"?	Coyote	Hiena	Codorniz	Pollo de la pradera
+181055	Aves	2	¿Qué es el círculo alrededor del ojo de un pájaro, formado por plumas, que son de un color diferente al resto de la cara?	Parche en el ojo	Ojo redondo	Espacio ocular	Anillo de ojo
+1B40157	Aves	2	¿Qué pájaro montado en un escudo negro presenta el escudo de armas de Nigeria?	Paloma	Búho	Colibrí	Águila
+1B40081	Aves	2	¿Qué ave marina, también llamada ave de barco de guerra, tiene una cola profundamente bifurcada?	Pingüino	Gaviota	Pelícano	Pájaro de fragata
+1B40109	Aves	2	¿Cuál es el nombre común de la clavícula en forma de Y de un pájaro?	Garganta	Ala	Hueso del cuello	Espoleta
+181099	Aves	2	¿Qué estado de EE. UU. Apodado "Estado de Tar Heel" tiene al cardenal como pájaro estatal?	Oklahoma	Oregón	Arkansas	Carolina del Norte
+181363	Aves	2	¿Cómo se llama también el vientre o la parte ventral del ave?	Molleja	Garra	Caja torácica	Abdomen
+103080	Aves	2	¿Cuáles son las líneas de plumas justo delante y detrás de los ojos de un pájaro?	Punto de ojo	Raya del ojo	Ajuste de ojos	Línea de ojos
+181044	Aves	2	¿Qué hacen muchos tipos de aves, como los gansos, justo antes de que empiece a hacer más frío?	Imitar	Hibernar	Compañero	Emigrar
+1B40183	Aves	2	¿Cuál es el nombre común del pájaro Tyto manusi?	Faisán mikado	Búho de Scops de Siau	Hazel Grouse	Búho enmascarado de Manus
+1P0165	Aves	3	¿El apodo del estado de Louisiana incluye qué tipo de ave?	Gaviota	Arrendajo azul	Gavilán pollero	Pelícano
+533462	Aves	3	¿Cuál es el nombre común del ave Columbina cyanopis?	Búho pigmeo de Colima	Megapode oscuro	Paloma de la fruta de Rapa	Paloma de tierra de ojos azules
+369120	Aves	3	¿Cuáles son las plumas cortas del ave que recubren las coberteras secundarias medianas en la parte superior del ala?	Coberteras secundarias internas	Cobertoras secundarias primarias	Cobertoras secundarias externas	Coberteras secundarias menores
+520116	Aves	3	¿Qué pájaro de los cuentos romanos se alimentaba de sangre humana?	Estridente	Huelguista	Racha	Strix
+398805	Aves	3	¿Cuál es el nombre común del ave Aptenodytes forsteri?	Chino monal	Biak Scops Owl	Francolin de cuello anillado	Pingüino emperador
+364611	Aves	3	¿Cuál es el nombre común del ave Ciconia stormi?	Faisán de Salvadori	Búho pigmeo de Tamaulipas	Mochuelo de espalda castaña	Cigüeña de la tormenta
+81997	Aves	3	¿Cuál es el nombre común del ave Amazilia viridifrons?	Paloma de la fruta de nuca roja	Paloma Codorniz Cabeza Azul	Garza tigre de garganta desnuda	Colibrí de frente verde
+349776	Aves	3	¿Cuál es el nombre común del pájaro Otus scops?	Búho pigmeo de Tamaulipas	Guan de cuello rojo	Red Junglefowl / Pollo	Búho de Scops euroasiático
+45L0409	Aves	3	¿Cuándo se fundó el Cockapoo Club of America?	1977	1985	1990	1999
+1P0078	Aves	3	¿Qué tipo de pájaro se regala a menudo en las bodas en la cultura asiática para simbolizar la fidelidad?	Águila	Paloma	Paloma	Pato
+411622	Aves	3	¿Cómo se llama la cresta central superior de la mandíbula superior de un pájaro?	Estimular	Grupo	Rosetón	Culmen
+181045	Aves	3	En un pájaro, ¿qué es esencial para el vuelo a baja velocidad y ayuda en el aterrizaje y despegue coordinados?	Púas del carpo	Plumas de Nare	Plumas temporales	Púas Alular
+1P0039	Aves	3	En las aves, ¿cuál es el área debajo del ojo y el pico a los lados del mentón que se extiende hacia abajo?	Raya de la mejilla	Raya lateral	Raya mandibular	Raya malar
+181048	Aves	3	¿Cuál es el pájaro del estado de Idaho?	Jilguero oriental	Codorniz del Valle de California	Cardenal	Montaña Bluebird
+411636	Aves	3	¿Cómo se llama la esquina interna del ojo del pájaro?	Nares	Muesca del ojo	Fovea	Canto nasal
+1P0135	Aves	3	¿Cuál es el nombre común del pájaro Plegadis ridgwayi?	Búho enmascarado de Minahassa	Nueva Bretaña Bronzewing	Urogallo negro	Puna Ibis
+1P0081	Aves	3	¿Cuáles son las bandas de color contrastante ubicadas justo antes de la punta de la cola de un pájaro?	Banda de Schleem	Banda final	Banda de tubo interior	Banda subterminal
+251478	Aves	3	¿Cuál es el tercer conjunto de plumas de vuelo ubicado más cerca del cuerpo de un pájaro?	Franja	Wisps	Gnathotheca	Terciarios
+181092	Aves	3	¿Cuál es el pájaro y el árbol del estado de Dakota del Norte?	Alondra y abeto azul de Colorado	Cardenal y tulipán	Nene y Kukui - Candlenut	Alondra occidental y olmo americano
+48634	Aves	3	¿Cuál de estos no se usa como nombre para el Cockapoo?	Spoodle	Cockerpoo	Cockapoo	Cockerdoodle
+181062	Aves	3	¿Cuál es el nombre común del pájaro Thalurania ridgwayi?	Sabrewing de cola larga	Megapode de Vanuatu	Paloma de granada	Ninfa mexicana
+228405	Aves	3	¿Cuál es la proyección en forma de púa del pico en el lado posterior de un pájaro?	Ruff mandibular	Hioides mandibular	Quilla mandibular	Rama mandibular
+533459	Aves	3	¿Cuál es el nombre común del pájaro Ducula bakeri?	Perdiz roja	Paloma de tierra polinesia	Paloma Codorniz Cabeza Azul	Paloma Imperial de Vanuatu
+181109	Aves	3	¿Cuál es el nombre común del ave Afropavo congensis?	Paloma Imperial Goliat	Perdiz castaña	Garza pico de barco	Congo Peafowl
+98543	Aves	3	¿Cuál es el nombre común del ave Columbina minuta?	Autillo de Karthala	Mochuelo albertina	Búho blanco y negro	Paloma de tierra de pecho liso
+145942	Aves	3	¿Qué son el pájaro estatal y el árbol estatal de Iowa?	Banderines de alondra y abeto azul	Cardenal y castaño de indias	Willow Ptarmigan y Sitka Spruce	Jilguero y roble del este
+351548	Aves	3	¿Cómo se llamaban un grupo de personas que provocó la Primera Guerra Judío-Romana al sacrificar pájaros cerca de una sinagoga?	Romanos	Cristianos	Rusos	Griegos
+282611	Aves	3	También llamado opérculo, ¿qué es un parche de piel suave y sin plumas en un pájaro ubicado donde el pico se adhiere a la frente?	Centinela	Cuidado	Bolita	Cere
+514199	Aves	3	¿Cuál es el nombre común del ave Tigrisoma mexicanum?	Paloma de tierra azul	Paloma de collar euroasiática	Codorniz de madera de frente negra	Garza tigre de garganta desnuda
+1P0111	Aves	3	¿Cuál es la raya a lo largo de la parte superior de la cabeza del pájaro a través de la corona?	Raya central	Línea media	Raya mediana	Lineá mediana
+83899	Aves	3	¿Cuál es el nombre común del ave Streptopelia decaocto?	Búho chillón del Pacífico	Paloma imperial de las Marquesas	Búho Estigio	Paloma de collar euroasiática
+103071	Aves	3	¿Cómo se llaman las plumas cortas y rígidas cerca del pico de un pájaro?	Cerdas cortas	Bill Bristles	Cerdas de cabeza	Cerdas de rictal
+181063	Aves	3	¿Cuál es el nombre común del ave Apus pallidus?	Ibis cara blanca	Paloma codorniz cara blanca	Búho de orejas cortas	Velo pálido
+363025	Aves	3	¿Cuál es el nombre común del ave Meleagris ocellata?	Boobook de Navidad	Djibouti Francolin	Paloma Imperial Goliat	Pavo Ocelado
+296633	Aves	3	¿Cuál es el pájaro y el árbol del estado de Alaska?	Ruiseñor y pino	Papamoscas de cola de tijera y Redbud	Zorzal ermitaño y arce de azúcar	Lagópodo común y Sitka Spruce
+181086	Aves	3	¿Cuál es el nombre común del ave Gallicolumba sanctaecrucis?	Paloma de la fruta silbante	Búho de Scops Moheli	Avetoro euroasiático	Paloma Tierra Santa Cruz
+368305	Aves	3	¿Cuál es el nombre común del pájaro Metallura iracunda?	Ayudante mayor	Urogallo occidental	Paloma de la fruta coronada de color lila	Perija Metaltail
+181058	Aves	3	¿Qué ave es el ave estatal oficial de más estados que cualquier otra?	Robin	sinsonte	Jilguero	Cardenal
+1P0009	Aves	3	¿Cuál es el nombre común del ave Oreotrochilus adela?	Sheartail mexicano	Mochuelo de espalda castaña	Paují con casco	Colina de cola de cuña
+415172	Aves	3	¿Cuál es el nombre común del ave Columba bollii?	Paují de nudos rojos	Pingüino de galápagos	Paloma del caribe	Paloma de Bolle
+45L0209	Aves	3	¿Qué es una línea de contraste entre el ojo y el pico de un pájaro?	Línea sublateral	Línea Undereye	Línea de pestañas	Línea supraloral
+45L0359	Aves	3	¿Cuál es el nombre común del ave Penelope ochrogaster?	Búho chillón barbudo	Sátiro Tragopan	Paujil cornudo	Pava de vientre castaño
+181094	Aves	3	¿Cuál es el pájaro del estado de Mississippi?	Paro	Cardenal	Rojo de Rhode Island	sinsonte
+1P0156	Aves	3	¿Cuál es el nombre común del pájaro calothorax pulcher?	Starthroat de tapa lisa	Usambara Búho Real	Pingüino de barbijo	Colibrí bonito
+1P0222	Aves	3	¿Cómo se llama la cresta más baja de la mandíbula inferior de un pájaro?	Espigar	Manto	Natal	Gonys
+503670	Aves	3	¿Cuál es el nombre común del pájaro Heliomaster longirostris?	Paloma Oliva de Santo Tomé	Ganga de arena de vientre negro	Gran Argus	Colibrí pico largo
+1P0096	Aves	3	¿Cuál es el nombre común del ave Atthis heloisa?	Boobook de cinabrio	Garza estriada	Pavo real del congo	Colibrí abejorro
+1P0057	Aves	3	¿Cuáles son el pájaro y el árbol del estado de Wisconsin?	Cactus Wren y Palo Verde	Alondra y abeto de Colorado	Western Meadowlark y chopo	Robin y arce de azúcar
+365554	Aves	3	¿Qué pájaro envió Dios para alimentar a los israelitas en el desierto en Éxodo 16:13?	Águilas	Gorriones	Palomas	Codorniz
+181098	Aves	3	¿Qué pájaro australiano puede imitar el sonido de casi cualquier cosa?	Currawong	Reinita oriental	Tawny boca de rana	Ave lira
+483882	Aves	3	¿Cuál es el nombre común del pájaro Pygoscelis papua?	Baudo Guan	Búho enmascarado dorado	Sátiro Tragopan	Pingüino papúa
+527710	Aves	3	¿Cuál es el nombre común del pájaro Lampornis amethystinus?	Colibrí verde	Búho pez de Blakiston	Paujil Wattled	Colibrí amatistino
+103099	Aves	3	¿Cuál es el nombre común del pájaro Gorsachius goisagi?	Búho boreal	Búho Estigio	Espátula euroasiática	Garza nocturna japonesa
+450155	Aves	3	¿Cuál es la vida media de un Cockapoo?	15-20	10-mayo	20-25	10-15 años
+1P0069	Aves	3	¿Cuál es el pájaro del estado de Utah?	Zopilote	Águila dorada	Búho manchado	Gaviota de California
+103098	Aves	3	¿Cuál es el nombre común del ave Streptoprocne semicollaris?	Chachalaca Vientre Rufo	Paloma de montaña de cola larga	Búho rayado	Vencejo de nuca blanca
+103082	Aves	3	¿Cuál es el nombre común del ave Ducula pickeringii?	Búho de sierra sin manchas	Paloma de tierra de Palau	Gran búho gris	Paloma imperial gris
+1P0027	Aves	3	¿Un cuervo con cola de abanico tiene aproximadamente el mismo tamaño que qué otro pájaro?	Torre común	Halcón peregrino	Trago de granero	Cuervo carroñero
+282854	Aves	3	¿Cuál es el nombre común del ave Strix virgata?	Avetoro amarillo	Codorniz común	Paloma de pico corto	Búho moteado
+268146	Aves	3	¿Cómo se llama la esquina exterior del ojo de un pájaro más cercana a la oreja?	Borde del ojo	Esquina temporal	Eje del ojo	Canto temporal
+1P0201	Aves	3	En un pájaro, ¿cómo se llama el área entre la barbilla y el antecuello?	Espacio Tarso	Garganta	Región Flit	Región gular
+45L0309	Aves	3	¿Qué pájaro está en la bandera del estado de Illinois?	Un cisne	Un arrendajo azul	Un águila real americana	Un águila calva americana
+1P0225	Aves	3	¿Cuál es el ave del estado de Florida?	Bribón común	Jilguero oriental	Papamoscas cola de tijera	sinsonte
+103096	Aves	3	¿Qué pájaros hacen dos líneas una frente a la otra y luego pasan por una serie de pasos de baile rituales y elaborados?	Jabiru	Chorlitos alados	Gansos del cabo estéril	Brolgas
+233778	Aves	3	¿Qué tipo de pájaro está en la portada del álbum "Bella Donna" de Stevie Nicks?	Águila calva	Paloma	Paloma	Cacatúa
+181061	Aves	3	¿Cuál es el nombre común del ave norteamericana Strix occidentalis?	Garza real	Paloma imperial gris	Jacana africana	Búho manchado
+103068	Aves	3	Excepto por la grupa, ¿de qué color es el plumaje de un ibis sagrado africano?	rojo	Rosado	Azul	Blanco
+1P0072	Aves	3	¿Cuál es el pájaro y el árbol del estado de Nueva York?	Ruiseñor y pino	Alondra occidental y olmo americano	Bribón común y pino rojo	Bluebird y arce de azúcar
+390297	Aves	3	¿Qué término se usa para describir la cópula entre aves?	Barbuling	Vuelo Fovea	Dimórfico	Beso cloacal
+181052	Aves	3	¿Cuál es el nombre común del pájaro Thaumatibis gigantea?	Paloma codorniz de frente gris	Búho pigmeo de Colima	Trinidad Piping Guan	Ibis gigante
+181111	Aves	3	¿Cuáles son las plumas más pequeñas que cubren la punta de cada pluma de vuelo de un pájaro?	Vent Quills	Cálamo	Coberteras altriciales	Coberteras de púas alulares
+282218	Aves	3	¿Cuál es el nombre común del ave Dendrortyx macroura?	Paloma de alas púrpura	Hazel Grouse	Paloma codorniz cara blanca	Perdiz de madera de cola larga
+1P0153	Aves	3	¿Cuál es el nombre común del ave Amazilia cyanocephala?	Paloma del Tolima	Pequeño búho halcón de Sumba	Avetoro Pinnado	Colibrí coronado de azur
+1P0063	Aves	3	¿Cuál es el tercer párpado del pájaro que se puede cerrar para protección?	Tercera membrana	Conocimiento de los ojos	Corpúsculo del ojo	Membrana nictitante
+90110	Aves	3	¿La bandera de qué país se adoptó en 1871 y presenta el pájaro quetzal, símbolo de la libertad?	Panamá	Cuba	Honduras	Guatemala
+1P0207	Aves	3	¿Cuál es el nombre común del ave Tachymarptis melba?	Guineafowl de pecho blanco	Balsas Búho chillón	Paloma Torcaz común	Vencejo alpino
+103061	Aves	3	¿Cuál es el nombre común del pájaro Platalea minor?	Mochuelo de bigotes	Francolin de cuello anillado	Paloma coronada del sur	Espátula de cara negra
+1P0168	Aves	3	¿Cuál es el nombre común del ave Campylopterus hemileucurus?	Megapodo de las Molucas	Paloma de tierra de pecho granate	Highland Guan	Colibrí violeta
+181308	Aves	3	¿Qué estado de EE. UU. Apodado "Estado de Escribano Cerillo" tiene al Escribano Cerillo como su ave estatal?	Oklahoma	Texas	Hawai	Alabama
+1P0084	Aves	3	¿Cuál es el nombre común del pájaro Pseudibis davisoni?	Corazón sangrante de Mindoro	Búho Crestado	Megapode de Vanuatu	Ibis de hombros blancos
+103100	Aves	3	¿Qué es el pájaro y el árbol del estado de Virginia?	Cardenal y tulipán	Robin y pino blanco	Arce rojo y rojo de Rhode Island	Cardenal y cornejo
+181334	Aves	3	¿Qué pájaro recibió su nombre de dos mechones de plumas en la parte superior de su cabeza?	Búho copetudo corona	Búho emperador	Derby sombrero búho	Gran búho cornado
+1P0030	Aves	3	¿Cuál es el nombre común del ave Cercibis oxycerca?	Búho de Bahía del Congo	Búho enmascarado Taliabu	Paloma rosa	Ibis de cola afilada
+103057	Aves	3	¿Cuál es el área de colores brillantes en el ala (secundarios del ala) en varias especies de patos?	Plumbus	Kuchino	Escoria	Espéculo
+1B40049	Aves	3	¿Cuál es el pájaro y el árbol del estado de Maine?	Jilguero de sauce y cicuta occidental	Alondra occidental y pino Ponderosa	Alondra y abeto azul de Colorado	Carbonero y pino blanco
+1P0120	Aves	3	¿Cuál es el nombre común del ave Coeligena prunellei?	Little Woodstar	Codorniz del Himalaya	Búho de Scops gigante	Inca negro
+103079	Aves	3	¿Cuál es el nombre común del ave Egretta eulophotes?	Paloma Codorniz de Tuxtla	Megapode oscuro	Pollo de la pradera mayor	Garceta china
+1P0090	Aves	3	¿Cuál es el grupo de plumas más cercano al cuerpo del pájaro en el ala del pájaro?	Vuelos interiores	Inner Downs	Primeros interiores	Primarias internas
+447413	Aves	3	¿Cuál es el nombre común del ave Campylopterus curvipennis?	Paloma Fruto de Negros	Paloma de vientre ocre	Paloma de tierra de ojos azules	Colibrí de cola de cuña
+1P0147	Aves	3	En un pájaro, ¿cuál es la franja contrastante en la punta de la cola?	Banda de plumas	Rayas de plumas	Raya suave	Banda terminal
+402266	Aves	3	¿Cuál es el nombre común del ave Campylopterus rufus?	Avetoro de Australasia	Urogallo negro	Pingüino de macarrones	Colibrí rufo
+1B40149	Aves	3	¿Qué pájaro comparte su nombre con un evento de cricket?	Paloma	ganso	Alondra	Pato
+181087	Aves	3	¿Cuál es el pájaro y el árbol del estado de Kentucky?	Yellowhammer y pino de hoja larga del sur	Robin y roble blanco	Ruiseñor y magnolia	Cardenal y tulipán
+1P0021	Aves	3	¿Qué es la pequeña mancha iridiscente en la garganta de un colibrí?	Paseriformes	Esternón	Mirar boquiabierto	Gorguera
+103092	Aves	3	¿Qué significa el Café amigable con las aves en lo que respecta al medio ambiente?	Cooperativa	Caroteno	Pigmento verde	Programa Smithsonian
+103094	Aves	3	¿Qué especie de ave no voladora es endémica de la isla de Calayan en el norte de Filipinas?	Calayan Crake	Gallinule Calayan	Focha de Calayan	Carril de Calayan
+228404	Aves	3	¿Cuál es el nombre común del ave Penelopina nigra?	Búho pigmeo centroamericano	Snowcock Caspio	Paloma de tierra polinesia	Highland Guan
+181071	Aves	3	¿Cuál es el nombre común del pájaro Bonasa sewerzowi?	Ganga de arena de vientre negro	Paloma Codorniz Rubia	Búho de Scops Moheli	Urogallo chino
+1P0216	Aves	3	¿Cuál es el nombre común del pájaro Gorsachius melanolophus?	Negros Corazón sangrante	Faisán de la Sra. Hume	Autillo de Enggano	Garza nocturna malaya
+181106	Aves	3	¿Qué ave ha sido avistada en las laderas del monte Everest, a cinco millas sobre el nivel del mar?	Gorrión	Estornino	Petirrojos	Cuervo
+1P0108	Aves	3	¿Cuáles son las plumas blandas y sueltas en el costado de la cabeza del ave debajo y detrás de los ojos?	Punto de oído	Cresta de la oreja	Oreja abajo	Parche de oreja
+103097	Aves	3	¿Cuál es el nombre común del ave Pulsatrix perspicillata?	Faisán de la Sra. Hume	Autillo de Anjouan	Djibouti Francolin	Búho de anteojos
+503002	Aves	3	¿Cuál es el nombre común del ave Treron pembaensis?	Paloma Imperial de Timor	Búho de Scops de Siau	Pequeño búho halcón de Sumba	Paloma Verde Pemba
+1P0183	Aves	3	¿Cuál es el nombre común del pájaro Atthis ellioti?	Cigüeña lechosa	Avetoro euroasiático	Paloma común	Colibrí garganta de vino
+282220	Aves	3	¿Cuál es el nombre común del pájaro Ducula carola?	Perdiz gris	Paujil cornudo	Guan de ribete negro	Paloma imperial manchada
+265559	Aves	3	¿Cuál es el nombre común del ave Arborophila cambodiana?	Faisán pavo real de Germain	Búho poderoso	Búho pigmeo de Tamaulipas	Perdiz castaña
+411270	Aves	3	¿Cómo se llaman las plumas principales de un pájaro que forman la cola?	Pterylaes	Rachis	Semiplume	Rectrices
+82954	Aves	3	¿Cuál es el nombre común del ave Ortalis leucogastra?	Paloma perdiz	Búho pigmeo del bosque nuboso	Búho pigmeo centroamericano	Chachalaca Vientre Blanco
+181060	Aves	3	¿Cuál es el nombre común del ave Ardea insignis?	Faisán pavo real de Borneo	Búho pigmeo centroamericano	Codorniz del Himalaya	Garza de vientre blanco
+103103	Aves	3	En general, ¿qué características de un Cockapoo se parecen a las de un Cocker Spaniel?	Capa y cara	Escudo y orejas	Cara	Orejas
+1P0144	Aves	3	¿Cómo se llama la base del pico del pájaro donde se unen las mandíbulas?	Terciarios	Vanules	Nidicolous	Rictus
+483862	Aves	3	¿Cuáles son el pájaro y el árbol del estado de Tennessee?	Jilguero oriental y roble rojo	Cardenal y castaño de indias	Yellowhammer y pino de hoja larga del sur	Ruiseñor y tulipán
+483024	Aves	3	¿Cuál es el nombre común del ave Patagioenas caribaea?	Paloma Verde Sumba	Autillo de Anjouan	Garza estriada	Paloma de cola anillada
+103070	Aves	3	¿Cuál es el saco ubicado en el cuello del ave que es inflable y solo es visible en los machos durante las exhibiciones de cortejo?	Cloaca	Espéculo	Fosa del cuello	Parche de cuello
+1P0189	Aves	3	¿Cuáles son las áreas redondeadas en la cara del pájaro cubiertas con plumas que también se llaman discos faciales?	Cuenta	Cosecha	Ojos	Orejas
+149348	Aves	3	¿Cuál es el pájaro y el árbol del estado de Utah?	Cardenal y tulipán	Cardenal y pino	Urogallo Ruffed Y Cicuta Oriental	Gaviota de California y abeto azul
+45L0809	Aves	3	¿Cuál es el pájaro y el árbol del estado de Kansas?	Ruiseñor y nuez	Jilguero y roble del este	Willow Ptarmigan y Sitka Spruce	Turpial Gorjeador y chopo
+103063	Aves	3	¿Cuál es el pájaro y el árbol del estado de Virginia Occidental?	Bluebird de montaña y piñón de una hoja	Jilguero oriental y roble rojo	Papamoscas de cola de tijera y Redbud	Cardenal y arce de azúcar
+401783	Aves	3	¿Cuál es el nombre común del ave Ciconia boyciana?	Paloma de roca	Sátiro Tragopan	Paloma imperial de Finsch	Cigüeña oriental
+527709	Aves	3	¿Cuál es el pájaro y el árbol del estado de Connecticut?	Cardenal y tulipán	Zorzal ermitaño y arce de azúcar	Papamoscas de cola de tijera y Redbud	Petirrojo y roble blanco
+282227	Aves	3	¿Cuál es el nombre común del pájaro Goura cristata?	Rock Ptarmigan	Paloma de la fruta de Rapa	Paloma con pico de dientes	Paloma coronada occidental
+181343	Aves	3	¿Cuáles son el pájaro y el árbol del estado de Wyoming?	Arce rojo y rojo de Rhode Island	Roble cardenal y blanco	Banderines de alondra y abeto azul	Turpial gorjeador y chopo
+96277	Aves	3	¿Cuál es el ave nacional de Irak?	Abubilla	Faisán verde	Goldcrest	Perdiz de Chukar
+1P0051	Aves	3	¿Cuál es el nombre común del ave Phaethornis longirostris?	Waigeo Brushturkey	Paloma con pico de dientes	Búho manchado	Ermitaño de pico largo
+1P0054	Aves	3	¿Qué también se llama el yugulo o parche en la garganta y está ubicado en la parte delantera del cuello de un pájaro?	Cuello delantero	Forwardneck	Medio cuello	Antecuello.
+1P0162	Aves	3	¿Qué se encuentra en el ala de un pájaro y se llama colectivamente remiges?	Plumas de aterrizaje	Filoplume	Alas de aire	Plumas de vuelo
+251423	Aves	3	¿Cuál es el nombre común del ave Megapodius pritchardii?	Faisán de orejas blancas	Ibis de cuello pajizo	Snowcock Caspio	Megapodo de Tonga
+45L0059	Aves	3	¿Cuál es el nombre común del ave Cynanthus sordidus?	Paloma Verde de Santo Tomé	Paloma del Socorro	Faisán de Hoogerwerf	Colibrí oscuro
+369342	Aves	3	¿Cuál es el nombre común del ave Eudyptes schlegeli?	Codorniz de Madera de Tacarcuna	Búho real de Shelley	Faisán de la Sra. Hume	Pingüino real
+282222	Aves	3	¿Cuál es el nombre común del ave Syrmaticus reevesii?	Lomo de fuego sin cresta	Pingüino penacho amarillo del norte	Guan de cuello rojo	Faisán de Reeves
+520750	Aves	3	¿Cómo se llama un pavo macho de menos de un año?	Pavitos	Pavo macho	Yougin	Jake
+1P0042	Aves	3	¿Cuál es el nombre común del ave Apus apus?	Avetoro negro	Búho chillón barbudo	Paloma de luto	Vencejo común
+527708	Aves	3	¿Cuáles son el pájaro y el árbol del estado de Georgia?	Faisán de cuello anillado y abeto de Black Hills	Cardenal y tulipán	Jilguero y roble del este	Thrasher marrón y roble vivo
+1P0195	Aves	3	¿Cuál es el nombre común del ave Amazilia tzacatl?	Codorniz de castaño	Paloma de tierra azul	Faisán de Elliot	Colibrí de cola rufa
+181065	Aves	3	En el primer "Libro de los Reyes", ¿qué pájaros le traen comida a Elías durante una gran sequía?	Palomas	Palomas	Gaviotas	Cuervos
+1P0180	Aves	3	¿Cuál es el nombre común del pájaro Lamprolaima rhami?	Chimney Swift	Pollo de la pradera mayor	Mochuelo del bosque	Colibrí garganta granate
+363856	Aves	3	¿Cuál es el pájaro del estado de Oklahoma?	Petirrojo  	Baltimore Oriole	sinsonte	Papamoscas cola de tijera
+181069	Aves	3	¿Cuál es el pájaro y el árbol del estado de Illinois?	Alondra occidental y olmo americano	Pinzón morado y abedul blanco	Arce rojo y rojo de Rhode Island	Roble cardenal y blanco
+103101	Aves	3	¿Cuál es el nombre común del ave Eudyptes chrysocome?	Búho chillón americano medio	Garceta común	Búho de orejas largas	Pingüino penacho amarillo del sur
+1P0018	Aves	3	¿Qué rasgo distintivo le permite a esta ave recolectar comida fácilmente?	Garras afiladas	Plumas grandes	Buena personalidad	Bolsa de pico
+1P0123	Aves	3	¿Cómo se llama un pavo hembra?	Bebé	Gibbler	Gallina	Pava  
+103087	Aves	3	¿Cuál es el nombre común del ave Gallicolumba hoedtii?	Paloma de Azuero	Codorniz de madera de frente negra	Faisán de alegría	Paloma de tierra de Wetar
+233774	Aves	3	¿Cuál es el nombre común del ave Ardea humbloti?	Pequeño buho	Búho de orejas largas	Búho pez de Blakiston	Garza de Humblot
+1P0033	Aves	3	¿Cuál es el área donde el pico se extiende sobre la frente del pájaro y, a menudo, de colores brillantes?	Escudo de color	Escudo alto	Bill Shield	Escudo frontal
+45L0759	Aves	3	En "Game of Thrones", Bran tiene visiones recurrentes de ¿qué pájaro con tres ojos?	Águila	Halcón	Cardenal	Cuervo
+103088	Aves	3	¿Cuál es el nombre común del ave Callipepla douglasii?	Paloma imperial amarillenta	Sula Megapode	Balsas Búho chillón	Codorniz elegante
+181059	Aves	3	En las aves, ¿cuál es la bisagra donde se encuentran las mandíbulas?	Zarzo	Casque	Apteria	Comisura
+1P0048	Aves	3	¿Cuál es el nombre común del pájaro Phaethornis Striigularis?	Codorniz con bandas	Paloma del caribe	Pava de vientre castaño	Ermitaño de garganta rayada
+233733	Aves	3	¿Cuál es el nombre común del pájaro Heliothryx barroti?	Pava Crestada	Paloma verde grande	Pingüino de Magallanes	Hada de corona púrpura
+282221	Aves	3	¿Cuál es el nombre común del ave Columba torringtoniae?	Francolin de Harwood	Perdiz castaña	Faisán mikado	Paloma Torcaz de Sri Lanka
+103074	Aves	3	¿Cuándo suelen poner los patos sus huevos?	Invierno	Oscuridad	agosto	Temprano en la mañana
+103064	Aves	3	¿Cuántas veces por segundo puede batir las alas un colibrí?	20 veces	40 veces	250 veces	90 veces
+502939	Aves	3	¿Qué solo se encuentra en los pájaros machos y consiste en un área coloreada sobre el ojo?	Cenador	Parche	Cosecha	Peine
+526483	Aves	3	¿Cuál es el nombre común del pájaro Nipponia nippon?	Corazón sangrante de Sulu	Búho blanco y negro	Monal de Sclater	Ibis Crestado
+1P0129	Aves	3	¿Cuáles son las plumas alargadas de un pájaro que se proyectan desde la parte superior del cuerpo, generalmente el cuello o la cabeza?	Plumaje	Wisps	Precocial	Pinnae
+282223	Aves	3	¿Cuál es el nombre común del ave Odontophorus guttatus?	Paloma Fruto de Mariana	Monte Camerún Francolin	Ganga de arena de vientre negro	Codorniz de madera manchada
+45L0509	Aves	3	¿Cuál es el nombre común del pájaro Asio flammeus?	Búho blanco y negro	Nueva Bretaña Bronzewing	Pingüino de galápagos	Búho de orejas cortas
+1P0045	Aves	3	¿Cuál es el nombre común del ave Apus unicolor?	Ermitaño de Koepcke	Garza de arrecife del Pacífico	Búho halcón norteño	Llano vencejo
+181085	Aves	3	¿Cuál es el pájaro y el árbol del estado de Minnesota?	Bluebird y arce de azúcar	Papamoscas de cola de tijera y Redbud	Faisán de cuello anillado y abeto de Black Hills	Bribón común y pino rojo
+103095	Aves	3	¿Cuál es el nombre común del ave Streptoprocne zonaris?	Paloma marrón de Tawitawi	Garza imperial	Búho de anteojos	Veloz de cuello blanco
+103067	Aves	3	¿Cuál es el nombre común del ave Chlorostilbon auriceps?	Paloma de tierra tongana	Guan de ribete negro	Urogallo chino	Esmeralda coronada de oro
+45L0009	Aves	3	¿Cuál es el nombre común del pájaro Abeillia abeillei?	Jacobino de cuello blanco	Perdiz de roca	Búho de Scops de Java	Colibrí de mentón esmeralda
+405662	Aves	3	¿Qué tipo de ave cuyo hábitat está en mar abierto en lugar de en una región costera o en cuerpos de agua continentales?	Piscivire	Vireo	Sibiac	Pelágico
+103066	Aves	3	¿Qué ave común es la más grande de los tordos de América del Norte?	Petirrojo de lomo rufo	Subaru Robin	Rockin 'Robin	petirrojo americano
+350021	Aves	3	¿Cuál es el pájaro del estado de Texas?	Nene y Kukui	Común	Paro	sinsonte
+45H8899	Aves	3	¿En qué categoría se clasificaría un cockapoo que pesa entre 13 y 18 libras?	Juguete de taza de té	Juguete	Maxi	Miniatura / Mini
+1B40177	Aves	3	¿Qué aves regresan a San Juan Capistrano poco antes de que comience la primavera cada año?	Águilas	Cardenales	Petirrojos	Golondrinas
+1P0141	Aves	3	¿Qué son las plumas cortas en el área donde se unen la espalda y las alas del ave?	Espalda	Muescas	Gulars	Escapularios
+48307	Aves	3	¿Cuál es el nombre común del ave Lophotibis cristata?	Pava de ceja blanca	Guan de cuello rojo	Urogallo occidental	Ibis de Madagascar
+1P0219	Aves	3	¿Cuál es el nombre común del pájaro Heliangelus regalis?	Neblina Metaltail	Trinidad Piping Guan	Pavo real verde	Colibrí real
+251528	Aves	3	¿Cuál es el nombre común del pájaro Polyplectron napoleonis?	Ibis de pecho manchado	Cauca Guan	Paloma de plumas hendidas	Pavo real-faisán de Palawan
+481883	Aves	3	¿Cuál es el nombre común del ave Spheniscus magellanicus?	Garza imperial	Pingüino penacho amarillo del sur	Autillo de Anjouan	Pingüino de Magallanes
+1P0213	Aves	3	¿Qué pueblo de Pampanga, Filipinas, alberga un pantano de 32.000 ha que es un santuario para las aves migratorias?	México	Porac	Macabebe	Candaba
+103104	Aves	3	¿Cuál es el nombre común del pájaro Polyplectron inopinatum?	Perdiz negra	Pingüino de cresta erguida	Maleo	Pavo real-faisán de montaña
+45L0259	Aves	3	¿Cuál es el nombre común del ave Hylonympha macrocerca?	Vencejo de frente blanca	Paloma de tierra de frente blanca	Faisán pavo real de Hainan	Colibrí de cola de tijera
+1P0177	Aves	3	¿Cuáles son el pájaro y el árbol del estado de Washington?	Cardenal y castaño de indias	Pelícano pardo oriental y ciprés calvo	Bluebird de montaña y pino blanco occidental	Jilguero de sauce y cicuta occidental
+181083	Aves	3	¿Cuál es el pájaro del estado de Arkansas?	Pollo Gallina Azul	Gran Carolina Wren	Baltimore Oriole	sinsonte
+218441	Aves	3	¿Cuál es el nombre común del ave Glaucidium passerinum?	Perdiz de Hainan	Pingüino de ojos amarillos	Paloma de montaña de cola larga	Búho pigmeo euroasiático
+502959	Aves	3	¿Cuál es el nombre común del pájaro Francolinus nahani?	Paloma-cuco de varios colores	Megapodo de Tanimbar	Garza real	Perdiz de Nahan
+398804	Aves	3	¿Cuál es el nombre común del ave Ardeola idae?	Matorral de patas anaranjadas	Faisán mikado	Usambara Búho Real	Garza de estanque malgache
+103105	Aves	3	¿Cuál es el nombre común del pájaro Gorsachius magnificus?	Chachalaca Cabeza Rufo	Búho Fulvous	Garza de arrecife del Pacífico	Garza nocturna de orejas blancas
+103065	Aves	3	¿Cuál es el nombre común del ave Amazilia candida?	Codorniz de Manipur Bush	Garza real	Búho enmascarado de Manus	Esmeralda de vientre blanco
+1P0210	Aves	3	¿Cuál es el ave nacional de Sudán?	Ibis escarlata	Águila Pescadora Africana	Troupial	Secretario pájaro
+103072	Aves	3	¿Cuál es el pájaro y el árbol del estado de Alabama?	Roble cardenal y blanco	Ruiseñor y tulipán	Codornices del Valle de California y Secoyas Costeras	Escribano cerillo y pino de hoja larga del sur
+527707	Aves	3	En 2018, ¿cuántos logotipos de equipos de Grandes Ligas estaban representados por un pájaro?	4 equipos	10 equipos	0 equipos	3 equipos
+368374	Aves	3	¿Qué son las suaves plumas palmeadas a los lados de la cabeza del pájaro?	Altricial	Lek	Zarzo	Auricular
+1P0186	Aves	3	¿Cuál es la depresión en la que se encuentra la fosa nasal del pájaro?	Cánula nasal	Espacio nasal	Pellet nasal	Fosa nasal
+103069	Aves	3	¿Qué ave del estado de Nueva Jersey podrías ver en el árbol estatal, el roble rojo?	Alondra occidental	Escribano cerillo	Azulejo	Jilguero oriental
+82107	Aves	3	¿Cuál es el nombre común del ave Columba palumbus?	Pollo de la pradera mayor	Paloma escamada	Cauca Guan	Paloma Torcaz común
+1P0060	Aves	3	¿Cuál es el nombre común del pájaro Phaeochroa cuvierii?	Ibis sagrado malgache	Codorniz de madera garganta	Serendib Autillo	Colibrí de pecho escamoso
+1P0192	Aves	3	¿Cuál es la parte de la pierna entre la rodilla y el pie del pájaro, similar a la parte inferior de la pierna en los humanos?	Fíbula	Precocial	Rodilla	Tarso
+103058	Aves	3	¿Qué es el ave estatal de Deleware?	Cactus Wren	Robin	Alondra occidental	Pollo Gallina Azul
+1P0132	Aves	3	¿Cuál es el nombre común del ave Geronticus calvus?	Pingüino Adelia	Maleo	Perdiz de Chukar	Ibis Calvo del Sur
+1P0171	Aves	3	¿Cuál es el pájaro y el árbol del estado de Carolina del Norte?	Zorzal ermitaño y arce de azúcar	Jilguero y roble del este	Gaviota de California y abeto azul	Cardenal y pino
+45L0609	Aves	3	¿Cuál es el nombre común del ave Columba argentina?	Paloma de ojos amarillos	Pava cornuda	Garza imperial	Paloma plateada
+45L0109	Aves	3	¿Qué pájaro se muestra volando sobre la ciudad de Nueva York al final de "The Other Guys"?	Águila	Arrendajo azul	Albatros	Pavo real
+103059	Aves	3	¿Cuál es el nombre común del pájaro Panyptila sanctihieronymi?	Ibis de São Tomé	Perdiz de Chukar	Búho Real Euroasiático	Gran vencejo de cola bifurcada
+103056	Aves	3	¿Cuál es el nombre común del pájaro Colinus nigrogularis?	Paloma imperial de anteojos	Garza nocturna corona negra	Búho pigmeo de Colima	codorniz cotuí yucateca 
+181080	Aves	3	¿Cuál es el pájaro del estado de Vermont?	Pelícano Pardo Oriental	sinsonte	Ptarmigan sauce	Zorzal ermitaño
+181047	Aves	3	¿Qué pájaro, a menudo representado en la antigua moneda ateniense, adorna ahora la moneda griega de 1 euro?	Águila	Halcón	Cometa	Búho
+103085	Aves	3	¿Cuál es el nombre común del ave Ortalis poliocephala?	Paloma de pecho gris	Pantano Francolin	Búho chillón barbudo	Chachalaca occidental mexicana
+527711	Aves	3	¿Cuál es el pájaro del estado de Massachusetts?	Jilguero de sauce	Zorzal ermitaño	Codorniz de California	Parus
+483883	Aves	3	¿Cuál es el nombre común del pájaro Bubulcus ibis?	Megapodo de Micronesia	Pingüino de Fiordland	Paloma de vientre ocre	Garcilla bueyera
+1P0099	Aves	3	¿Cuánto mide el tracto intestinal de un avestruz?	120 pies	8 pies	246 pies	45 pies
+1P0036	Aves	3	¿Cómo se llama la combinación del anillo ocular y la línea supraloral en un pájaro?	Espéculo	Mota de ojo	Anillo de córnea	Espectáculo
+45L0459	Aves	3	¿Dónde se originó el Cockapoo?	Inglaterra	Irlanda	España	Estados Unidos
+1P0117	Aves	3	¿Cuál es el nombre común del pájaro Doricha enicura?	Avetoro del bosque	Paloma rosa	Paloma Zenaida	Sheartail delgado
+1P0114	Aves	3	¿Qué pájaro pone huevos de color azul?	El pájaro estatal de Ohio	El pájaro en el poema de Edgar Allan Poe	El pájaro que se para en una pierna	El pájaro que simboliza la primavera
+1P0015	Aves	3	¿Cuál es el nombre común del ave Eupherusa eximia?	Lomo de fuego siamés	Paloma imperial de nudos rojos	Tórtola europea	Colibrí de cola rayada
+103086	Aves	3	Se cree que el récord de resistencia en distancia de un ave lo tiene el charrán ártico que migra a la Antártida y regresa en unas 20 semanas. ¿Qué tan lejos viaja?	2,000 a 4,000 millas	12,000 a 15,000 millas	10,000 a 12,000 millas	20,000 a 22,000 millas
+103073	Aves	3	¿Cuál es el nombre común del ave Amazilia rutila?	Paloma con ventilación pálida	Paloma de plumas hendidas	Tragopan de Temminck	Colibrí canela
+1B40089	Aves	3	¿Cuál es el pájaro del estado de Dakota del Sur?	Petirrojo	Cactus Wren	Cola de tijera	Faisán de cuello anillado
+103102	Aves	3	Aproximadamente, ¿cuándo se hizo popular el Cockapoo en los Estados Unidos?	Los 80	Los noventa	Los sesenta	Los setenta
+384737	Aves	3	¿Cuál es el nombre común del ave Columba pallidiceps?	Chachalaca llano	Faisán común	Paloma verde grande	Paloma de patas amarillas
+282225	Aves	3	¿Cómo se llama la franja de crecimiento de las plumas en el cuello de un pájaro macho que se usa en exhibiciones de cortejo?	Brusco	Franja	Flitt	Gorguera
+228403	Aves	3	¿Cuál es el nombre común del ave Collocalia francica?	Esmeralda de Cozumel	Monal de Sclater	Perdiz de Sichuan	Mascarene Swiftlet
+527703	Aves	3	¿Qué animal de pecho rojo es el ave del estado de Connecticut, Michigan y Wisconsin?	Cardenal	Colibrí	Pollo de agua de pecho rojo	Petirrojo
+45L0559	Aves	3	¿Cuál es el nombre común del pájaro pseudoscops clamator?	Búho Fulvous	Maleo	Faisán común	Búho rayado
+1P0138	Aves	3	¿Qué tipo de ave fue encontrada muerta en una carretera cerca de Boulia, Queensland, en 1990, muchos años después de que se pensara que estaba extinta?	El mielero de garganta negra	El emú gigante	El emú enano	El loro nocturno
+411581	Aves	3	¿Cuál es el pájaro y el árbol del estado de Indiana?	Carbonero y pino blanco	Pollo gallina azul y acebo americano	Robin y arce de azúcar	Cardenal y tulipán
+411582	Aves	3	¿Qué tipo de pájaro infunde terror en los corazones de los personajes de la película "10,000 AC"?	Pollo	Búho	Flamenco	Avestruz
+233763	Aves	3	¿Cuál es la pequeña articulación en el ala del pájaro?	Aguilera	Embrague	Jugador de bolos	Alula
+349754	Aves	3	¿Qué tan rápido puede correr un avestruz?	22 millas por hora	66 millas por hora	75 millas por hora	45 millas por hora
+45H8881	Aves	3	¿Cuál es el nombre común del ave Columba pollenii?	Gran Paujil	Pingüino de Snares	Megapode oscuro	Paloma de las Comoras
+284818	Aves	3	¿Cuál es el nombre común del ave Egretta vinaceigula?	Pavón de Alagoas	Snowcock Caspio	Perdiz de roca	Garceta Pizarrosa
+1P0102	Aves	3	¿Cuál es el nombre común del ave Eupherusa poliocerca?	Codorniz Cantante	Paloma de pico corto	Búho de Scops euroasiático	Colibrí de cola blanca
+397460	Aves	3	¿Cuál es el nombre común del ave Streptopelia turtur?	Balsas Búho chillón	Francolin de cuello anillado	Paloma escamada	Tórtola europea
+103062	Aves	3	¿Por qué la temporada de reproducción de las aves lira es durante los inviernos fríos y lluviosos de Australia?	No hace demasiado calor para la recién nacida	Ninguna de estas razones	Los pájaros pájaros requieren mucha agua y hay mucha agua para beber	Hay muchos alimentos para insectos disponibles en esta época del año
+228369	Aves	3	¿Cuál es el nombre común del ave Streptoprocne rutila?	Perdiz de madera coronada de anteojos	Paloma Imperial Goliat	Snowcock caucásico	Vencejo de collar castaño
+1P0075	Aves	3	¿Cuál es el nombre común del ave Amazilia cyanura?	Vencejo de cola bifurcada menor	Paloma coronada del sur	Faisán vietnamita	Colibrí de cola azul
+483744	Aves	3	¿Cuál es el pájaro del estado de Missouri?	Correcaminos	Zorzal ermitaño	Bribón común	Azulejo
+350847	Aves	3	¿Cuáles son las plumas en un área triangular en la parte inferior de un pájaro entre su respiradero y la base de las plumas de la cola?	Abajo	Hallux	Rachis	Crissum
+490685	Aves	3	¿Cómo se llama una especie de garganta azul y verde de qué ave fue descubierta en un bosque nuboso de Colombia?	Paloma	Águila	Loro	Colibrí
+45L0709	Aves	3	En "Una historia de Navidad", ¿qué tipo de pájaro llama el narrador "Turquía china"?	ganso	Pollo	Turke	Pato
+81996	Aves	3	¿Cuál es el nombre común del pájaro Tetrao mlokosiewiczi?	Paují de nudos azules	Pingüino de Humboldt	Paloma de tierra de pecho granate	Urogallo caucásico
+103089	Aves	3	¿Cuáles son las plumas primarias del ala más alejada del cuerpo?	Primeras primarias	Primarias anteriores	Primarias interiores	Primarias externas
+312254	Aves	3	¿Cuál es el nombre común del pájaro Bubo scandiaca?	Gunnison Grouse	Paloma Imperial de Mindoro	Búho Fulvous	Búho Nevado
+282224	Aves	3	¿Cuál es el nombre común del ave Columba punicea?	Malleefowl	Paloma escamada	Paloma del Socorro	Paloma de cabeza pálida
+181056	Aves	3	¿Qué se encuentra entre el cuerpo y el ala del pájaro y también se llama ala?	Axila	Espacio barrera	Bajo el ala	Axilar
+45L0159	Aves	3	¿Cuál es el nombre común del ave Lophornis helenae?	Violetear verde	Autillo de Enggano	Paloma imperial de vientre castaño	Coqueta de Cresta Negra
+1P0126	Aves	3	¿Cuál es el nombre común del pájaro Hylocharis eliciae?	Swiftlet de Rabadilla Blanca	Paloma imperial de Finsch	Pollo de la pradera menor	Zafiro garganta azul
+1P0198	Aves	3	¿Qué ave europea fue importada a Estados Unidos por la administración de Franklin Pierce con la esperanza de librar a Brooklyn, Nueva York, de una plaga de gusanos cancros que estaba infestando los árboles?	La golondrina común	El estornino	El banderín de alondras	El gorrión inglés
+483947	Aves	3	¿Cuál es el nombre común del pájaro Geotrygon montana?	Paují de nudos amarillos	Pingüino africano	Búho Crestado	Paloma Codorniz Rubia
+81995	Aves	3	¿Qué pájaro australiano construye un nido con forma de copa de vino?	El Kookaburra	El oropéndola de lomo oliva	El martín pescador de cola blanca	La cola de milano rufo

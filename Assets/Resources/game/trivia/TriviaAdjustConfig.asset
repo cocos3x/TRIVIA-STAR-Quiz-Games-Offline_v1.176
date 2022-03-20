@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28c6817afbb084240a678603582afb0a, type: 3}
+  m_Name: "TriviaAdjustConfig"
+  m_EditorClassIdentifier: 
+  Free_Android:
+    daily_bonus: "fsdg9i"
+    hint_used: "q5ez9g"
+    hint_used_16: 
+    hint_used_20: 
+    hint_used_25: 
+    hint_used_30: 
+    hint_used_35: 
+    hint_used_40: 
+    hint_used_50: 
+    struggle_hint_used: 
+    sound_on: 
+    sound_off: 
+    revenue_iap: "pt6jqs"
+    first_purchase: "mh8ty4"
+    repeat_purchaser: "cmzzkf"
+    purchase_199: "mcg6zj"
+    purchase_099: "dezyi5"
+    purchase_299: "acet1h"
+    purchase_399: "d93fco"
+    purchase_499: "9iqi63"
+    purchase_599: 
+    purchase_799: 
+    purchase_999: "kvedjz"
+    purchase_1199: 
+    purchase_1499: 
+    purchase_1699: "8x61aa"
+    purchase_1999: "y3mdxw"
+    purchase_4999: "1ub1vs"
+    purchase_9999: 
+    purchase_19999: 
+    total_purchase_threshold_50: "98ldod"
+    total_purchase_threshold_100: "eqtwhs"
+    total_purchase_threshold_500: "xv4qvq"
+    total_purchase_threshold_1000: "3pw2bf"
+    subscription_purchase: "21hk4g"
+    purchase_bundle: 
+    purchase_gems: 
+    purchase_499_starter_pack: 
+    purchase_food: 
+    purchase_2499: 
+    purchase_piggy_nonbuyer: 
+    purchase_piggy_lapse1: 
+    purchase_piggy_lapse2: 
+    purchase_piggy_lapse3: 
+    d1_subscription_purchase: 
+    d3_subscription_purchase: 
+    ad_seen_non_rewarded: "61zmff"
+    fb_login: "tcgysv"
+    ad_seen_all: "i3jbdu"
+    ad_seen_rewarded_video: "fbgm7w"
+    ad_seen_interstitial: "2ae94y"
+    ad_seen_banner: "4dmfak"
+    rewarded_video_05: "ordefk"
+    rewarded_video_10: 
+    rewarded_video_15: 
+    rewarded_video_20: 
+    rewarded_video_25: "ymgcge"
+    rewarded_video_50: "g5isu3"
+    rewarded_video_100: "8qpmb5"
+    rewarded_video_250: "o5cny6"
+    rewarded_video_500: "4pf13a"
+    ad_clicked_05: 
+    ad_clicked_10: "2iu2au"
+    ad_clicked_15: 
+    ad_clicked_20: 
+    ad_clicked_30: "38d5gh"
+    ad_clicked_50: "ay78my"
+    ad_clicked_100: "ma9zjp"
+    ad_disabled_rewarded: "5mx1t4"
+    d1_ad_clicked_10: 
+    d1_rewarded_video_05: 
+    d3_ad_clicked_10: 
+    d3_rewarded_video_05: 
+    retention_d1: "ad4rkz"
+    retention_d2: "6o9vxy"
+    retention_d3: "sbx18z"
+    retention_d6: 
+    retention_d7: "inu0qu"
+    retention_d30: "8otapt"
+    retention_d2_consecutive: "k3s2ik"
+    retention_d3_consecutive: "o4r6y0"
+    retention_d6_consecutive: 
+    retention_d7_consecutive: "ptvfx8"
+    purchase_retention_0101: "u2yv0m"
+    purchase_retention_1007: "y3e3p3"
+    level_2: "p6a16i"
+    level_3: "gney93"
+    level_4: "jrpbex"
+    level_5: "nxgdgz"
+    level_6: "udjvx3"
+    level_7: "k84rk4"
+    level_8: "b5shuj"
+    level_9: "zh28ue"
+    level_10: "6yjv13"
+    level_20: "psl2z3"
+    level_30: "40gof3"
+    level_40: "aviobv"
+    level_50: "x1ca0e"
+    level_60: "80xhcx"
+    level_70: "50eb16"
+    level_80: "s5op88"
+    level_90: "hk1ytw"
+    level_100: "s94j0d"
+    level_200: "pbq22b"
+    level_300: "gtkb9r"
+    level_400: "g0udid"
+    level_500: "4hcp13"
+    level_600: "x2vpgt"
+    level_700: "282huj"
+    level_800: "oribem"
+    level_900: "u4t37i"
+    level_1000: "qlp11e"
+    level_1250: "8jzmel"
+    level_1500: "jpi6cr"
+    level_2000: "uhkvzd"
+    d1_lvl_100: 
+    d3_lvl_100: 
+    iq_milestone_1: 
+    iq_milestone_2: 
+    iq_milestone_3: 
+    iq_milestone_4: 
+  Free_Ios:
+    daily_bonus: "6pr1m0"
+    hint_used: "nf59js"
+    hint_used_16: 
+    hint_used_20: 
+    hint_used_25: 
+    hint_used_30: 
+    hint_used_35: 
+    hint_used_40: 
+    hint_used_50: 
+    struggle_hint_used: 
+    sound_on: 
+    sound_off: 
+    revenue_iap: "o2gzl6"
+    first_purchase: "66xku9"
+    repeat_purchaser: "395jdg"
+    purchase_199: "1mxsil"
+    purchase_099: "f0vudz"
+    purchase_299: "4f6fwg"
+    purchase_399: "noaxai"
+    purchase_499: "a52683"
+    purchase_599: 
+    purchase_799: 
+    purchase_999: "63ldc4"
+    purchase_1199: 
+    purchase_1499: 
+    purchase_1699: "lbs3kt"
+    purchase_1999: "dgiq77"
+    purchase_4999: "84f1ke"
+    purchase_9999: 
+    purchase_19999: 
+    total_purchase_threshold_50: "lbb4ai"
+    total_purchase_threshold_100: "6xu7v5"
+    total_purchase_threshold_500: "bbdzwg"
+    total_purchase_threshold_1000: "ow0cgn"
+    subscription_purchase: "7177y3"
+    purchase_bundle: 
+    purchase_gems: 
+    purchase_499_starter_pack: 
+    purchase_food: 
+    purchase_2499: 
+    purchase_piggy_nonbuyer: 
+    purchase_piggy_lapse1: 
+    purchase_piggy_lapse2: 
+    purchase_piggy_lapse3: 
+    d1_subscription_purchase: 
+    d3_subscription_purchase: 
+    ad_seen_non_rewarded: "c39v5y"
+    fb_login: "xbipjh"
+    ad_seen_all: "whpyx2"
+    ad_seen_rewarded_video: "aodpt6"
+    ad_seen_interstitial: "9rztvj"
+    ad_seen_banner: "b78q14"
+    rewarded_video_05: "7cr1rm"
+    rewarded_video_10: 
+    rewarded_video_15: 
+    rewarded_video_20: 
+    rewarded_video_25: "43yb9x"
+    rewarded_video_50: "eigdn2"
+    rewarded_video_100: "f6wm8p"
+    rewarded_video_250: "6y3n39"
+    rewarded_video_500: "dxtxtz"
+    ad_clicked_05: 
+    ad_clicked_10: "azenfx"
+    ad_clicked_15: 
+    ad_clicked_20: 
+    ad_clicked_30: "ombd5t"
+    ad_clicked_50: "ka0gco"
+    ad_clicked_100: "x7k1br"
+    ad_disabled_rewarded: "5nd6f7"
+    d1_ad_clicked_10: 
+    d1_rewarded_video_05: 
+    d3_ad_clicked_10: 
+    d3_rewarded_video_05: 
+    retention_d1: "5bf9aj"
+    retention_d2: "twaq0w"
+    retention_d3: "e2b8ed"
+    retention_d6: 
+    retention_d7: "33ilci"
+    retention_d30: "tvmq6e"
+    retention_d2_consecutive: "v0o7ra"
+    retention_d3_consecutive: "oel95c"
+    retention_d6_consecutive: 
+    retention_d7_consecutive: "63wj0y"
+    purchase_retention_0101: "8c0ujx"
+    purchase_retention_1007: "f8w5ju"
+    level_2: "fxnz2e"
+    level_3: "8hgpg7"
+    level_4: "7i85j8"
+    level_5: "o8kvku"
+    level_6: "withce"
+    level_7: "8yudqt"
+    level_8: "x1ezzb"
+    level_9: "pgga0r"
+    level_10: "b23ng0"
+    level_20: "3jylbo"
+    level_30: "jhldcw"
+    level_40: "q9akyp"
+    level_50: "36ktlk"
+    level_60: "wcrst6"
+    level_70: "82d968"
+    level_80: "iwc9po"
+    level_90: "mkb2j8"
+    level_100: "55jnas"
+    level_200: "3iylj9"
+    level_300: "go1s07"
+    level_400: "8xsl4i"
+    level_500: "4nm4i5"
+    level_600: "ely7fb"
+    level_700: "x1ar0q"
+    level_800: "8m2dm5"
+    level_900: "phz5dq"
+    level_1000: "sceoao"
+    level_1250: "g3vbwv"
+    level_1500: "719etk"
+    level_2000: "vmmis4"
+    d1_lvl_100: 
+    d3_lvl_100: 
+    iq_milestone_1: 
+    iq_milestone_2: 
+    iq_milestone_3: 
+    iq_milestone_4: 

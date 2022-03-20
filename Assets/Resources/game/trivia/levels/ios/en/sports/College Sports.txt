@@ -1,0 +1,467 @@
+8E01659	College Sports	0	What college sport did Michael Jordan play at North Carolina?	Bowling	Soccer	Football	Basketball
+8E01646	College Sports	0	Which of the following is not a college sport?	Rugby	Golf	Tennis	Shouting
+8E01997	College Sports	0	In what college sport is the Dick Howser Trophy awarded?	Lacrosse	Tennis	Basketball	Baseball
+8E01906	College Sports	0	For what foul in NCAA basketball is the opposing team is awarded 2 free throws and the ball?	Pass Interference	Hacking	Traveling	Technical Foul
+8E01802	College Sports	0	Which of these was a real college football bowl game played in 2019?	Vegan Tofu Bowl	Durian Bowl	Onion Bowl	Peach Bowl
+8E02127	College Sports	0	The Arnold Palmer cup is an annual team competition for university athletes in what sport?	Hockey	Rugby	Table Tennis	Golf
+8E01776	College Sports	0	Which of these was a real college football bowl game played in 2019?	Sour Grapes Bowl	Loser Bowl	Strawberry Shortcake Bowl	Orange Bowl
+8E01919	College Sports	0	Which of these is allowed in NCAA basketball?	Betting	Three Steps Before A Shot	6th Man On Court	3 Point Shot
+0DIFSP93	College Sports	0	Which of these schools does not have a college basketball team?	Michigan State	Duke	San Diego State	Armstrong State University
+0DIFSP82	College Sports	0	Which of these is not a requirement to stay eligible for playing a college sport?	Graduate high school	Maintain GPA	Attend required classes	Height over 6 ft
+0DIFSP84	College Sports	0	Which of these is the best ranking in NCAA sports?	Top dog	Best in show	Diamond League	Division One
+8E01815	College Sports	0	Which of these was a real college football bowl game played in 2019?	Jack Daniels Bowl	Lil Jon Bowl Game	Pink Daisy Bowl	Rose Bowl Game
+0DIFSP85	College Sports	0	The college sport that receives the most recognition is which of these?	Fencing	Field Hockey	Water Polo	Football
+2CF2066	College Sports	0	Who do the faithful student football fans at Duke root for?	Panthers	Jayhawks	Fighting Irish	Blue Devils
+8E01737	College Sports	0	Complete the full name for the NCAA, National Collegiate _______ Association?	Actors	Annual	American	Athletic
+8E02114	College Sports	0	The University of Southern California (USC) football team is known as which?	Mets	Alpines	Greeks	Trojans
+8E01789	College Sports	0	Which of these was a real college football bowl game played in 2019?	Peppermint Patty Bowl	Ice Cream Bowl	Wine and Cheese Bowl	Sugar Bowl
+500170	College Sports	0	Which head coach of Kentucky's basketball team once said "No corner is left untouched by the blue mist"?	Mark Few	Larry Brown	Tommy Amaker	John Calipari
+8E02101	College Sports	0	In what state is Neyland Stadium where the Volunteers play located?	Hawaii	Montana	South Dakota	Tennessee
+8E01867	College Sports	0	Which of the following is not a college sport?	Golf	Bowling	Tennis	VR gaming
+8E02023	College Sports	0	Which of the following is not a real stadium where college football is played?	Tiger Stadium	Notre Dame Stadium	Ohio Stadium	Lemur Stadium
+8E01984	College Sports	0	Which athlete was a star baseball player at Washington?	Tim Duncan	Tom Watson	Dennis Rodman	Tim Lincecum
+1C60055	College Sports	0	Which NCAA conference does the University of Florida belong to?	Big 12	ACC	Pac-12	SEC
+8E01685	College Sports	0	In what month does the college basketball playoffs occur?	January	December	August	March
+0DIFSP90	College Sports	0	March Madness is an event related to which college sport?	Fencing	Lacrosse	Swimming and Diving	Basketball
+0DIFSP94	College Sports	0	Which one of these is a college sport?	Broom dancing	Basket weaving	Competetive handshaking	Rifle
+8E01711	College Sports	0	How many points do you get for a field goal in College football?	2 Points	6 Points	1 Point	3 Points
+8E01971	College Sports	0	Which athlete was a star baseball player at Florida State?	Joe Montana	Tiger Woods	Michael Phelps	Buster Posey
+8E01672	College Sports	0	Aubie the tiger mascot represents what college?	Yale	Harvard	UCLA	Auburn
+0DIFSP92	College Sports	0	Which one of these schools does not have a college football program?	Florida State	Texas A&M	University of Minnesota	Grand Canyon University
+8E01893	College Sports	0	How long does an NCAA Division I basketball game last in regulation time?	3 days	5 minutes	4 hours	40 Minutes
+8E01945	College Sports	0	Which of these NBA stars played ball at Duke?	Tom Brady	Manny Pacquiao	Ernie Els	Jayson Tatum
+1MU1499	College Sports	0	What team do student football fans at Kansas root for?	Fighting Illini	Trojans	Wolverines	Jayhawks
+8E01750	College Sports	0	In what sport does the BCS National Championship Game occur?	Tennis	Golf	Softball	Football
+8E01828	College Sports	0	In which US state is the Gator Bowl played?	Vermont	Montana	Oregon	Florida
+8E01854	College Sports	0	Which of the following is not a college sport?	Football	Basketball	Volleyball	Pictionary
+0DIFSP86	College Sports	0	In men's college basketball, there are two halves of how long each?	5 minutes	7 minutes	35 minutes	20 minutes
+0DIFSP89	College Sports	0	Which is these is not a college basketball team?	Kentucky Wildcats	Virginia Cavaliers	UCLA Bruins	Florida Sea Monsters
+8E01841	College Sports	0	What sport did Kevin Durant play one season for the University of Texas?	Golf	Rugby	Softball	Basketball
+0DIFSP100	College Sports	0	Which of these college sports involves footraces and distance running?	Baseball	Golf	Rifle	Cross Country
+8E01633	College Sports	0	What can a High School sports star be given to pay for college?	Free Tickets	Stocks and Bonds	Bitcoin	Scholarship
+8E02010	College Sports	0	What school plays their home football games at the Rose Bowl?	Georgia Tech	Florida	University of Texas	UCLA
+8E02036	College Sports	0	What school plays their home football games at the Tiger Stadium?	Washington	Duke	Wake Forest	LSU
+0DIFSP96	College Sports	0	Which college sport is played with a club by an individual, striking the ball into a hole with a flag?	Lacrosse	Cross Country	Ice Hockey	Golf
+0DIFSP97	College Sports	0	Which one of these college sports involves using a pointy sword 'foil' to poke your opponents?	Soccer	Wrestling	Gymnastics	Fencing
+0DIFSP95	College Sports	0	Which of these college sports is played with a ball in the water?	Track and field	Skiing	Tennis	Water polo
+0DIFSP81	College Sports	0	Which of these sports does not have NCAA scholarships awarded for its play?	Basketball	Baseball	Tennis	Quiddich
+8E01698	College Sports	0	How many points do you get for a touchdown in College football?	8 Points	4 Points	2 Points	6 Points
+8E01880	College Sports	0	How many seconds does an NCAA Division I basketball team have to take a shot that hits the rim?	Unlimited Time	This shot is not allowed	Ten Minutes	30 Seconds
+8E02140	College Sports	0	At what college did student athlete Tiger Woods play golf in the 1990s?	Long Island Tech	He didn't go to college	Ball State University	Stanford University
+2CF2231	College Sports	0	In which of these NCAA conferences does the University of Southern California play?	Big 12	Sun Belt	MAC	Pac-12
+8E01724	College Sports	0	How far is it from home plate to the pitcher's mound rubber?	5 Feet 3 Inches	99 Feet	150 Feet 6 Inches	60 Feet 6 Inches
+0DIFSP83	College Sports	0	The NCAA stands for what?	New Castle Arts and Academics	National Chamber of Athletes and Artists	National Corndog Appreciation Association	National Collegiate Athletics Association
+2CF2046	College Sports	0	Which popular drink was developed at the University of Florida?	Coca-Cola	Kool-Aid	Capri Sun	Gatorade
+0DIFSP87	College Sports	0	In college basketball, how long is the shot clock?	10 seconds	18 seconds	50 seconds	30 seconds
+8E01763	College Sports	0	Eastern Sprints refers to what annual championship?	Darts	Bowling	Golf	Rowing
+8E02075	College Sports	0	Who plays their home games at Michie Stadium at West Point?	Congress	Elementary students	The FBI	Army
+0DIFSP98	College Sports	0	Which of these college sports involves two competitors attempting to floor each other through grappling?	Volleyball	Rifle	Football	Wrestling
+8E02062	College Sports	0	At Notre Dame Stadium the sign above the steps leading to a field says "Play like a ____"?	Roadrunner	Grasshopper	Excellent Human	Champion
+8E02088	College Sports	0	What nickname is Ben Hill Stadium at the University of Florida known by?	The Massive Sinkhole	The Strip	Beverly Hills	The Swamp
+0DIFSP88	College Sports	0	Which of these is not a college football team?	Ohio State Buckeyes	Michigan Wolverines	Notre Dame Fighting Irish	New York Statues of Liberty
+2CF1986	College Sports	0	Which NCAA conference does the University of Kentucky belong to?	Big 12	MAC	Pac-12	SEC
+522835	College Sports	1	Joe Burrow led what school to the College Football title in 2020?	Utah	Ohio State	Clemson	LSU
+500182	College Sports	1	In college sports, what is the team name for "Ole Miss"?	Cougars	Hawkeyes	Huskies	Rebels
+2CF2176	College Sports	1	What school did Minkah Fitzpatrick play for in 2017?	Univ of Miami	Texas A&M	Oklahoma	Alabama
+2CF2236	College Sports	1	In which of these NCAA conferences does Clemson University play?	C-USA	Big Ten	Pac-12	ACC
+525321	College Sports	1	What is Iowa's football team's name?	Hurricanes	Blue Devils	Rams	Hawkeyes
+522368	College Sports	1	Who was named 2019 Naismith College Male Player of the Year?	Ja Morant	Kendrick Nunn	Ky Bpwman	Zion Williamson
+374666	College Sports	1	What California university has won 11 NCAA men's basketball championships as of 2016?	San Francisco	Fresno State	Cal	UCLA
+2CF2216	College Sports	1	In which of these NCAA conferences does the University of Arkansas play?	MWC	Big Ten	Big 12	SEC
+2CF2156	College Sports	1	Which NCAA conference does the University of Washington belong to?	Big 12	ACC	Sun Belt	Pac-12
+2CF2146	College Sports	1	In which of these NCAA conferences does the Washington State University play?	Big 12	ACC	Sun Belt	Pac-12
+525328	College Sports	1	Who do the faithful student football fans at Florida root for?	Indians	Rebels	Owls	Gators
+2CF1956	College Sports	1	In which of these NCAA conferences does the University of Utah play?	Big 12	Sun Belt	ACC	Pac-12
+500125	College Sports	1	What is the University of Connecticut's football and basketball team nickname?	Cardinals	Cowboys	Cornhuskers	Huskies
+288438	College Sports	1	What is the maximum number of captains that may be present at a coin toss in college football?	12	20	99	4
+1C60078	College Sports	1	Who won the won 2018 Sugar Bowl?	Florida	Clemson	Louisville	Alabama
+2CF2151	College Sports	1	What school did Baker Mayfield play for in 2017?	Florida State	UCF	Alabama	Oklahoma
+2CF1971	College Sports	1	At which school did 2017 NFL first round draft pick Myles Garrett play college football?	Clemson	Alabama	Florida	Texas A&M
+2CF1966	College Sports	1	What college did the 2012 Heisman trophy winner attend?	Florida University	Syracuse University	Florida State University	Texas A +M University
+470444	College Sports	1	In college football, what is the technical name for an offense that is punishable by a penalty?	Oops	Fumble	Huddle	Foul
+2CF2071	College Sports	1	In which of these NCAA conferences does the University of Akron play?	Big 12	ACC	Pac-12	MAC
+2CF2211	College Sports	1	What team did Urban Meyer coach to victory in week 2 of the 2012 season?	Florida University	Utah	Alabama	Ohio State
+2CF2221	College Sports	1	Which NCAA conference does the Ohio University belong to?	Big 12	ACC	Pac-12	MAC
+499975	College Sports	1	Which ESPN documentary sparked outrage in the NCAA basketball community in 2011?	The Foul Five	The Fierce Five	The Free Five	The Fab Five
+2CF2226	College Sports	1	Which NCAA conference does Oregon State University belong to?	Big 12	Sun Belt	MAC	Pac-12
+288903	College Sports	1	When does the time clock in a College basketball game start to include tenths of a second?	Less Then 30 Seconds	Less Then 2 Minutes	Last 10 Seconds	Less Then 1 Minute
+2CF2181	College Sports	1	In which of these NCAA conferences does the University of Oregon play?	Big 12	Sun Belt	SEC	Pac-12
+488586	College Sports	1	Which NCAA conference does the University of South Carolina belong to?	ACC	Big Ten	Big 12	SEC
+2CF2041	College Sports	1	The Clemson Tigers are based in which American state?	Colorado	Virginia	New York State	South Carolina
+525325	College Sports	1	When an official holds the football in the air above his head, what is he signaling?	Delay Of Game	Illegal Shift	Illegal Kicking	End Of Period
+504467	College Sports	1	What is the name of Maryland's football team?	Cavaliers	Golden Knights	Broncos	Terrapins
+500171	College Sports	1	In 2012 what award was won for the first time ever by a freshman?	The Doak Award	The Maxwell Award	The Butkus Award	The Heisman Trophy
+470440	College Sports	1	Butler men's basketball coach Brad Stevens left to coach which NBA team?	Los Angeles Lakers	Golden State Warriors	New York Knicks	Boston Celtics
+2CF2131	College Sports	1	Which NCAA conference does Duke belong to?	MWC	Big Ten	Big 12	ACC
+1C60009	College Sports	1	What is the Johnny Unitas Golden Arm Award given for in college football?	Division I-AA Player Who Has Overcome Adversity	Best Division II Player	Nation's Best Wide Receiver	Best Senior Quarterback
+2CF1976	College Sports	1	What was 2012 Heisman Trophy winner Johnny Manziel's nickname?	Mr. Football	Kid Dynamite	The Touchdown Kid	Johnny Football
+522426	College Sports	1	Mike Krzyzewski, who coaches what college team, is head coach for Team USA in 2008?	Xavier University	Notre Dame University	Rutgers University	Duke University
+392339	College Sports	1	The description, "most famous of the post-season college football games held here", best describes?	The Mark Twain House	The Great Wall	The U.S.S. Arizona Memorial	The Rose Bowl
+8E01932	College Sports	1	How many feet from backboard is the foul line in NCAA basketball?	50 Feet	3 Feet	99.5 Feet	15 Feet
+504468	College Sports	1	In college football, whose job is it to cover offensive receivers defensively?	Quarterback	Fullback	Running back	Cornerback
+374845	College Sports	1	Which UCLA coach won 10 NCAA men's basketball championships?	Adolph Rupp	Bob Knight	Denny Crum	John Wooden
+0DIFSP91	College Sports	1	The Heisman trophy is awarded to exceptional players of which college sport?	Water Polo	Tennis	Volleyball	Football
+470356	College Sports	1	What penalty is a team given if they take more than 25 seconds to start a play?	10 Yard Penalty	Turnover	They Lose The Game	5 Yard Penalty
+522915	College Sports	1	What is the name for the area of the football field that is behind the line of scrimmage?	Frontfield	Forefield	Blitz	Backfield
+2CF1941	College Sports	1	In which of these NCAA conferences does the University of Missouri play?	Sun Belt	Big Ten	Big 12	SEC
+2CF2031	College Sports	1	Who was Most Outstanding Player of the NCAA Atlanta Regional and led Duke to the Final Four?	Yao Ming	Josh Childress	Eddy Curry	Luol Deng
+2CF1900	College Sports	1	Which legendary college basketball coach died in 2010?	Jim Boeheim	Bruce Pearl	Phil Martelli	John Wooden
+2CF1981	College Sports	1	Who won the 2017 PAC-12 championship?	Oregon	Arizona	UCLA	USC
+504474	College Sports	1	What is Purdue's football team's name?	Golden Bears	Crimson Tide	Falcons	Boilermakers
+8E01958	College Sports	1	Which of these NBA stars played ball at Duke?	Giannis Antetokounmpo	Floyd Mayweather	Rory McIlroy	Brandon Ingram
+1C60147	College Sports	1	What is the Walter Payton Award given for in college football?	Nation's Best Collegiate Linebacker	Nation's Outstanding Tight End	I-AA Coach Of The Year	Best Division I-AA Player
+2CF1931	College Sports	1	In which of these NCAA conferences does the University of Miami play?	MWC	Big Ten	Big 12	ACC
+522359	College Sports	1	Which college won the Fiesta Bowl in 2019?	Syracuse	Arizona	UCLA	Clemson
+522841	College Sports	1	Which head coach led Alabama to a 2011 National Championship?	Jim McElwain	Kirby Smart	Roger Hightower	Nick Saban
+500310	College Sports	1	What circle was introduced into the college basketball rulebook for the 2011-12 season?	Jump circle	Travel circle	Passing circle	Charge circle
+472645	College Sports	1	Which college basketball team coached by Mike Krzyzewski won March Madness 2010?	Texas	Syracuse	UCLA	Duke
+2CF1946	College Sports	1	Which NCAA conference does Bowling Green State University belong to?	C-USA	Big Ten	Pac-12	MAC
+522226	College Sports	1	Which NCAA conference does Texas A&M University belong to?	C-USA	Big Ten	Big 12	SEC
+255798	College Sports	1	Which NCAA conference does Stanford University belong to?	Big 12	Sun Belt	ACC	Pac-12
+521328	College Sports	1	Who won the 2019 Division I College World Series?	Wichita State 	Alabama	Michigan	Vanderbilt
+2CF2166	College Sports	1	In which of these NCAA conferences does the University of Georgia play?	Big 12	MAC	Pac-12	SEC
+525331	College Sports	1	What must mark the inside corners of the sidelines on a college football field?	Light Posts	Garbage Bins	Mascots	Pylons
+500128	College Sports	1	In college football, how tall are the goal posts?	10 Feet	90 Feet	100 Feet	30 Feet
+2CF2241	College Sports	1	Where did 2017 NFL first round draft pick Mitchell Trubisky play his college football?	Temple	Utah	Notre Dame	North Carolina
+2CF2011	College Sports	1	Which NCAA conference does Boston College belong to?	C-USA	Big Ten	Pac-12	ACC
+1C60216	College Sports	1	Which player on the 1992 U.S. Olympic men's basketball team came straight from college?	Glenn Robinson	Chris Webber	David Robinson	Christian Laettner
+470493	College Sports	1	What is the name of Georgia Tech's football team?	Wildcats	Bearcats	Nittany Lions	Yellow Jackets
+0DIFSP99	College Sports	1	Which of these college sports involves decending a snowy slope on two long planks?	Basketball	Fencing	Water Polo	Skiing
+504494	College Sports	1	Florida head coach Urban Meyer retired before the start of the 2011 season, citing what reason?	A Promise to his Wife	A Scandal	To Avoid Being Fired	Health Reasons
+2CF2171	College Sports	1	Which NCAA conference does the University of Colorado Boulder belong to?	Big 12	Sun Belt	SEC	Pac-12
+2CF1926	College Sports	1	Who do the faithful student football fans at Georgia root for?	Blue Devils	Vandals	Cornhuskers	Bulldogs
+522838	College Sports	1	What team went undefeated in 2012 but was banned from post season play?	Oregon	Oklahoma	Texas A&M	Ohio State
+522839	College Sports	1	Which term describes the action of arm-tackling an opponent around the neck?	Gaps	Slot Receiver	Tight Ends	Horse Collaring
+525322	College Sports	1	Which college did NBA star Stephen Curry attend?	Fordham	George Mason	Saint Louis	Davidson
+2CF1961	College Sports	1	Where did 2017 NFL first round draft pick Jamal Adams play his college football?	Alabama	Virginia Tech	Texas A&M	LSU
+2CF2121	College Sports	1	Which of these players went to North Carolina State?	Saquon Barkley	Minkah Fitzpatrick	Baker Mayfield	Bradley Chubb
+470445	College Sports	2	Which men's basketball player led the NCAA Division 1 in scoring for the 2018-19 season?	Jameel Warney	Ja Morant	Doug McDermott	Chris Clemons
+259435	College Sports	2	Which men's college basketball team finished the 2013-14 regular season with a perfect record?	Wofford	Tulsa	Western Michigan	Wichita State
+487422	College Sports	2	In 2011, Kevin Sumlin coached what school to a 12 and 0 start?	Michigan State	Texas A&M	Purdue	University of Houston
+N49102	College Sports	2	Which team took home the 2014 NCAA women's basketball championship?	Idaho	Nebraska	Montana	Connecticut
+374877	College Sports	2	Going into the 2014-15 season which school's NCAA men's basketball Championship Game record was 11-1?	Georgetown	Ohio State	Kansas	UCLA
+500246	College Sports	2	What is the John Gagliardi Trophy given for in college football?	Nation's Top Assistant Coach	Nation's Best Quarterback	Nation's Best Defensive Player	Best Division III Player
+504492	College Sports	2	Who won the 2017 Division I College World Series?	Ohio State	Mississippi	Wyoming	Florida 
+499996	College Sports	2	Which college did quarterback Doug Flutie attend?	Penn State	Harvard	Miami	Boston College
+500057	College Sports	2	What famous head coach was involved in the infamous 2004 Clemson/South Carolina brawl?	Nick Saban	Urban Meyer	Joe Paterno	Lou Holtz
+504481	College Sports	2	Who won the Maxwell Award for the 2017 NCAA Football season?	Matt Gay	Saquon Barkley	Bryce Love	Baker Mayfield
+522840	College Sports	2	At what college did Leonard Fournette play football?	University of Miami	Florida State	Penn State	LSU
+500132	College Sports	2	Bully the Bulldog is the mascot of which college basketball team?	Alabama	Arkansas	Florida	Mississippi State
+2CF2161	College Sports	2	Who won the 2017 SEC championship?	Florida	LSU	Auburn	Georgia
+2CF1911	College Sports	2	Which won the 2013 NCAA Men's Division I Basketball Tournament?	Oregon	UNLV	California	Louisville
+504471	College Sports	2	Hooter the Owl is the mascot of what college basketball team based in Philadelphia?	Stanford	Syracuse	Louisville	Temple
+522924	College Sports	2	Who was named Coach of the Year for 2017 NCAA Football season?	Jimbo Fisher	Joey Jones	Mike Sanford	Scott Frost
+259436	College Sports	2	What position did Georgetown's winner of Most Outstanding Player in the 1984 Final Four play?	Point Guard	Forward	Shooting Guard	Center
+2CF2141	College Sports	2	Where is the 2018 Chick-Fil-A Kickoff Game played?	Minnesota	Washington	Florida	Georgia
+288420	College Sports	2	Who won the 2018 Division I College World Series?	Wichita State 	Texas Tech	Santa Clara	Oregon State
+12438	College Sports	2	Who won the Davey O'Brien Award for the 2017 NCAA Football season?	Bradley Chubb	Wilton Speight	Brandon Peters	Baker Mayfield
+499970	College Sports	2	Ohio State's Santonio Holmes went to whom in the 2006 NFL Draft seven picks after Bobby Carpenter?	Philadelphia Eagles	New York Jets	Detroit Lions	Pittsburgh Steelers
+525320	College Sports	2	In what city did the 2013 BCS National Championship game take place?	Orlando	Austin	NYC	Miami
+259479	College Sports	2	Which Chicago Blackhawks star played college hockey in North Dakota?	Erik Cole	Ben Street	Josh Jooris	Jonathan Toews
+504470	College Sports	2	Which Duke freshman won the Wayman Tisdale Award for the 2013-14 basketball season?	Aaron Craft	Patric Young	Shabazz Napier	Jabari Parker
+504482	College Sports	2	How many players must be on the offensive line of scrimmage at the snap in college football?	1	19	11	7
+259428	College Sports	2	Back-to-back 2004 NFL Draft first-round picks Kellen Winslow Jr. and Sean Taylor played for whom?	Florida	USC	Virginia	University Of Miami
+391867	College Sports	2	Which Big Ten school made it the furthest in the 2009 NCAA March Madness Tournament?	Wisconsin	Purdue	Michigan	Michigan State
+89411	College Sports	2	42 NCAA schools attended a practice of which high school junior in 2011?	Oliver Purnell	Bill Self	Thad Matta	Jabari Parker
+259401	College Sports	2	Which USC teammate of Carson Palmer was a fellow first-round draft pick in 2003?	Malaefou MacKenzie	Justin Fargas	Jordan Gross	Troy Polamalu
+525327	College Sports	2	Which major university posted a 47-game winning streak in 2007, longest in college football history?	Alabama	Michigan	Notre Dame	Oklahoma
+12446	College Sports	2	Which Missouri college basketball coach was named AP Coach of the Year in 2012?	Tom Izzo	Bill Self	Mike Brey	Frank Haith
+888L024	College Sports	2	Who did Michigan State defeat to advance to the 2009 NCAA National Championship game?	Villanova	Syracuse	Pittsburgh	Connecticut
+522956	College Sports	2	Which Kentucky basketball player was named a Consensus All-American for 2012?	Isaiah Canaan	Kevin Jones	Marcus Denmon	Anthony Davis
+522351	College Sports	2	Which official is responsible for timing a game of college football?	Referee	Umpire	Back Judge	Side Judge
+259442	College Sports	2	Which college basketball team opened the 2014-15 season 9-0?	North Carolina	Iowa State	San Diego State	Kentucky
+1C60101	College Sports	2	Who won the 2016 Peach Bowl?	Florida State	Duke	Louisville	Alabama
+259405	College Sports	2	After four years at Connecticut, college basketball star Shabazz Napier was drafted by which NBA team?	Milwaukee Bucks	Cleveland Cavaliers	Chicago Bulls	Charlotte Hornets
+522315	College Sports	2	Which head coach of Florida's basketball team won back-to-back National Championships at age 42?	Randy Bennett	Stew Morrill	Mike Brey	Billy Donovan
+618D380	College Sports	2	The 2015 NCAA men's basketball National Championship Game was held in Lucas Oil Stadium in which U.S. state?	Hawaii	Alaska	Wyoming	Indiana
+470345	College Sports	2	In January 2019 where was the College Football Playoff National Championship played?	Dayton, Ohio	Miami, Florida	Oakland, California	Santa Clara, California
+1C60239	College Sports	2	What college did football's Warrick Dunn attend?	Nebraska	Miami	Florida	Florida State
+2CF1996	College Sports	2	Who is BYU's opponent in a yearly game played nicknamed "The Holy War"	Utah State	Air Force	Wyoming	Utah
+500183	College Sports	2	Who won the Walter Camp Award for the 2017 NCAA Football season?	Rashaad Penny	McKenzie Milton	Lamar Jackson	Baker Mayfield
+1C60032	College Sports	2	Which two NFL coaches have won both an NCAA championship and a Super Bowl title?	Marv Levy And Bill Parcells	Dennis Green And Tony Dungy	George Seifert And Mike White	Barry Switzer And Jimmy Johnson
+504466	College Sports	2	What school handed Clemson's first loss of the 2017 season in October?	Alabama	The Citadel	Louisville	Syracuse
+522159	College Sports	2	Who did North Carolina defeat to advance to the 2009 NCAA National Championship game?	Connecticut	Xavier	Louisville	Villanova
+504464	College Sports	2	Which SEC player captured the Heisman Trophy and Walter Camp Award for the 2010 season?	Randall Cobb	DJ Williams	Nick Fairley	Cam Newton
+504463	College Sports	2	At what college did Myles Garrett play football?	Florida State	North Carolina	Michigan State	Texas A&M
+2CF2126	College Sports	2	Who lost the 2016 Peach Bowl?	Auburn	Ohio State	UCF	Washington
+2CF2201	College Sports	2	In which of these NCAA conferences does the Georgia Institute of Technology play?	Big 12	Sun Belt	Pac-12	ACC
+522912	College Sports	2	Who won the Jim Thorpe Award for the 2017 NCAA Football season?	Jonathan Taylor	Michael Dickson	Bryce Love	Minkah Fitzpatrick
+504465	College Sports	2	Who won the Walter Camp Award for Player of the Year in 2013?	Austin Seferian-Jenkins	Aaron Donald	Anthony Barr	Jameis Winston
+522257	College Sports	2	Who lost the 2012 BCS Championship game?	Alabama	Florida State	Oregon	LSU
+618D376	College Sports	2	Who was the second Florida State Seminole to win the Heisman Trophy?	Jamie Dukes	Patrick McNeil	Marvin Jones	Chris Weinke
+522913	College Sports	2	Who won the Outland Trophy for the 2017 NCAA Football season?	Ryan Izzo	Jordon David	Alec Bloom	Ed Oliver
+522863	College Sports	2	Which college's mascot is not the Tigers?	Missouri	Clemson	Auburn	Alabama
+618D386	College Sports	2	For Tom Brady's first 2 years in college who did he play back up to?	Drew Henson	Drew Brees	Tim Tebow	Brian Griese
+618D384	College Sports	2	What college did baseball great Dave Winfield attend?	Baylor University	UCLA	Purdue University	University Of Minnesota
+522158	College Sports	2	Who was the winning coach for the 2013 NCAA Men's Division I Basketball championship?	Bill Self	Tom Izzo	Roy Williams	Rick Pitino
+458536	College Sports	2	Which team won the 2010 NCAA Men's Division I Basketball tournament?	Kansas	Ohio State	West Virginia	Duke
+374633	College Sports	2	Sparky the Sun Devil is the recognizable mascot of which college basketball team?	Michigan	Washington	Idaho State	Arizona State
+180576	College Sports	2	What was the only school out of the Ivy League to play in the 2009 NCAA Tournament?	Harvard	Yale	Brown	Cornell
+374890	College Sports	2	Which school has 8 NCAA men's basketball championships under 5 different coaches?	Michigan State	Louisville	NC State	Kentucky
+522204	College Sports	2	How many times was Duke in the Final Four from 1986 to 1994?	1 Time	2 Times	8 Times	7 Times
+522193	College Sports	2	Who scored on its first three possessions in the 2013 BCS Championship Game?	Notre Dame	Florida State	Oregon	Alabama
+501297	College Sports	2	Which team took home the 2013 NCAA women's basketball championship?	Albany	Baylor	Tulsa	Connecticut
+374609	College Sports	2	Who was the head coach of the 2008 NCAA Champion Kansas Jayhawks?	Roy Williams	Dean Smith	Tom Izzo	Bill Self
+1C60124	College Sports	2	Where did 2017 NFL first round draft pick Christian McCaffrey play his college football?	Alabama	Virginia Tech	Iowa	Stanford
+500118	College Sports	2	Which quarterback won the Davey O'Brien Award for his performance in the 2013 football season?	AJ McCarron	Derek Carr	Shane Carden	Jameis Winston
+392155	College Sports	2	Which team reigned as SEC champion following the 2010 season?	Arkansas	Florida	South Carolina	Auburn
+259396	College Sports	2	Which team won its first NCAA women's basketball championship in 2011?	Tennessee	Stanford	Connecticut	Texas A&M
+522340	College Sports	2	Which college did NBA star Kevin Love attend?	South Dakota	Alabama	Louisiana	UCLA
+888L039	College Sports	2	For what school did Tim Hardaway Jr. play in the NCAA Tournament?	Butler	Florida	Louisville	Michigan
+259484	College Sports	2	Which team upset top-seeded Gonzaga in the 2013 NCAA Men's Division I Basketball Tournament?	Georgetown	New Mexico	Kansas State	Wichita State
+2CF1936	College Sports	2	Who is the Florida State quarterback who missed most of the 2017 football season?	James Blackman	Jameis Winston	Nick Sproles	Deondre Francois
+391932	College Sports	2	Which school played in back-to-back NCAA Division I Men's Basketball Tournament finals in 2010 and 2011?	UCLA	Pittsburgh	Drexel	Butler
+2CF1951	College Sports	2	At which school did 2017 NFL first round draft pick Solomon Thomas play college football?	Tennessee	Florida State	Western Kentucky	Stanford
+618D378	College Sports	2	What is the Fred Biletnikoff Award given for in college football?	Nation's Best Collegiate Placekicker	Nation's Best Running Back	Nation's Outstanding Punter	Nation's Best Wide Receiver
+522316	College Sports	2	Who won the BCS Championship game played in 2013?	Georgia	Oregon	USC	Alabama
+522225	College Sports	2	In which state is Yale University located?	New York	Massachusetts	New Hampshire	Connecticut
+500127	College Sports	2	Who was the leading rusher for the 2013 Auburn Tigers?	Corey Grant	Nick Marshall	T.J. Yeldon	Tre Mason
+504491	College Sports	2	What college did Dwight Howard attend?	UCLA	USC	Yale	None
+522271	College Sports	2	What award did Roquan Smith win for the 2017 NCAA season?	Disney Spirit Award	Larry O'Brien Trophy	Outland Trophy	Butkus Award
+2CF2056	College Sports	2	Where was the 2013 Discover BCS National Championship Game played?	Seattle	Chicago	New York City	Miami
+2CF2206	College Sports	2	What school does Brett Rypien play his college ball for?	Louisville	Syracuse	UCLA	Boise State
+525330	College Sports	2	What is the distance from the end line to the half court line in college basketball?	12 Feet	41 Feet	72 Feet	47 Feet
+374691	College Sports	2	For the 2013-14 basketball season, which college's mascot was a deranged-looking tree?	Syracuse	Buffalo	Manhattan	Stanford
+2CF2016	College Sports	2	Shea Patterson transferred to Michigan from what school?	Boise State	USF	Louisville	Ole Miss
+456406	College Sports	2	Which of the following SEC teams won their bowl game in 2010?	South Carolina	Arkansas	Kentucky	Alabama
+259429	College Sports	2	Which college did NBA star Kevin Durant attend?	North Carolina	Baylor	Xavier	Texas
+500150	College Sports	2	What coach won his 2nd straight national title in 2012?	Urban Meyer	Mack Brown	Lane Kiffin	Nick Saban
+488579	College Sports	2	Which college did Steve Young play for?	Penn State	University of Miami	Iowa	BYU
+8267	College Sports	2	Which team took home the 2010 NCAA women's basketball championship?	Bowling Green	James Madison	Southern	Connecticut
+504478	College Sports	2	Which college was attended by both Bo Jackson and Charles Barkley?	University Of Georgia	University Of Alabama	Mississippi State University	Auburn University
+52S2187	College Sports	2	Which 3 seed was upset by Harvard during the 2013 NCAA men's basketball tournament?	Wisconsin	Oklahoma State	Saint Louis	New Mexico
+522278	College Sports	2	What is the basketball team's nickname at the university of Memphis?	Owls	Grizzlies	Eagles	Tigers
+N49182	College Sports	2	What city has been chosen to host the 2015 Final Four?	Detroit	Reno	Tallahassee	Indianapolis
+522177	College Sports	2	Who was the first #1 seed to be defeated in the 2010 Men's NCAA Basketball Tournament?	Duke	Kentucky	Syracuse	Kansas
+392140	College Sports	2	The Billiken is the unusual mascot of what college basketball team?	Syracuse	UCLA	Duke	Saint Louis
+259432	College Sports	2	Which college basketball player was named MVP of March Madness 2014?	Aaron Gordon	Traevon Jackson	Xavier Thames	Shabazz Napier
+2CF2116	College Sports	2	In which of these NCAA conferences does SUNY at Buffalo play?	C-USA	Big Ten	Pac-12	MAC
+1C60193	College Sports	2	Which Florida State quarterback was the school's first Heisman Trophy winner?	Casey Weldon	Chris Weinke	Samari Rolle	Charlie Ward
+2CF2136	College Sports	2	Who lost the lost 2017 CFP National Championship game?	Florida State	Auburn	Ohio State	Alabama
+488726	College Sports	2	Who was voted 2012 SEC Defensive Player of the Year?	David Santos	Warren Sapp	Toby Jackson	Jadeveon Clowney
+2CF2196	College Sports	2	What position did Billy Price play for in 2017 at Ohio State?	Tight End	Wide Receiver	Quarterback	Center
+472594	College Sports	2	Who coached Villanova in the 2009 NCAA March Madness Tournament?	Tom Izzo	Bob Huggins	Jim Wright	Jay Wright
+504476	College Sports	2	Who did Florida State defeat 45-7 in the ACC Title Game in 2013?	University Of Miami	Clemson	Wake Forest	Duke
+2CF1921	College Sports	2	What is the most common nickname for Boise State's infamous blue turf?	Blue Thunder	Lake Boise	Hometown Blue	Smurf Turf
+500033	College Sports	3	In 2012 what team led the SEC in total offense?	Florida	Alabama	Arkansas	Texas A&M
+504457	College Sports	3	What number uniform did the 2013 Heisman trophy winner wear for Florida State?	Number 16	Number 10	Number 33	Number 5
+522248	College Sports	3	Where was the College Football Hall of Fame located until 2012?	Cooperstown, New York	Toronto, Ontario	New York, New York	South Bend, Indiana
+470495	College Sports	3	Which university won the NCAA Division I Men's Golf Championship in 2012?	Illinois	Oklahoma	Alabama	Texas
+2CF1906	College Sports	3	What school's player set a record by scoring 61 points in a game in 1970?	LSU	UCLA	Duke	Notre Dame
+405810	College Sports	3	What college was first to have a letterman's club?	Hunter College	Penn	Harvard	University Of Chicago
+472637	College Sports	3	Who is the 2017 Conference USA Offensive Player of the Year?	Baker Mayfield	Malik Rosier	Ryan Finley	Mason Fine
+472629	College Sports	3	What college football program was the first to be given the "Death Penalty"?	Baylor	Alabama	Texas A&M	Southern Methodist
+200155	College Sports	3	How many points did Kansas defeat Memphis by in the 2008 NCAA National Championship game?	3	1	9	7
+353360	College Sports	3	What college started the Homecoming tradition?	University Of Illinois	Harvard	Yale	University Of Missouri
+470441	College Sports	3	Which college star did the Cowboys pick in the first round of the 2018 NFL Draft?	Uchenna Nwosu	Martinas Rankin	Will Richardson	Leighton Vander Esch
+259395	College Sports	3	What city hosted the 2014 Final Four?	Buffalo	Orlando	Las Vegas	Arlington
+199944	College Sports	3	Who many games with more than 300 passing yards did Justice Hansen have in 2017?	One	Ten	Zero	Six
+522973	College Sports	3	How many teams received at-large bids to the 2010 NCAA tournament?	28	24	38	34
+522164	College Sports	3	Which basketball player became the NCAA's all-time leader in three-pointers made in 2014?	Keydren Clark	Jason Brickman	Frank Kaminsky	Travis Bader
+28216	College Sports	3	Which college is nicknamed Blazers?	Bowling Green	Texas Christian	Florida State	University Of Alabama At Birmingham
+472650	College Sports	3	Who was a Big East Defensive Player of the Year and an NCAA champion?	Trey Burke	Thomas Robinson	Doron Lamb	Gorgui Dieng
+617270	College Sports	3	Unlike the NBA, NCAA basketball consists of about how many teams?	100	300	400	200
+498742	College Sports	3	What school does Trevor Lawrence play quarterback for?	Michigan	Ohio State	Georgia Tech	Clemson
+286246	College Sports	3	What coach led Arkansas to the 2012 Cotton Bowl before being fired during the off-season?	Frank Broyles	John L. Smith	Nolan Richardson	Bobby Petrino
+259444	College Sports	3	Which school's college basketball team made its first March Madness appearance in 2012?	Xavier	Massachusetts	Memphis	Norfolk State
+214198	College Sports	3	What college did Jason Giambi play baseball for?	Cal	San Diego State	UCLA	Long Beach State
+470347	College Sports	3	NBA superstar Dwyane Wade attended which college?	UCLA	Florida State	Duke University	Marquette University
+888L009	College Sports	3	What year was Syracuse's winner of Most Outstanding Player in the 2003 Final Four in?	Senior	Junior	Sophmore	Freshman
+522834	College Sports	3	The bearded Mountaineer is the mascot of which college basketball team?	New Mexico	Kansas	Washington	West Virginia
+84723	College Sports	3	According to the NCAA, what percentage of male college students bet on sports?	25%	50%	10%	35%
+56214	College Sports	3	What was Florida State ranked in the BCS Standings during the 2013 preseason?	Seventh	Unranked	Third	Eleventh
+500106	College Sports	3	Which school lost the 2015 Sugar Bowl	Washington	Clemson	Georgia Tech	Alabama
+500196	College Sports	3	For 2013 who filled the Oregon head coaching vacancy?	Thomas Bellotti	Lane Kiffin	Mike Leach	Mark Helfrich
+522328	College Sports	3	Who was the leading rusher for the 2013 Oregon Ducks?	Thomas Tyner	Lane Roseberry	Marcus Mariota	Byron Marshall
+522864	College Sports	3	Who came in second in the 2013 Heisman Trophy voting?	Jordan Lynch	Andre Williams	Johnny Manziel	AJ McCarron
+1746	College Sports	3	What college did Tom Landry play for?	Rice	TCU	Texas A&M	Texas
+534375	College Sports	3	In honor of which player did the Florida Gators retire jersey #11?	Emmitt Smith	Tim Tebow	Jack Youngblood	Steve Spurrier
+522858	College Sports	3	Which college star did the Oakland Raiders pick in the first round of the 2018 NFL Draft?	Dante Pettis	Mason Rudolph	Avonte Maddox	Kolton Miller
+500039	College Sports	3	What is the Eddie Robinson Award given for in college football?	Nation's Outstanding Punter	Best I-AA Defensive Player	Nation's Outstanding Tight End	I-AA Coach Of The Year
+500040	College Sports	3	Doak Walker Award for the 2018 season was given to which running back?	Dayton Furuta	Tony Jones, Jr	Bryce Love	Jonathan Taylor
+522160	College Sports	3	Who was the head coach on the losing end of the 2010 NCAA Basketball final?	Thad Matta	Bill Self	John Beilein	Brad Stevens
+29893	College Sports	3	How many schools played in their first NCAA Tournament in 2008?	3	2	1	4
+472609	College Sports	3	NHL player Dominic Moore played college hockey at which Ivy League university?	Yale	Brown	Dartmouth	Harvard
+522202	College Sports	3	Who won the Bednarik Award for the 2017 NCAA Football season?	Ryan Izzo	Bradley Chubb	Jonathan Allen	Minkah Fitzpatrick
+326807	College Sports	3	Who is the first basketball player to lead both the NBA and NCAA in scoring?	Elgin Baylor	Wilt Chamberlain	George Gervin	Pete Maravich
+488712	College Sports	3	Which quarterback was drafted out of Stanford in 2007 two picks ahead of teammate Michael Okwo?	Brady Quinn	Randy Fasani	Isaiah Stanback	Trent Edwards
+200706	College Sports	3	Which hockey arena hosted the West Regional finals of March Madness 2014?	FedEx Forum	Lucas Oil Stadium	PNC Arena	Honda Center
+500100	College Sports	3	Which team was runner-up for the 2014 NCAA women's basketball championship?	Stanford	Maryland	South Dakota	Notre Dame
+522166	College Sports	3	Which Ohio State basketball player was named a Consensus All-American for 2010?	Ben Jobe	Skip Prosser	Lute Olson	Evan Turner
+287841	College Sports	3	Which college football team had "The Seven Rocks"?	Notre Dame	Princeton	California	Penn State
+522254	College Sports	3	What city hosted the 2012 Final Four?	Houston	Miami	New York City	New Orleans
+522358	College Sports	3	What city hosted the 2013 Final Four?	Dayton	Pittsburgh	Dover	Atlanta
+504462	College Sports	3	Which university's band played the "Hokie Pokie" during football game timeouts?	Purdue	Texas A&M	Oklahoma	Virginia Tech
+522199	College Sports	3	For what school did Thomas Robinson play in the NCAA Tournament?	Duke	North Carolina	Butler	Kansas
+N49262	College Sports	3	Going into the 2014-15 season, who was the longest-tenured NCAA division I men's basketball coach?	Jeff Lebo	Tracy Dildy	Tim Cluess	Jim Boeheim
+N49222	College Sports	3	For what school did Luke Hancock play in the NCAA Tournament?	Michigan	Kentucky	Duke	Louisville
+522381	College Sports	3	How many points did Luke Hancock score in the 2013 NCAA Championship game?	34 Points	11 Points	41 Points	22 Points
+2CF2021	College Sports	3	The championship game of the 2013-14 NCAA Division I men's basketball season was played in which state?	New York	California	Ohio	Texas
+45756	College Sports	3	NBA superstar Chris Paul played two years of college basketball at which university?	Duke University	University Of Louisville	Syracuse University	Wake Forest University
+522191	College Sports	3	Who was the winning coach for the 2012 NCAA Men's Division I Basketball championship?	Billy Donovan	Jim Calhoun	Tom Izzo	John Calipari
+522246	College Sports	3	Which #2 seed advanced to the Final Four in the 2009 NCAA Basketball Tournament?	Oklahoma	Memphis	Duke	Michigan State
+522437	College Sports	3	Who won the NCAA National Championship in wrestling in 1998 in the 177lbs. weigh class?	Chris Miller	Andy Smith	Chris Phillips	Mitch Clark
+470494	College Sports	3	Which elite college basketball program was ruled academically ineligible for the 2012-13 postseason?	Kentucky	UCLA	Kansas	Connecticut
+418810	College Sports	3	Which college had sports teams nicknamed the Bearkats?	Brown University	Nicholls State University	Northwestern University	Sam Houston State University
+451744	College Sports	3	What school team led the nation in points per game average for the 2013 NCAA Division I-A?	Florida State	Ohio State	Marshall	Baylor
+472634	College Sports	3	Which college did NBA star Rajon Rondo attend?	Kansas	North Carolina	Florida	Kentucky
+40167	College Sports	3	Which quarterback from Navy won the Heisman Trophy in 1963?	Archie Manning	Bert Jones	Jim Plunkett	Roger Staubach
+201249	College Sports	3	What quarterback from Boston College won the Heisman Trophy in 1984?	Tony Dorsett	Earl Campbell	Steve Owens	Doug Flutie
+214758	College Sports	3	Who won the 2019 New Mexico Bowl?	Nevada	Akron	Central Michigan	San Diego State
+470448	College Sports	3	Which Old Dominion player was named top defensive player of the 2010-11 NCAA men's basketball season?	Matt Howard	Rick Byrd	Charles Jenkins	Kent Bazemore
+472635	College Sports	3	In 2012, Rick Stansbury ended his long stint as head coach of which college basketball team?	North Carolina	Illinois	Arizona State	Mississippi State
+449025	College Sports	3	NFL Hall of Fame player Chuck Noll played at which college?	John Carroll	Grambling	Texas Christian	Dayton
+504488	College Sports	3	Who was the only college junior to be named a Consensus First Team All-American for basketball in 2011?	Isaiah Canaan	Doug McDermott	Kevin Jones	Thomas Robinson
+499991	College Sports	3	Who won the Lou Groza Award for the 2017 NCAA Football season?	James Stefanou	Dominik Eberle	Daniel Carlson	Matt Gay
+214197	College Sports	3	NHL star Brooks Orpik is a graduate of which college?	Michigan	Ohio State	RIT	Boston College
+522192	College Sports	3	What two teams are in the January 2, 2014 Sugar Bowl?	Oklahoma And Michigan	Virginia Tec And Michigan State	Ohio Stat and Arkansas	Oklahoma And Alabama
+1776	College Sports	3	Who won the Dick Howser Trophy for the national college baseball player of 2019?	Mitchell Berryhill	Dominic D'Alessandro	Kevin Milam	Adley Rutschman
+58086	College Sports	3	Which team was runner-up in the 2010 NCAA Tournament?	Syracuse	Memphis	Villanova	Butler
+2CF2006	College Sports	3	What team got blown out in the 2012 Hawaii Bowl?	SMU	Ball State	Miami Of Ohio	Fresno State
+232500	College Sports	3	How many #1 seeds advanced to the 2010 NCAA Final Four?	0	2	3	1
+504493	College Sports	3	Which of these College football teams were ranked highest in the 2013 BCS Standings?	Oklahoma State	Wisconsin	Texas A&M	Stanford
+N49062	College Sports	3	Which quarterback teammate of Reggie Bush was selected eight picks after him in the 2006 NFL Draft?	Matt Stafford	Mark Sanchez	Jay Cutler	Matt Leinart
+12447	College Sports	3	Which college did Chris Spielman play for?	University of Miami	North Carolina	Nebraska	Ohio State
+201259	College Sports	3	Who captained Boston College to the 2007 NCAA championship game and joined the L.A. Kings in 2008?	John Zeiler	Wayne Simmonds	Brad Richardson	Brian Boyle
+339300	College Sports	3	What quarterback from Notre Dame won the Heisman Trophy in 1956?	Steve Owens	Charles Woodson	Ernie Davis	Paul Hornung
+500028	College Sports	3	The Rebel Black Bear is the mascot of what college basketball team?	Tennessee	Kentucky	North Carolina	Ole Miss
+500195	College Sports	3	For 2013 who filled the Purdue head coaching vacancy?	Steve Sarkisian	David Shaw	Todd Graham	Darell Hazell
+45499	College Sports	3	Mark Cullen, signed by Vancouver in 2008, played college hockey with which school?	University Of Denver	Ohio State University	University Of North Dakota	Colorado College
+522832	College Sports	3	In 2012 what QB who played with a busted wrist still won his conference title game?	C.J. Brown	David Ash	EJ Manuel	Teddy Bridgewater
+472627	College Sports	3	What college did quarterback David Fales play for in 2012 and 2013?	Washington State Cougars	Marshall Thundering Herd	Oregon State Beavers	San Jose State Spartans
+272315	College Sports	3	What is the name of the traditional opening game of the Florida Gator football season?	Gator Bowl	Day One	Gator Day	Orange And Blue Debut
+470344	College Sports	3	Through 2006, which college football team had the most wins against any opponent?	University Of Oklahoma	University Of Southern California	University Of Tennessee	Ohio State University
+525289	College Sports	3	What college football team did the pro wrestler known as "The Rock" play for?	Michigan Wolverines	Florida State Seminoles	Ohio State Buckeyes	Miami Hurricanes
+500030	College Sports	3	Who plays some home games at Carnesecca Arena?	Temple	Marquette	Syracuse	St Johns
+504490	College Sports	3	What school defeated the Ohio State football team for their first loss in 2013?	Penn State	Wisconsin	Clemson	Michigan State
+88734	College Sports	3	How old was Bill Battle when he took over as head coach for the Tennesssee Volunteers?	33 Years Old	18 Years Old	25 Years Old	28 Years Old
+525319	College Sports	3	Which college star did the Buffalo Bills pick in the first round of the 2018 NFL Draft?	Josh Jackson	Sam Hubbard	Ito Smith	Tremaine Edmunds
+410791	College Sports	3	For what school did Tyshawn Taylor play in the NCAA Championship?	Duke	Florida	Michigan	Kansas
+522163	College Sports	3	Who was the winning coach for the 2014 NCAA Men's Division I Basketball championship?	John Calipari	John Beilein	Bill Self	Kevin Ollie
+521268	College Sports	3	What PAC 12 QB's shoulder injury kept him out of the final 2 games of the 2012 season?	Bryan Bennett	Brett Hundley	Keith Price	Matt Barkley
+470349	College Sports	3	Where did Phil Kessel play college hockey before joining the Boston Bruins in 2006?	University Of Wisconsin	Boston University	University Of Maine	University Of Minnesota
+525323	College Sports	3	Who played #4 for the 2005 national football champions, the Texas Longhorns?	Vince Young	Aaron Harris	Michael Huff	Limas Sweed
+522224	College Sports	3	Former Gonzaga basketball player Przemek Karnowski was born in which European country?	Croatia	Czech Republic	Lithuania	Poland
+424452	College Sports	3	Who was fired to make way for the new head coach of the 2012 Kansas Jayhawks?	George Sauer	Bud Moore	mark Stoops	Mark Mangino
+406730	College Sports	3	What team defeated the Florida Gators the 2013 Sugar Bowl?	Florida State	Clemson	North Carolina	Louisville
+259404	College Sports	3	In college football, who is responsible for line play on both sides of the neutral zone?	The Referee	Linesman	Line Judge	The Umpire
+82432	College Sports	3	Which college basketball team is known as the Golden Hurricane?	Temple	South Florida	Central Florida	Tulsa
+470442	College Sports	3	Where did the 2010 NCAA Final Four take place?	Dallas, TX	Houston, TX	Salt Lake City, UT	Indianapolis, IN
+215470	College Sports	3	Who set the single game rebounding record of 55 for college basketball?	Dennis Rodman	Wilt Chamberlain	Bill Walton	Bill Chambers
+525324	College Sports	3	What is the only private college in the Big Ten Conference?	Purdue	Illinois	Iowa	Northwestern
+504460	College Sports	3	Who is the only wrestler to complete his college career undefeated with four national titles?	John Smith	Hulk Hogan	Dan Gable	Cael Sanderson
+391674	College Sports	3	Who hired disgraced coach Bobby Petrino in 2012?	Oregon State	Middle Tennessee	South Alabama	Western Kentucky
+522262	College Sports	3	What school went undefeated in he 2017 American Athletic Conference?	South Florida	Temple	Cincinnati	UCF
+470497	College Sports	3	Who finished with 428 yards passing on New Years Day 2013?	A.J. McCarron	Tommy Rees	Chad Pennington	Aaron Murray
+45755	College Sports	3	Which college marching band is known as "the Legend"?	Memphis State University	University Of Nebraska	Bethune-Cookman	Indiana University, PA
+259493	College Sports	3	NBA star Al Horford won back-to-back NCAA national championships at which school?	Montana	Georgia Tech	Mississippi	Florida
+52636	College Sports	3	Who finished 6th overall in the 2012 Heisman Trophy voting?	Travian Robertson	Joe Namath	Aaron Murray	Jadeveon Clowney
+472626	College Sports	3	At what school did 2017's Dick Howser Trophy winner Brendan McKay play baseball?	Stanford	Auburn	Ole Miss	Oregon State
+288114	College Sports	3	What college won the first NCAA title in baseball?	Yale	Minnesota	Harvard	California
+392237	College Sports	3	What Michigan university has won 2 NCAA men's basketball championships as of 2016?	Michigan	Eastern Michigan	Western Michigan	Michigan State
+2CF2001	College Sports	3	Who scored the first 7 points in the 2013 NCAA Basketball Championship Game?	Gorgui Dieng	Luke Hancock	Mitch McGary	Trey Burke
+522857	College Sports	3	What is the Jim Thorpe Award given for in college football?	Nation's Outstanding Tight End	Best Senior Quarterback	Nation's Top Assistant Coach	Nation's Best Defensive Back
+500029	College Sports	3	What QB took Northern Illinois to a BCS bowl in the 2012 season?	Rakeem Cato	Cody Green	Alex Gillett	Jordan Lynch
+259415	College Sports	3	Which men's college basketball team was ranked #1 by the AP at the start of the 2014-15 season?	Milwaukee	San Jose State	Florida A&M	Kentucky
+500001	College Sports	3	At what college did the "7th inning stretch" originate?	Fordham University	University Of New York	Bowdoin College	Manhattan College
+422026	College Sports	3	In 2013 who opened camp as Notre Dame's starter?	Andrew Hendrix	Malik Zaire	Rees Andrew	Tommy Rees
+522213	College Sports	3	At what school did 2019's Dick Howser Trophy winner Adley Rutschman play baseball?	Clemson	Wyoming	Auburn	Louisville
+99105	College Sports	3	Which college had more all-time football wins through the 2006 season?	University of Miami (Florida)	University of Florida	Central Michigan University	Miami University (Ohio)
+470446	College Sports	3	The Windermere Cup is a tournament for which college sport?	Lacrosse	Hockey	Field Hockey	Crew/Rowing
+451831	College Sports	3	What Southwest Missouri State Football Bear now plays for the New York Giants?	Shannon Tour	Abe Winters	Jack Little	Jason Whittle
+522865	College Sports	3	Who won the prestigious Outland Trophy for 2013?	Bryan Stork	Shaquil Barrett	Khalil Mack	Aaron Donald
+500119	College Sports	3	Who won the 2016 Division I College World Series?	Florida State	Oregon	Alabama	Coastal Carolina
+374842	College Sports	3	Which school's college men's basketball team won the 2019 NIT?	Washington State	Alabama	Colorado	Texas Longhorns
+201251	College Sports	3	What running back from Georgia won the Heisman Trophy in 1982?	Eddie George	Ty Detmer	John Huarte	Herschel Walker
+472630	College Sports	3	Besides the Seminoles what was the only other ACC Atlantic school with a 2013 winning Conference record?	Syracuse	Wake Forest	North Carolina State	Clemson
+470374	College Sports	3	Which team represented the East region in the 2009 NCAA Final Four?	Pittsburgh	Xavier	Michigan State	Villanova
+259397	College Sports	3	Where did Mike Grier play college hockey before being drafted by the Oilers?	University Of Michigan	University Of North Dakota	University Of Maine	Boston University
+232136	College Sports	3	Where did center Philip Kessel attend college for one year before being drafted by the Boston Bruins?	University Of Wisconsin	Cornell University	Michigan State University	University Of Minnesota
+1773	College Sports	3	On what type of scholarship did pitching greats Bob Gibson and Sandy Koufax attend college on?	Soccer	Track And Field	Academic	Basketball
+500691	College Sports	3	Who was the NCAA Tournament MOP for the year of 1995?	Scotty Thurman	Corliss Williamson	Tyus Edny	Ed O'Bannon
+73141	College Sports	3	What North Carolina politician was on Todd Helton's football team in college?	Senator Arlen Specter	Senator Russ Feingold	Representative Tom Allen	Representative Heath Shuler
+259454	College Sports	3	In 2007, who became Clemson's highest NFL Draft pick in 66 years?	Rod Gardner	Tye Hill	Chansi Stuckey	Gaines Adams
+50615	College Sports	3	What quarterback from Ohio State won the Heisman Trophy in 1944?	Jim Plunkett	Steve Spurrier	Earl Campbell	Les Horvath
+451753	College Sports	3	Which college did NBA star Paul George attend?	Nevada	Colorado State	UNLV	Cal State Fresno
+472628	College Sports	3	Who won the Dick Howser Trophy for the national college baseball player of 2015?	Joe Indiviglio	Logan Forsythe	Eric Lauer	Andrew Benintendi
+406798	College Sports	3	Zippy the Kangaroo is the mascot of which college basketball team?	Coastal Carolina	George Mason	Bucknell	Akron
+470498	College Sports	3	Who is the leading rusher for the 2013 Florida State Seminoles?	James Wilder Jr.	Jameis Winston	Levonte Whitfield	Devonta Freeman
+522161	College Sports	3	In 2012 what QB passed for 2933 yards?	Case Keenum	Taylor Kelly	David Fales	A.J. McCarron
+259403	College Sports	3	Who was generally viewed as the greatest football player for Nebraska of all-time?	Turner Gill	Mike Rozier	Tommie Frasier	Johny Rogers
+327290	College Sports	3	Which team did Nick Saban not serve as an assistant coach for?	Navy	Michigan State	Ohio State	Michigan
+499961	College Sports	3	Which college basketball team won the 2019 Legends Classic?	Syracuse	North Carolina	Maryland	Auburn
+339705	College Sports	3	Which of the following was not a Big East basketball member in the 20th century?	Rutgers	Pittsburgh	West Virginia	Temple
+522269	College Sports	3	How many touchdowns did Jameis Winston throw for during the 2013 season excluding the BCS Championship game?	48 Touchdowns	32 Touchdowns	28 Touchdowns	38 Touchdowns
+522240	College Sports	3	Who won the Dick Howser Trophy for the national college baseball player of 2016?	Tyler Malone	Joe Casey	Kyle Lewis	Seth Beer
+504483	College Sports	3	Which team knocked Duke out of the 2009 NCAA Men's Basketball Tournament?	Texas	Kentucky	Michigan State	Villanova
+522842	College Sports	3	Which college did NBA star Dwyane Wade attend?	Montana	Wisconsin	Penn State	Marquette
+500042	College Sports	3	For 2013 who filled the NC State head coaching vacancy?	Todd Berry	Mike Riley	Brian Polian	Dave Doeren
+522866	College Sports	3	Who is Penn State's 2013 freshman quarterback that threw for 20 touchdowns?	Davis Webb	John O'Korn	Bill Belton	Christian Hackenberg
+423266	College Sports	3	How many consecutive NCAA titles did UCLA win under John Wooden?	5	8	6	7
+534390	College Sports	3	Which Ranger became the first player to win the Hobey Baker Award in college and the Calder Trophy?	Mike Richter	Ron Greschner	Scott Gomez	Chris Drury
+470447	College Sports	3	Jameis Winston became the second straight freshman to win the Heisman, how many points did he earn?	4,205 Points	205 Points	502 Points	2,205 Points
+451778	College Sports	3	Who won the 2015 Division I College World Series?	Stanford	Univ of Miami	Texas Tech	Virginia
+500027	College Sports	3	What college did MLB Hall of Famer Mike Schmidt play for?	Ohio State University	Oklahoma	Oklahoma State	Ohio University
+97958	College Sports	3	In collegiate golf, who won the 2019 NCAA Fred Haskins Award?	Steven Fisk	Viktor Hovland	Norman Xiong	Matthew Wolff
+375326	College Sports	3	Who won the John Mackey Award for the 2017 NCAA Football season?	Ben Johnson	Ryan Izzo	Jake Butt	Mark Andrews
+374744	College Sports	3	What school has had only four basketball coaches in 61 years?	Michigan State	UCLA	Florida State University	Louisville
+500335	College Sports	3	The superhero Captain Cane is the mascot of which college basketball team?	South Carolina	Xavier	Rice	Tulsa
+521174	College Sports	3	What QB from a Big Ten Team was drafted by the Jacksonville Jaguars in 2013?	Andrew Maxwell	Taylor Martinez	Matt McGloin	Denard Robinson
+296611	College Sports	3	Which college basketball award did Creighton's Doug McDermott win in 2012?	Lou Henson Award	Bob Cousy Award	Lefty Driesell Award	Lute Olson Award
+500191	College Sports	3	What SEC school fired their head coach on November 18, 2012?	Auburn	Mississippi State	Ole Miss	Tennessee
+504489	College Sports	3	Which future #1 NBA pick helped the Kentucky Wildcats to a #1 seed in the 2010 NCAA Tournament?	Patrick Patterson	DeMarcus Cousins	Eric Bledsoe	John Wall
+522861	College Sports	3	Who won the Dick Howser Trophy for baseball in 2014?	Yasmani Grandal	Tom Pagnozzi	Kris Bryant	A. J. Reed
+522369	College Sports	3	What young star had a drinking problem and began drinking at the age of nine?	Lindsay Lohan	Luke Wilson	Frankie Muniz	Drew Barrymore
+504486	College Sports	3	Who won the Dick Howser Trophy for the national college baseball player of 2017?	Drew Smyly	John Jay	Brent Rooker	Brendan McKay
+504461	College Sports	3	In 2012 what school led the nation in third down conversion percentage?	Nebraska	Ohio State	North Texas	Texas A&M
+522200	College Sports	3	In what year did Florida Gator football celebrate its 110th anniversary?	2005	2017	2001	2016
+522211	College Sports	3	Who won the Rimington Trophy for the 2017 NCAA Football season?	Mike McGlinchey	Braden Smith	Greg Little	Billy Price
+259394	College Sports	3	Which Duke player won Most Outstanding Player for March Madness 2010?	Adam Koch	Brian Williams	Curtis Kelly	Kyle Singler
+461575	College Sports	3	Which college basketball player did ESPN.com name National Player of the Year in 2012?	Draymond Green	Anthony Davis	Kendall Marshall	Thomas Robinson
+500041	College Sports	3	Who was #1 in the final 2012/2013 BCS standings?	Alabama	Texas A&M	San Jose State	Notre Dame
+10529	College Sports	3	Which of these was never a real college football bowl game?	Oil Bowl	Salad Bowl	Bacardi Bowl	Wheat Bowl
+77572	College Sports	3	Where did Islander goalie Rick DiPietro attend college?	Boston College	University Of Michigan	Harvard	Boston University
+259455	College Sports	3	Which college star did the Green Bay Packers pick in the first round of the 2018 NFL Draft?	Christian Kirk	Rasheem Green	Kentavius Street	Jaire Alexander
+200150	College Sports	3	Which team began the 2013-14 NCAA Division I men's basketball season as the AP #1?	Louisville	Michigan State	Connecticut	Kentucky
+200132	College Sports	3	Which Cinderella team ranked 13th in 2012 made to the Sweet Sixteen?	Cleveland State	Florida State	Butler	Ohio U
+472631	College Sports	3	What school did Florida State shutout during the 2013 football season?	Nevada	NC State	Syracuse	Maryland
+45757	College Sports	3	2010-11 Atlanta Hawks point guard Jeff Teague went to which college?	Florida State	Indiana	Ohio State	Wake Forest
+451763	College Sports	3	Which NFL running back never attended the University of Notre Dame?	Allen Pinkett	Ricky Watters	Jerome Bettis	Alonzo Highsmith
+405173	College Sports	3	Jim McIlvane, an NBA second round draft choice, attended which college?	Kentucky	West Virginia	Pacific	Marquette
+470342	College Sports	3	Which college football team has the longest streak of 9 or more wins in a season?	Florida State Seminoles	Notre Dame Fighting Irish	Oklahoma Sooners	Nebraska Cornhuskers
+52w2412	College Sports	3	What College team's center won the Rimington Trophy in 2013?	Boston College	Auburn	USC	Florida State
+374886	College Sports	3	Which men's college basketball team had three players on the Final Four all-tournament team in 2014?	Kansas State	Saint Louis	Texas	Connecticut
+522221	College Sports	3	In 2012 what team would become the first SEC team in history to amass over 7,000 yds in total offense?	Alabama	Florida	Georgia	Texas A&M
+470364	College Sports	3	What school's defensive back won the Jim Thorpe Award in 2013?	Butler	Florida	UCLA	Michigan State
+525318	College Sports	3	Who won the Doak Walker Award for the 2017 NCAA Football season?	D'Onta Foreman	Josh Adams	Saquon Barkley	Bryce Love
+500073	College Sports	3	In 2012 Alabama opened there season with crushing what team?	Miami	Michigan State	TCU	Michigan
+201278	College Sports	3	What future NBA great lead his team to victory in the NCAA Championship in 1979?	Larry Bird	Michael Jordan	Moses Malone	Magic Johnson
+461576	College Sports	3	What is the Child's Cup?	Loyola-Marymount's Intramural Tennis Trophy	Notre Dame's Fraternity Football Tournament Trophy	Collegiate Wrestling Trophy	Collegiate Rowing Trophy
+488582	College Sports	3	Which running back won the Heisman Trophy in 1974 and 1975?	Frank Sinkwich	John Cappelletti	Angelo Bertelli	Archie Griffin
+95342	College Sports	3	What college did 2008 Ottawa Senators rookie camp invitee Mitch O'Keefe attend?	Bowling Green State University	Ohio State University	Nebraska-Omaha	Ferris State University
+522383	College Sports	3	Who won the Ray Guy Award for the 2017 NCAA Football season?	Mac Loudermilk	Mitch Wishnowsky	JK Scott	Michael Dickson
+470496	College Sports	3	What is the oldest athletic conference?	Ivy League	South Eastern Conference	Pacific Ten	Big Ten
+500205	College Sports	3	Who caught 47 passes in 2005, the most for a Notre Dame tight end since 1977?	John Carlson	Maurice Stovall	Matt Shelton	Anthony Fasano
+500197	College Sports	3	For what school did James Young play in the NCAA Tournament?	Michigan	Conneticut	Duke	Kentucky
+522268	College Sports	3	Sam the Minuteman is the official mascot of which college basketball team?	Siena	Rhode Island	Connecticut	Massachusetts
+522243	College Sports	3	Who was awarded the Dick Howser Trophy for the national college baseball player of 2018?	Patrick Causa 	Matt O'Neill	Bren Spillane	Brady Singer
+522162	College Sports	3	Which college did NBA star James Harden attend?	New Mexico	Utah	Oklahoma State	Arizona State
+522438	College Sports	3	Who shared team captain chores with Peyton Manning for the 1997 Tennessee Volunteers?	Al Wilson	Spencer Riley	Jay Graham	Leonard Little
+2409	College Sports	3	Which prize does college football rivals Missouri and Nebraska play for?	The Wagon Wheel	The Mule Shoe	The Tin Cup	The Bell
+470340	College Sports	3	Who won the Biletnikoff Award for the 2017 NCAA Football season?	McKenzie Milton	Lamar Jackson	Baker Mayfield	James Washington
+617271	College Sports	3	Which college basketball player was named a Consensus All-American for the second straight year in 2012?	Thomas Robinson	Doug McDermott	Draymond Green	Jared Sullinger
+374904	College Sports	3	What school scored over 100 points in an NCAA title game in the 1990's?	Florida	UConn	Georgetown	UNLV
+522859	College Sports	3	What is the Doak Walker Award given for in college football?	Nation's Best Wide Receiver	Best Division III Player	Best Division I-AA Player	Nation's Best Running Back
+297850	College Sports	3	Which of these teams won an automatic bid to the 2010 NCAA Tournament?	Clemson	Texas	Marquette	Temple
+2CF1901	College Sports	3	Which college did NBA star Derrick Rose attend?	Cincinnati	East Carolina	Houston	Memphis
+522855	College Sports	3	Which Nebraska basketball coach was named Big Ten Coach of the Year in 2014?	Thad Matta	Matt Painter	Bill Carmody	Tim Miles
+2CF2036	College Sports	3	In what round was Connecticut eliminated in the 2012 NCAA Men's Basketball Tournament?	Third Round	Final Four	Elite Eight	Second Round
+94048	College Sports	3	Which college basketball team's Hawk mascot is required to never stop flapping his wings during a game?	Duke	Florida	Syracuse	St. Joseph's
+499987	College Sports	3	What was the first college to give athletic scholarships to women?	Ohio University	U.C. Berkeley	University Of Tennessee	University Of Miami
+522325	College Sports	3	What running back rushed for 339 yards against North Carolina State in 2013?	Jordan Lynch	Antonio Andrews	James White	Andre Williams
+202278	College Sports	3	What men's college basketball team won the NIT Tournament in both 1981 and 2001?	Purdue Boilermakers	Syracuse Orangemen	Wake Forest Demon Deacons	Tulsa Golden Hurricane
+201270	College Sports	3	Baseball's Matt Holliday was recruited to play football at what college?	University Of Tennessee	University Of Michigan	Florida State University	Oklahoma State University
+522297	College Sports	3	Which college star did the New Orleans Saints pick in the first round of the 2018 NFL Draft?	Kerryon Johnson	Derrick Nnadi	Armani Watts	Marcus Davenport
+201287	College Sports	3	Who was the winning coach of the 2010 NCAA Men's Basketball Tournament?	Thad Matta	Tom Izzo	Roy Williams	Mike Krzyzewski
+522216	College Sports	3	For 2013 who filled the California head coaching vacancy?	Dave Christensen	Jim McElwain	Chris Petersen	Sonny Dykes
+522220	College Sports	3	Olympic swimming medalist Michael Phelps attended and swam for what college?	Ohio State Univ.	Stanford Univ.	Florida State Univ.	Univ. Of Michigan

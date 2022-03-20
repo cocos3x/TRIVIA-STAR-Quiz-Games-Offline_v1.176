@@ -1,0 +1,489 @@
+0DIF352	Travel	0	The Colosseum is located in which of these cities in Italy?	Milan	Bologna	Naples	Rome
+60E2449	Travel	0	Which is a website that specializes in room reservations?	Amazon.com	IRS.gov	Si.com	Hotels.com
+0DIF357	Travel	0	What is the set of three waterfalls that exists between the United States and Canada called?	Angel Falls	Victoria Falls	Yosemite Falls	Niagara Falls
+0DIF353	Travel	0	The 'Emerald Isle' is a nickname for which of these countries?	Cuba	Japan	New Zealand	Ireland
+40E2689	Travel	0	Where would you travel to go skiing?	Vietnam	Jamaica	Guam	Switzerland
+0DIF351	Travel	0	Yosemite is a National Park located in which US state?	Idaho	Maine	Nevada	California
+40E2799	Travel	0	If you are landing in O'Hare International Airport, what country would you be in?	Japan	China	Dubai	USA
+40E2179	Travel	0	What American city is known as NOLA?	Portland	Cleveland	Columbus	New Orleans
+40E2639	Travel	0	Which is a tiny Swiss mountain town known for skiing?	Coffee Bay	Franschhoek	Cape Town	St. Moritz
+611FTUX124	Travel	0	I'm going to a famous opera house and a barrier reef that's pretty great. I'm going to:	Greenland	Norway	Thailand	Australia
+0DIF341	Travel	0	Which US city is nicknamed 'The Big Apple'?	Atlanta	Denver	Cleveland	New York
+611FTUX111	Travel	1	Which of these is not a major airline?	Delta	Southwest	American Airlines	Skybirds
+611FTUX123	Travel	0	Where would you go for the Running of the Bulls, to see Alhambra, and go to Ibiza?	Mexico	Brazil	Portugal	Spain
+40E2239	Travel	0	If you wanted to go ice fishing, where would you travel to?	Arizona	Georgia	Florida	North Dakota
+60E1969	Travel	0	What is a paperless ticket that allows travelers to fly with only a photo ID?	Speed Lane Ticket	UPC Ticket	F-Ticket	E-Ticket
+60E2729	Travel	0	Which is a website that specializes in airline reservations?	Yelp.com	Trustpilot.com	Manta.com	Kayak.com
+611FTUX116	Travel	0	Which area north of San Francisco is known for its wine?	Sausalito	Fresno	Mendocino	Napa
+611FTUX121	Travel	0	This state has these attractions: Madison Square Garden, Baseball Hall of Fame, United Nations HQ	California	Florida	Texas	New York
+0DIF355	Travel	0	Which one of these countries has the nickname 'The Great White North'?	Antarctica	Russia	Greenland	Canada
+60E2549	Travel	0	Where can you find beaches, volcanoes, Komodo dragons and jungles?	Nome, Alaska	Moscow	New York City	Indonesia
+60E2069	Travel	0	Which offers the most premium service on a flight?	Coach	Business Class	Stand By	First Class
+611FTUX113	Travel	0	If you were travelling to Lake Tahoe, what mountain range would you be navigating?	Swiss Alps	Appalachian	Mount Fuji	Sierra Nevada
+40E2739	Travel	0	Who would you see to book your travel plans for you?	Valet	Broker	Talent Agent	Travel Agent
+40E2869	Travel	0	What season during the year would you best likely to go skiing?	Summer	Spring	Fall	Winter
+60E2429	Travel	0	If we go hiking in the woods, what should we wear?	Flip Flops	Ice Skates	Cleats	Hiking Boots
+611FTUX117	Travel	0	If you were flying into LAX, where would you be landing?	Las Vegas	Louisiana	Lafayette	Los Angeles
+611FTUX115	Travel	0	Which of these cities would you need a passport to travel to, from New York?	San Diego	Seattle	Las Vegas	Toronto
+60E1429	Travel	0	What is a ticket issued at airport check-in that authorizes a passenger to get on an airplane?	Seat Chart	Hall Pass	Golden Ticket	Boarding Pass
+40E2229	Travel	0	What is a flight that travels directly to its destination without connections or layovers?	Overnighter	Direct Path	One Way	Nonstop
+0DIF349	Travel	0	The largest religious monument, Angkor Wat, can be found in which of these countries?	New Zealand	Poland	Vietnam	Cambodia
+611FTUX112	Travel	0	If you were travelling via Amtrak, you would be on what?	Car	Bus	Boat	Train
+0DIF356	Travel	0	Which one of these cities in Ireland has the nickname 'The Fair City'?	Cork	Kilkenny	Belfast	Dublin
+60E1489	Travel	0	In what US state would you be in if you were visting the campus of UCLA?	Kansas	Georgia	Maine	California
+60E2369	Travel	0	To go surfing, where would you travel to?	Alaska	Iceland	Norway	Hawaii
+40E2509	Travel	0	Okinawa is a volcano in which country?	Ireland	Norway	Vietnam	Japan
+60E2289	Travel	0	If you wanted spinach and feta pie, where would you travel to?	Mexico	Thailand	China	Greece
+611FTUX122	Travel	0	Which state has Disney World, the Daytona 500, and Panama City Beach?	North Carolina	Kansas	California	Florida
+0DIF344	Travel	0	The 'Great Pyramids' wonder of the world is found in which country?	France	Germany	Brazil	Egypt
+0DIF350	Travel	0	Which of these countries has the nick name 'Land of the Rising Sun'?	Canada	Panama	Monaco	Japan
+60E1009	Travel	0	How many passenger seats does the Airbus A320 airplane have?	1050 Seats	15 Seats	2450 Seats	150 Seats
+60E1329	Travel	0	If you were going to Jamaica, what would you bring with you?	Winter Boots	Scarf	Gloves	Bathing suit
+0DIF346	Travel	0	The Incan citadel, Machu Picchu, can be found in which of these countries?	Bahamas	Denmark	Honduras	Peru
+0DIF354	Travel	0	Christ the Redeemer is a monument found in which of these countries?	Cuba	Albania	Samoa	Brazil
+60E2109	Travel	0	If you were at Charles de Gaulle Airport, what country would you be in?	Germany	USA	China	France
+611FTUX118	Travel	0	Which of the following is not a ride-share app?	Uber	Lyft	RideScout	Google Riders
+611FTUX125	Travel	0	Which of these states would you likely go to for great BBQ?	Washington	Vermont	Alaska	Texas
+0DIF343	Travel	0	The Eiffel Tower can be found in which of the following countries?	Sweden	United States	Ireland	France
+0DIF360	Travel	0	Which one of these cities in France has the nickname 'The City of Lights'?	Lyon	Marseille	Toulouse	Paris
+0DIF358	Travel	0	La Sagrada Familia is a common tourist destination in which of these countries?	Ukraine	Norway	Canada	Spain
+60E2389	Travel	0	Where would you travel to see volcanoes?	Florida	Mississippi	New York	Hawaii
+60E1289	Travel	0	Which island is located in the south of the Caribbean?	Maui	Fire Island	Christmas Island	Barbados
+0DIF342	Travel	0	One can find The Great Barrier Reef off the coast of which of these countries?	United States	Greenland	South Africa	Australia
+60E1549	Travel	0	What is luggage you take on a plane called?	Trapper Keepers	Backpacks	Hand Bags	Carry-On
+60E2649	Travel	0	If you wanted to go see cherry blossoms, what country would you travel to?	Jamaica	Cuba	Guam	Japan
+0DIF345	Travel	0	Mount Fuji is located in which of these countries?	China	Brazil	Russia	Japan
+40E2429	Travel	0	What is a flight in which the travel takes place between the hours of 9pm and 7am?	Dark Flight	Sleepover	Pink-eye	Red-eye
+60E2309	Travel	0	Which of these is a bus line you can travel the USA on?	Delta	Amtrak	UPS	Greyhound
+40E2539	Travel	0	Where would you go to see Buddhist temples and enjoy K-Pop music?	Copenhagen, Denmark	Lisbon, Portugal	Ibiza, Spain	Seoul, Korea:
+40E2789	Travel	0	Where would you travel to for Shepherd's pie?	Brazil	Belgium	China	United Kingdom
+40E2009	Travel	0	What is supplementary car rental insurance that covers accident damage?	Life Insurance	Hubcap Insurance	Oopsie Fund	Loss Damage Waiver
+611FTUX114	Travel	0	On which long, east-west US Interstate would you "get your kicks"?	I-95	I-5	Highway 101	Route 66
+60E2669	Travel	0	Which of these is actually an U.S. airline?	Jet Purple	Jet Pink	Jet Black	Jet Blue
+0DIF359	Travel	0	One could find the Sistine Chapel in which of these cities?	Athens	Berlin	Vienna	Vatican City
+60E1029	Travel	0	Which is the closest estimate to the distance in miles between New York and Los Angeles?	150 Miles	18000 Miles	9000 Miles	3000 Miles
+0DIF348	Travel	0	Which of these US cities is known as 'The Windy City'?	Boise	Las Vegas	Orlando	Chicago
+40E2779	Travel	0	If you were at London Heathrow Airport, what country would you be in?	Spain	India	Holland	United Kingdom
+40E2749	Travel	0	What is the organization in charge of security for air flights in the USA?	CCCP	USP	CIA	TSA
+0DIF347	Travel	0	The natural wonder, the Grand Canyon, can be found in which US state?	Michigan	Washington	Texas	Arizona
+611FTUX119	Travel	0	To see a Golden Knights game, a Raiders game, and to visit an Eiffel Tower, where would you go?	Paris	Oakland	New Orleans	Las Vegas
+60E1089	Travel	0	What is one way to get a better price for an airline ticket?	Bring Lunch	Fly One Way	Pay Cash	Advance Purchase
+40E2599	Travel	0	If you are visiting Alaska in the winter, what would you bring with you?	Sandals	Bathing Suit	Tank Top	Snow Boots
+40E2209	Travel	0	What do they call a traveler that doesn’t appear for their flight or hotel reservation?	Walker	Goner	Drop Out	No Show
+611FTUX120	Travel	1	If you're taking a red eye flight, what is notable about it?	Complimentary alcohol	Budget airline/seats	Unlimited free coffee	Very late/overnight flight
+376767	Travel	1	Where would you find a rainforest?	Norway	New York	Antarctica	South America
+532335	Travel	1	Denmark borders what other country?	Turkey	South Africa	Mexico	Germany
+532286	Travel	1	If you went to a party in Mexico, what would it be called?	Carnival	Relaxa	Mardi Gras	Fiesta
+75091	Travel	1	In which country is the Copenhagen Airport located?	Cuba	Portugal	Germany	Denmark
+532297	Travel	1	On the first of November, Spain celebrates "Todos los Santos" which translates to what in English?	Easter	Father's Day	Christmas	All Saints Day
+376819	Travel	1	What is the common name of the 3.2 million-year-old hominid skeleton discovered in 1974 in Ethiopia?	Prudence	Martha	Sadie	Lucy
+532277	Travel	1	The name of what Moroccan city literally means "white house" in Spanish?	Beni Mellal	Marrakech	Boulemane	Casablanca
+532345	Travel	1	Which of the following is traditional garb worn by Scottish men?	Army Jacket	Purple Shoes	Ponchos	Kilt
+368593	Travel	1	What country is called "Land of Fire and Ice"?	Crete	Cuba	Australia	Iceland
+532326	Travel	1	Which of these cities is not in Europe?	Berlin	Helsinki	Warsaw	Sydney
+532295	Travel	1	Scotland is the country with the most people that have what color hair?	Blonde	Black	Brown	Red
+42423	Travel	1	What Moroccan city is the setting of a 1942 romantic drama film starring Humphrey Bogart and Ingrid Bergman?	Rabat	Fez	Tangiers	Casablanca
+376836	Travel	1	Which city is known as the "City of Brotherly Love"?	Miami	Los Angeles	New York	Philadelphia
+528365	Travel	1	Louisville International Airport is located in what U.S. state?	North Carolina	Florida	Indiana	Kentucky
+376764	Travel	1	Edinburgh, Glasgow and Dundee are cities in what country?	Peru	Mexico	Argentina	Scotland
+376704	Travel	1	What is the deepest spot in the world?	Bering Strait	Great Barrier Reef	South China Sea	Mariana Trench
+376765	Travel	1	The climate of Iceland is best described as what?	Hot	Warm	Rainy	Cold
+368850	Travel	1	Rastafarians and dreadlocks are associated with what island's culture?	Ireland	Japan	Madagascar	Jamaica
+532325	Travel	1	If you went to Jacksonville International Airport, what U.S. state would you be in?	Texas	Michigan	North Carolina	Florida
+532314	Travel	1	Which Colorado mountain range contains the Continental Divide?	The Front Range	The Sangre De Cristos	The San Juans	The Rockies
+267798	Travel	1	What country does Alaska border?	Japan	Taiwan	Finland	Canada
+532285	Travel	1	What country was home to the Inca Empire?	Australia	Canada	France	Peru
+376264	Travel	1	Floppy hats called "berets" are associated with what culture?	Chinese	South African	Norwegian	French
+462325	Travel	1	South Africa has a long coastline that stretches more than 2,500 km and along which two oceans?	Pacific Ocean & Indian Ocean	Pacific Ocean & Atlantic Ocean	Atlantic Ocean & Arctic Ocean	Atlantic Ocean & Indian Ocean
+40E2289	Travel	1	What is the most visited tourist attraction in the world?	The Grand Canyon	The Colosseum	Disneyworld	Times Square
+462400	Travel	1	What English author, who wrote "The Lord of the Rings", was born in Bloemfontein, South Africa?	Peter Jackson	C. S. Lewis	J. K. Rowling	J. R. R. Tolkien
+60E1389	Travel	1	What do airlines call specific dates in which special fares or promotions do not apply?	Global Dates	Holidates	Normal Days	Blackout Dates
+48918	Travel	1	What state does the Space Shuttle usually take off from?	Nebraska	New York	Utah	Florida
+376842	Travel	1	People referred to as Poles, or Polish, come from what country?	Indonesia	Mexico	Peru	Poland
+376418	Travel	1	Which national forest in California is the home of the largest trees in the world?	Mendocino	Sierra	Modoc	Sequoia
+368787	Travel	1	Day of the Dead is a famous cultural custom celebrated in which country?	Netherlands	Russia	Peru	Mexico
+462399	Travel	1	In which of these countries might you see kangaroos in the wild?	Sweden	Zimbabwe	China	Australia
+376838	Travel	1	What country touches the Mediterranean Sea, the Bay of Biscay and the Atlantic Ocean?	Japan	Jamaica	Nigeria	Spain
+376279	Travel	1	Which of these is a Pennsylvania city considered the "Chocolate Capital" of the U.S.?	Mars	Stover	Godiva	Hershey
+532346	Travel	1	The Nile River runs through which of these countries?	Austria	New Zealand	Brazil	Egypt
+532274	Travel	1	What animated movie brought international recognition to "hakuna matata", a phrase commonly used in Kenya?	Toy Story	Beauty And The Beast	Monsters, Inc.	The Lion King
+532305	Travel	1	Located in northeastern Tanzania, what is the highest mountain in Africa?	Mount Everest	Mount Elbrus	Mount Aconcagua	Mount Kilimanjaro
+218174	Travel	1	What U.S. city is called "Music City"?	New Orleans, LA	Hollywood, CA	Pittsburgh, PA	Nashville, TN
+532355	Travel	1	What phenomenon is often visible at Niagara Falls?	Butterfly Migration	Mud Slide	Dust Bowl	Rainbow
+532347	Travel	1	Morocco is one of only three countries to have coastlines on both the Atlantic Ocean and what sea?	Red Sea	Caribbean Sea	Norwegian Sea	Mediterranean Sea
+258514	Travel	1	Which mountain is the tallest in Greece?	Mount Everest	Mount Fuji	Mount Smolikas	Mount Olympus
+376775	Travel	1	Mah Jong is the most common game in which country?	Pakistan	UAE	South Korea	China
+462408	Travel	1	What famous motorcycle company calls Milwaukee, Wisconsin home?	Suzuki	Honda	Isuzu	Harley-Davidson
+532316	Travel	1	What mountain range can be found in Peru?	Appalachian Mountains	Rocky Mountains	Alps	Andes Mountains
+258627	Travel	1	The Gulf of Mexico lies in which direction from Cuba?	North	East	South	West
+369199	Travel	1	Kimchi is a common food of which country?	Bhutan	Japan	Iraq	Korea
+462410	Travel	2	What beach area is a popular South Carolina tourist attraction?	Virginia Beach	Huntington Beach	St. Simons	Myrtle Beach
+462405	Travel	2	What color is Kentucky bluegrass?	Blue	Purple	Brown	Green
+462319	Travel	2	A replica of what building in Athens, Greece, stands in Nashville's Centennial Park?	Great Pyramid	Colosseum	Erechtheum	Parthenon
+258865	Travel	2	If you went to Martha's Vineyard Airport, what U.S. state would you be in?	Florida	New Hampshire	Alaska	Massachusetts
+532417	Travel	2	Cuba has approximately how many kilometers of coastline?	15,000 Km	59,000 Km	200 Km	3,700 Km
+532398	Travel	2	What city in Brazil is the largest city in the Americas?	Lahore	Mexico City	Lagos	Sao Paulo
+518550	Travel	2	What is the tallest mountain in Africa?	Tanzania Peak	Mount Stella	Victoria Peak	Mount Kilimanjaro
+518422	Travel	2	What country is bordered by Germany, the Czech Republic, Slovakia and the Ukraine?	Chile	Haiti	India	Poland
+394727	Travel	2	Where would you NOT use "buenos dias" (good morning) and "buenas noches"(good evening)?	Bolivia	Chile	Mexico	Japan
+532306	Travel	2	What country is split into 443 named islands and also holds the territory of Greenland?	Kenya	Canada	Cuba	Denmark
+407354	Travel	2	The Democratic Republic of the Congo is located in which part of the African continent?	North	West	East	Central
+92604	Travel	2	What country has the eighth-largest population in Europe with approximately 38.5 million residents?	Denmark	Scotland	Nicaragua	Poland
+532294	Travel	2	Iceland is home to active volcanoes that spew what?	Slime	Ice	Concrete	Lava
+376778	Travel	2	In what U.K. city would you find the Abbey Road popularized by The Beatles?	Liverpool	Glasgow	Manchester	London
+524347	Travel	2	What is the second largest city in Brazil, on the South Atlantic coast?	Luanda	Foshan	Santiago	Rio de Janeiro
+480382	Travel	2	Latvia lies on the eastern shores of what sea?	North Sea	Norwegian Sea	Mediterranean Sea	Baltic Sea
+532354	Travel	2	The Queensboro Bridge crosses over what island between Queens and Manhattan?	Fisher Island	Fire Island	Coney Island	Roosevelt Island
+503048	Travel	2	The southern part of Uganda includes a substantial portion of which major lake?	Lake Tanganyika	Lake Malawi	Lake Turkana	Lake Victoria
+532364	Travel	2	What instrument is featured in Mexican mariachi bands?	Cello	Piano	Tuba	Trumpet
+532275	Travel	2	In which country would you find fried meatballs served with potatoes and gravy called frikadeller?	Cuba	Jamaica	Mexico	Denmark
+532374	Travel	2	Where is the sacred River Ganges?	Cuba	England	Venezuela	India
+376276	Travel	2	Namaste with folding hands is a customary greeting in which Asian country?	China	Japan	Mongolia	India
+518479	Travel	2	What highway can one follow all the way up the coast of California?	Interstate 5	U.S. 287	Route 66	Highway 1
+526516	Travel	2	The name of what U.S. state is Spanish for "mountain"?	Wyoming	Oklahoma	Iowa	Montana
+518573	Travel	2	What Chinese city is also known as the "Pearl of the Orient" and "Paris of the East"?	Lima	Karachi	Ahmedabad	Shanghai
+518493	Travel	2	What city square in the center of Beijing, China is the fourth largest city square in the world?	Rizal Park	Piazza Carlo III Of Bourbon	Kuybyshev Square	Tiananmen Square
+532296	Travel	2	What sea of the Atlantic Ocean separates Estonia from Finland?	Aegean Sea	Mediterranean Sea	Black Sea	Baltic Sea
+404358	Travel	2	Mount Kenya is the second-highest in Africa, after what mountain?	Mount Everest	Mount Elbrus	Mount Aconcagua	Mount Kilimanjaro
+462318	Travel	2	Which time zone is Hawaii located in?	Central Time	Pacific Time	Mountain Time	Hawaiian Standard Time
+532435	Travel	2	What is the name of Africa's largest lake, which Kenya shares with Tanzania and Uganda?	Lake Chad	Lake Tanganyika	Lake Malawi	Lake Victoria
+376839	Travel	2	In which country would you say "Auf Wiedersehen" to say "good-bye"?	Costa Rica	India	China	Germany
+368599	Travel	2	Which of these countries has a largely Nordic and Gaelic population?	Brazil	South Africa	Cuba	Iceland
+258714	Travel	2	Which Las Vegas hotel was imploded in 1993?	Sands	Sahara	Bellagio	Dunes
+518552	Travel	2	In which U.S. state did Walt Disney open his first amusement park?	Florida	New York	New Mexico	California
+532349	Travel	2	Which California city is the center of a metropolis that spans five counties?	San Bernardino	San Diego	San Francisco	Los Angeles
+265389	Travel	2	What body of water separates Scotland from Norway?	Pentland Firth	Gruinard Bay	North Channel	North Sea
+524273	Travel	2	The Alamo is located in what city?	Dallas	Austin	Houston	San Antonio
+479164	Travel	2	What commercial intersection in Manhattan, New York City is referred to as "The Crossroads of the World"?	Times Center	Times Avenue	Times Street	Times Square
+282859	Travel	2	Which Las Vegas hotel is shaped like a castle?	Bellagio	MGM Grand	Luxor	Excalibur
+376589	Travel	2	Where are you expected to say "kampai!" instead of "Cheers"?	India	Indonesia	Russia	Japan
+376777	Travel	2	What French actor, who played the title role in "Leon: The Professional", was born in Casablanca, Morocco?	Gerard Depardieu	Vincent Cassel	Jean Dujardin	Jean Reno
+532379	Travel	2	Tandoor ovens are used for baking breads, such as naan, in what country?	France	Taiwan	Tahiti	India
+259055	Travel	2	Which major pharmaceutical company is headquartered in the city of Berlin?	Novartis	Merck & Co	Eli Lilly & Co.	Bayer Health Care
+376265	Travel	2	What waterfall at the border between Zambia and Zimbabwe is considered to be the largest fall in the world?	Chavuma Falls	Ngonye Falls	Sioma Falls	Victoria Falls
+479186	Travel	2	Which hotel is known as the "First Lady of Waikiki"?	Aston Honolulu	Halekulani	Hawaii Inn	Moana
+532338	Travel	2	What mountain range forms the northern border of Italy?	Rockies	Macaroni	Andes	Alps
+376827	Travel	2	What is one of the world's largest observation wheel, situated on the South Bank of the Thames in London?	London Nose	London Ear	London Mouth	London Eye
+518487	Travel	2	What character in a series of suspense novels by Thomas Harris was born in Lithuania?	Han Solo	Hans Gruber	Hansel	Hannibal Lecter
+376776	Travel	2	What country, home of the world's highest mountain, is Katmandu the capital of?	Pakistan	Tibet	Peru	Nepal
+374373	Travel	2	What type of meat will you find in the German fast food treat currywurst?	Lamb	Turkey	Chicken	Pork
+532315	Travel	2	Which hall of fame is located in Cleveland, Ohio?	Baseball	Basketball	Trumpet	Rock And Roll
+376790	Travel	2	Popular styles of dress in what country include the sari for women and the dhoti for men?	England	Scotland	Australia	India
+462385	Travel	2	Cuba is situated between which two bodies of water?	Atlantic And Pacific Oceans	Pacific And Indian Oceans	Carribean Sea And Panama Canal	Caribbean Sea And Atlantic Ocean
+462396	Travel	2	Irish folklore often includes stories of what mythical green creatures?	Bigfoot	Fairies	Tasmanian Devil	Leprechauns
+369188	Travel	2	What is the largest island in the Mediterranean Sea?	Crete	Sardinia	Cyprus	Sicily
+532317	Travel	2	What vast plain in Tanzania hosts the largest terrestrial mammal migration in the world?	Ruaha	Mikumi	Tarangire	Serengeti
+532299	Travel	2	Which of the following endangered species may you find in the Grand Canyon?	Black Rhino	Mountain Gorilla	Jaguar	Bald Eagle
+394757	Travel	2	What Brazilian city is colloquially known as "Sampa"?	Mexico City	Lima	Bangalore	Sao Paulo
+532336	Travel	2	After Moscow, what is Russia's second largest city?	Kinshasa	Jakarta	Istanbul	Saint Petersburg
+376851	Travel	3	In what country would you find Mt. Egmont?	Switzerland	Saudi Arabia	Nepal	New Zealand
+283373	Travel	3	What is the capital of Lithuania and the second-largest city of the Baltic states?	Kaunas	Klaipeda	Siauliai	Vilnius
+532344	Travel	3	Ty is Polish for which word?	Love	Sorry	Bye	You
+39877	Travel	3	What is the name of the city famous for the white cliffs that can be seen gleaming from afar?	Denver	Norwich	Lincoln	Dover
+479217	Travel	3	Chilango is a slang term used to refer to a person from what city in Mexico?	S„o Paulo	Kinshasa	Bogota	Mexico City
+532356	Travel	3	Known as the "Green City in the Sun", what is the capital and largest city of Kenya?	Mombasa	Kisumu	Nakuru	Nairobi
+532372	Travel	3	What South African town is the only place in the world that has its own "whale crier"?	Fisherhaven	Wolvengat	Sandbaai	Hermanus
+63760	Travel	3	Which hotel is not located in London?	Grosvenor House	Savoy	Langham	Carlton
+462316	Travel	3	The Akashi-Kaikyo Bridge in Japan connects Kobe with which island?	Honshu Island	Kiusu Island	Shikoku Island	Awaji Islands
+259069	Travel	3	What Lithuanian-American filmmaker has often been called "the godfather of American avant-garde cinema"?	George Maciunas	Andy Warhol	Peter Kubelka	Jonas Mekas
+505817	Travel	3	How far does the Hawaiian Archipelago extend?	500 Miles	100 Miles	50,000 Miles	1,600 Miles
+394451	Travel	3	Which of these lakes is found completely within Uganda?	Lake Albert	Lake Edward	Lake Victoria	Lake Kyoga
+45474	Travel	3	What is the official language of Suriname?	English	French	Spanish	Dutch
+532380	Travel	3	What year did the London Zoo open?	1955	1776	1901	1828
+462321	Travel	3	A traditional Lithuanian Christmas Eve dinner normally consists of how many meatless dishes?	9	15	6	12
+532039	Travel	3	What was the first Six Flags theme park named for?	Its Largest Ferris Wheel	A Famous Local Circus	The Flags Of Nearby States	Flags That Have Flown Over Texas
+532434	Travel	3	Which of these Japanese islands is the largest?	Kyushu	Hokkaido	Shikoku	Honshu
+532433	Travel	3	With its highest point reaching 368 m, what tower in Latvia is the tallest structure in the Baltic states?	Koeru TV Mast	Vilnius TV Tower	Z-Towers	Riga Radio And TV Tower
+258796	Travel	3	What area in England has long been known as a great industrial city, and a city of canals?	Chesterfield	Greenwich	London	Birmingham
+518483	Travel	3	Which river is prone to flood and can be found in the city of York?	River Sark	River Lyne	River Caldew	River Ouse
+479202	Travel	3	Zimbabwe was formerly known by which of the following names?	Dahomey	Tanganyika	Zaire	Rhodesia
+376377	Travel	3	What city was founded in 1907 but only became Rwanda's capital when the country became independent in 1962?	Nyanza	Butare	Gitarama	Kigali
+258747	Travel	3	Ethiopia and which other country have the most UNESCO World Heritage Sites in Africa with nine sites?	Egypt	Algeria	Tunisia	Morocco
+532289	Travel	3	Who was the architect of Golden Gate Bridge?	John A. And Washington Roebling	Art Garfinkle	Honshu-Shikoku Bridge Authority	Joseph Baermann Strauss
+394902	Travel	3	What spicy stew accompanied by a flat, spongy bread is the national dish of Ethiopia?	Wy	Wer	Wen	Wat
+479224	Travel	3	In which English city is the Lowry Centre, with a gallery of paintings by L S Lowry?	Leeds	Manchester	Blackburn	Salford
+532319	Travel	3	To which country does Northern Ireland belong?	Republic Of Ireland	Germany	Romania	United Kingdom
+258699	Travel	3	Which of these is the longest river in England?	River Thames	River Humber	River Ribble	River Severn
+524361	Travel	3	What is the name of the street closest to the beach in South Beach?	Federal Highway	Collins Avenue	Biscayne Blvd.	Ocean Drive
+518464	Travel	3	What Iraqi city is the second largest in the Arab world after Cairo, Egypt?	Hanoi	Wuhan	Tehran	Baghdad
+258736	Travel	3	What seaside resort city has been the official Summer Capital of Estonia since 1996?	Narva	Tartu	Tallinn	Parnu
+532282	Travel	3	Billionaire Howard Hughes purchased which Las Vegas hotel in 1967?	Sands	Sahara	Stardust	New Frontier
+518528	Travel	3	About how many miles is it from Paris to New York?	10,200 Miles	34,990 Miles	1,289 Miles	3,624 Miles
+524277	Travel	3	What body of water is located directly to the south of India?	Bay Of Fundy	Arabian Sea	Gulf Of Mexico	Indian Ocean
+368819	Travel	3	The first Fourth of July celebration at the White House was held in 1801 by which American President?	George Washington	John Adams	Abraham Lincoln	Thomas Jefferson
+532373	Travel	3	Which of these lakes is completely inside the country of Zambia?	Lake Kariba	Lake Mweru	Lake Tanganyika	Lake Bangweulu
+97889	Travel	3	What city in Mali was a world center of Islamic learning from the 13th to the 17th century?	Sikasso	Mopti	Bamako	Timbuktu
+91643	Travel	3	Near what city will you find Truc Bach Lake?	Tokyo	San Juan	Manila	Hanoi
+532363	Travel	3	Where in New Zealand is the giant kiwi fruit?	Ohakune	Whitianga	Gore	Te Puke
+532318	Travel	3	What was the name of the Democratic Republic of the Congo between 1971 and 1997?	Biafra	Rhodesia	Tanganyika	Zaire
+70990	Travel	3	The Hutu, Tutsi, and what forest-dwelling pygmy people comprise the three major ethnic groups of Rwanda?	Hausa	Yoruba	Ibo	Twa
+490940	Travel	3	What does the name Zimbabwe mean in the Karanga dialect of the Shona language?	Land Of The Zambezi	Brothers And Sisters	Tongues Of Fire	Large Houses Of Stone
+479225	Travel	3	What species of flamingo breeds principally on the highly caustic Lake Natron in northern Tanzania?	James's Flamingo	Greater Flamingo	Puna Flamingo	Lesser Flamingo
+258693	Travel	3	What is the meaning of the word "Woolloomoolloo", the name of an inner Sydney suburb?	Salty Water	Good Place To Catch Fish	A Species Of Gum Tree	Kangaroo
+532383	Travel	3	What is the driest state in the driest country in the world?	California, USA	Nevada, USA	Free State, South Africa	South Australia, Australia
+532339	Travel	3	What British island, accessible by road only at low tide, is also known as Holy Island?	Holyhead	Anglesea	Whit	Lindisfarne
+479175	Travel	3	What city in South Africa is the world's largest city not situated on a river, lake, or coastline?	Pretoria	Bloemfontein	Cape Town	Johannesburg
+80378	Travel	3	Which Las Vegas hotel and casino closed its doors in 2004?	MGM Boardwalk	Riviera	Golden Gate	Castaways
+82503	Travel	3	What country gets a tropical sea breeze, known as "the Doctor"?	Austria	Cuba	Bahamas	Australia
+532376	Travel	3	What global media conglomerate was formed in Adelaide, Australia?	Reuters	Gannett	Sky Broadcasting	News Corporation
+518534	Travel	3	What does the name of Estonia's highest peak, Suur Munamagi, mean in English?	Big Nut Mountain	Big Bud Mountain	Big Seed Mountain	Big Egg Mountain
+283422	Travel	3	The Latvian flag, which is red-white-red, is often mistaken for the flag of which other European country?	Belarus	Poland	Malta	Austria
+524279	Travel	3	Which river runs through Glasgow, Scotland?	River Bonnie	River Themes	River Annan	River Clyde
+258767	Travel	3	What attraction in London is where you can meet Jack the Ripper?	Tooley Jail	Westminister	Dockland	London Dungeon
+394567	Travel	3	What waterfall in southern Tanzania is the second-highest uninterrupted fall in Africa?	Rusumo Falls	Soni Falls	Tugela Falls	Kalambo Falls
+532367	Travel	3	Mali is a landlocked country located in which region of Africa?	South Africa	North Africa	East Africa	West Africa
+376539	Travel	3	What city, which was officially called Salisbury until 1982, is the capital of Zimbabwe?	Bulawayo	Mutare	Chitungwiza	Harare
+462320	Travel	3	Where would you come across the Storbaelt bridge?	Italy	Spain	France	Denmark
+258719	Travel	3	Which hotel occupies an entire city block in downtown Riverside, California?	Marriott	Hilton	Howard Johnson	Mission Inn
+258695	Travel	3	What city is located in the mid-south of Guangdong Province, China and in the east of the Pearl River Delta?	Tehran	Bogota	Bangkok	Dongguan
+528374	Travel	3	In which city would you find the Tagus River?	Paris	Lima	Seoul	Lisbon
+531913	Travel	3	What is the name of London's theater district?	Britway	Cultural Way	Globe Centre	West End
+532302	Travel	3	Which body of water lies between Sicily, Sardinia, and Italy?	Ionian Sea	Adriatic Sea	Aegean Sea	Tyrrhenian Sea
+411001	Travel	3	Washington Dulles International Airport uses which airport code?	GEG	FLO	BNA	IAD
+505818	Travel	3	What is the southernmost part of India called?	Indian Point	Arabian Point	Bengal Point	Indira Point
+258749	Travel	3	Okefenokee is an Indian word meaning what?	Wet Land	Muddy Ground	Alligator	Trembling Earth
+369307	Travel	3	Where in England would you find Durdle Door?	Yorkshire Dales	Lake District	The Pennines	Dorset Coast
+532413	Travel	3	Which hotel was the tallest building in the state of Texas for several years?	Mayflower	Coronado	Fitzgerald	Adolphus
+90891	Travel	3	In 2010, Scotland won the Centenary Quaich for the first time since which year?	1999	2003	2005	2001
+532323	Travel	3	Which hotel hosted Elvis Presley's first Las Vegas appearance in 1956?	Sands	Sahara	Stardust	New Frontier
+258732	Travel	3	What ethnic group in Mali is known for its religious traditions, mask dances and architecture?	Bamako	Sikasso	Mopti	Dogon
+258731	Travel	3	Which island of New Zealand is named after a fish from Maori legend?	Stewart Island	South Island	White Island	North Island
+532332	Travel	3	What is the name of the tower in Oxford containing 99 stairs which affords a spectacular view?	Bok Tower	High Street Tower	Canterbury Tower	Carfax Tower
+258686	Travel	3	What was the name of the second hotel that opened on the Las Vegas Strip?	Sands	Sahara	Mirage	New Frontier
+258661	Travel	3	In what year was Los Angeles incorporated as a city?	1812	1890	1859	1850
+258684	Travel	3	What bridge in Western Cape, South Africa is the site of the world's highest commercial bridge bungee?	Nelson Mandela Bridge	Paul Sauer Bridge	Van Stadens Bridge	Bloukrans Bridge
+289052	Travel	3	In which South African city would you find uShaka Marine World, the largest aquarium in Africa?	Rustenburg	Port Elizabeth	Cape Town	Durban
+532322	Travel	3	Which is not an island in the Bahamas?	Andros	Crooked	Cat	Palm
+532399	Travel	3	According to Forbes 2013, what Russian city has the largest number of billionaire residents in the world?	Mumbai	Dhaka	Guangzhou	Moscow
+394274	Travel	3	In what city will you find the Fashion Museum which brings alive the story of fashion over the last 400 years?	London	Surrey	Bennett	Bath
+532378	Travel	3	Which best describes the Black Sea?	Roughly The Size Of Rhode Island	Home Of The Parthenon	Otherwise Known As The Palace Of Westminster	Name Is Because Of Its Heavy Fogs
+99278	Travel	3	What does EPCOT stand for?	Experimental Postal Consortium Of Trinidad	Experimental People Cloning Operation Testing	Excalibur Producing Centers Of Tinseltown	Experimental Prototype Community Of Tomorrow
+258867	Travel	3	The Surinamese Dollar replaced what former currency?	Surinamese Franc	Surinamese Pound	Surinamese Hier	Surinamese Guilder
+194716	Travel	3	Which hotel chain is operated as a nonprofit membership association?	Holiday Inn	Hampton Inn	Ramada	Best Western
+91147	Travel	3	Where is Buzzards Bay located?	Hawaii	Jamaica	Bahamas	Massachusetts
+526489	Travel	3	Where would you use the terms "Domnul" and "Doamna" for addressing people?	Iraq	Italy	Germany	Romania
+75402	Travel	3	What mosque located in the Tanzanian capital of Dodoma is the second largest in East Africa?	Malindi Mosque	Ijumaa Mosque	Kizimkazi Mosque	Gaddafi Mosque
+532342	Travel	3	Where is the indigenous habitat of the small kawakawa tree?	Ethiopia	Tonga	Hawaii	New Zealand
+75908	Travel	3	In what state was the first Omni Hotel located?	New York	California	Massachusetts	New Hampshire
+258623	Travel	3	What Alabama city is called "The Rocket Capital of the World"?	Montgomery	Birmingham	Cape Canaveral	Huntsville
+532334	Travel	3	People in the Maasai tribe of Kenya always wear what vivid color?	Black	Lavender	Brown	Red
+479222	Travel	3	Tony Bennett first sang his song, "I Left My Heart in San Francisco" in what hotel's ornate Venetian Room?	The Warwick Hotel	The Hotel Savery	Sir Francis Drake	The Fairmont Hotel
+8474	Travel	3	What is the diameter of the London Eye Ferris wheel in London?	335 Metres	55 Metres	575 Metres	135 Metres
+462387	Travel	3	According to Ethiopia's ancient history, an Abyssinian goatherd, Kaldi, discovered what plant?	Tobacco	Cotton	Cacao Tree	Coffee
+532281	Travel	3	What monolithic church at Lalibela, Ethiopia has been referred to as the "Eighth Wonder of the World"?	Church Of Saint Eustace	Church Of Saint Vitus	Church Of Saint Elmo	Church Of Saint George
+532395	Travel	3	What is South Africa's national animal, which also gives its name to the South African rugby team?	Fennec Fox	Giraffe	Leopard	Springbok
+100958	Travel	3	Where do you say "gamarjoba" when meeting someone for the first time?	Bangladesh	India	Canada	Georgia
+60065	Travel	3	What is the largest lake on the Italian peninsula?	Lake Louis	Lake George	Lake Macaroni	Lake Trasimeno
+532351	Travel	3	What is the name of the mountain range that runs through Scotland's center?	Cambrian	Wicklow	Pennines	Grampian
+518433	Travel	3	What mosque in Casablanca, Morocco is the largest mosque in Africa?	Koutoubia Mosque	Great Mosque Of Taza	Mosque Of Mulai Idris	Hassan II Mosque
+258625	Travel	3	Where is New Year's called "Hogmanay"?	Germany	Scandinavia	England	Scotland
+532329	Travel	3	What city in Scotland is known as the "Granite City" and is renowned for its gothic architecture?	Dundee	Perth	St. Andrews	Aberdeen
+532386	Travel	3	What was the name of Zambia before becoming independent in 1964?	Dahomey	Tanganyika	Zaire	Northern Rhodesia
+258730	Travel	3	What is the largest city, principal port, leading commercial center, and former capital of Tanzania?	Dodoma	Mwanza	Arusha	Dar Es Salaam
+532340	Travel	3	Which name is shared by hotels in Chicago and Toronto?	Windsor	Chelsea	Plaza	Drake
+282861	Travel	3	Reykjavik, Akureyri and Keflavik are cities in what remote island country?	Fiji	Tahiti	Cuba	Iceland
+532396	Travel	3	What U.S. state is famous for fried chicken, corn, and blue crabs?	Virginia	New Jersey	Delaware	Maryland
+258729	Travel	3	What does the word "Denali" means in the native Athabaskan language?	Mountain	Freedom	Clouds	The High One
+532397	Travel	3	What Egyptian city is called "Umm al-Dunya", meaning "the mother of the world"?	Dhaka	Lahore	Shenzhen	Cairo
+258692	Travel	3	What percentage of Bolivia is covered by rainforest?	85%	5%	18%	40%
+91108	Travel	3	What is Turkey's most populous city as well as its cultural and financial hub?	Beijing	Karachi	Delhi	Istanbul
+258698	Travel	3	What is average snowfall in Denver for the month of March?	1.3 Inches	32 Inches	9.5 Inches	11.7 Inches
+462386	Travel	3	Which bridge is often called "Big Mac" or "Mighty Mac"?	Huangpu Bridge	Golden Gate Bridge	Verrazano-Narrows Bridge	Mackinac Bridge
+518445	Travel	3	How many boroughs (Bezirke) is the city of Berlin divided into?	One Hundred	Three	Forty-Two	Twelve
+532293	Travel	3	What large volcanic caldera in Tanzania is home to the world's highest density of lions?	O'a Caldera	Waw An Namus	Menengai	Ngorongoro Crater
+258678	Travel	3	Which NBA legend was born in the capital city of Kinshasa in the Democratic Republic of the Congo?	Hakeem Olajuwon	Manute Bol	Patrick Ewing	Dikembe Mutombo
+369295	Travel	3	What are the two official languages of Kenya?	Kikuyu & Swahili	Kikuyu & English	Swahili & Kamba	English & Swahili
+526606	Travel	3	The northern part of which lake forms the border between Tanzania and Malawi?	Lake Tanganyika	Lake Victoria	Lake Turkana	Lake Nyasa
+258709	Travel	3	What city in Morocco houses what many consider to be the oldest university in the world?	Rabat	Marrakesh	Casablanca	Fez
+532321	Travel	3	Which city is located on the Eastern coastline of Kenya bordering the Indian Ocean?	Nairobi	Kisumu	Nakuru	Mombasa
+258866	Travel	3	Which incorporated U.S. city boasts the highest elevation above sea level?	Santa Fe, New Mexico	Butte, Montana	Pocatello, Idaho	Leadville, Colorado
+532370	Travel	3	What is the largest city in Nigeria and in West Africa?	Delhi	Beijing	Shanghai	Lagos
+258770	Travel	3	Which hotel chain derived its name from a Bing Crosby movie?	Days Inn	Shangri-La	Four Seasons	Holiday Inn
+45293	Travel	3	Who built the Warwick Hotel in New York City?	John D Rockefeller	Donald Trump	Dean Cornwell	William Randolph Hearst
+368591	Travel	3	What was formerly on the site where millionaire William Waldorf Astor opened the 13-story Waldorf Hotel?	A Church	The Mayor's Office	A Prison	Astor's Mansion
+532375	Travel	3	What is the name of the toy museum located on the Isle of Skye in Scotland?	Dunvegan Museum	Toys, Toys, Toys	Children's Place	Glendale Toy Museum
+376824	Travel	3	What river is the Queensway Tunnel under?	River Severn	River Tyne	River Dart	River Mersey
+14751	Travel	3	What former emperor of Ethiopia is considered to be God incarnate by the Rastafari movement?	Marcus Garvey	Menen Asfaw	Bob Marley	Haile Selassie
+282938	Travel	3	Which of these is true about the Dead Sea?	It Has No Water	It Is Man-Made	It Is Located In Canada	It Is A Salt Lake
+532415	Travel	3	What hill in northern Lithuania has been a site of pilgrimage for hundreds of years?	Hill Of Bells	Hill Of Rosaries	Hill Of Wreaths	Hill Of Crosses
+250831	Travel	3	In which city is the Hotel Chelsea located?	Boulder	Los Angeles	Miami	New York
+462389	Travel	3	In which New York borough is Yankee Stadium located?	Staten Island	Brooklyn	Queens	Bronx
+462397	Travel	3	What river that runs through Mali is the third longest river in Africa?	Congo River	Zambezi	Nile	Niger River
+518428	Travel	3	How many capital cities does South Africa have?	Four	One	Two	Three
+97490	Travel	3	From which nation did Mali achieve independence in 1960?	Spain	United Kingdom	Germany	France
+369362	Travel	3	Where is the tourist destination, Harada House located?	Vallejo	Inyo	Sacramento	Riverside
+258877	Travel	3	Between the 14th and 16th centuries, Lithuania was in a "dynastic union" with which country?	Belarus	Latvia	Ukraine	Poland
+258626	Travel	3	What 14th century king of the Mali Empire is mostly remembered for his extravagant pilgrimage to Mecca?	Sundiata Keita	Askia Mohammad I	Ibn Battuta	Mansa Musa
+532333	Travel	3	What river, whose name means "Mother River" in Estonian, connects the two largest lakes of Estonia?	Alajogi	Valgejogi	Navesti	Emajogi
+532290	Travel	3	What is the name of the UK's premier theme park located in Staffordshire?	Disney	Rip Saw	Nemesis	Alton Towers
+532357	Travel	3	Gho and kira are the traditional dresses from which country?	Nepal	India	Indonesia	Bhutan
+532278	Travel	3	In 1965, the Gambia gained independence from which of the following countries?	Portugal	France	United States Of America	United Kingdom
+79318	Travel	3	In 2004, what Kenyan environmentalist became the first African woman to receive the Nobel Peace Prize?	Joyce Banda	Ellen Johnson Sirleaf	Leymah Gbowee	Wangari Maathai
+282937	Travel	3	In England, what is "The Wash"?	A Bay In England At Its Closest Point To Ireland	A Waterfall In The Scottish Highlands	A Tributary Of The River Tyne	A Shallow Inlet On The North Sea Coast
+532280	Travel	3	What ancient castle in the central part of Tallinn today houses the Parliament of Estonia?	Hermann Castle	Haapsalu Castle	Kuressaare Castle	Toompea Castle
+369312	Travel	3	Which hotel did Donald Trump publicly refer to as "a masterpiece" in 1988?	Grand Central	Biltmore	Waldorf-Astoria	Plaza
+267424	Travel	3	The Nob Hill Hotel is sister to which hotel?	Fairmont	Omni	Pan Pacific	Fitzgerald
+518570	Travel	3	What software was created by Estonian developers and is mainly developed in Estonia?	WeChat	Viber	WhatsApp	Skype
+532388	Travel	3	What river flowing through Latvia is also known as the Western Dvina?	Iecava	Gauja	Misa	Daugava
+94878	Travel	3	Which hotel is often referred to as an extension of Buckingham Palace?	Ritz	Langham	Savoy	Claridge's
+394323	Travel	3	What is the stage name of German electronic musician Sascha Ring?	Heisskalt	Dillon	Moby	Apparat
+532360	Travel	3	Where in NYC is Bryant Park?	Next To Yankee Stadium	Soho	Wall Street Area	Behind The New York Public Library
+284804	Travel	3	What is Zimbabwe's national emblem, which appears on the national flag and coat of arms of the country?	Zimbabwe Fish	Zimbabwe Antelope	Zimbabwe Dragon	Zimbabwe Bird
+532381	Travel	3	Formerly the Cathay, which famous hotel is located on The Bund in Shanghai, China?	Love	Cloud	Star	Peace
+532330	Travel	3	The site where the Dunes hotel once stood now houses which Las Vegas property?	MGM Grand	Luxor	Excalibur	Bellagio
+258520	Travel	3	What dark bread made from rye is a staple of Latvian diet?	Bublik	Kepta Duona	Sakotis	Rupjmaize
+518561	Travel	3	The Amazon, Brazil's largest river system, originates in which mountain range?	Yukon	Himalayas	Inuit	Andes
+376393	Travel	3	Estonia shares land borders with Russia and which other country?	Lithuania	Finland	Belarus	Latvia
+479178	Travel	3	Merkato, the largest open air market in Africa, is located in the heart of what city in Ethiopia?	Adama	Gondar	Mek'ele	Addis Ababa
+76962	Travel	3	At an elevation of 311.6 m above sea level, what hill is the highest point in Latvia?	Madona	Vidzeme	Suur Munamagi	Gaizinkalns
+532309	Travel	3	Vast quantity of what birds famously line the shore of Lake Nakuru in the rift valley of Kenya?	Storks	Herons	Swans	Flamingos
+192433	Travel	3	What river that flows along the border between Zambia and Zimbabwe is the fourth-longest river in Africa?	Nile	Congo River	Niger River	Zambezi
+376687	Travel	3	In which city is Tower Bridge situated?	Paris	Barcelona	Shanghai	London
+258884	Travel	3	In which area of Australia can you find Wingan Inlet and the Mueller and Thurra rivers?	In Southeastern South Australia	In The Far South Of New South Wales	In Northeastern Tasmania	In The Far East Of Victoria
+481460	Travel	3	Which London hotel, now owned by Hilton, boasts nearly five hundred rooms and suites?	Savoy	Ritz	Grosvenor House	Langham
+70891	Travel	3	What large gulf of the Baltic Sea is situated in the northwest of Latvia?	Gulf Of Finland	Gulf Of Bothnia	Bay Of Biscay	Gulf Of Riga
+376845	Travel	3	How many official languages does South Africa have?	10	5	7	11
+365450	Travel	3	What large species of eagle is the national bird of Zimbabwe and Zambia?	Bald Eagle	Harpy Eagle	Golden Eagle	African Fish Eagle
+532368	Travel	3	Which volcano showers ash on Sicily?	Ararat	Ida	Vesuvius	Etna
+532389	Travel	3	Which is not an official language of Switzerland?	German	Italian	Romansch	Swedish
+526533	Travel	3	Where is the first Kentucky Fried Chicken restaurant owned and operated by Colonel Sanders located?	Grayson, KY	Lexington, KY	Louisville, KY	Corbin, KY
+88339	Travel	3	Bogolanfini, a hand-woven and hand-dyed Malian cotton fabric, is more popularly known as what?	Clay Cloth	Sand Cloth	Dirt Cloth	Mud Cloth
+518499	Travel	3	What dance festival takes place in Feropolis?	Fusion	Her Damit Festival	Ultra	Melt
+258807	Travel	3	Which world cities are listed in correct order from northernmost to southernmost?	Montevideo, Bulawayo, Minsk, Moscow	Minsk, Moscow, Montevideo, Bulawayo	Moscow, Minsk, Montevideo, Bulawayo	Moscow, Minsk, Harare, Montevideo
+532385	Travel	3	What bird adorns the center of the flag of Uganda?	Blue Crane	Steppe Eagle	Red-crested Turaco	Grey Crowned Crane
+394449	Travel	3	What is the name of England's first national park in the central and northern parts of England?	Sheffield Park	Derbyshire	Heritage Park	Peak District
+532324	Travel	3	What was Tanzania's name before the 1964 union with Zanzibar?	Zaire	Rhodesia	Biafra	Tanganyika
+532301	Travel	3	Which lake in Berlin has the islands of Hasselwerder, Lindwerder and Scharfenberg?	Krumme Lanke	Langer See	Schlachtensee	Lake Tegel
+532371	Travel	3	What is the name of the third largest city in Brazil?	Buenos Aires	Rio De Janeiro	Brasilia	Belo Horizonte
+532420	Travel	3	What name is commonly used to refer to the Elizabeth Tower of the Palace of Westminster in London?	Big Jen	Big Hen	Big Zen	Big Ben
+258843	Travel	3	What park near Juodkrante, Lithuania features many different wooden carvings from local artists?	Hill Of Legends	Hill Of Spirits	Hill Of Gods	Hill Of Witches
+395731	Travel	3	Where in California will you find Leconte Memorial Lodge?	San Francisco	St. Helena	Sacramento	Yosemite National Park
+394447	Travel	3	In which U.S. state is Lake Okeechobee located?	Pennsylvania	New York	Mississippi	Florida
+532341	Travel	3	What ethnic group in northern Mali are sometimes called the "Blue People"?	Bambara	Soninke	Marka	Tuareg
+532384	Travel	3	Which hotel is not located in New York City?	Plaza	Biltmore	Royalton	Bellagio
+75410	Travel	3	What African Great Lake lies on the border between the Democratic Republic of the Congo and Rwanda?	Lake Tanganyika	Lake Mweru	Lake Edward	Lake Kivu
+532348	Travel	3	What mountain range is located mainly in the center and the south of Morocco?	Rif Mountains	Togo Mountains	Aures Mountains	Atlas Mountains
+532327	Travel	3	Which is the largest of the Spanish Balearic islands?	Ibiza	Menorca	Sardinia	Majorca
+258754	Travel	3	What city in South China is also known as "Canton" in the West?	Karachi	Delhi	Lahore	Guangzhou
+282942	Travel	3	The "ata-balasy" is a cultural custom of which country?	Italy	Spain	Turkey	Kazakhstan
+394273	Travel	3	What large bird is the national bird of Lithuania?	Golden Eagle	Blue Crane	Red Kite	White Stork
+180502	Travel	3	What Angolan city is the most populous Portuguese-speaking capital city in the world?	Wuhan	Rio de Janeiro	Santiago	Luanda
+64157	Travel	3	What is the largest freshwater lake in Japan?	Pulicat Lake	Lake Tempe	Lake Fuji	Lake Biwa
+532284	Travel	3	In Slovakia, if you say "dobre rano" to somebody, what would that mean?	Good Night	Welcome	Good Bye	Good Morning
+532392	Travel	3	What is known as a nightclub district in the north of Paris, France?	Ile Saint-Louis	Chatelet	Val d∆Europe	Montmartre
+283173	Travel	3	Locally known as "Borreh", what is the national sport of the Gambia?	Archery	Swimming	Boxing	Wrestling
+531912	Travel	3	What type of winds drive climate changes into India?	Santa Ana	Gulf Stream	Arctic	Monsoon
+532320	Travel	3	In what year did the Netherlands decriminalize possession of soft drugs such as cannabis?	1990	1985	1969	1976
+78771	Travel	3	What current hotel opened on October 1, 1931 as the world's largest and tallest hotel at the time?	The Algonquin Hotel	Grand Hotel	Fontainebleau Hotel	Waldorf Astoria
+90816	Travel	3	What Italian metropolis has the largest population?	Turin	Rome	Naples	Milan
+462324	Travel	3	How many time zones does Brazil cover?	1 Time Zone	6 Time Zones	10 Time Zones	3 Time Zones
+462384	Travel	3	What is the name of the museum located in Keswick which documents the discovery of Borrowdale graphite?	Graphite Museum	Derwent Museum	Greta Museum	The Pencil Musuem
+462398	Travel	3	What river flows from the Andes mountains onto the west and divides Chile's capital Santiago in two?	Amazon River	Nile	Yangtze River	Mapocho River
+532358	Travel	3	What is the city code for Amsterdam?	88	1	15	20
+258864	Travel	3	How many stories tall is the Waldorf Astoria?	12 Stories	132 Stories	32 Stories	42 Stories
+532337	Travel	3	What traditional Malian drink is served three times from the same pot?	Malian Tamarind	Guava Juice	Malian Coffee	Malian Tea
+74260	Travel	3	How long is the narrowest point across the Grand Canyon?	Four Feet	Four Hundred Miles	Forty Yards	Four Miles
+518566	Travel	3	When was Denali National Park established?	26-Feb-57	February 26, 1817	26-Feb-72	26-Feb-17
+394900	Travel	3	In 2007, Gambia's president Yahya Jammeh claimed he could cure what disease with natural herbs?	Malaria	Measles	Tuberculosis	AIDS
+258734	Travel	3	Which of these is the setting for the film "Halloween"?	Iram, Kentucky	Hart, Missouri	Halloween Town, Ohio	Haddonfield, Illinois
+369309	Travel	3	Pierre Charles L'Enfant, a French architect, designed what renowned American city?	Cincinnati	Detroit	Orlando	Washington, DC
+74616	Travel	3	John Lennon and Yoko Ono recorded the song "Give Peace a Chance" in which hotel?	Marriott	Biltmore	Waldorf-Astoria	Queen Elizabeth
+76212	Travel	3	Which of these countries does not have a capital city that begins with the letter B?	Kyrgyzstan	Thailand	Slovakia	Bangladesh
+407178	Travel	3	Where is the city of Valencia located?	Brazil	Peru	Mexico	Venezuela
+317342	Travel	3	Situated on the border between Estonia and Russia, what is the biggest transboundary lake in Europe?	Lake Ladoga	Lake Onega	Lake Vanern	Lake Peipus
+88291	Travel	3	Which hotel is located in San Francisco's Union Square?	Drake	Plaza	Biltmore	Fitzgerald
+2732	Travel	3	Which natural landmark acts as a divider between Bolivia's geographic zones?	Lake Titicaca	Amazon River	Yungas Valley	Andes Mountains
+45477	Travel	3	What is the highest geographic point in Italy?	Mount Everest	Mount Katahdin	Mount Rushmore	Mont Blanc
+524276	Travel	3	On which island can you find Madang, Wewak, Alotau, Wapenamanda, Fak Fak and Jayapura?	Madagascar	Sri Lanka	Jamaica	New Guinea
+74274	Travel	3	The Royal Gorge Bridge of Colorado has been built above which river?	Crystal River	Alamosa River	Blue River	Arkansas River
+518541	Travel	3	Which amusement park is the home of "The Beast"?	Disneyland (Anaheim, California)	Disney World (Orlando, Florida)	Six Flags Magic Mountain (L.A., California)	King's Island (Cincinnati, Ohio)
+532312	Travel	3	What city that lies on the Emajogi river is often considered the intellectual center of Estonia?	Narva	Tallinn	Parnu	Tartu
+258624	Travel	3	From which Boston museum were $200 million worth of paintings stolen in 1990?	Beantown Museum	Boston Museum Of Fine Arts	Mary Baker Eddy House	Isabella Stewert Gardner Museum
+479219	Travel	3	Which hotel is located at the corner of 5th Avenue and Central Park South in Manhattan?	Hudson	Royalton	Chelsea	Plaza
+374332	Travel	3	What sport that involves a modified swing was invented in Estonia by Ado Kosk in 1996?	Skiing	Scootering	Kitesurfing	Kiiking
+532353	Travel	3	In what country can a man be referred to as "First Footer"?	USA	England	Germany	Scotland
+532292	Travel	3	The Soup Dragons from Glasgow, Scotland released which two albums in the 80's?	Arena And Thank You	Heaven Up Here And Electrafixion	Naive Dance And Liberation	Hang-Ten! And This Is Our Art
+532331	Travel	3	Alice Springs is located in the Northern Territory, but where is the town of Alice River?	Tasmania	Northern Territory	South Australia	Queensland
+532283	Travel	3	In what country would you find Mont St. Michel?	Andorra	Monaco	Luxemburg	France
+462391	Travel	3	Where did shortbread originate?	USA	France	Ireland	Scotland
+376783	Travel	3	In which country would you find "Sento", or neighborhood bathhouses?	Thailand	Mexico	Brazil	Japan
+258683	Travel	3	In Scotland, what vegetable was traditionally carved into a jack-o-lantern?	Eggplant	Onion	Potato	Turnip
+532365	Travel	3	What is the highest mountain of both the DR Congo and Uganda, and the third-highest in Africa?	Mount Kilimanjaro	Mount Kenya	Mount Speke	Mount Stanley
+462382	Travel	3	What is the largest palace in Berlin?	Bellevue Palace	Glienicke Palace	Princesses' Palace	Charlottenburg Palace
+532300	Travel	3	The name of what city, which is the capital of Mali, comes from the Bambara word meaning "crocodile river"?	Timbuktu	Sikasso	Mopti	Bamako
+532310	Travel	3	When did Waterloo Bridge that crosses over the River Thames in London open?	December 1815	Dec-59	Dec-99	Dec-45
+374591	Travel	3	What is the common name of the Amsterdam version of Gothic architecture?	Dutch Classicism	Flat Style	Louis Style	Polder Gothic
+532276	Travel	3	The Chapel Bridge is a famous tourist attraction in which country?	Canada	Russia	Turkey	Switzerland
+518538	Travel	3	Which Las Vegas hotel has canals?	Sahara	Luxor	Sands	Venetian
+73190	Travel	3	Who are Sonja Glass and Valeska Steiner?	Talk Show Hosts	Vocal Duo, Baccara	Members Of Atomic Kitten	Pop Duo, Boy
+95893	Travel	3	The Gambia River flows along the entire length of the Gambia and empties into what ocean?	Pacific Ocean	Indian Ocean	Arctic Ocean	Atlantic Ocean
+92320	Travel	3	Which hotel chain is named for a 17th Century French explorer?	Ramada	Hilton	Hyatt	Radisson
+532393	Travel	3	Where in New Zealand is Cathedral Cove?	Bay Of Islands	Northland	Southland	Coromandel Peninsula
+376689	Travel	3	What is Morocco's capital, whose name translates to "fortified place"?	Fez	Marrakesh	Casablanca	Rabat
+374475	Travel	3	What industry holds Green Week in Berlin every year?	Solar Power Industry	Coal Industry	Flowers Growers	Food Industry
+532288	Travel	3	What World Heritage Site is found north of the town of Janjanbureh in eastern Gambia?	Stone Rows Of Senegambia	Timber Circles Of Senegambia	Guardian Stones Of Senegambia	Stone Circles Of Senegambia
+532298	Travel	3	Mardi is French for which day of the week?	Wednesday	Monday	Friday	Tuesday
+394893	Travel	3	Humayun's Tomb, the first garden-tomb on the Indian subcontinent, is located in what city in India?	Istanbul	Dhaka	Cairo	Delhi
+532369	Travel	3	What is the name of the main racecourse in Darwin, Australia?	Grayville	Haberton	Palmeston	Fannie Bay
+79317	Travel	3	What world's largest oddity is located on Oahu Island?	Clock	Lei	Palm Tree	Windmill
+194457	Travel	3	Where is the city of Bogota located?	Brazil	Mexico	Ecuador	Colombia
+518556	Travel	3	What Florida tourist attraction boasts more than 20 resort hotels?	Universal Studios	Fantasy Of Flight	Daytona Speedway	Walt Disney World
+394277	Travel	3	What is the emergency number to call for the police, fire department, and ambulance in Amsterdam?	555	911	411	112
+394897	Travel	3	The Great Mosque in the city of Djenne, Mali is made of what material?	Glass	Wood	Granite	Mud
+291698	Travel	3	What official language of South Africa was previously referred to as "Cape Dutch" or "kitchen Dutch"?	Zulu	Xhosa	Sesotho	Afrikaans
+83584	Travel	3	Which Los Angeles hotel was once owned by Lillian Gish, the star of numerous silent films?	Furama	Wilshire Grand	Omni	Maison 140
+524364	Travel	3	The Ethiopian calendar consists of how many months?	14	11	12	13
+258748	Travel	3	Which hotel is not located in Canada?	Grand	Queen Elizabeth	Fairmount	Broadmoor
+532350	Travel	3	Siegfried and Roy performed their magic show at which Las Vegas hotel prior to a tragic accident in 2003?	Luxor	Bellagio	MGM Grand	Mirage
+256717	Travel	3	The endangered walia ibex, a wild goat, is endemic to what mountains in northern Ethiopia?	Bale Mountains	Entoto Mountains	Amaro Mountains	Semien Mountains
+532391	Travel	3	What river forms part of the border between Zambia and the Democratic Republic of the Congo?	Zambezi	Kafue River	Kalambo River	Luapula River
+85189	Travel	3	What was the name of the Hong Kong hotel featured in "The Man with the Golden Gun"?	Island	Plateau	Horizon	Peninsula
+369019	Travel	3	What retired Lithuanian basketball player is recognized as one of the best European players of his era?	Drazen Petrovic	Vlade Divac	Toni Kukoc	Arvydas Sabonis
+376791	Travel	3	What Pakistani city started as a small fishing village called "Kolachi"?	Lahore	Bangalore	Hyderabad	Karachi
+532279	Travel	3	Which of the four countries that border Latvia is closest in size to it?	Estonia	Russia	Belarus	Lithuania
+74735	Travel	3	The Gambia is home to Kunta Kinte, the main character in what 1976 slavery epic by Alex Haley?	Descent	Blood	Origin	Roots
+518529	Travel	3	What 37 to 45-meter high waterfall in Ethiopia is also known as Tis Abay, meaning "smoking water"?	White Nile Falls	Green Nile Falls	Black Nile Falls	Blue Nile Falls
+186692	Travel	3	What would you say to a person whom you want to wish "Good morning" in Turkey?	Iyi Gunler	Memnun Oldum	Nasilsiniz	Gunaydin
+258700	Travel	3	What is John Wesley Powell's link to the Grand Canyon?	Jumped It On A Motorcycle	Walked A Tightrope Across It	Discovered Gold	Lead First Expedition
+491518	Travel	3	Hyatt has hotels on how many continents?	3	4	5	6
+532343	Travel	3	In Scotland, The Bairns and The Bully Wee refer to what two teams?	Motherwell and Stranraer	Stirling Albion and Morton	East Fife and Kilmarnock	Falkirk and Clyde
+402073	Travel	3	In the cliffs of what California city will you find the Post Ranch Inn?	Monterey	San Luis Obispo	Carmel	Big Sur
+532361	Travel	3	What national park in Kenya is globally famous for the annual migration of zebra and wildebeest?	Amboseli National Park	?Lake Nakuru National Park	Samburu National Reserve	Maasai Mara National Reserve
+532414	Travel	3	What is the oldest hotel in Denver, Colorado?	Monaco	Oxford	Inverness	Brown Palace
+66974	Travel	3	In which French city is the Palais des Papes?	Bordeaux	Lyons	Paris	Avignon
+532416	Travel	3	What lake in Tanzania is the second-largest freshwater lake in the world by volume, and the second-deepest?	Lake Natron	Lake Victoria	Lake Rukwa	Lake Tanganyika
+282939	Travel	3	Which natural landmark is partly located in Bolivia?	Patagonian Mountains	Victoria Falls	Paraguay River	Amazon Rainforest
+532418	Travel	3	Where in England is the Lake District located?	London Area	Southwest	Southern Tip	Northwest
+532307	Travel	3	What small country in West Africa is known as "the Smiling Coast of Africa"?	Mali	Mauritania	Senegal	The Gambia
+532390	Travel	3	Which Ohio city boasts America's first traffic light?	Baltimore	Boise	Memphis	Cleveland
+518400	Travel	3	Which country in West Africa almost completely surrounds the Gambia?	Guinea	Mali	Mauritania	Senegal
+35105	Travel	3	Where was Australia's first Hard Rock Cafe built?	Melbourne	Brisbane	Canberra	Sydney
+394566	Travel	3	Where people are introduced by the titles "Pan" (Mr.) or "Pani" (Mrs.)?	Iran	Mongolia	Japan	Slovakia
+532352	Travel	3	When was the first Sydney-to-Hobart yacht race held?	1955	1935	1925	1945
+90074	Travel	3	Which hotel is located on a cliff top overlooking the Megalong Valley?	Coronado	Mayflower	Nob Hill	Hydro Majestic
+532419	Travel	3	Cuba is surrounded by how many main groups of islands?	Six	Two	Three	Four
+282928	Travel	3	What is the Irish name for Dublin?	Daba Ath Cleithe	Dubh Linnhe	Dublin	Baile Atha Cliath
+75621	Travel	3	If you drove from Melbourne to Adelaide along the coast, what scenic road would you travel on?	Hume Highway	Adelourne Road	Great Southern Road	Great Ocean Road
+532308	Travel	3	Who became the principal conductor of the Berlin Philharmonic Orchestra in 2002?	Sergiu Celibidache	John Cicero	Kani Alavi	Simon Rattle
+368719	Travel	3	Which hotel in Scotland boasts a golf course designed by Jack Nicklaus?	Pitlochry	St. Andrews	Loch Lomond	Gleneagles
+408863	Travel	3	How many square miles does the Sahara Desert cover?	1,000,000	6,000,000	10,000,000	3,000,000
+532328	Travel	3	What lake in the Kenyan Rift Valley is the largest permanent desert lake in the world?	Lake Nakuru	Lake Magadi	Lake Natron	Lake Turkana
+258518	Travel	3	What city in Bangladesh is known as the "Rickshaw Capital of the World"?	Guangzhou	Istanbul	Delhi	Dhaka
+532313	Travel	3	What Iowa government building has a glass dome roof?	Des Moines Capital Building	Waterloo Courthouse	Fort Dodge City Hall	Dubuque Courthouse
+376714	Travel	3	What is the smallest country on mainland Africa?	Zambia	Rwanda	Seychelles	The Gambia
+83101	Travel	3	Which sea separates Asia Minor from Greece?	Baltic	Mediterranean	Adriatic	Aegean
+532303	Travel	3	What is the name of the real "Hotel Rwanda"?	Mille Ruean	Ville Rwanda	Ville Collines	Mille Collines
+532291	Travel	3	Golf has been played at Scotland's St. Andrews Links since which century?	18th	17th	13th	15th
+258855	Travel	3	Montevideo is a city in which country?	Honduras	Mexico	Brazil	Uruguay
+259057	Travel	3	The Henley-on-Todd Regatta, an August boat race held in Alice Springs, Australia, is unusual in what way?	Only Children Can Enter	Contestants Race Rubber Ducks	Race Is Held At Night	Held On A Dry River Bed
+532362	Travel	3	How do you say, "thank you" in Maltese?	Donka	Iva	Kif Int	Grazzi
+98937	Travel	3	The Kodak Theatre was built on the site of which former hotel?	Wilshire Hotel	Hyatt Hotel	Hilton Hotel	Hollywood Hotel
+34817	Travel	3	What can you visit in the Grand Canyon on the Havasupai Indian Reservation?	Geyser	Glacier	Amusement Park	Waterfall
+70831	Travel	3	Kuwait City's Le Meridien hotel was taken over by which major chain in 2002?	Hilton	Wyndham	Radisson	Marriott
+374368	Travel	3	Which of these is the largest desert in Australia?	Stevens	Outback	Thomson	Gibson
+376421	Travel	3	What is the nickname of the national football team of the Gambia?	The Spiders	The Mites	The Ticks	The Scorpions
+258868	Travel	3	Which is the only New York City hotel to be designated as a National Historic Landmark?	Hudson	Deauville	Chelsea	Plaza
+532382	Travel	3	Where is the Sugar Bay Resort & Spa located?	Bahamas	Fiji	Hawaii	Virgin Islands
+256719	Travel	3	More than 500 cultural and historical monuments can be found in what national park in Latvia?	Lahemaa National Park	Aukstaitija National Park	Bialowieza National Park	Gauja National Park
+258715	Travel	3	Which hotel is one of the oldest and largest all-wooden buildings in California?	3 Peaks	Big Bear Lake	Prescott	Hotel Del Coronado
+258737	Travel	3	What was the ancient name of Casablanca, the largest city of Morocco?	Fez	Rabat	Marrakesh	Anfa

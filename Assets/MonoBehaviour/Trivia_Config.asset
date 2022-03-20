@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88a274b6afa6d1de7791860f13cf43c, type: 3}
+  m_Name: "Trivia_Config"
+  m_EditorClassIdentifier: 
+  gameName: "Trivia Star"
+  gamePathName: "Trivia"
+  internalAcronym: "TRV"
+  bonusCollectType: 2
+  facebook_app_id: "1268206803367751"
+  facebook_display_name: "Trivia Star"
+  facebook_page_id: "104351194526729"
+  facebook_permissions: "email,user_friends"
+  amplitudeApiKey: "5b50bcce119d19a8f0f255599be8ceef"
+  companyName: "Super Lucky Games LLC"
+  gmsAppId: "269759478822"
+  googleAnalyticsTrackingId: 
+  deeplinkScheme: "trivia"
+  domainName: "superluckycasino.com"
+  vip_email: 
+  uploadLevelGenerationStatistics: 1
+  Free_Android:
+    appName: "Trivia Star"
+    packageName: "com.trivia.star.android"
+    gameCode: "TRVa"
+    freeOrHd: "Free"
+    icons:
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f192a.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f144a.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f96a.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f72a.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f48a.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f36a.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f432a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f432a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f324a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f324a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f216a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f216a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f162a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f162a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f108a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f108a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f81a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f81a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f114a.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f256a.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f512a.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f1024a.png"
+    splashScreens:
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2fsplash-android.png"
+    allowedOrientations:
+    - "PORTRAIT"
+    marketUrl: "market:\x2f\x2fdetails?id=com.trivia.star.android"
+    applovinSdkKey: "t27UiRTdP3zD5cFwcH9AJIiQyCcEzLABR9185F6JBD6HTQTM4pwXKJN0HmivLJRGfDl_ndpMVXDNhQlEZERtnr"
+    helpshiftApiKey: "f4ffa9955eb8e6cc763773af3f372e1f"
+    helpshiftDomainName: "12gigs.helpshift.com"
+    helpshiftAppId: "12gigs_platform_20191212163450734-427cab65b31a444"
+    adjustAppToken: "oeq54crd39j4"
+    singularAppToken: "37e39f320951fdc5297544ebf2825322"
+    bannerAdUnitId: "64327b8c5e7d07f2"
+    rewardedVideAdUnitId: "4e44a04618bde451"
+    interstitialAdUnitId: "d06b72b8b43833b6"
+    safeDKAppId: "9db906de80a37c5978788c195fe54969"
+    safeDKAppKey: "0169b3678b13d31b42db67493b9def23"
+    adMobAppID: "ca-app-pub-9628806888148673~2028533164"
+    fcmSenderId: "408088123253"
+    loadingDialogTitle: "TODO-SET-THIS"
+    loadingDialogMessage: 
+    loadingDialogCurrency: "coins"
+    supportUrl: "https:\x2f\x2fsuperfree.com\x2fsupport\x2f"
+    supportText: "Need Help? Tap here!"
+    androidPlatform: "google"
+    leaderboardId: 
+    googlePlayKey: "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkWrHopQHP8QM9gPdFfwMKHV2aP4J0iNvGWYkh89eoGqifGqhewCPo8f1L7sZ9CnPPyPrEGBKOnH1KGhpFodB4ddPCSkJoHHm+bHAjpVyJoCnv8CBV0aoFxZwkaGVQuyJXAUffR+5O1y8togYp3zON\x2f3aq84X7VwGHw5Ocwc8BUIQK+5f4ff8RA64B1GR562H5\x2fIPuFt00EUH0rjcCTpnMRhnCBR6GXG+i1hVWtE7J\x2fIBeH+tXXdnPEJQVMGZS\x2fok2CecX6ITCdhhPa5Od5KpYCTbKLZ0Chc1U3gp98PSFd8XwinLnkc36hmAo1p8AzwhuRgkpigB0XwnIyqmpTkEtwIDAQAB"
+    cloudzillaKey: "Cloudzilla purchases key"
+    displayName: 
+    pushNotificationsIcons:
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f24.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f32.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f48.png"
+  Free_Ios:
+    appName: "Trivia Star"
+    packageName: "com.trivia.star.ios"
+    gameCode: "TRVi"
+    freeOrHd: "free"
+    icons:
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f76i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f152i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f167i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f20i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f40i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f29i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f58i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f40i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f80i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f120i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f180i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f40i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f60i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f29i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f58i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f87i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f80i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f120i.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f1024i.png"
+    splashScreens:
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f320x480.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f640x960.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f640x1136.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f750x1334.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f768x1024.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f1536x2048.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f1125x2436.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f1242x2208.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f1024x768.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f2436x1125.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f2048x1536.png"
+    - "Assets\x2fGame\x2fUI\x2fTrivia\x2fIcons\x2f2208x1242.png"
+    allowedOrientations:
+    - "PORTRAIT"
+    marketUrl: "itms-apps:\x2f\x2fitunes.apple.com\x2fapp\x2fid1508418993"
+    applovinSdkKey: "t27UiRTdP3zD5cFwcH9AJIiQyCcEzLABR9185F6JBD6HTQTM4pwXKJN0HmivLJRGfDl_ndpMVXDNhQlEZERtnr"
+    helpshiftApiKey: "f4ffa9955eb8e6cc763773af3f372e1f"
+    helpshiftDomainName: "12gigs.helpshift.com"
+    helpshiftAppId: "12gigs_platform_20191212163450712-e51f90c56f2da8f"
+    adjustAppToken: "svrgv45fr8cg"
+    singularAppToken: "37e39f320951fdc5297544ebf2825322"
+    bannerAdUnitId: "5c94c4590c26e9db"
+    rewardedVideAdUnitId: "4e006af63640867c"
+    interstitialAdUnitId: "a4a95538e5238f81"
+    safeDKAppId: "2e9f3fa9befbf71bebf50193b8326f97"
+    safeDKAppKey: "5991beb4d33b5aabf56b6855022821bf"
+    adMobAppID: "ca-app-pub-9628806888148673~9476118622"
+    KEYCHAIN_ACCESS_GROUP: "S3693FGLRN.platinumPlayer"
+    adjustUniversalLinkUrl: "qd6a.adj.st"
+    supportUrl: "https:\x2f\x2fsuperfree.com\x2fsupport\x2f"
+    firebaseAnalyticsEnabled: 1
+  Free_Webgl:
+    appName: 
+    packageName: 
+    gameCode: 
+    freeOrHd: "free|hd"
+    icons:
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f196a.png"
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f144a.png"
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f96a.png"
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f72a.png"
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f48a.png"
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f36a.png"
+    splashScreens:
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fviponly\x2fsplash-android.png"
+    allowedOrientations:
+    - "LANDSCAPE_RIGHT"
+    - "LANDSCAPE_LEFT"
+    marketUrl: "Marke URL of this app"
+    applovinSdkKey: 
+    helpshiftApiKey: 
+    helpshiftDomainName: "Domain Name for Helpshift"
+    helpshiftAppId: 
+    adjustAppToken: 
+    singularAppToken: "37e39f320951fdc5297544ebf2825322"
+    bannerAdUnitId: 
+    rewardedVideAdUnitId: 
+    interstitialAdUnitId: 
+    safeDKAppId: 
+    safeDKAppKey: 
+    adMobAppID: 
+    bundleVersion: "1.234"
+    supportUrl: "https:\x2f\x2fplatinumplayerllc.com\x2fsupport"
+  APPLOVIN_SDK_KEY: "t27UiRTdP3zD5cFwcH9AJIiQyCcEzLABR9185F6JBD6HTQTM4pwXKJN0HmivLJRGfDl_ndpMVXDNhQlEZERtnr"
+  propertiesFile: "ant.properties"
+  antProjectName: "trv"
+  gameObjectName: "NativeCallbacks"
+  StagingServerURL: "https:\x2f\x2ftrivia-stage.12gigs.com"
+  ProductionServerURL: "https:\x2f\x2ftrivia-api.12gigs.com"
+  ResourcesDataPath: "umbrella"
+  EnabledScenes:
+  - "Assets\x2fWordGame\x2fScenes\x2fTrivia\x2fBootstrap.unity"
+  - "Assets\x2fWordGame\x2fScenes\x2fTrivia\x2fLaunchScene_Skeuomorphic.unity"
+  - "Assets\x2fWordGame\x2fScenes\x2fTrivia\x2fGame_Skeuomorphic.unity"
+  - "Assets\x2fGame\x2fFeatures\x2fGameStore\x2fGameStoreScene.unity"
+  - "Assets\x2fWordGame\x2fScenes\x2fTrivia\x2fLeagues_Skeuomorphic.unity"
+  ResourcesToDisable: []
+  isUmbrella: 0
+  deprecated: 0
+  priority: 1
+  googleSheetForMachines: "https:\x2f\x2fdocs.google.com\x2fspreadsheets\x2fd\x2fe\x2f2PACX-1vSbqgQrOc0psE-sHDYlrCmxojPBuLBS4D9vVJ0lbTOn7NRheuD801iDLU4N9DUKEVDE6eE5f-onJiEB\x2fpub?gid=1665838007&single=true&output=tsv"
+  staging_path: "\x2fsrv\x2fstage\x2ftrivia_game\x2fshared\x2fpublic\x2fsystem"
+  BuildTime: "11\x2f22\x2f2021 8:53:11 AM"
+  GitBranch: " TRV1.173-10-28-21"
+  GDPR_TOS_URL: 
+  GDPR_Privacy_URL: 

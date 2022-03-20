@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8a88029d28bf41abab03bb0c7bc7c5eb
+timeCreated: 1647776328
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "AvenirNext-Medium"
+  fontNames:
+  - Avenir Next
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

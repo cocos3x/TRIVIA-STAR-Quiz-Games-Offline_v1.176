@@ -1,0 +1,471 @@
+0DIFSP5	Auto Racing	3	Which of these is not a penalty, according to NASCAR rules?	Passing cars before the green flag	Tactical side-swiping	Going over pit road's speed limit	Cutting parts off damaged cars
+0DIFSP18	Auto Racing	1	What color strip across the rear of a racecar signifies a rookie driver?	Periwinkle	Black	Pink	Yellow
+0DIFSP1	Auto Racing	0	What is most often the shape of a Nascar race track?	Triangle	Square	Pretzel	Oval
+0DIFSP10	Auto Racing	0	Who supplies all tires to NASCAR stock car teams?	HBO	Chevron	Costco	Goodyear
+120418	Auto Racing	0	Which of these is actually a well known NASCAR driver?	Joe Gordon	Bobby Thomas	Tony Romo	Jeff Gordon
+0DIFSP3	Auto Racing	0	What is a pit stop?	A place to buy avocados	A break room	Tactical braking	A place to service the race car
+0DIFSP8	Auto Racing	0	What is the title of the person in charge of the pit crew?	Crew king	#1 lackey	Mob boss	Crew chief
+151643	Auto Racing	0	What are you reading when looking at a RPM number"?	Revometer	Speedthing	RPM-o-meter	Tachometer
+230124	Auto Racing	0	What track has banking in the corners at 24 degrees and is located 30 minutes south of Atlanta?	Talladega Superspeedway	California Speedway	Chicagoland Speedway	Atlanta Motor Speedway
+120420	Auto Racing	0	Which of these is actually a well known NASCAR driver?	Rasheed Earnhardt Jr.	Dorothy Earnhardt Jr.	Ray Earnhardt Jr.	Dale Earnhardt Jr.
+531473	Auto Racing	0	What NASCAR star voiced himself in the Pixar movie "Cars" as a #8 race car?	Keanu Reeves	Will Ferrel	Jimmie Johnson	Dale Earnhardt, Jr.
+0DIFSP19	Auto Racing	0	What state has earned the nickname "NASCAR Valley"?	Florida	Colorado	California	North Carolina
+0DIFSP13	Auto Racing	0	Where did the term "Grand Prix" come from?	Canada	South Africa	Russia	France
+230132	Auto Racing	0	What track located in Nevada has 12 degree banking in the corners?	Darlington Raceway	Infineon Raceway	Kansas Speedway	Las Vegas Motor Speedway
+0DIFSP12	Auto Racing	0	Where does the winner of a race go to with their car?	Winner's square	Safe zone	Pit stop	Victory lane
+0DIFSP11	Auto Racing	0	What is the color of the flag that stops the race?	Yellow	Green	Pink	Red
+151635	Auto Racing	0	Which auto racing term describes "movement of the rear end of a car from side to side"?	Jamming	Skitching	Monkeytail	Fishtail
+151642	Auto Racing	0	Which auto racing term is defined as "wide flat tires used on the rear wheels of dragsters"?	Rubbers	Bouncers	Racks	Slicks
+0DIFSP9	Auto Racing	0	What is the name of the area that the car pulls into to make a pit stop?	Pit dodecagon	Sidelines	Gas station	Pit box
+230078	Auto Racing	0	Which track in South Carolina is known as "Too Tough to Tame"?	Pocono Raceway	The Autobahn	Circuit de Monaco	Darlington Raceway
+120424	Auto Racing	0	What is the first name of NASCAR's Foyt?	Billie	Fran	Dick	AJ
+0DIFSP20	Auto Racing	0	What was the first NASCAR race to be nationally televised from start to finish?	Las Vegas 300	Los Angeles 50	New York 1000	Daytona 500
+151641	Auto Racing	0	What is it called in auto racing when a racer takes the outside line around a turn?	Hairpin	Pit	Black Flag	Riding The Rails
+0DIFSP17	Auto Racing	0	How many members are there in a NASCAR pit crew?	18	1	2	7
+0DIFSP15	Auto Racing	0	What year was NASCAR founded?	1901	1912	2010	1948
+151636	Auto Racing	0	Which auto racing term is a turn that goes through 180 degrees?	Kelping	Icing	Pintail	Hairpin
+120423	Auto Racing	0	Which of these is actually a well known NASCAR driver?	Barret Wallace	Tom Brady	Tony Hawk	Richard Petty
+151639	Auto Racing	0	Which auto racing term means "an area beside the track where cars stop for fuel and servicing"?	Bullpen	Landing Zone	Wing	Pit
+152024	Auto Racing	0	Which state is the Sonoma Raceway located in?	Kentucky	Utah	Texas	California
+0DIFSP16	Auto Racing	0	Where was the first NASCAR race held?	London	Moscow	Rome	North Carolina
+8E0009	Auto Racing	0	The NHRA stands for the National Hot ____ Association?	Running	Rad	Racing	Rod
+8E0107	Auto Racing	0	What is race car driver Al Unser's first name?	Joshua	Derek	Freddy	Alfred
+151645	Auto Racing	0	Which flag is used to signal caution?	Paisley Flag	Black Flag	Rainbow Flag	Yellow Flag
+185917	Auto Racing	0	Which NASCAR star endured the loss of his father in the Daytona 500?	Arnold Palmer	Kobe Bryant	Tony Gwynn	Dale Earnhardt Jr.
+2949	Auto Racing	0	What driving technique is used to create an advantage on superspeedways?	Side-By-Side	Loose Around The Corners	Burning Rubber	Drafting
+531723	Auto Racing	0	What is the name of the part of the race car that is made of thick tubing and protects the driver in a crash?	Rear Clip	Firewall	Fuel Cell	Roll Cage
+531933	Auto Racing	0	Which driver was ranked #1 on Forbes.com's list of Most Influential Athletes for 2011 and 2012?	Danica Mars	Kyle Langdon	Tony Stark	Jimmie Johnson
+31585	Auto Racing	0	Which driver's nickname was "The Intimidator"?	Alex Hamilton	Dale Jared Jr.	Serena Williams	Dale Earnhardt
+0DIFSP14	Auto Racing	0	Which sport is a race between two or more cars over a short distance?	Tokyo drift	Oval track racing	Grand Prix	Drag racing
+0DIFSP6	Auto Racing	0	What substance do racecars use for windshields instead of glass?	Netting	Rubber	Silly putty	Lexan
+8E0149	Auto Racing	0	Where is the Daytona International Speedway located?	Oregon	Washington	New Jersey	Florida
+531462	Auto Racing	0	Who sent his very first tweet after winning the Daytona 500 in 2014?	Denny Hamlin	Michael Jordan	Babe Ruth	Dale Earnhardt, Jr.
+8E0135	Auto Racing	0	NASCAR racing drivers Kurt and Kyle share what last name?	Martin	Johnson	Coors	Busch
+8E0079	Auto Racing	0	Where is the Suzuka Circuit located?	Spain	Sweden	Germany	Japan
+8E0065	Auto Racing	0	Where is the Talladega Superspeedway located?	Berlin	Paris	New York	Alabama
+151630	Auto Racing	0	Which racing term is defined as "an engine that has failed completely"?	Yellow Flag	Fishtail	Lap	Blown Engine
+8E0093	Auto Racing	0	What is the surface of the Indianapolis Motor Speedway made of?	Clay	Grass	Cardboard	Asphalt
+532071	Auto Racing	0	What color flag lag indicates that there is debris on the track?	Blue	Purple	White and Black	Yellow and Red
+0DIFSP7	Auto Racing	0	Which of the following measurements is not taken for a drag race?	Reaction time	Elapsed time	Speed	Shoe size
+8E0121	Auto Racing	0	Who is a British racing driver who races in Formula One and is considered the best in history?	Dale Earnhardt, Jr.	Chris Evans	Joe Montana	Lewis Hamilton
+0DIFSP4	Auto Racing	0	What is the no. 1 position called, that is the car that has the best qualifying time?	#1 guy	Winner	Top dog	Pole sitter
+230297	Auto Racing	0	In a NASCAR race, what does a black flag with a white cross mean?	Accident, Debris Or Weather Issues	One Lap Left In The Race	Faster Traffic Approaching	Laps No Longer Scored Until Report To Pits
+8E0023	Auto Racing	0	What is the nickname for the device at the starting line containing signal lights?	Traffic Light	Glo Worms	Go Brights	Christmas Tree
+8E0051	Auto Racing	0	How many cylinders does a NASCAR automobile have?	4	6	12	8
+531716	Auto Racing	0	Which of these is not a NASCAR national series?	XFINITY Series	Sprint Cup Series	Camping World Truck Series	Sir Lipton Tea Series
+0DIFSP2	Auto Racing	0	What is the event called to determine the start order of the cars for the race?	Coin flip	Pick a number	There is no such event	Qualifying
+152015	Auto Racing	0	Which Indiana track is nicknamed 'The Brickyard'?	Texas Motor Speedway	Pocono Raceway	Infineon Raceway	Indianapolis Motor Speedway
+8E0037	Auto Racing	0	What is the is the highest level of racing in NASCAR?	Camping World Truck Series	Slot Car Series	Xfinity Series	NASCAR Cup Series
+531424	Auto Racing	1	Where is Stockton 99 Speedway located?	Denver, CO	Mansfield, OH	Hickory, NC	Stockton, CA
+402185	Auto Racing	1	Where is the NASCAR track, Bristol Motor Speedway?	Hampton	Brooklyn	Madison	Bristol
+531447	Auto Racing	1	Who is an owner of the NASCAR racing team Hover Motorsports?	Richard Childress	Roger Penske	Derrike Cope	Stanton Hover
+531445	Auto Racing	1	What does a chequered flag indicate in Formula One racing?	Danger	All Clear	Let The Faster Car Overtake	Session Has Ended
+531760	Auto Racing	1	Which athlete is known for their accomplishments in NASCAR?	Jim Brown	George Blanda	Curtis Strange	Cale Yarborough
+57668	Auto Racing	1	Who was the team owner of Wood Brothers Racing?	Jack Roush	James Rocco	Kirk Shelmerdine	Glen Wood
+239872	Auto Racing	1	What does the checkered flag signal in NASCAR racing?	Accident Ahead	The Beginning Of The Race	Start Your Engines	The Race Is Over
+2951	Auto Racing	1	Which athlete was known for their accomplishments in NASCAR?	Phil Mickelson	Elston Howard	Fred McGriff	A.J. Foyt
+531442	Auto Racing	1	In "Talladega Nights", what are the names of Ricky Bobby's two sons?	Wonder & Bread	Weiser & Bud	Chuck & Norris	Walker & Texas Ranger
+531444	Auto Racing	1	What is the paved portion of the track that separates the racing surface from the infield?	Groove	Pit	Outfield	Apron
+618D428	Auto Racing	1	What F1 champion was dubbed "Son of the Wind", "Big John" and "John the Great"?	Enzo Ferrari	Jochen Rindt	Jack Brabham	John Surtees
+530538	Auto Racing	1	Who was an owner of Richard Childress Racing?	Calvin Wells	Gene Haas	Teresa Earnhardt	Richard Childress
+516677	Auto Racing	1	Which athlete is known for their accomplishments in NASCAR?	Don Shula	Boris Becker	Willie Stargell	Dale Earnhardt Jr.
+531437	Auto Racing	1	Which athlete was known for accomplishments in NASCAR?	Robin Ventura	Terrell Davis	David Robinson	Davey Allison
+230534	Auto Racing	1	Where was Cajon Speedway located?	Madera, CA	West Salem, WI	Yakima, WA	El Cajon, CA
+618D406	Auto Racing	1	Who is the owner of Wood Brothers Racing?	Derrike Cope	Ron Devine	Brad Daugherty	Leonard Wood
+402184	Auto Racing	1	Where would you find the Sonoma Raceway?	Napa	Elkhart Lake	San Jose	Sonoma
+532112	Auto Racing	1	Which of these races takes place at Auto Club Speedway?	AARP 400	Pepsi 400	DAV 200	Auto Club 400
+1MU1547	Auto Racing	1	Where is the NASCAR track, Talladega Superspeedway?	Hampton	Avondale	Atlanta	Talladega
+230582	Auto Racing	1	A slow-moving vehicle on a Formula One race track is indicated by which of these?	Orange Triangle Flag	Clowns In A Barrel	3 Horn Blares	White Flag
+531767	Auto Racing	1	Name the NASCAR track located in the city of Watkins Glen, NY?	Daytona Int'l Speedway	Nashville Superspeedway	Watkins Motor Speedway	Watkins Glen International
+531430	Auto Racing	1	How many drivers sit on pole position for a Formula One race?	Seven	Two	Ten	One
+530503	Auto Racing	1	Which fact is true of NASCAR's Dale Earnhardt Jr.?	Wrote A Number-One Country Song	Voted People's Sexiest Man Alive	Retired From Racing In 2001	His Father Died In The Daytona 500
+230184	Auto Racing	1	Which 1.0 mile oval track was located in Colorado?	Texas Motor Speedway	Las Vegas Motor Speedway	Memphis Motorsports Park	Pikes Peak International Raceway
+532110	Auto Racing	2	The name of Tom Cruise's character in "Days of Thunder" is a nod to what former NASCAR star?	Alan Kulwicki	Joe Shear	Ernie Irvan	Dick Trickle
+532014	Auto Racing	2	Who officially won Talladega 500, the final race in "Talladega Nights"?	Jean Girard	Lucius Washington	Ricky Bobby	Cal Naughton, Jr.
+1MU1531	Auto Racing	2	Which actress portrayed Ricky Bobby's mother Lucy in "Talladega Nights"?	Molly Shannon	Betty White	Allison Janney	Jane Lynch
+1MU1541	Auto Racing	2	What make and model car made its debut in the 2001 Winston Cup season?	Chevrolet Camaro	Ford Mustang	Dodge Stealth	Dodge Intrepid
+52126675	Auto Racing	2	Indianapolis Motor Speedway is located in which city?	Dayton	Davenport	Fontana	Speedway
+516695	Auto Racing	2	What NASCAR driver's 1970 Plymouth Superbird appears as a key character in the Pixar film "Cars"?	Dale Earnhardt	Bobby Allison	Darrell Waltrip	Richard Petty
+530460	Auto Racing	2	What 1990 NASCAR racing simulation video game is loosely based on a movie?	Talladega	Fast Tracks	Dirt To Daytona	Days Of Thunder
+531432	Auto Racing	2	Who was the NASCAR Xfinity Series Drivers' Champion driver for 2013?	Chris Buescher	Bobby Labonte	Jimmy Johnson	Austin Dillon
+531453	Auto Racing	2	Kyle Busch drives for which team in the 2014 NASCAR Sprint Cup Series?	Team Penske	JTG Daugherty Racing	Richard Childress Racing	Joe Gibbs Racing
+531433	Auto Racing	2	Who won the 2015 Sprint Showdown?	Dale Earnhardt Jr.	Eddie MacDonald	Tony Stewart	Greg Biffle
+531763	Auto Racing	2	What does the green flag mean in NASCAR?	Laps Are No Longer Scored	The Race Is Over	There Is One Lap Left	The Start Of The Race Or Restarts
+531438	Auto Racing	2	Which actor played Ricky Bobby's pit crew chief and close friend, Lucius Washington, in "Talladega Nights"?	Bernie Mac	Steve Carell	John C. Reilly	Michael Clarke Duncan
+120070	Auto Racing	2	Which driver finished first at the 2015 Daytona 500?	Matt Kenseth	Jimmie Johnson	Dale Earnhardt Jr.	Joey Logano
+531439	Auto Racing	2	What are the front and rear sections of the frame of a NASCAR car called?	Front And Rear Axe	Plates	Cage Tubes	Front And Rear Clip
+531832	Auto Racing	2	Which character in the Pixar film "Cars" is voiced by Richard Petty?	Chick Hicks	Doc Hudson	Lightning McQueen	Strip Weathers
+1MU1553	Auto Racing	2	Who was not a part of the inaugural class of the NASCAR Hall of Fame?	Dale Earnhardt	Richard Petty	Bill France Sr.	Tony Stewart
+531846	Auto Racing	2	What shape was the NASCAR race track Darlington Raceway?	Road Course	Quad-Oval	D-Shaped Oval	Oval
+402395	Auto Racing	2	Which actor voiced Lightning McQueen in Pixar's "Cars"?	Ben Stiller	Vince Vaughn	Robin Williams	Owen Wilson
+230584	Auto Racing	2	What does the yellow flag mean in NASCAR?	The Race Is Over	Stop The Race	Start The Race	Accident, Debris Or Weather Issues
+531764	Auto Racing	2	Which nickname is NASCAR driver Terry Labonte known by?	Hot Stuff	Rooster	Chicken	Iceman
+516679	Auto Racing	2	What is a slang term for new tires used in racing?	Wheelies	Rubber Hose	Bounce	Stickers
+120074	Auto Racing	2	In "Talladega Nights", Ricky Bobby's dad teaches him to conquer his demons by driving a car with what animal?	Lion	Wolf	Bear	Cougar
+531443	Auto Racing	2	In Formula One racing, what does a yellow and red striped flag indicate?	All Clear	Let The Other Driver Pass	Slow-Moving Vehicle On Track	Slippery Surface
+532078	Auto Racing	2	What is the name of an Italian F1 racer named after Finnish motorcycle champion Jarno Saarinen?	Jarno Epstein	Jarno Kaarakinaen	Jarno Pollop	Jarno Trulli
+531449	Auto Racing	2	Bobby Hamilton made his Winston Cup debut using a "movie car" from what 1990 film?	Stroker Ace	Steel Chariots	Born To Race	Days Of Thunder
+530552	Auto Racing	2	Darrell Waltrip provided the voice of announcer Darrell Cartrip on what animated film series?	Ice Age	Kung Fu Panda	Monsters, Inc.	Cars
+120075	Auto Racing	2	Jeff Gordon voiced a character named Jeff Gorvette on which 2011 animated film?	Kung Fu Panda 2	Rio	Puss In Boots	Cars 2
+531728	Auto Racing	2	What team does NASCAR driver Jimmie Johnson race for in 2014?	Richard Childress Racing	Michael Waltrip Racing	Roush Fenway Racing	Hendrick Motorsports
+402399	Auto Racing	2	What color flag, when shown to a F1 driver, means to let the faster car overtake?	Red	Green	White	Blue
+230583	Auto Racing	2	What are dark, circular, indentation markings on the side panels of stock cars called?	Skid Marks	Bumpers	Blips	Donuts
+531436	Auto Racing	2	Which driver was hired by Fox NASCAR in 2015 as a booth analyst for Xfinity Series races?	Ray Black, Jr.	Tony Stewart	Greg Biffle	Danica Patrick
+532114	Auto Racing	2	German racer Nico Rosberg drove for what F1 team in 2007?	McLaren	Ferrari	Toyota	Williams
+120072	Auto Racing	2	In NASCAR what kind of "dog" is the first car called that is one lap down from the leader?	Bad Dog	Happy Dog	Bull Dog	Lucky Dog
+404154	Auto Racing	2	The 1990 film "Days of Thunder" was Tom Cruise and which actress' first film together?	Katie Holmes	Mimi Rogers	Penelope Cruz	Nicole Kidman
+402400	Auto Racing	2	What F1 racer moved to Ferrari in 2007, replacing Michael Schumacher?	Mark Webber	Timo Glock	Lewis Hamilton	Kimi Raikkonen
+531455	Auto Racing	2	Who won the F1 Championship in the year 2018?	Nico Rosberg	Sebastian Vettel	Fernando Alonso	Lewis Hamilton
+531450	Auto Racing	2	What does the red flag mean in NASCAR?	One Lap Left In The Race	The Race Is Over	Accident, Debris Or Weather Issues	Stop The Race Prematurely
+530484	Auto Racing	2	Which of the following is not a NASCAR penalty?	Speeding While Entering Pit Road	Crew Members Over Wall Too Soon	Non-Compliant Refueling	Waving At A Crowd Member
+531943	Auto Racing	2	Jeff Gordon and Jimmie Johnson made an appearance as themselves in what 2005 film?	Talladega Nights	Born To Race	Days Of Thunder	Herbie: Fully Loaded
+530507	Auto Racing	2	Who sponsored Jimmie Johnson in the 2013 NASCAR races?	Yahoo	Go Daddy	Crest	Lowe's
+532073	Auto Racing	2	In 2010, NASCAR drivers were lampooned in what adult animated sitcom's episode "Poor and Stupid"?	Family Guy	American Dad!	The Cleveland Show	South Park
+531429	Auto Racing	2	The closes finish at the 2011 Aaron's 499 was partly due to what strategy?	One-car Drafting	Three-car Drafting	Four-car Drafting	Two-car Drafting
+531425	Auto Racing	2	A superspeedway means that a track is oval in shape and more than how many miles long?	3	5	2	1
+532113	Auto Racing	2	Which actor played Ricky Bobby's gay French archrival Jean Girard in "Talladega Nights"?	Will Ferrell	Gary Cole	John C. Reilly	Sacha Baron Cohen
+530462	Auto Racing	2	Why was Spencer Gallagher suspended in May 2018?	Using Illegal Fuel	Late For Races	Tax Fraud	Substance Abuse
+516699	Auto Racing	2	Quentin Tarantino stated in an interview that his favorite big budget racing movie was what 1990 film?	Talladega Nights	Steel Chariots	Born To Race	Days Of Thunder
+531847	Auto Racing	2	A paint scheme featuring what "Looney Tunes" character graced the hood of Jeff Gordon's #24 in 2001?	Daffy Duck	Tasmanian Devil	The Road Runner	Bugs Bunny
+530498	Auto Racing	2	What racing team is driver Denny Hamlin with for the 2014 NASCAR Sprint Cup Series?	Chip Ganassi Racing with Felix Sabates	Germain Racing	Stewart-Haas Racing	Joe Gibbs Racing
+78J2002	Auto Racing	2	Who was the first driver in history to win a championship in both IndyCar and NASCAR?	Cale Conley	Danica Patrick	Dale Earnhardt, Jr.	Tony Stewart
+532013	Auto Racing	2	What month is the Daytona 500 held annually at Daytona International Speedway?	January	July	April	February
+531946	Auto Racing	2	Who was the NASCAR Xfinity Series Drivers' Champion driver for 2014?	Mike Bliss	Austin Dillon	Tony Stewart	Chase Elliott
+78J2011	Auto Racing	2	In 2006, Darrell Waltrip played the role of Mother Ginger in a production of what two-act ballet?	Swan Lake	The Sleeping Beauty	Anastasia	The Nutcracker
+531732	Auto Racing	2	Formula One tires are normally filled an air mixture that includes what element?	Helium	Magnesium	Lead	Nitrogen
+618D440	Auto Racing	2	In what year was the inaugural class of the NASCAR Hall of Fame announced?	2015	1979	1991	2009
+239869	Auto Racing	2	In Pixar's "Cars", which character is voiced by Paul Newman in his last non-documentary film role?	Lightning McQueen	Mater	Chick Hicks	Doc Hudson
+230189	Auto Racing	2	How many races in a season are contended in the Chase for the Sprint Cup?	First 10 Races	All Races	Final 2 Races Only	Final 10 Races
+531426	Auto Racing	2	Which NASCAR driver had the nickname "Handsome"?	Jeff Gordon	Terry Labonte	Richard Petty	Harry Gant
+532074	Auto Racing	2	How many mechanics are generally involved in changing a wheel in F1 pit stops?	Six	One	Five	Three
+531826	Auto Racing	2	In Formula One racing, who guides a car into its pit?	Referee #1	Spare Tire Guy	Head Grip	Lollypop Man
+618D402	Auto Racing	2	Monster Energy's NASCAR Cup Series Coke Zero Sugar 400 is held in which month in 2019?	May	August	October	July
+531440	Auto Racing	2	Which character is voiced by Larry the Cable Guy in the Pixar franchise "Cars"?	Lightning McQueen	Sheriff	Doc Hudson	Mater
+402388	Auto Racing	2	Which actress starred in "Herbie: Fully Loaded", a 2005 fantasy comedy film set in NASCAR?	Hilary Duff	Rachel McAdams	Amanda Seyfried	Lindsay Lohan
+530555	Auto Racing	2	Which of these races takes place at Talladega Superspeedway?	Windows 10 400	Lilly Diabetes 250	Chevy Silverado 250	GEICO 500
+230585	Auto Racing	2	What nickname is Roger Penske known by?	The Boss	Mr. Amazing	The Wizard	The Captain
+531765	Auto Racing	2	In "Talladega Nights", Ricky Bobby's wife Carley is portrayed by which actress?	Leslie Mann	Jane Lynch	Amy Adams	Leslie Bibb
+531853	Auto Racing	2	Who built a custom motorcycle for Danica Patrick?	Jesse James	Her Father	Her Friend	Orange County Choppers
+65484	Auto Racing	2	Early Formula One cars used road-car steering wheels made of what material?	Steel	Rubber	Chrome	Wood
+532105	Auto Racing	2	What does the white flag signal in NASCAR?	Come Into The Pits	The Race Is Over	Beginning Of The Race	One Lap Left In The Race
+530479	Auto Racing	2	What does a black flag signal in NASCAR?	Restart The Race	One Lap Left In The Race	The Race Is Over	Come Into The Pits
+531908	Auto Racing	3	When were rules allowing 1600cc engines in Formula 3 introduced?	1968	1966	1975	1971
+530492	Auto Racing	3	Who won the 1990 Most Popular Driver Award voted by Winston Cup fans?	Bobby Allison	Bill Elliott	Fireball Roberts	Darrell Waltrip
+531840	Auto Racing	3	A black flag kept took away a close victory from what driver at the 1991 Banquet Frozen Foods 300?	Mark Martin	Tommy Kendall	Davey Allison	Ricky Rudd
+230179	Auto Racing	3	Who scored the pole for the 2018 Toyota Owners 400 race?	Chase Elliott	Jamie McMurray	Darrell Wallace	Martin Truex Jr.
+531769	Auto Racing	3	Who finished in second place for the 2019 Monster Energy NASCAR Cup Series?	Denny Hamlin	Kyle Larson	Jimmie Johnson	Martin Truex Jr.
+402396	Auto Racing	3	Jimmie Johnson drove for which team in the 2018 Monster Energy NASCAR Cup Series?	Stewart-Haas Racing	Chip Ganassi Racing with Felix Sabates	Joe Gibbs Racing	Hendrick Motorsports
+530489	Auto Racing	3	Who started the 2004 NASCAR season as the team leader of Arnold Motorsports?	Joe Gibbs	Gail Davis	Nelson Bowers	Derrike Cope
+618D442	Auto Racing	3	Who was the first Earnhardt to race in NASCAR?	Dale Earnhardt	Danny Earnhardt	Kelley Earnhardt	Ralph Earnhardt
+230192	Auto Racing	3	What was the average speed at the 2018 GEICO 500?	202.489 MPH	179.489 MPH	122.489 MPH	152.489 MPH
+230541	Auto Racing	3	Who snapped a 115-race winless streak by narrowly winning the 2010 Aaron's 499?	Jamie McMurray	Juan Pablo Montoya	Kyle Busch	Kevin Harvick
+530534	Auto Racing	3	Richard Petty's narrow victory at the 1984 Pepsi Firecracker 400 marked what landmark win?	100th	150th	50th	200th
+531454	Auto Racing	3	Who from NASCAR did President Obama honor at the White House in 2015?	Mike Helton	Bill France, Jr.	Dale Earnhardt Jr.	Kevin Harvick
+230581	Auto Racing	3	How many points does the last place finisher earn in a NASCAR Xfinity Series?	1 Point	0 Points	13 Point	4 Points
+531761	Auto Racing	3	Rusty Wallace, Neil Bonnett and Harry Gant appear in cameo roles as themselves in which NASCAR movie?	Talladega Nights	Herbie: Fully Loaded	Born To Race	Days Of Thunder
+230371	Auto Racing	3	What is the length of frontstretch at Talladega Superspeedway?	300 Feet	5,600 Feet	12,900 Feet	4,300 Feet
+530493	Auto Racing	3	Bristol Motor Speedway is home to which of these feature races?	Drive for the Cure 300	Bank of America 500	Toyota Tundra 250	Food City 500
+531938	Auto Racing	3	The winner of the 2013 NASCAR Sprint Cup series had how many total points?	2001	2895	1999	2419
+531856	Auto Racing	3	Who won the 2013 NASCAR Sprint Cup series?	Clint Bowyer	Kurt Busch	Kyle Busch	Jimmie Johnson
+530550	Auto Racing	3	Who passed Charlie Glotzbach on the last lap to win the 1969 Daytona 500?	Johnny Beauchamp	Jim Vandiver	Benny Parsons	LeeRoy Yarbrough
+618D418	Auto Racing	3	Despite a nudge from Kyle Busch on the final turn, who won the 2009 Kroger on Track for the Cure 250?	Brendan Gaughan	Scott Wimmer	Stephen Leicht	Brad Keselowski
+65470	Auto Racing	3	Canadian Tire Motorsports Park is located in which city?	New Weston	Sparta	Sunnyvale	Bowmanville
+531514	Auto Racing	3	Who won the MotoGp 2018 season?	Jorge Lorenzo	Andrea Dovizioso	Alex Rins	Marc Marquez
+347552	Auto Racing	3	Which NASCAR star has guest co-hosted the daytime talk show "Live! with Regis and Kelly" more than 10 times?	Jimmie Johnson	Dale Earnhardt, Jr.	Tony Stewart	Jeff Gordon
+530461	Auto Racing	3	Who won the 2015 NASCAR Sprint Cup Series at Talladega?	Kasey Kahne	Kurt Busch	Tony Stewart	Dale Earnhardt Jr.
+531720	Auto Racing	3	What racing team is driver Ryan Newman with for the 2014 NASCAR Sprint Cup Series?	Joe Gibbs Racing	Hendrick Motorsports	Germain Racing	Richard Childress Racing
+1MU1557	Auto Racing	3	What is driver Chase Elliott's first name?	Charles	Kyle	Robert	William
+618D404	Auto Racing	3	Formula 3 racing cars were originally powered by engines made for what?	Airplanes	Helicopters	Boats	Motorcycles
+531815	Auto Racing	3	Kasey Kahne is with which team for the 2014 NASCAR Sprint Cup?	Richard Petty Motorsports	Furniture Row Racing	Roush Fenway Racing	Hendrick Motorsports
+230194	Auto Racing	3	What racing team is driver Greg Biffle with for the 2014 NASCAR Sprint Cup Series?	Joe Gibbs Racing	Richard Petty Motorsports	Team Penske	Roush Fenway Racing
+531561	Auto Racing	3	What 1988 film directed by James Fargo stars Joseph Bottoms and Marla Heasley?	Steel Chariots	Stroker Ace	Thunder In Carolina	Born To Race
+516696	Auto Racing	3	Which actor narrated the 2008 documentary "NASCAR: The Ride of Their Lives"?	Kevin Spacey	Richard Gere	Bruce Willis	Kevin Costner
+531945	Auto Racing	3	Who was Jimmie Johnson's crew chief for the 2013 NASCAR Sprint Cup?	Cory James	Klaus Chadwick	James Pope	Chad Knaus
+530562	Auto Racing	3	Who won the 2015 NASCAR Sprint Cup Series at Bristol?	Denny Hamlin	Brad Keselowski	Tony Stewart	Matt Kenseth
+530488	Auto Racing	3	Jeff Gordon had a cameo appearance in what FOX TV movie which aired in September 1997?	Stroker Ace	Born To Race	Thunder In Carolina	Steel Chariots
+1MU1537	Auto Racing	3	Who got into a fist-fight with Marcos Ambrose at a Richmond race in 2014?	Josh Wise	Ryan Newman	A. J. Allmendinger	Casey Mears
+531717	Auto Racing	3	Whose tire blew out with a few laps to go, losing him the 1994 Brickyard 400?	Ricky Rudd	Terry Labonte	Ken Schrader	Ernie Irvan
+531837	Auto Racing	3	What is the main object in the logo for the Bristol Motor Speedway?	Flags	Driver	Guard Rail	Car Silhouette
+618D410	Auto Racing	3	Who finished first at the 2018 Food City 500 that ran on April 18th?	Joey Logano	Jimmie Johnson	Aric Almirola	Kyle Busch
+531842	Auto Racing	3	In "Talladega Nights", Ricky Bobby is forced by contract to mention what sports drink at every grace?	Gatorade	Staminade	Accelerade	Powerade
+239878	Auto Racing	3	Which driver is the grandson of Richard Childress?	Matt Kenseth	Austin Hill	Eric McClure	Austin Dillon
+531850	Auto Racing	3	Who won the Fitzgerald Glider Kits 300 race on April 14, 2018?	Kevin Harvick	Erik Jones	Kyle Busch	Ryan Preece
+531928	Auto Racing	3	Whose #42 Target car is Leadfoot's alternate mode in the 2011 film "Transformers: Dark of the Moon"?	Jimmie Johnson	Jeff Gordon	Dale Earnhardt, Jr.	Juan Pablo Montoya
+531811	Auto Racing	3	The narrow finish at the 2004 Lenox Industrial Tools 500 occurred in what state?	Connecticut	Kansas	Michigan	New Hampshire
+531535	Auto Racing	3	Which racer made a cameo as a rodeo clown announcer for Disney's "Penn Zero: Part-Time Hero" in 2015?	Jimmie Johnson	Dale Earnhardt, Jr.	Tony Stewart	Jeff Gordon
+531900	Auto Racing	3	Who narrowly lost the 1976 Daytona 500 after getting knocked onto the grass?	Fred Lorenzen	Mario Andretti	Pete Hamilton	Richard Petty
+532009	Auto Racing	3	Who won the 2018 GEICO 500?	Kyle Busch	Michael McDowell	Kevin Harvick	Joey Logano
+618D408	Auto Racing	3	What was the time of the race for the 2019 Daytona 500?	5 hours, 45 minutes and 55 seconds	2 hours, 15 minutes and 55 seconds	7 hours, 25 minutes and 55 seconds	3 hours, 45 minutes and 55 seconds
+530557	Auto Racing	3	What 2009 documentary film centers on three young racers during a season of World Karting Association racing?	Steel Chariots	Thunder In Carolina	Born To Race	Racing Dreams
+530497	Auto Racing	3	Who sang the National Anthem for the 2015 Daytona 500?	Train	Elvis Costello	Diamond Rio	Phillip Phillips
+531554	Auto Racing	3	Formula 3 racecars between 1964 and 1970 were known as what?	Shouters	Killers	Sneakers	Screamers
+516692	Auto Racing	3	F1 regulations imposed a freeze on engine development at the end of what season?	2004	2002	2008	2006
+531839	Auto Racing	3	The close finish at the 2007 Food City 500 took place in what state?	Alabama	Michigan	California	Tennessee
+230380	Auto Racing	3	Which actor portrayed Neil Bonnett in the TV movie "3: The Dale Earnhardt Story"?	Barry Pepper	John Hawkes	Ray McKinnon	Sean Bridgers
+531563	Auto Racing	3	What is the name of the series of NASCAR video games developed by Eutechnyx?	NASCAR Thunder	NASCAR Revolution	NASCAR SimRacing	NASCAR The Game
+531515	Auto Racing	3	Kevin Harvick drives for which team in the 2014 NASCAR Sprint Cup Series?	Furniture Row Racing	Hendrick Motorsports	Richard Childress Racing	Stewart-Haas Racing
+532065	Auto Racing	3	How many red flags were given at the 2018 Toyota Owners 400?	Six	Two	Three	Zero
+531906	Auto Racing	3	In 1996, who finished second to Buckshot Jones in the closest Xfinity Series race in history?	Joe Nemechek	Jimmy Spencer	Chris Buescher	Mike McLaughlin
+618D430	Auto Racing	3	How much did the last place driver get in the 2013 Daytona 500?	$64,354	$2,354	$964,354	$264,354
+268710	Auto Racing	3	Indianapolis Motor Speedway is home to which of these feature races?	Sylvania 300	Toyota/Save Mart 350	Coke 400	Lilly Diabetes 250
+530560	Auto Racing	3	In what city or town in the Eldora Speedway?	Palo Alto	Fontana	Freeport	New Weston
+268708	Auto Racing	3	Who in 2013, announced that he had been diagnosed with multiple sclerosis?	Ryan Reed	Matt Tifft	Landon Cassill	Trevor Bayne
+402390	Auto Racing	3	Kyle Busch won a photo finish at the 2007 Food City 500 at what track?	Talladega	Daytona	Las Vegas	Bristol
+268707	Auto Racing	3	Who came within a tenth of a second of winning the 2010 Subway Jalapeno 250 in 2010?	Ryan Reed	Tony Stewart	Denny Hamlin	Joey Logano
+531558	Auto Racing	3	Who won the 1996 NASCAR Craftsman Truck Series?	Travis Kvapil	Mike Bliss	Jack Sprague	Ron Hornaday
+530505	Auto Racing	3	How did star NASCAR driver Davey Allison die?	Suicide	Heart Attack	Racing Accident	Helicopter Accident
+63611	Auto Racing	3	Who was the NASCAR Xfinity Series Drivers' Champion driver for 2008?	Chase Elliott	Carl Edwards	Ryan Sieg	Clint Bowyer
+516701	Auto Racing	3	Derrike Cope won the 1990 Daytona after Dale Earnhardt ran into what problem?	Stalled Engine	Out of Fuel	Fire	Shredded Tire
+268706	Auto Racing	3	Who was the Grand Marshall for the 2014 Daytona 500?	Mike Tyson	Leonard Nimoy	Bill Clinton	Chris Evans
+531538	Auto Racing	3	A driver teaches his mechanic how to race in what 1960 stock car racing movie?	Steel Chariots	Born To Race	Stroker Ace	Thunder In Carolina
+531441	Auto Racing	3	The comedy "Talladega Nights" was which actor's second movie about racing, the first being "Days of Thunder"?	Will Ferrell	Sacha Baron Cohen	Michael Clarke Duncan	John C. Reilly
+530539	Auto Racing	3	Who lost the 1997 Pepsi 400 by less than one tenth of a second?	Michael Waltrip	Jeff Gordon	Denny Hamlin	Terry Labonte
+530540	Auto Racing	3	Jimmie Johnson eked out a victory at the 2005 Coca-Cola 600, at what track?	Texas	Atlanta	Bristol	Lowe's
+530542	Auto Racing	3	Which race is run at Sonoma Raceway?	Quicken Loans 400	U.S. Cellular 250	Brickyard 400	Toyota/Save Mart 350
+530464	Auto Racing	3	What NASCAR speedway was nicknamed "Brasington's Folly"?	Watkins Glen	Charlotte	Talladega	Darlington
+532072	Auto Racing	3	Which of these drivers had more points after the 2019 Daytona 500?	Kevin Harvick	Clint Bowyer	Ryan Preece	Erik Jones
+530500	Auto Racing	3	Who drives Chevrolet in NASCAR in 2019?	Kevin Harvick	Erik Jones	Deny Hamlin	Chase Elliott
+531838	Auto Racing	3	Burt Reynolds turned down the part of astronaut Garrett Breedlove in what movie to do "Stroker Ace"?	Scarface	To Be Or Not To Be	Under Fire	Terms Of Endearment
+530556	Auto Racing	3	In 1980 who won NASCAR Rookie of the Year honors?	Geoff Bodine	Mike Skinner	Richard Petty	Jody Ridley
+93641	Auto Racing	3	The narrow finish at the 2004 Samsung/Radio Shack 500 occurred in what state?	Nevada	Alabama	Tennessee	Texas
+531882	Auto Racing	3	What is the length of the backstretch at the Bristol Motor Speedway?	1640 Feet	4550 Feet	150 Feet	650 Feet
+78J1999	Auto Racing	3	Who won the 2015 Sprint Unlimited?	Jeb Burton	Sam Hornish Jr.	Carl Edwards	Matt Kenseth
+1MU1545	Auto Racing	3	Which race is run at Canadian Tire Motorsports Park?	FedEx 400	Brickyard 400	Pepsi 400	Chevy Silverado 250
+618D398	Auto Racing	3	Which race is run at Gateway Motorsports Park?	Kroger 250	Chevy Silverado 250	Allstate 500	Drivin for Linemen 200
+531521	Auto Racing	3	What is the length of the backstretch at the Indianapolis Motor Speedway?	23,300 Feet	980 Feet	500 Feet	3,300 Feet
+531743	Auto Racing	3	Who was the 2015 Daytona 500 winner?	Brian Vickers	Kyle Larson	Jamie McMurray	Joey Logano
+530483	Auto Racing	3	The 1966 book "Timber on the Moon" by Dr. D. L. Morris was written about what NASCAR legend?	Fireball Roberts	Joe Weatherly	Tim Flock	Curtis Turner
+532108	Auto Racing	3	Paul Menard is with which team for the 2014 NASCAR Sprint Cup?	Stewart-Haas Racing	Germain Racing	JTG Daugherty Racing	Richard Childress Racing
+531533	Auto Racing	3	Who wrote the 2006 autobiography "Let 'Em All Go! The Story of Auto Racing by the man who was there"?	Bob Jenkins	Ken Squier	Bob Varsha	Chris Economaki
+531766	Auto Racing	3	Which race is run at Martinsville Speedway?	Road America 180	Quakers 400	Toyota Prius 250	Kroger 250
+532097	Auto Racing	3	Thanks to a finish-line crash, what winner of the 1992 Winston spent the night in the hospital?	Kyle Petty	Alan Kulwicki	Wessa Miller	Davey Allison
+531552	Auto Racing	3	Name the NASCAR track located in the city of Avondale?	Pikes Peak Int'l Raceway	Darlington Raceway	Memphis Motorsports Park	Phoenix Int'l Raceway
+531823	Auto Racing	3	Who was not a part of the second class of the NASCAR Hall of Fame, inducted in 2011?	Bobby Allison	Ned Jarrett	Lee Petty	Jeff Gordon
+268703	Auto Racing	3	How many gallons of gasoline do the "dump cans" normally hold?	5 Gallons	15 Gallons	25 Gallons	12 Gallons
+2950	Auto Racing	3	Who narrowly won his first Budweiser Shootout over Tony Stewart in 2012?	Greg Biffle	Martin Treux, Jr.	Jeff Gordon	Kyle Busch
+618D432	Auto Racing	3	When was the first NASCAR race of 2019?	20th February	25th February	1st March	10th February
+530491	Auto Racing	3	How many laps around Charlotte Motor Speedway was the 2014 Bank of America 500?	454 Laps	34 Laps	230 Laps	334 Laps
+531528	Auto Racing	3	NASCAR drivers including Dale Earnhardt, Richard Petty and Tim Richmond appeared in what 1983 movie?	Steel Chariots	Born To Race	Days Of Thunder	Stroker Ace
+531434	Auto Racing	3	What is Lightning McQueen's racing number in the Pixar film "Cars"?	57	43	86	95
+516678	Auto Racing	3	In 2010, who competed against Shaquille O'Neal in a NASCAR race in an episode of "Shaq Vs."?	Jeff Gordon	Tony Stewart	Jimmie Johnson	Dale Earnhardt, Jr.
+230386	Auto Racing	3	Which company published "Richard Petty's Talladega", the first computer game based on NASCAR, in 1985?	Hasbro Interactive	Konami	Sierra	Electronic Arts
+531901	Auto Racing	3	What shape is NASCAR's California Speedway?	Tri-Oval	Quad-Oval	Oval	D-Shaped Oval
+531734	Auto Racing	3	Brad Keselowski is with which team for the 2014 NASCAR Sprint Cup?	Michael Waltrip Racing	Richard Petty Motorsports	Hendrick Motorsports	Team Penske
+532093	Auto Racing	3	Which race car driver is known for his portrayal of Dale Earnhardt, Jr. in "3: The Dale Earnhardt Story"?	Jason White	Shane Hmiel	Justin Labonte	Chad McCumbee
+530537	Auto Racing	3	Who made the most popular Formula 3 racer in the late 1960's?	BMW	Chrysler	GM	Ford
+531830	Auto Racing	3	In "Cars", Lightning McQueen's number is a reference to the year when what other Pixar film was released?	Monsters, Inc.	Finding Nemo	A Bug's Life	Toy Story
+531880	Auto Racing	3	Which driver finished first at the 2015 NASCAR Sprint Cup Series at Texas?	Matt Kenseth	Eddie MacDonald	Danica Patrick	Jimmie Johnson
+531551	Auto Racing	3	Who is the Winston Cup champion that was killed in a racing accident in 1964?	Richard Petty	Ned Jarrett	Rex White	Joe Weatherly
+532062	Auto Racing	3	Tony Stewart won the 2009 Camping World 300 by .0068 seconds over whom?	Greg Biffle	Brad Keselowski	Max Papis	Carl Edwards
+531762	Auto Racing	3	Where did the 2018 FireKeepers Casino 400 take place?	California	Ohio	Florida	Michigan
+531525	Auto Racing	3	What team did NASCAR driver Kurt Busch race for in 2014?	Richard Petty Motorsports	JTG Daugherty Racing	Germain Racing	Stewart-Haas Racing
+531559	Auto Racing	3	Who made a cameo appearance as a limo driver in the 2017 film "Logan Lucky"?	Jimmie Johnson	Kyle Busch	Ryan Newman	Kyle Larson
+321052	Auto Racing	3	In what year did March Engineering build its first Formula 3 car?	1970	1971	1968	1969
+78J2026	Auto Racing	3	Who won 2019's Bojangles' Southern 500 race?	Kyle Busch	Austin Dillon 	Joey Logano	Erik Jones
+532064	Auto Racing	3	Joey Gase drove for what team at the 2018 GEICO 500?	Go Green Racing 	Joe Gibbs Racing	Team Penske	StarCom
+530553	Auto Racing	3	Who owned a Ford car dealership in Perry, Georgia?	Derek White	Casey Mears	Tyler Walker	David Ragan
+531504	Auto Racing	3	What team was Ricky Craven representing when he narrowly won the 2003 Carolina Dodge Dealers 400?	Roush	Jasper	Robert Yates	PPI
+531534	Auto Racing	3	2018 GEICO 500 was what number race of the 2018 the Monster Energy NASCAR Cup Series?	7th	11th	6th	10th
+402397	Auto Racing	3	After Dale Earnhardt and Ricky Rudd crashed on the last lap, who won the Holly Farms 400?	Bobby Allison	Greg Sacks	Rusty Wallace	Geoff Bodine
+531814	Auto Racing	3	What country is driver Hector Aguirre from?	USA	Argentina	Brazil	Mexico
+531517	Auto Racing	3	What team does NASCAR driver Matt Kenseth race for in 2014?	Hendrick Motorsports	Richard Childress Racing	Stewart-Haas Racing	Joe Gibbs Racing
+268711	Auto Racing	3	Who is Jimmie Johnson's crew chief for 2019?	Chad Knaus	Paul Wolfe	Kenny Francis	Kevin Meendering
+532102	Auto Racing	3	Robert Duvall's character in "Days of Thunder" was inspired by what former NASCAR crew chief?	Dale Inman	Smokey Yunick	Ray Evernham	Harry Hyde
+530563	Auto Racing	3	The extremely close finish at the 2011 Aaron's 499 was broadcast on what network?	ABC	NBC	CBS	Fox
+22516676	Auto Racing	3	Michael Rooker's character, Rowdy Burns, in "Days of Thunder" was largely based on what NASCAR star?	Rusty Wallace	Richard Petty	Darrell Waltrip	Dale Earnhardt
+531848	Auto Racing	3	What Sirius Satellite Radio station covers NASCAR?	SiriusXM Ch.102	SiriusXM Ch. 110	SiriusXM Ch. 50	SiriusXM Ch. 90
+531819	Auto Racing	3	Which was not a Formula 3 racing constructor of the 1970's?	Alpine	March	Modus	Renzi
+530548	Auto Racing	3	Who won the 2015 NASCAR Sprint Cup Series at Phoenix?	Joey Logano	Brad Keselowski	Casey Mears	Kevin Harvick
+618D444	Auto Racing	3	In 2015, Jimmie Johnson voiced a lobster named Jimmie on what animated kids show?	Team Umizoomi	Wallykazam!	PAW Patrol	Bubble Guppies
+230175	Auto Racing	3	The withdrawal of which team from the 2008 FIA F1 World Championship ruined Takuma Sato's year?	Force India	Toyota	Red Bull	Super Aguri
+618D426	Auto Racing	3	Which race is run at Daytona International Speedway?	DAV 200	U.S. Cellular 250	Bank of America 500	Coke Zero 400
+516686	Auto Racing	3	The 1979 CRC Chemicals Rebel 500 featured a famous late-lap duel by Richard Petty and what other driver?	Dick Hutcherson	Bobby Allison	Dough Heveron	Darrell Waltrip
+530487	Auto Racing	3	Who wrote the 2011 book "In the Blink of an Eye: Dale, Daytona, and the Day that Changed Everything"?	Dale Jarrett	Mark Martin	Bobby Labonte	Michael Waltrip
+530496	Auto Racing	3	Who was the first Winston Cup driver to use a full-face helmet?	Richard Petty	Kyle Petty	Bobby Allison	Geoff Bodine
+530547	Auto Racing	3	How many acres was leased originally to build the Daytona International Speedway?	47 Acres	4237 Acres	137 Acres	447 Acres
+531822	Auto Racing	3	Who was not a part of the fourth class of the NASCAR Hall of Fame, inducted in 2013?	Rusty Wallace	Lenoard Wood	Buck Baker	Dale Earnhardt
+531825	Auto Racing	3	Who won April 2019's Food City 500 race?	Ty Dillon	Ryan Newman	Ryan Blaney	Kyle Busch
+516681	Auto Racing	3	In what city was the 2013 NASCAR Sprint Cup Series Awards Ceremony held?	Nashville	Indianapolis	New York City	Las Vegas
+531810	Auto Racing	3	Who drove a Sponge Bob SquarePants-themed car in the Pepsi 400 at Daytona in 2003?	Dale Earnhardt, Jr.	Tony Stewart	Jeff Gordon	Jimmie Johnson
+326622	Auto Racing	3	Who defeated Ernie Irvan by just .53 seconds to win the 1993 Save Mart Supermarkets 300K?	Aric Almirola	Mike Skinner	Clint Bowyer	Geoff Bodine
+530468	Auto Racing	3	Greg Biffle won the 2005 Ford 400 driving what numbered car?	24	99	6	16
+516685	Auto Racing	3	Dale Jarrett won the 1993 Daytona 500 by holding off what racing legend?	Bill Elliott	Geoffrey Bodine	Jeff Gordon	Dale Earnhardt
+531555	Auto Racing	3	In what year were two-litre rules introduced in Formula 3 racing?	1979	1967	1970	1974
+531903	Auto Racing	3	NASCAR creator, William H.G. France Sr., also owned what?	A Horse Ranch	A Truck Company	A Baseball Team	An Auto Repair Shop
+531564	Auto Racing	3	In 2001, which NASCAR star appeared as a contestant on the game show "Who Wants to Be a Millionaire"?	Jimmie Johnson	Dale Earnhardt, Jr.	Tony Stewart	Jeff Gordon
+531556	Auto Racing	3	Kyle Busch narrowly won the 2007 Yellow Transportation 300 at what track?	Talladega	Homestead-Miami	Memphis	Kansas
+531829	Auto Racing	3	Which driver finished first at the 2015 Budweiser Duel #1?	Carl Edwards	Brad Keselowski	Kurt Busch	Dale Earnhardt Jr.
+402389	Auto Racing	3	Which race is run at Watkins Glen International?	Coca-Cola 600	FedEx 400	Toyota/Save Mart 350	Zippo 200
+516698	Auto Racing	3	What is the main object in the logo for the Daytona International Speedway?	Wheels	Fans	Lightning Bolt	Flags
+1MU1549	Auto Racing	3	Which Formula One Driver won the most F1 World Championship titles?	Sebastian Vettel	Kimmi Raikkonen	Fernando Alonso	Lewis Hamilton
+530544	Auto Racing	3	Dale Earnhardt, Jr. voiced a character named Chase Davis in an episode of what Disney Channel show in 2010?	Doc McStuffins	Special Agent Oso	Little Einsteins	Handy Manny
+516702	Auto Racing	3	A massive pile-up left Mark Martin and Kevin Harvick as the only contenders for what year's Daytona 500?	2005	2003	2009	2007
+531428	Auto Racing	3	The 2012 Budweiser Shootout was expanded to 82 laps after how many cautions were issued?	Three	One	Seven	Five
+531925	Auto Racing	3	What driver is nicknamed "Sliced Bread"?	Cole Custer	Brandon Jones	Kyle Busch	Joey Logano
+402392	Auto Racing	3	AJ Allmendinger is with which team for the 2014 NASCAR Sprint Cup?	Germain Racing	Michael Waltrip Racing	Joe Gibbs Racing	JTG Daugherty Racing
+530504	Auto Racing	3	The close finish at the 2006 UAW Daimler-Chrysler 400 took place in what city?	Detroit	Birmingham	Richmond	Las Vegas
+531812	Auto Racing	3	Who won the first Daytona 500 in 1959 with a photo finish?	Cotton Owens	Jim Reed	Johnny Allen	Lee Petty
+230063	Auto Racing	3	In a 2004 race, Scott Riggs drove a car with a paint scheme celebrating the 65th anniversary of what movie?	The Sound Of Music	Mary Poppins	Gone With The Wind	The Wizard Of Oz
+618D434	Auto Racing	3	Kyle Larson races for which team in 2018?	Go Green Racing 	GMS Racing	DGM Racing	Chip Ganassi
+1MU1533	Auto Racing	3	Lewis Hamilton won his first F1 world championship title with which team?	Williams Martini Racing	Red Bull Racing	Sauber F1 Team	McLaren
+78J1990	Auto Racing	3	What year were lights installed around the Daytona International Speedway?	1990	1956	2012	1998
+531529	Auto Racing	3	Which actor starred as Dale Earnhardt in the 2004 TV movie "3: The Dale Earnhardt Story"?	Sean Bridgers	Edward Burns	Tom Sizemore	Barry Pepper
+404155	Auto Racing	3	What racing team did driver Kevin Harvick drive for in the 2018 Monster Energy NASCAR Cup Series?	Germain Racing	Roush Fenway Racing	Joe Gibbs Racing	Stewart-Haas Racing
+530545	Auto Racing	3	The narrow finish at the 1994 Fram Filter 500k happened at what historic track?	Daytona	Bristol	South Boston	Talladega
+531824	Auto Racing	3	Who drove a special paint scheme promoting the Superman movie "Man of Steel" in a 2013 race?	Tony Stewart	Jimmie Johnson	Jeff Gordon	Dale Earnhardt, Jr.
+531851	Auto Racing	3	The film "Stroker Ace" is the fifth action car stunt comedy from the team of Burt Reynolds and what director?	Dom DeLuise	Charles Shyer	Brock Yates	Hal Needham
+531918	Auto Racing	3	John Beck, Kathleen Nolan and Ben Browder starred in what 1997 TV movie set in the world of NASCAR racing?	Stroker Ace	Born To Race	Thunder In Carolina	Steel Chariots
+516683	Auto Racing	3	Which owner complained of getting "robbed" after his narrow loss at the 2004 Subway 400?	AJ Foyt	Jimmy Vasser	Paul Newman	Chip Ganassi
+531733	Auto Racing	3	What company made the engines used in the first Formula 3 racers?	Boeing	NIR	BMW	Norton
+531905	Auto Racing	3	In 1998 who won NASCAR Rookie of the Year honors?	Ricky Craven	Matt Kenseth	Ryan Newman	Kenny Irwin
+531537	Auto Racing	3	Who was an owner of MBV Motorsports?	Kirk Shelmerdine	Gene Haas	Calvin Wells	James Rocco
+516689	Auto Racing	3	Who finished second in the 2013 NASCAR Sprint Cup Series 19 points behind the winner?	Jimmie Johnson	Jeff Gordon	Carl Edwards	Matt Kenseth
+531855	Auto Racing	3	Who regained the Sprint Cup lead after narrowly winning the 2004 Subway 400?	Matt Kenseth	Kurt Busch	Tony Stewart	Dale Earnhardt, Jr.
+516691	Auto Racing	3	Who survived a late push from Dale Earnhardt to win the 1999 Daytona 500?	Sterling Marlin	Dale Jarrett	Ward Burton	Jeff Gordon
+531560	Auto Racing	3	What 1960 stock car racing movie stars Rory Calhoun, Alan Hale, Jr. and Connie Hines?	Steel Chariots	Born To Race	Stroker Ace	Thunder In Carolina
+230537	Auto Racing	3	Jeff Gordon "fought" which fellow NASCAR star in an episode of the claymation series "Celebrity Deathmatch"?	Ned Jarrett	Dale Earnhardt Jr.	Richard Petty	Dale Earnhardt
+531511	Auto Racing	3	Who passed Ernie Irvan on the last lap to win the 1994 Pepsi 400?	Dale Earnhardt	Mark Martin	Ken Schrader	Jimmy Spencer
+531520	Auto Racing	3	What team does NASCAR driver Austin Dillon race for in 2014?	JTG Daugherty Racing	Chip Ganassi Racing with Felix Sabates	Roush Fenway Racing	Richard Childress Racing
+516703	Auto Racing	3	Which driver finished first at the 2015 NASCAR Sprint Cup Series at Kansas City?	AJ Allmendinger	Brad Keselowski	Tony Stewart	Jimmie Johnson
+530543	Auto Racing	3	Kurt Busch narrowly won the 2011 Gatorade Duel #1 over what rival?	Todd Bodine	Brian Keselowski	Kevin Conway	Regan Smith
+531827	Auto Racing	3	Richard Petty won the 1979 Daytona 500 while what rival battled the Allison brothers?	Buddy Baker	Benny Parsons	David Pearson	Cale Yarborough
+532109	Auto Racing	3	What team does NASCAR driver Marcos Ambrose race for in 2014?	Michael Waltrip Racing	Joe Gibbs Racing	Richard Childress Racing	Richard Petty Motorsports
+531532	Auto Racing	3	How many victories did Mario Andretti have as a Formula One driver before his retirement in 1994?	27	89	111	12
+618D396	Auto Racing	3	What is the location of Camping World 400 Race in 2019?	Sonoma Raceway	Pocono Raceway	Kentucky Speedway	Chicagoland Speedway
+531768	Auto Racing	3	Greg Biffle won the 2005 Ford 400 by a narrow margin over what #6 driver?	Matt Kenseth	Carl Edwards	Casey Mears	Mark Martin
+230374	Auto Racing	3	In 2005, Jimmie Johnson guest-starred as a celebrity judge for a car show in an episode of what TV series?	CSI: Miami	Law & Order	Crossing Jordan	Las Vegas
+618D436	Auto Racing	3	Who became owner of NASCAR in 1972, succeeding Bill France Sr.?	Dale Earnhardt	Bob Darlington	Chip Daytona	Bill France Jr.
+531524	Auto Racing	3	On October 10, 2018, Leavine Family Racing announced their switching from Chevrolet to what car?	Nissan	Ford	Honda	Toyota
+230576	Auto Racing	3	Which company sponsored the 2008 Odor Block 200, which Carl Edwards won by a nose?	Glade	Dial	Odor Eaters	Hefty
+531735	Auto Racing	3	Who was the NASCAR Xfinity Series Drivers' Champion driver for 2009?	Joey Gase	Brian Vickers	Jeff Gordon	Kyle Busch
+532063	Auto Racing	3	Who was named NASCAR Winston Cup Rookie of the Year in 1988?	Shorty Rollins	Tony Stewart	Ron Bouchard	Ken Bouchard
+531907	Auto Racing	3	In 1992, who won NASCAR Rookie of the Year honors?	Bobby Hamilton	Ken Bouchard	Billy Wade	Jimmy Hensley
+230183	Auto Racing	3	What is the name of the device that protects drivers' heads and necks?	NAH Device	ROHN Device	SDHN Device	HANS Device
+530466	Auto Racing	3	By not switching his tires, what driver won a narrow victory at the 1981 Daytona 500?	Darrell Waltrip	Dale Earnhardt	Terry Labonte	Richard Petty
+531821	Auto Racing	3	Who led the 2011 Aaron's 499 for 38 laps, only to lose at the last second to Jimmy Johnson?	Greg Biffle	Carl Edwards	Kevin Harvick	Clint Bowyer
+78J1996	Auto Racing	3	Who won the 2019 Ford EcoBoost 400 race?	Denny Hamlin	Jimmie Johnson	Aric Almirola	Kyle Busch
+404202	Auto Racing	3	In 2014, which NASCAR champion participated in the 19th season of "Dancing with the Stars"?	Tony Stewart	Jeff Gordon	Bobby Labonte	Michael Waltrip
+531909	Auto Racing	3	What noted physicist wrote the 2009 book "The Physics of NASCAR: The Science Behind the Speed"?	Chris Economaki	Tom Jensen	David Poole	Diandra Leslie-Pelecky
+530549	Auto Racing	3	Ryan Newman won the 2008 Daytona 500 thanks to a push from what driver?	Tony Stewart	Kasey Kahne	Robby Gordon	Kurt Busch
+531844	Auto Racing	3	What rookie edged out Darrell Waltrip and Terry Labonte to win the 1981 DieHard 500?	Bill Elliott	Frank Kimmel	Johnny Benson	Ron Bouchard
+230531	Auto Racing	3	Who edged Max Papis at the finish line to take the 2010 NAPA Auto Parts 200?	Terry Labonte	Regan Smith	Jason Leffler	Boris Said
+71612	Auto Racing	3	In what city or town in the Charlotte Motor Speedway?	Sonoma	Fayetville	Charlotte	Concord
+530554	Auto Racing	3	Which of these is a race that is at Homestead-Miami Speedway?	Freaky Fast 300	Miami Dolphins 500	Zippo 200	Ford EcoBoost 400
+618D400	Auto Racing	3	How many laps was the 2018 GEICO 500?	250 Laps	120 Laps	500 Laps	188 Laps
+531507	Auto Racing	3	Whose #48 Lowe's Chevy was the basis for Topspin's design in the 2011 film "Transformers: Dark of the Moon"?	Jeff Gordon	Dale Earnhardt, Jr.	Juan Pablo Montoya	Jimmie Johnson
+530469	Auto Racing	3	Tom Cruise's character in "Days of Thunder" was loosely based on which former race car driver?	Neil Bonnett	Bobby Allison	Kyle Petty	Tim Richmond
+531931	Auto Racing	3	What NASCAR historian wrote the 1998 book "A Celebration of 50 Years of NASCAR"?	Chris Economaki	Ken Squier	Bob Varsha	Bob Latford
+402398	Auto Racing	3	There was a photo finish at the first Daytona 500 in what year?	1969	1949	1979	1959
+531435	Auto Racing	3	Who narrowly won the 1979 Daytona 500 while a fight raged on the infield?	Ryan Newman	Jimmy Spencer	Kasey Kahne	Richard Petty
+78J1993	Auto Racing	3	The 1974 Firecracker 400 featured a last-second slingshot pass by what eventual winner?	Donnie Allison	Cale Yarborough	Dale Earnhardt	David Pearson
+531531	Auto Racing	3	Who won the 1976 Daytona 500 in a busted up number 21 car?	Cale Yarborough	Fireball Roberts	Marvin Panch	David Pearson
+516693	Auto Racing	3	In which Daytona hotel was NASCAR formed?	Baybreeze	Seacomber	Wind Drift	Streamline
+532011	Auto Racing	3	What is the main object in the logo for the Dover Speedway?	Stock Car	Skid Marks	Beer Bottles	Chequered Flag
+230372	Auto Racing	3	Which driver's car carried a special paint scheme promoting "The Dark Knight Rises" in a 2012 race?	Tony Stewart	Jimmie Johnson	Jeff Gordon	Dale Earnhardt, Jr.
+531833	Auto Racing	3	Carl Edwards is with which team for the 2014 NASCAR Sprint Cup?	JTG Daugherty Racing	Michael Waltrip Racing	Joe Gibbs Racing	Roush Fenway Racing
+516687	Auto Racing	3	Dale Earnhardt won the Cracker Barrel Old Country Store 500 in a photo finish over whom?	Mark Martin	Steve Park	Chad Little	Bobby Labonte
+516694	Auto Racing	3	Whose #88 car was the basis for Roadbuster's alternate mode in the 2011 film "Transformers: Dark of the Moon"?	Juan Pablo Montoya	Jimmie Johnson	Jeff Gordon	Dale Earnhardt, Jr.
+531940	Auto Racing	3	What is the name of the Lake at the Daytona International Speedway?	Lake Moneypenny	Lake Ocala	Lake View	Lake Lloyd
+532010	Auto Racing	3	Who was named Winston Cup Rookie of the Year in 1994?	Ken Bouchard	Dick Trickle	Kevin Harvick	Jeff Burton
+531820	Auto Racing	3	In "Talladega Nights", what company sponsored Cal Naughton Jr.'s race car?	Powerade	Perrier	Wonder Bread	Old Spice
+531818	Auto Racing	3	Dale Earnhardt, Jr. is featured in what singer's "Steve McQueen" music video?	Shania Twain	Faith Hill	Alanis Morissette	Sheryl Crow
+530551	Auto Racing	3	What racing team is driver Joey Logano with for the 2014 NASCAR Sprint Cup Series?	Hendrick Motorsports	Joe Gibbs Racing	Chip Ganassi Racing with Felix Sabates	Team Penske
+1MU1543	Auto Racing	3	Who drives the No. 9 Camaro ZL1 for Hendrick in the 2018 Monster Energy NASCAR Cup Series?	Austin Dillon	Alex Bowman	Jimmie Johnson	Chase Elliott
+531958	Auto Racing	3	New Hampshire Motor Speedway is home to which of these feature races?	Quicken Loans 400	Winn Dixie 250	DAV 200	Sylvania 300
+531857	Auto Racing	3	The "EA Sports NASCAR" series of video games is alternately known as what?	NASCAR Revolution	NASCAR Rumble	NASCAR SimRacing	NASCAR Thunder
+531911	Auto Racing	3	Which driver won the 2015 ESPY Award for Best Driver?	Paul Menard	Cale Conley	Brian Vickers	Kevin Harvick
+531841	Auto Racing	3	The close finish at the 2007 Daytona 500 happened after a chain crash started by what driver?	Kenny Wallace	Mike Bliss	Kasey Kahne	Kyle Busch
+531836	Auto Racing	3	Matt Kenseth won a narrow victory in the Budweiser Duel 1 of what year?	2012	2008	2006	2014
+531816	Auto Racing	3	Which driver finished first at the 2015 NASCAR Sprint Cup Series at Richmond?	Sam Hornish Jr.	Brad Keselowski	Danica Patrick	Kurt Busch
+78J2008	Auto Racing	3	In 1985, who won NASCAR Rookie of the Year honors?	Shorty Rollins	Richard Petty	Sterling Marlin	Ken Schrader
+531503	Auto Racing	3	In 2019, what team was Matt McCall a crew chief?	JTG Daugherty Racing	Spire Motorsports	Rick Ware Racing	Chip Ganassi Racing
+531849	Auto Racing	3	Jeff Burton won a photo finish at the 1998 Jiffy Lube 300 in what city?	Atlanta	Nashville	Kansas City	Miami
+531736	Auto Racing	3	Who won the 2015 NASCAR Sprint Cup Series at Atlanta?	Joey Logano	Matt Kenseth	Kyle Busch	Jimmie Johnson
+531452	Auto Racing	3	What soft drink's logo appears prominently on Cole Trickle's car in "Days of Thunder"?	Fanta	Diet Coke	Sprite	Mello Yello
+531522	Auto Racing	3	Which driver was awarded the 2013 NASCAR Sprint Cup Series Rookie of the Year?	Cale Conley	Tyler Walker	Jamie McMurray	Ricky Stenhouse, Jr.
+530561	Auto Racing	3	Less than five months after his father's death, Dale Earnhardt, Jr. won a dramatic victory in what race?	Dayton 500	Hooters 500	Checker 500	Pepsi 400
+531513	Auto Racing	3	What year was race car driver Kyle Larson born?	2000	1999	1983	1992
+531727	Auto Racing	3	Who was the NASCAR Xfinity Series Drivers' Champion driver for 2007?	Jeffrey Earnhardt	Chase Elliott	Brian Scott	Carl Edwards
+618D438	Auto Racing	3	Formula 3 racing took a hiatus from the late 1950's until when?	1969	1974	1970	1963
+516684	Auto Racing	3	In 1995 who won NASCAR Rookie of the Year honors?	Ron Bouchard	Shorty Rollins	Matt Kenseth	Ricky Craven
+531505	Auto Racing	3	Who won the 2007 Pepsi 400 by just .005 seconds over Kyle Busch?	Kurt Busch	Carl Edwards	Jimmie Johnson	Jamie McMurray
+531549	Auto Racing	3	Which journalist wrote the 2005 book "Tim Richmond: The Fast Life and Remarkable Times of NASCAR's Top Gun"?	Marty Snider	Peter Golenbock	Chris Economaki	David Poole
+268709	Auto Racing	3	Who was the 2018 Advance Auto Parts Clash winner?	Chase Elliott	Ricky Stenhouse Jr. 	Jimmie Johnson	Brad Keselowski
+618D412	Auto Racing	3	Where did the 2018 GEICO 500 take place?	Darlington	Dover	Chicagoland 	Talladega
+531431	Auto Racing	3	Road America is home to which of these feature races?	Road Crew 11180	Kroger 250	Fresca 200	Road America 180
+531506	Auto Racing	3	Who is the race driver of Germain Racing?	Kurt Busch	William Byron	Alex Bowman	Ty Dillon
+531899	Auto Racing	3	Michael Waltrip appeared on a two-part episode of what sitcom in 2009?	Scrubs	According To Jim	Two And A Half Men	My Name Is Earl
+530546	Auto Racing	3	Who won the 2015 NASCAR Sprint Cup Series at Martinsville?	Carl Edwards	Brad Keselowski	Danica Patrick	Denny Hamlin
+230540	Auto Racing	3	Who was the Grand Marshall for the 2015 Daytona 500?	Matt Damon	Donald Trump	John Cleese	Vince Vaughan
+532075	Auto Racing	3	What is NASCAR driver Tony Stewart's nickname?	The Rushton Bomber	Mr. Excitement	The Kid	The Rushville Rocket
+268704	Auto Racing	3	Name the NASCAR track located in the city of Lebanon?	Memphis Motorsports Park	Watkins Glen International	Mansfield Motorsports Speedway	Nashville Superspeedway
+531881	Auto Racing	3	Kurt Busch barely won the 2012 Virginia 529 College Savings 250 over what driver?	Jeff Burton	Kyle Larson	Jimmy Spencer	Denny Hamlin
+78J2023	Auto Racing	3	Which race is run at Atlanta Motor Speedway?	Kroger 250	Ford EcoBoost 400	Lilly Diabetes 250	QuikTrip 500
+531843	Auto Racing	3	Clint Bowyer drives for which team in the 2014 NASCAR Sprint Cup Series?	Chip Ganassi Racing with Felix Sabates	Richard Childress Racing	Team Penske	Michael Waltrip Racing
+531553	Auto Racing	3	Who won the 2018 FireKeepers Casino 400?	Jimmie Johnson	Kasey Kahne	Kurt Busch	Clint Bowyer
+268712	Auto Racing	3	Who won the 1994 Daytona 500 by just .19 seconds?	Ernie Irvan	Chad Little	Dale Shaw	Sterling Marlin
+531834	Auto Racing	3	What racing team is driver Brian Vickers with for the 2014 NASCAR Sprint Cup Series?	Hendrick Motorsports	Richard Childress Racing	Furniture Row Racing	Michael Waltrip Racing
+531854	Auto Racing	3	Who won the 1968 Daytona 500 with a late slingshot pass?	Charlie Glotzbach	Fireball Roberts	Junior Johnson	Cale Yarborough
+230378	Auto Racing	3	At the Indianapolis Motor Speedway how many degrees is the banking on the corners?	Zero	Twenty	Six	Nine
+531510	Auto Racing	3	Who was not a part of the third class of the NASCAR Hall of Fame, inducted in 2012?	Darrell Waltrip	Cale Yarborough	Dale Inman	Jimmie Johnson
+618D414	Auto Racing	3	How much was the purse for the 2013 Geico 400?	$26,100,486	$1,100,486	$600,486	$6,100,486
+531446	Auto Racing	3	Who was the NASCAR Xfinity Series Drivers' Champion driver for 2010?	Brendan Gaugha	Brian Vickers	Matt Kenseth	Brad Keselowski
+230560	Auto Racing	3	Who wrote the 2001 book "Daytona: From the Birth of Speed to the Death of the Man in Black"?	Chris Economaki	Ken Squier	Ryan McGee	Ed Hinton
+404156	Auto Racing	3	How many competitors are there in a NASCAR Xfinity Series?	200	72	12	40
+530535	Auto Racing	3	How many laps do drivers race in the French Grand Prix at Magny-Cours?	55	47	19	70
+531835	Auto Racing	3	Early Grand Prix race cars used a combination of benzene, alcohol and what fuel?	Methanol	Diesel	Unleaded Gasoline	Aviation Fuel
+531831	Auto Racing	3	Kevin Harvick edged Jamie McMurray at the 2010 Aaron's 499 in what month?	May	March	June	April
+516697	Auto Racing	3	The 1995 Humminbird Fishfinder 500K ended with Chad Little winning by what margin?	32.6 seconds	16 seconds	.0006 seconds	0.06 seconds
+531526	Auto Racing	3	Dale Earnhardt got his "Ironhead" nickname after his narrow victory at the High Life 400 in what year?	1990	1994	1982	1986
+78J2014	Auto Racing	3	Which race track was first to offer year around living apartments?	Darlington Raceway	Dover Speedway	Kansas Speedway	Charlotte Motor Speedway
+185585	Auto Racing	3	What rookie out-dueled Jeff Gordon to win the Cracker Barrel Old Country Store 500?	Jerry Nadeau	Ricky Rudd	Ken Schrader	Kevin Harvick
+516682	Auto Racing	3	How many laps around the Daytona International Speedway does the Daytona 500 require?	20 Laps	400 Laps	100 Laps	200 Laps
+531562	Auto Racing	3	In what year did aerodynamics become crucial in Formula 3 racing?	1968	1960	1978	1973
+531536	Auto Racing	3	Kentucky Speedway is home to which of these feature races?	HR Block 400	Toyota Tundra 250	Safeway 250	Quaker State 400
+618D424	Auto Racing	3	How many laps was the 2018 Toyota Owners 400?	111 Laps	500 Laps	225 Laps	402 Laps
+78J2017	Auto Racing	3	Where did the TicketGuardian 500 race take place in March 2019?	Dover, Delaware	Bristol, Tennessee	Fort Worth, Texas	Avondale, Arizona
+618D420	Auto Racing	3	Chicagoland Speedway is home to which of these feature races?	Ford EcoBoost 400	Drivin for Linemen 200	Toyota/Save Mart 350	Freaky Fast 300
+532012	Auto Racing	3	In 2012, who ran his #51 car with the "ME" cougar paint scheme from the 2006 movie "Talladega Nights"?	Carl Edwards	Dale Earnhardt, Jr.	Sebastian Vettel	Kurt Busch
+268702	Auto Racing	3	Which race did Todd Bodine win by just .0036 seconds in 2002?	O'Reilly 300	Aaron's 312	Camping World 300	Kroger 300
+531902	Auto Racing	3	What year was Ryan Blaney's rookie year in pro racing?	2015	2018	2017	2016
+618D422	Auto Racing	3	Who drives the No. 11 Camry for Joe Gibbs Racing in the 2018 the Monster Energy NASCAR Cup Series?	Kurt Busch	Ryan Newman Richard 	David Ragan	Denny Hamlin
+78J2005	Auto Racing	3	Which NASCAR track will you find in the city of Martinsville?	Martinsville Superspeedway	Martinsville International Raceway	Martinsville Downs	Martinsville Speedway
+531427	Auto Racing	3	How many points does the first place finisher earn in a NASCAR Xfinity Series?	40 Points	10 Points	2 Points	46 Points
+268705	Auto Racing	3	Who won the 2018 Belgian Grand Prix?	Esteban Ocon	Valtteri Bottas	Max Verstappen	Sebastian Vettel
+531539	Auto Racing	3	In 1989 who won NASCAR Rookie of the Year honors?	Jammie McMurray	Ryan Newman	Johnny Benson Jr.	Dick Trickle
+530558	Auto Racing	3	Which former NBA star was the Grand Marshal for the 2007 NASCAR All-Star race?	Magic Johnson	Grant Hill	James Worthy	Michael Jordan
+532111	Auto Racing	3	Which of these races takes place at Kansas Speedway?	Freaky Fast 300	Lilly Diabetes 250	Drivin for Linemen 200	Toyota Tundra 250
+531509	Auto Racing	3	Who was the winner of the 2018 Toyota Owners 400?	Joey Logano	Austin Dillon	Martin Truex Jr.	Kyle Busch 
+530480	Auto Racing	3	Who was the Grand Marshall for the 2019 Daytona 500?	Sly Stallone	Don Trump Jr.	Johnny Depp	J.J. Watt
+531530	Auto Racing	3	The 2004 O'Reilly 300 ended in last-second victory by what driver?	Joe Nemechek	Tony Stewart	Kasey Kahne	Matt Kenseth
+531904	Auto Racing	3	Eldora Speedway is home to which of these feature races?	Road America 180	Kroger 250	Midsummer Classic	Mudsummer Classic
+531557	Auto Racing	3	Mike Shiplett is the crew chief for which racing team?	DGM Racing	Joe Gibbs Racing	Team Penske	Chip Ganassi
+530559	Auto Racing	3	Dale Earnhardt earned his final NASCAR win in dramatic at what race in 2000?	Brickyard 400	Pepsi 400	Daytona 500	Winston 500
+531738	Auto Racing	3	The narrow finish at the 2004 Subway 400 occurred in what state?	South Carolina	Georgia	Virginia	North Carolina
+531527	Auto Racing	3	The 1995 Diehard 500 ended in a narrow win by Sterling Marlin over whom?	Jeff Gordon	Matt Kenseth	Jimmy Spencer	Dale Jarrett
+531813	Auto Racing	3	How many races had Kevin Harvick run in the Sprint series before narrowly winning the 2001 Cracker Barrel 500?	4	6	8	2
+531944	Auto Racing	3	Who won the Pocono 400 race on June 2nd 2019?	Brad Keselowski	Joey Logano	Jimmie Johnson	Kyle Busch
+516688	Auto Racing	3	Who was a high-school golf teammate of Tiger Woods?	Joey Logano	Danica Patrick	Austin Hill	David Gilliland
+230368	Auto Racing	3	Jeff Gordon is the feature driver of what 1999 racing video game for the PC and Game Boy Color?	Jeff Gordon GBC Racing	Jeff Gordon PC Racing	Jeff Gordon XL Racing	Jeff Gordon XS Racing
+1MU1551	Auto Racing	3	The 2018 Food City 500 race took place in what city?	Fontana	Long Pond	Pomona	Bristol
+78J2020	Auto Racing	3	The 2011 Food City 250 ended with a win by what driver of the Pedigree car?	Kasey Kahne	Boris Said	Jeff Green	Kyle Busch
+531508	Auto Racing	3	Dale Earnhardt made his famous "rattle his cage" remark after a narrow victory in what year?	1995	1991	2003	1999
+618D416	Auto Racing	3	What is the slang term for the last official practice session held before a NASCAR event?	Late Night	Beer Run	Tea Time	Happy Hour
+516700	Auto Racing	3	Who won the 2015 Budweiser Duel #2?	Carl Edwards	Denny Hamlin	Kyle Busch	Jimmie Johnson
+230377	Auto Racing	3	Between 1993 and 2015, how many Sprint Cup races were won by less than one tenth of a second?	22	66	88	44
+530494	Auto Racing	3	The 2012 Virginia 529 College Savings 250 ended with a narrow win by what driver?	Todd Bodine	Denny Hamlin	Chris Buescher	Kurt Busch
+531845	Auto Racing	3	Who sponsored Kyle Busch when ran the 2018 Food City 500 in 2018?	Amazon	Bass Pro Shops	Taco Bell	Skittles
+531512	Auto Racing	3	What company is the sponsor of Ricky Bobby's racing nemesis, Jean Girard, in "Talladega Nights"?	Budweiser	Wonder Bread	Old Spice	Perrier
+531817	Auto Racing	3	Who won March 2019's Auto Club 400 race?	Joey Logano	Kyle Larson	Jimmie Johnson	Kyle Busch
+530485	Auto Racing	3	Tony Stewart narrowly won the 2009 Camping World 300 at what track?	Charlotte	Auto Club	Kentucky	Daytona
+530486	Auto Racing	3	Which driver finished first at the 2015 NASCAR Sprint Cup Series at Las Vegas?	Jeff Gordon	Eddie MacDonald	Casey Mears	Kevin Harvick
+531550	Auto Racing	3	Which was not a team that once dominated Formula 3 racing?	March	Brabham	Lotus	Washburn
+531852	Auto Racing	3	Aric Almirola drives for which team in the 2014 NASCAR Sprint Cup Series?	Michael Waltrip Racing	Team Penske	Joe Gibbs Racing	Richard Petty Motorsports
+1MU1555	Auto Racing	3	Canadian Grand Prix 2019 started on which date?	12th June	15th June	18th June	9th June
+516690	Auto Racing	3	What country is driver Daniel Abt from?	Spain	England	USA	Germany
+1MU1539	Auto Racing	3	Which of these races takes place at Charlotte Motor Speedway?	Lilly Diabetes 250	Ford EcoBoost 400	Kroger 250	Coca-Cola 600
+531828	Auto Racing	3	Who won the first NASCAR Championship?	Tim Flock	Joe Weatherly	Lee Petty	Red Byron
+531516	Auto Racing	3	In a deleted scene on the "Talladega Nights" DVD, who calls Ricky Bobby a "dirty liar"?	Tony Stewart	Jimmie Johnson	Jeff Gordon	Dale Earnhardt, Jr.
+1MU1535	Auto Racing	3	Which F1 driver suffered a dangerous crash in the year 2018?	Max Verstappen	Valtteri Bottas	Pierre Gasly	Marcus Ericsson
+531548	Auto Racing	3	Which driver finished first at the 2015 NASCAR Sprint Cup Series at California?	Paul Menard	Kurt Busch	Casey Mears	Brad Keselowski
+530541	Auto Racing	3	Which driver won the 2015 SpongeBob SquarePants 400?	Kevin Harvick	Dale Earnhardt, Jr.	Jeff Gordon	Jimmie Johnson

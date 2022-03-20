@@ -1,0 +1,945 @@
+FTUX85	Fútbol Americano	0	¿De qué color es una pelota de fútbol estándar?	Rojo	Rosa	Verde	Marrón
+45EE028	Fútbol Americano	0	¿Qué equipo tiene una herradura como logotipo de su equipo?	Bengalíes de Cincinnati	Cuervos de Baltimore	Osos de Chicago	Potros de Indianápolis
+FTUX103	Fútbol Americano	0	¿Tom Brady era parte de qué equipo de fútbol?	Broncos de Denver	Acereros de Pittsburgh	Browns de Cleveland	Patriotas de Nueva Inglaterra
+FTUX91	Fútbol Americano	0	¿Cuántos puntos obtiene un equipo por touchdown en el fútbol americano?	1	0	13	6
+0DIFSP124	Fútbol Americano	0	¿Los Dolphins, Buccaneers y Jaguars juegan en qué estado de EE. UU.?	California	Texas	Kansas	Florida
+0DIFSP136	Fútbol Americano	0	¿La NFL se divide en qué dos conferencias?	Este y Oeste	NL y AL	Norte y Sur	NFC y AFC
+45EE109	Fútbol Americano	0	¿Cuál es un equipo real de la NFL de Michigan?	Furias de Detroit	Cebras de Detroit	Búhos de Detroit	Leones de Detroit
+0DIFSP134	Fútbol Americano	0	¿Qué equipo tiene un casco naranja?	Empacadores de Green Bay	Asaltantes de Las Vegas	Acereros de Pittsburgh	Browns de Cleveland
+FTUX95	Fútbol Americano	0	¿Cuál de los siguientes no es un equipo de fútbol?	Broncos de Denver	Cuervos de Baltimore	Osos de Chicago	Pepitas de Denver
+45EE031	Fútbol Americano	0	¿Cuál de estos jugadores de la NFL fue nombrado MVP del Super Bowl?	Barry Bonds	Kevin Durant	Trent Green	John Elway
+FTUXPIC338	Fútbol Americano	0	¿Quién es esta leyenda ganadora del Super Bowl?	Eli Manning	Joe Montana	Nick Foles	Peyton Manning
+45EE118	Fútbol Americano	0	¿Cuál de estos equipos se encuentra en Jacksonville, Florida?	Chorros	Acereros	Potros	Jaguares
+45EE085	Fútbol Americano	0	¿Qué atleta es un mariscal de campo de la NFL bien conocido?	James Jones	Lebron James	Stephen Curry	Cam Newton
+0DIFSP265	Fútbol Americano	0	¿Cómo se llama el trofeo para el ganador del Super Bowl?	La Gloria del Fútbol	El Balón de Oro	El Trofeo Brillante	El Trofeo Vince Lombardi
+518785	Fútbol Americano	0	¿Qué término futbolístico se define como "cuando un jugador lanza la pelota al suelo para celebrar"?	Espaldas	La seguridad	Bomba	Pico
+0DIFSP271	Fútbol Americano	0	¿Cuál de los siguientes equipos nunca ha participado en el Super Bowl?	Patriotas de Nueva Inglaterra	49ers de San Francisco	Empacadores de Green Bay	Browns de Cleveland
+FTUXPIC337	Fútbol Americano	0	¿Quién es este Seahawk que cumplió 49 años?	Marshawn Lynch	Russell Wilson	Frank Gore	Richard Sherman
+0DIFSP139	Fútbol Americano	0	¿A qué parte del roster pertenecen normalmente los pateadores?	Ofensa	Entrenamiento	Defensa	Equipos especiales
+45EE076	Fútbol Americano	0	¿Qué equipo de la NFL 2020 tiene Jerry Jones?	Tiburones de San José	Bengalíes de Cincinnati	Osos de Seattle	Vaqueros de Dallas
+FTUX101	Fútbol Americano	0	¿El esquema de color de qué equipo es verde y dorado?	Patriotas de Nueva Inglaterra	49ers de San Francisco	Vaqueros de Dallas	Empacadores de Green Bay
+0DIFSP129	Fútbol Americano	0	¿Un jugador hace qué para hacer un gol de campo?	Atrapa la pelota	Lanza la pelota muy lejos	Corre hasta el final del campo	Patea la pelota a través de los montantes.
+45EE010	Fútbol Americano	0	¿Cuál es el juego de fútbol americano de la NFL más visto cada año?	Pro Bowl	Juego de apertura	Pats vs Delfines	Super Bowl
+FTUX104	Fútbol Americano	0	¿Qué equipo de fútbol ganó el primer Super Bowl?	Dodgers de Los Ángeles	Guerreros del Estado Dorado	Yankees de Nueva York	Empacadores de Green Bay
+45EE100	Fútbol Americano	0	¿Cuál es un trabajo importante del puesto de centro?	Saluda a los fans	Recarga de jarras de agua	Entrenador equipo	Pasar la pelota al mariscal de campo
+45EE106	Fútbol Americano	0	¿Cuál es un equipo real de la NFL de Colorado?	Toros de Denver	Ponis de Denver	Mustangs de Denver	Broncos de Denver
+FTUX97	Fútbol Americano	0	¿Cuál es el nombre completo del equipo de fútbol de Buffalo?	Búfalo Búfalo	Gatos de Búfalo	Buffalo Acereros	Buffalo Bills
+0DIFSP267	Fútbol Americano	0	¿El Super Bowl es el evento deportivo más visto en el mundo después de qué evento?	Maestros	taza de Stanley	locura de Marzo	Final de la Liga de Campeones de fútbol
+FTUX90	Fútbol Americano	0	¿Qué jugador del equipo de fútbol suele lanzar la pelota?	Bateador	Pateador	Doble espalda	Jugador de ataque
+189S819	Fútbol Americano	0	¿Cómo se llama el espacio en el campo de fútbol donde se anota un touchdown?	Downzone	Zona Ultra	Trimestre de puntuación	Zona final
+FTUXPIC339	Fútbol Americano	0	¿Quién es este mariscal de campo de GOAT?	Brett Favre	Tom Brady	Steve Young	Joe Montana
+518792	Fútbol Americano	0	En el fútbol, ​​¿cuántos puntos vale un gol de campo?	Seis	Dos	Cuatro	Tres
+45EE013	Fútbol Americano	0	¿Cuál de estos atletas era un corredor de la NFL?	Joe Montana	Tom Brady	Mike Tyson	Emmitt Smith
+0DIFSP125	Fútbol Americano	0	¿Cuál de las siguientes películas involucró principalmente fútbol?	Su propia liga	Hoosiers	Béisbol	Recuerda los titanes
+45EE091	Fútbol Americano	0	¿Cuándo se detiene el reloj en el fútbol?	En un lateral	Durante una entrada	Durante un pase	En un penalti
+45EE001	Fútbol Americano	0	¿En qué posición jugó Joe Montana en la NFL?	La seguridad	Final defensivo	El receptor abierto	Jugador de ataque
+FTUXPIC333	Fútbol Americano	0	¿Qué está haciendo este pateador?	Intentando un granizo maría	Colocación	Corriendo	Remar
+FTUX98	Fútbol Americano	0	¿Cuál es el siguiente no es un equipo de fútbol?	Vikingos de Minnesota	Gigantes de Nueva York	Patriotas de Nueva Inglaterra	Orlando Magic
+45EE007	Fútbol Americano	0	¿Quién le pasa la pelota al mariscal de campo?	Jugador	Apoyador	Jugador de ataque	Central
+45EE079	Fútbol Americano	0	¿Qué equipo de la ciudad de la NFL lleva el nombre de un pájaro?	Nueva York	Minnesota	Miami	Baltimore
+45EE037	Fútbol Americano	0	¿Cuál de estos no es un equipo de fútbol real?	Empacadores de Green Bay	Gigantes de Nueva York	Águilas de Filadelfia	Conchas de California
+0DIFSP275	Fútbol Americano	0	¿Qué equipo perdió el primer Super Bowl?	Browns de Cleveland	Leones de Detroit	Asaltantes de Oakland	Jefes de Kansas City
+0DIFSP268	Fútbol Americano	0	¿Qué empresa paga al MVP del Super Bowl cada año para patrocinar su negocio?	Tesla	Buen año	HBO	Disney
+FTUXPIC336	Fútbol Americano	0	¿Este logo pertenece a qué equipo?	Estrellas de Dallas	Acereros de Pittsburgh	Asaltantes de Las Vegas	Vaqueros de Dallas
+45EE097	Fútbol Americano	0	¿Qué equipo tiene el árbitro en un juego de la NFL?	iPhone	Trompeta	Polo	Silbato
+189S821	Fútbol Americano	0	¿Cómo se decide la primera posesión de un juego de fútbol americano de la NFL?	Pelota para saltar	Tiroteo	Probabilidades o pares	Lanzamiento de moneda
+FTUX88	Fútbol Americano	0	¿Cómo se llama cuando un jugador deja caer la pelota?	Oopsie	Cuentagotas	Falta	Buscar a tientas
+0DIFSP127	Fútbol Americano	0	¿Cuántos puntos vale una seguridad?	3	7	1	2
+35499	Fútbol Americano	0	Si el Super Bowl I se jugó el 15 de enero de 1967, ¿cuándo se jugó el Super Bowl XI?	30 de enero de 1994	30 de enero de 1983	20 de enero de 1985	9 de enero de 1977
+FTUX94	Fútbol Americano	0	¿Cuál es el nombre completo del equipo de Indianápolis?	Lakers de Indianápolis	Dodgers de Indianápolis	Guerreros de Indianápolis	Potros de Indianápolis
+0DIFSP263	Fútbol Americano	0	¿Qué deporte se juega durante el Super Bowl?	Fútbol	Baloncesto	Béisbol	Fútbol americano
+0DIFSP126	Fútbol Americano	0	Esta persona a menudo entrega la pelota al mariscal de campo para comenzar a jugar:	Entrenador	Apoyador	Receptor	Centrar
+45EE019	Fútbol Americano	0	¿Cuáles de estas franquicias de la NFL juegan partidos en casa en Florida?	Águilas	Panteras	Chorros	Delfines
+FTUXPIC332	Fútbol Americano	0	Los pateadores de gol de campo tienen como objetivo patear la pelota entre qué?	Postes de meta	Postes de falta	Espuelas	Verticales
+FTUXPIC335	Fútbol Americano	0	¿Qué logo de equipo es este?	Gigantes de Nueva York	Bulldogs de Georgia	Browns de Cleveland	Empacadores de Green Bay
+45EE004	Fútbol Americano	0	¿Cuál de estos es un puesto ofensivo en el fútbol?	Esquinero	Apoyador medio	La seguridad	Final dificil
+FTUX100	Fútbol Americano	0	¿Cuál es el nombre completo del equipo de fútbol de Pittsburgh?	Ardillas de Pittsburgh	Vaqueros de pittsburgh	Tiburones de Pittsburgh	Acereros de Pittsburgh
+0DIFSP273	Fútbol Americano	0	¿Quién era Vince Lombardi?	Un nuevo árbitro para la Superbowl	Un joyero famoso	Una empresa de uniformes	Primer entrenador ganador del Super Bowl
+FTUXPIC340	Fútbol Americano	0	¿Quién es este receptor GOAT (a la derecha)?	Randy Moss	Deion Sanders	Terrell Owens	Jerry Rice
+FTUX99	Fútbol Americano	0	¿Quién suele atrapar el balón en un equipo de fútbol?	La persona mas alta	Jugador de ataque	Doble espalda	El receptor abierto
+0DIFSP121	Fútbol Americano	0	¿Cuántos downs tiene que anotar o avanzar la ofensiva?	1	6	10	4
+8220	Fútbol Americano	0	Si el Super Bowl I se jugó el 15 de enero de 1967, ¿cuándo se jugó el Super Bowl XXXIV?	12 de enero de 1969	26 de enero de 1986	22 de enero de 1984	30 de enero de 2000
+491424	Fútbol Americano	0	¿Quién fue el entrenador en jefe de los Patriotas de Nueva Inglaterra de 2019?	Bruce Beal	Eric Bieniemy	Dean Pees	Bill Belichick
+45EE025	Fútbol Americano	0	¿En qué ciudad residen los tejanos de la NFL?	Tierra de ensueño	Laredo	los Angeles	Houston
+FTUXPIC331	Fútbol Americano	0	¿Quién es este ex jugador grandioso de los Patriots?	Teddy Bruschi	Tim Tebow	Doug Flutie	Tom Brady
+0DIFSP122	Fútbol Americano	0	¿Cuál no es un tipo de juego de fútbol?	Pasar	Prisa	Gol de campo	Robar
+45EE022	Fútbol Americano	0	¿Cuáles de estas franquicias de la NFL juegan partidos en casa en Florida?	Bengalíes	halcones Marinos	Carneros	Bucaneros
+45EE055	Fútbol Americano	0	¿Cuál de estos es un término utilizado en el fútbol?	Pick and roll	Cubeta	Caminar	Abordar
+45EE094	Fútbol Americano	0	Cuando un árbitro de la NFL se pone las manos en las caderas, ¿cuál es la llamada?	Mascara facial	Bailando en la zona de anotación	Tenencia	Fuera de juego
+FTUX96	Fútbol Americano	0	¿Cuál de los siguientes no es un puesto en el fútbol?	Fullback	Medio	Jugador de ataque	Guardián
+199825	Fútbol Americano	0	¿Cuál es el término oficial para una atrapada realizada por un jugador ofensivo en el fútbol?	Prestación	Buscar a tientas	La seguridad	Recepción
+7W2597	Fútbol Americano	0	En el fútbol, ​​¿cuántos puntos vale un touchdown?	Cinco	Diez	Tres	Seis
+0DIFSP130	Fútbol Americano	0	¿Cómo se llama el juego de campeonato de la NFL?	Los finales	locura de Marzo	Series Mundiales	Super Bowl
+45EE058	Fútbol Americano	0	¿Qué equipo ha sido dirigido por el entrenador Bill Belichick en 2015, 2016 y 2017?	Lakers de Los Angeles	Cuervos de Baltimore	Mets de Nueva York	Patriotas de Nueva Inglaterra
+0DIFSP135	Fútbol Americano	0	¿Qué significa NFL?	Liga sin diversión	Nueva liga de fútbol	Fútbol nocturno en vivo	Liga Nacional de Fútbol
+FTUX89	Fútbol Americano	0	¿En qué parte del campo se anota un touchdown?	La zona media	El aro de la canasta	La zona del crepusculo	La zona de anotación
+45EE046	Fútbol Americano	0	Si el equipo perdió 5 yardas en el primer intento, en el segundo intento, ¿cuántas yardas necesita para un primer intento?	12 yardas	7 yardas	36 yardas	15 yardas
+45EE112	Fútbol Americano	0	¿Cuál es un equipo real de la NFL de Louisiana?	Blues de Nueva Orleans	Jazz de Nueva Orleans	Mármoles de Nueva Orleans	Santos de Nueva Orleans
+45EE043	Fútbol Americano	0	¿Cuál de estos es un penalti en la NFL?	Revuelto	Escupir	Goma de mascar	Retraso de juego
+0DIFSP264	Fútbol Americano	0	¿Qué jugador ha jugado en la mayoría de los Super Bowls?	Babe Ruth	Kobe Bryant	Tony Romo	Tom Brady
+FTUX92	Fútbol Americano	0	¿Qué equipo tiene un gato grande como mascota?	Vaqueros de Dallas	Patriotas de Nueva Inglaterra	Broncos de Denver	Panteras de Carolina
+0DIFSP132	Fútbol Americano	0	¿Cuál es un equipo que juega en California?	Empacadores	Patriotas	Tejanos	Cargadores
+0DIFSP131	Fútbol Americano	0	¿Qué determina quién recibe la pelota primero?	Quien sea mas grande	Colegio electoral	Concurso de flexiones	Lanzamiento de la moneda
+45EE088	Fútbol Americano	0	¿Cuál es una formación defensiva común de la NFL?	Dólar de vuelta	Enlaces de brazo	2-12 Defensa	4-3 Defensa
+FTUX102	Fútbol Americano	0	¿Tony Romo formaba parte de qué equipo de fútbol?	Osos de nueva inglaterra	Tiburones de Cleveland	Leones de Mississippi	Vaqueros de Dallas
+88SU1129	Fútbol Americano	0	En el fútbol, ​​¿cuál es otro nombre para una jugada de carrera?	La seguridad	Rotación	Zona neutral	Prisa
+0DIFSP133	Fútbol Americano	0	¿Qué día de la semana se juega el Super Bowl?	Sábado	Miércoles	Lunes	Domingo
+0DIFSP262	Fútbol Americano	0	¿Cómo se llama el tiempo de descanso intermedio del Super Bowl?	Programa de mitad de juego	Tiempo de silencio	Medley del hombre medio	Show de medio tiempo
+0DIFSP261	Fútbol Americano	0	¿Cuántos equipos participan en el Super Bowl?	10	6	4	2
+FTUX93	Fútbol Americano	0	¿Qué equipo de fútbol tiene un pájaro en su logo?	Browns de Cleveland	Vikingos de Minnesota	Acereros de Pittsburgh	Águilas de Filadelfia
+259328	Fútbol Americano	0	Si el Super Bowl I se jugó el 15 de enero de 1967, ¿cuándo se jugó el Super Bowl VI?	25 de enero de 1998	9 de enero de 1977	30 de enero de 1994	16 de enero de 1972
+45EE040	Fútbol Americano	0	Si es el segundo intento y quedan tres, ¿cuántas yardas más necesitan para un primer intento?	Once yardas	Dos yardas	Siete yardas	Tres yardas
+45EE049	Fútbol Americano	0	¿Cómo señala un jugador una "recepción justa" en la NFL?	Orando	Mostrar la lengua	Allanamiento	Ondulación
+45EE052	Fútbol Americano	0	¿Cuál de estos es un término utilizado en el fútbol?	Obstáculo	KO	Deslizador	Intercepción
+0DIFSP138	Fútbol Americano	0	¿Qué día de la temporada es conocido por sus comerciales costosos y de gran valor?	Noche de estreno	Pro Bowl	Salón de la fama	Super Bowl
+272287	Fútbol Americano	0	Si el Super Bowl I se jugó el 15 de enero de 1967, ¿cuándo se jugó el Super Bowl XVIII?	14 de enero de 1973	25 de enero de 1981	28 de enero de 1996	22 de enero de 1984
+0DIFSP137	Fútbol Americano	0	Si un liniero ofensivo se mueve demasiado pronto, ¿cómo se sanciona?	Fuera de juego	Invasión	Interferencia de pase	Inicio en falso
+FTUX86	Fútbol Americano	0	¿Cuál de estos no es parte del uniforme de un jugador de fútbol?	Casco	Tacos	Jersey	Capa
+45EE061	Fútbol Americano	0	¿Qué posición jugó Peyton Manning en la NFL?	El receptor abierto	La seguridad	Corriendo hacia atrás	Jugador de ataque
+30812	Fútbol Americano	1	¿Qué equipo de la NFL ganó el primer Super Bowl?	Vaqueros de Dallas	Acereros de Pittsburgh	Colts de Baltimore	Empacadores de Green Bay
+0DIFSP123	Fútbol Americano	1	¿Cuántos minutos hay en un cuarto de juego de la NFL?	8	10	12	15
+88SU1099	Fútbol Americano	1	En 2000, Peyton Manning fue al Pro Bowl de la NFL ¿representando a qué equipo?	Gigantes de Nueva York	Carneros de St. Louis	Asaltantes de Oakland	Potros de Indianápolis
+94969	Fútbol Americano	1	¿El 'mal funcionamiento del vestuario' de qué cantante causó revuelo en el Super Bowl de 2004?	Madonna	Steven Tyler	Prince	Janet Jackson
+19TP4011	Fútbol Americano	1	¿Julio Jones hizo el primer Pro Bowl de su carrera en qué año?	2008	2004	2002	2012
+618D392	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Kansas City Chiefs de 2019?	Joe Judge	Jim Fassel	John DeFilippo	Andy Reid
+20701	Fútbol Americano	1	¿Quién fue el entrenador ganador del Super Bowl 1?	Hank Stram	Don Shula	George Halas	Vince Lombardi
+45EE103	Fútbol Americano	1	¿Qué línea de yarda está en el centro de un campo de fútbol?	Línea de 20 yardas	Línea de 12 yardas	Línea de 70 yardas	Línea de 50 yardas
+618D368	Fútbol Americano	1	¿Para qué equipo protagonizó Nick Foles como mariscal de campo en la temporada 2017-18?	Chorros	Empacadores	Delfines	Águilas
+0DIFSP270	Fútbol Americano	1	¿Qué equipo ganó el primer Super Bowl?	Guerreros del Estado Dorado	Leones de Detroit	Yankees de Nueva York	Empacadores de Green Bay
+19SU2010	Fútbol Americano	1	¿Quién entrenó a los dos primeros equipos del Campeonato del Super Bowl y qué equipo fue?	Mike Shanahan / Facturas	Don Shula / Delfines	Barry Switzer / Vaqueros	Vince Lombardi / Empacadores
+516276	Fútbol Americano	1	¿Cuál es la pena en la NFL por chocar con el pateador?	Penalización de quince yardas	Penalización de diez yardas	Penalización de veinte yardas	Penalización de cinco yardas
+FTUXPIC334	Fútbol Americano	1	¿Estos jugadores están intentando un qué?	Pelea	Pasando el juego	Gol de campo	Manos libres
+491416	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Philadelphia Eagles 2019?	Patrick Graham	Greg Olson	Paul Guenther	Doug Pederson
+381860	Fútbol Americano	1	¿Qué equipo de fútbol profesional ganó los dos primeros Super Bowls?	Asaltantes de Oakland	Vaqueros de Dallas	Cuervos de Baltimore	Empacadores de Green Bay
+199824	Fútbol Americano	1	¿De qué color es la lengua del Jacksonville Jaguar en su logo?	Negro	Rojo	Amarillo	Verde azulado
+518784	Fútbol Americano	1	¿En qué posición jugó Joe Namath?	DB	DE	WR	QB
+490920	Fútbol Americano	1	¿Cuál de estas líneas de yarda se puede ver en un campo de fútbol americano?	Línea de 60 yardas	Línea de 100 yardas	Línea de 54 yardas	Línea de 40 yardas
+12K1509	Fútbol Americano	1	¿Cuál es la sanción en la NFL por un turno ilegal?	Penalización de diez yardas	Penalización de quince yardas	Penalización de veinte yardas	Penalización de cinco yardas
+0DIFSP269	Fútbol Americano	1	¿Qué equipo fue el primer equipo en ganar 5 Super Bowls?	Browns de Cleveland	Leones de Detroit	los Lakers de Los Angeles	49ers de San Francisco
+199940	Fútbol Americano	1	En la NFL, ¿qué ocurre cuando hay una interferencia de pase defensivo?	Pérdida de cinco yardas	Pérdida de diez yardas	Pérdida de la pelota	Primero abajo automático
+259220	Fútbol Americano	1	¿Quién ganó el primer Super Bowl, celebrado en Los Ángeles el 15 de enero de 1967?	Leones de Detroit	Delfines de Miami	49ers de San Francisco	Empacadores de Green Bay
+189S816	Fútbol Americano	1	¿Qué jugador de los Vaqueros llegó a su noveno Pro Bowl en 2013-14?	Dez Bryant	Demarco Murray	Tyron Smith	Jason Witten
+88SU1159	Fútbol Americano	1	¿Cuál es la penalización en la NFL por fuera de juego?	Penalización de quince yardas	Penalización de diez yardas	Penalización de veinte yardas	Penalización de cinco yardas
+491423	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Minnesota Vikings de 2019?	Zac Taylor	Nick Sirianni	Sean McDermott	Mike Zimmer
+199838	Fútbol Americano	1	¿Cuál es el logo del casco de los New Orleans Saints?	Una lanza india	Un pájaro	Un antiguo símbolo romano	Un símbolo francés llamado Fleur-De-Lis
+259715	Fútbol Americano	1	¿Qué elevó la NFL de 30 pies a 35 pies de altura en 2014?	Jugar relojes	Suite Coaches	Marcadores	Publicaciones de objetivos
+502598	Fútbol Americano	1	¿En qué posición juega la ex estrella de la USC Sam Darnold?	Fullback	Centrar	La seguridad	Jugador de ataque
+88SU829	Fútbol Americano	1	¿Qué número de uniforme retiró Denver para el gran John Elway de la NFL?	5	12	9	7
+0DIFSP277	Fútbol Americano	1	¿Qué equipo ha anotado más puntos en un Super Bowl?	Medias Rojas de Boston	Broncos de Denver	Bucaneros de Tampa Bay	49ers de San Francisco
+65391	Fútbol Americano	1	¿Quién fue el mariscal de campo titular de los Vaqueros de Dallas al comienzo de la temporada 2011?	Bill Nagy	Doug Free	Felix Jones	Tony Romo
+318220	Fútbol Americano	1	¿Quiénes fueron los mariscales de campo titulares en el primer Super Bowl?	Ken Stabler y Roger Staubach	Jim Plunkett y Brian Sipe	Fran Tarkenton y Joe Namath	Bart Starr y Len Dawson
+272249	Fútbol Americano	1	¿Qué estrella fue un mariscal de campo que llevó a los 49ers a sus primeras cuatro victorias en el Super Bowl?	Reggie White	Mel Blount	Fran Tarkenton	Joe Montana
+297665	Fútbol Americano	1	¿Quién fue el Jugador Más Valioso del Super Bowl Miami vs San Francisco el 20 de enero de 1985?	Dan Marino	Mark Duper	Roger Craig	Joe Montana
+518790	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Atlanta Falcons 2019?	Doug Pederson	Tom Coughlin	Norv Turner	Dan Quinn
+189S817	Fútbol Americano	1	¿Quién fue un capitán ofensivo de los Giants en la temporada 2014?	Stevie Brown	Ross Weaver	Zak DeOssie	Eli Manning
+18wS800	Fútbol Americano	1	¿Qué equipo seleccionó a Clay Matthews?	Bucaneros de Tampa Bay	Gigantes de Nueva York	Asaltantes de Oakland	Empacadores de Green Bay
+189S812	Fútbol Americano	1	¿Cuántas yardas (sin penaltis) se necesitan normalmente para lograr un primer intento en el fútbol?	15	20	Cinco	Diez
+88SU889	Fútbol Americano	1	¿Qué estrella del fútbol es un corredor ganador del Salón de la Fama y del Trofeo Heisman?	Brett Favre	Roger Staubach	Bob Lilly	Earl Campbell
+507609	Fútbol Americano	1	¿Cuántas yardas es la pena en la NFL por maltratar al pateador?	Penalización de veinte yardas	Penalización de diez yardas	Penalización de cinco yardas	Penalización de quince yardas
+618D360	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Houston Texans de 2019?	Matt Patricia	Wade Phillips	Tim Kelly	Bill O'Brien
+199829	Fútbol Americano	1	¿Quién fue el presidente y gerente general de los Vaqueros durante la temporada 2013-14?	Rod Marinelli	Judd Garrett	Jimmy Robinson	Jerry Jones
+0DIFSP278	Fútbol Americano	1	¿Cuál de los siguientes equipos nunca ha participado en el Super Bowl?	Empacadores de Green Bay	Acereros de Pittsburgh	Broncos de Denver	Leones de Detroit
+8278	Fútbol Americano	1	¿Quién en la NFL es apodado "Cool Breeze"?	Deuce McAllister	Philip Rivers	Peter Warrick	Drew Brees
+8290	Fútbol Americano	1	¿En qué escuela jugó Baker Mayfield antes de ser reclutado en la NFL?	Texas A&M	Estado de Carolina del Norte	Mississippi Sureña	Oklahoma
+88SU799	Fútbol Americano	1	¿Cómo se llama el estadio de los New England Patriots que se inauguró en 2002?	Estadio Foxboro	Estadio de Harvard	Estadio Sullivan	Estadio Gillette
+618D372	Fútbol Americano	1	¿Cuál es el primer nombre del ex mariscal de campo de los Steeler, Bradshaw?	Dan	Tommy	Jim	Terry
+451876	Fútbol Americano	1	¿La superestrella defensiva Lester Hayes jugó como esquinero para qué equipo de la NFL en 1980?	Santos de Nueva Orleans	Broncos de Denver	Acereros de Pittsburgh	Asaltantes de Oakland
+618D340	Fútbol Americano	1	¿Cuál es el primer nombre del jugador de fútbol Allen?	Willie	Albert	Beto	George
+199010	Fútbol Americano	1	Si el Super Bowl I se jugó el 15 de enero de 1967, ¿cuándo se jugó el Super Bowl XXXIII?	30 de enero de 2000	14 de enero de 1973	30 de enero de 1983	31 de enero de 1999
+0DIFSP274	Fútbol Americano	1	¿Dónde se llevó a cabo el Super Bowl 2016?	Londres, Inglaterra	París, Francia	Little Rock, Alaska	San Francisco, CA
+499611	Fútbol Americano	1	¿Patrick Mahomes II es el mariscal de campo de qué equipo de la NFL 2018?	SF 49ers	Jets de Nueva York	Patriotas del NE	Jefes de KC
+618D354	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Chicago Bears 2019?	Pete Carroll	Lovie Smith	Dirk Koetter	Matt Nagy
+FTUX87	Fútbol Americano	1	¿Cuál de estas palabras significa derribar a una persona en el fútbol?	Sujetar	Barajar	Lanzar patada	Entrada
+88SU1189	Fútbol Americano	1	¿Cuántas yardas tiene un campo de fútbol americano de la NFL?	200	20	50	100
+618D376	Fútbol Americano	1	¿Quién tuvo la primera selección en el Draft de la NFL 2018?	Broncos de Denver	Osos de Chicago	Cuervos de Baltimore	Browns de Cleveland
+304315	Fútbol Americano	1	¿Qué jugador de los Miami Dolphin coprotagonizó la película "Ace Ventura: Pet Detective"?	Troy Aikman	Walter Payton	Michael Vick	Dan Marino
+288796	Fútbol Americano	1	¿Qué jugador de fútbol americano es el mariscal de campo del Salón de la Fama de Green Bay?	Mike Haynes	Jack Youngblood	Franco Harris	Bart Starr
+45d4442	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los 49ers de San Francisco de 2019?	Jason Taylor	Mike Shula	Robert Saleh	Kyle Shanahan
+518782	Fútbol Americano	1	¿Cuántas yardas es la penalización en la NFL por maltratar al pasador?	Penalización de veinte yardas	Penalización de diez yardas	Penalización de cinco yardas	Penalización de quince yardas
+0DIFSP276	Fútbol Americano	1	¿Qué mariscal de campo titular ganó un Super Bowl con dos equipos diferentes?	Tony Romo	Barry Bonds	Vince Vaughn	Peyton Manning
+88SU949	Fútbol Americano	1	¿Qué estrella del fútbol se conoce como "LT" para los fanáticos de los Giants?	Larry Tomkins	Todd Lyght	Lutero Thomas	Lawrence Taylor
+0DIFSP140	Fútbol Americano	1	¿Qué no es una pena?	Interferencia de pase	Rugosidad innecesaria	Fuera de juego	Abordar
+45EE082	Fútbol Americano	1	¿Qué atleta es un mariscal de campo de la NFL bien conocido?	John Madden	Rory McIlroy	Ray Lewis	Troy Aikman
+45EE115	Fútbol Americano	1	¿Cuál de estos equipos está en la Conferencia Nacional de Fútbol (NFC)?	Asaltantes de Oakland	Jefes de Kansas City	Buffalo Bills	Gigantes de Nueva York
+199853	Fútbol Americano	1	¿Cómo se llama un pase hacia atrás en el fútbol?	Arrojar	Dejar de pasar	Fuera de tackle	Lateral
+18S1174	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Baltimore Ravens 2019?	Mike Tomlin	Jack Pardee	Pete Carmichael Jr.	John Harbaugh
+507196	Fútbol Americano	1	¿Cuál es la sanción en la NFL por una sustitución ilegal?	Penalización de diez yardas	Penalización de veinte yardas	Penalización de quince yardas	Penalización de cinco yardas
+88SU769	Fútbol Americano	1	En 1998, ¿Barry Sanders llegó al Pro Bowl de la NFL para qué equipo?	Halcones Marinos de Seattle	Empacadores de Green Bay	Águilas de Filadelfia	Leones de Detroit
+88SU1069	Fútbol Americano	1	¿Cuál es la pena en la NFL por una formación ilegal?	Penalización de veinte yardas	Penalización de diez yardas	Penalización de quince yardas	Penalización de cinco yardas
+29319	Fútbol Americano	1	En 2014, los Bills se vendieron al propietario de ¿qué equipo de hockey?	Las Hojas de Arce de Toronto	Flyers de Filadelfia	Diablos de Nueva Jersey	Buffalo Sabres
+618D390	Fútbol Americano	1	El apostador de un equipo de fútbol por lo general entra en el campo, ¿durante qué tiempo?	Tercera	Primero	Segundo	Cuatro
+618D356	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Rams de Los Ángeles 2019?	Ron Rivera	Brian Callahan	Pete Carmichael Jr.	Sean McVay
+618D384	Fútbol Americano	1	¿Qué se convirtió en la famosa marca registrada de Jon Gruden?	Su voz	Su andar	Sus chistes	Su ceño fruncido
+490919	Fútbol Americano	1	¿A qué universidad asistió Aaron Rodgers?	Estado de Ohio	Noroeste	USC	Universidad de California
+19TP4001	Fútbol Americano	1	¿Cuál de estos jugadores no suele atrapar pases en un partido de fútbol?	Final dificil	El receptor abierto	Corriendo hacia atrás	Central
+490918	Fútbol Americano	1	¿En qué año cerró el Meadowlands Giants Stadium?	2001	2000	1995	2010
+618D386	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los New Orleans Saints de 2019?	Anthony Hunt	Shane Steichen	Todd Wash	Sean Payton
+259331	Fútbol Americano	1	¿Qué equipo ganó tres Super Bowls entre 2010-2019?	Vaqueros de Dallas	Halcones de atlanta	Buffalo Bills	Patriotas de Nueva Inglaterra
+19SU2012	Fútbol Americano	1	¿La superestrella defensiva Ray Lewis jugó como apoyador para qué equipo de la NFL en 2000?	Vikingos de Minnesota	49ers de San Francisco	Vaqueros de Dallas	Cuervos de Baltimore
+500999	Fútbol Americano	1	¿Dos hermanos con qué apellido ganaron el Jugador Más Valioso del Super Bowl en 2007 y 2008?	Brady	Ismail	Csonka	Manning
+8224	Fútbol Americano	1	¿Cuántas yardas es la penalización en la NFL por conducta antideportiva?	20	10	Cinco	15
+304300	Fútbol Americano	1	¿Dónde jugaba Vinny Testaverde al fútbol universitario?	Estado de Florida	Tennesse	Castaño	Universidad de miami
+0DIFSP266	Fútbol Americano	1	¿Qué jugador ganó tres veces el MVP del Super Bowl?	Dan Marinara	Michael Jordan	Aaron Rodgers	Joe Montana
+199822	Fútbol Americano	1	¿Qué equipo seleccionó a Aaron Rodgers?	Acereros de Pittsburg	Gigantes de Nueva York	Halcones de atlanta	Empacadores de Green Bay
+199843	Fútbol Americano	1	En 2012, Bill Belichick fue entrenador en jefe de ¿qué equipo de la NFL?	Los Oakland Asaltantes	Los Acereros de Pittsburgh	Los Texanos de Houston	Patriotas de Nueva Inglaterra
+96200	Fútbol Americano	1	¿Cuál es la penalización por agarrar a la defensiva o usar ilegalmente las manos?	20 yardas	10 yardas	15 yardas	5 yardas
+193761	Fútbol Americano	1	¿Quién fue el Jugador Más Valioso del Super Bowl 1?	Roger Staubach	OJ Simpson	Johnny Unitas	Bart Starr
+64091	Fútbol Americano	1	¿Cuál es la penalización en la NFL por demora en el juego?	Pérdida de abajo	Penalización de diez yardas	Penalización de quince yardas	Penalización de cinco yardas
+6998D92	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Seattle Seahawks de 2019?	Bill Parcells	Mike Groh	Ken Norton Jr.	Pete Carroll
+8265	Fútbol Americano	1	¿Cuál es la pena en la NFL por tropezar?	Penalización de quince yardas	Penalización de cinco yardas	Penalización de veinte yardas	Penalización de diez yardas
+518632	Fútbol Americano	1	¿Cuántas yardas es la penalización en la NFL por enmascararse intencionalmente?	Penalización de diez yardas	Penalización de cinco yardas	Penalización de veinte yardas	Penalización de quince yardas
+45EE016	Fútbol Americano	1	¿Cuál de estos atletas era un corredor de la NFL?	Tony Romo	Aaron Rodgers	Peyton Manning	Barry Sanders
+304286	Fútbol Americano	1	¿Cuál es la pena en la NFL por demasiados hombres en el campo?	Diez yardas	Pérdida de abajo	Quince yardas	Cinco yardas
+263234	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Jacksonville Jaguars de 2019?	Brian Flores	Mike Smith	Nick Sirianni	Doug Marrone
+289221	Fútbol Americano	1	¿Qué Pittsburgh All-American de 1960 entrenó a los Chicago Bears en el Super Bowl XX?	Tom Flores	Joe Gibbs	Bill Parcells	Mike Ditka
+618D378	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Buffalo Bills de 2019?	Kyle Shanahan	Jon Gruden	Byron Leftwich	Sean McDermott
+20672	Fútbol Americano	1	¿Qué estrella del fútbol es conocida por los fanáticos del fútbol como "Mean Joe"?	Alan Page	Mel Blount	Bob Lilly	Joe Greene
+506349	Fútbol Americano	1	¿Qué receptor abierto eligieron los Bills en la primera ronda del draft de 2014?	Cyrus Kouandjio	Preston Brown	Ross Cockrell	Sammy Watkins
+45EE067	Fútbol Americano	1	¿En qué puesto jugó Dan Marino en la NFL?	La seguridad	Lanzador	Apoyador medio	Jugador de ataque
+38304	Fútbol Americano	1	Quién dijo: "Solo estoy aquí para que no me multen" sobre las entrevistas del Super Bowl en 2014?	Russell Wilson	Jermaine Kearse	Michael Bennett	Marshawn Lynch
+199839	Fútbol Americano	1	En la NFL, ¿cuántas yardas se penaliza a un equipo por rudeza innecesaria?	Veinte	Diez	Cinco	Quince
+18S1182	Fútbol Americano	1	¿Qué equipo seleccionó al ganador del Trofeo Heisman, Reggie Bush?	49ers de San Francisco	Jets de Nueva York	Houston Texans	Santos de Nueva Orleans
+0DIFSP272	Fútbol Americano	1	¿Qué empresa hace el trofeo del Super Bowl?	Jared	Hasbro	Paloma	Tiffany y compañia
+45SU1001	Fútbol Americano	1	¿Qué receptor de los Vaqueros tuvo 11 recepciones de touchdown en 2013-14?	DeMarco Murray	Terrance Williams	Dwayne Harris	Dez Bryant
+523685	Fútbol Americano	1	¿Cuántas yardas es la penalización en la NFL por recortar?	Penalización de veinte yardas	Penalización de diez yardas	Penalización de cinco yardas	Penalización de quince yardas
+618D350	Fútbol Americano	1	¿Qué jugador de la NFL es descendiente del líder mormón Brigham Young?	Bryant Young	Rick Mirer	Ty Detmer	Steve Young
+618D342	Fútbol Americano	1	¿Qué receptor novato inició 8 juegos para los Vaqueros en 2013-14?	Jason Witten	Brian Waters	Miles Austin	Terrance Williams
+618D374	Fútbol Americano	1	¿Quién fue el entrenador en jefe de los Pittsburgh Acereros 2019?	Keith Sims	Kellen Moore	Todd Bowles	Mike Tomlin
+70381	Fútbol Americano	1	¿Qué entrenador famoso lleva el nombre del trofeo del Super Bowl?	George Halas	Dan Reeves	Don Shula	Vince Lombardi
+27230	Fútbol Americano	1	Durante la temporada 2008 de la NFL, ¿cuántos Super Bowls habían ganado los Buffalo Bills?	6	3	1	0
+1803C237	Fútbol Americano	1	¿La superestrella defensiva Lawrence Taylor jugó como apoyador para qué equipo de la NFL en 1981?	Buffalo Bills	Águilas de Filadelfia	Vaqueros de Dallas	Gigantes de Nueva York
+2360	Fútbol Americano	1	¿Cuál es la sanción en la NFL por una moción ilegal?	Penalización de quince yardas	Penalización de diez yardas	Penalización de veinte yardas	Penalización de cinco yardas
+499608	Fútbol Americano	2	¿Quién fue el entrenador en jefe de los Chargers de Los Ángeles 2019?	Matt Rhule	Tom Brady	Arthur Smith	Anthony Lynn
+199833	Fútbol Americano	2	¿La temporada 2014 de los Texans fue la primera con qué entrenador en jefe?	Dom Capers	Gary Kubiak	Wade Phillips	Bill O'Brien
+264984	Fútbol Americano	2	¿Qué equipo derrotaron los Baltimore Ravens en el Super Bowl XXXV?	Vikingos de Minnesota	Águilas de Filadelfia	Carneros de St. Louis	Gigantes de Nueva York
+618D366	Fútbol Americano	2	¿Qué equipo perdió sus últimos 10 juegos de la temporada regular de la NFL 2014?	Bengalíes de Cincinnati	Delfines de Miami	Washington Pieles Rojas	Titanes de Tennessee
+45EE034	Fútbol Americano	2	¿En qué equipo jugó Jim Brown, miembro del Salón de la Fama de la NFL, en la NFL?	Cardenales de Arizona	Houston Texans	Cuervos de Baltimore	Browns de Cleveland
+618D370	Fútbol Americano	2	¿Qué atleta del Salón de la Fama se llama "Dulzura"?	Babe Ruth	Dan Bouchard	Árbol Rollins	Walter Payton
+199030	Fútbol Americano	2	¿Qué mariscal de campo ganador del Super Bowl interpretó a un antiguo novio de Mary en la película "Something About Mary"?	Joe Namath	Dan Marino	Troy Aikman	Brett Favre
+15860	Fútbol Americano	2	¿Qué mariscal de campo de los Carolina Panthers los llevó a su primer Super Bowl?	Chris Weinkie	Kerry Collins	Steve Beuerlein	Jake Delhomme
+11785	Fútbol Americano	2	¿Qué Pittsburgh Steeler fue el Jugador Más Valioso del Super Bowl XL?	Ben Roethlisberger	Aaron Smith	Nate Washington	Barrio de Hines
+1803C243	Fútbol Americano	2	¿Cuál fue el resultado del Campeonato Nacional de Playoffs de Fútbol Universitario 2018?	Alabama gana por 23	Georgia gana por 1	Georgia gana por 7	Alabama gana por 3
+185848	Fútbol Americano	2	¿Quién ganó el premio AP Defensive Rookie of the Year en la temporada 2011 de la NFL?	Aldon Smith	Colin McCarthy	Sterling Moore	Von Miller
+263207	Fútbol Americano	2	¿Ram Mike Jones detuvo a cuál Tennessee Titan en la línea de una yarda para terminar el Super Bowl XXXIV?	Isaac Byrd	Jackie Harris	Eddie George	Kevin Dyson
+201184	Fútbol Americano	2	¿Quién fue la primera selección general en el Draft de la NFL de 1993?	Curtis Martín	Russel Maryland	Zach Thomas	Drew Bledsoe
+199820	Fútbol Americano	2	¿Cuál es la penalización en la NFL por una señal de recepción limpia inválida?	Diez yardas	Quince yardas	Veinte yardas	Cinco yardas
+0DIFSP279	Fútbol Americano	2	¿En qué estadio se jugó el primer Super Bowl?	Estadio de los Dodgers	Florero	Cuenco rosa	Coliseo Conmemorativo de Los Ángeles
+410190	Fútbol Americano	2	¿Ridley Scott dirigió un famoso comercial del Super Bowl de 1984 para qué fabricante de computadoras?	Compaq	Lexmark	Toshiba	Apple
+304284	Fútbol Americano	2	¿Quién ganó el premio AP Comeback Player of the Year para la temporada 2011 de la NFL?	Jon Kitna	Chad Pennington	Tommy Maddox	Matthew Stafford
+189S820	Fútbol Americano	2	¿En qué año fue reclutado Aaron Rodgers para la NFL?	2009	2007	2010	2005
+185852	Fútbol Americano	2	¿A quién derrotaron los Vaqueros de Dallas en Super Bowls consecutivos en la década de 1990?	Jefes de Kansas City	Acereros de Pittsburgh	Delfines de Miami	Buffalo Bills
+33DV812	Fútbol Americano	2	¿La superestrella defensiva Bruce Smith jugó como ala defensiva para qué equipo de la NFL en 1990?	Halcones Marinos de Seattle	Broncos de Denver	Vikingos de Minnesota	Buffalo Bills
+18S1150	Fútbol Americano	2	¿Cuál de estos entrenadores de la NFL alcanzó las 100 victorias más rápido?	Vince Lombardi	Bill Walsh	Facturar paquetes	George Siefert
+88SU739	Fútbol Americano	2	¿Cuántas yardas es la penalización en la NFL por usar un casco como arma?	Penalización de cinco yardas	Penalización de veinte yardas	Penalización de diez yardas	Penalización de quince yardas
+264908	Fútbol Americano	2	¿Qué equipo ganó el Super Bowl XLII en febrero de 2008?	Patriotas de Nueva Inglaterra	Potros de Indianápolis	Santos de Nueva Orleans	Gigantes de Nueva York
+618D388	Fútbol Americano	2	¿Qué Dallas Cowboy jugó en 8 Pro Bowls consecutivos?	Harvey Martin	Roger Staubach	Drew Pearson	Randy White
+12K1409	Fútbol Americano	2	¿Quién fue el primer jugador de equipos especiales en ser el Jugador Más Valioso en un Super Bowl?	Tim Brown	Mike Nelms	Hollywood Henderson	Desmond Howard
+303881	Fútbol Americano	2	¿Cuáles fueron los dos primeros jugadores en compartir un premio MVP del Super Bowl?	Jerry Rice y Joe Montana	Richard Dent y Mike Singletary	Lynn Swann y Terry Bradshaw	Harvey Martin y Randy White
+199033	Fútbol Americano	2	Si el Super Bowl I se jugó el 15 de enero de 1967, ¿cuándo se jugó el Super Bowl XXIX?	15 de enero de 1967	15 de enero de 1978	20 de enero de 1985	29 de enero de 1995
+777T2049	Fútbol Americano	2	¿Qué equipo ganó el Super Bowl XXXI?	Vaqueros de Dallas	49ers de San Francisco	Patriotas de Nueva Inglaterra	Empacadores de Green Bay
+618D348	Fútbol Americano	2	¿Qué jugador de los Vaqueros se perdió todo el 2013-14 por una lesión?	Tony Romo	DeMarcus Ware	Jason Hatcher	Nate Livings
+499S619	Fútbol Americano	2	¿Qué número de camiseta usó Joe Montana como miembro de los Kansas City Chiefs?	# 16	# 3	# 14	# 19
+88SU1039	Fútbol Americano	2	¿Qué franquicia de la NFL, si se vendiera, vería que algunas de sus ganancias se destinarían al VFW?	Osos de Chicago	Vaqueros de Dallas	49ers de San Francisco	Empacadores de Green Bay
+30774	Fútbol Americano	2	¿De qué equipo adquirió Green Bay a Brett Favre?	Bahía de Tampa	Denver	Cincinnati	Atlanta
+213998	Fútbol Americano	2	¿Qué equipo derrotó a los New England Patriots en el Super Bowl XX?	Los Cargadores de San Diego	Los Oakland Asaltantes	Los Cardenales de arizona	Los Osos de Chicago
+264515	Fútbol Americano	2	¿Dónde se juega el Super Bowl en 2020?	Hawai	New Jersey	Dallas	Miami
+0DIFSP280	Fútbol Americano	2	¿Cuál de las siguientes celebridades no ha realizado un espectáculo de medio tiempo del Super Bowl?	Lady Gaga	Justin Timberlake	Katy Perry	Barack Obama
+523696	Fútbol Americano	2	¿Dónde se inauguró el Salón de la Fama del Fútbol Americano Profesional en 1963?	Nueva York, Nueva York	Miami, Florida	Cleveland Ohio	Canton, Ohio
+199831	Fútbol Americano	2	¿La temporada 2014 de Washington fue la primera bajo qué entrenador en jefe?	Mike Pettine	Jason Garrett	Lovie Smith	Jay Gruden
+259335	Fútbol Americano	2	¿Cuál fue el primer equipo comodín en ganar el Super Bowl?	49ers	Gigantes	Delfines	Raiders
+618D364	Fútbol Americano	2	¿Cuál era el número de camiseta del mariscal de campo de los Jacksonville Jaguars Nick Foles de 2019?	14	2	1	7
+2384	Fútbol Americano	2	¿Quién ha lanzado 11 pases de touchdown y ninguna interceptación en una carrera de Super Bowl?	Roger Staubach	Troy Aikman	Terry Bradshaw	Joe Montana
+260263	Fútbol Americano	2	¿Morten Andersen estableció un récord de la NFL en qué categoría?	Touchdowns apresurados	Intercepciones	Recuperaciones de balones	Puntos anotados
+519148	Fútbol Americano	2	¿Quién derrotó a quién en el Super Bowl XIX?	49ers vencieron a los jets	Los Delfines vencieron a los gigantes	Acereros vencen a los vaqueros	49ers vencieron a los Delfines
+618D380	Fútbol Americano	2	¿Quién fue nombrado mariscal de campo titular de los Bills al comienzo de la temporada 2014?	Kyle Orton	Bryce Brown	Frank Summers	EJ Manuel
+264185	Fútbol Americano	2	¿Qué plato cajún lleva el nombre de la mascota de los New Orleans Saints?	Jambalaya	Boudin	Boucherie	Gumbo
+260277	Fútbol Americano	2	¿El Super Bowl XLII marcó la quinta aparición de qué Patriot en sus 12 años de carrera?	Mike Lodish	Andre Tippett	Matt Cassel	Tedy Bruschi
+304282	Fútbol Americano	2	¿En qué capital europea jugaron los Bears contra los Buccaneers en octubre de 2011?	París	Madrid	Roma	Londres
+45EE073	Fútbol Americano	2	¿Para qué red ha cubierto Chris Berman la NFL?	HBO	Netflix	BBC	ESPN
+199835	Fútbol Americano	2	¿Cuál es el apodo de Bill Parcells?	Hércules	El pez grande	Capitán	El atún grande
+519151	Fútbol Americano	2	¿Cuál de estos entrenadores lideró a su equipo hasta el final del Super Bowl invicto?	Jimmy Johnson	John Madden	Tom Landry	Don Shula
+20734	Fútbol Americano	2	¿Quién fue el Jugador Más Valioso del Super Bowl XXIX entre los San Francisco 49ers y los San Diego Chargers?	Emmitt Smith	Ottis Anderson	Desmond Howard	Steve Young
+271180	Fútbol Americano	2	Si el Super Bowl I se jugó el 15 de enero de 1967, ¿cuándo se jugó el Super Bowl XVII?	28 de enero de 1901	22 de enero de 1989	20 de enero de 1985	30 de enero de 1983
+264713	Fútbol Americano	2	¿Cuántos touchdowns en el Super Bowl anotó Walter Payton?	5	2	1	0
+88SU979	Fútbol Americano	2	¿Cuál de estos atletas es conocido por sus logros en el fútbol americano?	Mike Bibby	Rafael Palmeiro	Roberto Durán	Lem Barney
+382880	Fútbol Americano	2	Si el Super Bowl I se jugó el 15 de enero de 1967, ¿cuándo se jugó el Super Bowl XXIV?	30 de enero de 2000	22 de enero de 1984	28 de enero de 1901	28 de enero de 1990
+19SU2018	Fútbol Americano	2	Si el Super Bowl I se jugó el 15 de enero de 1967, ¿cuándo se jugó el Super Bowl VII?	22 de enero de 1989	30 de enero de 1983	22 de enero de 1984	14 de enero de 1973
+618D344	Fútbol Americano	2	¿Qué dúo de los Carolina Panthers fue apodado "Salt & Pepper" en 1996?	Molinos y Beuerlein	Kasay y Bates	Biakabutuka y cristiano	Greene y Lathon
+304290	Fútbol Americano	2	George Blanda tiene el récord de la NFL por jugar, ¿cuántas temporadas?	24	22	20	26
+27178	Fútbol Americano	2	¿Qué entrenador en jefe llevó a los 49ers a tres victorias en el Super Bowl?	Don Shula	Jimmy Johnson	Bill Parcells	Bill Walsh
+519675	Fútbol Americano	2	¿Qué mariscal de campo de los Baltimore Ravens los llevó a la victoria en el Super Bowl XXXV?	Vinny Testaverde	Eric Zeier	Tony Banks	Trent Dilfer
+0DIFSP128	Fútbol Americano	2	Elige al jugador de fútbol profesional:	Babe Ruth	George Foreman	Patrick Ewing	Brett Favre
+233072	Fútbol Americano	2	¿La superestrella defensiva Mel Blount jugó como esquinero para qué equipo de la NFL en 1975?	Gigantes de Nueva York	Buffalo Bills	Broncos de Denver	Acereros de Pittsburgh
+19SU2016	Fútbol Americano	2	¿Qué miembro del Salón de la Fama fue el entrenador en jefe de los Kansas City Chiefs en los Super Bowls I y IV?	Weeb Ewbank	Sid Gillman	Earle "Greasy" Neale	Hank Stram
+491417	Fútbol Americano	2	¿Quién entró tanto en el Salón de la Fama del Fútbol Americano como en el Salón de la Fama del Béisbol?	OJ Simpson	Bo Jackson	Deion Sanders	Cal Hubbard
+618D382	Fútbol Americano	2	¿Cómo se llaman las porristas de Jacksonville Jaguar?	Las damas jag	Las porristas de Jaguar	El Jagette	El rugido
+507179	Fútbol Americano	2	¿A quién reemplazó Tim Tebow como QB titular de los Broncos en el juego 7 de la temporada 2011?	Blaine Gabbert	Matt Moore	Curtis Painter	Kyle Orton
+304320	Fútbol Americano	2	¿Qué escuela de Nueva York es el hogar fuera de temporada de los NY Jets?	Universidad Pace	Universidad de Fordham	Universidad de Siracusa	Universidad de Hofstra
+502594	Fútbol Americano	2	¿En 2013 Soldier Field fue el hogar de qué equipo de la NFL?	Los Oakland Raiders	Los Tampa Bay Bucs	Los Buffalo Bills	Los Osos de Chicago
+36027	Fútbol Americano	2	¿Qué estrella del fútbol fue el Jugador Más Valioso con 166 yardas terrestres en el Super Bowl XVII?	Rod Carew	Willie Stargell	Mo Vaughn	John Riggins
+357346	Fútbol Americano	2	¿En qué temporada ganaron los Patriots su primer Super Bowl en la historia de la franquicia?	1979	1986	1997	2001
+24375	Fútbol Americano	2	¿Qué jugador de los Dallas Cowboy fue nombrado co-MVP del Super Bowl XII junto con Randy White?	Ed Jones	Everson Walls	Charlie Waters	Harvey Martin
+199069	Fútbol Americano	2	¿Qué equipo hizo el video "The Super Bowl Shuffle"?	Patriotas de 2002	1999 pieles rojas	1983 Delfines	1985 Osos
+1803C245	Fútbol Americano	2	¿Cuál fue el récord de los Oakland Raiders para la temporada 2019 de la NFL?	9-7	6-10	2-14	7-9
+777T1990	Fútbol Americano	2	¿La superestrella defensiva Harvey Martin jugó como ala defensiva para qué equipo de la NFL en 1977?	Cuervos de Baltimore	Delfines de Miami	Gigantes de Nueva York	Vaqueros de Dallas
+45EE070	Fútbol Americano	2	¿Quién fue apodado "El Ministro de Defensa" y jugó para los Green Bay Packers?	David Ortiz	Tom Brady	Brian Piccolo	Reggie White
+75625	Fútbol Americano	2	¿Qué jugador ganó el premio MVP en el Super Bowl XLI?	Reggie Wayne	Dominic Rhodes	Marvin Harrison	Payton Manning
+253959	Fútbol Americano	2	¿Quién fue el Jugador Más Valioso del Super Bowl XXXII entre los Denver Broncos y los Green Bay Packers?	Steve Young	Larry Brown	Tom Brady	Terrell Davis
+506356	Fútbol Americano	2	¿Quién estableció un récord de los Acereros de más pases de touchdown en un juego en 2014?	Bruce Gradkowski	Landry Jones	Antonio Brown	Ben Roethlisberger
+518783	Fútbol Americano	2	¿Qué jugador de fútbol grabó su propia canción "Must Be the Money"?	Tim Brown	Sterling Sharpe	Eric Metcalf	Deion Sanders
+618D358	Fútbol Americano	2	2014 marcó el decimoquinto año de Washington, ¿bajo qué propietario?	Shahid Khan	María Wilson	Bill Bidwell	Dan Snyder
+88SU949	Fútbol Americano	2	¿El ex apoyador Lawrence Taylor jugó para qué equipo durante toda su carrera?	Buffalo Bills	Vikingos de Minnesota	Cargadores de Los Ángeles	Gigantes de Nueva York
+1D1492	Fútbol Americano	2	¿Qué equipo del Super Bowl incluyó a Garner, Gannon y Rice?	Tampa Bay Bucs	Panteras de Carolina	Cuervos de Baltimore	Raiders de Oakland
+351067	Fútbol Americano	2	En 2011, ¿qué mariscal de campo fue redactado en la segunda ronda por los 49ers?	Alex Smith	Matt Ryan	Michael Vick	Colin Kaepernick
+508346	Fútbol Americano	2	En 2000, ¿quién fue el entrenador del año de la NFL?	Buck Shaw	Don Shula	Concha de arte	Jim Haslett
+507195	Fútbol Americano	2	¿Cuál de los siguientes es un penalti cuando se comete en el fútbol?	Abordar a un portador de la pelota	Bloqueando un Punt	Desviar un pase	Agarrar una mascarilla
+1803C241	Fútbol Americano	2	¿Con quién cantaron * NSYNC y Britney Spears durante un espectáculo de medio tiempo del Super Bowl?	Creed	The Smashing Pumpkins	Linkin Park	Aerosmith
+499610	Fútbol Americano	2	¿Qué equipo terminó la temporada regular 2019 ganando 12 juegos seguidos?	Jefes de Kansas City	Titanes de Tennessee	Jefes de Kansas City	Cuervos de Baltimore
+259216	Fútbol Americano	2	¿Cuál de estos Vaqueros de Dallas no anotó ningún touchdown en el Super Bowl XXVII?	Alvin Harper	Michael Irvin	Jay Novacek	Thomas Henderson
+516259	Fútbol Americano	2	¿Qué dos equipos de la NFL ha entrenado Jim Mora?	Santos y empacadores	Águilas y potros	Jets y águilas	Santos y potros
+88SU919	Fútbol Americano	2	¿Qué estrella del fútbol se conoce como entrenador de fútbol profesional?	Art Rooney	OJ Simpson	Jerry Rice	Joe Gibbs
+199823	Fútbol Americano	2	¿Cuántos pases de touchdown registró Tony Romo para los Vaqueros de Dallas en 2013-14?	11	21	41	31
+618D352	Fútbol Americano	2	Eli Manning estableció un récord de la NFL al ganar 5 seguidos, ¿qué?	Juegos de Carretera	Juegos	Juegos de playoffs	Juegos de eliminatorias de carretera
+199070	Fútbol Americano	2	¿Qué jugador de la NFL tuvo más yardas aéreas en el Super Bowl de 2006?	Rex Grossman	Tom Brady	Drew Brees	Peyton Manning
+259357	Fútbol Americano	2	¿Quién fue el MVP del Super Bowl LII jugado en 2018?	LeGarrette Blount	Danny Amendola	Tom Brady	Nick Foles
+185838	Fútbol Americano	2	¿Quién fue el Jugador Más Valioso del Super Bowl jugado después de la temporada 2007?	Peyton Manning	Tom Brady	Jeremy Shockey	Eli Manning
+33DV813	Fútbol Americano	2	¿La superestrella defensiva Dana Stubblefield jugó como tackle defensivo para qué equipo de la NFL en 1997?	Broncos de Denver	Gigantes de Nueva York	Buffalo Bills	49ers de San Francisco
+88SU1009	Fútbol Americano	2	¿Cuál de los siguientes grandes de la NFL usó el número 16?	Roger Staubach	Terry Bradshaw	John Elway	Joe Montana
+289238	Fútbol Americano	2	¿Qué dos hermanos entrenaron entre sí en el Super Bowl de 2013?	Los Ryan Bros	Los Johnson Bros	Los Van Gundy Bros	Los hermanos Harbaugh
+304126	Fútbol Americano	2	¿Cuántos juegos ganaron los Jacksonville Jaguars en la temporada regular de la NFL de 2019?	10	4	7	6
+382346	Fútbol Americano	2	¿Qué equipo venció a los Carneros de St. Louis 20-17 en el Super Bowl XXXVI?	Jefes de Kansas City	Titanes de Tennessee	Panteras de Carolina	Patriotas de Nueva Inglaterra
+507520	Fútbol Americano	2	¿Cuántas yardas es la penalización en la NFL por un taco de chop?	Penalización de diez yardas	Penalización de cinco yardas	Penalización de veinte yardas	Penalización de quince yardas
+4882	Fútbol Americano	2	¿Qué ala defensiva lideró a los Vaqueros con 7 capturas en 2013-14?	JJ Wilcox	Will Allen	Sean Lee	George Selvie
+506363	Fútbol Americano	2	¿Qué estrella de la NFL es conocida con el sobrenombre de "Ocho Cinco"?	Javorius Allen	Barry Sanders	Deion Sanders	Chad Johnson
+264457	Fútbol Americano	2	El jugador de los Ravens, Ray Lewis, ganó como Jugador Defensivo del Año, ¿cuántas veces entre 2000 y 2012?	3	1	4	2
+8243	Fútbol Americano	2	¿Quién puso fin a la carrera profesional del mariscal de campo de la NFL Joe Theisman?	Ninguno de los anteriores, todavía juega	Howie Long	Dick "Night Train" Lan	Lawrence Taylor
+410347	Fútbol Americano	2	¿Quién fue el mariscal de campo de los Green Bay Packers en su primer Super Bowl?	Brett Favre	John Brodie	Paul Hornung	Bart Starr
+490882	Fútbol Americano	2	En 2011, Aaron Rodgers se convirtió en portavoz de ¿qué compañía de seguros?	Allstate	Geico	TSC	State Farm
+259138	Fútbol Americano	2	¿Qué equipo ganó el Super Bowl en la temporada 2000-2001?	Dallas	Green Bay	Broncos	Cuervos
+217521	Fútbol Americano	2	¿Quién completó 32 de 48 pases, para 354 yardas y 3 touchdowns, en el Super Bowl XXXVIII?	Steve McNair	Chad Pennington	Eli Manning	Tom Brady
+45SU1002	Fútbol Americano	2	¿Qué pasó con Mile High Stadium el 17 de abril de 2002?	Último evento jugado	Asientos expandidos	Cúpula agregada	Demolido
+519152	Fútbol Americano	2	¿Qué equipo perdió el Super Bowl cuatro veces consecutivas?	Bengalíes de Cincinnati	Vaqueros de Dallas	Gigantes de Nueva York	Buffalo bills 
+1803C247	Fútbol Americano	2	¿Qué equipo contrató a Mike Vrabel como su entrenador en jefe para la temporada 2018 de la NFL?	Raiders	Leones	vaqueros	Titanes
+259140	Fútbol Americano	2	¿Cuántas intercepciones lanzó Joe Montana en 4 Super Bowls?	1	2	3	0
+291586	Fútbol Americano	2	¿Quién fue el Jugador Más Valioso del Super Bowl II entre los Green Bay Packers y los Oakland Raiders?	Chuck Howley	Jake Scott	Len Dawson	Bart Starr
+194476	Fútbol Americano	2	¿Quién es el primer mariscal de campo en atrapar un pase en un Super Bowl?	Steve McNair	Boomer Esiason	Brett Favre	John Elway
+88SU859	Fútbol Americano	2	¿Qué tres mariscales de campo de la NFL fueron seleccionados en el Draft de la NFL de 1983?	Kreig, Young, Esiason	Montana, O'Donnell, Favre	Blake, Brown, Hostetler	Kelly, Elway, Marino
+353S7217	Fútbol Americano	2	¿Dónde se jugó el Super Bowl LIII el 3 de febrero de 2019?	Chicago	Miami	Oakland	Atlanta
+499609	Fútbol Americano	2	¿Qué ex jugador de la NFL protagonizó el programa de televisión "Hill Street Blues"?	Chuck Foreman	OJ Simpson	Bill Brown	Ed Marinaro
+49S9617	Fútbol Americano	2	¿Quién ganó el premio al Entrenador del Año de la AP por la temporada 2011 de la NFL?	Ray Rhodes	Wayne Fontes	Marty Schottenheimer	Jim Harbaugh
+259145	Fútbol Americano	2	¿Qué equipo de la NFL ganó la AFC Sur en la temporada regular de 2019?	Titanes de Tennessee	Jaguares de Jacksonville	Potros de Indianápolis	Houston Texans
+507645	Fútbol Americano	2	¿Qué equipo está en el centro del escándalo Deflate-gate?	Halcones Marinos	vaqueros	Empacadores	Patriotas
+618D362	Fútbol Americano	2	¿Qué propietario de los Bills murió antes del inicio de la temporada 2014?	Terrence Pegula	Art Rooney	Jerry Jones	Ralph Wilson
+89862	Fútbol Americano	2	¿Quién fue el Jugador Más Valioso del Super Bowl XXVI entre los Washington Pieles Rojas y los Buffalo Bills?	Phil Simms	Emmitt Smith	Steve Young	Mark Rypien
+260284	Fútbol Americano	2	¿En qué año ganaron los Buccaneers el Super Bowl XXXVII?	2000	1998	1997	2002
+26e4711	Fútbol Americano	2	¿Qué pateador firmaron los Indianapolis Colts en 2006 que acertó dos veces las patadas ganadoras para los Patriots en el Super Bowl?	Mike Vanderjagt	Hunter Smith	Shane Andrus	Adam Vinatieri
+10110	Fútbol Americano	2	¿Qué equipo de la NFL llegó al Super Bowl en su primera temporada?	Cardenales de San Luis	Coroneles de Henderson	Grizzlies de Memphis	Titanes de Tennessee
+265009	Fútbol Americano	2	¿Cuántas veces han ganado los Chargers el Super Bowl?	2	3	1	0
+285107	Fútbol Americano	2	¿Para qué equipo fue el mariscal de campo de Kerry Collins en el Super Bowl XXXV?	Jets de Nueva York	Delfines de Miami	Cuervos de Baltimore	Gigantes de Nueva York
+7W2596	Fútbol Americano	2	¿Cuántos tiempos muertos reciben los equipos de la NFL en cada mitad?	Dos	Cuatro	Diez	Tres
+185844	Fútbol Americano	2	¿Qué universidad ganó el Campeonato Nacional de Fútbol Universitario de 2015?	Universidad de Nebraska	Oregón	Universidad de Michigan	Estado de Ohio
+20736	Fútbol Americano	2	¿A quién derrotaron los New England Patriots para ganar el Super Bowl XXXVIII en 2004?	Cuervos	Gigantes	Empacadores	Panteras
+285007	Fútbol Americano	2	¿Qué equipo seleccionó originalmente a Warrick Dunn?	Delfines de Miami	Halcones de atlanta	Vaqueros de Dallas	Bucaneros de Tampa Bay
+293214	Fútbol Americano	2	¿Quién fue el primer equipo en ganar cinco Super Bowls?	Patriotas de Nueva Inglaterra	Gigantes de Nueva York	Delfines de Miami	49ers de San Francisco
+350410	Fútbol Americano	2	¿Con qué equipo de la NFL terminó Reggie White su carrera?	Águilas de Filadelfia	Vaqueros de Dallas	Empacadores de Green Bay	Panteras de Carolina
+45SU1003	Fútbol Americano	2	¿Qué corredor de los Vaqueros llegó a su primer Pro Bowl en 2013-14?	Felix Jones	Jason Beasley	Gavin Escobar	DeMarco Murray
+507604	Fútbol Americano	2	¿Qué mariscal de campo de la NFL lanzó 6 pases de TD en un solo juego de postemporada en la postemporada de 2011?	Cam Newton	Eli Manning	Drew Brees	Tom Brady
+11456	Fútbol Americano	2	¿Qué equipo fue considerado por muchos como el "Equipo de los 80" de la NFL?	Delfines de Miami	Vaqueros de Dallas	Acereros de Pittsburgh	49ers de San Francisco
+199818	Fútbol Americano	2	¿Cuántas yardas es la penalización en la NFL por aterrizar intencionalmente?	20	15	5	10
+199579	Fútbol Americano	2	¿Quién llevó a Tampa Bay a su primer título de Super Bowl en su primera temporada como entrenador en jefe en 2002?	Romeo Crennel	Mike Sherman	Dick Vermeil	Jon Gruden
+8263	Fútbol Americano	2	¿Qué esquinero de los Chicago Bears se retiró en 2006?	Dion Byrum	Alfonso Marshall	Chris Thompson	Jerry Azumah
+86169	Fútbol Americano	2	¿Por qué temporadas de la NFL ganaron los Denver Broncos títulos consecutivos de Super Bowl?	1995 y 1996	1991 y 1992	1987 y 1988	1997 y 1998
+199841	Fútbol Americano	2	¿Quién es el ex entrenador en jefe de los Pittsburgh Steeler que murió a los 82 años en 2014?	Malcolm Glazer	Ralph Wilson	William Clay Ford	Chuck Noll
+199589	Fútbol Americano	2	¿Quién fue nombrado MVP del Super Bowl LIII jugado en 2019?	Jared Goff	Greg Zuerlein	Tom Brady	Julian Edelman
+18S1166	Fútbol Americano	2	¿Eli Manning jugó fútbol americano universitario en qué universidad?	Tennesse	Virginia	Kentucky	Ole señorita
+357167	Fútbol Americano	2	¿Qué equipo del Super Bowl incluía a Torry Holt, Isaac Bruce y Marshall Faulk?	Cuervos de Baltimore	Titanes de Tennessee	Panteras de Carolina	Carneros de St. Louis
+68286	Fútbol Americano	2	¿Qué corredor apodado "El autobús" ganó un Super Bowl en 2006 en su ciudad natal de Detroit?	Shaun Alexander	Ladanian Tomlinson	Edgerrin James	Jerome Bettis
+185813	Fútbol Americano	2	¿Cuál es la penalización en la NFL para un jugador fuera de los límites en el momento del saque?	Penalización de veinte yardas	Penalización de quince yardas	Penalización de diez yardas	Penalización de cinco yardas
+2525	Fútbol Americano	2	En una nueva regla de la NFL para 2018, ¿cuántos jugadores debe tener el equipo de Kickoff en cada lado del balón?	4 Jugadores	6 Jugadores	3 Jugadores	5 Jugadores
+382837	Fútbol Americano	2	¿Quién fue el mariscal de campo de segunda fila en el equipo del Campeonato del Super Bowl XXXIII?	Elvis Grbac	Jonathan Quinn	Damon Huard	Bubby Brister
+12K1399	Fútbol Americano	2	¿Quién garantizó que su equipo desvalido de 17 puntos ganaría en el Super Bowl III?	Bart Starr	Lawrence Taylor	John Elway	Joe Namath
+264987	Fútbol Americano	2	¿Quién ganó el MVP del Super Bowl XII?	Roger Staubach	Lynn Swann	Terry Bradshaw	Randy White y Harvey Martin
+199840	Fútbol Americano	2	¿Qué término futbolístico se define como "un lateral lanzado de un mariscal de campo a un corredor"?	Lateral	Progreso hacia adelante	Equipos especiales	Lanzamiento
+256257	Fútbol Americano	2	¿Quién fue el entrenador ganador de los Oakland Asaltantes en el Super Bowl XI de 1977?	Al Davis	Tom Flores	Concha de arte	John Madden
+151956	Fútbol Americano	2	En 2012, ¿a qué mariscal de campo reemplazó Colin Kaepernick?	Eli Manning	Aaron Rodgers	Peyton Manning	Alex Smith
+1803C239	Fútbol Americano	2	¿La superestrella defensiva Reggie White jugó como ala defensiva para qué equipo de la NFL en 1987?	Delfines de Miami	Gigantes de Nueva York	Halcones Marinos de Seattle	Águilas de Filadelfia
+523686	Fútbol Americano	2	¿Cuál es la penalización en la NFL por el segundo pase adelantado detrás de la línea?	Penalización de quince yardas	Penalización de diez yardas	Penalización de veinte yardas	Penalización de cinco yardas
+508312	Fútbol Americano	2	¿Qué equipo seleccionó a Adrian Peterson en la primera ronda?	Baltimore	Búfalo	Tennesse	Minnesota
+231894	Fútbol Americano	2	En el Super Bowl XV, Oakland se convirtió en el primer equipo en hacer ¿qué?	Gana un título en dos décadas diferentes	Forzar cuatro balones sueltos en un cuarto	Prueba una patada falsa	Gana el Super Bowl como equipo comodín
+259340	Fútbol Americano	2	¿Qué receptor abierto jugó para los Tampa Bay Buccaneers en el Super Bowl XXXVII?	Jerry Rice	Jerry Porter	Troy Brown	Keyshawn Johnson
+304292	Fútbol Americano	2	¿Qué apoyador lideró a los Vaqueros con 4 intercepciones en 2013-14?	Jeff Heath	Nick Hayden	Drake Nevis	Sean Lee
+507178	Fútbol Americano	2	¿Quién ganó el premio MVP de la NFL 2018?	Larry Fitzgerald	Alex Smith	Todd Gurley	Patrick Mahomes II
+415665	Fútbol Americano	2	¿Quién fue el Jugador Más Valioso del Super Bowl XVIII entre Vaqueros de Dallas y Buffalo Bills?	Larry Brown	Joe Montana	Jerry Rice	Emmitt Smith
+507187	Fútbol Americano	2	¿Cómo se llamó a los Jacksonville Jaguars?	Por una guerra de ofertas	Por el presidente de la NFL	Por votación de toda la ciudad	A través de un concurso de fans
+233078	Fútbol Americano	3	¿Quién fue el MVP del Super Bowl III?	Lynn Swann	Johnny Unitas	Reggie Robinson	Joe Namath
+410202	Fútbol Americano	3	¿A quién siguió Emmitt Smith como el principal corredor de su equipo universitario?	John L. Williams	Eric Rhett	Fred Taylor	Neal Anderson
+199138	Fútbol Americano	3	¿Qué vaquero fue el único Jugador Más Valioso del Super Bowl del siglo XX que jugó en el equipo perdedor?	Tony Dorsett	Randy White	Harvey Martin	Chuck Howley
+231024	Fútbol Americano	3	¿Qué equipo de la NFC ganó el Super Bowl XXV por un punto?	Washington Pieles Rojas	Empacadores de Green Bay	Vaqueros de Dallas	Gigantes de Nueva York
+200051	Fútbol Americano	3	¿Qué equipo de la NFL de 2019 incluye al corredor Frank Gore?	Jets de Nueva York	Gigantes de Nueva York	Delfines de Miami	Buffalo bills
+502599	Fútbol Americano	3	¿Quién usó el número 85 para el equipo Dolphin de "Perfect Season"?	Tim Foley	Dick Anderson	Jim Kiick	Nick Buoniconti
+288100	Fútbol Americano	3	¿Quién pateó el gol de campo ganador del juego para los Baltimore Colts en el Super Bowl V?	Rich Karlis	Ernest Townsend	Garo Yepremian	Jim O'Brien
+49326	Fútbol Americano	3	¿Qué Buffalo Bill impidió que Leon Lett anotara un touchdown en el Super Bowl XXVII?	Jim Kelly	Bruce Smith	Bryce Paup	Don Beebe
+199585	Fútbol Americano	3	¿Dónde se jugó el Super Bowl XLVIII el 2 de febrero de 2014?	Miami, Florida	Jacksonville, Florida	Tempe, Arizona	East Rutherford, Nueva Jersey
+272264	Fútbol Americano	3	¿Qué ex estrella de la NFL inventó "The Mile High Salute"?	John Elway	Joe Namath	Terry Bradshaw	Terrell Davis
+20689	Fútbol Americano	3	¿A quién eligieron los Vaqueros en la primera ronda del Draft de la NFL 2018?	Uchenna Nwosu	Martinas Rankin	Will Richardson	Leighton Vander Esch
+231928	Fútbol Americano	3	2012 fue la última temporada de la estrella de Raven, Ray Lewis, ¿cuántos años pasó con el equipo?	12	20	11	17
+230822	Fútbol Americano	3	¿Quién despidió al mariscal de campo de los New York Giants, Jeff Hostetler, en el Super Bowl XXV por un safety?	Cornelius Bennett	Jeff Wright	Carlton Bailey	Bruce Smith
+199827	Fútbol Americano	3	¿En qué ronda fue seleccionado Joe Montana en el Draft de la NFL de 1979?	Cuarto	2do	1er	Tercero
+12645	Fútbol Americano	3	¿Dónde jugó el receptor abierto Golden Tate su fútbol universitario?	Universidad de miami	Universidad Estatal de Florida	Universidad de Clemson	Universidad de Notre Dame
+508310	Fútbol Americano	3	¿Cuántos pases lanzó Brock Osweiler, el suplente de Peyton Manning, en la temporada 2013?	230 pases	90 pases	0 Pases	20 pases
+88906	Fútbol Americano	3	¿Qué equipo apareció en la mayoría de los Super Bowls en la década de 1970?	Delfines de Miami	Acereros de Pittsburgh	Raiders de Oakland	Vaqueros de Dallas
+360811	Fútbol Americano	3	¿En qué número del Super Bowl se enfrentaron Dan Marino y Miami a los 49ers?	XV	XXX	XXXIX	XIX
+327537	Fútbol Americano	3	¿Quién anotó el único touchdown de los Kansas City Chiefs en el Super Bowl I?	Len Dawson	Chris Burford	Mike Garrett	Curtis McClinton
+259334	Fútbol Americano	3	¿Quién fue el primer jugador en anotar 2 touchdowns en un Super Bowl?	Don Maynard	Franco Harris	Jim Taylor	Max McGee
+79558	Fútbol Americano	3	¿Quién cantó el Himno Nacional antes de que los Bills y los Pieles Rojas se enfrentaran en el Super Bowl XXVI?	Whitney Houston	Cher	Michael Jackson	Harry Connick, Jr.
+75936	Fútbol Americano	3	¿Cuántas veces ganaron los Vaqueros de Dallas el Super Bowl en los 70?	3	0	1	2
+523694	Fútbol Americano	3	¿Cuál era el nombre original de Lambeau Field?	Empacadora	Estadio Enron	Campo Lombardi	Estadio de la ciudad
+217522	Fútbol Americano	3	Kansas City fue el equipo perdedor en el Super Bowl I; ¿Cuál fue el puntaje final del juego?	16 a 6	27 hasta 17	33 hasta 14	35 hasta 10
+231896	Fútbol Americano	3	¿Qué edad tenía Joe Montana cuando ganó su primer Super Bowl?	30	23	28	25
+20708	Fútbol Americano	3	¿A quién eligieron los Buffalo Bills en la primera ronda del Draft de la NFL 2018?	Darius Leonard	Justin Reid	Jordan Whitehead	Josh Allen
+259178	Fútbol Americano	3	¿Cuál es la mayor cantidad de pases de TD que Roger Staubach ha tenido en un Super Bowl?	4	2	5	3
+28648	Fútbol Americano	3	¿Quién llamó al juego por juego para el Super Bowl jugado para la temporada 2013-14?	Jim Nantz	John Madden	Carl Banks	Joe Buck
+88622	Fútbol Americano	3	La derrota de Denver en el Super Bowl en febrero de 2014 marcó cuántas derrotas en el Super Bowl para los Broncos?	9 Pérdidas	3 Pérdidas	2 pérdidas	5 Pérdidas
+289337	Fútbol Americano	3	¿Quién atrapó el primer pase de touchdown de los Vaqueros de Dallas en el Super Bowl XIII?	Bob Hayes	Tony Dorsett	Drew Pearson	Tony Hill
+49319	Fútbol Americano	3	¿En qué equipo de Arena Football jugó Kurt Warner antes de llegar al Super Bowl de la NFL?	Pájaros de fuego de Albany	Pirañas de Anaheim	Estampida de San Luis	Iowa Barnstormers
+352391	Fútbol Americano	3	¿Qué futuro entrenador en jefe de la NFL estuvo en la lista de los Kansas City Chiefs pero no jugó en el Super Bowl IV?	John Madden	Marty Schottenheimer	Marv Levy	Tom Flores
+88SU929	Fútbol Americano	3	En 2013, Chip Kelly debutó como entrenador en jefe de ¿qué equipo?	Cardenales de Arizona	Houston Texans	Vikingos de Minnesota	Águilas de Filadelfia
+264528	Fútbol Americano	3	¿Cuántas yardas corrió Denver en el Super Bowl XLVIII en 2014?	135 yardas	12 yardas	185 yardas	27 yardas
+272377	Fútbol Americano	3	Se anotaron 99 puntos en total en un juego entre los Vaqueros y ¿qué equipo en 2013?	Leones de Detroit	Vikingos de Minnesota	Santos de Nueva Orleans	Broncos de Denver
+327541	Fútbol Americano	3	¿A quién vencieron los Vaqueros de Dallas 24-3 para ganar el Super Bowl VI?	Caerneros de Los Ángeles	Broncos de Denver	Empacadores de Green Bay	Delfines de Miami
+26297	Fútbol Americano	3	¿Quién fue el Jugador Más Valioso de los Kansas City Chiefs del Super Bowl IV?	Buck Buchanan	Otis Taylor	Jan Stenerud	Len Dawson
+231631	Fútbol Americano	3	¿Qué New York Jet escribió un libro llamado "Just Give Me the Damn Ball"?	Curtis Martín	Laverneus Coles	Musgo de santana	Keyshawn Johnson
+93778	Fútbol Americano	3	¿Qué mariscal de campo de los LA Rams se conocía como "El holandés"?	Bob Waterfield	Fran Tarkenton	Ken Stabler	Norm Van Brocklin
+410670	Fútbol Americano	3	¿Qué tan grande fue la multitud en el primer Super Bowl?	24,884	71,882	103,985	61,946
+8292	Fútbol Americano	3	El 22 de mayo de 2007, ¿qué ciudad fue nombrada sede del Super Bowl 2011?	Detroit, Michigan	Dallas, Texas	Chicago, Illinois	Arlington, Texas
+508319	Fútbol Americano	3	Bill Belichick obtuvo su primer trabajo de entrenador en jefe con qué equipo en 1991?	Los Titanes de Tennessee	Los Acereros de Pittsburgh	Patriotas de Nueva Inglaterra	Los Browns de Cleveland
+70300	Fútbol Americano	3	Cuando los 49ers vencieron a los Cincinnati Bengalíes en el Super Bowl XXIII, ¿cuál fue el marcador final?	23 a 7	16 a 13	24 a 3	20 hasta 16
+500893	Fútbol Americano	3	¿Cuál fue el marcador final del Super Bowl XVI?	San Francisco 49 Cincinnati 26	San Francisco 27 ​​Cincinnati 10	San Francisco 33 Cincinnati 14	San Francisco 26 Cincinnati 21
+199068	Fútbol Americano	3	¿Qué entrenador de fútbol de Nebraska fue el segundo entrenador novato de la NFL en llegar al Super Bowl?	Bo Pelini	Bob Osborne	Frank Solich	Bill Callahan
+151950	Fútbol Americano	3	¿Qué número de uniforme se retiraron los Bears para el gran Gale Sayers de la NFL?	4	41	66	40
+272501	Fútbol Americano	3	¿Cuál fue el costo de un anuncio de 30 segundos durante el Super Bowl de 2005?	$ 900 000	$ 1.4 Millones	$ 1 Millón	$ 2.4 Millones
+201227	Fútbol Americano	3	¿Quién fue el mariscal de campo titular de los Houston Texans al comienzo de la temporada 2011?	Roc Carmichael	Lestar Jean	Shiloh Keo	Matt Schaub
+304289	Fútbol Americano	3	El ex corredor Eric Dickerson jugó para todos, pero ¿cuál de estos equipos?	Caerneros de Los Ángeles	Asaltantes de Los Ángeles	Potros de Indianápolis	Cardenales de Arizona
+506354	Fútbol Americano	3	¿Qué equipo ganó 5 partidos en la pretemporada 2018?	Jets de Nueva York	Gigantes de Nueva York	Panteras de Carolina	Cuervos de Baltimore
+199569	Fútbol Americano	3	¿Cuántos puntos anotaron los Panthers en el Super Bowl jugado en febrero de 2016?	24 puntos	3 puntos	33 puntos	10 puntos
+32543	Fútbol Americano	3	Los Pieles Rojas fueron el equipo perdedor en el Super Bowl VII; ¿cual fue el resultado final?	52 hasta 17	20 hasta 16	31 al 19	14 a 7
+491415	Fútbol Americano	3	¿A quién eligieron los Denver Broncos en la primera ronda del Draft de la NFL 2018?	Will Hernandez	Lorenzo Carter	Kyle Lauletta	Bradley Chubb
+199017	Fútbol Americano	3	¿Cuál de las siguientes afirmaciones es cierta sobre Tampa Bay en el Super Bowl XXXVII?	Falló 7 veces	Tuvo 6 goles de campo	Solo anotó 1 TD	5 intercepciones, tres para TD
+259354	Fútbol Americano	3	¿En qué fecha se jugó el Super Bowl XXXIX?	13 de febrero de 2002	6 de marzo de 2004	6 de enero de 2006	6 de febrero de 2005
+259300	Fútbol Americano	3	¿Cuál fue la diferencia de puntos en el Super Bowl XLVIII jugado el 2 de febrero de 2014?	2 puntos	43 puntos	12 puntos	35 puntos
+231891	Fútbol Americano	3	En el Super Bowl XXXIX, ¿en qué yarda recibió Filadelfia la pelota en su última serie?	Su propia línea de 49 yardas	Su propia línea de 20 yardas	Su propia línea de 1 yarda	Su propia línea de 4 yardas
+199141	Fútbol Americano	3	Alfonso Boone jugó el suyo en el primer Super Bowl ¿con qué equipo de la NFL?	Potros de Indianápolis	Patriotas de Nueva Inglaterra	Halcones Marinos de Seattle	Osos de Chicago
+50S2163	Fútbol Americano	3	¿A quién superó Dan Marino para reclamar el récord de la mayor cantidad de pases completos en su carrera en la NFL?	Johnny Unitas	Joe Namath	Joe Montana	Fran Tarkenton
+92381	Fútbol Americano	3	¿Qué campeón del Super Bowl tuvo ventaja de local en los playoffs?	2000 Cuervos de Baltimore	Patriotas de Nueva Inglaterra de 2001	2002 Bucaneros de Tampa Bay	1999 Carneros de St. Louis
+507514	Fútbol Americano	3	¿Qué capitán defensivo dejó a los Giants antes de la temporada 2014?	Ryan Mundy	Brandon Myers	Linval Joseph	Justin Tuck
+59750	Fútbol Americano	3	¿Los Titans jugaron en su primer Super Bowl en la historia de la franquicia en qué año?	2004	1997	2002	2000
+16606	Fútbol Americano	3	¿Cuántas yardas corrió Tiki Barber en el Super Bowl XXXV?	123 yardas	110 yardas	201 yardas	49 yardas
+508332	Fútbol Americano	3	¿Quién reemplazó a Brad Childress como entrenador en jefe de los Vikings en 2010?	John Fox	Alan Page	Wade Phillips	Leslie Frazier
+49322	Fútbol Americano	3	¿Qué Tampa Bay Buccaneer tuvo dos intercepciones para TD y fue MVP del Super Bowl XXXVII?	Derrick Brooks	Dwight Smith	John Lynch	Dexter Jackson
+516274	Fútbol Americano	3	En 2012, ¿qué equipo de la NFL llamó LP Field Stadium allí en casa?	Cargadores de San Diego	Acereros de Pittsburgh	Buffalo Bills	Titanes de Tennessee
+382433	Fútbol Americano	3	Martin Gramatica pateó 2 goles de campo y ¿cuántos puntos extra durante el Super Bowl XXXVII?	12	3	4	6
+501005	Fútbol Americano	3	Daunte Culpepper jugó fútbol americano universitario y de secundaria ¿en qué estado?	Texas	Pensilvania	California	Florida
+299005	Fútbol Americano	3	Los San Diego Chargers fueron el equipo perdedor en el Super Bowl XXIX, ¿con qué puntaje final?	55 hasta 10	23 hasta 16	16 a 13	49 hasta 26
+490874	Fútbol Americano	3	¿Qué número de uniforme retiró Kansas City para el gran Willie Lanier de la NFL?	1	11	12	63
+32548	Fútbol Americano	3	¿Dónde se jugó el Super Bowl XV?	Estadio de Tulane	Estadio de arroz	Estadio de Stanford	Superdomo de Luisiana
+199842	Fútbol Americano	3	Warren Moon jugó para todos, pero ¿cuál de los siguientes equipos?	Halcones Marinos de Seattle	Vikingos de Minnesota	Engrasadores de Houston	Titanes de Tennessee
+410412	Fútbol Americano	3	¿La aparición de los Raiders en el Super Bowl XXXVII fue la primera de los Raiders en cuántos años?	5	37	11	19
+20712	Fútbol Americano	3	¿Cuál fue el puntaje del medio tiempo en el Super Bowl XXI, en el que los Giants vencieron a los Broncos 39-20?	Gigantes 32, Broncos 6	Gigantes 10, Broncos 3	Broncos 20, Gigantes 7	Broncos 10, Gigantes 9
+490890	Fútbol Americano	3	¿Cuántos juegos perdieron los Browns de Cleveland de 2015?	Quince	Doce	Siete	Trece
+502294	Fútbol Americano	3	¿Cuál fue el puntaje de medio tiempo del juego NFL WildCard 2019 entre NE y Tennessee?	Titanes 14 palmaditas 3	Titanes 11 palmaditas 10	Titanes 14 palmaditas 14	Titanes 14 Pats 13
+304317	Fútbol Americano	3	¿Qué equipo terminó primero en la NFL AFC Norte para la temporada 2014?	Gigantes	Marrones	Cuervos	Acereros
+500888	Fútbol Americano	3	Michael Strahan fue incluido en el Salón de la Fama de la NFL ¿en qué año?	2013	2012	2011	2014
+79721	Fútbol Americano	3	¿Quién cantó el Himno Nacional en el Super Bowl de 1991?	Cher	Bette Midler	Diana Ross	Whitney Houston
+502722	Fútbol Americano	3	En la semana 8 de 2013, los Broncos establecieron un récord de franquicia de puntos en un trimestre, ¿cuántos?	39 puntos	29 puntos	45 puntos	31 puntos
+516244	Fútbol Americano	3	¿Quién fue la primera elección en el Draft de la NFL de 2012?	Doug Martin	Ben Jones	Robert Griffin III	Andrew Luck
+352388	Fútbol Americano	3	Joe Montana ganó los premios MVP del Super Bowl, ¿en qué tres Super Bowls?	1981, 1983, 1991	1982, 1989, 1990	1982, 1990, 1991	1982, 1985, 1990
+508311	Fútbol Americano	3	¿Cuántos touchdowns lanzó Philip Rivers en el 2013?	¿Temporada?	23 TD	53 TD	13 TD
+259185	Fútbol Americano	3	Aaron Neville y Aretha Franklin cantaron el himno nacional en el Super Bowl ¿cuándo?	2000	2005	1999	2006
+59951	Fútbol Americano	3	¿Quién tuvo más selecciones en el Draft de la NFL 2018?	Marrones	Chorros	Delfines	Cuervos
+287206	Fútbol Americano	3	¿En cuál de los siguientes Super Bowls un equipo no consiguió un safety?	Super Bowl 20 Bears vs. Patriotas	Super Bowl 10 Vaqueros vs. Acereros	Super Bowl 21 Broncos vs. Gigantes	Super Bowl 2 Packers vs. Asaltantes
+20681	Fútbol Americano	3	¿Qué equipo de la NFL en la temporada regular 2011 anotó 560 puntos?	Jets de Nueva York	49ers de San Francisco	Acereros de Pittsburgh	Empacadores de Green Bay
+299036	Fútbol Americano	3	¿Qué corredor corrió más de 200 yardas en el Super Bowl XXII?	Marcus Allen	Joe Morris	John Riggins	Timmy Smith
+507185	Fútbol Americano	3	¿Cuál de estos mariscales de campo no fue seleccionado en el 2012?	Robert Griffin III	Andrew Luck	Nick Foles	Matt Ryan
+284941	Fútbol Americano	3	¿Quién fue el MVP del Super Bowl XXIII?	Stanford Jennings	Joe Montana	Jim Breech	Jerry Rice
+259186	Fútbol Americano	3	¿En qué Super Bowl jugó el mariscal de campo Doug Williams?	IX	XXI	XXXIII	XXII
+2LFN1398	Fútbol Americano	3	¿Qué número de uniforme usó Eddie Lacy para los Packers de la NFL de 2014?	12	83	44	27
+199144	Fútbol Americano	3	¿Joe Montana enfrentó a qué equipo en su primer Super Bowl?	Delfines de Miami	Broncos de Denver	Jefes de Kansas City	Bengalíes de Cincinnati
+508333	Fútbol Americano	3	¿Quién tuvo la segunda selección en el Draft de la NFL 2018?	Leones de Detroit	Patriotas del NE	Delfines de Miami	Gigantes de Nueva York
+199583	Fútbol Americano	3	¿Cuál fue el récord de temporada regular de los Ravens en 2000, el año en que ganaron el Super Bowl?	9-7	13-3	10-6	12-4
+507177	Fútbol Americano	3	Edgerrin James fue elegido Novato Ofensivo del Año de la NFL ¿en qué año?	2001	1997	1995	1999
+199961	Fútbol Americano	3	¿Quién es el primer mariscal de campo de la NFL en pasar más de 800 yardas en la temporada 2018 de la NFL?	Primos de Kirk	Philip Rivers	Drew Brees	Ryan Fitzpatrick
+259352	Fútbol Americano	3	¿En qué año se jugó el Super Bowl I?	1960	1957	1972	1967
+507186	Fútbol Americano	3	¿Qué par de los siguientes jugadores de la NFL son hermanos?	Deuce y Chris McAllister	Kyle y Tom Brady	Derrick y Aaron Brooks	Peter y Michael Boulware
+199040	Fútbol Americano	3	¿Cuántos Super Bowls ganó Chuck Noll como entrenador en jefe de los Pittsburgh Acereros?	Uno	Seis	Cero	Cuatro
+59839	Fútbol Americano	3	MC Hammer apareció en un anuncio del Super Bowl de 2005 para ¿qué producto?	Dr Pepper	Aquafina	Fruta jugosa	Patatas fritas Lay
+391363	Fútbol Americano	3	¿Qué dos celebridades hicieron un comercial de Noxzema que se emitió en un Super Bowl?	Johnny Unitas y Raquel Welch	Joe Gibbs y Paula Abdul	Joe montana y pam anderson	Joe namath y farrah fawcett
+1282	Fútbol Americano	3	¿Cuántas yardas corrió Bengal Ickey Woods en el Super Bowl XXIII?	109 yardas en 23 transportes	19 yardas en 12 carros	177 yardas en 30 carros	79 yardas en 20 carros
+289226	Fútbol Americano	3	¿Cuáles fueron los primeros puntos anotados del Super Bowl LIII?	Touchdown de Nueva Inglaterra	Seguridad en Los Ángeles	Gol de campo de Los Ángeles	Gol de campo de Nueva Inglaterra
+290221	Fútbol Americano	3	Jerome Bettis fue honrado en el Super Bowl XL por sus compañeros de equipo vistiendo camisetas ¿con qué número?	32	5	26	6
+2LFN1420	Fútbol Americano	3	¿Qué récord de la NFL establecieron los Broncos en 2013?	Puntos dados en una temporada	Fallos en una temporada	Yardas apresuradas	Puntos anotados en una temporada
+506361	Fútbol Americano	3	¿Qué ex ala cerrada de BYU entrenó a los Baltimore Ravens del 2000 ganando el Super Bowl?	Steve Young	Jim McMahon	Bronco Mendenhall	Brian Billick
+304296	Fútbol Americano	3	¿Qué equipo terminó la temporada regular 2019 perdiendo 9 juegos seguidos?	Vaqueros de Dallas	Jets de Nueva York	Delfines de Miami	Leones de Detroit
+62034	Fútbol Americano	3	¿Quién fue la elección número uno en el draft de la NFL en 2000?	Ernie Davis	Tim Couch	Orlando Pace	Courtney Brown
+392061	Fútbol Americano	3	De los siguientes entrenadores en jefe, ¿cuál tiene más anillos de Super Bowl?	Don Shula	Vince Lombardi	Bill Walsh	Chuck Noll
+272261	Fútbol Americano	3	En 1991, Tom Coughlin se convirtió en entrenador en jefe de ¿qué universidad?	Carolina del Sur	Siracusa	Tennesse	Boston College
+500889	Fútbol Americano	3	Para la temporada 2013-14, ¿qué compañía cambió el nombre del estadio local de los Vaqueros?	pique	Verizon	manzana	AT&T
+512004	Fútbol Americano	3	¿Cuántos touchdowns totales anotaron los Packers en la temporada 2011?	55	65	80	70
+502449	Fútbol Americano	3	¿Qué receptor abierto dejó a los Giants antes de la temporada 2014?	Víctor Cruz	Rueben Randle	Tindon Holliday	Hakeem Nicks
+410669	Fútbol Americano	3	Los Vikings fueron el equipo perdedor en el Super Bowl XI; ¿Cuál fue el puntaje final del juego?	24 a 3	23 hasta 16	20 a 17	32 hasta 14
+259215	Fútbol Americano	3	¿Cuántas veces ganaron los Eagles el Campeonato de la NFL antes del primer Super Bowl?	11 veces	6 veces	0 veces	3 veces
+345653	Fútbol Americano	3	¿Qué equipo de la NFL ganó el Super Bowl en la temporada 2002-2003?	Asaltantes de Oakland	Patriotas de Nueva Inglaterra	Águilas de Filadelfia	Bucaneros de Tampa Bay
+411470	Fútbol Americano	3	¿Cómo anotaron los Rams sus únicos puntos en el Super Bowl LIII?	La seguridad	Pasando TD	TD corriendo	Gol de campo
+410431	Fútbol Americano	3	En 2014, ¿en qué octava ocasión DE pro Bowl adquirió Green Bay en la agencia libre?	Chris Long	Kendrick Adams	Armond Armstead	Julius Peppers
+12647	Fútbol Americano	3	¿Qué Super Bowl dependió de un gol de campo fallado por el pateador de los Buffalo Bills, Scott Norwood?	XXVII	XXIII	XIV	XXV
+518930	Fútbol Americano	3	¿Qué entrenador en jefe fue el octavo en la historia de los Miami Dolphins?	Bill Parcells	Brian Billick	Dave Puloka	Tony Sparano
+2LFN1450	Fútbol Americano	3	¿Qué jugador de los Vaqueros de Dallas fue un vallista de clase nacional en Tennessee?	Cornell Green	Mel Renfro	Roger Staubach	Richmond Flowers
+23315	Fútbol Americano	3	¿Cuántos pases completos lanzó Tom Brady en el Super Bowl XXXVII?	38 pases	26 pases	41 pases	32 pases
+231025	Fútbol Americano	3	Los Falcons siguieron su temporada de Super Bowl 14-2 en 1998 ¿con qué récord en 1999?	8-8	6-10	7-9	5-11
+291719	Fútbol Americano	3	¿Cómo anotaron los 49ers de San Francisco 55 puntos en el Super Bowl XXIV?	6 touchdowns, 6 palmaditas, 3 goles de campo, 2 profundos	7 touchdowns, 7 palmaditas, 2 goles de campo	5 touchdowns, 5 palmaditas, 6 goles de campo, 1 seguridad	8 touchdowns, 7 palmaditas
+272413	Fútbol Americano	3	¿Quién es el primer jugador en ser nombrado MVP del Super Bowl, a pesar de que su equipo perdió?	Johnny Unitas	Nick Buoniconti	Tony Dorsett	Chuck Howley
+80215	Fútbol Americano	3	En la temporada del Super Bowl de 2000, ¿cuántos juegos consecutivos ganaron los Ravens para terminar la temporada regular?	6	4	5	7
+57577	Fútbol Americano	3	¿A quién eligieron los Titanes de Tennessee en la primera ronda del Draft de la NFL 2018?	Harrison Phillips	Orlando Brown	Jaleel Scott	Rashaan Evans
+490916	Fútbol Americano	3	La estrella del mariscal de campo novato de 2012 Andrew Luck jugó fútbol americano universitario en qué escuela	Notre Dame	Estado de Ohio	Baylor	Stanford
+23298	Fútbol Americano	3	¿Qué equipo llegó al Super Bowl en las temporadas 1977, 1987 y 1997?	Vaqueros de Dallas	Delfines de Miami	49ers de San Francisco	Broncos de Denver
+199894	Fútbol Americano	3	¿Cuántos equipos de la NFL perdieron 13 partidos de temporada regular en 2018?	Cero	Cuatro	Dos	Uno
+415966	Fútbol Americano	3	¿Quién pateó el infame saque de campo "Wide Right" en el Super Bowl XXV?	Steve Christie	Ralph Prentice	Morten Anderson	Scott Norwood
+88198	Fútbol Americano	3	¿Quién anotó el primer touchdown de Super Bowl en la historia de Tennessee Titan?	Steve McNair	Kevin Dyson	Frank Wycheck	Eddie George
+200220	Fútbol Americano	3	¿Qué equipo fue el primero en tener éxito en un intento de conversión de 2 puntos en un Super Bowl?	Vaqueros de Dallas	Buffalo Bills	49ers de San Francisco	Cargadores de San Diego
+415649	Fútbol Americano	3	¿Qué Super Bowl fue el anfitrión del Reliant Stadium el 1 de febrero de 2004?	Super Bowl XXXVI	Super Bowl XXXVII	Super Bowl XXXV	Super Bowl XXXVIII
+501294	Fútbol Americano	3	¿Qué equipo en 2012 rompió el récord de la NFL de más derrotas en los playoffs (27)?	Asaltantes	Delfines	Águilas	Vikingos
+327338	Fútbol Americano	3	¿Qué equipo del Super Bowl incluyó a Burnett, Siragusa y Gash?	Vaqueros de Dallas	Patriotas de Nueva Inglaterra	Delfines de Miami	Cuervos de Baltimore
+259356	Fútbol Americano	3	¿Quién lideró a los Kansas City Chiefs en la carrera en el Super Bowl IV?	Wendell Hayes	Len Dawson	Robert Holmes	Mike Garrett
+199022	Fútbol Americano	3	Los Pittsburgh Acereros perdieron en el Super Bowl XXX, ¿cuál fue el puntaje final del juego?	34 hasta 7	46 hasta 10	35 hasta 21	27 hasta 17
+199847	Fútbol Americano	3	¿A quién venció Tennessee en el juego de playoffs de comodines de la NFL 2017-18?	Jacksonville	Miami	Oakland	ciudad de Kansas
+506348	Fútbol Americano	3	En 2014, los Bills celebraron qué aniversario de estar en la NFL	55º	35º	65º	45
+259332	Fútbol Americano	3	¿Cómo anotaron los Oakland Asaltantes su primer TD en el Super Bowl XVIII?	Retorno de la intercepción	Correr	Pasar	Recuperación de Punt Fumble bloqueado
+352392	Fútbol Americano	3	En un comercial del Super Bowl de 2004, ¿qué animal se determina que será uno de los enganches de Clydesdale para Budweiser?	Perro	Poni	Cabra	Burro / Asno
+13706	Fútbol Americano	3	De los equipos de playoffs de 1992-93, ¿cuáles dos llegaron al Super Bowl?	Miami - Dallas	Miami - San Francisco	Buffalo - San Francisco	Buffalo - Dallas
+499606	Fútbol Americano	3	The Posse era más conocido como ¿qué trío de compañeros de equipo de la NFL?	Troy Aikman, Emmitt Smith y Michael Irvin	Jeff George, Tim Brown y Napoleon Kauffman	Franco Harris, John Stallworth y Lynn Swann	Art Monk, Ricky Sanders y Gary Clark
+507515	Fútbol Americano	3	¿En qué equipo era Ralph Wilson un propietario minoritario antes de ser dueño de los Bills?	Empacadores de Green Bay	Osos de Chicago	Gigantes de Nueva York	Leones de Detroit
+293018	Fútbol Americano	3	¿Qué equipo ganó los dos últimos campeonatos de la AFL en 1964 y 1965 antes de que el campeón de la AFL comenzara a jugar contra el campeón de la NFL en el Super Bowl?	Asaltantes de Oakland	Jets de Nueva York	Jefes de Kansas City	Buffalo Bills
+507606	Fútbol Americano	3	¿Eli Manning completó la famosa "captura de casco" a qué receptor en el Super Bowl XLII?	Plaxico Burress	Víctor Cruz	Jeremy Shockey	David Tyree
+12604	Fútbol Americano	3	¿Qué vaquero anotó el primer touchdown de Super Bowl del equipo?	Calvin Hill	Tony Dorsett	Drew Pearson	Duane Thomas
+24392	Fútbol Americano	3	¿Quién entrenó a los 49ers de San Francisco en una gran victoria en el Super Bowl XXIV?	Steve Mariucci	Bill Walsh	Louis Degarrett	George Seifert
+410129	Fútbol Americano	3	¿A quién eligieron los Detroit Lions en la primera ronda del Draft de la NFL 2018?	Alex Cappa	Michael Gallup	Josh sudor	Frank Ragnow
+502609	Fútbol Americano	3	¿Qué equipo de la NFL de 2019 incluye al corredor Jaylen Samuels?	Asaltantes de Oakland	Halcones Marinos de Seattle	Leones de Detroit	Acereros de Pittsburgh
+185816	Fútbol Americano	3	¿Qué equipo terminó primero en la NFL AFC East para la temporada 2014?	Delfines	Chorros	Bengalíes	Patriotas
+502798	Fútbol Americano	3	¿Cuál era el apodo de Clay Matthews?	El asesino	El espárrago	El camión	El Claymaker
+12869	Fútbol Americano	3	¿Qué receptor de los Vaqueros hizo su primer Pro Bowl en 2013-14?	Terrance Williams	Miles Austin	Lance Lewis	Dez Bryant
+315796	Fútbol Americano	3	¿Cuántas capturas tuvo Reggie White en el Super Bowl XXXI?	0	5	1	3
+199563	Fútbol Americano	3	¿A qué equipo vencieron los 49ers en el Super Bowl XVI para ganar su primer Trofeo Lombardi?	Cargadores de San Diego	Delfines de Miami	Buffalo Bills	Bengalíes de Cincinnati
+13998	Fútbol Americano	3	En "Seinfeld", cuando Jerry y Newman terminan en el Super Bowl, ¿en qué ciudad estaba?	Atlanta	los Angeles	Nueva Orleans	Miami
+503077	Fútbol Americano	3	¿Quién es el primer pateador en ganar el premio MVP de la temporada regular de la NFL?	Morten Anderson	Gary Anderson	Adam Vinatieri	Mark Moseley
+264997	Fútbol Americano	3	¿Qué Super Bowl contó con dos equipos que ganaron como visitantes en sus respectivos Juegos de Campeonato de Conferencia?	XIX - San Francisco vs. Miami	XXVIII - Dallas vs. Búfalo	XXIII - San Francisco vs. Cincinnati	XXII - Denver vs. Green Bay
+382445	Fútbol Americano	3	¿En qué universidad jugaron los tres primeros MVP del Super Bowl?	Notre Dame	Tennesse	Michigan	Alabama
+199128	Fútbol Americano	3	¿A quién vencieron los Buccaneers 48-21 en el Super Bowl XXXVII?	Patriotas	Carneros	Águilas	Asaltantes
+50S2162	Fútbol Americano	3	Peyton Manning se unió a los Broncos para la temporada 2012, ¿cuántas temporadas jugó para los Colts?	11	8	Ninguno	14
+64837	Fútbol Americano	3	¿Quién atrapó un pase de touchdown para Filadelfia en el Super Bowl LII?	Torrey Smith	Trey Burton	Nelson Agholor	Zach Ertz
+410201	Fútbol Americano	3	¿En qué año fue la primera temporada de Mike Shanahan como entrenador en jefe de Denver?	1990	1999	1988	1995
+2336	Fútbol Americano	3	¿Cuántos anillos de Super Bowl recibió Steve Young con los 49ers de San Francisco?	1	2	4	3
+25076	Fútbol Americano	3	¿Cuál de estos jugadores defensivos no fue el Jugador Más Valioso del Super Bowl?	Richard Dent	Chuck Howley	Randy White	Jack Lambert
+389988	Fútbol Americano	3	Hasta 2004, ¿cuántas veces los Washington Pieles Rojas habían ganado el Super Bowl?	Dos	Cero	Cuatro	Tres
+49S9615	Fútbol Americano	3	¿Cuáles de las siguientes parejas de la NFL son hermanos?	Arroz Jerry y Simeón	Brad y Rob Johnson	Kerry y Todd Collins	Lee Roy y Dewy Selmon
+41LK888	Fútbol Americano	3	En 2003, 2004, 2008 y 2009, ¿quién ganó el premio al jugador más valioso de la AP?	Tom Brady	Ray Lewis	Aaron Rodgers	Peyton Manning
+289376	Fútbol Americano	3	¿Qué jugador de los Titans anotó los dos únicos touchdowns del equipo en el Super Bowl XXXIV contra los Rams?	Kevin Dyson	Isaac Byrd	Jackie Harris	Eddie George
+503076	Fútbol Americano	3	¿Contra qué equipo rompió Walter Payton el récord de carrera de Jim Brown en la NFL?	Browns de Cleveland	Halcones Marinos de Seattle	Vikingos de Minnesota	Santos de Nueva Orleans
+191487	Fútbol Americano	3	¿Qué jugador de los Baltimore Ravens ganó el premio al Hombre del Año de Walter Payton en 2011?	Tom Zbikowski	Vonta Leach	Jameel McClain	Matt Birk
+491549	Fútbol Americano	3	¿Quién fue el Jugador Más Valioso Defensivo del Campeonato Nacional de Fútbol Americano Universitario 2018?	Tony Brown	Joshua Frazier	Johnny Dwight	Da'Ron Payne
+491421	Fútbol Americano	3	¿Qué equipo tuvo la mayor cantidad de yardas aéreas en la temporada regular 2012 de la NFL?	49ers de San Francisco	Vaqueros de Dallas	Cuervos de Baltimore	Santos de Nueva Orleans
+199063	Fútbol Americano	3	¿Cuál de los siguientes jugadores nunca fue MVP del Super Bowl?	Malcolm Smith	Jim Plunkett	Von Miller	Walter Payton
+352381	Fútbol Americano	3	¿A quién eligieron los Washington Pieles Rojas en la primera ronda del Draft de la NFL 2018?	Mike Gesicki	Geron Christian	Durham Smythe	Daron Payne
+291577	Fútbol Americano	3	¿Qué MVP del Super Bowl XLI fue el Gran Mariscal del Desfile del Festival IPL 500 de 2007?	Adam Vinatieri	Rex Grossman	Muhsin Muhammad	Peyton Manning
+288430	Fútbol Americano	3	¿Quién era el miembro más pesado del equipo del Super Bowl XL de los Acereros?	Max Starks	Marvel Smith	Kendall Simmons	Chris Kemoeatu
+499612	Fútbol Americano	3	¿A quién eligieron los Oakland Asaltantes en la primera ronda del Draft de la NFL 2018?	Dante Pettis	Mason Rudolph	Avonte Maddox	Kolton Miller
+24271	Fútbol Americano	3	Los Patriots establecieron un récord en el Super Bowl LII con la mayor cantidad de yardas totales del equipo, ¿cuántas tuvieron?	699 Yardas	513 yardas	313 yardas	613 yardas
+502610	Fútbol Americano	3	¿Quién fue el entrenador en jefe interino de los Bronco en 2013 durante la ausencia de John Fox?	Pat Bowlen	Tyke Tolbert	Alex Gibbs	Jack Del Rio
+61429	Fútbol Americano	3	¿Cuál fue la jugada en la que Randle El lanzó un touchdown a Hines Ward en el Super Bowl XL?	84 Eagle Reverse Y-Option	Paso X inverso ancho 32	Lanzamiento en Y-Reverse 83	Fake-39 Toss X-Reverse Pass
+73418	Fútbol Americano	3	¿A quién derrotaron los New York Jets 16-7 en el Super Bowl III?	Águilas de Filadelfia	Empacadores de Green Bay	Vikingos de Minnesota	Colts de Baltimore
+501305	Fútbol Americano	3	¿Qué número de uniforme retiró Nueva Inglaterra para el gran John Hannah de la NFL?	12	11	55	73
+259391	Fútbol Americano	3	Andrew Luck rompió el récord de un solo juego de la NFL para un novato ¿con cuántas yardas por pase?	333	375	403	433
+199301	Fútbol Americano	3	En la NFL, ¿qué sucede cuando la regla de los 30 segundos se viola más de dos veces por el mismo down?	Pérdida de bola	Pérdida de cinco yardas	Pérdida de abajo	Pérdida de quince yardas
+507193	Fútbol Americano	3	¿Cuáles de estas estrellas de la NFL estaban en la temporada 22 de "Dancing with the Stars"?	Todd Gurley	Cam Newton	AJ Green	Antonio Brown
+20674	Fútbol Americano	3	Antes del Super Bowl XLI, ¿cuánto tiempo había pasado desde el último Super Bowl para los Colts?	40 años	34 años	42 años	36 años
+64768	Fútbol Americano	3	¿Quién atrapó dos pases de touchdown para Nueva Inglaterra en el Super Bowl LII?	Rex Burkhead	James blanco	Danny Amendola	Rob Gronkowski
+89859	Fútbol Americano	3	¿Cuántas personas en Estados Unidos vieron el Super Bowl XXXI?	12 millones	228 millones	98 millones	128 millones
+11460	Fútbol Americano	3	¿A quién derrotaron los Vaqueros y con qué puntuación en su primera victoria en el Super Bowl?	Miami 24-7	Pittsburgh 24-3	Kansas City 21-3	Miami 24-3
+199565	Fútbol Americano	3	En los primeros 25 años de Pat Bowlen como propietario de los Denver Broncos, ¿cuántas veces jugaron en el Super Bowl?	Ocho	Diez	Dos	Cinco
+293051	Fútbol Americano	3	¿Cuál fue el primer estadio abovedado en albergar un Super Bowl?	Metrodome	Astrodome	Silverdome	Superdomo
+199830	Fútbol Americano	3	¿Quién lideró a los Vaqueros con 107 tacleadas en 2013-14?	DeVonte Holloman	Morris Claiborne	Nick Hayden	Barry Church 
+23725	Fútbol Americano	3	¿Cuántas yardas corrió Chuck Foreman en el Super Bowl XI?	Dos yardas	25 yardas	11 yardas	22 yardas
+231929	Fútbol Americano	3	¿Qué Bronco apareció en el programa de televisión de 2007 "Gillette Young Guns: Fast Cars & Superstars"?	Brandon Flowers	Jason Elam	Damien Nash	John Elway
+8255	Fútbol Americano	3	¿Para qué se otorga el premio Melberger en el fútbol universitario?	Entrenador del año I-AA	Mejor jugador de la División II	Mejor jugador de equipos especiales de la nación	Jugador destacado de la División III
+490917	Fútbol Americano	3	¿Qué equipo de la NFL tuvo más derrotas en la temporada regular de 2014?	Panteras de Carolina	Browns de Cleveland	Águilas de Filadelfia	Osos de Chicago
+65416	Fútbol Americano	3	¿Qué equipo anotó la mayor cantidad de puntos en los juegos WildCard 2019?	Buffalo Bills	Halcones Marinos de Seattle	Houston Texans	Vikingos de Minnesota
+272384	Fútbol Americano	3	¿La película "Silver Linings Playbook" destaca qué temporada de los Philadelphia Eagles?	Temporada 2006 de las Águilas	Temporada 2010 de las Águilas	Temporada 2012 de las Águilas	Temporada 2008 de las Águilas
+199074	Fútbol Americano	3	¿Qué equipo eventual del Super Bowl derrotaron los Miami Dolphins en 2004?	Halcones	Águilas	Halcones Marinos	Patriotas
+59840	Fútbol Americano	3	¿A qué equipo vencieron los Atlanta Falcon en 1998 para avanzar al Super Bowl?	Green Bay	Detroit	Bahía de Tampa	Minnesota
+293279	Fútbol Americano	3	¿Cuántas de las ocho selecciones de los Acereros del draft del 2002 estaban en el roster del Super Bowl XL?	Dos	Cuatro	Uno	Siete
+151944	Fútbol Americano	3	¿Quién fue el mariscal de campo titular de los Seattle Seahawks al comienzo de la temporada 2011?	Paul McQuistan	Brandon Mebane	Breno Giacomini	Tarvaris Jackson
+289375	Fútbol Americano	3	¿Qué equipo es el primer equipo de la AFC en ganar 4 Super Bowls?	Potros	Delfines	Marrones	Acereros
+199054	Fútbol Americano	3	¿Quién interceptó tres pases en el Super Bowl VII que lo llevaron a ser nombrado MVP?	JB Brown	Justin Kelly	Kyle Brady	Jake Scott
+499607	Fútbol Americano	3	¿Qué equipo de la NFL tuvo la menor cantidad de selecciones en el Draft de la NFL 2018?	Asaltantes	Empacadores	Patriotas	Titanes
+391711	Fútbol Americano	3	¿Qué dos equipos compitieron en el Super Bowl XXXI que jugaron en Nueva Orleans?	Vaqueros y broncos	49ers y broncos	Vaqueros y bills	Empacadores y patriotas
+33DV811	Fútbol Americano	3	¿Quién fue el jugador defensivo que ganó el Jugador Más Valioso del Super Bowl en el Super Bowl XXX?	Lawrence Taylor	Richard Dent	Bruce Smith	Larry Brown
+88627	Fútbol Americano	3	¿Qué equipo derrotó al actual campeón del Super Bowl, Giants, para comenzar la pretemporada de 2008?	Potros de Indianápolis	Delfines de Miami	Patriotas de Nueva Inglaterra	Leones de Detroit
+51585	Fútbol Americano	3	¿Cuál de estos equipos no ganó un Super Bowl en los 70?	Miami	Oakland	ciudad de Kansas	San Francisco
+507197	Fútbol Americano	3	¿Contra qué equipo en 2013 Russell Wilson corrió por más de 100 yardas?	Halcones	Gigantes	Carneros	Potros
+272414	Fútbol Americano	3	¿Qué dueño de la NFL le dio a Vladimir Putin un anillo de campeonato del Super Bowl?	Paul Allen	Preston Tisch	Wayne Huizenga	Robert Kraft
+2497	Fútbol Americano	3	Vernon Davis jugó en qué equipo del Super Bowl en el Super Bowl 50?	Panteras de Carolina	Cardenales de Arizona	Gigantes de Nueva York	Broncos de Denver
+199042	Fútbol Americano	3	¿Cuál fue el resultado del Super Bowl LII jugado en 2018?	Las Aguilas ganan por 2	Los Patriotas ganan por 10	Los Patriotas ganan por 1	Las Aguilas ganan por 8
+354453	Fútbol Americano	3	¿Cuántos touchdowns por tierra tuvo Washington en su segundo cuarto de 35 puntos en el Super Bowl 22?	Cero	Dos	Tres	Uno
+272381	Fútbol Americano	3	¿En qué escuela jugó Saquon Barkley antes de ser reclutado en la NFL?	Pittsburgh	Estado de Florida	Ole Miss	Penn State
+264994	Fútbol Americano	3	¿Cuál fue el resultado del medio tiempo del Super Bowl jugado en 2014?	Seattle 32 Denver 3	Seattle 3 Denver 3	Denver 12 Seattle 2	Seattle 22 Denver 0
+76704	Fútbol Americano	3	¿Contra quién jugaron los Vaqueros de Dallas en su primer Super Bowl?	Houston	Washington	Green Bay	Baltimore
+514522	Fútbol Americano	3	¿Quién fue nombrado Jugador Más Valioso del Pro Bowl en 2013?	Aaron Rodgers	Víctor Cruz	Vincent Jackson	Kyle Rudolph
+20694	Fútbol Americano	3	¿Qué Ram atrapó un TD para llegar al Super Bowl XXXVI 17-17, antes del gol de campo de Vinatieri?	Az-Zahir Hakim	Torry Holt	Marshall Faulk	Ricky Proehl
+523698	Fútbol Americano	3	¿Qué récord de mariscal de campo de mayor rating por un novato fue batido en 2012 por Robert Griffin III?	Dan Marino	Peyton Manning	Tom Brady	Ben Roethlisberger
+514669	Fútbol Americano	3	Los LA Rams jugaron un partido de pretemporada de 2019 en el Aloha Stadium de Hawái, ¿contra quién?	Osos de Chicago	Acereros de Pittsburgh	49ers de San Francisco	Vaqueros de Dallas
+523695	Fútbol Americano	3	¿Quiénes reclutaron los NY Jets en la primera ronda del Draft de la NFL 2018?	John Franklin-Myers	Marqués Haynes	Dalton Schultz	Sam Darnold
+491407	Fútbol Americano	3	¿A quién eligieron los New Orleans Saints en la primera ronda del Draft de la NFL 2018?	Kerryon Johnson	Derrick Nnadi	Armani Watts	Marcus Davenport
+327538	Fútbol Americano	3	¿Por cuántos puntos ganaron los Patriots el Super Bowl en 2004?	Seis	Uno	Dos	Tres
+87640	Fútbol Americano	3	¿Qué número de camiseta le dieron los New York Jets a Brett Favre?	# 22	# 8	# 51	# 4
+293017	Fútbol Americano	3	¿Qué edad tenía Tom Brady cuando jugó en el Super Bowl LII el 4 de febrero de 2018?	49 años 145 días	39 años 145 días	43 años 15 días	40 años 185 días
+199868	Fútbol Americano	3	¿Qué novato se convirtió en el nuevo mariscal de campo titular de los Bills en 2013?	Ryan Fitzpatrick	Robert Woods	Kiko Alonso	EJ Manuel
+271188	Fútbol Americano	3	Justo antes de convertirse en entrenador en jefe de los Panthers en 2011, ¿para qué equipo entrenó Ron Rivera?	Vaqueros de Dallas	Jets de Nueva York	Delfines de Miami	Cargadores de San Diego
+410672	Fútbol Americano	3	De los campeones del Super Bowl, los Baltimore Ravens, ¿cuántos estaban en la lista de 2002-03?	18	24	12	6
+523688	Fútbol Americano	3	En 2012 Lincoln Financial Field fue el hogar de qué equipo de la NFL?	Los Patriotas	Los Seahawks	Los Broncos	Las Águilas
+508345	Fútbol Americano	3	¿Quién ganó el premio al Jugador Defensivo del Año de la AP en la temporada 2011 de la NFL?	Barbero ronde	Mathias Kiwanuka	Brian Orakpo	Terrell Suggs
+32547	Fútbol Americano	3	¿Cuál de los siguientes Super Bowls se jugó en el Silverdome de Detroit?	Super Bowl 32	Super Bowl 24	Super Bowl 8	Super Bowl 16
+304308	Fútbol Americano	3	¿Qué liniero defensivo de los Vaqueros llegó al Pro Bowl para la temporada 2013-14?	Nick Hayden	George Selvie	Justin Durant	Jason Hatcher
+20700	Fútbol Americano	3	¿Quién fue el Jugador Más Valioso del Super Bowl 11 entre Oakland Asaltantes y Minnesota Vikings?	Jake Scott	Randy White y Harvey Martin	Roger Staubach	Fred Biletnikoff
+2276	Fútbol Americano	3	¿En cuántos Super Bowls entrenó Tom Landry?	0	7	4	5
+259341	Fútbol Americano	3	¿A qué equipo venció Baltimore en el Campeonato de la AFC para avanzar al Super Bowl XXXV?	Titanes de Tennessee	Delfines de Miami	Jets de Nueva York	Asaltantes de Oakland
+199832	Fútbol Americano	3	¿Cuál de los siguientes receptores de pases de la NFL nunca asistió a la USC?	Mike Williams	Lynn Swann	Keyshawn Johnson	Monje de arte
+491418	Fútbol Americano	3	¿Quién eliminó a Pittsburgh de los Playoffs de la NFL 2017-18?	Tennesse	Nueva Inglaterra	Oakland	Jacksonville
+291774	Fútbol Americano	3	¿Para qué equipo de la NFL 2019 patea Nick Novak?	Jets de Nueva York	Gigantes de Nueva York	Panteras de Carolina	Cargadores de Los Ángeles
+199013	Fútbol Americano	3	Antes de la aparición de los Eagles en el Super Bowl de 2005, ¿cuándo aparecieron por última vez?	2000	1966	1958	1981
+491422	Fútbol Americano	3	¿Qué número usa el mariscal de campo Josh Allen para los Buffalo Bills de 2019?	# 27	# 11	# 8	# 17
+362105	Fútbol Americano	3	¿Qué entrenador del equipo ganó el premio al Entrenador del Año de la AP para la temporada 2017 de la NFL?	Cargadores de Los Ángeles	Panteras de Carolina	Águilas de Filadelfia	Caerneros de Los Ángeles
+507170	Fútbol Americano	3	Michael Irvin tiene más recepciones de TD contra este club que cualquier otro	Cardenales	Gigantes	Águilas	Pieles rojas
+352482	Fútbol Americano	3	¿Quién fue el corredor titular de los Washington Pieles Rojas en el Super Bowl XXVI?	John Riggins	Timmy Smith	Gerald Riggs	Ernest Byner
+20670	Fútbol Americano	3	¿Quién era el entrenador en jefe de los Carolina Panthers al comienzo de la temporada 2010 de la NFL?	Paul Fox	Mike Munchak	Jim Tomsula	John Fox
+97917	Fútbol Americano	3	¿Cuántas recepciones tuvo Deion Branch en el Super Bowl XXXIX?	22 recepciones	8 recepciones	5 recepciones	11 recepciones
+516346	Fútbol Americano	3	¿Qué selección general fue Clay Matthews en el draft de la NFL?	2do	Quinto	Décimo	26
+292998	Fútbol Americano	3	¿Cuántos pases de touchdown lanzó Jim Kelly en el Super Bowl XXV contra los New York Giants?	2	3	1	Ninguno
+500998	Fútbol Americano	3	Los Giants firmaron a Víctor Cruz como novato no reclutado en qué año?	2011	2008	2009	2010
+12656	Fútbol Americano	3	¿Cuál fue el primer Super Bowl que ganó Dallas?	F	VII	V	VI
+502448	Fútbol Americano	3	¿Dónde se jugó el Campeonato Nacional de Playoffs de Fútbol Universitario 2018?	San Diego	Dallas	Toronto	Atlanta
+199060	Fútbol Americano	3	Larry Brown se convirtió en el segundo corredor defensivo en ganar el premio MVP del Super Bowl, ¿quién fue el primero?	Hierba Adderley	Mel Blount	Ronnie Lott	Jake Scott
+507470	Fútbol Americano	3	¿Cuál fue el récord del entrenador en jefe Josh McDaniel para los Denver Broncos?	51-17	2-17	45-17	11-17
+194903	Fútbol Americano	3	¿Quién fue el Jugador Más Valioso del Super Bowl XXIV entre los San Francisco 49ers y los Denver Broncos?	Jerry Rice	Richard Dent	Doug Williams	Joe Montana
+69477	Fútbol Americano	3	¿Quién fue el socio del locutor Al Michaels para el Super Bowl XXXIV en ABC?	Dick Enberg	John Madden	Phil Simms	Boomer Esiason
+289017	Fútbol Americano	3	¿Qué jugador anotó los primeros puntos en la historia del Super Bowl?	Elijah Pitts	Mike Garrett	Don Chandler	Max McGee
+199050	Fútbol Americano	3	¿Qué mariscal de campo fue el primero en llevar a los Vaqueros al Super Bowl?	Don Meredith	Danny White	Roger Staubach	Craig Morton
+327079	Fútbol Americano	3	¿Quién es el primer equipo de la NFL en ganar dos Super Bowls consecutivos dos veces?	Vaqueros de Dallas	Vikingos de Minnesota	49ers de San Francisco	Acereros de Pittsburgh
+410212	Fútbol Americano	3	¿Qué jugador destacado de Ram jugó una vez en un Super Bowl con una pierna rota?	Dieter Brock	Kyle Turley	Isaac Bruce	Jack Youngblood
+352387	Fútbol Americano	3	¿En qué año apareció ZZ Top en el espectáculo de medio tiempo del Super Bowl?	1995	1975	1999	1997
+199886	Fútbol Americano	3	¿A qué escuela asistió el QB de la NFL Michael Vick?	Virginia	Estado de Florida	Estado de Ohio	Virginia Tech
+514697	Fútbol Americano	3	¿Los New England Patriots perdieron su selección de primera ronda de 2008 como resultado de qué escándalo?	Controversia de Chris Henry	Boston trasero	Súper equivocado	Spygate
+259133	Fútbol Americano	3	¿Qué equipo derrotó a los Bills en el Super Bowl XXVI?	Caerneros de Los Ángeles	Halcones de atlanta	Jets de Nueva York	Pieles Rojas de Washington
+352422	Fútbol Americano	3	En 2012, David Akers empató el récord de la NFL por el gol de campo más largo, ¿cuánto tiempo fue?	53 yardas	69 yardas	58 yardas	63 yardas
+87629	Fútbol Americano	3	¿Qué equipo jugó Denver en el último partido de fútbol americano en Mile High Stadium?	Chorros	Asaltantes	Jefes	49ers
+259139	Fútbol Americano	3	¿Cuál fue el marcador en el medio tiempo del Super Bowl XXXIV entre los Rams y los Titans?	Carneros - 16, Titanes - 0	Carneros - 9, Titanes - 6	Carneros - 16, Titanes - 6	Carneros - 9, Titanes - 0
+501489	Fútbol Americano	3	¿Qué equipo perdió más partidos en la temporada 2019 de la NFL?	Halcones de atlanta	Potros de Indianápolis	Jets de Nueva York	Panteras de Carolina
+491547	Fútbol Americano	3	¿Cuántos touchdowns lanzó Russell Wilson de Seattle en la temporada regular de 2013?	46	19	34	26
+519680	Fútbol Americano	3	¿Quién perdió el primer Super Bowl?	Atlanta	Nueva Orleans	Fénix	Ciudad de Kansas
+289229	Fútbol Americano	3	¿Qué entrenador en jefe de los Buffalo Bills los llevó a sus primeras cuatro apariciones en el Super Bowl?	Chuck Knox	Wade Phillips	Lou Saban	Marv Levy
+119942	Fútbol Americano	3	¿Qué equipo en los 16 juegos de 2011 corrió para un total de 1558 yardas y tuvo 12 touchdowns terrestres?	Asaltantes de Oakland	Jets de Nueva York	Delfines de Miami	Empacadores de Green Bay
+199882	Fútbol Americano	3	¿Quiénes son los dos primeros jugadores de la NFL en ganar MVP consecutivos?	Walter Payton y Joe Namath	Steve Young y Jim Brown	Brett Favre y Dan Marino	Joe Montana y Brett Favre
+87772	Fútbol Americano	3	¿Quién firmó un contrato de 2008 con los Asaltantes luego de una victoria en el Super Bowl con los Giants?	Michael Huff	Greg Wesley	DaJuan Morgan	Gibril Wilson
+272376	Fútbol Americano	3	¿Qué personaje interpretó el entrenador Jim Harbaugh en el popular programa de televisión "Salvados por la campana"?	Hermano de Screech	Padre de Screech	Entrenador de Screech	Primo de Screech
+120296	Fútbol Americano	3	¿Quién ganó el premio al Jugador Ofensivo del Año de la AP en la temporada 2011 de la NFL?	Darren McFadden	Arian Foster	Rashard Mendenhall	Drew Brees
+199814	Fútbol Americano	3	¿Para qué se otorga el premio Bronko Nagurski en el fútbol universitario?	El mejor receptor ancho del país	El mejor back defensivo de la nación	Mejor mariscal de campo de la nación	Mejor jugador defensivo de la nación
+2LFN1408	Fútbol Americano	3	En el mismo año que "Spygate", ¿qué premio recibió el entrenador en jefe de los Patriots Bill Belichick?	El premio de la frambuesa	Premio a los tramposos de la NFL	El premio Sneak Of The Year de la NFL	Premio al entrenador del año de la NFL
+502724	Fútbol Americano	3	¿Quién fue el primer jugador en correr 1,000 yardas en el fútbol profesional?	Frank Sinkwich	Bronko Nagurski	Charlie Trippi	Beattie Feathers
+502721	Fútbol Americano	3	El fin de semana de comodines de 2012, RG3 se rompió el ACL y el LCL en una derrota contra quién	Los Empacadores de Green Bay	Los Gigantes de Nueva York	Los Osos de Chicago	Los Seattle Seahawks
+264467	Fútbol Americano	3	¿Qué número de uniforme se retiró Kansas City para el gran Jan Stenerud de la NFL?	2	5	90	3
+502766	Fútbol Americano	3	¿Qué número de uniforme se retiró Cincinnati para el gran Bob Johnson de la NFL?	12	99	45	54
+94184	Fútbol Americano	3	¿Cuántos pases intentó Bob Griese en el Super Bowl VIII?	30	10	42	7
+2LFN1428	Fútbol Americano	3	¿Qué jugador del Super Bowl de 2009 rechazó una invitación a la Casa Blanca?	Ben Roethlisberger	Santonio Holmes	Heath Miller	James Harrison
+357392	Fútbol Americano	3	¿A quién venció Atlanta en el juego de playoffs de comodines de la NFL 2017-18?	Dallas	Nueva Orleans	Carolina	LA Rams
+254230	Fútbol Americano	3	¿Qué equipo perdió más partidos en la temporada 2019 de la NFL?	Caerneros de Los Ángeles	Browns de Cleveland	Osos de Chicago	Bengalíes de Cincinnati
+491420	Fútbol Americano	3	¿A quién contrató Bill Parcells como entrenador en jefe en su primer año en Miami?	Tom Coughlin	Ray Perkins	Sean Payton	Tony Sparano
+289015	Fútbol Americano	3	¿Cuál fue el récord de su equipo en los juegos del Super Bowl iniciados por Terry Bradshaw?	3-0	2-2	0-1	4-0
+523682	Fútbol Americano	3	Rich Gannon comenzó su carrera en la NFL ¿en qué año?	1997	1977	2007	1987
+500892	Fútbol Americano	3	¿En qué escuela jugaba al fútbol TE Kellen Winslow?	California	Vanderbilt	Sureste de california	Misuri
+259336	Fútbol Americano	3	En el Super Bowl del 72, ¿quién capturó a Bob Griese de Miami para una pérdida de 29 yardas?	Chuck Howley	Big Bob Breunig	Lee Roy Jordan	Bob Lilly
+20678	Fútbol Americano	3	¿Qué receptor de la NFL tenía un ojo de cristal?	John Mackey	John Stallworth	Lance Rentzel	Fred Arbanas
+501530	Fútbol Americano	3	Art Shell fue elegido para el Salón de la Fama del Fútbol Americano de qué estado	Misisipí	Florida	Luisiana	Carolina del Sur
+264866	Fútbol Americano	3	¿Qué división de la NFL registró la mayor cantidad de victorias en el Super Bowl hasta 2008?	NFC Oeste	AFC Central	AFC Este	NFC Este
+289341	Fútbol Americano	3	¿Qué ex estrella del fútbol promovió Levitra durante el Super Bowl de 2004?	Joe Montana	Mean Joe Greene	Joe Namath	Mike Ditka
+24762	Fútbol Americano	3	¿Qué entrenador de la NFL fue a Kansas City después de su victoria en el Super Bowl XXXIV y una pausa de un año?	Jack Del Rio	Herman Edwards	Marvin Lewis	Dick Vermeil
+523684	Fútbol Americano	3	¿Quién fue el entrenador de los New York Giants de 2012?	Tommy Tubbervile	Tom Brady	Dan Reeves	Tom Coughlin
+523697	Fútbol Americano	3	¿A quién eligieron los New England Patriots en la primera ronda del Draft de la NFL 2018?	Mason Cole	Justin Jones	J'Mon Moore	Isaiah Wynn
+231895	Fútbol Americano	3	¿Cuántas intercepciones tuvo el Jugador Más Valioso del Super Bowl XIV Terry Bradshaw contra los Rams?	0	1	2	3
+263209	Fútbol Americano	3	¿Dónde se jugó el Super Bowl VIII ganador de Miami?	Miami, Florida	Los Ángeles, California	Tampa Bay, FL	Houston, TX
+410215	Fútbol Americano	3	¿Quién estableció un récord de yardas terrestres contra los Miami Dolphins en un Super Bowl?	OJ Simpson	Roger Craig	Ricky Williams	John Riggins
+502193	Fútbol Americano	3	¿Qué equipo fue el mejor en la NFL en carreras terrestres durante la temporada regular de 2012?	Patriotas	49ers	Leones	Pieles rojas
+82716	Fútbol Americano	3	¿Quién fue el Jugador Más Valioso del Super Bowl 14 entre Pittsburgh Acereros y LA Rams?	John Riggins	Joe Montana	Fred Biletnikoff	Terry Bradshaw
+253967	Fútbol Americano	3	¿Shania Twain actuó en cuál de estos espectáculos de medio tiempo del Super Bowl?	XVIII	XVI	XXX	XXXVII
+416280	Fútbol Americano	3	¿Quién fue el entrenador en jefe de los Oakland Asaltantes en el Super Bowl XV contra los Eagles?	Ryan Magusilak	Al Davis	Concha de arte	Tom Flores
+69459	Fútbol Americano	3	¿Quién fue el Jugador Más Valioso del Super Bowl 10 entre Pittsburgh y Dallas?	Terry Bradshaw	Franco Harris	Roger Staubach	Lynn Swann
+62970	Fútbol Americano	3	¿Qué equipo jugó primero en un Super Bowl?	Washington Pieles Rojas	Vaqueros de Dallas	Delfines de Miami	Vikingos de Minnesota
+519130	Fútbol Americano	3	¿Quién reemplazó a Marty Schottenheimer como entrenador en jefe de los Kansas City Chiefs en 1999?	Dick Vermeil	Andy Reid	Herman Edwards	Gunther Cunningham
+259184	Fútbol Americano	3	Los Giants vencieron a los Bills en el Super Bowl XXV pero perdieron antes, ¿por qué puntuación?	24-20	35-17	20-3	17-13
+259343	Fútbol Americano	3	¿Cuál fue el primer equipo en ganar tres partidos consecutivos como visitante para llegar al Super Bowl?	'64 Jets de Nueva York	'84 Browns de Cleveland	Cargadores de San Diego del 96	Patriotas de Nueva Inglaterra del '85
+519676	Fútbol Americano	3	¿Quién fue el primer jugador defensivo en ganar un premio MVP del Super Bowl?	Richard Dent	Harvey Martin	Larry Brown	Chuck Howley
+507191	Fútbol Americano	3	¿Quién fue el mariscal de campo titular de los Pieles Rojas al comienzo de la temporada 2011?	Oshiomogho Atogwe	Jabar Gaffney	Tyler Polumbus	Rex Grossman
+199037	Fútbol Americano	3	¿A quién vencieron los Denver Broncos en el Super Bowl XXXIII con una puntuación de 34-19?	Empacadores de Green Bay	Vikingos de Minnesota	49ers de San Francisco	Halcones de atlanta
+87785	Fútbol Americano	3	¿Quién fue el primer corredor en acumular 500 recepciones?	Walter Payton	Thurman Thomas	Frank Gifford	Roger Craig
+216431	Fútbol Americano	3	¿Qué equipo derrotó a los Bills en el Super Bowl XXV?	Halcones de atlanta	Leones de Detroit	Santos de Nueva Orleans	Gigantes de Nueva York
+199515	Fútbol Americano	3	¿Qué entrenador de la NFL llevó a los Panthers a un Super Bowl 2 años después de haber ganado 1 juego?	Dick Vermeil	Brian Billick	Mike Mularkey	John Fox
+291776	Fútbol Americano	3	¿A quién eligieron los Chicago Bears en la primera ronda del Draft de la NFL 2018?	Braden Smith	BJ Hill	Anthony Averett	Roquan Smith
+357667	Fútbol Americano	3	¿Los Chicago Bears vencieron a los New England Patriots en el Super Bowl XX por qué puntuación?	39 hasta 20	49 hasta 26	31 al 19	46 hasta 10
+502596	Fútbol Americano	3	¿Cuál fue el tope salarial por equipo de la temporada 2014 de la NFL?	$ 33 millones	$ 223 Millones	$ 188 millones	$ 133 millones
+507194	Fútbol Americano	3	¿En qué año fue reclutado Clay Matthews para la NFL?	2008	2006	2010	2009
+507475	Fútbol Americano	3	¿Quién se convirtió en el nuevo coordinador ofensivo de los Giants durante la temporada baja de 2014?	Nathaniel Hackett	Bill Lazor	Hue Jackson	Ben McAdoo
+88SU909	Fútbol Americano	3	¿Qué entrenador de fútbol americano universitario fue el más rápido en tener más de 300 victorias?	Knute Rockne	Steve Spurrier	Oso bryant	Joe Paterno
+264518	Fútbol Americano	3	¿Cuántos anillos de Super Bowl tiene Charles Haley?	0	6	7	5
+199053	Fútbol Americano	3	¿En cuántos Super Bowls jugaron los Acereros de Pittsburgh entre 1990 y 1999?	Dos	Tres	Ninguno	Uno
+500894	Fútbol Americano	3	¿Qué receptor abierto se reincorporó a los Giants para la temporada 2014?	David Tyree	Hakeem Nicks	Jeremy Shockey	Mario Manningham
+523680	Fútbol Americano	3	¿A qué Pittsburgh Steeler se le retiró su número antes de 2005?	Mean Joe Greene	Terry Bradshaw	Lynn Swann	Ernie Stautner
+523693	Fútbol Americano	3	¿En qué año se fusionaron oficialmente la AFL y la NFL?	Nunca	1962	1967	1970
+84591	Fútbol Americano	3	¿En qué año ganó Simeon Rice su primer anillo de Super Bowl?	1996	1999	2005	2002
+18020	Fútbol Americano	3	¿Cuántas veces ganaron los Asaltantes de Los Ángeles / Oakland el Super Bowl en el siglo XX?	7 veces	9 veces	5 veces	3 veces
+502560	Fútbol Americano	3	¿Cuál fue el último partido en casa de John Elway en su carrera?	Enero de 1999 comodín	Último partido de la temporada regular 2000	Super Bowl XXXIII	Campeonato de la AFC de enero de 1999
+291584	Fútbol Americano	3	¿Cuántas intercepciones lanzó Cam Newton en el Super Bowl 50 jugado en 2016?	5	4	0	1
+2499	Fútbol Americano	3	¿Dónde se jugó el Super Bowl I?	Estadio gigante	Estadio Qualcomm, San Diego	Louisiana Superdome, Nueva Orleans	Coliseo Conmemorativo de Los Ángeles
+288415	Fútbol Americano	3	¿Cuál de estos jugadores defensivos de los 49ers no fue un Pro-Bowler en la temporada del Super Bowl de 1994?	Deion Sanders	Merton Hanks	Dana Stubblefield	Bryant Young
+357397	Fútbol Americano	3	¿A qué universidad asistió el QB de la NFL Jay Cutler?	Tennesse	Idaho	Bowling Green	Vanderbilt
+20733	Fútbol Americano	3	¿Qué compañeros de equipo corrieron para 1000 yardas en la misma temporada?	Marcus Allen y Bo Jackson	Priest Holmes, Larry Johnson	Dalton Hilliard, Rueben Mayes	Kevin Mack, Ernest Byner
+26860	Fútbol Americano	3	¿Qué Denver Bronco ganó el premio al Jugador Más Valioso del Super Bowl en 1998?	Marcus Nash	Bubby Brister	Terrell Davis	John Elway
+361615	Fútbol Americano	3	¿A quién eligieron los Green Bay Packers en la primera ronda del Draft de la NFL 2018?	Christian Kirk	Verde Rasheem	Calle Kentavius	Jaire alexander
+519681	Fútbol Americano	3	¿Quién fue la primera persona en ganar 5 anillos de Super Bowl como jugador?	Jim Kelly	Roger Staubach	Joe Montana	Charles Haley
+292889	Fútbol Americano	3	¿Cuál de estos equipos de la NFL no anotó un touchdown mientras jugaba en el Super Bowl VI?	Vikingos de Minnesota	Patriotas de Nueva Inglaterra	Águilas de Filadelfia	Delfines de Miami
+287462	Fútbol Americano	3	¿Cuál de estos mariscales de campo de la NFL ha ganado cuatro Super Bowls?	John Elway	Troy Aikman	Joe Namath	Terry Bradshaw
+508331	Fútbol Americano	3	¿Quién era el entrenador en jefe de los San Francisco 49ers al comienzo de la temporada 2010 de la NFL?	Jim Harbaugh	Eric Studesville	Tom Cable	Mike Singletary
+502161	Fútbol Americano	3	En 2002, Tom Coughlin fue despedido como entrenador en jefe de ¿qué equipo de la NFL?	Los Oakland Asaltantes	Los Acereros de Pittsburgh	Los Broncos de Denver	Los Jaguares de Jacksonville
+392478	Fútbol Americano	3	¿Qué entrenador de la NFL fue un miembro lesionado de los Bears de 1985, ganadores del Super Bowl XX?	Bruce Coslet	Bill Cowher	Mike Shanahan	Jeff Fisher
+217524	Fútbol Americano	3	¿Qué hecho del Super Bowl vincula a Chuck Howley, Harvey Martin, Randy White y Larry Brown?	Todos ganaron los premios MVP del Super Bowl	Todos jugaron defensa en un Super Bowl	Todos jugaron para los Vaqueros en un Super Bowl	Todas estas opciones
+532627	Fútbol Americano	3	¿Qué equipo contrató a Kliff Kingsbury como su entrenador en jefe en 2019?	Buffalo Bills	Águilas de Filadelfia	Panteras de Carolina	Cardenales de Arizona
+347551	Fútbol Americano	3	¿Quién fue el primer equipo comodín de la NFL en ganar un Super Bowl y a quién vencieron?	Forty Niners vencieron a los Bengalíes	NY Jets vencen a los NY Giants	Los asaltantes vencieron a los vikingos	Los asaltantes vencieron a las águilas
+59842	Fútbol Americano	3	¿Quién cantó el Himno Nacional en el Pro Player Stadium para el Super Bowl XXXIII?	Don Johnson	LL Cool J	Lenny Kravitz	Cher
+272375	Fútbol Americano	3	¿En cuántos equipos de la NFL jugó Peyton Manning en su carrera?	Seis	Cuatro	Uno	Dos
+42773	Fútbol Americano	3	¿Qué equipo ganó cuatro Super Bowls en seis años durante los años 70 y 80?	49ers de San Francisco	Vaqueros de Dallas	Asaltantes de Oakland	Acereros de Pittsburgh
+507522	Fútbol Americano	3	¿Quién firmó un contrato por dos años y $ 12 millones con los Denver Broncos el 13 de marzo de 2013?	Peyton Manning	Quentin Jammer	Justicia de Winston	Wes Welker
+12526	Fútbol Americano	3	¿Cómo anotaron los Giants su único touchdown del Super Bowl XXXV?	Una carrera corta	Un retorno de intercepción	Ave María	Un regreso de patada inicial
+293223	Fútbol Americano	3	¿Qué jugador de fútbol estableció por primera vez un récord de ir a la mayor cantidad de Super Bowls seguidos?	Bart Starr	Troy Aikman	Jim Kelly	Gale Gilbert
+27231	Fútbol Americano	3	¿Eli Manning ganó su primer MVP del Super Bowl por llevar a los Giants a la victoria sobre qué equipo?	Delfines de Miami	Asaltantes de Oakland	Broncos de Denver	Patriotas de Nueva Inglaterra
+458139	Fútbol Americano	3	¿Cuántas yardas lanzó Peyton Manning en el Super Bowl XLVIII en 2014?	401 yardas	123 yardas	200 yardas	280 yardas
+515455	Fútbol Americano	3	¿A quién eligieron los Indianapolis Colts en la primera ronda del Draft de la NFL 2018?	Nick Chubb	Chad Thomas	Dorance Armstrong	Quenton Nelson
+86603	Fútbol Americano	3	¿Qué equipo derrotó a los Bills en el Super Bowl XXVII?	Potros de Indianápolis	Broncos de Denver	Delfines de Miami	Vaqueros de Dallas
+61655	Fútbol Americano	3	¿En cuántos Super Bowls jugó Bengal Cris Collinsworth?	Cero	Cinco	Uno	Dos
+89865	Fútbol Americano	3	¿Cuántas capturas tuvo Tedy Bruschi con los Patriots en el Super Bowl XXXI contra Green Bay?	0 sacos	1 saco	3 sacos	2 sacos
+293132	Fútbol Americano	3	¿Qué equipo ganó primero un Super Bowl?	Colts de Baltimore	Vaqueros de Dallas	Jefes de Kansas City	Jets de Nueva York
+502553	Fútbol Americano	3	¿Drew Brees rompió cuál de los récords de estos mariscales de campo de 48 juegos consecutivos con un touchdown?	Dan Marino	Steve Young	John Elway	Johnny Unitas
+2LFN1380	Fútbol Americano	3	¿Cuántos puntos permitió Green Bay en la temporada 2019?	177	379	227	313
+490894	Fútbol Americano	3	¿Qué mariscal de campo lideró la liga en yardas aéreas durante la temporada 2005 de la NFL?	Trent Green	Drew Bledsoe	Peyton Manning	Tom Brady
+308623	Fútbol Americano	3	¿Quién ganó más yardas por tierra durante el Super Bowl XXX de 1996?	Barry Foster	Kordell Stewart	Emmitt Smith	Bam Morris
+96135	Fútbol Americano	3	¿Quién fue nombrado MVP del Super Bowl 47?	Ray Lewis	Ray Rice	Ed Reed	Joe Flacco
+506355	Fútbol Americano	3	¿Qué dos equipos de la NFL terminaron la temporada 2012-13 de la NFL con un récord de 2-14?	Jaguares y leones	Jefes y asaltantes	Jefes y águilas	Jefes y jaguares
+491419	Fútbol Americano	3	¿Qué jugador terminó la carrera de Darryl Stingley en la NFL?	Dick Butkus	Dick "Night Train" Lan	Lester Hayes	Jack Tatum
+357665	Fútbol Americano	3	¿Quién fue el Jugador Más Valioso del Super Bowl XVIII entre LA Asaltantes y Washington Pieles Rojas?	Phil Simms	Terry Bradshaw	Doug Williams	Marcus Allen
+199813	Fútbol Americano	3	¿Quién lideró la NFL en índice de mariscal de campo durante la temporada de 1995?	Brett Favre	Dan Marino	Steve Young	Jim Harbaugh
+490884	Fútbol Americano	3	¿Quién tuvo la mayor cantidad de yardas aéreas en la NFL en 1999?	Brad Johnson, Pieles Rojas	Kurt Warner, Carneros	Elvis Grbac, Jefes	Steve Beurlein, Panteras
+519678	Fútbol Americano	3	¿Quién fue el mariscal de campo de los New York Giants durante su victoria en el Super Bowl XXV?	Phil Simms	Todd Blackledge	Matt Cavanaugh	Jeff Hostetler
+506358	Fútbol Americano	3	¿Qué seguridad del New England Patriot fue apodado "Hot Rod"?	Brandon Meriweather	James Sanders	Tedy Bruschi	Rodney Harrison
+259132	Fútbol Americano	3	¿Quién fue el "doble golpe" de los Cincinnati Bengalíes en su Super Bowl de 1989?	Boomer Esiason y Eddie Brown	James Brooks y Stanford Jennings	Boomer Esiason y Ickey Woods	Ickey Woods y James Brooks
+507608	Fútbol Americano	3	¿Quién hizo dos intercepciones en el Super Bowl XXX que sellaron una victoria 27-17 para los Vaqueros de Dallas?	Deion Sanders	Darren Woodson	Greg Ellis	Larry Brown
+199024	Fútbol Americano	3	¿Cuántos puntos anotaron los Eagles en el cuarto cuarto del Super Bowl LII jugado en febrero de 2018?	3 puntos	21 puntos	0 puntos	12 puntos
+79560	Fútbol Americano	3	En el Super Bowl XXXVII los Buccaneers devolvieron cuántas intercepciones para touchdowns	1	0	4	3
+10088	Fútbol Americano	3	¿Qué infame entrenador de la NFL fue citado diciendo "Me encanta que me subestimen"?	Bill Parcells	Bill Belichick	Andy Reid	Jim Harbaugh
+194477	Fútbol Americano	3	¿Con quién perdieron los New England Patriots en el Super Bowl XXXI?	Los Carneros de St. Louis	Los Cargadores de San Diego	Los Vaqueros de Dallas	Los empacadores de Green Bay
+199125	Fútbol Americano	3	¿Nick Kaczur comenzó en qué posición para los New England Patriots en el Super Bowl XLII?	Entrada izquierda	Final dificil	Lineman de preparación	Entrada derecha
+33161	Fútbol Americano	3	¿Cuál fue el récord de septiembre de los Minnesota Vikings en las temporadas del Super Bowl 1969-76?	9-14	17-4	20-0-1	17-3-1
+523699	Fútbol Americano	3	¿Qué equipo de la NFL usó parches en 2014 con las iniciales del difunto propietario William Clay Ford, Sr.?	Chorros	Patriotas	halcones Marinos	Leones
+507189	Fútbol Americano	3	¿Qué equipo perdió más partidos en la temporada 2019 de la NFL?	Browns de Cleveland	Gigantes de Nueva York	Leones de Detroit	Pieles Rojas de Washington
+312767	Fútbol Americano	3	NY Giants fue el equipo perdedor en el Super Bowl XXXV, ¿cuál fue el puntaje final del juego?	26 al 21	32 hasta 14	31 al 19	34 hasta 7
+289014	Fútbol Americano	3	¿Cuál de estos entrenadores ganó más Super Bowls?	John Madden	Tom Landry	Vince Lombardi	Bill Walsh
+502602	Fútbol Americano	3	¿Cuántos años dirigió Ray Rhodes a los Packers?	12	7	5	1
+514491	Fútbol Americano	3	¿Qué uniforme se retiraron los Arizona Cardinals para el gran Marshall Goldberg de la NFL?	# 11	# 88	# 77	# 99
+259342	Fútbol Americano	3	¿Cuál de estos jugadores fue el mariscal de campo más joven en ser el Jugador Más Valioso y ganar el Super Bowl?	John Elway	Drew Bledsoe	Brett Favre	Tom Brady
+199834	Fútbol Americano	3	¿Qué novato abrió 16 juegos para los Vaqueros en 2013-14?	Brian Waters	Doug Free	Ronald Leary	Travis Frederick
+507510	Fútbol Americano	3	¿Quién ganó el premio AP Comeback Player of the Year para la temporada 2017 de la NFL?	Carson Wentz	JJ Watt	Aaron Donald	Keenan Allen
+49601	Fútbol Americano	3	¿Quién fue el coordinador defensivo de los Vaqueros para la temporada 2013-14?	Jerome Henderson	Gary Brown	Derek Dooley	Monte Kiffin
+251494	Fútbol Americano	3	¿Se creó, filmó y emitió el anuncio más rápido jamás producido, durante qué Super Bowl?	XVI	XXIV	XXX	XXVII
+502561	Fútbol Americano	3	¿Qué entrenador en jefe tuvo una disputa con el mariscal de campo Vince Young que llevó a su despido?	Mike Munchak	Pat Shurmur	John Fox	Jeff Fisher
+259218	Fútbol Americano	3	¿Quién ganó el campeonato de la NFL más desigual de la historia (73-0)?	Pieles Rojas de Washington	Acereros de Pittsburgh	Vaqueros de Dallas	Osos de Chicago
+72307	Fútbol Americano	3	¿A quién derrotaron los Acereros en el Campeonato de la AFC para avanzar a Super Bowls XIII y XIV?	Asaltantes de Oakland	Broncos de Denver	Delfines de Miami	Engrasadores de Houston
+87626	Fútbol Americano	3	En la temporada 2012, Adrian Peterson se quedó a solo nueve yardas del récord de yardas terrestres de todos los tiempos en una temporada de quién.	OJ Simpson	Emmitt Smith	Barry Sanders	Eric Dickerson
+199118	Fútbol Americano	3	¿Qué equipo estableció un récord de más puntos anotados en un cuarto a los 35 en el Super Bowl XXII?	Gigantes	Delfines	Acereros	Pieles rojas
+76935	Fútbol Americano	3	¿A quién vencieron los 49ers 55-10 en el Super Bowl que se jugó el Super Bowl XXIV el 28 de enero de 1990?	Vaqueros	Asaltantes	Águilas	Broncos
+272269	Fútbol Americano	3	¿Quién fue nombrado Entrenador del Año de la NFL en 2004?	Tony Dungy	John Fox	Dan Reeves	Marty Schottenheimer
+321046	Fútbol Americano	3	¿Qué equipo nunca había perdido un Super Bowl hasta que perdió uno en los 90?	Carneros de St. Louis	Browns de Cleveland	Vaqueros de Dallas	Acereros de Pittsburgh
+289389	Fútbol Americano	3	¿Qué superestrella de la NFL fue seleccionada en 1999 como la más alta de estos cuatro jugadores?	Rickey Williams	Champ Bailey	Daunte Culpepper	Edgerrin James
+264708	Fútbol Americano	3	¿Cuántas yardas lanzó McNabb de Eagle en el Super Bowl XXXIX?	230 yardas	412 yardas	123 yardas	357 yardas
+186257	Fútbol Americano	3	¿Cuánto tiempo duró el touchdown de DeShaun Foster en el Super Bowl XXXVIII?	19 yardas	49 yardas	73 yardas	33 yardas
+527672	Fútbol Americano	3	¿Cuántas yardas es la penalización en la NFL por interferencia de recepción justa?	Penalización de cinco yardas	Penalización de veinte yardas	Penalización de diez yardas	Penalización de quince yardas
+258038	Fútbol Americano	3	¿Cuál fue el marcador final del Super Bowl el 3 de febrero de 2008?	10-3	10-7	10-20	17-14
+291626	Fútbol Americano	3	¿En cuál de estas apariciones en el Super Bowl realmente Denver anotó los primeros puntos?	Vs. Green Bay XXXII	Vs. Atlanta XXXII	Vs. Dallas XII	Vs. Washington XXII
+499S620	Fútbol Americano	3	¿Quién es el gerente general de los Saints que fue suspendido por 8 juegos en la temporada 2012-13?	Gregg Williams	Joe Vitt	Sean Payton	Mickey Loomis
+49457	Fútbol Americano	3	¿Quién de los siguientes tiene más anillos de Super Bowl?	OJ Simpson	Troy Aikman	Steve Young	Joe Montana
+309362	Fútbol Americano	3	¿Cuántas yardas por tierra tuvieron los Miami Dolphins en el Super Bowl del 20 de enero de 1985?	125 yardas	2 yardas	213 yardas	25 yardas
+12521	Fútbol Americano	3	¿Qué receptor de los Vaqueros del siglo XX tuvo solo una recepción para un TD del Super Bowl?	Billy Parks	Charles McKee	Jimmy Harris	Percy Howard
+8281	Fútbol Americano	3	¿Cuántos puntos se anotaron en el Super Bowl IX entre los Minnesota Vikings y los Acereros?	28	26	24	22
+506362	Fútbol Americano	3	¿En qué año se produjo el primer juego de "John Madden Football" en Super Nintendo?	1994	1993	1991	1992
+519679	Fútbol Americano	3	¿Después de qué temporada antes de 2007 jugaron por última vez los New York Giants en el Super Bowl?	1990	1986	1997	2000
+503079	Fútbol Americano	3	¿De qué equipo se convirtió Jim Caldwell en el entrenador en jefe en 2014?	Patriotas	halcones Marinos	Broncos	Leones
+258079	Fútbol Americano	3	¿En qué ciudad los Asaltantes nunca jugaron un Super Bowl?	Nueva Orleans	Tampa, Florida	San Diego, California	Tempe, Arizona
+199147	Fútbol Americano	3	¿Quién fue el árbitro del Super Bowl LIII jugado el 3 de febrero de 2019?	Joe Perry	Ed Werder	Steve Zimmer	John Parry
+61629	Fútbol Americano	3	¿Cuál fue el marcador en el medio tiempo entre los Vaqueros & Bills en el Super Bowl XXVIII?	Vaqueros 27, Bills 3	Bills 13, Vaqueros 0	Vaqueros 20, bills 3	Bills 13, Vaqueros 6
+199066	Fútbol Americano	3	¿Qué mariscal de campo llevó a los 49ers de San Francisco al Super Bowl de 2013?	Steve Young	Joe Montana	Alex Smith	Colin Kaepernick
+19SU2014	Fútbol Americano	3	¿Marcus Allen fue el Jugador Más Valioso de qué Super Bowl?	XV	XVI	XX	XVIII
+259393	Fútbol Americano	3	¿Qué número lleva el receptor abierto Adam Thielen para los Vikings 2018?	# 11	# 33	# 25	# 19
+104091	Fútbol Americano	3	¿Qué número de uniforme se retiró San Diego para el gran Dan Fouts de la NFL?	# 55	# 12	# 1	# 14
+502790	Fútbol Americano	3	¿Cuáles de las siguientes parejas de la NFL o ex-NFL eran hermanos?	Brian y Sean Dawkins	Jason y Warrick Dunn	Ken y Nat Dorsey	Bennie y Brian Blades
+199826	Fútbol Americano	3	¿Qué equipo ganó 12 juegos y terminó primero en la NFL AFC West para la temporada 2014?	Titanes	Cargadores	Asaltantes	Broncos
+272383	Fútbol Americano	3	¿Cuántas yardas corrió Marshawn Lynch durante la temporada regular de 2013?	1657 Yardas	1057 yardas	957 yardas	1257 yardas
+2LFN1370	Fútbol Americano	3	¿Quién ganó el premio AP Defensive Rookie of the Year en la temporada 2017 de la NFL?	Caza de Kareem	Desmond King	Alvin Kamara	Marshon Lattimore
+411384	Fútbol Americano	3	¿A qué miembro de la familia de los Kansas City Chiefs se le atribuye haber acuñado el término "Super Bowl"?	Hank Stram	Len Dawson	Carl Peterson	Lamar Hunt
+357273	Fútbol Americano	3	En 2005, Tom Brady fue el único mariscal de campo titular en ganar 3 Super Bowls antes de ¿qué edad?	31	26	33	28
+357292	Fútbol Americano	3	¿Qué entrenador ganó tres Super Bowls con tres mariscales de campo diferentes?	Mike Ditka	Jimmy Johnson	Don Shula	Joe Gibbs
+199134	Fútbol Americano	3	¿Qué reality show ha comenzado al menos dos temporadas después de la transmisión del Super Bowl?	El aprendiz	La vida surrealista	El mundo real	Sobreviviente
+499S623	Fútbol Americano	3	¿En qué año se presentó el primer Trofeo Heisman?	1958	1929	1960	1935
+272262	Fútbol Americano	3	Eric Mangini fue despedido como entrenador en jefe en 2011 ¿por qué equipo?	Vikingos de Minnesota	Osos de Chicago	Halcones de atlanta	Browns de Cleveland
+231893	Fútbol Americano	3	¿Qué mariscal de campo de los Vaqueros apareció en la mayoría de los juegos del Super Bowl?	Troy Aikman	Don Meredith	Craig Morton	Roger Staubach
+507198	Fútbol Americano	3	¿Quién fue el mariscal de campo titular de los Buffalo Bills al comienzo de la temporada 2011?	Peras Erik	Leodis McKelvin	Naamán Roosevelt	Ryan Fitzpatrick
+217520	Fútbol Americano	3	¿Quién fue el Jugador Más Valioso del Super Bowl VI entre los Vaqueros de Dallas y los Miami Dolphins?	Calvin Hill	Bob Greise	Duane Thomas	Roger Staubach
+352420	Fútbol Americano	3	¿Qué equipo del Super Bowl incluía a Elam, Hilliard y Sharpe?	Delfines de Miami	Patriotas de Nueva Inglaterra	Empacadores de Green Bay	Broncos de Denver
+523681	Fútbol Americano	3	¿El entrenador de qué equipo, Chuck Pagano, luchó contra la leucemia durante 2012, pero regresó para la última semana de la temporada regular?	Gigantes	Delfines	Osos	Vikingos
+199836	Fútbol Americano	3	¿Qué equipo de fútbol entrenó Jim Harbaugh antes de encabezar a los 49ers de San Francisco?	Vaqueros de Dallas	Universidad de Michigan	Cuervos de Baltimore	Stanford
+519677	Fútbol Americano	3	¿Quién ganó el Super Bowl III el 12 de enero de 1969?	Empacadores de Green Bay	Vaqueros de Dallas	Gigantes de Nueva York	Jets de Nueva York
+259402	Fútbol Americano	3	¿Edgerrin James fue el primer corredor de qué escuela en publicar temporadas consecutivas de mil yardas?	Georgia	Alabama	Misisipí	Miami
+506357	Fútbol Americano	3	En 2016, ¿qué equipo incluía al corredor Andre Williams y Melvin Gordon?	Gigantes de Nueva York	Buffalo Bills	Vikingos de Minnesota	Cargadores de Los Ángeles
+199575	Fútbol Americano	3	¿Con quién perdieron los Eagles en el Super Bowl 15?	Facturas	Broncos	Patriotas	Asaltantes
+501038	Fútbol Americano	3	¿Cuál es el nombre de pila de "Bum" Phillips?	Hubert	Homero	Olin	Oail
+293003	Fútbol Americano	3	¿Cuántos puntos del primer cuarto se anotaron en el Super Bowl Patriot vs. Eagles en el 2005?	7	3	14	0
+490891	Fútbol Americano	3	¿Qué receptor estrella de AFL fue apodado improbablemente "Bambi"?	Don Chandler	Nate Smith	Fred Arbanas	Lance Alworth
+11783	Fútbol Americano	3	El Super Bowl LIII en 2019 estableció ¿qué récord del Super Bowl en ese momento?	Juego más corto	Juego más largo	Puntaje más alto	Puntuación más baja
+357103	Fútbol Americano	3	¿Qué ex asistente de los 49er entrenó a los Bengalíes en el Super Bowl XXIII?	Bill Walsh	Dan Reeves	Don Shula	Sam Wyche
+289137	Fútbol Americano	3	¿Qué canción de Police cantaron Sting y Gwen Stefani en el medio tiempo del Super Bowl de 2003?	De Do Do Do, De Da Da Da	Rey del dolor	Cada respiro que tomas	Mensaje en una botella
+191492	Fútbol Americano	3	¿Qué mariscal de campo de la NFL lideró la liga en la temporada regular 2018-19 en yardas por pase?	Jared Goff	Andrew Luck	Alex Smith	Ben Roethlisberger
+215669	Fútbol Americano	3	¿Qué entrenador de los Packer ha ganado más campeonatos de la NFL y / o Super Bowl con un total de 6?	Vince Lombardi	Mike Holmgren	Bart Starr	Lambeau rizado
+508308	Fútbol Americano	3	¿Qué defensa del equipo de la NFL se conocía como "Orange Crush"?	Bucaneros de Tampa Bay	Vaqueros de Dallas	49ers de San Francisco	Broncos de Denver
+65401	Fútbol Americano	3	¿Quién dirigió a los New York Jets a una inesperada victoria en el Super Bowl III?	Hank Stram	Don McCafferty	John Rauch	Weeb Ewbank
+199115	Fútbol Americano	3	¿Qué equipo del Super Bowl incluía a Brown, Sims y Romanowski?	Carneros de St. Louis	Gigantes de Nueva York	Panteras de Carolina	Asaltantes de Oakland
+264437	Fútbol Americano	3	¿Qué equipo fue el primero en perder 4 Super Bowls?	Jefes	vaqueros	Broncos	Vikingos
+11449	Fútbol Americano	3	¿Cuándo se mudaron los Colts a Indianápolis?	1990	1978	1987	1984
+231892	Fútbol Americano	3	¿Quién fue el primer mariscal de campo de la NFL en pasar más de 300 yardas en un juego de Super Bowl?	Roger Staubach	Fran Tarkenton	Joe Namath	Terry Bradshaw
+272388	Fútbol Americano	3	¿Cuál de estos Super Bowls tuvo la mayor asistencia?	Super Bowl I	Super Bowl XXIII	Super Bowl XXXI	Super Bowl XIV
+199895	Fútbol Americano	3	¿Qué equipo hizo que la Oficina de Marcas y Patentes de EE. UU. Invalidara algunas de sus protecciones de marcas registradas en 2014?	Empacadores	Bucs	Gigantes	Pieles rojas
+500886	Fútbol Americano	3	¿Quién fue el Jugador Más Valioso Ofensivo del Campeonato Nacional de Fútbol Americano Universitario 2018?	Calvin Ridley	Riley Ridley	Jake Fromm	Tua Tagovailoa
+508327	Fútbol Americano	3	¿Quién fue el entrenador en jefe perdedor en el Syper Bowl LI jugado en 2017?	Andy Reid	Doug Pederson	Bill Belichick	Dan Quinn
+199052	Fútbol Americano	3	Joe Montana lanzó cinco touchdowns en un Super Bowl de enero de 1990 ¿contra qué equipo?	Bengalíes de Cincinnati	Acereros de Pittsburgh	Rangers de Nueva York	Broncos de Denver
+216451	Fútbol Americano	3	¿Quién venció a los Pittsburgh Acereros en el juego de playoffs Wildcard 2014-15?	Patriotas de Nueva Inglaterra	Leones de Detroit	Potros de Indianápolis	Cuervos de Baltimore
+45917	Fútbol Americano	3	¿Qué equipo llegó casi tarde a un Super Bowl en Detroit debido al mal tiempo?	Águilas de Filadelfia	Bengalíes de Cincinnati	Acereros de Pittsburgh	49ers de San Francisco
+16I555	Fútbol Americano	3	¿Qué Super Bowl se jugó en 1999 entre los Denver Broncos y los Atlanta Falcons?	XXXII	XXXIV	XXXVI	XXXIII
+490892	Fútbol Americano	3	¿Quién anotó la primera conversión de dos puntos en la NFL?	Emmitt Smith	Jeff Blake	Craig Heyward	Tom Tupa
+507613	Fútbol Americano	3	Marshall Faulk fue el primer novato en ganar ¿qué premio de la NFL?	Jugador ofensivo del año	Jugador Más Valioso del Super Bowl	Premio en memoria de Daniel Reeves	Jugador Más Valioso del Pro Bowl
+263700	Fútbol Americano	3	¿En qué equipo jugó Kirk Cousins ​​antes de unirse a los Vikings?	Leones de Detroit	Gigantes de Nueva York	Osos de Chicago	Washington Pieles Rojas
+259355	Fútbol Americano	3	¿Qué equipo derrotaron los Rams en el Juego de Campeonato de la NFC para alcanzar el Super Bowl XXXVI?	Empacadores de Green Bay	Leones de Detroit	49ers de San Francisco	Águilas de Filadelfia
+259179	Fútbol Americano	3	¿Cuántos jugadores fueron al Pro Bowl de los New York Giants 2007 ganadores del Super Bowl?	Tres	Siete	Nueve	Uno
+507175	Fútbol Americano	3	¿A qué universidad "caminó" Louis Oliver?	Miami	Estado de Georgia	Estado de Florida	Florida
+27229	Fútbol Americano	3	En el Super Bowl XXIII, ¿quién atrapó el touchdown ganador del juego de Joe Montana?	Roger Craig	Brent Jones	Jerry Rice	John Taylor
+291569	Fútbol Americano	3	¿Quién fue el primer jugador en registrar un profundo en un Super Bowl?	Bruce Smith	Reggie Harrison	Henry Waechter	Dwight White
+490886	Fútbol Americano	3	¿Robert Griffin III ganó un trofeo Heisman en qué universidad?	Clemson	Virginia	Georgia Tech	Baylor
+416109	Fútbol Americano	3	¿Quién fue el primer corredor en ganar 100 yardas recibiendo en un Super Bowl?	Lawrence McCutcheon	James Brooks	Warrick Dunn	Roger Craig
+25506	Fútbol Americano	3	¿Qué Falcon tuvo 18 acarreos para 96 ​​yardas en el Super Bowl del 98 contra los Broncos?	Andre Rison	Gerald Riggs	William Andrews	Jamal Anderson
+288856	Fútbol Americano	3	¿Qué receptor de los Rams atrapó el TD ganador del juego con solo 1:54 por jugar en el Super Bowl XXXIV?	Torry Holt	Ricky Proehl	Az-Zahir Hakim	Isaac Bruce
+59898	Fútbol Americano	3	Los Kansas City Chiefs vencieron a los Minnesota Vikings en el Super Bowl IV ¿en qué ciudad?	Miami	los Angeles	Minneapolis	Nueva Orleans
+491548	Fútbol Americano	3	¿A quién eligieron los Arizona Cardinals en la primera ronda del Draft de la NFL 2018?	James Daniels	Royce Freeman	Will Dissly	Josh Rosen
+89860	Fútbol Americano	3	¿La lesión de quién permitió a Max McGee convertirse en el héroe del Super Bowl I?	Don Chandler	Ron Kramer	Willie Wood	Boyd Dowler
+515482	Fútbol Americano	3	¿En qué año fue la primera temporada de Terrell Davis como Bronco?	1998	1991	2000	1995
+7W25926	Fútbol Americano	3	¿Qué equipo de la NFL tiene un diseño en un solo lado de su casco?	Santos de Nueva Orleans	Halcones Marinos de Seattle	Potros de Indianápolis	Acereros de Pittsburgh
+259330	Fútbol Americano	3	¿Cuántos Super Bowls ganaron los 49ers de San Francisco con George Seifert como entrenador en jefe?	Ninguno	Uno	Cinco	Dos
+8259	Fútbol Americano	3	¿Qué Steeler sufrió un desgarro en el manguito rotador derecho en agosto antes de la temporada 2013?	LaRod Stephens-Howling	Antonio Brown	Jerricho Cotchery	Plaxico Burress
+259329	Fútbol Americano	3	Carneros de St. Louis perdió en el Super Bowl XXXVI, ¿cuál fue el puntaje final del juego?	27 hasta 10	23 a 7	31 al 19	20 a 17
+66843	Fútbol Americano	3	¿Cuántas yardas corrió Terrell Davis en su primera temporada con los Broncos?	2,008 yardas	317 yardas	711 yardas	1,117 yardas
+519674	Fútbol Americano	3	¿Qué jugador informó que perdió $ 67,050 en joyas mientras estaba en Detroit para el Super Bowl XL?	Kimo Von Oelhoffen	Barrio de Hines	Ben Roethlisberger	Jerome Bettis
+79561	Fútbol Americano	3	Cuando los Denver Broncos perdieron el Super Bowl XXIV ante los 49ers, ¿cuál fue el puntaje final?	34 hasta 19	23 hasta 16	27 hasta 17	55 hasta 10
+185805	Fútbol Americano	3	¿El gran Earl Campbell de los Houston Oilers jugó la última temporada y media de su carrera con qué equipo?	Washington Pieles Rojas	Caerneros de Los Ángeles	Bucaneros de Tampa Bay	Santos de Nueva Orleans
+259189	Fútbol Americano	3	¿Quién fue el único Green Bay Packer en interceptar a John Elway en el Super Bowl XXXII?	Mayordomo de Leroy	Doug Evans	George Koonce	Eugene Robinson
+199121	Fútbol Americano	3	De las 22 tacleadas que tuvo Lofa Tatupu en la postemporada del 2005, ¿cuántas fueron en el Super Bowl XL?	Seis	Quince	Tres	Nueve
+59749	Fútbol Americano	3	¿Qué dos equipos compitieron en el Super Bowl 50?	Carneros y Broncos	Halcones y Broncos	Vaqueros y Bills	Panteras y Broncos
+452445	Fútbol Americano	3	¿Quién dirigió a los Washington Pieles Rojas a las victorias en los Super Bowls 17, 22 y 26?	Tom Landry	Norv Turner	Sammy Baugh	Joe Gibbs
+304281	Fútbol Americano	3	¿Para qué se otorga el premio Davey O'Brien en el fútbol universitario?	Mejor jugador de la División III	Entrenador del año I-AA	Mejor jugador de equipos especiales de la nación	Mejor mariscal de campo de la nación
+19533	Fútbol Americano	3	¿Qué futuro entrenador fue el principal receptor en el Super Bowl V?	Ray Rhodes	Mike Ditka	Tony Dungy	Dan Reeves
+289143	Fútbol Americano	3	¿Qué equipo y pateador es famoso por una amplia patada derecha contra los Giants en un Super Bowl?	Bill Pearse / Jets de Nueva York	Steve Christie / Buffalo Bills	Mark Mosely / Pieles Rojas de Washington	Scott Norwood /Buffalo Bills
+11784	Fútbol Americano	3	¿En qué estado se llevó a cabo el Super Bowl XLII para concluir la temporada 2007 de la NFL?	California	Pensilvania	Texas	Arizona
+70299	Fútbol Americano	3	¿Quién fue el mariscal de campo suplente de los Baltimore Colts en el Super Bowl III?	Bert Jones	Earl Morall	Ray Perkins	Johnny Unitas
+199819	Fútbol Americano	3	¿Por qué jugador de Los Angeles Rams se retiró el número 74?	Eric Dickerson	Jackie Slater	Jack Youngblood	Merlín Olsen
+120290	Fútbol Americano	3	¿Qué equipo de la NFL terminó la temporada 2017 con seis victorias y diez derrotas?	Cuervos de Baltimore	Buffalo Bills	Browns de Cleveland	Delfines de Miami
+8288	Fútbol Americano	3	¿Alan Page fue el ganador inaugural de qué premio?	Trofeo Heisman	Premio Jim Brown	Jugador ofensivo del año	Jugador defensivo del año de la NFL
+65393	Fútbol Americano	3	¿Quién anotó el primer touchdown para los Buffalo Bills en su primera aparición en el Super Bowl?	Thurman Thomas	Jim Kelly	Jim Nestico	Don Smith
+79562	Fútbol Americano	3	¿Quién ganó el Super Bowl XX?	Washington Pieles Rojas	Jefes de Kansas City	49ers de San Francisco	Osos de Chicago
+507502	Fútbol Americano	3	¿A quién eligieron los 49ers de San Francisco en la primera ronda del Draft de la NFL 2018?	Ronald Jones	Fred Warner	Kyzir White	Mike McGlinchey
+514490	Fútbol Americano	3	Michael Strahan fue reclutado por los Giants, ¿de qué universidad?	Florida	Georgia Tech	Clemson	Sur de Texas
+89920	Fútbol Americano	3	¿Qué entrenador en jefe del equipo se zambulló en el lago Erie para la caridad en 2018?	Bengalíes	Osos	Acereros	Marrones
+503078	Fútbol Americano	3	¿Qué equipo del Super Bowl incluía a Smart, Manning y Davis?	Gigantes de Nueva York	Cuervos de Baltimore	Delfines de Miami	Panteras de Carolina
+382393	Fútbol Americano	3	¿Cuántos equipos destinados al Super Bowl entrenó Don Shula antes de retirarse?	5	7	4	6
+259353	Fútbol Americano	3	¿Cuál de los siguientes campeones del Super Bowl tuvo que ganar su juego de campeonato de conferencia en la carretera?	Patriotas de Nueva Inglaterra 2004	1998 Broncos de Denver	1995 Vaqueros de Dallas	Gigantes de Nueva York de 1990
+70298	Fútbol Americano	3	Los Miami Dolphins perdieron el Super Bowl XIX, ¿cuál fue el puntaje final del juego?	24 a 3	39 hasta 20	27 hasta 10	38 hasta 16
+291770	Fútbol Americano	3	¿Qué equipo ganó el Super Bowl en 1995?	Vaqueros de Dallas	Broncos de Denver	Gigantes de Nueva York	49ers de San Francisco
+491413	Fútbol Americano	3	¿Dónde estaba ubicado el Complejo Deportivo Meadowlands?	Hempstead, Long Island	Brooklyn, Nueva York	Atlantic City, Nueva Jersey	East Rutherford, Nueva Jersey
+11463	Fútbol Americano	3	¿Quién actuó en el espectáculo de medio tiempo del Super Bowl en 2019?	Kacey Musgraves	Marilyn Manson	muchachos del callejón	Maroon 5
+59901	Fútbol Americano	3	¿Cuál de estos no fue un corredor del equipo de los Acereros del Super Bowl XXX?	Bam Morris	Ericc Pegram	Fred McAfee	Barry Foster
+199573	Fútbol Americano	3	¿Qué equipo sorprendió a los Minnesota Vikings para ganar el Super Bowl IV?	Jets de Nueva York	Asaltantes de Oakland	Acereros de Pittsburgh	Jefes de Kansas City
+185831	Fútbol Americano	3	De los 5 Super Bowls en los que han estado los 49ers, ¿cuántos han ganado?	Cuatro	Tres	Dos	Cinco
+89863	Fútbol Americano	3	¿En cuál de estos Super Bowl actuó Travis Tritt durante el medio tiempo?	Super Bowl XXV	Super Bowl XX	Super Bowl XXXI	Super Bowl XXVIII
+490888	Fútbol Americano	3	¿Qué ex entrenador en jefe de los Lions se unió al cuerpo técnico de los Vaqueros en 2013-14?	Saltar Peete	Mike Woicik	Leon Lett	Rod Marinelli
+76127	Fútbol Americano	3	En 1978, Bill Belichick fue entrenador asistente de equipos especiales y asistente defensivo de ¿qué equipo de la NFL?	Los Atlanta Falcons	Los Vaqueros de Dallas	Los Gigantes de Nueva York	Los Broncos de Denver
+289222	Fútbol Americano	3	Con todas las apariciones en el Super Bowl, ¿qué equipo de la NFL había anotado la mayor cantidad de puntos en la historia del Super Bowl en 1999?	Washington Pieles Rojas	Delfines de Miami	49ers de San Francisco	Vaqueros de Dallas
+364043	Fútbol Americano	3	¿Quién llevó a los Minnesota Vikings a su primera aparición en el Super Bowl?	Craig Morton	Fran Tarkington	Bud Grant	Joe Kapp
+199863	Fútbol Americano	3	En 2012, Peyton Manning se unió a Dan Marino y ¿qué mariscal de campo se convirtió en el único tres en lanzar 400 touchdowns?	Fran Tarkenton	Steve Young	Don Meredith	Brett Favre
+352390	Fútbol Americano	3	¿Qué equipo que incluía a Johnny Unitas ganó el Super Bowl V?	Oakland	San Francisco	Dallas	Baltimore
+507644	Fútbol Americano	3	¿Quién fue el suplente del mariscal de campo de los Dallas Cowboy Tony Romo en 2012?	Devin Gardner	Brad Johnson	Stephen McGee	Kyle Orton
+457987	Fútbol Americano	3	¿Cuántos puntos se anotaron en el primer cuarto del Super Bowl LIII jugado en 2019?	17	22	4	0
+32546	Fútbol Americano	3	Los Miami Dolphins perdieron en el Super Bowl VI, ¿cuál fue el puntaje final del juego?	23 hasta 16	39 hasta 20	37 hasta 24	24 a 3
+508328	Fútbol Americano	3	Marshawn Lynch es primo de ¿cuál es la primera selección general?	Mario Williams	Cam Newton	Michael Vick	JaMarcus Russell
+499613	Fútbol Americano	3	¿Quién lideró a los Vaqueros con 1471 yardas desde la línea de golpeo en 2013-14?	Terrance Williams	Dez Bryant	Jason Witten	DeMarco Murray
+391776	Fútbol Americano	3	¿Qué ciudad fue sede del Super Bowl en 1995 y 1999?	Nueva Orleans	Tampa	Detroit	Miami
+490873	Fútbol Americano	3	¿Quiénes fueron los dos jugadores seleccionados por Miami en la primera ronda de 1992?	OJ McDuffie y Jon Avery	Karim Abdul Jabbar y OJ McDuffie	Tim Bowens y OJ McDuffie	Marco Coleman y Troy Vincent
+14279	Fútbol Americano	3	¿Qué equipo tuvo un mejor récord de temporada regular que Denver, que ganó el Super Bowl en 1998?	Empacadores de Green Bay	49ers de San Francisco	Halcones de atlanta	Vikingos de Minnesota
+11781	Fútbol Americano	3	¿Quién fue el primer Miami Dolphin en devolver un saque de salida para un touchdown en un Super Bowl?	Jim Kiick	Tony Martin	Jimmy Cefalo	Fulton Walker
+491414	Fútbol Americano	3	¿Qué rival divisional mantuvieron los Vaqueros con 3 puntos durante un juego en 2013-14?	Gigantes de Nueva York	Washington Pieles Rojas	Empacadores de Green Bay	Águilas de Filadelfia
+17885	Fútbol Americano	3	¿La única recepción de qué receptor en el Super Bowl X terminó con él anotando un touchdown?	Charlie Waters	Golden Richards	Jackie Smith	Percy Howard
+507192	Fútbol Americano	3	¿A quién pasó Peyton Manning en 2013 para convertirse en el segundo en yardas aéreas de todos los tiempos?	Brett Favre	Joe Montana	John Elway	Dan Marino
+199876	Fútbol Americano	3	¿Cuántos equipos de la NFL ganaron 13 partidos de temporada regular en 2018?	Uno	Cero	Cinco	Dos
+24393	Fútbol Americano	3	¿La superestrella defensiva Pat Swilling jugó como apoyador para qué equipo de la NFL en 1991?	Vikingos de Minnesota	Cuervos de Baltimore	Acereros de Pittsburgh	Santos de Nueva Orleans
+507183	Fútbol Americano	3	¿Qué equipo de la Liga Nacional de Fútbol seleccionó a John Elway?	Gigantes de Nueva York	Broncos de Denver	Halcones Marinos de Seattle	Colts de Baltimore
+8219	Fútbol Americano	3	¿Qué equipo de la NFL ganó el Super Bowl XLI en 2007?	Osos de Chicago	Patriotas de Nueva Inglaterra	Cargadores de San Diego	Potros de Indianápolis
+272268	Fútbol Americano	3	¿A quién eligieron los Buffalo Bills en la primera ronda del Draft de la NFL 2018?	Josh Jackson	Sam Hubbard	Ito Smith	Tremaine Edmunds
+199131	Fútbol Americano	3	¿Cuál de estos jugadores ha ganado Super Bowls con dos equipos diferentes?	Ricky Proehll	Mike Jones	Amp Lee	Derek Loville
+2391	Fútbol Americano	3	¿Qué equipo en los 16 juegos de 2011 corrió para un total de 2632 yardas y tuvo 11 touchdowns por tierra?	Jaguares de Jacksonville	Bucaneros de Tampa Bay	Jefes de Kansas City	Broncos de Denver
+65398	Fútbol Americano	3	¿Qué Denver Bronco anotó en la primera jugada desde el scrimmage en el Super Bowl XXII?	Mark Jackson	Steve Sewell	Vance Johnson	Ricky Nattiel
+272286	Fútbol Americano	3	En el Super Bowl XXXIV, ¿qué Ram tacleó a Kevin Dyson en la línea de una yarda en la última jugada?	D'marco Farr	Londres Fletcher	Ray Agnew	Mike Jones
+506359	Fútbol Americano	3	¿Quiénes reclutaron los Miami Dolphins en la ronda 1 del Draft de la NFL 2018?	Malik Puta	Christian McCaffrey	Jamal Adams	Minkah Fitzpatrick
+79559	Fútbol Americano	3	Antes de su temporada de Super Bowl de 2000, ¿cuántas temporadas ganadoras tenían los Ravens?	1	2	3	0
+506353	Fútbol Americano	3	¿Qué jugador, en 2012, se convirtió en el primero en la historia de la NFL en devolver tiros para 105 y 108 yardas en una temporada?	Leon Washington	Doug Martin	Adrian Peterson	Jacoby Jones
+263708	Fútbol Americano	3	¿Qué temporada de la NFL comenzó en septiembre de 2017?	76º	49º	83º	98º
+32542	Fútbol Americano	3	¿Quién fue el Jugador Más Valioso del Super Bowl jugado en febrero de 2014?	Zach Miller	Russell Wilson	Peyton Manning	Malcolm Smith
+26033	Fútbol Americano	3	¿Qué actuó Mary Chapin Carpenter en el Super Bowl XXXI en 1997?	El himno nacional	Un número de baile	Una parodia de comedia	Abajo en el giro y grito
+16I178	Fútbol Americano	3	¿Con qué canción abrió Prince durante el espectáculo de medio tiempo del Super Bowl 2007?	Pequeño Corbeta Roja	Lluvia púrpura	A lo largo de la torre de vigilancia	Hagamos locuras
+289335	Fútbol Americano	3	¿A quién jugó la cobertura televisiva al anunciar el juego para el Super Bowl LII?	Sean McDonough	Jim Nantz	Greg Gumbel	Al Michaels
+420222	Fútbol Americano	3	¿Quién estableció un récord de porcentaje de pases completos en un Super Bowl, haciendo 22 de 25 pases?	Terry Bradshaw	Doug Williams	Joe Montana	Phil Simms
+329385	Fútbol Americano	3	¿Cuál fue el primer equipo ganador del Super Bowl en tener un regreso de patada inicial para un touchdown?	2000 Cuervos de Baltimore	Patriotas de Nueva Inglaterra 2003	1994 49ers de San Francisco	1996 Empacadores de Green Bay
+491546	Fútbol Americano	3	¿Qué mariscal de campo seleccionaron los New York Jets sobre Dan Marino en 1983?	Neil O'Donnell	Tony Eason	Vinny Testaverde	Ken O'Brien
+2447	Fútbol Americano	3	¿Cuántos puntos anotó Green Bay en la temporada 2019?	211	281	440	376
+291580	Fútbol Americano	3	¿Quién fue el entrenador del primer equipo de la AFL en ganar el Super Bowl?	Don Shula	Dave Wanninger	Hank Stram	Weeb Ewbank
+272295	Fútbol Americano	3	¿Quién fue el entrenador de mariscales de campo de los Bronco en 2016?	Dave Magazu	Eric Studesville	Sam Garnes	Greg Knapp
+91719	Fútbol Americano	3	¿Cuántos puntos del tercer cuarto le dieron los Broncos a los Pieles Rojas en el Super Bowl XXII?	35	21	19	0
+199135	Fútbol Americano	3	¿Cuántas yardas lanzó Kurt Warner en el Super Bowl XXXIV?	320 yardas	139 yardas	498 Yardas	414 yardas
+500897	Fútbol Americano	3	¿Qué número de uniforme se retiraron los Bears para el gran Brian Piccolo de la NFL?	1	24	55	41
+199149	Fútbol Americano	3	¿A quién venció Dallas 27 a 10 en el Super Bowl XII?	Houston	Miami	Baltimore	Denver
+289138	Fútbol Americano	3	¿Cuál de estos jugadores no ganó varios premios MVP del Super Bowl?	Joe Montana	Terry Bradshaw	Bart Starr	Troy Aikman
+12525	Fútbol Americano	3	¿Qué equipo de la Conferencia de Fútbol Americano se convirtió en el segundo en ganar el Super Bowl?	Asaltantes de Oakland	Vikingos de Minnesota	Acereros de Pittsburgh	Jefes de Kansas City
+98597	Fútbol Americano	3	¿Cuál de estos equipos ganó primero un Super Bowl?	Washington Pieles Rojas	Gigantes de Nueva York	Osos de Chicago	49ers de San Francisco
+243613	Fútbol Americano	3	¿Quién interpretó "The Star-Spangled Banner" en el Super Bowl LIII?	Cardi-B	Dolly Parton	Beyoncé	Gladys Knight
+256307	Fútbol Americano	3	¿Quién fue el mariscal de campo titular de los Browns de Cleveland al comienzo de la temporada 2011?	Artis Hicks	Brian Schaefering	Mohamed Massaquoi	Colt McCoy
+216432	Fútbol Americano	3	Lo cual es cierto sobre el St. Louis Vs. ¿Super Bowl de Tennessee en 2000?	McNair no jugó	Rams tuvo 0 puntos a la mitad	Se jugó en miami	Ningún corredor de 100 yardas
+51s1s840	Fútbol Americano	3	¿Qué mariscal de campo novato llevó a los Seahawks a los playoffs de 2012-2013?	Andrew Luck	Ryan Tannehill	Brandon Weeden	Russell Wilson
+96132	Fútbol Americano	3	¿Qué franquicia de la NFL fue la primera en llegar al Super Bowl con todas las victorias en la carretera?	Los Acereros de Pittsburgh de 2005	Los Buffalo Bills de 1992	Los Oakland Asaltantes de 1980	Los Patriotas de Nueva Inglaterra de 1985
+293032	Fútbol Americano	3	¿Dónde se jugó el Super Bowl XXXI?	Miami	Atlanta	San Francisco	Nueva Orleans
+304294	Fútbol Americano	3	¿Qué elección fue Robert Griffin III en el Draft de la NFL de 2012?	1er	Tercero	Cuarto	2do
+231066	Fútbol Americano	3	¿Qué estadio acogió Super Bowls con una asistencia de más de 100.000 por partido?	Orange Bowl en Miami	Louisiana Superdome en Nueva Orleans	Coliseo Conmemorativo de Los Ángeles	Rose Bowl en Pasadena
+351068	Fútbol Americano	3	¿Cuántas yardas es la penalización en la NFL por ayudar ilegalmente al corredor?	Veinte	Cinco	Quince	Diez

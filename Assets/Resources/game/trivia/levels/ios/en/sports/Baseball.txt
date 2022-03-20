@@ -1,0 +1,951 @@
+FTUX111	Baseball	0	What is it called when you hit a baseball out of the park?	Touchdown	6 pointer	Goal	Homerun
+8E01204	Baseball	1	Between what bases does the shortstop play on the field?	First and Home	First and Second	Third and Home	Second and Third
+FTUX120	Baseball	0	Which of the following is a baseball team?	New England Patriots	Los Angeles Lakers	Dallas Cowboys	Boston Red Sox
+8E01607	Baseball	0	What is the name of the Chicago Cubs stadium?	Dentine Stadium	Bubbletape Stadium	Juicy Fruit Stadium	Wrigley Field
+0DIFSP333	Baseball	0	If the World Series has gone to the very last game, which game in the series has it gotten to?	Game 100	Game 1	Game 33	Game 7
+8E01113	Baseball	0	How many MLB teams play home games in the state of Illinois?	Eight Teams	Six  Teams	None	Two Teams
+0DIFSP325	Baseball	0	What team won the first World Series?	Golden State Warriors	Green Bay Packers	New York Yankees	Boston Pilgrims
+FTUXPIC303	Baseball	0	What do the two rectangles represent?	Dugout	Infield	Foul line	Batter's box
+8E01243	Baseball	0	Which one these teams is in the MLB National League East?	San Francisco Giants	Houston Astros	Cincinnati Reds	NY Mets
+8E01334	Baseball	0	What is another word for the gap between outfielders that a batter tries to hit the ball to?	End Zone	Desert	Desolate	Alley
+0DIFSP22	Baseball	0	What does it mean to steal a base?	Push another player off base	Hide the base	Remove the base from the field	Run to a base a player isn't entitled to
+8E01399	Baseball	0	Who is given the opportunity to bat last in a MLB game?	Team With More Hits	Team With More Losses	Visiting Team	Home Team
+FTUX109	Baseball	0	In baseball, what is the name of the player who squats behind the hitter?	Grabber	Shortstop	Manager	Catcher
+8E01295	Baseball	0	What happens if a batter gets hit by a pitched ball?	They Are Out	Nothing	Gets A Strike	Takes First Base
+0DIFSP30	Baseball	0	The designated hitter hits in place of whom?	Outfielder	Catcher	Third baseman	Pitcher
+FTUX110	Baseball	0	Which player on the baseball field pitches the ball?	Batter	First baseman	Catcher	Pitcher
+8E01542	Baseball	0	What color is the bird in the St. Louis Cardinals logo?	Orange	Forest Green	Black	Cardinal Red
+FTUX108	Baseball	0	What color is a major league baseball?	Brown	Pink	Orange	White
+8E01152	Baseball	0	How many total outfielders are there on the field at one time in a MLB game?	Seven	Two	Five	Three
+56T641	Baseball	0	Which baseball position does not play in the infield?	First Baseman	Catcher	Pitcher	Centerfielder
+FTUX112	Baseball	0	How many outfielder positions are in baseball?	1	6	7	3
+0DIFSP340	Baseball	0	The rivalry between the Boston Red Sox and which New York team has played out in the World Series?	Super Sonics	Oilers	Mavericks	Yankees
+499941	Baseball	0	How many balls does a baseball batter need in order to get walked?	Three	Five	Two	Four
+FTUXPIC305	Baseball	0	What is the purpose of this pole?	Distance marker	Support for stands	To hoist flags	Determines Fair Or Foul
+0DIFSP40	Baseball	0	What is the player who is about to hit the ball called?	MVP	Hit guy	Swinger	Batter
+0DIFSP36	Baseball	0	How many feet away are the bases from each other in the Major Leagues?	10	15	300	90
+8E01321	Baseball	0	How many batters does a pitcher face in a "1-2-3 inning"?	Five Batters	Four Batters	Nine Batters	Three Batters
+FTUX117	Baseball	0	Which of the following is not a position in Baseball?	Pitcher	Catcher	First baseman	Quarterback
+FTUXPIC304	Baseball	0	This area of a baseball field is called what?	Stands	Clubhouse	Outfield	Dugout
+8E01490	Baseball	0	Which of the following is a famous baseball player?	Tony Romo	Tom Brady	Arnold Palmer	David Ortiz
+8E01360	Baseball	0	What is the fence behind homeplate designed to protect spectators called?	Chicken Coop	The Barbed Wall	Goalie Net	Backstop
+8E01477	Baseball	0	What position did Roger Clemens play during his career?	Quarterback	Umpire	Left outfielder	Pitcher
+8E01347	Baseball	0	When a hit fair ball bounces out of the field into the seats how many bases does the batter get?	Four Bases	Five bases	None, the game ends	Two Bases
+499885	Baseball	0	In baseball, which of these is not a way for the batter to get on base?	Walk	Single	Double	Foul Ball
+FTUXPIC301	Baseball	0	What is this player doing?	Pitching	Fielding	Swinging	Bunting
+8E01438	Baseball	0	What is the term for sliding your hands up from the knob end of the bat to get more control?	Fidgeting	Bashing	Slidey trick	Choking Up
+8E01503	Baseball	0	Who became famous as the NY Mets third baseman?	Serena Williams	Usain Bolt	Phil Mickelson	David Wright
+8E01217	Baseball	0	Which one of these teams is in the MLB American League East?	Colorado Rockies	San Diego Padres	Houston Astros	Boston Red Sox
+8E01620	Baseball	0	Which of these takes place near the end of Major League Baseball's season?	March Madness	Aloha Bowl	Coin Toss	NLCS
+0DIFSP335	Baseball	0	Teams that win the World Series typically celebrate how?	Retirement	A trip to Universal Studios	Group painting class	A parade
+0DIFSP328	Baseball	0	Choose the World Series champion:	Joe Montana	Kareem Abdul-Jabbar	Wayne Gretzky	Derek Jeter
+FTUX119	Baseball	0	What is the name of New York's professional baseball team?	New York Steelers	New York Broncos	New York Lakers	New York Yankees
+0DIFSP32	Baseball	0	How many innings are in a professional baseball match?	2	4	1	9
+8E01230	Baseball	0	Which one of these teams is in the MLB American League West?	Chicago Cubs	Atlanta Braves	Boston Red Sox	Oakland Athletics
+0DIFSP33	Baseball	0	Major League Baseball was founded in what year?	1690	1770	1980	1903
+8E01139	Baseball	0	Which of these teams goes by the name of 'Red Sox'?	Kansas City	Oakland	Detroit	Boston
+0DIFSP24	Baseball	0	What is a southpaw?	Gloveless catcher	A kicker	Right handed pitcher	Left handed pitcher
+8E01516	Baseball	0	What team was once known as the Bronx Bombers?	Cincinnati Reds	Boston Red Sox	San Diego Padres	NY Yankees
+0DIFSP324	Baseball	0	What player holds the record for most World Series home runs?	Tom Brady	Aaron Rodgers	Michael Jackson	Mickey Mantle
+8E01191	Baseball	0	Where on a baseball field would you find a pitching rubber?	Next To Third Base	Clubhouse	On Deck Circle	Pitcher's Mound
+8E01594	Baseball	0	What is a capacity crowd for a Rockies game at Coors Stadium?	290,144 Fans	144 Fans	2,144 Fans	50,144 Fans
+499884	Baseball	0	Which of these is a player's position in baseball?	Left Guard	Running Back	Goalie	Right Field
+0DIFSP322	Baseball	0	The first world series was played when?	1989	1812	1976	1903
+FTUXPIC307	Baseball	0	Who is this pitcher, nicknamed "The Big Unit"?	Curt Schilling	Mariano Rivera	Nolan Ryan	Randy Johnson
+0DIFSP323	Baseball	0	In what year was game 3 of the World Series postponed due to an earthquake?	2018	1876	1903	1989
+0DIFSP332	Baseball	0	What team won their first World Series in over 100 years in 2016?	Germany	New England Patriots	Golden State Warriors	Chicago Cubs
+8E01386	Baseball	0	What is the term for a weakly hit fly ball that drops in for a hit between an infielder and an outfielder?	Cheating	Bomberball	Blasterball	Blooper
+8E01256	Baseball	0	Which one these teams is in the MLB National League West?	Baltimore Orioles	Miami Dolphins	NY Mets	LA Dodgers
+FTUXPIC302	Baseball	0	This person is called a(n) what?	Referee	Judge	Scorekeeper	Umpire
+8E01178	Baseball	0	Which of these athletes played baseball for the Boston Red Sox?	Joe Montana	LeBron James	Tom Brady	J.D. Martinez
+FTUX122	Baseball	0	Which of the following is a staple food at a baseball game?	Lasagna	Crab	Sushi	Hot dog
+8E01555	Baseball	0	Which of the following is a famous baseball player?	Muhammad Ali	Maria Sharapova	Michael Phelps	Babe Ruth
+499947	Baseball	0	Foul lines in baseball are usually what color?	Blue	Red	Black	White
+FTUX118	Baseball	0	How many players are on the baseball field at one time during a game?	5	3	2	9
+8E01126	Baseball	0	How many MLB teams play home games in the state of Florida?	Eight Teams	Five Teams	None	Two Teams
+8E01451	Baseball	0	When two base runners attempt to simultaneously steal a base, what is it called?	Double Deal	Double Play	Double Switch	Double Steal
+0DIFSP37	Baseball	0	Baseball is most similar to which other sport?	Soccer	Football	Free running	Cricket
+0DIFSP34	Baseball	0	How many positions are there in baseball in the National League?	5	15	3	9
+8E01282	Baseball	0	Which of these famous athletes is known for hitting a lot of home runs?	Walter Payton	Jim Brown	Kobe Bryant	Hank Aaron
+0DIFSP31	Baseball	0	Which of the following is not a real position in baseball?	Third baseman	Outfielder	Catcher	Goalie
+8E01373	Baseball	0	Which of these counts would the batter be "behind the count"?	3 Balls 0 Strikes	2 Balls 1 Strike	1 Ball 1 Strike	1 Ball 2 Strikes
+56T401	Baseball	0	Which player's position is located behind home plate?	Shortstop	First baseman	Pitcher	Catcher
+8E01425	Baseball	0	What kind of swing is done by stopping before the bat crosses the front of home plate?	Error Swing	Baby Swing	Cheap Swing	Check Swing
+FTUXPIC308	Baseball	0	Who is the baseball legend seen here?	Mickey Mantle	Sandy Koufax	Joe DiMaggio	Babe Ruth
+8E01269	Baseball	0	Which one these teams is in the MLB American League?	Miami Marlins	Washington Nationals	Los Angeles Lakers	NY Yankees
+FTUX107	Baseball	0	What is the wooden stick used to hit a baseball called?	Baseball racket	Baseball club	Baseball stick	Baseball bat
+FTUX124	Baseball	0	Which color is part of the Los Angeles Dodgers uniforms?	Pink	Purple	Green	Blue
+0DIFSP326	Baseball	0	How often does the World Series take place?	Every 7 years	Every month	Every decade	Every year
+0DIFSP338	Baseball	0	What Autumn month does the World Series usually take place in?	May	July	February	October
+0DIFSP29	Baseball	0	How many players play defense on a baseball diamond?	0	3	1	9
+0DIFSP25	Baseball	0	Which of the following is a position in baseball?	Forward	Defense	Sprinter	Catcher
+8E01568	Baseball	0	What position does the winner of the Cy Young Award play?	Wide receiver	Substitute	Left outfielder	Pitcher
+FTUXPIC310	Baseball	0	Where does this player go next?	The hospital	Back to the dugout	Home	First base
+0DIFSP321	Baseball	0	Which sport is played during the World Series?	Cricket	American Football	Soccer	Baseball
+0DIFSP26	Baseball	0	Which is the most common type of pitch thrown in baseball?	Heavy ball	Curveball	Bouncy ball	Fastball
+0DIFSP334	Baseball	0	Where are World Series games played?	New York City	The Moon	Tokyo, Japan	The stadiums of the two teams
+0DIFSP327	Baseball	0	The World Series is played by which two teams?	Best win/loss record	Highest scoring teams	By fan vote	Winners of the American League and National League
+339022	Baseball	0	What is the first name of baseball's Trout?	Alex	Alan	Florence	Mike
+0DIFSP330	Baseball	0	How many games must a team win in order to win the World Series?	51 out of 100 games	1 game	2 out of 3 games	4 out of 7 games
+0DIFSP21	Baseball	0	Which of the following is not a real position in baseball?	First baseman	Shortstop	Pitcher	Quarterback
+FTUX105	Baseball	0	How many bases are there in baseball?	1	7	2	4
+FTUX116	Baseball	0	What is it called when a player loosely holds the bat in front of them to tap the ball?	Foul	Strike	Lazy swing	Bunt
+0DIFSP27	Baseball	0	A baseball field is also known as what?	Base box	Pit stop	Baseball square	Baseball diamond
+FTUXPIC306	Baseball	0	Who is this all-time home run leader?	Mark McGwire	Sammy Sosa	Alex Rodriguez	Barry Bonds
+493961	Baseball	0	In baseball, what is the name of a base hit that goes over the fence without touching the ground?	Double	Fly Out	Bunt	Home Run
+8E01581	Baseball	0	The Yankees play for which state?	Michigan	Nevada	Utah	New York
+FTUXPIC309	Baseball	0	Who is this barrier-breaking baseball hero?	Ernie Banks	Hank Aaron	Willie Mays	Jackie Robinson
+FTUX121	Baseball	0	When a player is safe at home plate, what did they just score?	Touchdown	Yellow card	Trophy	Run
+0DIFSP331	Baseball	0	Which team has won the most World Series?	San Jose Sharks	Brazil	New York Knicks	New York Yankees
+0DIFSP28	Baseball	0	Which of the following is not part of a baseball player's uniform?	Socks	Cleats	Pants	Suspenders
+FTUX115	Baseball	0	What is the position between second base and third base balled?	Outfielder	2.5 baseman	Batter	Shortstop
+FTUX123	Baseball	0	Which of the following is not a famous baseball player?	Babe Ruth	Barry Bonds	Hank Aaron	Kobe Bryant
+493959	Baseball	0	Who is the player that throws the baseball to the batter?	Catcher	Second Baseman	Center Fielder	Pitcher
+8E01464	Baseball	0	Which of the following is a famous baseball player?	Tony Hawk	Tiger Woods	Kobe Bryant	J.D. Martinez
+FTUX106	Baseball	0	A "single" would land a hitter on which base?	Home base	Shortstop	They don't run to a base	First base
+8E01165	Baseball	0	How many runs score on a triple with the bases loaded?	One Run	Five Runs	Seven Runs	Three Runs
+FTUX114	Baseball	0	What is it called when a ball is hit out of bounds?	Bad hit	Homerun	Bunt	Foul
+8E01308	Baseball	0	In what month of the year was the 2019 MLB regular season opening game played?	December	October	It depends on player availability	March
+0DIFSP337	Baseball	0	What usually happens if a World Series game is hit by heavy rain?	They play through it	The stadium deploys a roof	Everyone gets bigger hats to cover themselves	Rain Delay
+494171	Baseball	0	Which Arizona baseball team defeated the New York Yankees in the 2001 World Series?	Rattlers	Cobras	Water Moccasins	Diamondbacks
+0DIFSP329	Baseball	0	What rule, not present in the regular season, is introduced in the World Series?	Everyone must wear helmets	4 outs per inning	9th inning runs count for 2	There is no World Series specific rule
+56T481	Baseball	0	How many outs is a baseball team allowed per inning?	Four	Two	One	Three
+FTUX113	Baseball	0	What do you wear on your hand when playing the field in baseball?	Mittens	Helmet	Puppet	Glove
+0DIFSP39	Baseball	0	What country's first U.S. major league baseball player was Chan-Ho Park?	Canada	Mexico	United States	South Korea
+0DIFSP38	Baseball	0	What is the color of a standard baseball glove?	Yellow	Black	Orange	Brown
+0DIFSP23	Baseball	0	How many runs does a grand slam drive in?	1	2	7	4
+473962	Baseball	0	Most baseball gloves are made of what material?	Wool	Cotton	Vinyl	Leather
+0DIFSP339	Baseball	0	Which of these players holds the record for most runs scored in a world series game?	Muhammad Ali	Kanye West	Jimmy Carter	Babe Ruth
+0DIFSP336	Baseball	0	What is the international youth baseball program that has its own World Series?	Baseball Kids	Teens With Bats	The Chicago White Sox	Little League
+0DIFSP35	Baseball	0	What does DH stand for in baseball?	Duplicate Hits	Destined Hatter	Designer Helmets	Designated Hitter
+8E01529	Baseball	0	What MLB team is based in Kansas City, Missouri?	Lakers	Yankees	Steelers	Royals
+493960	Baseball	1	Justin Verlander led the MLB in which category in 2011 and 2012?	Saves	Wild Pitches	Walks	Strikeouts
+618D224	Baseball	1	Where do the Red Sox play their home games?	Pittsburgh	Atlanta	New Orleans	Boston
+491654	Baseball	1	In baseball, what is the name of the infielder between the second and third basemen?	Left Fielder	Basestop	Left Guard	Shortstop
+198895	Baseball	1	In baseball slang, what is a "pickle"?	Rookie From The Minors	Hidden Ball Trick	Tape Measure Home Run	Player In A Rundown Between Bases
+56T661	Baseball	1	What is the name of an official in baseball?	Referee	Goalkeeper	Linesman	Umpire
+618D230	Baseball	1	Which baseball player is nicknamed "Big Hurt"?	David Ortiz	Bruce Hurst	Frank Howard	Frank Thomas
+1803C233	Baseball	1	What pitching stat is abbreviated with a K?	Walk	Balk	Innings Pitched	Strikeout
+269056	Baseball	1	When Tim Lincecum won the 2009 Cy Young Award what team was he the pitching for?	Chicago	Atlanta	Baltimore	San Francisco
+499869	Baseball	1	What's it called when a pitcher throws to a base when there are base runners?	Walk-off	Stolen Base	Base Throw	Pickoff Attempt
+473856	Baseball	1	What MLB team calls Detroit its home?	Pandas	Bears	White Sox	Tigers
+325904	Baseball	1	What's the maximum number of baseball games in a modern World Series?	5 Games	9 Games	8 Games	7 Games
+493931	Baseball	1	Which city does not have a Major League Baseball team?	Cincinnati	Pittsburgh	Atlanta	Charlotte
+56T866	Baseball	1	Which of these won't get a batter on base?	Walk	Base Hit	Getting Hit With The Pitch	Strikeout
+618D204	Baseball	1	How many Major League Baseball teams did New York City have in 2018?	One	Three	Zero	Two
+511183	Baseball	1	RBI in baseball stands for?	Rest Before Inning	Run By Influence	Real Big Injury	Run Batted In
+302139	Baseball	1	When Clayton Kershaw won the 2011 Cy Young Award what team was he the pitching for?	Toronto	Detroit	Kansas City	Los Angeles
+8E01412	Baseball	1	What is it called when a baserunner is tagged out leading off a base?	Caught Looking	Tag you're it	Got 'em	Picked Off
+12K1349	Baseball	1	Which MLB team's logo features a red-colored letter P?	Pittsburgh Pirates	San Diego Padres	Pasadena Mudskippers	Philadelphia Phillies
+9P31031	Baseball	1	Which team broke the "Curse of the Bambino" with their 2004 World Series win?	Cleveland Indians	Colorado Rockies	Los Angeles Dodgers	Boston Red Sox
+56T581	Baseball	1	Which of these is not a Major League Baseball team?	Phillies	Red Sox	Yankees	Bluejackets
+618D210	Baseball	1	What is the home city of Major League Baseball's Padres?	San Francisco	Phoenix	Pittsburgh	San Diego
+493962	Baseball	1	Ken Griffey, Jr. played for which of these teams in 1997?	Pittsburgh Pirates	St. Louis Cardinals	New York Yankees	Seattle Mariners
+499651	Baseball	1	What is the first name of baseball's Scherzer?	Larry	Jim	Andre	Max
+185634	Baseball	1	Willie Mays is the godfather to which baseball star?	Dusty Baker	Bobby Bonilla	Derek Jeter	Barry Bonds
+7D88978	Baseball	1	Who dominated the ninth inning of the 1998 World Series earning three saved games in a sweep over the San Diego Padres?	Jorge Posada	Andy Pettitte	Ramiro Mendoza	Mariano Rivera
+473958	Baseball	1	What baseball team wore Spanish-language "Los Bravos" uniforms in September 2017?	Texas Rangers	Florida Marlins	Tampa Bay Rays	Atlanta Braves
+493966	Baseball	1	Where do most baseball players sit during games when not playing on the field?	Upper Deck	Warning Track	Alley	Dugout
+618D192	Baseball	1	What is the strip on the pitcher's mound where a pitcher must stand called?	Pitcher's Box	Mound Camp	Safety Box	Pitcher's Rubber
+423491	Baseball	1	Why was the 1994 World Series cancelled?	War	Hurricane	Earthquake	Strike Year
+618D232	Baseball	1	Orel Hershiser pitched for which Major League Baseball team in 1988?	Oakland A's	Milwaukee Brewers	Arizona Diamondbacks	Los Angeles Dodgers
+56T908	Baseball	1	What is the term for a pitch in the strike zone that is not swung at?	A Foul Ball	A Pickoff	A Balk	A Called Strike
+493967	Baseball	1	Which Yankee was nicknamed "The Iron Horse"?	Babe Ruth	Chris Chambliss	Mickey Mantle	Lou Gehrig
+56T781	Baseball	1	Which of these is not a Major League Baseball team?	Reds	Red Sox	White Sox	Blues
+44270	Baseball	1	What World Series team included David Bell and Barry Bonds?	The 2011 Rangers	The 2004 Cardinals	The 2003 Marlins	The 2002 Giants
+427049	Baseball	1	Dodger Kirk Gibson, ailing and limping, did what in the '88 World Series?	9th Inning Error To Lose Series	Three Home Runs In Game 6	Single, Double, Triple And Home Run	9th Inning Home Run To Win Game 1
+499643	Baseball	1	What is the first name of baseball's Betts?	Hank	Jim	Joe	Mookie
+56T501	Baseball	2	Who is the baseball player nicknamed "Frenchy"?	Robinson Cano	Nyjer Morgan	Ben Zobrist	Jeff Francoeur
+293337	Baseball	2	Which World Series Champs were called "The Big Red Machine"?	Red Sox	Cards	Florida	Cincinnati
+38112	Baseball	2	Daniel Vogelbach was a member of what team in 2019?	Rangers	Mets	Marlins	Mariners
+618D218	Baseball	2	Which award did Justin Verlander win in 2011?	NL MVP	Gold Glove	Hank Aaron Award	AL MVP
+526075	Baseball	2	How many games did pitcher Lance Lynn win in the 2019 MLB season?	23	10	21	16
+13125	Baseball	2	Who lost the 2018 World Series?	Astros	Cardinals	yankees	Dodgers
+273975	Baseball	2	Who had 57 home runs in 2001 to help the Diamondbacks to a World Series?	Alex Rodriguez	Rod Carew	Randy Johnson	Luis Gonzalez
+427368	Baseball	2	Which Major League Baseball team will celebrate their 20th anniversary of the franchise in 2018?	Miami Marlins	Colorado Rockies	Kansas City Royals	Tampa Bay Rays
+233568	Baseball	2	Who managed the Cincinnati Reds for the first time in 2008?	Pete Rose	Joe Morgan	Davey Lopes	Dusty Baker
+350687	Baseball	2	What World Series team included Eric Gagne and Julio Lugo?	The 2005 White Sox	The 2002 Giants	The 2011 Rangers	The 2007 Red Sox
+56T854	Baseball	2	Josh Hamilton knocked in 128 runs for which MLB team in 2012?	Tampa Bay	Chicago	Oakland	Texas
+499955	Baseball	2	Who knocked the Yankees out of the 2019 Playoffs?	Kansas City	Minnesota	Boston	Houston
+499937	Baseball	2	What team did 2010 Cy Young Award winner, Roy Halladay play for when he won?	Minnesota	Baltimore	Toronto	Philadelphia
+499888	Baseball	2	How many strikeouts did Justin Verlander have in the 2019 MLB season?	143	220	180	300
+56T601	Baseball	2	Who is the "Say Hey Kid" that hit over 600 home runs?	Mickey Mantle	Barry Bonds	Joe DiMaggio	Willie Mays
+56T926	Baseball	2	Cliff Lee began a second stint with which team in 2011?	Cleveland Indians	Texas Rangers	Seattle Mariners	Philadelphia Phillies
+494155	Baseball	2	Who started the first game of the World Series in both 2017 and 2018?	Chris Sale	Brandon McCarthy	Charlie Morton	Clayton Kershaw
+185675	Baseball	2	Who did the Rangers beat in the 2011 American League Championship Series?	New York Yankees	Tampa Bay Rays	Los Angeles Angels	Detroit Tigers
+274160	Baseball	2	Which MLB team won its 14th straight division title in 2005?	Cardinals	Yankees	Red Sox	Braves
+274041	Baseball	2	Who was one of the FOX TV analysts for the 2019 World Series games?	Jose Canseco	Howie Long	Don Mattingly	David Ortiz
+9P31049	Baseball	2	Which pitcher threw eleven strikeouts in a complete game shutout for Game two of the 2001 World Series?	Steve Finley	Byung-Hyun Kim	Curt Schilling	Randy Johnson
+473963	Baseball	2	Where is the annual Little League World Series held?	Saratoga, New York	Taipei, Taiwan	Washington, D.C	Williamsport, Pennsylvania
+185679	Baseball	2	Joe Girardi was the first Yankee manager other than Joe Torre since which other manager?	Billy Martin	Yogi Berra	Elston Howard	Buck Showalter
+473911	Baseball	2	Who was the first to pitch a perfect game in baseball's World Series?	Tom Glavine	Steve Carlton	Roger Clemens	Don Larsen
+618D214	Baseball	2	In what year did the Seattle Mariners first play in Major League Baseball?	2011	1944	1952	1977
+504924	Baseball	2	Which of these MLB stars scored more runs in his career?	Carl Yastrzemski	Ted Williams	Willie Mays	Barry Bonds
+56T381	Baseball	2	Which one of these is not a division in Major League Baseball?	American League Central	American League East	National League West	National League Northwest
+7D88972	Baseball	2	How many games did the Los Angeles Dodgers win in the 2018 World Series?	2 Games	3 Games	4 Games	1 Game
+494116	Baseball	2	Which of these years did the Boston Red Sox not make it to the World Series?	2018	2013	2004	2017
+473772	Baseball	2	Brad Hawpe, Matt Holliday and Josh Fogg played on which World Series team?	The 2011 Rangers	The 2009 Yankees	The 2005 Astros	The 2007 Rockies
+494060	Baseball	2	Mariano Rivera approaches the mound to the tune of which Metallica song?	Fuel	Hit The Lights	Ride The Lightning	Enter Sandman
+473771	Baseball	2	Why was the 1997 World Series known as the "Latino Series"?	It Was Played In Mexico	A Latino Was MVP	Gloria Estefan Sang	High Number Of Latino Players
+56T1040	Baseball	2	Who had the better win loss record on June 1st 2018?	Twins	Royals	Rangers	Mariners
+56T881	Baseball	2	How many games did Cardinal pitcher Marco Gonzales win in the 2019 MLB season?	22	12	20	16
+56T932	Baseball	2	In 2014, which catcher won his seventh consecutive National League Gold Glove Award?	Matt Wieters	Brad Ausmus	Russell Martin	Yadier Molina
+302137	Baseball	2	Who broke Lou Brock's record for 938 career stolen bases?	Bobby Tolan	Maury Wills	Willie Stargell	Rickey Henderson
+5881	Baseball	2	Which MLB team holds spring training in Scottsdale, Arizona?	Detroit Tigers	KC Royals	NY Yankees	SF Giants
+288055	Baseball	2	Which MLB team holds spring training in Port St. Lucie, Florida?	Chicago Cubs	LA Dodgers	San Diego Padres	New York Mets
+494157	Baseball	2	What team did Josh Beckett pitch for in the 2003 World Series?	Yanks	Braves	Diamondbacks	Marlins
+618D228	Baseball	2	What number did left-fielder Barry Bonds wear in the 2003 season?	44	42	24	25
+348717	Baseball	2	Who hit a home run in game 7 of the 2019 World Series?	Yan Gomes	George Springer	Robinson Chirinos	Howie Kendrick
+7D89005	Baseball	2	In which MLB ballpark did Game one of the 2010 World Series take place?	Rangers Ballpark in Arlington	Progressive Ballpark	Safeco Field	AT&T Park
+473941	Baseball	2	Yoenis Cespedes knocked in 86 runs for which MLB team in 2016?	Toronto	Tampa Bay	Detroit	New York
+427243	Baseball	2	What Major League Baseball team won three World Series in the 90's?	Oakland A's	Toronto Blue Jays	Atlanta Braves	New York Yankees
+5B6591	Baseball	2	What MLB team named Ron Gardenhire as manager in 2017?	Houston Astros	Chicago Cubs	Tampa Bay Rays	Detroit Tigers
+56T899	Baseball	2	How many games did Oakland's Mike Fiers win in the 2019 MLB season?	25	11	18	15
+427141	Baseball	2	Which San Francisco Giants pitcher posted two wins against the Texas Rangers in the 2010 MLB World Series?	Jonathan Sanchez	Matt Cain	Sergio Romo	Tim Lincecum
+5B6581	Baseball	2	How many games did pitcher Jake Odorizzi win in the 2019 MLB season?	21	11	18	15
+427275	Baseball	2	What pitcher struck out 250 batters and won 24 games in the 2011 MLB regular season?	Ivan Nova	Mark Buehrle	Jered Weaver	Justin Verlander
+494097	Baseball	2	What position did baseball star Ken Griffey play in the field?	Shortstop	First Baseman	Pitcher	Outfielder
+56T1019	Baseball	2	Albert Pujols signed a 10-year deal with which team in 2011?	St. Louis Cardinals	Atlanta Braves	Boston Red Sox	Los Angeles Angels of Anaheim
+9P31028	Baseball	2	What World Series team included Ozzie Guillen, Bret Boone and Andruw Jones?	The 2009 Yankees	The 2002 Angels	The 2004 Red Sox	The 1999 Braves
+499672	Baseball	2	Who hit 53 home runs in the 2019 MLB season?	Mike Trout	Nelson Cruz	Cody Bellinger	Pete Alonso
+499917	Baseball	2	What team did 2012 Cy Young Award winner, R.A. Dickey play for when he won?	Arizona	Oakland	San Diego	New York
+56T1022	Baseball	2	Who led the American League in home runs in the 2019 season?	Matt Olson	Hunter Dozier	Aaron Judge	Jorge Soler
+339605	Baseball	2	What position did MLB's Jorge Posada play?	Outfielder	Shortstop	Third Baseman	Catcher
+526103	Baseball	2	A short memorial was held to honor which Yankees owner before the 2010 All-Star Game?	Rod Carew	Joe Buck	Tim McCarver	George Steinbrenner
+494098	Baseball	2	What World Series team included Chad Curtis and Joe Girardi?	The 2010 Giants	The 2005 White Sox	The 2002 Angels	The 1999 Yankees
+427361	Baseball	2	How many games did pitcher Dakota Hudson win in the 2019 MLB season?	23	10	19	16
+618D212	Baseball	2	Who won more games in the 2019 MLB regular season?	Pittsburgh Pirates	Miami Marlins	Colordao Rockies	Milwaukee Brewers
+56T421	Baseball	2	In 2004, Ken Griffey, Jr. became the 20th player to reach which statistical milestone?	2,000 RBI	3,000 Hits	500 Stolen Bases	500 Home Runs
+511207	Baseball	2	Who won the Ted Williams Award as the major league's top hitter in 2002?	Derek Jeter	Barry Bonds	Troy Tulowitzki	Alex Rodriguez
+2344	Baseball	2	Justin Upton won a Silver Slugger Award for which position in 2011?	Third Base	Catcher	First Base	Outfielder
+352602	Baseball	2	Ivan Rodriguez won a World Series with what team?	Detroit Tigers	Texas Rangers	Toronto Blue Jays	Florida Marlins
+56T681	Baseball	2	Joe Girardi was replaced as manger of what team in 2017?	Rangers	Giants	Red Sox	Yankees
+493879	Baseball	2	Which former Minnesota Twin player hit over 500 career home runs?	Zoilo Versalles	Kent Hrbek	Kirby Puckett	Harmon Killebrew
+56T884	Baseball	2	Who was the first player to win five Cy Young Awards?	Nolan Ryan	Babe Ruth	David Cone	Roger Clemens
+7B5013	Baseball	2	How many games did pitcher James Paxton win in the 2019 MLB season?	19	12	27	15
+56T956	Baseball	2	Which Tigers Cy Young winner was a starter at the 2012 All-Star Game?	Derek Lowe	Gio Gonzalez	Lance Lynn	Justin Verlander
+494161	Baseball	2	What position did Jose Altuve play in game 7 of the 2019 World Series?	Left Field	First Base	Shortstop	Second Base
+13201	Baseball	2	What 45-year-old pitched in his first World Series game in 2008?	Phil Niekro	Roger Clemens	Randy Johnson	Jamie Moyer
+120120	Baseball	2	Whose 2005 Manager of the Year award came 20 years after his first such award?	Sparky Anderson	Frank Robinson	Don Zimmer	Bobby Cox
+274011	Baseball	2	For which team did Reggie Jackson have the most World Series home runs?	Baltimore Orioles	Oakland A's	California Angels	New York Yankees
+325866	Baseball	2	Who number was retired by the Yankees on May 14, 2017?	Dave Winfield	Gene Michael	Horace Clark	Derek Jeter
+499938	Baseball	2	Who won the most game in the 2019 MLB season	Atlanta Braves	NY Yankees	Washington Nationals	Houston Astros
+56T851	Baseball	2	How many games did pitcher Shane Bieber win in the 2019 MLB season?	19	8	22	15
+473861	Baseball	2	Which MLB team did Miguel Cabrera play for in 2012?	Florida Marlins	Texas Rangers	Chicago Cubs	Detroit Tigers
+427353	Baseball	2	What team did 2003 Cy Young Award winner, Eric Gagne play for when he won?	Toronto	Oakland	Kansas City	Los Angeles
+493749	Baseball	2	How many games did pitcher Adam Wainwright win in the 2019 MLB season?	25	9	22	14
+493963	Baseball	2	What was Justin Verlander's 2019 ERA?	3.82	5.52	3.59	2.58
+282805	Baseball	2	Who is the baseball player nicknamed "Mr. November"?	Robinson Cano	Alexei Ramirez	Andrew McCutchen	Derek Jeter
+273969	Baseball	2	Which baseball team has won the most World Series Championships?	Florida Marlins	Atlanta Braves	L.A. Dodgers	New York Yankees
+7D98966	Baseball	2	What World Series team included Hector Luna, Scott Rolen and Larry Walker?	The 2005 Astros	The 2010 Rangers	The 2002 Giants	The 2004 Cardinals
+344845	Baseball	2	What MLB team named Aaron Boone as manager in 2017?	Oakland Athletics	San Diego Padres	Detroit Tigers	NY Yankees
+56T896	Baseball	2	Which player famously collided hard with catcher Bob Fosse at home plate during the 1970 All-Star Game?	Roberto Clemente	Hank Aaron	Orlando Cepeda	Pete Rose
+504929	Baseball	2	Who was named the 2004 Sporting News Major League Player of the Year?	Andruw Jones	Alex Rodriguez	Derek Jeter	Barry Bonds
+302308	Baseball	2	Major League Baseball's Joey Votto plays which position?	Pitcher	Outfielder	Catcher	First Baseman
+511185	Baseball	2	What is the distance between bases in Major League Baseball?	113 feet	40 feet	85 feet	90 feet
+493748	Baseball	2	How many strikeouts did Clayton Kershaw have in the 2019 MLB season?	96	99	300	189
+493968	Baseball	2	In which MLB division did the Colorado Rockies play in 2017?	AL East	NL East	AL West	NL West
+10H1029	Baseball	2	What World Series team included Phil Hughes and David Robertson?	The 2007 Rockies	The 2002 Angels	The 2011 Cardinals	The 2009 Yankees
+526138	Baseball	2	What MLB team named Alex Cora as manager in 2017?	Seattle Mariners	Milwaukee Brewers	Minnesota Twins	Boston Red Sox
+499880	Baseball	2	What team did Miguel Sano hit .247 for in 2019?	LA Dodgers	Chicago Cubs	NY Mets	Minnesota Twins
+49139	Baseball	2	What sports team's venue is also known as Chavez Ravine?	California Angels	San Diego Padres	Oakland Raiders	Los Angeles Dodgers
+493971	Baseball	2	Who made the All-Star Game at age 19 in 2012?	Derek Jeter	Mariano Rivera	David Ortiz	Bryce Harper
+499875	Baseball	2	Who hit more home runs in the 2017 regular MLB season?	Mike Moustakas	Khris Davis	Nelson Cruz	Aaron Judge
+7B5025	Baseball	2	Which MLB team won over 100 regular seasons games in 2017?	Minnesota Twins	Miami Marlins	NY Mets	Houston Astros
+473877	Baseball	2	How many strikeouts did Charlie Morton have in the 2019 MLB season?	76	99	326	240
+339687	Baseball	2	Which of these years did the NY Yankees not make it to the World Series?	1981	1996	2003	2005
+303369	Baseball	2	In 2011, Clayton Kershaw became the youngest player since Dwight Gooden to do what?	Strike Out 20 Players in a Game	Have an ERA Under 2 for a Season	Get 4 Strikeouts in an Inning	Win an NL Cy Young
+499873	Baseball	2	Who earned the nickname "Mr. October" for his World Series play?	Catfish Hunter	Derek Jeter	Kirk Gibson	Reggie Jackson
+339791	Baseball	2	Who shared the 2001 World Series MVP with teammate Curt Schilling?	Brian Anderson	Byung-Hyun Kim	Matt Williams	Randy Johnson
+9P31046	Baseball	2	Which ML team won five consecutive World Series Championships?	St. Louis Cardinals	Cincinnati Reds	Oakland A's	New York Yankees
+191792	Baseball	2	How many home runs did Mark McGwire hit in the 1988 World Series?	2	5	0	1
+354264	Baseball	2	When was the last time in the 20th century that the Chicago Cubs won the World Series?	1945	1929	1885	1908
+71671	Baseball	2	Who won MLB's 2010 GIBBY Award for Closer with 58% of the vote?	Rafael Soriano	Mariano Rivera	Heath Bell	Brian Wilson
+185665	Baseball	2	What number does Giancarlo Stanton wear for the 2018 NY Yankees?	#23	#6	#34	#27
+56T953	Baseball	2	Which Yankees closer played in his 13th and final All-Star Game in 2013?	Justin Masterson	Chris Sale	Matt Moore	Mariano Rivera
+71306	Baseball	3	What was the losing player's share for the 2018 World Series?	$116,838.72	$0	$62,027.49	$262,027.49
+350597	Baseball	3	How many home runs did Troy Glaus hit in the 2002 World Series?	6 Home Runs	4 Home Runs	7 Home Runs	3 Home Runs
+344667	Baseball	3	The Houston Astros entered their first World Series in what year?	2000	2002	2006	2005
+325965	Baseball	3	Who was the MVP of the 1992 World Series between Atlanta and Toronto?	Jose Rijo	Livan Hernandez	Orel Hershiser	Pat Borders
+273996	Baseball	3	Who was credited with all three saves earned in the 2007 World Series?	Brian Fuentes	Eric Gagne	Hideki Okajima	Jonathan Papelbon
+325960	Baseball	3	Which network televised the first World Series?	Dumont	CBS	ABC	NBC
+10H1009	Baseball	3	The Atlanta Braves appearance in the 1991 World Series was their first since which year?	1963	1948	1917	1958
+473723	Baseball	3	What year was baseball manager Terry Francona born?	1974	1950	1966	1959
+185699	Baseball	3	What year did George Springer earn the MVP award in a World Series?	2005	2010	2013	2017
+474019	Baseball	3	During which game of the 1988 World Series did Kirk Gibson hit his famous home run?	Game 5	Game 7	Game 3	Game 1
+427140	Baseball	3	Which Arizona Diamondbacks player hit a home run in the first inning of the 2001 World Series Game one?	Luis Gonzalez	Matt Williams	Brian Anderson	Craig Counsell
+339804	Baseball	3	Who did the Yankees beat 14 -1 on April 23rd 2018?	Mariners	Dodgers	Red Sox	Twins
+87658	Baseball	3	In which category did Mickey Mantle not set a career World Series record?	Home Runs	RBI's	Runs	Hits
+11768	Baseball	3	Who was the first American League player to win a Cy Young award?	Whitey Ford	Denny McLain	Nolan Ryan	Bob Turley
+104465	Baseball	3	Which Red Sox manager had the best winning percentage for the 1907 team?	Deacon McGuire	Bob Unglaub	George Huff	Cy Young
+263244	Baseball	3	Who hit the first home run in Marlin's history?	Junior Felix	Jeff Conine	Orestes Destrade	Benito Santiago
+325862	Baseball	3	Which was the only team to sweep a World Series in the 1970's?	Oakland A's	Pittsburgh Pirates	New York Yankees	Cincinnati Reds
+618D198	Baseball	3	Who was the AL Manager of the Year for 2012?	Eric Wedge	Ron Washington	Kirk Gibson	Bob Melvin
+350684	Baseball	3	What year did the first manager from Puerto Rico to win the World Series?	2000	2012	2015	2018
+44782	Baseball	3	In the final game of the 1999 World Series, which Cy Young award winning Yankees pitcher received the win?	Orlando Hernandez	Mariano Rivera	David Cone	Roger Clemens
+9P31058	Baseball	3	How many hits did the Nationals have in game 4 of the 2019 World Series?	One Hit	Two Hits	Six Hits	4 Hits
+217927	Baseball	3	Juan Soto, celebrated what birthday during Game 3 of the 2019 World Series?	40th	35th	18th	21st
+474023	Baseball	3	What was the score of the final game of the 2019 World Series?	Nationals 3 Astros 0	Nationals 1 Astros 2	Nationals 11 Astros 10	Nationals 6 Astros 2
+56403	Baseball	3	How many games in the 1995 World Series were decided by a single run?	One	None	Seven	Five
+427476	Baseball	3	What two Yankees stole 20 bases or more in the 2013 regular season?	Jayson Nix, Robinson Cano	Ichiro Suzuki,David Adams	Lyle Overbay, Robinson Cano	Ichiro Suzuki,Brett Gardner
+494121	Baseball	3	Who recorded the only save for the Cleveland Indians in the 1995 World Series?	Alan Embree	Paul Assenmacher	Orel Hershiser	Jose Mesa
+427318	Baseball	3	Who went eighth to the Kansas City Royals pick in 2013 draft?	Seth Blair	Marco Gonzales	Ryne Stanek	Hunter Dozier
+499659	Baseball	3	In what state was Derek Jeter born?	California	Michigan	New York	New Jersey
+426813	Baseball	3	Who set a MLB World Series record in 1969 by hitting 3 home runs in 4 games?	Tommie Agee	Ed Kranepool	Frank Robinson	Donn Clendenon
+56T920	Baseball	3	Robinson Cano was the AL's starter at which position for the 2013 All-Star game?	Shortstop	Pitcher	Catcher	Second Base
+273968	Baseball	3	In which of the following years did the New York Mets fail to reach the World Series?	1986	1973	1969	2015
+339266	Baseball	3	Who was the winning pitcher in Game two of the 2010 World Series giving up only four hits to the Texas Rangers?	Jonathan Sanchez	Madison Bumgarner	Tim Lincecum	Matt Cain
+339607	Baseball	3	How many runs did the Colorado Rockies score at Fenway Park in the 2007 World Series?	Six	One	Nine	Two
+473935	Baseball	3	Who was selected as the 1999 American League Championship Series MVP?	Placido Polanco	Dave Stewart	Orel Hershiser	Orlando Hernandez
+499640	Baseball	3	How many total runs were scored in the 2017 MLB All-star Game played?	6 Runs	11 Runs	1 Run	3 Runs
+9P31016	Baseball	3	Who was selected as the 2001 American League Championship Series MVP?	Dave Stewart	CC Sabathia	Josh Beckett	Andy Pettitte
+474021	Baseball	3	How many games did pitcher Rick Porcello win in the 2019 MLB season?	8	16	24	14
+302304	Baseball	3	What Boston Red Sox player won the Most Valuable Player Award in 1967?	Jim Lonborg	Roger Maris	Jose Tartabull	Carl Yastrzemski
+427270	Baseball	3	Who from the Phillies was the MVP of the 2009 National League Championship Series?	Raul Ibanez	Joe Blanton	Vicente Padilla	Ryan Howard
+493865	Baseball	3	Who did the Yankees play the night of Mariano Rivera's last pitching performance at Yankee Stadium?	Boston	Chicago	New York Mets	Tampa Bay
+493964	Baseball	3	Who was named the 2011 NL Rookie of the Year?	Danny Espinosa	Wilson Ramos	Freddie Freeman	Craig Kimbrel
+7D88972	Baseball	3	How many players split the MVP Award for the 1981 World Series?	One	Two	Four	Three
+56T875	Baseball	3	How many strikeouts did Max Fried have in the 2019 MLB season?	386	110	143	173
+78895	Baseball	3	In 1988 which team won the World Series?	Baltimore Orioles	Detroit Tigers	New York Yankees	L.A. Dodgers
+54073	Baseball	3	What superstar player was the 2003 American League Championship Series MVP?	Josh Hamilton	Josh Beckett	Alex Rodriguez	Mariano Rivera
+302144	Baseball	3	Who led the Reds in RBI's for the 2016 MLB season?	Scooter Gennett	Joey Votto	Brandon Phillips	Adam Duvall
+87437	Baseball	3	Who was the losing pitcher for the Texas Rangers in Game one of the 2010 World Series?	Colby Lewis	Tommy Hunter	C.J. Wilson	Cliff Lee
+10H1061	Baseball	3	Who drilled a three-run home in Game five of the 2010 World Series for the San Francisco Giants?	Cody Ross	Buster Posey	Pablo Sandoval	Edgar Renteria
+195727	Baseball	3	How many home runs did Joey Votto hit in the 2017 regular MLB season?	20	45	33	36
+473777	Baseball	3	In 2012, Miguel Cabrera became the first hitter to win a Triple Crown since which Boston Red Sox player?	Babe Ruth	Tris Speaker	Fred Lynn	Carl Yastrzemski
+473785	Baseball	3	Who hit the first pinch hit home run in World Series history?	Mule Shirley	Josh Devore	Fred Brickell	Yogi Berra
+426780	Baseball	3	Which Anaheim Angel was not in his first year with the team when they won the 2002 World Series?	Kevin Appier	Aaron Sele	Brad Fullmer	Darin Erstad
+351106	Baseball	3	Which MLB player is an uncle to Major League star Gary Sheffield?	Kevin Mitchell	Mo Vaughn	Darryl Strawberry	Dwight Gooden
+59605	Baseball	3	What year did Madison Bumgarner earn the MVP award in a World Series?	2017	2018	2013	2014
+494095	Baseball	3	Matt Bumgarner struck out which Texas Rangers slugger three times in Game four of the 2010 MLB World Series?	Josh Hamilton	Nelson Cruz	Michael Young	Vladimir Guerrero
+325913	Baseball	3	Who hit three doubles in the opening game of the 2010 MLB World Series?	Freddy Sanchez	Edgar Renteria	Juan Uribe	Brian Wilson
+7B5001	Baseball	3	In the 2013 draft, who was selected fifteenth overall by the Arizona Diamondbacks?	Nick Travieso	C.J. Cron	Kyle Zimmer	Braden Shipley
+82688	Baseball	3	Who is the Outfielder selected as the seventeenth pick overall in the 2012 draft?	Seth Blair	Ty Hensley	Matt Barnes	D.J. Davis
+526126	Baseball	3	Who did the Tampa Bay Rays select as the twenty-fifth pick overall in the 2012 draft?	Sonny Gray	Ty Hensley	C.J. Cron	Richie Shaffer
+9P31022	Baseball	3	Who was the winning pitcher in Game 6 of the 1975 World Series?	Dick Drago	Jim Willoughby	Reggie Cleveland	Rick Wise
+273972	Baseball	3	In the 1965 World Series Sandy Koufax did not pitch in the first game of the World Series. Why?	The Dodgers Were Not In The Series	Injury.	He Did This Is A Trick.	His Religion Forbade It
+344114	Baseball	3	Who threw the "1st Pitch" in game 2 of the 2002 World Series?	Cal Ripken, Jr.	Jimmy Carter	Rod Carew	John Wooden
+427053	Baseball	3	How many games of the 1972 World Series between the Athletics and the Reds were decided by one run?	7	5	4	6
+5B6579	Baseball	3	Who won the MLB GIBBY Award for Executive of the Year in 2010?	Jed Hoyer	Andrew Friedman	Walt Jocketty	Brian Sabean
+427233	Baseball	3	What singing group preformed "The National Anthem" in game 5 of the 1996 World Series?	TLC	The Spice Girls	Destiny's Child	En Vouge
+56T944	Baseball	3	Which player was named the 2014 American League Rookie of the Year?	Matt Shoemaker	Collin McHugh	Jacob DeGrom	Jose Abreu
+56T761	Baseball	3	In the 2011 draft, who was selected first overall by the Pittsburgh Pirates?	Seth Blair	Derek (Bubba) Starling	Colin Moran	Gerrit Cole
+7D88993	Baseball	3	Luis Castillo and whom were the only 2 players on each of the first two Marlins World Series teams?	Mike Lowell	Juan Encarnacion	Edgar Renteria	Jeff Conine
+325962	Baseball	3	Who got the hit that scored Enos Slaughter with the winning run in Game 7 of the 1946 World Series?	Stan Musial	Red Schoendienst	Joe Garagiola	Harry Walker
+473866	Baseball	3	How many stolen bases did Albert Pujols have in the 2010 MLB season?	22 Stolen bases	37 Stolen bases	77 Stolen bases	14 Stolen bases
+73246	Baseball	3	What baseball team did Dave Martinez take over in 2017 as the manager?	Brewers	Rockies	Reds	Nationals
+273978	Baseball	3	What team did the Toronto Blue Jays face when they made it to the 1992 World Series?	New York Yankees	St. Louis Cardinals	Boston Red Sox	Atlanta Braves
+82280	Baseball	3	Who won back-to-back Cy Young Awards for the Orioles?	Brooks Robinson	Dave McNally	Mike Mussina	Jim Palmer
+473895	Baseball	3	Who threw the "1st Pitch" for game 4 of the 2007 World Series?	Cal Ripken, Jr.	Rod Carew	Scott Brosius	Levi Templeton
+427190	Baseball	3	How many errors did the Red Sox commit in the 2018 World Series?	8 Errors	1 Error	11 Errors	2 Errors
+5B6577	Baseball	3	The 2018 NY Mets are wearing an autographed patch of what former player?	Ed Kranepool	Tom Seaver	Cleon Jones	Rusty Staub
+493747	Baseball	3	Who hit 44 home runs in the 2019 MLB season?	Aaron Judge	Matt Chapman	Gary Sanchez	Christian Yelich
+348707	Baseball	3	Which player set a record for consecutive home runs in the Little League World Series?	Cecil Fielder	Mark McGwire	Barry Bonds	Mark McLemore
+352449	Baseball	3	What World Series team included Mike Lamb and Andy Pettitte?	The 1999 Yankees	The 1995 Indians	The 2002 Angels	The 2005 Astros
+618D208	Baseball	3	Who is the Major League Baseball player nicknamed "The Wizard"?	Torii Hunter	Travis Hafner	Alexei Ramirez	Ichiro Suzuki
+473786	Baseball	3	How many hits did the Tigers have in game 3 of the 2012 World Series?	11 Hits	7 Hits	1 Hit	5 Hits
+5B6603	Baseball	3	Who is the Major League Baseball player nicknamed "El Caballo"?	Felix Hernandez	Jeff Francoeur	Ichiro Suzuki	Carlos Lee
+499920	Baseball	3	Who is the baseball player nicknamed "Little Cowboy"?	Pablo Sandoval	Andrew McCutchen	Jose Bautista	Josh Tomlin
+32236	Baseball	3	Who was the first pitcher to appear in all seven games of a World Series?	Rollie Fingers	Goose Gossage	Dennis Eckersley	Darold Knowles
+9P31001	Baseball	3	What year was Joe Maddon the winning manager of a World Series?	2013	2015	2017	2016
+473891	Baseball	3	In what year did the Cincinnati Reds win their first World Series?	1908	1926	1924	1919
+2496	Baseball	3	Ebbets Field was once home to which team?	New York Yankees	St. Louis Cardinals	Cincinnati Reds	Brooklyn Dodgers
+493752	Baseball	3	Who is the Major League Baseball player nicknamed "Tony Plush"?	Felix Hernandez	Orlando Hudson	Ichiro Suzuki	Nyjer Morgan
+43995	Baseball	3	In what year did a team first have to win two playoff series to reach the World Series?	1995	2003	1969	1981
+325871	Baseball	3	Name the first player to bat in a World Series night game?	Don Buford	Brooks Robinson	Mark Belanger	Paul Blair
+199216	Baseball	3	What Toronto Blue Jay was named MVP of the 1993 World Series?	Joe Carter	Roberto Alomar	Pat Borders	Paul Molitor
+216190	Baseball	3	Which of these years did the Yankees not make the World Series?	1998	1999	2003	2002
+274026	Baseball	3	Prior to game 6 of the 1995 World Series, who threw the "1st Pitch"?	General David Patreus	Rod Carew	Jim Bunning	Jimmy Carter
+484593	Baseball	3	In the 2013 draft, who was selected third overall by the Colorado Rockies?	Marco Gonzales	Carlos Correa	Nick Ciuffo	Jonathan Gray
+42S7543	Baseball	3	What network broadcasted the 2012 World Series live?	ESPN	ABC	CBS	FOX
+494091	Baseball	3	Who did the Boston Red Sox defeat in the 2007 World Series?	New York Yankees	Florida Marlins	St. Louis Cardinals	Colorado Rockies
+353318	Baseball	3	In 1974's World Series, Oakland Athletic Rollie Fingers became only the second reliever to do what?	Strike Out Four in An Inning	Save Three Games	Win Three Games	Be Named MVP
+274175	Baseball	3	Who became the oldest manager to manage an All-Star Game in 2004?	Jim Leyland	Bobby Cox	Dusty Baker	Jack McKeon
+56T905	Baseball	3	How many home runs as a team did the Phillies hit during the 2009 post season?	45 Home Runs	20 Home Runs	5 Home Runs	25 Home Runs
+511218	Baseball	3	In what year was Barry Bonds drafted?	1989	1991	1981	1985
+52S6129	Baseball	3	Which baseball team won its third straight World Series title in 2000?	Atlanta Braves	Toronto Blue Jays	Chicago White Sox	New York Yankees
+494031	Baseball	3	Who was the 2010 Branch Rickey Award winner?	Robinson Cano	Paul Konerko	Martin Prado	Vernon Wells
+499646	Baseball	3	Which Giants outfielder was the MVP of the 2012 All-Star Game?	Yu Darvish	Derek Jeter	Prince Fielder	Melky Cabrera
+11758	Baseball	3	With what pitcher did Casey Stengel start the 1960 World Series in Pittsburgh?	Jim Coates	Bob Turley	Ralph Terry	Art Ditmar
+494164	Baseball	3	Who won baseball's 1988 World Series, beating the Oakland A's 4 games to 1?	New York Mets	New York Yankees	Philadelphia Phillies	Los Angeles Dodgers
+56T1031	Baseball	3	Who pitched a no-hitter in the 2017 MLB season?	Clayton Kershaw	Corey Kluber	Madison Bumgarner	Edinson Volquez
+2414	Baseball	3	Which World Series champ was a wild card team?	Chicago White Sox 2005	Arizona Diamondbacks 2001	New York Yankees 2000	Florida Marlins 2003
+302128	Baseball	3	How many home runs did Johnny Bench hit in his career?	605	199	499	389
+2284	Baseball	3	In the 2017 MLB regular season, George Springer hit how many home runs and collected how many RBI'S?	32 Home Runs, 60 RBIs	22 Home Runs, 57 RBIs	44 Home Runs, 95 RBIs	34 Home Runs, 85 RBIs
+4961	Baseball	3	Where was MLB shortstop Didi Gregorius born?	Brooklyn	Havana	Paris	Amsterdam
+511232	Baseball	3	What team did Ichiro Suzuki make his Major League debut against?	Texas Rangers	Los Angeles Dodgers	New York Yankees	Oakland A's
+9P31025	Baseball	3	Who did the Yankees sweep in the 1999 World Series?	Mets	Giants	Padres	Braves
+494159	Baseball	3	In what year was the first World Series game played under the lights?	1969	1973	1975	1971
+56T893	Baseball	3	Which MLB pitcher went 16-12 and gave up 78 earned runs in 2011's regular season?	Justin Verlander	Gio Gonzalez	Dan Haren	James Shields
+427278	Baseball	3	Justin Upton finished the 2012 behind in only which player in runs scored in the National League?	BJ Upton	Jason Hayward	Prince Fielder	Ryan Braun
+56T917	Baseball	3	In 2012, Prince Fielder became the second player ever to do what twice?	Win a Triple Crown	Make an Unassisted Triple Play	Hit a Grand Slam in a Game	Win the Home Run Derby
+7D88996	Baseball	3	What Toronto Blue Jay was named MVP of the 1992 World Series?	Joe Carter	Roberto Alomar	John Olerud	Pat Borders
+53601	Baseball	3	Who had seven RBIs for the New York Yankees in the 1981 World Series?	Reggie Jackson	Lou Piniella	Dave Winfield	Bob Watson
+7D88975	Baseball	3	Who pitched 4.2 innings in the 2012 World Series and didn't give up any hits?	Barry Zito	Anibal Sanchez	Max Scherzer	Tim Lincecum
+12K1359	Baseball	3	How many times in his career did Nolan Ryan finish second or better in Cy Young voting?	Three	Six	Eight	One
+325985	Baseball	3	What World Series team included Nelson Cruz and Derek Holland?	The 2009 Phillies	The 2010 Giants	The 1999 Braves	The 2011 Rangers
+302143	Baseball	3	Who did the Kansas City Royals select as the fifth pick overall in the 2012 draft?	Seth Blair	Ty Hensley	Courtney Hawkins	Kyle Zimmer
+350619	Baseball	3	What pitcher won the third game of the 2019 World Series?	Ryan Pressly	Aniíbal Sanchez	Joe Ross	Josh James
+427212	Baseball	3	In 2011, Albert Pujols became the third player to do what in the World Series?	Get Five Hits in a Game	Make Three Errors in a Game	Walk 5 Times in a Game	Hit Three Home Runs in a Game
+494086	Baseball	3	Who was selected as the MVP of the 2001 National League Championship Series?	Ryan Howard	Tom Glavine	Roy Oswalt	Craig Counsell
+81759	Baseball	3	Who performed the National Anthem at game 3 of the 2018 World Series	Dolly Parton	PSY	Eminem	Brad Paisley
+473773	Baseball	3	Reggie Jackson's three home runs in the final game of the 1977 World Series were part of what streak?	Four Consecutive Extra Base Hits	Six Consecutive Hits	Eight Consecutive Times on Base	Four Consecutive Home Runs
+473969	Baseball	3	Who did the Washington Nationals select as the sixteenth pick overall in the 2012 draft?	Chris Stratton	Danny Hultzen	Taylor Jungmann	Luc Giolito
+10H1013	Baseball	3	Which umpire is famous for blowing a call at first base in the 1985 Cardinals-Royals World Series?	Harry Wendelstedt	Jim Evans	Jerry Crawford	Don Denkinger
+325914	Baseball	3	Who played in the first "indoor" World Series game?	Blue Jays And Braves	Yankees And Mets	Twins And Braves	Twins And Cardinals
+494160	Baseball	3	Who performed the National Anthem at game 1 of the 2018 World Series	Miley Cyrus	Paul Simon	Selena Gomez	James Taylor
+283046	Baseball	3	In 2011, Matt Holliday missed 9 days of playing time due to which surgical procedure?	Triple Bypass	Rotator Cuff Surgery	Tommy John Surgery	Appendectomy
+499683	Baseball	3	Which of these power hitters was first to reach 20 home runs in 2018?	Aaron Judge	Joey Gallo	Mookie Betts	J.D. Martinez
+427185	Baseball	3	What was the Atlanta Braves record in World Series games in the 1990's?	23-12	16-19	4-12	11-18
+302122	Baseball	3	Who went nineteenth to the Boston Red Sox pick in 2011 draft?	Seth Blair	Ty Hensley	Ryne Stanek	Matt Barnes
+344733	Baseball	3	The Cardinals won their first MLB World Series Championship in which year?	1919	1934	1942	1926
+325946	Baseball	3	Which National League team won 69 games in the 2016 season?	Atlanta Braves	Chicago Cubs	Cincinnati Reds	Arizona Diamondbacks
+339202	Baseball	3	Who hit the only home run in Game one of the 2003 World Series between the Florida Marlins and New York Yankees?	Derek Jeter	Miguel Cabrera	Alex Gonzalez	Bernie Williams
+494096	Baseball	3	What is the first name of baseball's McLain?	Sasha	Davey	Rollie	Denny
+199183	Baseball	3	In what year was the first World Series game played at Wrigley Field?	1945	1932	1935	1929
+56T947	Baseball	3	Tim Lincecum threw the first ever no-hitter at which ballpark in 2013?	Turner Field	Citi Field	Tropicana Field	Petco Park
+1+3898:409098980	Baseball	3	Who hit a walk-off home run to win Game 4 of the 2003 MLB World Series?	Derek Jeter	Bernie Williams	Miguel Cabrera	Alex Gonzalez
+217926	Baseball	3	How many runs did Salvador Perez score in the 2015 World Series?	23 Runs	21 Runs	4 Runs	3 Runs
+493751	Baseball	3	The AL's lineup for the 2011 All-Star Game featured Josh Hamilton and Jose Bautista from which team?	Boston Red Sox	Kansas City Royals	Minnesota Twins	Texas Rangers
+1803C235	Baseball	3	Who is known as "The Voice of the Mariners"?	Ken Wilson	Bill Freehan	Dave Henderson	Dave Niehaus
+56T1025	Baseball	3	Who was the first person to win a Manager of the Year award with the Yankees?	Joe Torre	Billy Martin	Yogi Berra	Buck Showalter
+325984	Baseball	3	What left-hander in the Yankee starting line-up faced Randy Johnson in 2001's World Series Game 2?	Paul O'Neill	Randy Velarde	David Justice	Andy Pettitte
+499699	Baseball	3	Who was the first Red Sox player to wear number 13?	Reid Nichols	Moe Berg	Paul McDermott	Eldon Auker
+273994	Baseball	3	Who won the 100th anniversary of the World Series?	Chicago White Sox	NY Yankees	NY Mets	Boston Red Sox
+352417	Baseball	3	Vince Coleman had to sit out the 1985 World Series because of a knee injury caused by what?	Motorcycle Accident	Tackling The Catcher At Home Plate	Fight With Teammates	Automatic Tarp Roller
+374825	Baseball	3	In Game six of the 2002 World Series, how many runs did the Angels score in a late comeback victory over the Giants?	7	4	8	6
+618D196	Baseball	3	Which National League team won 85 games in the 2019 season?	NY Mets	LA Dodgers	Milwaukee Brewers	Arizona Diamondbacks
+344666	Baseball	3	The 1944 World Series, often dubbed "The Streetcar Series", saw the Cardinals facing which team?	St. Louis Blues	St. Louis Reds	St. Louis Red Stockings	St. Louis Browns
+473757	Baseball	3	Which San Francisco Giants pitcher received the win for Game one of the 2010 MLB World Series?	Jonathan Sanchez	Matt Cain	Madison Bumgarner	Tim Lincecum
+511189	Baseball	3	In the 2017 MLB regular season, Logan Morrison hit how many home runs and collected how many RBI'S?	36 Home Runs, 92 RBIs	40 Home Runs, 104 RBIs	62 Home Runs, 110 RBIs	38 Home Runs, 85 RBIs
+325905	Baseball	3	How many times did Philadelphia Phillies first baseman Ryan Howard strikeout in the 2009 World Series?	15	11	9	13
+427472	Baseball	3	Which National League team won 93 games in the 2017 season?	San Francisco Giants	LA Dodgers	Houston Astros	Arizona Diamondbacks
+56T872	Baseball	3	In the 2017 MLB regular season, how many home runs and RBI'S did Mike Trout have?	33 Home Runs, 87 RBIs	28 Home Runs, 67 RBIs	51 Home Runs, 30 RBIs	33 Home Runs, 72 RBIs
+494088	Baseball	3	What World Series team included Jermaine Dye, Tadahito Iguchi and Mark Buehrle?	The 2002 Angels	The 2009 Yankees	The 2008 Rays	The 2005 White Sox
+473766	Baseball	3	Orel Hershiser, Eddie Murray and Jim Thome played on which World Series team?	The 2003 Yankees	The 2005 Astros	The 2009 Phillies	The 1995 Indians
+493746	Baseball	3	Who many games did Red Sox pitcher John Lackey win and lose in the 2011 season?	18-3	21-8	7-19	12-12
+73988	Baseball	3	In the 2003 World Series, who became the first Japanese player to hit a home run in a World Series game?	Ichiro Suzuki	Daisuke Matsuzaka	Kosuke Fukudome	Hideki Matsui
+473758	Baseball	3	Who was the first player to appear in 75 World Series games?	Mickey Mantle	Babe Ruth	Derek Jeter	Yogi Berra
+274007	Baseball	3	In what year was the first World Series game played indoors in a domed stadium?	1985	1990	1992	1987
+7B5028	Baseball	3	What was Yankee pitcher Domingo German's 2019 ERA?	3.55	2.88	2.05	4.03
+351773	Baseball	3	David Dellucci, Mark Grace and Luis Gonzalez played on which World Series team?	The 2011 Cardinals	The 2005 White Sox	The 1999 Yankees	The 2001 Diamondbacks
+339611	Baseball	3	In their first ever World Series, who did the Houston Astros face for the championship?	Boston Red Sox	Chicago Cubs	New York Yankees	Chicago White Sox
+7D88999	Baseball	3	Which Brewer set a World Series record with five hits in Game 1 of 1982's World Series?	Robin Yount	Cecil Cooper	Ben Oglivie	Paul Molitor
+198989	Baseball	3	Who was the first batter to strike out in the 2008 World Series?	Ryan Howard	Carlos Pena	Willy Aybar	Pat Burrell
+473853	Baseball	3	Which Astro was selected as the MVP of the 2005 National League Championship Series?	Roger Clemens	Brandon Backe	Lance Berkman	Roy Oswalt
+473879	Baseball	3	How many innings did Stephen Strasburg pitch in the 2019 World Series?	18 innings	22 innings	19 innings	14 innings
+234203	Baseball	3	When Babe Ruth ended the 1926 World Series by attempting a stolen base, what catcher gunned him down?	Zack Taylor	Paul Richards	Wally Mayer	Bob O'Farrell
+494092	Baseball	3	What team won both the 1987 and 1991 World Series?	Oakland A's	Toronto Blue Jays	Detroit Tigers	Minnesota Twins
+303362	Baseball	3	In the 2017 MLB regular season, Manny Machado hit how many home runs and collected how many RBI'S?	34 Home Runs, 114 RBIs	55 Home Runs, 79 RBIs	44 Home Runs, 90 RBIs	33 Home Runs, 95 RBIs
+473855	Baseball	3	How many strike outs did Houston pitcher Gerrir Cole throw in his one hitter on May 4th 2018?	11	22	10	16
+7B5004	Baseball	3	What baseball team did Alex Cora take over in 2017 as the manager?	Blue Jays	Rangers	White Sox	Red Sox
+273991	Baseball	3	Who received the save for the Texas Rangers in Game three of the 2010 MLB World Series?	Alexi Ogando	C.J. Wilson	Darren O'Day	Neftali Feliz
+12K1339	Baseball	3	Who was the first Texas Rangers player to amass 50 home runs in a single season?	Rafael Palmeiro	Frank Howard	Ruben Sierra	Alex Rodriguez
+494124	Baseball	3	How many home runs did Philadelphia Philly Lenny Dykstra hit in the 1993 World Series?	Two	One	Five	Four
+494118	Baseball	3	What was the last year that five wins were required to win the World Series?	1908	1918	1912	1921
+484596	Baseball	3	Who won more games in the 2018 MLB regular season?	Colordao Rockies	Washington Nationals	NY Mets	Atlanta Braves
+473675	Baseball	3	Which World Series MVP had a .615 batting average in the Series he was named MVP?	Salvador Perez	Troy Glaus	Steve Pearce	Hideki Matsui
+526093	Baseball	3	Who got his 2,000th MLB career hit with a single in the 7th inning against the White Sox on April 12, 2018?	Robinson Cano	Mike Trout	Ryan Braun	Joe Mauer
+60452	Baseball	3	Who did Paul Konerko hand the ball to from the final out in the 2005 World Series?	Winning Pitcher	He Kept It	White Sox Manager	White Sox Owner
+50161	Baseball	3	Who won the 2002 American League Championship Series MVP Award?	Kirk Gibson	Dave Stewart	Fred Lynn	Adam Kennedy
+494029	Baseball	3	Ian Kinsler hit a lead-off home run in game 4 of the 2011 ALDS against which time?	Kansas City Royals	Detroit Tigers	New York Yankees	Tamp Bay Rays
+72331	Baseball	3	Game 2 of the 1986 World Series featured a matchup of the 1985 NL and 1986 AL winners of what award?	MVP Award	Rookie of the Year Award	Gold Glove Award (Pitcher)	Cy Young Award
+56T887	Baseball	3	Who did the St. Louis Cardinals select as the nineteenth pick overall in the 2013 draft?	Seth Blair	Ty Hensley	Ryne Stanek	Marco Gonzales
+57127	Baseball	3	Who threw out the ceremonial first pitch of the 1975 MLB World Series?	Captain Carl Glencross	Joey Tramontola	Gerald Ford	William Simon
+7B5043	Baseball	3	What team did 2007 Cy Young Award winner, Jake Peavy play for when he won?	Cleveland	Arizona	Chicago	San Diego
+302156	Baseball	3	In the 2011 draft, who was selected eighteenth overall by the Oakland Athletics?	Kris Bryant	Courtney Hawkins	Ryne Stanek	Sonny Gray
+474011	Baseball	3	Who applied a phantom tag for an out at home in an Oriole-Reds 4-3 game in the 1970 World Series?	Andy Etchebarren	Rick Dempsey	Johnny Bench	Elrod Hendricks
+74359	Baseball	3	Who was the first to appear on a World Series roster without playing a single Major League game?	Pete Mikkelsen	Bob Humphreys	Hector Lopez	Chet Trail
+350646	Baseball	3	Koufax and Drysdale led the Dodgers against which team in the 1965 World Series?	Red Sox	Orioles	Yankees	Twins
+61666	Baseball	3	Which player took over for Alex Rodriguez when he left Seattle for Texas in 2001?	Mark McLemore	Dan Wilson	Bret Boone	Carlos Guillen
+346217	Baseball	3	Which team was the first to win the World Series without losing any games?	Boston Braves	New York Giants	Cleveland Indians	Chicago Cubs
+54194	Baseball	3	How long had the New York Mets been in the National League when they won the 1969 World Series?	20 Years	14 Years	3 Years	7 Years
+473908	Baseball	3	What World Series team included Lance Lynn, Daniel Descalso and Jon Jay?	The 1999 Braves	The 2005 Astros	The 2004 Red Sox	The 2011 Cardinals
+618D236	Baseball	3	Who had the better win loss record on June 1st 2018?	Marlins	Padres	Reds	Brewers
+494019	Baseball	3	Who is the Shortstop selected as the twenty-fifth pick overall in the 2013 draft?	Kevin Gausman	Ty Hensley	Mark Appel	Christian Arroyo
+5B6585	Baseball	3	What year was MLB star Jose Altuve born?	1981	1995	1986	1990
+7B5019	Baseball	3	How many home runs and RBI'S did Justin Upton have in the 2017 regular season?	27 Home Runs, 80 RBIs	32 Home Runs, 105 RBIs	37 Home Runs, 112 RBIs	35 Home Runs, 109 RBIs
+215570	Baseball	3	Who was named the 2011 AL Rookie of the Year?	Eric Hosmer	Ivan Nova	Dustin Ackley	Jeremy Hellickson
+350408	Baseball	3	Who was selected as the 2005 American League Championship Series MVP?	Rickey Henderson	Andy Pettitte	Roberto Alomar	Paul Konerko
+473880	Baseball	3	Who won both the National League MVP and World Series MVP in 1980?	Keith Hernandez	Dave Parker	Steve Carlton	Mike Schmidt
+7D89002	Baseball	3	Through 2001, who was the youngest Dodger to ever pitch in a World Series game?	Tommy John	Don Sutton	Sandy Koufax	Don Drysdale
+302149	Baseball	3	How many games did the Yankees win of the first 60 games played in the 2018 MLB season?	35 Wins	38 Wins	55 Wins	41 Wins
+38794	Baseball	3	Who won "The Sporting News" Major League Player of the Year award for 1994?	Kirby Puckett	Frank Thomas	Alex Rodriguez	Jeff Bagwell
+273986	Baseball	3	The very first World Series in 1903 was won by which baseball team?	Chicago White Sox	New York Yankees	Brooklyn Dodgers	Boston Red Sox
+493783	Baseball	3	What NL city made a bid for the 2014 All-Star Game?	Cincinnati	Los Angeles	Atlanta	Chicago
+339218	Baseball	3	What baseball team did Mickey Callaway take over in 2017 as the manager?	Cubs	Cardinals	Giants	Mets
+494093	Baseball	3	How many runs were scored in Game one of the 2004 World Series between the Boston Red Sox and St. Louis Cardinals?	16	18	22	20
+104095	Baseball	3	Which of these MLB teams won more games during the 2014 regular season?	Philadelphia	Chi White Sox	Arizona	Toronto
+473952	Baseball	3	Who was the National League Player of the Month for May 2018?	Eugenio Suarez	Ozzie Albies	Ender Inciarte	Scooter Gennett
+8355	Baseball	3	How many home runs did Mickey Mantle hit during his 12 years in the World Series?	9	26	21	18
+50031	Baseball	3	Who did the Atlanta Braves beat in the 1991 NLCS to advance to the World Series?	Cincinnati Reds	Philadelphia Phillies	New York Mets	Pittsburgh Pirates
+473957	Baseball	3	Who won more games in the 2018 MLB regular season?	Colordao Rockies	NY Mets	San Francisco Giants	Chicago Cubs
+10H1037	Baseball	3	How many different teams won the World Series in the 1980's?	Six	Three	Eight	Ten
+287980	Baseball	3	What player was the 2011 American League Championship Series MVP?	Josh Hamilton	Adam Kennedy	CC Sabathia	Nelson Cruz
+195985	Baseball	3	Who picked George Brett in the 1971 baseball draft?	St. Louis	Chicago	Detroit	Kansas City
+427315	Baseball	3	What outfielder was Duffy's Cliff named after?	Duffy Donnegan	Jack Duffy	Hugh Duffy	Duffy Lewis
+346024	Baseball	3	The Red Sox won 3 games in the '67 World Series. Jim Lonborg won 2 games, who won the third?	Gary Waslewski	Jose Santiago	Gary Bell	Johnnie Wyatt
+10H1021	Baseball	3	In 2004, which of these Boston Red Sox players hit a home run in their first ever World Series at bat?	Mark Bellhorn	Manny Ramirez	Johnny Damon	David Ortiz
+302146	Baseball	3	Who is the Major League Baseball player nicknamed "Spiderman"?	Ryan Roberts	Lance Berkman	Derek Jeter	Torii Hunter
+9P31052	Baseball	3	Babe Ruth pitched 14 innings in a game 2 victory during the 1916 World Series. Which team did he beat?	Chicago	Philadelphia	Pittsburgh	Brooklyn
+493782	Baseball	3	Who set a Yankees career record by stealing home fourteen times?	Willie Randolph	Roy White	Ricky Henderson	Lou Gehrig
+526134	Baseball	3	Who did Aaron Judge beat in the finals of the 2017 Home Run Derby?	Cody Bellinger	Gary Sanchez	Charlie Blackmon	Miguel Sano
+56T911	Baseball	3	Which player was named MVP of the 2014 National League Championship Series?	Mike Trout	Clayton Kershaw	Lorenzo Cain	Madison Bumgarner
+511212	Baseball	3	Who won the American League Rookie of the Year award in 2010?	Austin Jackson	Danny Valencia	Mike Stanton	Neftali Feliz
+293334	Baseball	3	Mitch Moreland and which other Texas Rangers player hit a home run in Game three of the 2010 World Series?	Bengie Molina	Michael Young	Elvis Andrus	Josh Hamilton
+344709	Baseball	3	Who won the 2012 American League Championship Series MVP award?	Phil Coke	Mariano Rivera	Doug Fister	Delmon Young
+494017	Baseball	3	Who finished fourth in votes for the 2012 National League MVP award?	R.A. Dickey	Chipper Jones	Ryan Braun	Yadier Molina
+354838	Baseball	3	Which team had two players with more than 100 RBIs in the 2019 MLB season?	Yankees	Royals	Mets	Twins
+511187	Baseball	3	What team does rookie Ronald Acuna Jr play for in 2018?	Giants	Dodgers	Astros	Braves
+40194	Baseball	3	What year were the Cincinnati Reds founded?	1919	1890	1901	1869
+494127	Baseball	3	How many games did the Mets and Yankees play in the 2000 World Series?	7 Games	6 Games	4 Games	5 Games
+618D222	Baseball	3	In 2011, Prince Fielder set a Brewers record with 32 of what?	Home Runs	Stolen Bases	Double Plays Grounded Into	Intentional Walks
+56T902	Baseball	3	When Brandon Webb won the 2006 Cy Young Award what team was he the pitching for?	New York	Boston	Seattle	Arizona
+199218	Baseball	3	Who was the Game seven winning pitcher for the Anaheim Angels in the 2002 MLB World Series?	Brendan Donnelly	Jarrod Washburn	Ramon Ortiz	John Lackey
+473775	Baseball	3	Which Hall of Famer never won a World Series ring?	Yogi Berra	Babe Ruth	Pete Rose	Ernie Banks
+427136	Baseball	3	Who had 10 hits in the 1999 National League Championship Series and was selected the MVP?	Andruw Jones	Bobby Bonilla	Ivan Rodriguez	Eddie Perez
+56T890	Baseball	3	Dave Hudgens is the hitting coach for which club in 2018?	Royals	Mariners	Nationals	Astros
+526142	Baseball	3	In the 2013 draft, who was selected sixth overall by the Miami Marlins?	Tyler Naquin	Austin Meadows	Kohl Stewart	Colin Moran
+50034	Baseball	3	Whose five RBIs were the most for any player in the 2007 World Series?	David Ortiz'	Todd Helton's	Troy Tulowitzki's	Jason Varitek's
+12K1309	Baseball	3	Who was the first person to win the AL Third Base Silver Slugger in two consecutive years?	George Brett	Alex Rodriguez	Dean Palmer	Wade Boggs
+56T1028	Baseball	3	Who was the starting Third Baseman for the National League in the 2017 All Star Game?	Jake Lamb	Justin Turner	DJ LeMahieu	Nolan Arenado
+427147	Baseball	3	How many World Series titles did the Cleveland Indians have in the 20th century?	1	3	7	2
+54529	Baseball	3	The Braves moved to Atlanta in what year?	1964	1967	1965	1966
+10H1049	Baseball	3	What was the winning player's share for the 2018 World Series?	$16,838.72	$1,416,838.72	$116,838.72	$416,838.72
+56T923	Baseball	3	Jered Weaver injured which part of his body dodging a hit by Mitch Moreland in 2013?	Shoulder	Wrist	Knee	Elbow
+96426	Baseball	3	Which Yankee had the more RBIs in the 2019 MLB season?	Gary Sanchez	Brett Gardner	Luke Voit	DJ LeMahieu
+339579	Baseball	3	What MLB team named Gabe Kapler as manager in 2017?	Toronto Blue Jays	Los Angeles Dodgers	Pittsburgh Pirates	Philadelphia Phillies
+473678	Baseball	3	In which game of the '77 World Series did Reggie Jackson hit 3 home runs in a row?	4	7	5	6
+55749	Baseball	3	Who won the 2002 National League Championship Series MVP award?	Albert Pujols	Chone Figgins	Sterling Hitchcock	Benito Santiago
+274270	Baseball	3	Who did not have two home runs in the 1970 World Series when the Baltimore Orioles beat the Reds?	Brooks Robinson	Frank Robinson	Boog Powell	John Lowenstein
+511219	Baseball	3	The 2009 "The Sporting News" Major League Player of the Year was awarded to which athlete?	Fernando Valenzuela	Andruw Jones	Billy Williams	Albert Pujols
+618D200	Baseball	3	Where did Jackie Robinson attend college?	Notre Dame	Kansas State	William & Mary	UCLA
+199217	Baseball	3	The 1993 World Series winners, the Toronto Blue Jays, beat the Phillies in how many games?	Four	Five	Seven	Six
+56T950	Baseball	3	How many home runs and RBI'S did Aaron Judge have in the 2017 regular season?	59 Home Runs, 95 RBIs	36 Home Runs, 101 RBIs	41 Home Runs, 102 RBIs	52 Home Runs, 114 RBIs
+499879	Baseball	3	Who won more games in the 2019 MLB regular season?	Colordao Rockies	Philadelphia Phillies	Chicago Cubs	Arizona Diamondbacks
+325879	Baseball	3	Kenny Rogers was found with what curious substance on his hand during the 2006 World Series?	Pine Tar	Vasoline	Motor Oil	Dirt
+5B6589	Baseball	3	Who was the American League Player of the Month for May 2018?	Aaron Judge	Albert Pujols	Joe Mauer	Francisco Lindor
+182025	Baseball	3	What was Jackie Robinson's position in the Army when he was discharged?	Sergeant First Class	Captain	Private	Second Lieutenant
+473769	Baseball	3	How many World Series victories did the White Sox have during the 20th century?	4	0	1	2
+499678	Baseball	3	Who was the first person to win a Cy Young award with fewer than 10 wins on the season?	Sparky Lyle	Dan Quisenberry	Mariano Rivera	Bruce Sutter
+256399	Baseball	3	Who is the Rays player that hit .294 in 2010?	Billy Butler	Hanley Ramirez	Ryan Zimmerman	Evan Longoria
+339383	Baseball	3	Who went hitless in game 7 of the 2019 World Series?	Ryan Zimmerman	Howie Kendrick	Jose Altuve	Trea Turner
+302150	Baseball	3	Who went 6 for 6 against the Oakland A's in the 16-2 win for Houston?	Jose Altuve	Gerrit Cole	Alex Bregman	George Springer
+494172	Baseball	3	What team used the Sister Sledge hit "We Are Family" as the theme song to its 1979 World Series run?	Philadelphia Phillies	New York Yankees	St. Louis Cardinals	Pittsburgh Pirates
+56T941	Baseball	3	In 2010, Matt Holliday switched his number to 7 to honor which player?	Willie Mays	Hank Aaron	Roger Maris	Mickey Mantle
+12K1189	Baseball	3	Who led the Boston Red Sox in home runs for the 2012 baseball season?	Dustin Pedroia	Mike Aviles	Cody Ross	Jarrod Saltalamacchia
+494166	Baseball	3	What World Series team included Cliff Floyd, Andy Sonnanstine and B.J. Upton?	The 2011 Cardinals	The 2007 Red Sox	The 2002 Giants	The 2008 Rays
+302141	Baseball	3	How had 8 RBIs in a game against Tampa Bay in April 2018?	Mookie Betts	Mike Trout	Francisco Lindor	Didi Gregorius
+7B5016	Baseball	3	Which of these MLB teams played in the AL East and ended the 2014 season on a L-1 streak?	Kansas City	NY Yankees	San Francisco	Tampa Bay
+494170	Baseball	3	Who were the first brothers to hit home runs in the same World Series game?	Paul And Lloyd Waner	Hank And Tommy Aaron	Barney And Neil Schultz	Ken And Clete Boyer
+499946	Baseball	3	How many home runs and runs batted in did Yunel Escobar have in the 2011 regular season?	6 Home Runs and 61 RBIs	25 Home Runs and 94 RBIs	18 Home Runs and 87 RBIs	11 Home Runs and 48 RBIs
+499945	Baseball	3	Who was the first manager of the Florida Marlins?	Tony La Russa	Garry Sheffield	Wayne Huizenga	Rene Lachemann
+511224	Baseball	3	Who was the first person to win the All-Star Game MVP twice?	Hank Aaron	Ted Williams	Fred Lynn	Willie Mays
+484595	Baseball	3	Which MLB pitcher gave up 26 home runs and won 9 games in the 2011 regular season?	Carl Pavano	Bud Norris	Derek Holland	Jeremy Guthrie
+494084	Baseball	3	Who did Boston defeat in the first World Series ever?	Boston Braves	Brooklyn Dodgers	Philadelphia Phillies	Pittsburgh Pirates
+499649	Baseball	3	Which pitcher entered the 2011 All-Star Game by sliding onto the mound?	Tyler Clippard	Ryan Vogelsong	Cliff Lee	Heath Bell
+494163	Baseball	3	Whose career World Series home run record did Mickey Mantle break with his 16th on October 10, 1964?	Lou Gehrig	Yogi Berra	Roger Maris	Babe Ruth
+5B6605	Baseball	3	How many seasons does the 2018 MLB mark for Dustin Pedroia as a Boston Red Sox player?	5th Season	7th Season	10th Season	13th Season
+274037	Baseball	3	What World Series team in the 90's included Hershiser, Ramirez and Grissom?	Florida Marlins	Boston Red Sox	New York Yankees	Cleveland Indians
+302155	Baseball	3	Which of these Major League teams had more victories during the 2014 regular season?	Chi Cubs	Philadelphia	Colorado	NY Mets
+473878	Baseball	3	Who recorded both of the saves credited in the 1991 World Series?	Steve Bedrosian	Kent Mercker	Jeff Reardon	Rick Aguilera
+352475	Baseball	3	Who won the 2008 National League Championship Series MVP award?	David Freese	Sterling Hitchcock	Benito Santiago	Cole Hamels
+494023	Baseball	3	What baseball team did Gabe Kapler take over in 2017 as the manager?	Marlins	Dodgers	Astros	Phillies
+252217	Baseball	3	What is Aaron Judge's second year salary reported to be from the Yankees?	2600000	333000	1200000	$622,300 
+325961	Baseball	3	Which Philadelphia Phillies pitcher threw 10 strikeouts in a complete game win for Game one of the 2009 World Series?	Pedro Martfnez	Cole Hamels	Brad Lidge	Cliff Lee
+494158	Baseball	3	Which pitcher won the first World Series game ever played?	Sam Leever	Bill Dineen	Cy Young	Deacon Phillippe
+198981	Baseball	3	How many of the 1991 World Series games went to extra innings?	One	Six	Two	Three
+273980	Baseball	3	What year was the 115th edition of the World Series played?	2011	1999	2017	2019
+499692	Baseball	3	Who won the National League MVP Award in 1977?	Johnny Bench	Steve Garvey	Dave Parker	George Foster
+82890	Baseball	3	In the 1974 World Series, which pitcher was called on to help nail down the win in Game 1?	Rollie Fingers	Ken Holtzman	Steve Garvey	Catfish Hunter
+302138	Baseball	3	Who got his 3,000th career hit with a single in the fifth inning against the Seattle Mariners on May 4, 2018?	Ichiro Suzuki	Nick Markakis	David Wright	Albert Pujols
+473767	Baseball	3	How many innings did game 3 of the 2018 World Series last?	9 Innings	22 Innings	15 Innings	18 Innings
+199215	Baseball	3	How many games were played at Fenway Park in the 2018 World Series?	One	Three	Five	Two
+5B6587	Baseball	3	How many strikeouts did Gerrit Cole have in the 2019 MLB season?	143	262	398	326
+494115	Baseball	3	Who hit a home run in the Baltimore Orioles' 1-0 win in the clinching game of the 1966 World Series?	Curt Blefary	Davey Johnson	Bobby Grich	Frank Robinson
+493576	Baseball	3	What was former MLB player Reggie Jackson's career slugging percentage?	.987	.241	.790	.490
+56T935	Baseball	3	Which Padre hit 3 home runs in a game in April 2018?	Will Myers	Eric Hosmer	Hunter Renfroe	Christian Villanueva
+80387	Baseball	3	How many hits did the Washington Nationals have in the 2019 World Series?	121 Hits	35 Hits	68 Hits	58 Hits
+499911	Baseball	3	How many home runs and RBI'S did Edwin Encarnacion have in the 2017 regular season?	28 Home Runs, 85 RBIs	36 Home Runs, 112 RBIs	52 Home Runs, 90 RBIs	38 Home Runs, 107 RBIs
+5B6593	Baseball	3	When was Jason Giambi the American League MVP?	2003	2004	1999	2000
+54538	Baseball	3	The winning pitcher for the Red Sox in the final game of the 1918 World Series went on to do what?	Become A U.S. Senator	Score A TD In The NFL	Marry 5 Times	Kill Another Player
+473928	Baseball	3	Which Dodger pitcher threw 2 complete game wins in the 1955 World Series?	Ralph Branca	Carl Erskine	Don Newcombe	Johnny Podres
+60940	Baseball	3	Who was the only Colorado Rockie to steal a base in the 2007 World Series?	Willy Taveras	Matt Holliday	Jamey Carroll	Kazuo Matsui
+493957	Baseball	3	How many home runs and runs batted in did Erick Aybar have in the 2011 regular season?	19 Home Runs and 78 RBIs	20 Home Runs and 87 RBIs	5 Home Runs and 60 RBIs	10 Home Runs and 59 RBIs
+493940	Baseball	3	Who became the first Dominican-born player to reach 3000 MLB career hits?	Victor Martinez	Robinson Cano	Josee Ramirez	Adrian Beltre
+427484	Baseball	3	Who was named MVP of the 2005 All-Star Game?	Bobby Abreu	Mark Teixeira	Aramis Ramirez	Miguel Tejada
+8334	Baseball	3	Who was the winning manager in the 2017 World Series?	Aaron Boone	Joe Maddon	Dave Roberts	A. J. Hinch
+56T801	Baseball	3	Who did Sean Manaea throw a no hitter against in April 2018?	Mariners	Yankees	Royals	Red Sox
+285676	Baseball	3	Which MLB team won over 100 regular seasons games in 2017?	Detroit Tigers	NY Yankees	Philadelphia Phillies	Cleveland Indians
+511222	Baseball	3	Who was the starting Third Baseman for the American League in the 2017 All Star Game?	Starlin Castro	Francisco Lindor	Mike Moustakas	Jose Ramirez
+12K1379	Baseball	3	Who is the outfielder that won the ALCS MVP Award in 2000?	Frank White	Bernie Williams	CC Sabathia	David Justice
+494156	Baseball	3	What World Series team included Colby Lewis, Jeff Francoeur and Bengie Molina?	The 2005 White Sox	The 2002 Angels	The 2003 Marlins	The 2010 Rangers
+350652	Baseball	3	What Tiger was tagged out at the plate in the second inning of game 2 of the 2012 World Series?	Delmon Young	Miguel Cabrera	Jhonny Peralta	Prince Fielder
+7D88969	Baseball	3	In the 2002 World Series, in how many games did Barry Bonds hit a home run?	Two	One	Five	Four
+499695	Baseball	3	Where was baseball's Manny Ramirez born?	Miami	New York City	Puerto Rico	Santo Domingo
+18S1294	Baseball	3	Who won the MLB GIBBY Award for Setup Man with 49 percent of the vote in 2010?	Hong-Chih Kuo	Daniel Bard	Luke Gregerson	Joaquin Benoit
+427340	Baseball	3	Which team had two players with more than 100 RBIs in the 2019 MLB season?	A's	Indians	Angels	Astros
+73423	Baseball	3	Which team lost the 2008 World Series?	Boston Red Sox	Detroit Tigers	Philadelphia Phillies	Tampa Bay Rays
+473860	Baseball	3	Who was the 2009 Branch Rickey Award winner?	Bobby Abreu	Mike Stanton	Troy Tulowitzki	Torii Hunter
+473673	Baseball	3	The Florida Marlins defeated what team four games to three in the 2003 Championship Series?	Atlanta Braves	Cincinnati Reds	Houston Astros	Chicago Cubs
+385523	Baseball	3	Who did the Brooklyn Dodgers beat to win their first World Series and when?	Red Sox 1956	Yankees 1956	Red Sox 1955	Yankees 1955
+494076	Baseball	3	Who won the first World Series MVP Award?	Jackie Robinson	Don Larsen	Bobby Richardson	Johnny Podres
+302131	Baseball	3	Who came in 2nd place for the 2017 NL Cy Young Award voting?	Zack Greinke	Robbie Ray	Jacob deGrom	Clayton Kershaw
+274031	Baseball	3	What team did David Justice belong to in the 1991 World Series?	Cardinals	Yankees	Twins	Braves
+354690	Baseball	3	How many times did Rickey Henderson win the World Series?	Never	Once	Four Times	Twice
+53602	Baseball	3	How many of the 1991 World Series games were decided by a single run?	Seven	Two	None	Five
+44274	Baseball	3	What pitcher won the first game of the 2019 World Series?	Joe Ross	Gerrit Cole	Justin Verlander	Max Scherzer
+427159	Baseball	3	Who was the only Baltimore Oriole pitcher to win a game in the 1969 World Series against the Mets?	Pete Richert	Jim Palmer	Eddie Watt	Mike Cuellar
+274012	Baseball	3	Who threw out the ceremonial first pitch of Game 2 of the 2019 World Series?	Jane Fonda	Al Gore	Donald Trump	Simone Biles
+273966	Baseball	3	Who was picked off base twice in the same World Series game?	Tommy Leach	Solly Hoffman	Johnny Evers	Max Flack
+302153	Baseball	3	What injury landed Marco Hernandez on the 60 day disabled list in June 2018?	Toe	Bicep	Neck	Shoulder
+494168	Baseball	3	What World Series team included Luis Castillo and Alex Gonzalez?	The 2011 Rangers	The 2002 Giants	The 2009 Phillies	The 2003 Marlins
+354697	Baseball	3	Who won baseball's 1969 World Series, beating the Baltimore Orioles 4 games to 1?	New York Yankees	Oakland A's	Pittsburgh Pirates	New York Mets
+427060	Baseball	3	Who hit two solo home runs for the Philadelphia Phillies in Game one of the 2009 MLB World Series?	Carlos Ruiz	Jayson Werth	Pedro Feliz	Chase Utley
+120123	Baseball	3	Who is the baseball player nicknamed "Pronk"?	Robinson Cano	Pablo Sandoval	Jose Bautista	Travis Hafner
+427196	Baseball	3	The New York Yankees had won how many World Series when beaten by Arizona Diamondbacks in 2001?	None	Seventeen	Twenty-Nine	Twenty-Six
+499641	Baseball	3	How many hits did Ichiro Suzuki hit in the 2004 baseball season?	190	265	73	262
+302157	Baseball	3	Roberto Clemente did not establish a Pittsburgh Pirate career record in what?	Games	RBI's	Hits	Home Runs
+526124	Baseball	3	Who did Hank Aaron hit career home run #715 off of in 1974?	Juan Marichal	Bruce Kison	Gaylord Perry	Al Downing
+73544	Baseball	3	Aubrey Huff and which other San Francisco Giants player drilled a home run in Game four of the 2010 World Series?	Ramon Ramirez	Freddy Sanchez	Juan Uribe	Buster Posey
+427238	Baseball	3	Which Baltimore Oriole had 2 pinch-hits in the 1969 World Series?	Merv Rettenmund	Curt Motton	Elrod Hendricks	Clay Dalrymple
+273971	Baseball	3	When Bobby Thompson hit the shot heard around the world to win the NL pennant in 1951 who was on deck?	John Williams	Hank Aaron	Charles Yolanski	Willie Mays
+12K1319	Baseball	3	What team's manager won the 2011 American League's Manager of the Year?	Yankees	Rangers	White Sox	Rays
+350590	Baseball	3	Bumgarner pitched 7 shutout innings in 2012's World Series game 2, how many strike outs did he have?	Twelve	Zero	Three	Eight
+618D190	Baseball	3	Who is the pitcher that won the ALCS MVP Award in 2003?	Fred Lynn	Paul Konerko	David Justice	Mariano Rivera
+427260	Baseball	3	On what date was the last game of the 2012 World Series played?	October 30	November 1	October 12	October 28
+473768	Baseball	3	In 1905, what pitcher threw 27 scoreless innings in the World Series?	Cy Young	Rube Waddell	Babe Ruth	Christy Mathewson
+42A133	Baseball	3	Which baseball player hosted "Saturday Night Live" on December 1, 2001?	Cal Ripken, Jr.	Jason Giambi	Roger Clemens	Derek Jeter
+499889	Baseball	3	Who won the MLB GIBBY Award for Breakout Player in 2010?	Jose Bautista	Trevor Cahill	Mat Latos	Carlos Gonzalez
+56T878	Baseball	3	How many strikeouts did Domingo German have in the 2019 MLB season?	306	120	309	153
+7035	Baseball	3	What team did Blake Parker pitch for in 2017?	Tampa Bay Rays	Arizona Diamondbacks	Kansas City Royals	Los Angeles Angels
+9P31040	Baseball	3	Who won the 2012 National League Championship Series MVP award?	Pablo Sandoval	Kyle Lohse	Ryan Howard	Marco Scutaro
+200103	Baseball	3	Which San Francisco Giants player hit a home run to left center field in Game 5 of the 2010 World Series?	Ramon Ramirez	Pat Burrell	Buster Posey	Edgar Renteria
+427244	Baseball	3	In Game 4 of the 2003 World Series Jeff Weaver gave up a home run in the 12th inning to what Marlin?	Ivan Rodriguez	Mike Lowell	Derrek Lee	Alex Gonzalez
+7D98966	Baseball	3	How many pitchers did Washington use in game 1 of the 2019 World Series?	Two	Seven	Three	Five
+56T914	Baseball	3	Who was named the 2014 National League Rookie of the Year?	Billy Hamilton	Kyle Hendricks	Jose Abreu	Jacob DeGrom
+75626	Baseball	3	Who hit 3 home runs in the 2018 World Series?	Matt Kemp	Mitch Moreland	Mookie Betts	Steve Pearce
+426770	Baseball	3	Who was the losing pitcher in the 1956 World Series perfect game?	Johnny Podres	Preacher Roe	Johnny Sain	Sal Maglie
+273977	Baseball	3	Which Florida Marlins player was the MVP of the 2003 World Series?	Alex Gonzalez	Miguel Cabrera	Ivan Rodriguez	Josh Beckett
+427203	Baseball	3	Other than 1994, what was the only year to have the World Series cancelled?	1943	1917	1901	1904
+427261	Baseball	3	Which of these years did the LA Dodgers not make it to the World Series?	2018	2017	1981	1995
+325982	Baseball	3	Who was the only Philadelphia Phillies pitcher to record a save in the 2008 World Series?	Chad Durbin	Scott Eyre	Jamie Moyer	Brad Lidge
+9P31004	Baseball	3	Who was Bernie Carbo pinch-hitting for in Game 3 of baseball's 1975 World Series?	Rico Petrocelli	Luis Tiant	Rick Wise	Reggie Cleveland
+473949	Baseball	3	How many strikeouts did Zack Greinke have in the 2019 MLB season?	123	114	255	187
+325883	Baseball	3	How many runs did Boston score in game 4 of the 2018 World Series?	Zero	Ten Runs	Five Runs	Nine Runs
+287589	Baseball	3	What Yankee in a four-game stretch from Aug. 13 to Aug. 16, 2013 had 12 hits and 18 RBIs?	Robinson Cano	Lyle Overbay	Derek Jeter	Alfonso Soriano
+473780	Baseball	3	In 2012, Ian Kinsler signed a contact extension with which team?	Cincinnati Reds	Milwaukee Breweers	Detroit Tigers	Texas Rangers
+5B6595	Baseball	3	What is Cy Young's first name?	Cyrus	Conner	Cyprus	Denton
+302875	Baseball	3	Which Phillies player had a pitch thrown over his head by Randy Johnson at the 1993 All-Star Game?	Jim Eisenreich	Darren Daulton	Mickey Morandini	John Kruk
+10H1045	Baseball	3	How many World Series did Mike Mussina win with the Yankees under his original Yankee contract?	Two	Three	Four	Zero
+494126	Baseball	3	Carlos Ruiz, Ryan Madson and Pedro Feliz played on which World Series team?	The 1995 Indians	The 2008 Rays	The 2010 Giants	The 2009 Phillies
+325915	Baseball	3	How many runs did George Springer score in the 2017 World Series?	11 Runs	3 Runs	21 Runs	8 Runs
+274115	Baseball	3	Who became the manager of the Seattle Mariners in 2004?	Bill Plummer	Lou Piniella	Bob Melvin	Mike Hargrove
+427256	Baseball	3	Who was selected as the MVP of the 2007 National League Championship Series?	Ivan Rodriguez	David Wright	Craig Counsell	Matt Holliday
+5B6601	Baseball	3	What is baseball spring training held in the eastern USA called?	Florida League	Atlantic League	OJ League	Grapefruit League
+7B5010	Baseball	3	What MLB team named Dave Martinez as manager in 2017?	Kansas City Royals	Miami Marlins	San Francisco Giants	Washington Nationals
+499679	Baseball	3	What team did Torey Lovullo taker over in 2016 as the manager?	New York Mets	Oakland A's	New York Yankees	Arizona Diamondbacks
+274019	Baseball	3	Which of these Yankees did not homer in his first-ever World Series at bat?	Bob Watson	Roger Maris	Elston Howard	Reggie Jackson
+9P31010	Baseball	3	Who won the 2000 National League Championship Series MVP award?	Benito Santiago	Barry Bonds	David Freese	Mike Hampton
+526077	Baseball	3	How many players had over 100 RBIs in the 2019 MLB season?	19 Players	5 Players	25 Players	11 Players
+10H1017	Baseball	3	Who did the Marlins beat, four games to two, to capture the 2003 World Series?	Anaheim Angels	Boston Red Sox	Cleveland Indians	New York Yankees
+274018	Baseball	3	What was notable about a Rollie Fingers 3rd strike pitch to Johnny Bench in the 1972 World Series?	Last Pitch Of The Series	Bench Reached First On Wild Pitch	It Hit Bench	Bench Expected An Intentional Walk
+302127	Baseball	3	In what 2004 category did Pittsburgh Pirate Oliver Perez not rank in the NL starting pitcher top 10?	Walks	ERA	Strikeouts	Wins
+427047	Baseball	3	The San Francisco Giants defeated the Texas Rangers 9-0 in which game of the 2010 MLB World Series?	Game 1	Game 5	Game 4	Game 2
+344708	Baseball	3	Who saved two games for the New York Yankees in the 1981 MLB World Series?	Mariano Rivera	John Wetteland	George Frazier	Rich Gossage
+504928	Baseball	3	Who became the first Brewer to hit an All-Star Game home run in 2012?	Brian Wilson	Tyler Clippard	Matt Capps	Prince Fielder
+325976	Baseball	3	What pitcher won the sixth game of the 2019 World Series?	Gerrit Cole	Patrick Corbin	Will Harris	Stephen Strasburg
+385955	Baseball	3	What World Series champions had Pudge Rodriguez as their catcher?	New York Yankees	Boston Red Sox	Chicago White Sox	Florida Marlins
+5B6565	Baseball	3	Who did the Chicago White Sox select as the seventeenth pick overall in the 2013 draft?	Cory Spangenberg	Ty Hensley	Sonny Gray	Tim Anderson
+10H10442	Baseball	3	Of these MLB players, who had more World Series home runs?	Barry Bonds	Frank Robinson	Joe DiMaggio	Reggie Jackson
+427220	Baseball	3	How many times did Tiger Austin Jackson strike out in the 2012 World Series?	Ten Times	Twenty Times	Four Times	Six Times
+50032	Baseball	3	How many hits did the Nationals have in game 7 of the 2019 World Series?	13 Hits	5 Hits	15 Hits	9 Hits
+511221	Baseball	3	Who is the baseball player nicknamed "Caveman"?	Mark Trumbo	Albert Pujols	Chris Perez	Johnny Damon
+198990	Baseball	3	Which two pitchers dueled in two games of the 1963 World Series?	Don Drysdale And Whitey Ford	Sandy Koufax And Jim Bouton	Don Drysdale And Jim Bouton	Sandy Koufax And Whitey Ford
+473783	Baseball	3	Who went hitless in game 7 of the 2019 World Series?	Juan Soto	Josh Reddick	Carlos Correa	Alex Berman
+493754	Baseball	3	Who did Miguel Cabrera beat out for 2012 AL MVP by 81 points?	Adrian Beltre	Robinson Cano	Josh Hamilton	Mike Trout
+9P31055	Baseball	3	Which Major League Baseball team appeared in the most World Series during the 1970's?	Oakland Athletics	New York Yankees	Los Angeles Dodgers	Cincinnati Reds
+10H1057	Baseball	3	Who had only one hit (a home run) in the 2012 World Series?	Gregor Blanco	Omar Infante	Buster Posey	Jhonny Peralta
+352178	Baseball	3	How many career World Series home runs does Mark McGwire have?	0	10	2	1
+10H1025	Baseball	3	Off which Oakland A's pitcher did Kirk Gibson hit his dramatic home run in the 1988 World Series?	Dave Stewart	Bob Welch	Rick Honeycutt	Dennis Eckersley
+526140	Baseball	3	What team did Travis Shaw play for before joining the Milwaukee Brewers?	Giants	Mets	Yankees	Red Sox
+474015	Baseball	3	How many strikeouts did Stephen Strasburg have in the 2019 MLB season?	326	201	291	251
+325981	Baseball	3	How many errors did the Dodgers commit in the 2017 World Series?	0 Errors	14 Errors	6 Errors	4 Errors
+56T1034	Baseball	3	Who won the 2011 Best Major League Baseball Player ESPY Award?	Derek Jeter	Adrian Beltre	Starlin Castro	Roy Halladay
+494087	Baseball	3	How many times in the 1990's did the Braves make the World Series?	2 Times	0 Times	9 Times	5 Times
+120119	Baseball	3	In the 2017 MLB regular season, how many home runs and RBI'S did Mike Moustakas have?	36 Home Runs, 92 RBIs	50 Home Runs, 90 RBIs	49 Home Runs, 111 RBIs	38 Home Runs, 85 RBIs
+5B6575	Baseball	3	What is baseball spring training held in the western USA called?	Left Coast League	Pacific League	Rocky League	Cactus League
+344538	Baseball	3	Who finished second in votes for the 2012 American League MVP award?	Derek Jeter	Yoenis Cespedes	Adrian Beltre	Mike Trout
+426779	Baseball	3	Gene Tenace played in the 7th game of the 1972 World Series despite what unusual circumstance?	Broken Arm	Wrong-Sized Shoes	Case of Malaria	Death Threat
+7B5037	Baseball	3	Who is the first player in the 2017 American League to reach 30 home runs in the 2017 season?	Justin Smoak	Mark Trumbo	Khris Davis	Aaron Judge
+426815	Baseball	3	Who hit a go ahead home run in the 8th inning of Game 4 of the 1970 MLB World Series?	Pete Rose	Johnny Bench	Bernie Carbo	Lee May
+283052	Baseball	3	Who is the Mets rookie manager for 2018?	Mickey Campbell	Lenny Larocca	Aaron Boone	Mickey Callaway
+473677	Baseball	3	Who hit the first World Series home run as a pitcher?	Bob Gibson	Dave McNally	Babe Ruth	Jim Bagby
+274200	Baseball	3	In 2010, Roy Halladay became the second pitcher to do what?	Complete an Unassisted Triple Play	Win the Cy Young and MVP	Win 30 Games	Throw a Postseason No-Hitter
+494077	Baseball	3	Who is the only Philly to play on both the 1980 and 1993 World Series teams?	Mike Schmidt	Steve Carlton	Larry Bowa	Mark Davis
+499681	Baseball	3	Who hit the game-winning home run in the 2017 MLB All-star Game played?	Justin Smoak	Charlie Blackmon	Bryce Harper	Robinson Cano
+618D206	Baseball	3	Who is the baseball player nicknamed "The Big Donkey"?	Albert Pujols	Prince Fielder	Alex Rodriguez	Adam Dunn
+618D234	Baseball	3	Who won the 2017 Mariano Rivera AL Reliever of the Year Award?	Zach Britton	Aroldis Chapman	Blake Parker	Craig Kimbrel
+339268	Baseball	3	Who did the San Diego Padres select as the thirteenth pick overall in the 2013 draft?	Seth Blair	David Dahl	Ryne Stanek	Hunter Renfroe
+7D98966	Baseball	3	What team did the Baltimore Orioles defeat to win their first World Series title?	Cincinnati Reds	New York Mets	Pittsburgh Pirates	Los Angeles Dodgers
+251805	Baseball	3	Who is the baseball player nicknamed "Cuban Missile"?	Chris Perez	Johnny Damon	Albert Pujols	Alexei Ramirez
+618D216	Baseball	3	Which infielder was the Orioles MVP in 2005?	Howie Clark	Ed Rogers	Melvin Mora	Brian Roberts
+120116	Baseball	3	On May 6, 2007, Roger Clemens revealed his signing to which Major League Baseball team?	Boston Red Sox	Florida Marlins	New York Mets	New York Yankees
+494154	Baseball	3	What was the largest attendance reported for any of the 2008 World Series games?	67,230	38,329	44,138	45,940
+499929	Baseball	3	Which of these players will earn more than $32 Million salary for 2018?	J.D. Martinez	Robinson Cano	Yu Darvish	Clayton Kershaw
+303389	Baseball	3	Where was baseball's Didi Gregorius born?	Switzerland	Canada	Greece	Netherlands
+526094	Baseball	3	How many strikeouts did Eduardo Rodriguez have in the 2019 MLB season?	440	117	310	213
+7D88984	Baseball	3	Where was game 1 of the 2018 World Series played?	Dodger Stadium	Yankee Stadium	Jacobs Field	Fenway
+339771	Baseball	3	Who stole four bases in the 1991 World Series?	Ron Gant	Dan Gladden	Kirby Puckett	Chuck Knoblauch
+339225	Baseball	3	Felix Hernandez threw a perfect game against which team in 2012?	Seattle Mariners	New York Yankees	Houston Astros	Tampa Bay Rays
+302123	Baseball	3	Which of these MLB teams won the most game during the 2014 regular season?	Texas	Arizona	Colorado	Boston
+473852	Baseball	3	What added significance to pitcher Dave McNally's homer in the 1970 World Series?	It Was An Inside The Park Homer	It Was His First MLB Hit	It Was His First World Series Hit	It Was A Grand Slam
+53589	Baseball	3	Who won baseball's 1972 World Series, beating the Cincinnati Reds 4 games to 3?	Los Angeles Dodgers	New York Mets	New York Yankees	Oakland A's
+2357	Baseball	3	How many strikeouts did San Francisco Giants pitcher Tim Lincecum throw in the final game of the 2010 World Series?	6	8	12	10
+494089	Baseball	3	Who pitched the opening game of the 1988 World Series for the Dodgers?	Orel Hershiser	Dave Stewart	Dennis Eckersley	Tim Belcher
+70707	Baseball	3	Which two pitchers won four of five World Series MVP Awards from 1963-67?	Bob Gibson & Warren Spahn	Warren Spahn & Don Drysdale	Sandy Koufax & Denny McLain	Bob Gibson & Sandy Koufax
+7D88969	Baseball	3	How many games did it take the San Francisco Giants to defeat the Texas Rangers in the 2010 MLB World Series?	4	7	6	5
+339588	Baseball	3	Who won the 2006 National League Championship Series MVP award?	Mike Hampton	Marco Scutaro	Jorge Posada	Jeff Suppan
+493958	Baseball	3	Which American League star won the MLB All-Star Game MVP Award in 2008?	Ichiro Suzuki	Cal Ripken, Jr.	Alfonso Soriano	J.D. Drew
+256453	Baseball	3	What MLB team named Mickey Callaway as manager in 2017?	Minnesota Twins	Atlanta Braves	St. Louis Cardinals	NY Mets
+511225	Baseball	3	What milestone run did Ichiro Suzuki score in 2007 with the Seattle Mariners?	His 1,000th	His 500th	His 1,500th	His 750th
+7D88981	Baseball	3	Which team scored fourteen runs in a World Series game during the 1990's but still lost?	New York Mets	Boston Red Sox	Toronto Blue Jays	Philadelphia Phillies
+618D238	Baseball	3	Justin Upton joined his brother BJ on which team in 2013?	New York Mets	Philadelphia Phillies	Miami Marlins	Atlanta Braves
+387970	Baseball	3	Who hit the most home runs during the 2002 MLB World Series?	Troy Glaus	Tim Salmon	Reggie Sanders	Barry Bonds
+9P31019	Baseball	3	Who was selected as the MVP of the 2011 National League Championship Series?	Cole Hamels	Albert Pujols	Pablo Sandoval	David Freese
+426769	Baseball	3	What World Series Championship team did Ozzie Guillen manage and when?	2003 Florida Marlins	2002 Anaheim Angels	2004 Boston Red Sox	2005 Chicago White Sox
+302142	Baseball	3	Who was the manager of the 2005 Chicago White Sox?	Lance Berkman	Jerry Reinsdorf	Jose Contreras	Ozzie Guillen
+325907	Baseball	3	What year did Salvador Perez earn the MVP award in a World Series?	2018	2018	2016	2015
+2469	Baseball	3	What World Series team included pitchers Brad Penny, Braden Looper and Ugueth Urbina?	1998 San Diego Padres	2000 New York Mets	2001 Arizona Diamondbacks	2003 Florida Marlins
+199200	Baseball	3	Oakland A Dave Henderson hit two home runs in which innings of Game 3 of the 1989 World Series?	1st And 6th	4th And 12th	1st And 9th	4th And 5th
+494125	Baseball	3	What pitcher won the second game of the 2019 World Series?	Roberto Osuna	Justin Verlander	Patrick Corbin	Stephen Strasburg
+511220	Baseball	3	In what year did Derek Jeter win his first Silver Slugger award?	1998	2001	2004	2006
+427174	Baseball	3	Who was the MVP of the 1993 World Series between the Philadelphia Phillies and the Toronto Blue Jays?	Livan Hernandez	Dave Stewart	Orel Hershiser	Paul Molitor
+354840	Baseball	3	How many first place votes for 2017 MVP did Aaron Judge get?	57 Votes	14 Votes	0 Votes	2 Votes
+5B6571	Baseball	3	In the 2017 MLB regular season, Joey Gallo hit how many home runs and collected how many RBI'S?	36 Home Runs, 92 RBIs	32 Home Runs, 112 RBIs	52 Home Runs, 114 RBIs	41 Home Runs, 80 RBIs
+499900	Baseball	3	Which team scored 619 runs and ended up the 2014 season 73-89?	San Francisco	San Diego	Tampa Bay	Philadelphia
+2290	Baseball	3	Who was the only Cleveland Indian to hit multiple home runs in the 1995 World Series?	Eddie Murray	Manny Ramirez	Tony Pena	Albert Belle
+302151	Baseball	3	Which Hall of Fame outfielder made his 24th and final All-Star Game appearance in 1973?	Hank Aaron	Ted Williams	Reggie Jackson	Willie Mays
+271140	Baseball	3	How long did Albert Belle play for the White Sox?	Four Seasons	Three Seasons	Six Seasons	Two Seasons
+68813	Baseball	3	Who became only the fifth pitcher to ever win a World Series game with a team from both leagues in 2004?	Pedro Martinez	Derek Lowe	Keith Foulke	Curt Schilling
+273967	Baseball	3	What San Diego pitcher gave up Tino Martinez's famous grand slam in Game 1 of the 1998 World Series?	Sterling Hitchcock	Kevin Brown	Donnie Wall	Mark Langston
+9P31034	Baseball	3	Who won baseball's 1973 World Series, beating the New York Mets 4 games to 3?	Cincinnati Reds	St. Louis Cardinals	Pittsburgh Pirates	Oakland A's
+426798	Baseball	3	New York Yankees closer Mariano Rivera closed which game of the 2003 World Series for his 30th career postseason save?	Game 1	Game 6	Game 2	Game 3
+77873	Baseball	3	Who managed the Baltimore Orioles when they won their first World Series in 1966?	Earl Weaver	Ralph Hauk	Dick Williams	Hank Bauer
+499932	Baseball	3	Which is a nickname for shortstop Didi Gregorius?	Monster Man	Big Greg	P. Didi	Sir Didi
+7B5040	Baseball	3	Which MLB player had 46 doubles and hit .298 in the 2010 regular season?	Evan Longoria	Victor Martinez	Omar Infante	Delmon Young
+11261	Baseball	3	What was the first year in which every game of the World Series was played at night?	1986	1975	1990	1985
+494153	Baseball	3	Which of the following years did the Red Sox win the World Series?	1918	1915	1916	All Of These Years
+325917	Baseball	3	Which team did the New York Mets beat in the 1969 NLCS to advance to the World Series?	Cincinnati Reds	Los Angeles Dodgers	San Francisco Giants	Atlanta Braves
+427209	Baseball	3	How many errors did the Dodgers commit in the 2018 World Series?	6 Errors	4 Errors	8 Errors	1 Error
+494062	Baseball	3	How many MLB teams lost over 100 games in 2016?	Five Teams	Three Teams	Seven Teams	One Team
+494119	Baseball	3	What was the match up of the 1984 World Series?	NY Mets Vs Kansas City	NY Mets Vs Boston	St. Louis Vs NY Yankees	San Diego Vs Detroit
+494169	Baseball	3	Who were the Co-MVPs of the 2001 World Series?	Byun-Hyun Kim And Curt Schilling	Luis Gonzalez And Byun-Hyun Kim	Randy Johnson And Luis Gonzalez	3
+325980	Baseball	3	Who won baseball's 1970 World Series, beating the Cincinnati Reds 4 games to 1?	Oakland A's	New York Mets	New York Yankees	Baltimore Orioles
+12K1369	Baseball	3	How many home runs and runs batted in did Alberto Callaspo have in the 2011 regular season?	15 Home Runs and 73 RBIs	19 Home Runs and 78 RBIs	27 Home Runs and 117 RBIs	6 Home Runs and 46 RBIs
+473672	Baseball	3	What World Series champions did Cito Gaston manage?	Atlanta Braves	New York Mets	Florida Marlins	Toronto Blue Jays
+494123	Baseball	3	In 1948, what team beat the Boston Braves in the World Series?	New York Yankees	Cleveland Spiders	Philadelphia Athletics	Cleveland Indians
+427055	Baseball	3	Who won the 2010 National League Championship Series MVP award?	Rafael Furcal	Carlos Ruiz	Mike Devereaux	Cody Ross
+302136	Baseball	3	In the 2017 MLB regular season, Jay Bruce hit how many home runs and collected how many RBI'S?	28 Home Runs, 77 RBIs	44 Home Runs, 95 RBIs	50 Home Runs, 87 RBIs	36 Home Runs, 101 RBIs
+494117	Baseball	3	How many runs did the Giants score in the 2012 World Series?	Six Runs	Thirty Two Runs	Five Runs	Sixteen Runs
+351808	Baseball	3	Who was the winning manager in the 2017 MLB All-star Game played?	Bryan Price	Andy Green	Joe Maddon	Brad Mills
+618D202	Baseball	3	Who owned the A's when they moved to Oakland?	Charles Levi	Bill Veeck	Bill Valentine	Charles O. Finley
+350618	Baseball	3	Who had a stolen base in game 7 of the 2019 World Series?	Jose Altuve	Carlos Correa	Juan Soto	Adam Eaton
+56T860	Baseball	3	How many games did pitcher Luis Castillo win in the 2019 MLB season?	20	13	24	15
+73693	Baseball	3	Bronson Arroyo, Doug Mirabelli and Curt Schilling played on which World Series team?	The 2010 Giants	The 2011 Cardinals	The 2003 Yankees	The 2004 Red Sox
+9P31037	Baseball	3	What pitcher won the fourth game of the 2019 World Series?	Sean Doolittle	Max Scherzer	Gerrit Cole	Jose Urquidy
+426512	Baseball	3	In 1990's World Series, the Cincinnati Reds' "Nasty Boys" were Norm Charlton, Randy Myers and who?	Mark McGwire	Jose Canseco	Barry Larkin	Rob Dibble
+11263	Baseball	3	What inning in the 2019 World Series games did the Washington Nationals score the most runs?	First Inning	Ninth Inning	Second Inning	Seventh Inning
+494162	Baseball	3	Who hit a home run in his only 2007 World Series at-bat?	Jon Lester	Eric Hinske	Seth Smith	Bobby Kielty
+499657	Baseball	3	Who was named the top 21-year-old in organized ball by "Baseball America" in 2004?	Ben Grieve	Rafael Furcal	Angel Berroa	Dontrelle Willis
+474017	Baseball	3	Who was the first disabled African American to play in a World Series?	David Justice	Hank Aaron	Jackie Robinson	Curtis John Pride
+11256	Baseball	3	Who did the Red Sox sweep in the 2004 World Series?	Astros	Braves	Mets	Cardinals
+44272	Baseball	3	In Game 7 of the 1985 World Series, what Kansas City Royals pitcher tossed a nine-inning shutout?	Bob Forsch	Todd Worrell	Dan Quisenberry	Bret Saberhagen
+56T857	Baseball	3	Which MLB team won over 100 regular seasons games in 2017?	Washington Nationals	Chicago Cubs	Milwaukee Brewers	Los Angeles Dodgers
+427414	Baseball	3	Who was the starting pitcher for the AL in the 2017 MLB All-Star Game?	Michael Fulmer	Yu Darvish	Dellin Betances	Chris Sale
+325964	Baseball	3	How many pitchers did Houston use in game 1 of the 2019 World Series?	Six	Nine	One	Three
+56T863	Baseball	3	Which outfielder robbed Brad Hawpe of a home run during the 2009 All-Star Game, earning him MVP honors?	Shane Victorino	Ryan Braun	Jason Bay	Carl Crawford
+5B6567	Baseball	3	Who did the Chicago Cubs select as the sixth pick overall in the 2012 draft?	Seth Blair	Brandon Nimmo	Ryne Stanek	Albert Almora
+427549	Baseball	3	What Yankee batter struck out the most on the team for the 2013 season?	Jayson Nix	Kevin Youkilis	Curtis Granderson	Brett Gardner
+339251	Baseball	3	Who said "It's all over. The end." after the Kansas City Royals lost the 1980 World Series?	Hal McRae	Willie Wilson	George Brett	Frank White
+499687	Baseball	3	What former Blue Jay pitcher of the 1980's was originally signed as an outfielder?	Mike Flanagan	Todd Stottlemyre	Jimmy Key	Dave Stieb
+56T938	Baseball	3	Who is the Major League Baseball player nicknamed "O-Dog"?	Travis Hafner	Jose Bautista	Mark Trumbo	Orlando Hudson
+73434	Baseball	3	What did Alan Porter do in game 1 of the 2019 World Series?	Stadium Announcer	Third Base Coach	ESPN Radio Announcer	Home Plate Umpire
+493774	Baseball	3	How many triples were hit in the 2019 MLB season?	2785 Triples	85 Triples	3785 Triples	785 Triples
+5B6573	Baseball	3	The 2013 All-Star Game broke the attendance record for which ballpark?	Yankee Stadium	Fenway Park	Wrigley Field	Citi Field
+56399	Baseball	3	What was Josh Beckett's ERA in the 2003 World Series?	1.01	2.72	2.28	1.13
+9P31013	Baseball	3	What year did David Ortiz earn the MVP award in a World Series?	2010	1999	2015	2013
+618D220	Baseball	3	Ozzie Smith is often referred to by which nickname?	The Warlock	The Destroyer	The Ballerina	The Wizard
+57126	Baseball	3	Miguel Cabrera hit a home run off of which Yankee pitcher in the 2003 World Series?	Mariano Rivera	Andy Pettitte	David Wells	Roger Clemens
+60319	Baseball	3	Who won the World Series in 1966 beating the Los Angeles Dodgers?	New York Yankees	Boston Red Sox	Detroit Tigers	Baltimore Orioles
+499954	Baseball	3	Who won the 2016 MLB Home Run Derby?	Buster Posey	Joey Votto	Justin Smoak	Giancarlo Stanton
+325863	Baseball	3	What Baltimore Oriole pitcher hit a home run during the 1969 MLB World Series?	Jim Palmer	Eddie Watt	Mike Cuellar	Dave McNally
+350660	Baseball	3	Which player made the final out of the 1926 World Series by unsuccessfully trying to steal second base?	Sam Rice	Luis Apparicio	Ty Cobb	Babe Ruth
+339284	Baseball	3	In how many World Series did the Braves play in the 1990's?	4	6	0	5
+494085	Baseball	3	What was Babe Ruth's only hit in 11 at-bats in the World Series with Boston?	A Home Run	A Bunt Single	A Double	A Triple
+473781	Baseball	3	What Major League team's pitching staff had the lowest ERA for the 2010 regular season?	Philadelphia	NY Yankees	Colorado	San Francisco
+473674	Baseball	3	How many runs did the Tigers score in the 2012 World Series?	Sixteen Runs	Three Runs	Twenty Runs	Six Runs
+511186	Baseball	3	Which of these MLB teams won more games during the 2014 regular season?	Cincinnati	Philadelphia	Colorado	Atlanta
+51A1191	Baseball	3	In the 2017 MLB regular season, how many home runs and RBI'S did Justin Smoak have?	28 Home Runs, 67 RBIs	50 Home Runs, 100 RBIs	32 Home Runs, 105 RBIs	38 Home Runs, 90 RBIs
+494173	Baseball	3	Which Colorado Rockie struck out in eight of his 16 World Series at-bats in 2007?	Garrett Atkins	Troy Tulowitzki	Willy Taveras	Brad Hawpe
+339337	Baseball	3	What team was Hank Aaron traded to from the Atlanta Braves?	Cincinnati Reds	New York Yankees	San Francisco Giants	Milwaukee Brewers
+493555	Baseball	3	Cliff Lee finished the 2012 season with what record?	43349	43377	43200	43260
+10648	Baseball	3	Who won the 1905 World Series?	New York Mets	New York Yankees	San Francisco Giants	New York Giants
+339041	Baseball	3	Who wrote the book, "Maybe I'll Pitch Forever"?	John Franco	Jim Kaat	Roger Clemens	Satchel Paige
+10H1053	Baseball	3	How much did Jose Canseco sell his World Series ring for?	$70,000	$4,000	$400,000	$40,000
+427204	Baseball	3	Who hit the first grand slam in World Series history?	Sam Crawford	Joe Dugan	Frank Baker	Elmer Smith
+5B6583	Baseball	3	Who hit more home runs in the 2017 regular MLB season?	Joey Votto	Nelson Cruz	Aaron Judge	Giancarlo Stanton
+325972	Baseball	3	What team did Tom Glavine face when he won the MVP in the 1995 World Series?	Boston Red Sox	Detroit Tigers	Minnesota Twins	Cleveland Indians
+494120	Baseball	3	Which Cleveland Indian turned the first unassisted triple play in World Series history?	Harry Lunte	Larry Gardner	Joe Sewell	Bill Wambsganss
+427221	Baseball	3	How many strikeouts did Boston Red Sox pitchers record in the 2007 World Series?	47	19	59	36
+274036	Baseball	3	Who was the first pitcher to strike out 30+ batters in a single World Series?	Whitey Ford	Roger Clemens	Sandy Koufax	Bob Gibson
+260646	Baseball	3	Who is the Major League Baseball player nicknamed "The Bison"?	Jeff Francoeur	Brian Fuentes	Jose Bautista	Matt Kemp
+56400	Baseball	3	Preceding the 2000 World Series, how many Series records are held by Yogi Berra?	0	2	5	10
+229600	Baseball	3	What pitcher gave up the winning home run to the Blue Jays in the 1993 World Series?	Tom Henke	Curt Schilling	Woody Williams	Mitch Williams
+339215	Baseball	3	Who was the starting First Baseman for the National League in the 2017 All Star Game?	Bryce Harper	Josh Harrison	Buster Posey	Ryan Zimmerman
+44776	Baseball	3	Albert Pujols won his second World Series when the Cardinals defeated which team in 2011?	Tampa Bay Rays	New York Yankees	Chicago White Sox	Texas Rangers
+274030	Baseball	3	How many hits did the Astros have in game 7 of the 2019 World Series?	19 Hits	4 Hits	13 Hits	9 Hits
+10H10462	Baseball	3	In how many consecutive scoreless innings did the Baltimore Orioles sweep the 1966 World Series?	13	23	43	33
+187614	Baseball	3	What World Series team in the 90's included Bonilla, Conine and Sheffield?	Los Angeles Dodgers	Cleveland Indians	Atlanta Braves	Florida Marlins
+499702	Baseball	3	Which National League star won his second MLB All-Star Game MVP Award in 1968?	Willie McCovey	Bobby Bonds	George Foster	Willie Mays
+427307	Baseball	3	What pitcher won the fifth game of the 2019 World Series?	Justin Verlander	Tanner Rainey	Max Scherzer	Gerrit Cole
+494083	Baseball	3	How many two-out RBI's did the San Francisco Giants hit in the 2010 World Series?	9	14	21	17
+473765	Baseball	3	Who was the oldest pitcher to appear for the Tampa Bay Rays in the 2008 World Series?	Troy Percival	James Shields	J. P. Howell	Trever Miller
+350502	Baseball	3	Where was game 1 of the 2017 World Series played?	Minute Maid Park	Fenway	Wrigley Field	Dodger Stadium
+73216	Baseball	3	Who managed the Baltimore Orioles when they won the 1983 World Series?	Earl Weaver	Cal Ripken, Sr.	Dick Williams	Joe Altobelli
+67724	Baseball	3	How many runs did the San Francisco Giants score in a Game five blowout win over the Angels in the 2002 World Series?	20	18	14	16
+7B5046	Baseball	3	Who planted the ivy at Wrigley Field?	William Wrigley Jr.	Harry Caray	Jim Hendry	Bill Veeck
+426792	Baseball	3	In the 1890's, what was the World Series called?	Doubleday Cup	Sportsman's Cup	Cartwright Cup	Temple Cup
+473945	Baseball	3	Ian Kinsler was elected to the AL All-Star team for which position in 2012?	Shortstop	First Base	Third Base	Second Base
+473695	Baseball	3	In what season did Ivan Rodriguez have 35 home runs and 113 RBI's for Texas?	2005 Season	2001 Season	2010 Season	1999 Season
+5B6607	Baseball	3	In the 2011 draft, who was selected fifth overall by the Kansas City Royals?	Richie Shaffer	Ty Hensley	Archie Bradley	Derek (Bubba) Starling
+473893	Baseball	3	What did Billy Ray Cyrus do in Game 5 of the 2006 MLB World Series?	Threw First Pitch	Bat Boy	Sang At Halftime	Sang The National Anthem
+427157	Baseball	3	Who was the pitcher who broke Jim Rice's hand in 1975 preventing him from playing in the World Series?	Jim Palmer	Eric Plunk	Frank Tanana	Vern Ruhle
+71309	Baseball	3	How many World Series rings did Jorge Posada win in the 90's?	3	1	0	2
+94740	Baseball	3	Which of these MLB starters had the lower ERA in the 2003 regular season?	Jason Davis	Woody Williams	Seth McClung	Tim Hudson
+51A1191	Baseball	3	Who won the 2009 Sporting News Major League Player of the Year award?	Carlos Delgado	CC Sabathia	Alex Rodriguez	Albert Pujols
+7B5031	Baseball	3	In the 2017 MLB regular season, how many home runs and RBI'S did Brian Dozier have?	27 Home Runs, 88 RBIs	38 Home Runs, 114 RBIs	47 Home Runs, 68 RBIs	34 Home Runs, 93 RBIs
+5B6599	Baseball	3	What season did the MLB allow the start of a no-pitch intentional walk?	2010	2015	2014	2017
+288532	Baseball	3	Which MLB star won the 2010 Branch Rickey Award Winner	Tom Lasorda	Torii Hunter	Curt Schilling	Vernon Wells
+57128	Baseball	3	The Cleveland Indians defeated which New York team for their first World Series victory?	New York Giants	New York Mets	New York Yankees	Brooklyn Dodgers
+618D194	Baseball	3	Who was the first Seattle Mariner to bat .350+ in a season and qualify for the batting title?	Alex Rodriguez	Ichiro Suzuki	Ken Griffey, Jr.	Edgar Martinez
+352450	Baseball	3	Who was the MVP of the 1984 World Series between the San Diego Padres and the Detroit Tigers?	Dave Stewart	Rick Dempsey	Orel Hershiser	Alan Trammell
+350599	Baseball	3	How many games in the 2010 World Series did the Texas Rangers fail to score a run?	1	3	0	2
+11s1175	Baseball	3	What team scored the most runs in the 2008 regular MLB season?	Chicago Cubs	Tampa Bay	NY Yankees	Texas
+511234	Baseball	3	What team scored the most runs in the 2009 regular MLB season?	Philadelphia	Texas	Milwaukee	NY Yankees
+56T441	Baseball	3	Who was the starting designated hitter for the American League in the 2013 All-Star Game?	Cliff Lee	Craig Kimbrel	Jason Grilli	David Ortiz
+302133	Baseball	3	Who hit 41 home runs in the 2017 regular MLB season?	Nolan Arenado	Justin Upton	Marcell Ozuna	Joey Gallo
+350665	Baseball	3	Who won the 2004 National League Championship Series MVP award?	Mike Hampton	David Freese	Cole Hamels	Albert Pujols
+325911	Baseball	3	Who hit the last World Series game-ending home run of the 20th century?	Bernie Williams	Javy Lopez	Chipper Jones	Chad Curtis
+198973	Baseball	3	How much was Roger Clemens fined for a bat-throwing incident at the 2000 World Series?	$5,000	$100	$150,000	$50,000
+54083	Baseball	3	Where did the San Diego Padres play their 2016 home games?	Nabisco Field	San Diego Field	HSBC Field	Petco Park
+350586	Baseball	3	Prior to the 2004 season, what was the last year the Red Sox won a World Series?	1921	1913	1986	1918
+352444	Baseball	3	Who blew a save for the Indians in the final game of the 1997 World Series?	Bob Wickman	Mitch Williams	Mark Wohlers	Jose Mesa
+427250	Baseball	3	When was the first year the Red Sox were in a World Series that they lost?	1912	1916	1915	1946
+345968	Baseball	3	Who drove in all of the Detroit Tigers' runs in Game 4 of the 1984 MLB World Series?	Marty Castillo	Lance Parrish	Kirk Gibson	Alan Trammell
+12K1199	Baseball	3	Which player won the 2014 American League MVP Award ?	Clayton Kershaw	Miguel Cabrera	Andrew McCutchen	Mike Trout
+511184	Baseball	3	Mark Buehrle had what number retired by the Chicago White Sox on June 24, 2017?	#5	#26	#10	#56
+273965	Baseball	3	Which Major League Baseball team appeared in the most World Series during the 1980's?	New York Yankees	Los Angeles Dodgers	Oakland Athletics	St. Louis Cardinals
+325908	Baseball	3	Who was the MVP of the 2001 World Series between the Yankees and the Diamondbacks?	John Wetteland	Troy Glaus	Scott Brosius	Curt Schilling And Randy Johnson
+499645	Baseball	3	Who is the manager of the 2017 St. Louis Cardinals?	Don Mattingly	Matt Williams	Tony La Russa	Mike Matheny
+199214	Baseball	3	Who pitched game 1 for Boston in the 1967 World Series?	Gary Waslewski	Jim Lonborg	Gary Bell	Jose Santiago
+15D1235	Baseball	3	In which game of the 2019 World Series did the Nationals score 12 runs?	Game 5	Game 1	Game 7	Game 2
+339621	Baseball	3	San Francisco Giants' appearance in the 2002 World Series was the first in how many years?	31	40	48	13
+44271	Baseball	3	Who else besides the Yankees have won three consecutive World Series?	Toronto	Pittsburgh	Los Angeles	Oakland
+473933	Baseball	3	Who won baseball's 1960 World Series, beating the New York Yankees 4 games to 3?	New York Giants	Chicago Cubs	St. Louis Cardinals	Pittsburgh Pirates
+97422	Baseball	3	During the 1995 World Series, who hit the home run that let the Braves win the game with the score 1-0 to let them win the World Series?	Javier Lopez	Chipper Jones	Ryan Klesko	David Justice
+479810	Baseball	3	In what years did Kirby Puckett lead the Twins to World Series titles?	1989 And 1991	1997 And 1998	1977 And 1981	1987 And 1991
+7B5007	Baseball	3	What team did 2005 Cy Young Award winner, Chris Carpenter play for when he won?	Minnesota	Los Angeles	Toronto	St. Louis
+499652	Baseball	3	Who was the last active Boston Brave?	Warren Spahn	Hank Aaron	Lew Burdette	Eddie Matthews
+618D226	Baseball	3	Who was the American League Player of the Month for August in 2007?	Kendry Morales	Jason Giambi	Melvin Mora	Magglio Ordonez
+499870	Baseball	3	Who won baseball's 1971 World Series, beating the Baltimore Orioles 4 games to 3?	New York Yankees	Detroit Tigers	Oakland A's	Pittsburgh Pirates
+478852	Baseball	3	Jim Lonborg pitched a 1 hitter in Game 2 of the '67 World Series. Who got the hit?	Lou Brock	Curt Flood	Dal Maxvill	Julian Javier
+273982	Baseball	3	Who was called out on strikes to end the 2012 World Series?	Prince Fielder	Danny Worth	Thad Weber	Miguel Cabrera
+427352	Baseball	3	How many home runs were hit in the 2019 MLB season?	2776 Home Runs	8776 Home Runs	4776 Home Runs	6776 Home Runs
+473943	Baseball	3	Dusty Baker was the manager of which 2017 MLB team?	Atlanta Braves	Philadelphia Phillies	Florida Marlins	Washington Nationals
+10646	Baseball	3	What was the score in Don Larsen's perfect game in the 1956 World Series?	4 - 0	3 - 0	1 - 0	2 - 0
+499671	Baseball	3	Who was the elected to the Baseball Hall Of Fame in 2012?	Jeff Bagwell	Jack Morris	Roberto Alomar	Barry Larkin
+473782	Baseball	3	Sparky Lyle pitched for which Major League Baseball team in 1977?	Oakland A's	Chicago White Sox	Atlanta Braves	New York Yankees
+427272	Baseball	3	Who won the 2012 MLB All-Star Game Most Valuable Player Award?	Mike Trout	Derek Jeter	Jered Weaver	Melky Cabrera
+350520	Baseball	3	Which of these World Series MVP's had the highest batting average in their series?	Manny Ramirez	Troy Glaus	Derek Jeter	Jermaine Dye
+56T929	Baseball	3	In 2012, Matt Holliday hit the longest home run in the history of which park?	Citi Field	Turner Field	Petco Park	Busch Stadium
+504926	Baseball	3	What team did Khris Davis play for before going to Oakland?	St. Louis	Texas	Atlanta	Milwaukee
+473778	Baseball	3	Why did Hall of Famer Kirby Puckett of the Minnesota Twins retire?	Lost Interest In Game	Contract Problems	Personal Problems	Glaucoma
+350175	Baseball	3	Who was on deck when Mookie Wilson hit the game winning hit in game 6 of the 1986 World Series?	Gary Carter	Daryl Strawberry	Kevin Mitchell	Howard Johnson
+499677	Baseball	3	Who were the first brothers to win Cy Young Awards?	Joe & Phil Niekro	Pedro & Ramon Martinez	George & Ken Brett	Jim & Gaylord Perry
+427162	Baseball	3	How many home runs and RBI'S did Nelson Cruz have in the 2017 regular season?	36 Home Runs, 92 RBIs	52 Home Runs, 99 RBIs	57 Home Runs, 118 RBIs	39 Home Runs, 119 RBIs
+56T1037	Baseball	3	Who is the Kansas City Royals player named MVP in 1980?	Lou Boudreau	Joe Torre	Chipper Jones	George Brett
+7D88990	Baseball	3	What year did Ben Zobrist earn the MVP award in a World Series?	2013	2010	2014	2016
+302140	Baseball	3	What anniversary of Oriole Park at Camden Yards was celebrated in 2017?	100Th	10Th	50Th	25Th
+346029	Baseball	3	Who drove in the game winning run for the Yankees in Game 4 of the 1996 World Series?	Derek Jeter	Cecil Fielder	Charlie Hayes	Wade Boggs
+426284	Baseball	3	Who was selected as the MVP of the 2003 National League Championship Series?	Nate Bump	Miguel Cabrera	Jeff Conine	Ivan Rodriguez
+526139	Baseball	3	Who had more saves than strikeouts in his 1984 Rolaids Relief Award-winning season?	Dave Righetti	Al Holland	Todd Worrell	Dan Quisenberry
+427242	Baseball	3	Who was MVP of the 2000 World Series between the New York Mets and the New York Yankees?	John Wetteland	Curt Schilling And Randy Johnson	Scott Brosius	Derek Jeter
+473881	Baseball	3	How many total errors were committed in the 2012 World Series?	12 Errors	10 Errors	Zero Errors	2 Errors
+200088	Baseball	3	Who won the only MVP in the 1980's for a New York Yankee?	Dave Winfield	Reggie Jackson	Roger Clemens	Don Mattingly
+494106	Baseball	3	Which of these years did the Atlanta Braves not make it to the World Series?	1999	1991	1992	2010
+198979	Baseball	3	Who was the MVP of the 1983 World Series between the Philadelphia Phillies and the Baltimore Orioles?	Orel Hershiser	Alan Trammell	Bret Saberhagen	Rick Dempsey
+7D88987	Baseball	3	Which San Francisco Giants player was named the Most Valuable Player for the 2010 World Series?	Tim Lincecum	Pablo Sandoval	Buster Posey	Edgar Renteria
+352008	Baseball	3	Where was the 2017 MLB All-star Game played?	Boston	Chicago	Atlanta	Miami
+325979	Baseball	3	Who was Bernie Carbo pinch-hitting for in game 6 of the 1975 World Series?	Jim Willoughby	Rick Wise	Reggie Cleveland	Roger Moret
+43066	Baseball	3	Who went three for four with three RBIs in Game 1 of the 2019 World Series?	Asdrubal Cabrera	Adam Eaton	Carlos Correa	Juan Soto
+195769	Baseball	3	Where was Charlie Gehringer from?	Chicago, Illinois	Tampa, Florida	Muskegon, Michigan	Fowlerville, Michigan
+473894	Baseball	3	What year did the Red Sox win their first World Series?	1992	1812	1969	1903
+5B6569	Baseball	3	In the 2012 draft, who was selected thirteenth overall by the Chicago White Sox?	Seth Blair	Chris Reed	Jed Bradley	Courtney Hawkins
+385953	Baseball	3	Whose ten base hits were the most for any player in the 1981 World Series?	Pedro Guerrero's	Lou Piniella's	Jerry Mumphrey's	Steve Garvey's
+302124	Baseball	3	Which player did Alex Rodriguez let play shortstop at the 2001 All-Star Game?	Derek Jeter	Barry Larkin	Jimmy Rollins	Cal Ripken, Jr.
+73534	Baseball	3	Who was the first Japanese player to appear in a World Series game?	Hideki Irabu	Hideki Matsui	Ichiro Suzuki	Tsuyoshi Shinjo
+60576	Baseball	3	Who won the National League Rookie of the Year award in 2010?	Tommy Hanson	Jason Heyward	Stephen Strasburg	Buster Posey
+473774	Baseball	3	Which two Philadelphia Phillies stole six of the team's seven 2008 World Series bases?	Chase Utley & Carlos Ruiz	Jayson Werth & Jimmy Rollins	Shane Victorino & Chase Utley	Chase Utley & Jayson Werth
+302876	Baseball	3	How many home runs did Cody Bellinger hit in his rookie MLB season?	29 Home Runs	44 Home Runs	51 Home Runs	39 Home Runs
+69395	Baseball	3	Who was the last person in the 20th century to pitch more than 27 innings in one World Series?	Randy Johnson	Steve Carlton	Bob Gibson	Warren Spahn
+7B5034	Baseball	3	In the 2017 MLB regular season, how many home runs and RBI'S did Khris Davis have?	27 Home Runs, 88 RBIs	32 Home Runs, 105 RBIs	38 Home Runs, 107 RBIs	43 Home Runs, 110 RBIs
+511190	Baseball	3	Who had a 1.74 ERA for Boston in 2000?	Mark Prior	Derek Lowe	Roger Clemens	Pedro Martinez
+302296	Baseball	3	What team won the most Spring Training games in 2017?	Twins	Red Sox	Braves	Yankees
+198974	Baseball	3	Who stole four bases for the Tampa Bay Rays in the 2008 World Series?	Carl Crawford	Jason Bartlett	Akinori Iwamura	B. J. Upton
+44273	Baseball	3	Which was the first team to win the World Series back-to-back?	Detroit Tigers	New York Yankees	Boston Red Sox	Chicago Cubs
+473862	Baseball	3	Matt Holliday played his first full season with which club in 2010?	Oakland Athletics	Colorado Rockies	Boston Red Sox	St. Louis Cardinals
+10H1041	Baseball	3	Who outdueled Sandy Koufax and pitched a shutout to win Game Two of the 1966 World Series?	Wally Bunker	Claude Osteen	Steve Barber	Jim Palmer
+499930	Baseball	3	What pair of Toronto outfielders both won 1986 Silver Slugger awards?	George Bell, Albert Belle	George Bell, Dave Winfield	Dave Winfield, Lloyd Moseby	George Bell, Jesse Barfield
+9P31007	Baseball	3	Which pitcher pitched his first complete-game shutout during the 2003 MLB World Series?	Brad Penny	Andy Pettite	Mike Mussina	Josh Beckett
+427161	Baseball	3	When Reggie Jackson hit his 3rd consecutive home run of game 6 of the 1977 World Series who was pitching?	Bill Singer	Burt Hooten	Elias Sosa	Charlie Hough
+499931	Baseball	3	Who led the Reds in RBI's for the 2017 MLB season?	Adam Duvall	Scott Schebler	Scooter Gennett	Joey Votto
+339594	Baseball	3	Who was the youngest pitcher to appear in the 2008 World Series?	Cole Hamels	Scott Kazmir	Matt Garza	David Price
+71940	Baseball	3	Who drove in the final run of the 2008 World Series?	Jayson Werth	Jimmy Rollins	Carlos Pena	Pedro Feliz
+325973	Baseball	3	Which Yankee pitcher lost three games in the 1981 World Series?	Ron Guidry	Dave Righetti	Tommy John	George Frazier
+7D88969	Baseball	3	How many total saves were recorded in the 2008 World Series?	None	Seven	Four	Two
+494122	Baseball	3	Who struck out Reggie Jackson in Game 2 of the 1978 World Series to inspire a version of "Casey at the Bat"?	Charlie Hough	Don Sutton	Tommy John	Bob Welch
+10H1033	Baseball	3	What team did the Baltimore Orioles defeat to win the 1983 World Series title?	Pittsburgh Pirates	Cincinnati Reds	Los Angeles Dodgers	Philadelphia Phillies
+427228	Baseball	3	What World Series team included Troy Percival, Garret Anderson and Troy Glaus?	The 2003 Yankees	The 1995 Indians	The 2009 Phillies	The 2002 Angels
+55739	Baseball	3	In Game 6 of the 1975 World Series, Bernie Carbo hit a pinch-hit three-run homer off of which Cincinnati pitcher?	Pat Darcy	Pedro Borbon	Clay Kirby	Rawly Eastwick
+7D89008	Baseball	3	What year did Steve Pearce earn the MVP award in a World Series?	2010	2011	2014	2018
+338985	Baseball	3	Which National League team won 82 games in the 2018 season?	Colordao Rockies	Washington Nationals	San Diego Padres	Arizona Diamondbacks
+10H1005	Baseball	3	Who did the Tigers sweep in the 2012 American League Championship Series?	Texas Rangers	Boston Red Sox	Tampa Bay Rays	New York Yankees
+302881	Baseball	3	Who was among the first four black players to play in an MLB All-Star Game in 1949?	Willie Mays	Hank Aaron	Lou Brock	Don Newcombe
+473896	Baseball	3	Who managed the Florida Marlins in the 2003 World MLB Series?	Joe Girardi	Fredi Gonzalez	Jeff Torborg	Jack McKeon
+325963	Baseball	3	Who was the 1995 MVP of the World Series between the Cleveland Indians and the Atlanta Braves?	Mariano Rivera	Livan Hernandez	Scott Brosius	Tom Glavine
+350648	Baseball	3	How many hits did the Houston Astros have in the 2019 World Series?	44 Hits	121 Hits	55 Hits	68 Hits
+499701	Baseball	3	What MLB team hit 257 home runs for the 2010 regular season?	San Francisco	Seattle	Kansas City	Toronto
+351933	Baseball	3	Who went fifteenth to the Milwaukee Brewers pick in 2011 draft?	Seth Blair	Ty Hensley	Ryne Stanek	Jed Bradley
+5B6597	Baseball	3	Who is the Left Handed Pitcher selected as the seventh pick overall in the 2012 draft?	Byron Buxton	Albert Almora	Reese McGuire	Max Fried
+385975	Baseball	3	Who hit the only home run in Game two of the 2010 World Series between the Texas Rangers and San Francisco Giants?	Josh Hamilton	Cody Ross	Bengie Molina	Edgar Renteria
+7D88972	Baseball	3	Which baseball team won the 2002 World Series?	Arizona Diamondbacks	New York Yankees	San Francisco Giants	Anaheim Angels
+60754	Baseball	3	The last time Babe Ruth was the starting pitcher for the Red Sox in a World Series game, where did he hit in the batting order?	4th	3rd	9th	6th
+354884	Baseball	3	In the 2013 draft, who was selected twenty-fourth overall by the Oakland Athletics?	Hunter Dozier	Ty Hensley	Kyle Zimmer	Billy McKinney
+494167	Baseball	3	Jeff Nelson, Jason Giambi and Aaron Boone played on which World Series team?	The 2005 White Sox	The 2001 Diamondbacks	The 2011 Rangers	The 2003 Yankees
+7B5022	Baseball	3	In the 2017 MLB regular season, how many home runs and RBI'S did Francisco Lindor have?	28 Home Runs, 67 RBIs	52 Home Runs, 90 RBIs	47 Home Runs, 28 RBIs	33 Home Runs, 89 RBIs
+56T1043	Baseball	3	Which of these home run hitters did not reach 600 home runs in his MLB career?	Sammy Sosa	Barry Bonds	Alex Rodriguez	Mark McGwire
+473760	Baseball	3	Which decade did the Yankees win the most World Series?	The 1970's	The 1940's	The 1990's	The 1950's
+473764	Baseball	3	Who had five RBIs in Game 6 of the 2019 World Series?	Ryan Zimmerman	Carlos Correa	Adam Eaton	Anthony Rendon
+90211	Baseball	3	How did the New York Mets come to acquire Hall of Famer Tom Seaver?	By The Draft	By Trade	By Signing Him As Free Agent	By Winning A Lottery
+473873	Baseball	3	Who did James Paxton throw a no hitter against in May 2018?	Royals	Red Sox	Nationals	Blue Jays
+52846	Baseball	3	Who did the Braves beat to win their only World Series of the 1990's?	Yankees	Blue Jays	Twins	Indians
+493750	Baseball	3	Justin Verlander signed a contract extension worth what amount in 2013?	$150 Million	$120 Million	$90 Million	$180 Million
+473681	Baseball	3	Who went second to the Chicago Cubs pick in 2013 draft?	Chris Reed	Ty Hensley	Kyle Zimmer	Kris Bryant
+339494	Baseball	3	Who tied a MLB World Series record in 1961 by being hit by a pitch twice in the same game?	Eddie Kasko	Mickey Mantle	Bill Skowron	Frank Robinson
+484594	Baseball	3	In what country was MLB star Jose Altuve born?	Costa Rica	USA	Mexico	Venezuela
+494128	Baseball	3	What Baltimore Oriole pitcher won the first game of the 1966 World Series?	Dave McNally	Wally Bunker	Jim Palmer	Moe Drabowsky
+427558	Baseball	3	In the 2013 draft, who was selected ninth overall by the Pittsburgh Pirates?	Hunter Dozier	Lucas Sims	Ryne Stanek	Austin Meadows
+473892	Baseball	3	Name the first player to be named All-Star MVP and World Series MVP in the same year?	Rollie Fingers	Sandy Koufax	Reggie Jackson	Derek Jeter
+339556	Baseball	3	Which of these players appeared in both the 2007 and 2008 World Series?	Kazuo Matsui	LaTroy Hawkins	Josh Fogg	Eric Hinske
+9P31043	Baseball	3	Which of these Texas Rangers pitchers lost two games in the 2010 MLB World Series?	Tommy Hunter	C.J. Wilson	Colby Lewis	Cliff Lee

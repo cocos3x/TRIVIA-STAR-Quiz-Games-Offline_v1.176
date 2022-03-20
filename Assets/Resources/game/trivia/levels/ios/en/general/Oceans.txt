@@ -1,0 +1,440 @@
+0DIF273	Oceans	0	The 'Ring of Fire' is a string of volcanoes in and around which ocean?	Indian Ocean	Arctic Ocean	Southern Ocean	Pacific Ocean
+0DIF279	Oceans	0	The 'Bering Strait' is a piece of the Pacific ocean that divides which of these two countries?	Canada and United States	Australia and Indonesia	North Korea and South Korea	Russia and United States
+0DIF267	Oceans	0	Which of the oceans is the smallest?	Atlantic Ocean	Indian Ocean	Pacific Ocean	Arctic Ocean
+0DIF274	Oceans	0	Brine pools in the ocean have an unusally large concentration of what?	Fish	Sand	Nitrogen	Salt
+0DIF269	Oceans	0	The Bermuda Triangle is located within which of these oceans?	Indian Ocean	Arctic Ocean	Southern Ocean	Atlantic Ocean
+0DIF262	Oceans	0	What percentage of life on earth is contained within the ocean?	10%	40%	6%	95%
+0DIF264	Oceans	0	The Amazon River empties in to which of these oceans?	Indian Ocean	Pacific Ocean	Arctic Ocean	Atlantic Ocean
+0DIF268	Oceans	0	The ocean tide is created by Earth's relationship to which of these celestial bodies?	Jupiter	Mars	Venus	The Moon
+0DIF263	Oceans	0	Which of these contains the deepest point in the Pacific ocean?	South Sandwich Trench	Puerto Rico Trench	Tonga Trench	Mariana Trench
+0DIF272	Oceans	0	Which of these oceans is the largest?	Arctic Ocean	Indian Ocean	Atlantic Ocean	Pacific Ocean
+0DIF265	Oceans	0	Which US State borders two different oceans?	Texas	Michigan	Nevada	Alaska
+0DIF275	Oceans	0	What percentage of the earths surface is covered by oceans?	10%	40%	99%	70%
+0DIF261	Oceans	0	In which ocean is Hawaii located?	Tropical Ocean	Indian Ocean	Arctic Ocean	Pacific Ocean
+0DIF271	Oceans	0	Which ocean lies between North America and Europe?	Indian Ocean	European Ocean	Arctic Ocean	Atlantic Ocean
+0DIF276	Oceans	0	What percentage of our oxygen supply is generated in the ocean?	10%	5%	99%	70%
+0DIF280	Oceans	0	Which of these oceans remains frozen throughout most of the year?	Indian Ocean	Pacific Ocean	Atlantic Ocean	Arctic Ocean
+0DIF278	Oceans	0	How many oceans does the equator pass through?	0	7	1	3
+0DIF266	Oceans	0	Which of these oceans is the deepest?	Atlantic Ocean	Arctic Ocean	Indian Ocean	Pacific Ocean
+0DIF277	Oceans	0	Which ocean lies between Africa and Australia?	Pacific Ocean	African Ocean	Sunset Ocean	Indian Ocean
+2K25180	Oceans	1	Which of these ocean activities provides food?	Oil Rigging	Swimming	Floating	Fishing
+2K25270	Oceans	1	What type of breeze rushes from the ocean to the land?	Land Breeze	Calm Breeze	Wintry Breeze	Sea Breeze
+2K25094	Oceans	1	Bacterioplankton means what as it relates to the environment?	Land Plants	Pesticide	Ether	Bacteria In Water
+2K25344	Oceans	1	Into which ocean do most Chinese rivers empty?	Atlantic	Indian	Arctic	Pacific
+2K25234	Oceans	1	Which river represents almost 20% of the world's freshwater discharge into the oceans?	Congo	The Nile	Ganges	The Amazon
+2K25394	Oceans	1	Game fish means what as it relates to the environment?	Inedible	Bait	Artificial	Caught For Sport
+2K25356	Oceans	1	Which animal spawns in fresh water but lives most of its life in the sea?	Owl	Canada Goose	Beetles	Salmon
+2K25200	Oceans	1	Typically a tsunami is caused by what?	High Tides	Currents	Hurricanes	Undersea Earthquakes
+2K25538	Oceans	1	The killer whale belongs to which one of these mammal families?	Sharks	Seals	Tuna	Dolphins
+15P1019	Oceans	1	Which of Colombia's geographical regions begins at the shore of the Pacific Ocean?	Andean Region	Caribbean Region	Amazon Region	Pacific Region
+2K25278	Oceans	1	What is the famous coral reef just off the coast of Australia called?	The Good Day Reef	Flower Mound	Kangaroo Reef	Great Barrier Reef
+2K25360	Oceans	1	What is a tropical cyclone formed in the Pacific Ocean called?	Hurricanite	Tornado	Tsunami	Typhoon
+2K25126	Oceans	1	What do you call the area of land that lies next to an ocean?	Inland	Plateau	Mountain	Coastline
+2K25208	Oceans	1	Which of these is the largest of the world's oceans?	Atlantic	Indian	Arctic	Pacific
+2K25322	Oceans	1	What does wind cause on the surface of the ocean?	Surface Tension	Storms	Clouds	Surface Currents
+2K25500	Oceans	1	A finless porpoise takes its name from a near-complete lack of which fin?	Adipose	Caudal	Pectoral	Dorsal
+352067	Oceans	1	Easter Island is an island in what ocean?	Atlantic	Indian	Arctic	Pacific
+2K25336	Oceans	1	What animal starts out life as a tadpole?	Scarlet Macaw	Junco	Kangaroo Rat	Frog
+2K25342	Oceans	1	What is the term for the Earth's crust where it underlies oceans?	Sea Wall	Drainage Basin	Rock Bed	Oceanic Crust
+2K25308	Oceans	1	What name refers to trips across the Atlantic Ocean?	Transpacific	Transcontinental	Transplantation	Transatlantic
+2K25198	Oceans	1	Which of these natural resources would you not expect to find in an ocean?	Fish	Oil	Gemstones	Trees
+2K25178	Oceans	1	What ocean did the Pilgrims sail across to reach North America?	Pacific Ocean	Arctic Ocean	Indian Ocean	Atlantic Ocean
+2K25156	Oceans	1	The poisonous fish that can swallow water in order to double its size is also known as what?	Hippopotamus	Green Darner Dragonfly	Hawaiian Goose	Blowfish
+352209	Oceans	1	What is the front of a boat called?	The Mast	The Pulpit	The Stern	The Bow
+0DIF270	Oceans	1	A large collection of islands in the ocean is called what of these?	Isthmus	Atoll	Island Pile	Archipelago
+2K25160	Oceans	1	A starfish has how many arms?	4	2	3	5
+2K25254	Oceans	1	A Japanese preparation of raw fish without rice is called what?	Miso	Sake	Maki Roll	Sashimi
+2K25194	Oceans	1	What type of sea creature is an Orca?	Stingray	Swordfish	Eel	Dolphin
+2K25222	Oceans	1	Which of the following seafood fish is usually pink/orange in color?	Halibut	Tuna	Scallops	Salmon
+2K25142	Oceans	1	Which two oceans surround North America?	Indian And Arctic	Indian And Pacific	Arctic And Atlantic	Atlantic And Pacific
+2K25146	Oceans	1	Which two oceans lie east and west of Argentina?	Pacific And Indian	Indian And Arctic	Arctic And Mediterranean	Atlantic And Pacific
+400758	Oceans	1	Which of the following traits are used to help classify whales as mammals?	They Don't Have Bones	The Have No Hair	They Eat Protein	They Breathe Air And Have Mammary Glands
+352038	Oceans	1	Which of these states is closest to the Pacific Ocean?	Vermont	Georgia	New York	Nevada
+2K25144	Oceans	1	What fish, though actually a scavenger, has become synonymous with vicious, predatory behavior?	Stingray	Snapper	Carangid	Barracuda
+2K25472	Oceans	1	Which of these states is closest to the Pacific Ocean?	Virginia	Louisiana	Alabama	California
+2K25190	Oceans	1	What animal is a meat-eating, freshwater fish?	Rhinoceros	African Penguin	Gila Monster	Piranha
+2K25306	Oceans	1	What is the most common contaminant found in fish?	Dioxins	Polychlorinated Biphenyls	Parasites	Mercury
+2K25442	Oceans	1	The Atlantic Ocean separates Brazil from which continent?	Asia	Australia	Europe	Africa
+2K25154	Oceans	1	What is a colorful fish that lives among sea anemone?	Mosquito	Flamingo	Gray Whale	Clown Fish
+2K25412	Oceans	1	What is the acronym for an instrument that measures Conductivity-Temperature-Depth of sea water?	TDC	FDD	NOA	CTD
+2K25158	Oceans	1	On the floor of which ocean would you find the Mid-Atlantic mountain ridge?	Indian Ocean	Pacific Ocean	Arctic Ocean	Atlantic Ocean
+447238	Oceans	1	Which of the following fish is most shaped like a torpedo?	Flounder	Sandy Sea Squirt	Clown Fish	Trout
+2K25314	Oceans	1	What ocean borders China on the east?	Atlantic Ocean	Arctic Ocean	Indian Ocean	Pacific Ocean
+2K25202	Oceans	1	A manatee is also known to be called what?	Sea Bull	Sea Urchin	Ocean Elephant	Sea Cow
+2K25246	Oceans	1	What is the up and down movement of ocean water caused by wind called?	Goodbye	Hello	Blowing	Wave
+2K25186	Oceans	1	Mar del Plata is an Argentine city on the coast of what ocean?	Arctic Ocean	Southern Ocean	Indian Ocean	Atlantic Ocean
+2K25364	Oceans	1	Which U.S. State is located closest to the Atlantic Ocean?	Arizona	New Mexico	Wyoming	Florida
+2K25164	Oceans	1	Which sea has so much salt that no fish can live there?	Mediterranean Sea	Baltic Sea	Red Sea	Dead Sea
+2K25452	Oceans	1	Ireland is bounded by which ocean?	Arctic Ocean	Indian Ocean	Pacific Ocean	Atlantic Ocean
+2K25430	Oceans	1	Which North Pole ocean is almost always totally frozen?	Pacific	Atlantic	Indian	Arctic
+2K25244	Oceans	1	Which country is located on the west coast of South America?	Uruguay	Argentina	Venezuela	Peru
+2K25280	Oceans	1	Which ocean lies south of Afghanistan?	Arctic	Atlantic	Mediterranean	Indian
+2K25382	Oceans	1	Where in the ocean would you find lobsters living?	The Abyss	Tide Pools	Underwater Volcanoes	The Floor
+2K25288	Oceans	1	What nutrient found in fish is thought to be good for both your heart and your brain?	Carotene	Carbohydrates	Vitamin C	Omega 3 Fatty Acids
+2K25132	Oceans	1	The Atlantic Ocean was named after who in Greek mythology?	Attis	Ares	Apollo	Atlas
+2K25268	Oceans	1	Oceanic means what as it relates to the environment?	Pertaining To Lakes	Polluted	Undersea Magma Rifts	Living On High Seas
+2K25362	Oceans	1	Where in the U.S. would you find the Everglades?	Texas	New Mexico	California	Florida
+2K25562	Oceans	1	Which ocean's water is the coldest?	Pacific	Indian	Atlantic	Arctic
+2K25236	Oceans	1	What is a large body of salt water, usually connected to an ocean?	Lake	Channel	River	Sea
+2K25282	Oceans	1	What is the primary food source for coral reefs?	Stingrays	Sunlight	Crustaceans	Plankton
+2K25204	Oceans	1	Where on the Earth would oceans be warmer?	Near Maine	Near Greenland	Near Alaska	Near The Florida Keys
+2K25320	Oceans	1	What famous ship sank to the bottom of the Atlantic Ocean in 1912?	Bismarck	Queen Elizabeth II	Lusitania	Titanic
+2K25162	Oceans	1	Which U.S. State is located closest to the Atlantic Ocean?	Colorado	Oregon	California	Connecticut
+2K25140	Oceans	1	What does a human have to wear when exploring the depths of the ocean?	Spacesuit	Mask	Goggles	Diving Suit
+2K25102	Oceans	1	What special sense do some whales and dolphins use to hear underwater?	Electroreception	Infrared Sense	Magnetic Sense	Echolocation
+2K25542	Oceans	1	What is the land area that is closest to the ocean generally called?	Dune	Seawall	Quay	Beach
+2K25370	Oceans	1	What does a walrus eat?	Candy Bars	Computers	Broccoli	Shellfish
+2K25172	Oceans	1	Which of these is the smallest of the world's oceans?	Pacific	Atlantic	Indian	Arctic
+2K25260	Oceans	1	The Arctic Ocean is in which direction from North America?	South	East	West	North
+2K25118	Oceans	1	What is oceanic crust?	Surface Plankton	Coastal Pollution	Groups Of Galaxies	Earth's Crust Underlying Oceans
+2K25220	Oceans	1	Which of these is another word for the study of the ocean?	Revolution	Drainage Basin	Methane	Oceanography
+365488	Oceans	1	What gas that you breathe, necessary for life, is also dissolved in ocean water?	Helium	Neon	Chlorine	Oxygen
+2K25284	Oceans	1	What crustacean is the main prey of baleen whales, including the blue whale?	Crab	Prawn	Lobster	Krill
+2K25122	Oceans	1	What South American fish can generate a 600-volt shock?	Cutthroat Trout	Guppy	Piranha	Electric Eel
+2K25292	Oceans	1	A common food for a sea turtle would be what?	Blue Fish	Coral	Birds	Jellyfish
+2K25434	Oceans	1	The Amazon River is connected to which major ocean?	Pacific Ocean	Indian Ocean	Arctic Ocean	Atlantic Ocean
+2K25294	Oceans	1	What are scientists that study the ocean called?	Meteorologists	Geologists	Geographers	Oceanographers
+2K25124	Oceans	1	A starfish has how many arms?	Four	Three	Two	Five
+2K25170	Oceans	1	What ocean is off the east coast of the United States?	Pacific	Arctic	Indian	Atlantic
+2K25380	Oceans	1	A strange hook-shaped fish that lives in warm water is known as what?	Clownfish	Starfish	Leghorn Fish	Sea Horse
+2K25256	Oceans	1	What fish's name means "strong-strong" in Hawaiian?	Aba-Aba	Lia-Lia	Iko-Iko	Mahi-Mahi
+2K25136	Oceans	1	40% of the hurricanes that occur in the United States hit where?	Louisiana	Georgia	Texas	Florida
+365309	Oceans	1	What is the world's largest coral reef?	Pratte's Reef	Ningaloo Reef	Abrolhos Reef	Great Barrier Reef
+2K25210	Oceans	1	Which ocean is India closest to?	Pacific	Atlantic	Arctic	Indian
+2K25298	Oceans	1	What is the periodic rise and fall in the ocean's water level called?	Lunar Wave	Solar Wave	Current	Tide
+2K25150	Oceans	1	Which best describes the center of a hurricane?	Stormy	Cloudy	Rough	Calm
+2K25286	Oceans	1	Oceanic trench means what as it relates to the environment?	Undersea Mountain Range	Lifeless Zone	Coastal Ocean Floor	Long Narrow Sea Depths
+2K25120	Oceans	1	Coral, the largest component of reefs, is most like what type of organism?	Fungus	Mammal	Virus	Animal
+321268	Oceans	1	What is the largest animal in the ocean?	The Great White Shark	The Killer Whale (Orca)	The Grey Whale	The Blue Whale
+2K25340	Oceans	1	What are the deepest canyons in the ocean called?	Triads	Grinches	Trinities	Trenches
+2K25250	Oceans	1	Which species is known as the Devilfish?	Clownfish	Salmon	Porpoise	Manta Ray
+2K25128	Oceans	1	In what ocean would you most likely find glaciers floating?	Indian	Pacific	Atlantic	Arctic
+2K25276	Oceans	1	What animal is a flat fish with no bones, only cartilage?	Jaguar	Beluga Whale	Black Bear	Ray
+2K25478	Oceans	1	Which U.S. State is located closest to the Atlantic Ocean?	Utah	Washington	Montana	Alabama
+2K25218	Oceans	1	Which of the following tools would a sea otter use to get a shellfish open?	Dorsal Fin	Beak	Teeth	Rock
+2K25552	Oceans	1	The Great Barrier Reef lies just off what continent?	Asia	Antarctica	South America	Australia
+399846	Oceans	1	What produces ocean tides?	The Clouds	Mars	The Ozone Layer	The Moon
+2K25152	Oceans	1	Which term refers to the regular abnormal warming of the Pacific Ocean?	Atlantic Effect	Peru Current	Trade Winds	El Nino
+2K25188	Oceans	1	What is a scientist who studies life in the ocean called?	Physicist	Geologist	Sea Creature	Marine Biologist
+2K25230	Oceans	1	What ship canal that connects the Atlantic and Pacific oceans was built between 1904 and 1914?	Costa Rica Canal	Nicaragua Canal	Guatemala Canal	Panama Canal
+2K25304	Oceans	1	What slow-moving filter feeding shark is the largest fish in the world?	Megamouth Shark	Great White Shark	Basking Shark	Whale Shark
+2K25130	Oceans	1	What is the area in the ocean that can never be touched by sunlight called?	Dark Sea	Black Water	Blind Sea	Deep Sea
+2K25358	Oceans	1	What ocean lies between Asia and North and South America?	Atlantic Ocean	Arctic Ocean	Indian Ocean	Pacific Ocean
+366074	Oceans	1	The beluga whale is what color as an adult?	Silver	Gray	Black	White
+2K25372	Oceans	1	What ocean is off the west coast of the United States?	Atlantic	Arctic	Indian	Pacific Ocean
+2K25134	Oceans	1	What ocean did European explorers cross to get to the New World?	Pacific	Indian	Arctic	Atlantic
+2K25096	Oceans	1	A group of fish swimming together is called what?	A College	A Gaggle	A Herd	A School
+2K25104	Oceans	1	What ocean lies between Africa and North and South America?	Arctic Ocean	Pacific Ocean	Indian Ocean	Atlantic Ocean
+2K25300	Oceans	1	Which of the following is a major predator of sea otters?	Dolphins	Lions	Wolves	Killer Whales
+2K25098	Oceans	1	Iceland is located in what ocean?	Indian	Pacific	Red Sea	Atlantic
+2K25312	Oceans	1	Which of these is not an ocean?	Atlantic	Pacific	Indian	Superior
+2K25374	Oceans	1	Which ocean forms the entire western border of Chile?	Pan Pacific	Peruvian	Antarctic	Pacific
+15P1004	Oceans	1	Which of these states is closest to the Pacific Ocean?	New York	Virginia	West Virginia	Oregon
+2K25174	Oceans	1	When looking at an ocean, which of these is the color it mostly appears to be?	Deep Purple	White	Orange	Blue
+2K25258	Oceans	1	What instrument uses sound waves to help get a picture of the ocean's bottom?	Seismographs	Whale Song	Dolphin Clicks	Sonar
+2K25326	Oceans	1	The definition of "the periodic rising and falling of the earth's oceans and atmosphere" best fits which science term?	Dormancy	Knot	Jet Stream	Tide
+2K25464	Oceans	1	All of Brazil's river systems drain into which ocean?	Pacific	Arctic	Southern	Atlantic
+2K25338	Oceans	1	What kind of cuisine includes fish sauce, coriander, lemongrass, chilis, lime juice and noodles?	German	South American	West African	Southeast Asian
+410893	Oceans	1	What ocean borders Japan to the east?	Atlantic Ocean	Indian Ocean	Arctic Ocean	Pacific Ocean
+2K25090	Oceans	1	Most shark species will do what when they stop moving?	Float To The Surface	Fall Asleep	Eat	Drown
+350038	Oceans	2	What would you call a long, snake-like fish that has circular gills?	Stingray	Yellowtail	Squid	Moray Eel
+2K25534	Oceans	2	What covers the skin of a cuttlefish and allows it to change its color to blend in with its surroundings?	Transparency	Photosynthesis	Chloroform	Chromatophores
+15P1001	Oceans	2	The pool at the foot of a small water-fall in a river is called what?	Downstream	Gorge	Ravine	Plunge-Pool
+102994	Oceans	2	The Pacific Ocean’s name has an original meaning of what?	Plenty Sea	Praiseful Sea	Pale Sea	Peaceful Sea
+2K25266	Oceans	2	Who became the first European to see the Pacific Ocean in 1513 by crossing the Isthmus of Panama?	Manuel Amador Guerrero	Juan Carlos Varela	Christopher Columbus	Vasco NuÒez De Balboa
+2K25354	Oceans	2	The group of crustaceans that include crabs, lobsters and shrimps have how many legs?	Six	Eight	Four	Ten
+181113	Oceans	2	Overfishing means what as it relates to the environment?	Main Carbon	Planted Forest	Higher Population	Lower Population
+376779	Oceans	2	The Philippines is part of what area around the Pacific Ocean that has many volcanoes and earthquakes?	Ring Of Smoke	Ring Of Magma	Ring Of Quake	Ring Of Fire
+2K25386	Oceans	2	Which state, although widely known for seafood, only has eight miles of Atlantic Ocean coastline?	Connecticut	Maine	North Carolina	Maryland
+2K25184	Oceans	2	Southern Ocean means what as it relates to the environment?	Sri Lankan Coastal Water	Gulf Of Mexico	Equatorial Zone	Antarctica-Circling Water
+2K25192	Oceans	2	What is the third largest ocean in the world?	Pacific Ocean	Southern Ocean	Arctic Ocean	Indian Ocean
+2K25536	Oceans	2	What role does a skimmer play in cleaning up ocean pollution?	Maintaining Movement of Water	Breaking Down Surface Pollution	Capturing And Relocating Wildlife	Collecting Floating Pollution
+2K25528	Oceans	2	When consumed over long periods of time, ocean water causes what in humans?	Psychosis	Sea Sickness	Cholera	Dehydration
+2K25088	Oceans	2	Ocean water cycle means what as it relates to the environment?	Large Whirlpools	Transoceanic Currents	Ocean Layer Exchange Flow	Evaporation/Precipitation
+2K25328	Oceans	2	Which U.S. state has "The Ocean State" as its nickname?	New Jersey	Massachusetts	Maryland	Rhode Island
+2K25368	Oceans	2	What does a Nictitating membrane on a shark do?	Protects The Fins	Coats The Tongue	Coats The Skin	Protects The Eyes
+2K25290	Oceans	2	Which of these is a relatively new method of cleaning up ocean oil spills?	Using a Virus	More Oil	Salt Water	Oil Hungry Bacteria
+181129	Oceans	2	What ocean did Ferdinand Magellan name?	Atlantic	Indian	Arctic	Pacific
+526383	Oceans	2	If you cook with fish, onions, potatoes and sour cream, what type of food might you be cooking?	Hawaiian	Japanese	Southern	Norwegian
+2K25446	Oceans	2	The world's largest artificial reef, the U.S.S. Oriskany, can be found in what ocean?	Pacific Ocean	Indian Ocean	Arctic Ocean	Atlantic Ocean
+374276	Oceans	2	The Strait of Gibraltar connects the Atlantic Ocean to what sea?	Caspian Sea	Persian Gulf	Red Sea	Mediterranean Sea
+365446	Oceans	2	The "Ring of Fire" is a string of volcanoes in and around what ocean?	Atlantic	Southern	Indian	Pacific
+365367	Oceans	2	An estuary connects the ocean to a what?	Sea	Lake	Harbor	River
+2K25444	Oceans	2	What is the smallest ocean on earth?	Indian Ocean	Atlantic Ocean	Pacific Ocean	Arctic Ocean
+365408	Oceans	2	What ocean is on Peru's western shore?	Indian	Arctic	Atlantic	Pacific
+368377	Oceans	2	What floating animal is eaten by blue whales?	Dolphin	Crab	Tuna	Plankton
+2K25422	Oceans	2	A large number of islands referred to collectively is a what?	Atoll	Island Ring	Isthmus	Archipelago
+15P1022	Oceans	2	What did early ocean scientists use to measure the distance to the ocean floor?	A Diver	Whale Song	Airplanes	Weighted Ropes
+15P1016	Oceans	2	The Bermuda Triangle is also known by what name?	Atlantis Triangle	Hell's Triangle	Ring Of Fire	Devil's Triangle
+10178	Oceans	2	Which ocean surrounds Africa on the east side?	Atlantic	Pacific	Arctic	Indian
+2K25366	Oceans	2	What keeps the salinity of the ocean the same throughout the year?	Plankton	Storms	Sun Rays	Movement Of The Ocean
+365516	Oceans	2	Into which ocean does the Zambezi River flow?	Antarctic Ocean	Pacific Ocean	Atlantic Ocean	Indian Ocean
+346867	Oceans	2	What is a smaller river or stream that flows into a larger river or stream?	Habitat	Watershed	Upland	Tributary
+386091	Oceans	2	What does ocean ranching mean?	Shell Collection	Seaweed Drying	Scale Collection	Salmon Fishing
+367736	Oceans	2	The Bering Strait lies between which two continents?	North America And South America	Asia And Africa	Europe And Africa	North America And Asia
+349537	Oceans	2	Which underwater machine helps humans travel around beneath the surface of the ocean?	Immersibles	Boats	Tankers	Submersible
+2K25100	Oceans	2	What ocean contains the Gulf Stream?	Pacific	North	Bering	Atlantic
+2K25526	Oceans	2	Which of the following body parts does the bowhead whale not have?	Flukes	Flippers	Baleen	Dorsal Fins
+181118	Oceans	2	What fish is named for its long, sharp, toothless jaw?	Flounder	Mackerel	Tuna	Swordfish
+97475	Oceans	2	What fish lives in and around the sea anemone?	Starfish	Jellyfish	Octopus	Clown Fish
+527748	Oceans	3	A wave form that moves forward with a steady velocity is called what?	Tide	Current	Motion	Progressive
+2K25512	Oceans	3	What are the chelae on a crab?	Eyes	Shell	Back Legs	Front Claws
+410827	Oceans	3	Where would you find lakes called QianHai, BeiHai and HouHai?	Mexico	India	Thailand	China
+2K25384	Oceans	3	Of all marine crustaceans caught by humans each year, crabs make up what percent?	0.05	0.01	1	0.2
+70901	Oceans	3	What percentage of marine life inhabits coastal zones?	17%	58%	75%	98%
+526378	Oceans	3	Operational oceanography means what as it relates to the environment?	Medical Ocean Studies	Ocean Basin Research	Ocean Current Study	Long-Term Ocean Measures
+93887	Oceans	3	What is the deepest ocean zone?	Abyssal Zone	Bathyal Zone	Euphotic Zone	Hadal Zone
+294006	Oceans	3	Whale milk has a high fat content. Approximately what percentage to volume in fat does whale milk contain?	75%	90%	35%	50%
+448598	Oceans	3	Which family of fish do largemouth bass belong to?	Clupeids	Salmonids	Cyprinids	Centrarchids
+2K25504	Oceans	3	What time and day did the Titanic collide with the iceberg?	10:30:23 A.M., April 14th, 1912	11:37:56 A.M., April 15th, 1912	2:27:00 A.M., April 15th, 1912	11:40:40 P.M., April 14th, 1912
+2K25414	Oceans	3	Approximately where is the blowhole located on the head of a sperm whale?	Back Left Side	Middle	Back Right Side	Front Left Side
+447676	Oceans	3	The world record ice-fishing catch of a trout in 1987 was?	22 Lbs 14 Oz	5 Lbs 2 Oz	16lbs 7 Oz	8 Lbs 4 Oz
+2K25548	Oceans	3	The tongue of a blue whale is approximately the same size as which of the following other animals?	A Bear	A Lion	A Crocodile	An Elephant
+2K25402	Oceans	3	What type of cnidarian makes up an underwater reef?	Sand Dollars	Sea Urchins	Sea Squirts	Coral
+410878	Oceans	3	What is eutrophication as it applies to oceans?	Dumping Poisons	Using Ocean Water As A Coolant	Turning Ocean Water Into Fresh	Releasing Chemical Nutrients
+447423	Oceans	3	The decrease of oxygen in water is referred to as what?	Eutrophication	Putrifaction	Water Suffocation	Hypoxia
+391383	Oceans	3	Who built the ship RMS Titanic?	Blohm & Voss	John Brown & Co.	Swan Hunter & Wingham Richardson	Harland & Wolff
+2K25238	Oceans	3	When was the Titanic officially launched?	Aug-12	Aug-20	May-09	May-11
+446940	Oceans	3	Who was the manufacturer of the World's first outboard engine?	Mercury	Chrysler	Suzuki	Evinrude
+281440	Oceans	3	Another name for the Risso's dolphin is what?	Pilot Dolphin	Buffalo Dolphin	Common Dolphin	Monk Dolphin
+9984	Oceans	3	What 300+ island Pacific archipelago was formed entirely from volcanoes?	Easter Islands	U.S. Minor Outlying Islands	Hawaii	Aleutian Islands
+352230	Oceans	3	What determines the sex of a sea turtle?	Location	Random	Chromosomes	Temperature Of Sand
+447519	Oceans	3	Who was Chief Engineer on the Titanic?	H. Jupe	J.H. Hesketh	W.L. Duffy	J. Bell
+349492	Oceans	3	Blue whales have an extremely loud call, approximately how loud measured in decibels?	140 Decibels	330 Decibels	221 Decibels	188 Decibels
+352072	Oceans	3	How many inches thick from infancy to maturity is the blubber of a blue whale?	30 - 80 Inches	24 - 28 Inches	150 - 500 Inches	2 - 14 Inches
+189680	Oceans	3	Which fish helps balance the algae and coral on a reef?	Sturgeon	Trumpetfish	Grouper	Surgeonfish
+9350	Oceans	3	What is the uppermost ocean zone?	Mesopelagic Zone	Neritic Zone	Nepipelagic Zone	Epipelagic Zone
+352061	Oceans	3	Ocean Stratosphere means what as it relates to the environment?	Upper Layer Of Ocean	South Hemisphere Waters	North Hemisphere Waters	Lower Layer Of Ocean
+2K25458	Oceans	3	What scaleless, snakelike saltwater fish can reach sizes of over 170 pounds?	Halibut	Tarpon	Marlin	Conger Eel
+403792	Oceans	3	At what age do whales reach reproductive maturity?	13 - 15 Years Old	20 - 22 Years Old	25 - 40 Years Old	7 - 10 Years Old
+352083	Oceans	3	Who really owned the Titanic?	J. Paul Getty	The British Royal Family	The U.S. Government	J.P. Morgan
+218439	Oceans	3	What's the name for the scientific study of bodies of fresh water?	Lakeology	Oceanography	Aquaology	Limnology
+356441	Oceans	3	What is a cataract in a river?	A Levee	Low Water	An Area With No Current	Rock-Filled Rapids
+446939	Oceans	3	The Apo Reef is located where?	India	Mexico	Madagascar	Philippines
+20029	Oceans	3	Approximately how much does the sperm whale's brain weigh?	30 Pounds	10 Pounds	70 Pounds	20 Pounds
+2K25352	Oceans	3	How old was the Captain of the Titanic when it went down?	40	65	44	62
+94258	Oceans	3	What two natural predators are known to prey on beluga whales other than humans hunting them?	Blue Whales And Great White Sharks	Great White Sharks And Killer Whales	Sperm Whales And Blue Whales	Polar Bears And Killer Whales
+411066	Oceans	3	Which of these is a type of natural coral reef?	Surfing Reef	Fan Reef	Archipelago	Atoll
+400952	Oceans	3	About how many million tons of salt are obtained from the ocean each year?	60 Million	2 Million	10 Million	6 Million
+410815	Oceans	3	Dissolved salt makes up what percentage of ocean water?	75%	12%	5.50%	3.50%
+49024	Oceans	3	What is the estimated top speed of a Sperm whale?	30 - 40 Mph	10 - 20 Mph	40 - 50 Mph	20 - 30 Mph
+446985	Oceans	3	In what year did Alfred Wegner publish "The Origin of Continents and Oceans"?	1920	1919	1932	1915
+400236	Oceans	3	The ratio of wave height to wavelength is the wave's what?	Surface Measurement	Energy	Force	Steepness
+369388	Oceans	3	About how many million tons of salt are obtained from the ocean each year?	60	2	10	6
+16072	Oceans	3	Which ocean is among the traditional "Seven Seas"?	Atlantic Ocean	Arctic Ocean	Southern Ocean	Indian Ocean
+346866	Oceans	3	Which species of shark was the first to be protected by being put on the Threatened Species List?	Great White Shark	Grey Reef Shark	Tiger Shark	Grey Nurse Shark
+447627	Oceans	3	What are the average size dimensions of a sperm whale's flippers?	10 Ft. Long By 5 Ft. Wide	30 Ft. Long By 15 Ft. Wide	60 Ft. Long By 30 Ft. Wide	5 Ft. Long By 3 Ft. Wide
+365501	Oceans	3	Corals are ancient animals related to what?	Krill	Snails	Sea Horses	Jellyfish
+2K25240	Oceans	3	In the Atlantic, hurricane season starts June 1, while in the Pacific it starts when?	1-Jun	8-Aug	14-Sep	15-May
+410888	Oceans	3	Which of the following is a characteristic of all baleen whales?	Seasonal feeders	2 Blowholes	Females are larger	All Of Them
+447217	Oceans	3	How many eggs does a grey nurse shark carry when pregnant?	150-250	100-150	50-100	300-400
+350065	Oceans	3	What type of algae live symbiotically with coral reefs in shallow waters?	Phytoplankton	Apistogramma	Leulingi	Zooxanthellae
+446924	Oceans	3	The Coral Triangle mainly in Indonesia is also referred to as what?	Coral Gardens	Gem Of The Sea	Bermuda Triangle	Amazon Of The Seas
+352068	Oceans	3	What is the most poisonous fish in the world?	Pufferfish	Lionfish	Stingray	Stonefish
+346852	Oceans	3	The loss of symbiotic zooxanthellae results in what process?	Coral Death	Coral Disease	Coral Polyps	Coral Bleaching
+2K25510	Oceans	3	How many gallons of oil were dumped during the 1989 Exxon Valdez oil spill?	15 Million	7 Million	23 Million	11 Million
+448482	Oceans	3	At what two cities did Titanic stop before heading to New York?	Belfast And London	London And Cherbourg	Paris And Scarborough	Cherbourg And Queenstown
+346854	Oceans	3	Which ocean is the Coral Sea part of?	Atlantic	Antarctic	Indian	Pacific
+318263	Oceans	3	Which of the following speeds have Orca whales been know to swim up to in bursts to catch prey?	35 Kph	25 Kph	112 kph	48 Kph
+408924	Oceans	3	What is the largest island in the Indian Ocean?	Sri Lanka	Sumatra	New Guinea	Madagascar
+410886	Oceans	3	Besides Greenland, what is the largest island in the Atlantic Ocean?	Ireland	Iceland	Cuba	Britain
+394747	Oceans	3	Approximately how many teeth are contained in the lower jaw of the sperm whale?	90-110	300-400	200-220	50-60 Teeth
+9986	Oceans	3	Mid-ocean ridge means what as it relates to the environment?	Valley Under Water	Temperature Change Line	Line Of Latitude	Undersea Mountain Range
+2K25418	Oceans	3	What was normal cruising speed for the Titanic?	12 Knots	40 Knots	55 Knots	21 Knots
+281432	Oceans	3	What is the deepest point of the Philippine Trench in the western Pacific Ocean?	Horizon Deep	Challenger Deep	Richards Deep	Galathea Depth
+356475	Oceans	3	Which ocean shrinks by one inch every year?	Atlantic	Indian	Arctic	Pacific Ocean
+352238	Oceans	3	What do Baleen whales lack that other whales have?	Eyes	Blowholes	Dorsal Fins	Teeth
+410864	Oceans	3	What fish has a venom as powerful and deadly as a rattlesnake's bite?	Red Snapper	Blowfish	Eel	Weeverfish
+2K25476	Oceans	3	Any material deposited by a river is called what?	Fjord	Discharge	Abrasion	Alluvium
+181124	Oceans	3	What does a shark's liver contain a lot of?	Organisms	Bacteria	Bile	Oil
+2K25516	Oceans	3	The tidal mouth of a large river best fits what geography term?	Foredune	Accretion	Latitude	Estuary
+2K25540	Oceans	3	What valuable metal is found in the oceans but is expensive to extract?	Lead	Aluminum	Sodium	Gold
+2K25454	Oceans	3	Which of the following is considered to be the "loudest" living thing on this Earth?	African Gorilla	Tyrannosaurus Rex	Trackosaurus	Blue Whale
+448183	Oceans	3	The difference in elevation between the crest of a wave and the trough is termed what?	Waveforce	Wavemeasure	Waveheight	Wavelength
+365483	Oceans	3	What did Balboa originally name the Pacific Ocean?	Pacific Ocean	Spanish Ocean	Golden Sea	South Sea
+346868	Oceans	3	How many inches long is the average tooth of an adult Orca or Killer Whale?	1.5 Inches	8 Inches	5 Inches	3 Inches
+410876	Oceans	3	Male orca whales have a life expectancy of 50 - 60 years, what is the life expectancy of female orca whales?	40 Years	50 Years	30 Years	90 Years
+408945	Oceans	3	Which of the following has the largest head of any animal?	Killer Whale	Blue Whale	Gray Whale	Sperm Whale
+368658	Oceans	3	In the 1970's, a large and failed expansion to Florida's Osborne Reef was comprised mostly of what?	Cinder Blocks	Damaged Cars	Storage Crates	Old Tires
+2K25316	Oceans	3	When did the National Hurricane Center begin to give official names to storms?	1976	1886	1902	1953
+402692	Oceans	3	What is the method of feeding used by humpback whales which allows them to round up highly concentrated masses of prey?	Surface Mouth Feeding	Deep Water Feeding	Tubular Concentrated Feeding	Bubble-Net Feeding
+2K25396	Oceans	3	For a hurricane to develop, the ocean waters must be above what temperature?	36 Celsius	30 Celsius	18 Celsius	26 Celsius
+352049	Oceans	3	Adult full grown bowhead whales grow to approximately which of the following lengths?	9 - 12 Metres	27 - 33 Metres	24 - 27 Metres	15 - 18 Metres
+2K25416	Oceans	3	Which of the following whales is nicknamed the 'Squid Hound' because of its diet and how it hunts its prey?	Killer Whale	Sperm Whale	Blue Whale	Beluga Whale
+9981	Oceans	3	Approximately how many pounds does the average sperm whale's heart weigh?	350 Pounds	1220 Pounds	144 Pounds	277 Pounds
+447487	Oceans	3	Darwin Mounds is a reef found where?	Australia	Bahamas	Philippines	Scotland
+2K25494	Oceans	3	What do bridge workers use to prevent rust from forming on bridges near the ocean?	Anti-Rust Soap	Dish Detergent	Eggs	Electricity
+180613	Oceans	3	What does the Chilean basket star eat?	Sponges	Beta Fish	Sardines	Krill
+2K25508	Oceans	3	Which of the following body parts does the beluga whale not have?	Flippers	Blowhole	Beak	Fins
+374213	Oceans	3	What was the Port of Registry for the Titanic?	London	New York	Oslo	Liverpool
+2K25406	Oceans	3	Which is a long, skinny fish with a large snout and a head shaped like a triangle?	Elephant Fish	Lantern Fish	Manta Ray	Atlantic Trumpetfish
+410867	Oceans	3	Coral reefs are largely in what ocean zone?	Euphotic Zone	Abyssal Zone	Hadal Zone	Neritic Zone
+2K25506	Oceans	3	A vessel with what name is credited with discovering the wreck of the Titanic?	Arvin	Elvin	Titan	Alvin
+402850	Oceans	3	What do ship captains use to help them know when it is safe to dock at the ocean's edge?	Solar Wind Activity	Beach Erosion Tables	Seismographs	Tide Tables
+447419	Oceans	3	Approximately how many pounds of food does an adult beluga whale consume each day?	100 Pounds	500 Pounds	700 Pounds	50 Pounds
+447386	Oceans	3	How many collapsible lifeboats did the Titanic carry?	Six	Zero	Two	Four
+410868	Oceans	3	Daintree Reef in Australia was named after what geologist?	Susan Daintree	Daintree Alpogin	Daintree Smythe	Richard Daintree
+294752	Oceans	3	What is a natural or manmade earthen barrier along the edge of a stream, lake, or river called?	Channel	Basin	Waterbody	Levee
+363857	Oceans	3	What is the funnel-shaped opening beneath an octopus's head that secretes a black fluid when threatened?	Bosic	Clateral	Algave	Siphon
+2K25432	Oceans	3	What is the lifespan of the harbor porpoise?	50 Years	5 Years	80 Years	20 Years
+446952	Oceans	3	The Chinese white dolphin can be what color?	Black	White	Blue	Pink
+376580	Oceans	3	What percentage of Earth's volcanic activity occurs on the ocean floor?	90%	75%	50%	80%
+400903	Oceans	3	The abyssal zone begins at what depth?	1,000 Meters	3,000 Meters	4,000 Meters	2,000 Meters
+68109	Oceans	3	In what year did the International Whaling Commission declare blue whales to be a protected species because of a huge decrease in their population?	1970	1955	1932	1966
+394341	Oceans	3	A whale's "forelimbs" are known as what?	Dorsal Fins	Paddle Fins	Fluke Fins	Pectoral Fins
+2K25334	Oceans	3	How many feet long was the Titanic from bow to stern?	995 1/2	680	1050	882 1/2
+365415	Oceans	3	Which reef would you find in the Gulf of Mexico?	Minerva Reef	Lyra Reef	Kingman Reef	Scorpion Reef
+16195	Oceans	3	A low-oxygen area of the ocean is often referred to as what?	Nitrogen Saturated	Oxygen Starved	Hypoxic Zone	Dead Zone
+2K25530	Oceans	3	Which of the following sharks do not exist (to the best of human knowledge)?	Wobbegong Shark	Megmouth Shark	Carpet Shark	Antarctic Shark
+402782	Oceans	3	An island’s windward side faces what?	The Ocean	Mountains	Due North	Prevailing Winds
+374305	Oceans	3	Coral reef means what as it relates to the environment?	Shallow Waters	Fish Farm	Whale Habitat	Limestone Structure
+286803	Oceans	3	What is the smallest sailboat listed?	Kestral	Mutineer	Cigarette	Snark Sunflower
+15P1010	Oceans	3	What is a group of seals commonly know as?	A Flight	A School	A Den	A Herd
+447981	Oceans	3	The giant triton is a marine snail that can reach what size?	1.5 M	2 M	1 M	0.5 M
+146272	Oceans	3	Ghost fishing refers to what?	Leaving Nets To Retrieve Later	Fishing For Cryptozoological Fish	Using Live Fish To Lure Larger Fish	Lost Nets Continuing To Catch Fish
+447789	Oceans	3	On a reef, an individual coral is known as a what?	Micro	Skeleton	Cyst	Polyp
+2K25532	Oceans	3	What is the highest speeds dolphins have been known to attain?	100 Mph	18 Mph	20 Mph	35 Mph
+2K25426	Oceans	3	What is a high place from which rivers flow in all directions?	Mountain Divide	Ledge	Hillside Way	Continental Divide
+394803	Oceans	3	Relating to the environment, what does Operational oceanography mean?	Medical Ocean Studies	Ocean Basin Research	Ocean Current Study	Long-Term Ocean Measures
+410816	Oceans	3	A seamount would be found in what part of the ocean?	On A Beach	In A Deep Sea Trench	On The Sea Floor	Near The Coast
+365375	Oceans	3	The blowhole of a sperm whale is shaped like which of the following letters of the alphabet?	V	W	I	S
+410869	Oceans	3	Commerson's dolphin is also referred to as what other name?	Acro Dolphin	White-Bellied Dolphin	Baldheaded Dolphin	Skunk Dolphin
+2K25462	Oceans	3	Archaeologists discovered the lost city of Thonis/Heracleion underwater off the coast of what country?	Russia	Canada	South Africa	Egypt
+447596	Oceans	3	The major disturbing force in the open ocean is what?	Ripples	Undertow	Waves	Wind
+9980	Oceans	3	Approximately how long is the gestation period for a blue whale calf?	3-4 Months	14-16 Months	5-7 Months	11-12 Months
+447814	Oceans	3	What kind of tail does a shark have?	Split	Homocercal	Divided	Heterocercal
+410863	Oceans	3	What is the name of a humpback whale in the South Pacific Ocean that was tracked online by Greenpeace?	Big Boy	Darlene	Walter	Mister Splashy Pants
+352079	Oceans	3	A bend in a river that is usually in the middle or lower course is called what?	Channel	Delta	Moorings	Meander
+2K25440	Oceans	3	What is the scientific family to which sea turtles belong?	Reptilia	Animalia	Chordata	Cheloniidae
+2K25350	Oceans	3	An octopus has how many hearts?	2	4	1	3
+43913	Oceans	3	What lake was formed when the Akosombo Dam was built in Ghana?	Lake Bogoria	Kainji Lake	Lake Ngami	Lake Volta
+181123	Oceans	3	Which of the following characterizes the environment in which sperm whales live?	Shoreline	Arctic	Southern Hemisphere	Pods
+394881	Oceans	3	Brine pools in the ocean have an unusually high level of what?	Oxygen	Sharks	Shells	Salt
+410853	Oceans	3	The Irrawaddy dolphin is similar to which whale in appearance?	Bowhead Whale	Humpback	Orca	Beluga Whale
+20560	Oceans	3	The communities of aquatic life which dwell in or on the bottom sediments of a water body is called what?	Closed Depression	Aquifer	BMP	Bentho
+394827	Oceans	3	The three types of ice that cover the Arctic Ocean are polar ice, fast ice and what?	Soft Ice	Live Ice	Arctic Ice	Pack Ice
+410871	Oceans	3	What fraction of the Earth do oceans cover?	Two-Thirds	One-Fourth	One-Half	Three-Fourths
+410828	Oceans	3	Ocean Troposphere means what as it relates to the environment?	Lower Layer Of Ocean	North Hemisphere Waters	South Hemisphere Waters	Upper Layer Of Ocean
+447756	Oceans	3	How many pairs of short smooth baleen do adult fully mature gray whales have in their mouth?	332	215	630	160
+447188	Oceans	3	What is about maximum height can brain coral can grow?	Sixty Feet Tall	Two Feet Tall	One Hundred Feet Tall	Six Feet Tall
+2K25544	Oceans	3	What is the average length in feet of a the adult gray whale?	25 - 30 ft	20 - 25 ft.	60 -80 ft.	45 - 50 ft.
+525904	Oceans	3	The world's largest hypoxic "dead zone" is located in what body of water?	Dead Sea	Black Sea	Pacific Ocean	Gulf Of Mexico
+447792	Oceans	3	Which of these creatures would reside in the abyssal zone?	Squid	Jellyfish	Whale Shark	Fangtooth
+400765	Oceans	3	What surface rock comprises the majority of the Earth's crust in the area beneath the oceans?	Granite	Limestone	Obsidian	Basalt
+410817	Oceans	3	What was the goal of Project Mohole?	To Document Deep Sea Craters	To Observe Deep Sea Trenches	To Collect Oil From Deep Sea	To Drill Between Crust And Mantle
+356451	Oceans	3	Giant kelp can grow up to which length per year?	200 Feet	100 Feet	500 Feet	300 Feet
+91440	Oceans	3	What is the English definition of the scientific whale feeding term "benthic"?	Oceanic	Top	Cold Water	Bottom
+40118	Oceans	3	What was the largest oil spill in terms of volume in the 20th century?	Exxon Valdez	Ixtoc I	Fergana Valley	Gulf War
+2K25400	Oceans	3	More than 50% of all lakes in the world are in which country?	USA	Russia	Japan	Canada
+350433	Oceans	3	Plankton largely reside in what part of the ocean?	Sunlight Zone	Hydraclorite Zone	Thermocline Zone	Pelagic Zone
+410880	Oceans	3	The scientific term 'Physeter Macrocephalus' is used to describe which of the following whales?	Killer Whale	Blue Whale	Gray Whale	Sperm Whale
+296951	Oceans	3	What is the color of the large glands on a crayfish that have excretory functions?	Blue	Yellow	Black	Green
+15P1013	Oceans	3	What causes deep ocean currents?	Winds	Sun	Warm Water Sinking	Colder Water Sinking
+2K25522	Oceans	3	The average beluga whale grows to be about how many feet in length as an adult?	30 Ft.	45 Ft.	60 Ft.	15 Ft.
+410860	Oceans	3	The average life expectancy of a sperm whale is approximately how many years?	100 Years	50 Years	200 Years	70 Years
+2K25448	Oceans	3	When did Titanic finally go under the water?	11:30 PM On April 13, 1912	12:40 AM On April 15, 1913	2:20 AM On April 14, 1912	2:20 AM On April 15, 1912
+2K25480	Oceans	3	The longest river in Europe flows into what sea?	North Sea	Baltic Sea	Irish Sea	Caspian Sea
+511109	Oceans	3	Which lake is the second largest in the world?	Lake Huron	Lake Erie	Lake Michigan	Lake Superior
+2K25408	Oceans	3	What do Parrotfish eat?	Jellyfish	Plankton	Parrots	Algae
+90884	Oceans	3	Which of the following is not a nickname for the beluga whale?	Sea Canary	Squid Hound	White Porpoise	Bottle Top
+448219	Oceans	3	What is the name of the ancient ocean that surrounded the Pangea land mass?	Pannotia	Rodina	Godwanna	Panthalassa
+2K25392	Oceans	3	The definition of "a large surface area whose waters are drained off into a principal river system" best fits which science term?	Log Jam	Precipitation	Exfoliate	Drainage Basin
+355067	Oceans	3	In what century did Vitus Bering discover Alaska while exploring what became the Bering Strait?	16th	17th	19th	18th
+201771	Oceans	3	Where does the female marine catfish lay her eggs?	Under Rocks	In Seaweed	In Coral	In Her Mouth
+180982	Oceans	3	What is the distance over water in which waves are generated by a wind having a rather constant direction and speed?	Scarp	Seawall	Littoral Drift	Fetch
+483860	Oceans	3	Which of the following classifications of mammal do whales belong to?	Diprotodontia	Artiodactyla	Procellariforms	Cetacea
+2K25438	Oceans	3	For a storm to be called a hurricane it must reach wind speeds of what?	65 Km/H	140 Km/H	80 Km/H	119 Km/H
+477575	Oceans	3	What does ocean thermal gradient mean?	Wave Height	Temperature Of Ocean Floor	Boiling Point Of Seawater	Temperature Difference By Depth
+410820	Oceans	3	Which describes a SRN4?	The Largest Available Propeller	The Lusitania's Registration	The Queen Elizabeth II's Number	The Largest Hovercraft In The World
+365515	Oceans	3	Iapetus Ocean means what as it relates to the environment?	Indian Ocean Region	Atlantic Ocean Region	Frozen Ocean	Prehistoric Ocean
+91404	Oceans	3	Which of the following foods are most commonly eaten by sperm whales?	Blue Shark	Giant Sting Ray	Yellow Fin Tuna	Giant Squid
+181112	Oceans	3	Which of these is considered the world's smallest fish?	Goby Fish	Flounder	Herring	Stout Infantfish
+296950	Oceans	3	What are the hard plates on the back of members of the Loricariidae family also known as "Armored Catfish Family"?	Mares	Rivets	Shields	Scutes
+356468	Oceans	3	How many of the chimneys on the Titanic were used for the boilers?	Four	One	Two	Three
+76024	Oceans	3	How many countries were affected by the 2004 Indian Ocean tsunami?	8	17	15	11
+2K25546	Oceans	3	What is the minimum threshold for the depth of a deepwater operation?	500 Feet	1000 Feet	2000 Feet	1,500 Feet
+410873	Oceans	3	What effect does the absorption of CO2 emissions have on oceans?	Drop In Temperature	Increase In Wildlife Deformity	Loss In Density	Ocean Acidification
+352078	Oceans	3	Light no longer reaches the ocean beginning at what oceanic zone?	Hadal Zone	Neritic Zone	Euphotic Zone	Abyssal Zone
+2K25498	Oceans	3	The St. Lawrence Seaway opened in 1959 allowing oceangoing ships to reach which Minnesota city?	Bloomington	Minneapolis	Spring Valley	Duluth
+447825	Oceans	3	Which of these oceanic zones allows photosynthesis?	Coastal Zone	Mesopelagic Zone	Plant Zone	Epipelagic Zone
+2K25496	Oceans	3	The average life expectancy of beluga whales is approximately how many years?	40 - 50 Years	50 - 80 Years	80 - 100 Years	25 - 30 Years
+23369	Oceans	3	As it pertains to oceans, what is bioremediation?	Filter Polluted Water For Drinking	Extract Salt from Ocean Water	Dump Plankton To Increase Food	Microorganism To Clean Pollution
+2K25550	Oceans	3	Approximately how long can a sperm whale stay underwater on a single breath?	24 Hours	15 Minutes	6 Hours	2 Hours
+410884	Oceans	3	Which of the following whales is scientifically classified as the "Eschrichltius Robustus"?	Orca Whales	Right Whales	Humpback Whales	Gray Whales
+2K25490	Oceans	3	Who headed the team that discovered the wreck of the Titanic?	Captain Henry J. Renie	James Cameron	Walter Lord	Dr. Robert Ballard
+410874	Oceans	3	Steelhead is of the same genus and species as what other fish?	Chinook Salmon	Sturgeon	Halibut	Rainbow Trout
+349561	Oceans	3	In what way do porpoises differ from dolphins?	Porpoises Eat Fish	Porpoises Live In The Ocean	Porpoises Are Mammals	Porpoises Are Shy
+447568	Oceans	3	What did the earthquake that triggered the 2004 Indian Ocean tsunami register on the Richter scale?	9.5	7.9	8.2	9
+8675	Oceans	3	What percent of the ocean is salt?	10 Percent	97 Percent	23 Percent	3 Percent
+2K25404	Oceans	3	Unlike most rivers, which direction do rivers in China generally flow?	North And South	West	North	East And West
+2K25206	Oceans	3	How many chambers do the hearts of sperm whales have?	3	2	6	4
+2K25232	Oceans	3	About what percent of all volcanic activity on Earth happens in the ocean?	0.1	0.25	0.77	0.9
+352233	Oceans	3	What is the third largest shark in the world?	Whale Shark	Basking Shark	Dwarf Shark	Great White Shark
+2K25324	Oceans	3	Green sea turtles can stay underwater for up to how many hours?	8	2	12	5
+351471	Oceans	3	What is the term for a lake that is permanently covered by ice?	Endorheic	Meromictic	Shrunken	Subglacial
+251530	Oceans	3	The length of time it takes for a wave to pass a fixed point is called what?	Wave Pass	Wave Ratio	Wave Speed	Wave Period
+49835	Oceans	3	The definition of "the ocean surface" best fits this geography term?	Topographic Map	Flow Lines	Linear Scale	Sea Level
+2K25388	Oceans	3	The collective name for the group of crabs is what?	A Score	A School	A Flock	A Cast
+29090	Oceans	3	What part of kelp holds it to the ocean floor beneath it?	Root	Stipe	Blade	Holdfast
+9349	Oceans	3	Coral reefs can only survive between which of these temperatures in degrees Celsius?	15 And 25	32 And 39	40 And 43	25 And 29
+410891	Oceans	3	What is one of the nicknames for the long-finned pilot whale?	Flying Whale	Snow Whale	Blackhead Whale	Pothead Whale
+410894	Oceans	3	Which of the following is a unique characteristic of minke whales?	Small Tail	Large Dorsal Fin	No Throat Grooves	White Band On Each Flipper
+92199	Oceans	3	Which ship was the nearest to the Titanic when the ship sank?	Carpathia	Olympic	Britannic	Californian
+181122	Oceans	3	The government-sanctioned plan to sink ships in order to create reefs is referred to as what?	National Artificial Reef Plan	National Ship Management Program	Hulls-To-Habitats	Rigs-To-Reefs
+447554	Oceans	3	What percentage of the ocean's volume is in coastal zones?	5%	20%	35%	10%
+447869	Oceans	3	The hadal zone begins at what depth?	5,000 Meters	30,000 Meters	15,000 Meters	10,000 Meters
+2K25398	Oceans	3	When the ice of the Arctic Ocean melts it releases nutrients and organisms into the water which promotes the growth of what?	Reefs	Sea Anemones	Coral	Algae
+2K25450	Oceans	3	The average adult blue whale's heart weighs approximately how many pounds?	700 Pounds	300 Pounds	500 Pounds	1000 Pounds
+391864	Oceans	3	Which fish was thought to be extinct until rediscovered in the 20th century?	Dodo Fish	Longjaw Cisco	Blue Walleye	Coelacanths
+447643	Oceans	3	Who collected the first major statistics for wind and ocean currents?	Harrison Tyler	Benjamin Franklin	Thomas Jefferson	Matthew Maury
+352042	Oceans	3	A whale's blubber serves as what purpose to the life and development of the mammal?	Food And Hydration	Aerodynamics And Maliability	Boyancy And Movability	Energy And Insulation
+511112	Oceans	3	Rough fish means what as it relates to the environment?	Risk	Vaporize	Drought	Inedible
+410823	Oceans	3	French Frigate Shoals reef is located where?	Columbia	New Guinea	Australia	Hawaiian Islands
+410862	Oceans	3	Which fish known as danio rerio is commonly used in research?	Beta Fish	Goldfish	Oscar	Zebrafish
+410865	Oceans	3	As much as 80% of marine debris comes from what source?	Industrial Dumping	Capsized Vessels	Wasteful Beachgoers	Polluted Watersheds
+410866	Oceans	3	Where is the Bar Reef located?	Mexico	Belize	Cuba	Sri Lanka
+70997	Oceans	3	What does the beluga whales name mean in Russian?	White Devil	White Fish	White Fin	White One
+2K25272	Oceans	3	How many chambers does a fish heart have?	1	4	3	2
+410890	Oceans	3	In what year did the Ocean Drilling Program begin?	1973	1988	1979	1985
+2K25514	Oceans	3	Mauritania borders which ocean?	Pacific	Indian	Arctic	Atlantic
+94261	Oceans	3	Humpback whales use which of the following to trap krill, plankton, and or small fish like herring, mackerel, capelin and sand eel?	Air	Water Pressure	Sound Waves	Bubbles
+352211	Oceans	3	What is the gestation of a sea turtle?	18-20 Weeks	2-4 Weeks	12-16-Weeks	6-10 Weeks
+410881	Oceans	3	The Mariana Trench in the Pacific Ocean is the deepest known area of Earth’s oceans at around how many meters?	1000 Metres	20000 Metres	5000 Metres	11000 Metres
+2K25390	Oceans	3	Which is not a kind of boat or ship?	Trimaran	Ketch	Skipjack	Funicular
+410870	Oceans	3	Which of these creatures would inhabit the bathyal zone?	Bull Shark	Herring	Jellyfish	Squid
+70828	Oceans	3	What happens to a goldfish when its kept in the dark?	Goes Blind	Sleeps	Dies	Turns White
+23358	Oceans	3	What is the length of the Caspian Sea?	3,000 Km	200 Km	900 Km	1,199 Km
+94254	Oceans	3	The Bering Strait is named for what Danish-born explorer?	Magnus Bering	Titus Bering	Olaf Bering	Vitus Bering
+57479	Oceans	3	How many engines did the Titanic have?	Four	Five	Two	Three
+2K25252	Oceans	3	The Titanic was how many feet from keel to bridge?	100	92	96	104
+408944	Oceans	3	In what year did the Deep Sea Drilling Project begin?	1965	1962	1967	1964
+447178	Oceans	3	What does the Atlantic bluefin tuna eat at a young age?	Krill	Algae	Jellyfish	Zooplankton
+408927	Oceans	3	Who is credited as being the discoverer of the Pacific Ocean?	Cortez	Columbus	Eric the Red	Balboa
+447288	Oceans	3	Consuming raw shellfish is one cause of which of the following diseases?	H. Pylori	Malaria	Scarlet Fever	Cholera
+410829	Oceans	3	In what year was Project Mohole proposed?	1967	1981	1972	1957
+281416	Oceans	3	OPDS stands for what?	Ocean Pollution Deterrant Society	Ocean Pollution Detainment System	Offshore Petroleum Drilling System	Offshore Petroleum Discharge System
+9985	Oceans	3	Beluga whales have teeth designed for grabbing and tearing its prey, how many teeth do they have?	40 Teeth	96 Teeth	74 Teeth	34 Teeth
+2K25456	Oceans	3	The crown-of-thorns starfish has been known to cause harm to what?	Ships	Sea Turtle Nests	Shrimp	Coral Reefs
+351467	Oceans	3	The only enemy to the orca or killer whale is which of the following predators?	Great White Sharks	Dolphins	Polar Bears	Human Beings
+447254	Oceans	3	Hector's dolphin is the world's smallest dolphin and also the what?	Intelligent	Largest	Common	Rarest
+2K25428	Oceans	3	What is the highest speeds dolphins have been known to attain?	160 Km/h	28 Km/h	32 Km/h	56 Km/h
+410877	Oceans	3	How long did it take Columbus to cross the Atlantic?	200 Days	365 Days	100 Days	35 Days
+2K25302	Oceans	3	Approximately what percentage of the average jellyfish's body is water?	0.8	0.5	0.6	0.95
+9987	Oceans	3	How many different types of coral would you find on the Barrier Reef?	150	85	325	400
+529034	Oceans	3	What beach in the Cook Islands is famous for its scuba diving, fishing, and snorkeling spots?	South Beach	Waikiki Beach	Maya Bay	Aroa
+400979	Oceans	3	The OSPAR Convention is short for what?	Ocean Science Protection And Rights	Ocean Science Pollution/Remediation	Ocean Services Posting And Recovery	Oslo And Paris
+374215	Oceans	3	Which direction do most ocean currents flow at the equator?	East	North	South	West
+448337	Oceans	3	Who was the United States President during the Titanic disaster?	Warren Harding	Woodrow Wilson	Herbert Hoover	William Taft
+394545	Oceans	3	Which of these animals depends on the ocean currents in order to move?	Starfish	Barnacles	Crabs	Jellyfish
+346853	Oceans	3	Pufferfish and boxfish are deadly to humans because of the presence of what poison in their skin and organs?	Grammistin	Ciguatera	Ribovenom	Tetrodotoxin
+189790	Oceans	3	What country's appetite for fish is depleting resources in other areas?	China	South Africa	Australia	Japan
+400234	Oceans	3	In which ocean would one find the Sargasso Sea?	Arctic	Indian	Pacific	Atlantic
+2K25488	Oceans	3	What is a common unit of depth in the ocean?	Floral	Incubation	Uranium	Fathom
+350064	Oceans	3	Which of the following is the smallest of the baleen whale species?	Bottlehead Whale	Bowhead Whale	Pacific Dolphin	Minke Whale
+369550	Oceans	3	What is another name for the spinner dolphin?	Risso's Dolphin	Irrawaddy Dolphin	Bottlenose Dolphin	Long Snouted Dolphin
+529195	Oceans	3	Which of the following do sperm whales not have on their body?	Humps	Tail Flukes	Flippers	V shape spouts
+406082	Oceans	3	What are lobsters with missing claws sometimes referred to?	Braccens	Clams	Slams	Culls
+2K25410	Oceans	3	At what depth may you need to go to see a frilled shark in the ocean?	500 Feet	2,500 Feet	1,000 Feet	5,000 Feet
+294745	Oceans	3	Fraser's dolphin is also called what name?	Pillbox Dolphin	Black Chinned Dolphin	Beas Dolphin	Sarawak Dolphin
+2K25420	Oceans	3	What type of ocean animal depends on the movement of water to get food?	Furnace Feeder	Solar Feeder	Lunar Feeder	Filter Feeder
+2K25492	Oceans	3	The longest river in the world is located on what continent?	South America	Asia	North America	Africa

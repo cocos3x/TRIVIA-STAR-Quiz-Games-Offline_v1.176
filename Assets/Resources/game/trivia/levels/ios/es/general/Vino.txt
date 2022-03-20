@@ -1,0 +1,437 @@
+0DIF405	Vino	0	¿Cuántas botellas vienen en una caja de vino?	Tres	Veinte	Ocho	Doce
+0DIF419	Vino	0	¿El tipo de vino más común se elabora fermentando cuál de estas frutas?	Albaricoques	Cerezas	Arándanos	Uvas
+0DIF403	Vino	0	¿Cuál de estas no es una región para el cultivo de vino?	Napa California	Burdeos Francia	Toscana Italia	Alaska del norte
+0DIF402	Vino	0	¿Cuál de estos es un vino tinto?	Chardonnay	Pinot Grigio	Sauvignon Blanc	Merlot
+0DIF416	Vino	0	¿Cuál de los siguientes nombres se llama vino al que se le ha agregado alcohol adicional?	Vino envalentonado	Vino de poder	Vino aromatizado	Vino fortificado
+416777	Vino	0	¿Cuál es la característica principal de un vino de postre?	Color profundo	Contenido de alcohol	Burbujas	Dulzura
+0DIF407	Vino	0	¿En cuál de los siguientes recipientes se envejece el vino tradicionalmente?	Cubos	Silos	Jarras	Barriles
+0DIF406	Vino	0	¿Cómo se llama el tamaño de la botella dos veces más grande que una botella estándar?	Goliat	Salomón	Midas	Botella doble
+0DIF404	Vino	0	¿Cuál es el nombre del dios griego del vino?	Ares	Zeus	Poseidón	Dionisio
+0DIF418	Vino	0	¿Cuál de estos no se puede fermentar en vino?	Uvas	Ciruelas	Cerezas	Almendras
+0DIF408	Vino	0	¿Qué tipo de vino se recomienda tradicionalmente junto con el pescado?	Postre	rojo	ciruela	Blanco
+0DIF411	Vino	0	¿Cuántas copas de vino hay en una botella estándar?	Dos	Cuatro	Tres	Seis
+0DIF420	Vino	0	¿De qué región de Francia proviene el vino espumoso más utilizado para celebraciones y brindis?	Burdeos	Lorena	Provenza	champán
+0DIF412	Vino	0	¿Cómo se llama a un experto en vinos que sirve a los clientes?	Boulanger	Maestro de vinos	Sifu	Sumiller
+0DIF415	Vino	0	¿Cuál de estos términos describe el acto de verter vino entre dos recipientes?	Captalización	Fermentación	Filtración	Decantación
+0DIF401	Vino	0	¿Cuál de los siguientes es un vino blanco?	Pinot Noir	Cabernet Sauvignon	Merlot	Pinot Grigio
+0DIF414	Vino	0	¿Cuál de estos es el término utilizado para un comerciante de vinos?	Boulanger	Marchande	Poissonier	Vinatero
+416427	Vino	1	En el habla del vino, ¿qué es lo opuesto a seco?	Segundo	Todavía	Crujiente	Dulce
+489415	Vino	1	Con la excepción de los vinos espumosos, un vino "seco" tiene muy poco ¿qué?	Uvas	Ácido	Sabor	Azúcar
+489357	Vino	1	¿Las uvas Riesling se cultivan principalmente en qué país?	Brasil	China	Nepal	Alemania
+489375	Vino	1	¿Cuál es el término francés para "seco"?	Todavía	Limou	Deste	Brut
+416709	Vino	1	¿Qué causa que el champán tenga burbujas?	Bicarbonatos	Bicarbonato de sodio	Calcio	Dióxido de carbono
+489388	Vino	1	¿De qué color son las uvas que se utilizan para elaborar el vino blanco?	Blanco	Rosa o azul pálido	Rojo o morado	Verde o amarillo
+402615	Vino	1	¿Qué término se refiere al contenido de ácido o al nivel de ácido de un vino?	Equilibrar	Cuerpo	Complejidad	Acidez
+489422	Vino	1	¿Qué sabor predominante podría tener un vino "verde"?	Dulce	Florido	De roble	Ácido
+489575	Vino	1	¿Qué vino fortificado es un ingrediente clave en los martinis?	Marsala	Jerez	Puerto	Vermut
+416769	Vino	1	¿Los vinos europeos tienden a ser clasificados según qué criterios?	Años	Uva	País	Región
+489572	Vino	1	¿Qué vino italiano se embotella comúnmente en botellas pequeñas encerradas en una canasta de paja?	Prosecco	Montepulciano	Asti Spumante	Chianti
+489398	Vino	1	¿Quién le da más importancia a la cosecha de un vino?	Dueños de la tienda de vinos	Estudiantes universitarios	Americanos	Conocedores del vino
+0DIF409	Vino	1	¿Cómo llamas a las rayas en el costado del vaso cuando bebes vino?	Pistas	Trucos	Alas	Piernas
+489559	Vino	1	¿El vino se puede definir generalmente como el jugo fermentado de qué fruta?	Manzanas	Naranjas	Tomates	Uvas
+489351	Vino	1	¿Qué ponche se hace con vino y jugos cítricos?	Triple sec	Amaretto Sour	Sidra de manzana	Sangría
+489612	Vino	1	Los vinos secos fortificados se sirven mejor como aperitivos para estimular ¿qué?	Conversacion	La economía	Crecimiento	Apetito
+489390	Vino	1	¿Cuál es la región vinícola más importante de Francia?	Ausbruch	Pinot Noir	Baume	Burdeos
+489348	Vino	1	¿Qué tipo de vino se considera el champán?	Mesa de vino	Vino fortificado	Aperitivo	Vino espumoso
+489420	Vino	1	Si no hay corcho en su botella de vino, ¿con cuál de estos puede estar tratando?	Un Pop Off	Un poco de papel arrugado	Una tapa de hojalata	Un tapón de rosca
+489613	Vino	1	¿En qué resultan los compuestos volátiles liberados del vino al aire?	Burbujas	Sales	Radicales libres	Aroma
+489435	Vino	1	¿Qué vino se conoce como "rubor"?	rojo	Blanco	champán	Rosa
+402651	Vino	1	¿Cuál es el proceso por el cual el vino se expone al aire para "relajar" la bebida?	Cosecha	Cultivo	Subir	Aireación
+0DIF413	Vino	1	¿Cuál de estos no es un vino francés?	Merlot	Cabernet Sauvignon	Syrah	Zinfandel
+489406	Vino	1	¿Qué término indica el año en el que se cosecharon las uvas de un vino?	Anillos de maletero	Calidad	Asture	Vintage
+341007	Vino	1	¿Cómo se llama un vino que contiene 75% -85% de una uva predominante?	Vino mezclado	Fermentado	rojo	Varietal
+227990	Vino	1	¿Vin de Table es la denominación francesa para qué tipo de vino?	Vino mezclado	Vino espumoso	Vino tinto	Vino de mesa ordinario
+489373	Vino	1	¿Dónde se envejece típicamente el vino?	Un tazón	Un barril	Un caldero	Un barril
+489588	Vino	1	¿Qué término es el opuesto de "dulce" cuando se refiere al vino?	Tarta	Agrio	Picante	Seco
+0DIF417	Vino	1	¿Cuántas botellas estándar contiene una botella de vino del tamaño de 'Midas'?	Siete	Diez	Tres	Cuarenta
+489531	Vino	1	Los sacerdotes católicos en Argentina plantaron viñedos junto a los monasterios para asegurar ¿qué?	Buena asistencia a misa	Una corriente de ingresos	Un pasatiempo interesante	Suministro de vino sacramental
+489560	Vino	1	¿Cuál es el producto más conocido de la región de Champagne?	Trufas	Pañuelos	Lino	champán
+489380	Vino	1	¿Cuál es la uva predominante en la vinificación alemana?	Pinot Noir	Muller-Thurgau	Silvaner	Riesling
+489458	Vino	1	¿El vino de Oporto toma su nombre de qué ciudad portuguesa?	Duero	Lisboa	Madeira	Oporto
+402630	Vino	1	¿Qué término se refiere al sabor del vino en boca?	Equilibrar	Nariz	Acidez	Paladar
+402634	Vino	1	Aproximadamente, ¿cuántas copas de vino se pueden hacer con un racimo de uvas?	10	dieciséis	22	1
+489583	Vino	1	En la mitología griega, ¿quién es el dios del vino?	Marte	Baco	Pan	Dionisio
+489470	Vino	1	Generalmente, ¿qué tipo de vino se asocia más con Italia?	Blanco	Espumoso	Puerto	rojo
+375355	Vino	1	¿Qué país estableció los estándares para la producción de vino en todo el mundo?	Alemania	Italia	España	Francia
+489483	Vino	1	¿Qué estado produce el 89% de todo el vino producido en EE. UU.?	Michigan	Nueva York	Washington	California
+489434	Vino	1	¿Qué significa si un vino es "brut"?	Es dulce	Tiene un sabor atrevido	Es rojo oscuro	Esta seco
+489543	Vino	1	¿En qué país se encuentra la Appellation d'Origine Controlee (AOC)?	Alemania	Estados Unidos	Australia	Francia
+402623	Vino	1	¿Cuál es otra palabra para una copa de champán?	cuerno	Oboe	Cuerda	Flauta
+402629	Vino	1	En California, ¿cómo se llama un vino elaborado con uvas Chardonnay?	Merlot	champán	Riesling	Chardonnay
+416754	Vino	1	¿Cómo llamas a los vinos que llevan el nombre de su uva?	Vinos mezclados	Vinos Blancos	Champagnes	Vinos varietales
+489408	Vino	1	La cantidad de tiempo que perdura un sabor se puede describir como qué de un vino	Altura	Anchura	Diámetro	Longitud
+489474	Vino	1	¿Qué estado de EE. UU. Produce más vino que cualquier otro?	Oregón	Nueva York	Michigan	California
+402656	Vino	1	¿Cómo se llama la región de California que es famosa por su producción de vino?	Valle de Narda	Natcha Valley	Nally Valley	Valle de Napa
+489657	Vino	1	¿Qué tipo de vino se etiqueta "vin de table" en Francia?	Vino espumoso	Rosa	Burdeos	Vino de mesa 
+489581	Vino	1	Si el estilo del vino es "tranquilo", ¿qué significa eso?	Tiene burbujas	Tiene más de 10 años	Cuesta más de $ 50 por botella	No es brillante
+489580	Vino	1	¿Un vino "espumoso" se caracteriza generalmente por qué?	Diamantes	Espuma	Color azulado	Carbonatación
+489414	Vino	1	¿Qué término se refiere al aroma del vino?	Cuerpo	Textura	Tanino	Ramo
+489561	Vino	1	Si un vino no es claro, ¿qué es?	Cítricos	Correoso	Complejo	Nublado
+0DIF410	Vino	1	¿A qué se refiere la fecha de la vendimia?	El año en que se embotelló el vino	El año actual	Hace un año	El año de la vendimia
+416738	Vino	2	¿El sistema regulador del vino de qué país se llama Denominazione di Origine Controllata (DOC)?	España	Portugal	Argentina	Italia
+416728	Vino	2	¿Qué país produce Sauternes?	Italia	Hungría	Alemania	Francia
+402628	Vino	2	El vino con toques de hojas secas, bosque o setas se describiría como ¿qué?	Picante	Floral	Sabroso	Terroso
+402620	Vino	2	¿Cuánto vino hay en una magnum?	1 galón	2 litros	100 onzas	1,5 litros
+489576	Vino	2	¿El proceso de purificación de quién salvó la industria del vino francés y mató la levadura activa en la cerveza?	Marie Curie	Linus Pauling	Joseph Lister	Luis Pasteur
+489621	Vino	2	¿Qué tipo de vino se utiliza para producir champán rosado?	Blanco	rojo	Sonrojo	Rosa
+258970	Vino	2	¿Qué se agrega al vino para crear un "vino fortificado"?	Taninos	Vitaminas	Condimento	Alcohol
+489372	Vino	2	¿Cuál de estos es un vino dulce enriquecido con aguardiente de uva?	Merlot	Punzón	champán	Puerto
+489611	Vino	2	¿Cuál es el término para el acto de verter un vino en un recipiente especial para que pueda respirar?	Descorchar	Fermentando	Acidacion	Decantar
+489378	Vino	2	¿Qué uva a menudo se denomina simplemente "Cab"?	Franco cabernet	Pinot Noir	Sauvignon Blanc	Cabernet Sauvignon
+489499	Vino	2	Aproximadamente el 25% de las plantaciones de vino en Alemania son ¿qué tipo de uva?	Cabernet Sauvignon	Pinot Noir	Sauvignon Blanc	Reisling
+402614	Vino	2	¿Cómo se llama un champán elaborado íntegramente con uvas Chardonnay?	Chardonnay Blanc	Champaña Chardonnay	Champagne Blanc	Blanc De Blanc
+153124	Vino	2	¿Cuántos galones de vino beben los mexicanos al año, por persona, en promedio?	1 galón	2 galones	10 galones	Menos de 1/2 galón
+218243	Vino	2	¿España es famosa por qué vino generoso?	Porto	Madeira	Marsala	Jerez
+402654	Vino	2	Casi todo el vino producido en Alemania es de qué tipo	rojo	Espumoso	Seco	Blanco
+489570	Vino	2	¿Los vinos no europeos suelen clasificarse según qué criterios?	Región	País	Clásico	Uva
+489630	Vino	2	Siguiendo la etiqueta italiana, ¿qué tipo de vino le llevaría al anfitrión de una fiesta?	Mala calidad	Gran cantidad	No traigas vino	Buena cosecha
+489518	Vino	2	¿Cuál es otro nombre para Pinot Grigio?	Pinot Noir	Pino Blanct	Villa Pinot	Pinot Gris
+489640	Vino	2	¿Qué país fue el primer consumidor de vino per cápita en 2014?	Australia	Nueva Zelanda	Suecia	Francia
+402638	Vino	2	¿Cómo llamas a los vinos italianos que no tienen el DOC en sus etiquetas?	Deficiente	Bicenti	Rollo	Vino Da Tavola (Vino de Mesa)
+218187	Vino	2	¿De qué toma Vouvray su nombre?	La bodega	El enólogo	Una región en Francia	El pueblo de Vouvray
+402644	Vino	2	Un depósito de vino español también podría denominarse ¿qué?	Ramo	Brix	Cabaña	Bodega
+489425	Vino	2	¿Cuál de estos es un varietal blanco?	Cabernet Sauvignon	Pinot Noir	Syrah	Riesling
+489515	Vino	2	¿Qué variedad de vino se produce utilizando uvas congeladas?	Vino de nieve	Vino Icicle	Vino de navidad	Vino de hielo
+489484	Vino	2	¿Por qué es aconsejable decantar la mayoría de las marcas comerciales de vino antes de consumirlo?	Se acepta como etiqueta adecuada	Permite el pleno disfrute del color	Muestra buen gusto	Permite que el vino respire
+416774	Vino	2	Los enólogos franceses no filtran sus vinos porque sienten que las partículas agregan ¿a qué?	El sabor del vino	El color del vino	El costo del vino	El carácter del vino
+402639	Vino	2	¿A qué se deben los sabores de vainilla y "tostadas" en Chardonnay?	Barriles de acero	El suelo de la región en crecimiento	El tiempo de la vendimia	Barriles de roble
+489649	Vino	2	¿Qué grupo fundó la industria del vino en el estado de Rio Grande do Sul en el sur de Brasil?	Comerciantes franceses	Cruzados cristianos	Realeza española	Inmigrantes italianos
+489343	Vino	2	¿De qué país es el origen de muchos de los varietales que se cultivan en Chile?	Italia	Alemania	Polonia	Francia
+489569	Vino	2	¿Cuál de estos grupos usa vino para celebrar la Eucaristía?	MADD	Naciones Unidas	El partido verde	Iglesia Católica
+402655	Vino	2	¿Qué término describe el vino que se escurre por el costado de una copa de vino después de girar o beber?	Carne	Ligero	Debe	Piernas
+489431	Vino	2	¿Por qué debería almacenarse la botella de modo que el vino toque el corcho?	Para que el corcho no se atasque	Para que la botella no gotee	Para que el vino no se convierta en vinagre	Para que el aire no entre en la botella
+489523	Vino	2	¿Cómo se llama el rosado elaborada con uvas Zinfandel?	Beaujolais Noveau	Shiraz	Villa Pinot	Zinfandel blanco
+402647	Vino	2	¿Qué sucede cuando el vino permanece "en la levadura"?	champán	Vino muy seco	Vino de postre	Fermentación
+489477	Vino	2	¿Qué provocó el declive del interés por los vinos alemanes en el siglo XX?	Plaga	Lucha económica	Vinos italianos	segunda Guerra Mundial
+402641	Vino	2	¿Qué pasa si el vino tinto se sirve frío?	Se vuelve demasiado dulce	Desarrolla un sabor salado	Se convierte en vinagre	Los taninos tienen un sabor amargo
+489371	Vino	2	¿Un vino altamente coleccionable tiene un historial probado de qué?	Buen color	Reconocimiento de nombre	Fermentación	Aguanta bien en el tiempo
+489386	Vino	2	¿Qué fenómeno científico es responsable del azúcar en las uvas?	Hidrología	Gravedad	Relatividad	Fotosíntesis
+489578	Vino	2	¿A qué se refiere el término "corral" con referencia al vino?	El tamaño de la bodega	Una bodega rural	La mezcla de uvas	Un aroma a descomposición
+1239	Vino	2	¿Qué determina la clasificación de un vino?	Color	Contenido de alcohol	Uvas utilizadas	Regulaciones de un país
+402650	Vino	2	¿Cómo se debe almacenar una botella de vino abierta?	Acostado	En un ángulo de 45 grados	Invertido (al revés)	De pie
+402631	Vino	2	¿Por qué Francia es más conocida por sus vinos que Alemania o Italia?	Más costa	Más días soleados	Más ríos	Diversidad de clima
+402633	Vino	2	Los vinos producidos fuera de las regiones vinícolas tradicionales europeas se denominan ¿cómo?	Vinos añejos	Inferior	Mezclas	Vinos del Nuevo Mundo
+489544	Vino	2	¿Qué término se refiere a la medida de complejidad en un vino?	Longitud	Textura	Equilibrar	Profundidad
+416679	Vino	2	¿Las variedades dulces de vinos fortificados se sirven generalmente como qué?	Aperitivos	Acompañamientos para carne	Acompañamientos para queso	Vinos de postre
+366432	Vino	2	En los Estados Unidos, ¿qué determina dónde se puede comprar vino?	Ley Federal	Ordenanza del condado	Ordenanza de la ciudad	Ley del Estado
+489412	Vino	2	En Australia, ¿cómo se conoce a Syrah?	Malbec	Barbera	Garnacha	Shiraz
+489644	Vino	2	¿Qué desayuno le da nombre al vocabulario profesional de un catador de vinos?	Eggy	Cerealish	Omelet	Tostado
+402625	Vino	2	¿Dónde en Portugal se cultivan las uvas que se utilizan para producir Madeira?	Lisboa	Oporto	Duero	Madeira
+416844	Vino	2	¿Qué término se utiliza para describir el vino que tiene un sabor suave?	Fresco	Crujiente	Ancho	Suave
+489370	Vino	2	¿A qué temperatura se debe llevar el Pinot Noir a la mesa?	70 grados F	52 grados F	68 grados F	60 grados F
+416796	Vino	2	¿Cuál es la fuente de tanino que se encuentra en los vinos tintos?	Levadura	Azúcar	Sal marina	Piel de uva
+341006	Vino	2	¿Qué entra en una botella de vino para oxidarla y volverla imbebible?	Hongo	Molde	Agua	Aire
+343509	Vino	2	¿Cuál es la mejor manera de lidiar con un corcho roto al abrir el vino?	Quítelo con unos alicates	Agite la botella para quitarla	Romper la botella justo debajo del cuello	Empújalo en la botella
+402649	Vino	2	Chile es mejor conocido por ¿qué tipo de vino?	champán	Blanco	Rosa	rojo
+489384	Vino	2	Borgoña es la ortografía inglesa para qué región de Francia?	borgoña	Bretaña	Alsacia	Bourgogne
+489350	Vino	2	En España, ¿cuánto tiempo debe envejecer un vino blanco para optar a la denominación de "crianza"?	2 años	3 años	4 años	1 año
+489516	Vino	2	¿Grappa es un tipo de qué?	Jerez	champán	Puerto	brandy
+402657	Vino	2	¿Qué palabra describe el acto de mantener las vides y las copas de los árboles?	Fijación	Cuchillada	Rejilla	Poda
+489568	Vino	2	¿"No venderemos vino antes de que llegue su hora" era el slogan de qué empresa?	Guinness '	Gallo's	Jack Daniels '	Paul Masson
+489556	Vino	2	¿Cómo se puede describir un vino que es fácil de disfrutar?	Amistoso	Responsable	Considerado	Accesible
+54281	Vino	2	El vino con toques de bayas, cerezas o manzanas se describiría como ¿qué?	Picante	Terroso	Floral	Sabroso
+416788	Vino	2	¿El método champenoise es un proceso que se utiliza para hacer qué tipo de vino?	Puerto	Vino tinto	Rosa	champán
+294677	Vino	2	¿Cuál es el término para el sabor de un vino blanco con un nivel de ácido demasiado alto?	Mordiendo	Suave	Crujiente	Grueso
+416691	Vino	2	En el mundo del vino, ¿qué es un "tapón"?	Una botella	Una etiqueta de botella	Un sacacorchos	Un corcho
+489376	Vino	2	¿La región vinícola alemana se encuentra principalmente a lo largo de qué río?	Danubio	Oder	Mosa	Rin
+489624	Vino	2	¿A qué temperatura alcanza el Pinot Noir su bouquet completo?	52 grados F	72 grados F	48 grados F	65 grados F
+402619	Vino	2	¿Qué vino se usa para hacer Chicken Marsala?	Madeira	Jerez	Puerto	Marsala
+416760	Vino	2	¿De qué color es White Zinfandel?	rojo	Blanco	De color amarillo pálido	Rosado
+489421	Vino	2	¿Cuál es el término para el sabor de los vinos blancos con un alto nivel de acidez?	Todavía	Suave	Brut	Crujiente
+416585	Vino	2	En Francia, ¿cómo se denominan los vinos?	Para las uvas utilizadas	Por el nombre de la bodega	Para el color del vino terminado	Para la localidad / región de The Vineyard
+402659	Vino	2	¿Cuál es el término para el sabor de los vinos blancos con un nivel de ácido bajo?	Todavía	Brut	Crujiente	Suave
+489565	Vino	2	¿La "cosecha" de un vino se refiere al año de qué?	Las vides fueron plantadas	El vino fue embotellado	El vino estaba tapado con corcho	Las uvas se cultivaron
+489610	Vino	2	¿Cómo se llama una ciencia dedicada a la elaboración del vino?	Psicología	Obología	Vinología	Enología
+489631	Vino	2	¿Qué término se refiere a la impresión del tamaño y peso del vino?	Equilibrar	Ramo	Nariz	Cuerpo
+489340	Vino	2	Cabernet sauvignon es conocido como el rey de las uvas tintas; ¿Qué variedad se conoce como la reina?	Barbera	Tempranillo	Zinfandel	Pinot Noir
+489354	Vino	2	¿Qué convierte el vino en vinagre?	Levadura	sal	Azúcar	Oxígeno
+402632	Vino	2	¿Cuál es otra palabra para vino quemado?	Vodka	Ron	Tequila	brandy
+489651	Vino	2	¿Cuál es la fuente del color que hace que el vino sea rojo?	Tinte rojo # 4	Remolacha	Carmín	Piel de uva
+402636	Vino	2	¿Qué figura bíblica plantó un viñedo e hizo vino?	Adán	Víspera	Caín	Noé
+489635	Vino	2	¿Cuál es el término para un experto en vinos que trabaja en un buen restaurante?	Spatlese	Espumante	Stelvin	Sumiller
+402658	Vino	2	¿Qué le da carácter al vino tinto?	Azúcar	Alcohol	Color	Tanino
+489359	Vino	2	¿Qué región de Italia es el hogar de Chianti?	Veneto	Sicilia	Cerdeña	Toscana
+489658	Vino	2	¿Qué es una botella de vino que contiene 1,5 litros de vino?	Libra esterlina	Aguamiel	Matraz	Botella doble
+489377	Vino	2	¿El vino con toques de madreselva o violetas se describiría como qué?	Dulce	Terroso	Picante	Floral
+489582	Vino	2	¿Qué famosa región productora de vino se encuentra entre el Valle de Napa y el Océano Pacífico?	San Francisco	Oakland	Berkley	Sonoma
+489365	Vino	2	¿Cómo se llama un pequeño almacén para almacenar alimentos o vinos?	Mudroom	Cocina	Ático	Despensa
+402642	Vino	2	¿Qué tipo de uvas producen los mejores vinos del mundo?	Galante	Generoso	Caballerosidad	Noble
+489381	Vino	2	¿Qué es una reacción cutánea con manchas que algunas personas tienen como reacción a los taninos?	Erupción de vino	Flor de vino	Escarcha de vino	Rubor de vino
+489449	Vino	2	¿Qué uvas son originarias de Australia?	Sauvignon Blanc	Chardonnay	Cabernet Sauvignon	Ninguna
+416767	Vino	2	¿Qué queda en tu boca después de tragar vino?	Enología	Taninos	Vinagre	Regusto
+489567	Vino	2	¿Qué es el jugo de uva que no ha sido fermentado?	Tosto	Dosto	Losto	Mosto
+416821	Vino	2	¿Alsacia produce vinos blancos con uvas de uso común en los vinos de qué otro país?	Italia	España	Suiza	Alemania
+341005	Vino	2	En una botella típica de vino francés, ¿qué significan las letras "AOC"?	Apreciación de Chablis	Denominación de país	Controlee original autorizado	Denominación de origen Controlee
+489369	Vino	2	¿Dónde se elabora todo el Champán ("C" mayúscula)?	En cualquier lugar de Francia	En cualquier lugar del sur de Francia	En cualquier lugar del norte de París	Región de Champagne de Francia
+98752	Vino	2	¿Qué término describe específicamente el cultivo de uvas?	Cultura volátil	Horticultura	Nomenclatura	Viticultura
+489498	Vino	3	¿De qué toma Chablis su nombre?	Un enólogo francés	El tipo de uva utilizada	Un castillo francés	Un pueblo francés
+489549	Vino	3	¿En qué meses se lleva a cabo la temporada de cosecha de uvas de vinificación de la India?	Mayo a julio	Febrero a septiembre	De junio a agosto	Enero a marzo
+14225	Vino	3	¿Un sabor mineral en un vino suele indicar la presencia de qué en el suelo del viñedo?	Hierro	Arcilla	Sales	Caliza
+489487	Vino	3	¿Qué se considera la reina de Sauternes?	Trockenbeerenauslese	Tokay	vino de misa	Chateau d'Yquem
+416651	Vino	3	¿Cómo se llama la tradicional funda de paja de una botella de Chianti?	Una stracca	Un rattano	Un bicento	Un fiasco
+489620	Vino	3	¿Qué región vinícola alemana sirve vino en vasos de 1/2 litro llamados "Schoppen"?	Ahr	Baden	Mosel	Pfalz
+489465	Vino	3	¿Qué vino italiano se produce entre Florencia y Siena, el corazón tradicional de este vino?	Barolo	Lambrusco	Moscato	Chianti Classico
+489424	Vino	3	¿En qué año se publicó el sistema "Grand Cru" para la clasificación del vino de Burdeos?	1789, durante la Revolución Francesa	1914, al comienzo de la Primera Guerra Mundial	1804, por la coronación de Napoleón	1855, para la gran exposición
+489596	Vino	3	¿Cuántos litros hay en un nabucodonosor?	12	11	dieciséis	15
+489539	Vino	3	¿En qué tipo de recipiente se encontraron los primeros rastros de vino en China?	Vasos de bronce con tapa	Cuencas de arcilla	Barriles de madera	Tarros de cerámica
+489363	Vino	3	¿Qué bodega, iniciada en la década de 1930 por los hermanos Ernest y Julio, tiene su sede en Sonoma?	Korbel	San Francisco	Selby	Gallo
+489591	Vino	3	¿Qué tipo de uva se usa más comúnmente para hacer vino suizo?	Sauvignon Blanc	Pinot Noir	Cabernet Sauvignon	Chasselas
+489473	Vino	3	¿Cuál es la inicial del segundo nombre de Robert Parker, el autor de "Wine Advocate"?	P	D	H	M
+402617	Vino	3	¿De qué especies proceden la mayoría de las principales uvas para vinificación?	Vitis Labrusca	Vitis Labrusca / Vinifera Hybrid	Vitis rotundifolia	Vitis vinifera
+489410	Vino	3	¿Qué palabra se refiere a las hojas de una vid?	Techo	Brazos	Techo de cristal	Pabellón
+489645	Vino	3	¿Cuál fue la fuente original de la levadura requerida para hacer vino?	Un pan	Hongos	Hojas de manzanilla	Hongo en la piel de la uva
+489502	Vino	3	¿Qué término describe mejor al Cabernet Sauvignon?	De cuerpo medio	Cuerpo ligero	Delgado	Cuerpo completo
+489361	Vino	3	¿Qué tipo de uvas se utilizan para hacer Montrachet?	Chenin Blanc	Riesling	Cabernet Sauvignon	Chardonnay
+416686	Vino	3	¿A la madre de quién se le atribuye la creación del Manhattan, un cóctel de vermú dulce y whisky?	Barack Obama	Napoleón	Rudy Giuliani	Winston Churchill
+489511	Vino	3	El Valle del Loira es más conocido por ¿qué tipo de vino?	rojo	champán	Merlot	Blanco
+489447	Vino	3	¿Qué causa los sabores de plátano en el vino?	Plátanos	Sulfuro de hidrógeno	Empujones	Metabolismo de levadura
+489469	Vino	3	¿Qué zona de Francia es el hogar de la uva Garnacha?	borgoña	Bretaña	Alsacia	El valle del Ródano
+489489	Vino	3	¿Cuál es la segunda variedad blanca más plantada en Francia?	Chardonnay	Pinot Grigio	Semillón	Sauvignon Blanc
+98750	Vino	3	¿Vin Doux Naturel siempre se ofrece como qué?	Un aperitivo	Un acompañamiento para carne	Un acompañamiento para queso	Un vino de postre
+58549	Vino	3	¿En qué década Argentina comenzó a exportar sus vinos?	1890	1950	Años 80	Los noventa
+489403	Vino	3	¿Qué vino asocia la mayoría de los estadounidenses con los restaurantes italoamericanos?	Barolo	Lambrusco	Moscato	Chianti
+16065	Vino	3	¿En qué año se produjo el primer vino en Brasil?	1651	1751	1851	1551
+489407	Vino	3	¿Cuántas botellas de vino de tamaño regular hay en una magnum?	2	2.5	3	1,5
+489589	Vino	3	¿Qué paso en el método champenoise resulta en la carbonatación del champán?	Primera fermentación	Prensado inicial	Fortificación	Segunda fermentación
+416753	Vino	3	¿A qué variedades de vino se dedica la mayor parte de la producción de vino en China?	Vino Nihonshu	Merlot	Chardonnay	Vinos de mesa
+489563	Vino	3	¿Qué país produce Moscatel?	Suiza	Australia	Alemania	Portugal
+489492	Vino	3	¿Qué término relacionado con el vino describe mejor a Savignon Blanc?	Seco	Medio seco	Dulce	Muy seco
+489486	Vino	3	En 1865, ¿qué contenía el vino Mariani?	Chocolate	Morfina	Hachís	Cocaína
+489379	Vino	3	Aunque presente en todos, el nivel de acidez es más importante en qué vinos?	rojo	Sonrojo	Fortificado	Blanco
+416597	Vino	3	¿De qué se elabora el vino indio conocido como "kallu"?	Uvas rojas	Arroz	Uvas verdes	Savia de palmera
+489476	Vino	3	¿Cómo llaman los enólogos la forma de la botella utilizada para el Cabernet?	Pendiente con hombros	Cuello estrecho	De cuello largo	De hombros altos
+489391	Vino	3	En la Europa medieval, ¿dónde envejecían el vino los monjes franceses?	En el monasterio	En el sótano de la iglesia	En el campanario de la iglesia	En cuevas
+416804	Vino	3	¿Qué término describe mejor al Malbec?	Cuerpo ligero	Cuerpo completo	Delgado	De cuerpo medio
+54277	Vino	3	¿Las uvas Gewurztraminer se cultivan de forma más famosa en qué región de Francia?	Bretaña	Centrar	Lemosín	Alsacia
+489601	Vino	3	¿Qué provincia argentina es el centro de producción de uva del país?	Santa Cruz	Jujuy	Tierra del Fuego	Mendoza
+489637	Vino	3	Aproximadamente, ¿cuántos vinos califican para la designación DOCG de Italia?	Más de 300	Sólo 13	Aproximadamente 83	Más de 30
+489459	Vino	3	¿Qué tipo de vino lleva el nombre del pueblo de Soave en Veneto?	Puerto	Jerez	Espumoso	Blanco
+416701	Vino	3	¿Cuál es la región vitivinícola más famosa cubierta por las reglas AOC?	Burdeos	Borgoña	Ermita	Chateauneuf-du-Pape
+489550	Vino	3	Cuando los vinos se sirven a "temperatura ambiente", ¿a qué sala se refiere?	El comedor	La cocina	La sala de degustación	La habitación más fresca de la casa
+54279	Vino	3	Cuando se abre una botella de vino, ¿qué determina cuánto tiempo, si es que se debe airear, se debe airear?	El aroma	La vendimia	El color	El sabor
+416595	Vino	3	¿Cómo se llama la bodega más antigua de China?	Shanxi Grace	Tasya	Huadong	Changyu
+489584	Vino	3	¿Las uvas de qué país tienen el "tiempo de espera" más largo del mundo?	Francia	Chile	Australia	Argentina
+416806	Vino	3	¿Cuál es la región productora de vino más famosa de Japón?	Valle de Okinawa	Región rural de Shochu	Región vinícola de Nihonshu	Prefectura de Yamanashi
+489648	Vino	3	¿En qué región se encuentra la mitad de los viñedos de México?	Aguascalientes	Querétaro	Baja	Sonora
+489402	Vino	3	Por su personalidad sutil, ¿cuál es la uva líder en vino blanco?	Riesling	Chenin Blanc	Sauvignon Blanc	Chardonnay
+489608	Vino	3	¿Cuáles de los vinos de Alemania son los más legendarios?	Vinos tintos	Vinos espumosos	Vinos secos	Vinos de postre
+416658	Vino	3	¿Cuál es el productor estadounidense más conocido de Soave?	Gallo	Mondavi	Jackson Wine Estates	Bolla
+402621	Vino	3	¿Cuál de estos es un vino generoso?	Cabernet Sauvignon	Pinot Noir	Sauterne	Marsala
+489463	Vino	3	¿Cuál es la región vinícola más antigua de América?	Región de Centroamérica	Región costera del Pacífico	Región de América del Norte	Región Mexicana
+416698	Vino	3	¿Por qué se enfría el vino blanco antes de servir?	Para hacerlo más rico	Para reducir el contenido de alcohol	Para mejorar el contenido de alcohol	Para suavizar la acidez
+489495	Vino	3	¿Qué término relacionado con el vino describe mejor al Pinot Blanc?	Muy seco	Medio seco	Dulce	Seco
+489426	Vino	3	De los millones de botellas de Chianti que se producen en Italia cada año, ¿cuánto es Chianti Classico?	10%	50%	90%	33%
+489639	Vino	3	¿Todo el Champán ("C" mayúscula) debe hacerse mediante qué proceso?	Charmat	Liquere De Tirage	Champán D'Eloise	Methode Champenoise
+489401	Vino	3	¿Qué tipo de vino se utiliza para hacer zabaglione italiano?	Jerez	Puerto	Zinfandel	Marsala (dulce)
+489396	Vino	3	¿Qué porcentaje del total mundial suman los vastos viñedos de China?	4%	11%	18%	6%
+489647	Vino	3	¿Qué palabra describe un vino joven y bebible instantáneamente?	Todavía	Brut	Aguamiel	Nouveau
+489542	Vino	3	¿El tempranillo es autóctono de qué país?	Italia	Portugal	Francia	España
+416837	Vino	3	¿Cuáles son los únicos países que no han sufrido la devastadora filoxera (piojo de la raíz)?	Argentina, Chile, Islas Galápagos	Estados Unidos, México, Canadá	Francia, Alemania, España	Argentina, Chile, Islas Canarias
+489632	Vino	3	¿Qué clasifica el sistema de clasificación cru de Burdeos?	Vinos	Enólogos	Añadas individuales	Viñedos
+282661	Vino	3	¿Por qué la mayoría de los vinos del Valle del Loira carecen de matices de roble?	Máscaras de azúcar The Oak Flavors	Los barriles están hechos de nuez	El vino se cría en botellas de vidrio.	El vino se cría en depósitos de acero
+489393	Vino	3	¿Cómo llaman los enólogos la forma de la botella que se utiliza para el Merlot?	Cuello estrecho	Pendiente con hombros	De cuello largo	De hombros altos
+489337	Vino	3	Borgoña es famosa por dos variedades de uva?	Chablis y Montrachet	Cabernet y chardonnay	Chardonnay y Merlot	Pinot Noir y Chardonnay
+218198	Vino	3	¿Cómo se llama un vino tinto elaborado con uvas gamay cultivadas en la región francesa de Lyon?	Mosela	Amontillado	Bock	Beaujolais
+17100	Vino	3	¿Qué país es el mayor productor de vino del hemisferio sur?	Australia	Brasil	África	Argentina
+416765	Vino	3	¿Cuál es la firma de Chenin Blanc?	Dulzura	Jugosidad	Sequedad	Acidez
+416146	Vino	3	¿Qué término describe mejor a Nebbiolo?	Cuerpo ligero	De cuerpo medio	Delgado	Cuerpo completo
+489604	Vino	3	¿Qué se suele utilizar para fortificar un vino?	Puerto	Marsala	Sharry	brandy
+489367	Vino	3	¿El vino se echa a perder si se expone a cuál de estos?	Vaso	Frío	Metal	Ligero
+489468	Vino	3	¿Cuántas botellas de vino estándar hay en un nabucodonosor?	14	15	9	20
+489500	Vino	3	¿Qué término se utiliza para describir el vino que tiene un sabor intenso?	Crujiente	Seco	Suave	Ancho
+489442	Vino	3	¿Qué vino se produce a partir de las uvas tintas Sangiovese y Canaiolo cultivadas en la Toscana?	Barolo	Lambrusco	Moscato	Chianti
+489462	Vino	3	¿Qué bodega produjo más vino que cualquier otra en 2005?	Riunite	Antinori	Concha Y Toro	Vinos Gallo
+489628	Vino	3	¿Un matusalén es igual a cuántas botellas estándar de vino (tinto o blanco)?	7	6	6.5	8
+489655	Vino	3	¿Cómo se llaman los vinos espumosos moderadamente dulces?	Semi-Sec	Uni-Sec	Bruni-Sec	Demi-Sec
+415497	Vino	3	¿Cuál es el vino blanco más famoso elaborado en Italia?	Riesling	Chianti	Zinfandel	Soave
+489617	Vino	3	¿Qué tipo de uvas se utilizan para elaborar la Borgoña Blanca de la Cote de Beaune?	Cabernet Sauvignon	Chenin Blanc	Riesling	Chardonnay
+489336	Vino	3	¿Para qué vino de Sauternes se creó la denominación "Premier Cru Superieur"?	Chateau Latour	Yarra Yering	Bodega Escarpment	Chateau D'Yquem
+416598	Vino	3	Según la ley francesa, ¿cuántos grados de vino hay?	5	6	8	3
+489347	Vino	3	¿Qué tipo de vino se suele presentar en una botella alta y delgada que es verde o marrón?	Pinot Meunier	Pinot Noir	Cabernet Sauvignon	Riesling
+489472	Vino	3	¿Cómo llaman los enólogos la forma de la botella utilizada para el Beaujolais francés?	De hombros altos	De cuello largo	Cuello estrecho	Pendiente con hombros
+402646	Vino	3	¿Cuál es la traducción de "Gewurztraminer"?	Vino de larga duración	Buen vino brut	Vino Tradición	Uva picante de Tramin
+489659	Vino	3	¿Cuáles de los siguientes viñedos se pueden encontrar en el condado de Sonoma?	Rutherford	Howell Mountain	Monterey	Chalk Hill
+489545	Vino	3	¿El vino blanco producido en Chateauneuf-du-Pape es una alternativa con cuerpo a qué vino popular?	Pinot Gris	Zinfandel	Riesling	Chardonnay
+489461	Vino	3	¿Cómo se llama la parte de la vid que queda de año en año?	Final de la cola	Tallo	Hojas	Cordón
+489607	Vino	3	Hoy en día, la garnacha se asocia más como uva de mezcla ¿con qué vinos?	Zinfandels	Merlots	Muscadets	Vinos Cotes Du Rhone
+489548	Vino	3	¿Cuál es una palabra francesa que se usa para describir un vino dulce?	Bouche	Pomme	Autobus	Doux
+489438	Vino	3	¿Cuál es la denominación de los vinos españoles de mayor calidad?	DOCA	HACER	VCPRD	DO De Pago
+489503	Vino	3	Según la leyenda, ¿dónde comenzó la producción de vino japonés?	Hokkaido	Kosyu	Tasaki	Yamanashi
+416779	Vino	3	Cuando los enólogos se refieren a "equilibrio", ¿qué hay de equilibrado en el vino?	Azúcar y levadura	Dulzura y sequedad	Fruta y profundidad	Acidez y taninos
+489455	Vino	3	¿Qué región de España se hizo mundialmente famosa por sus vinos de Burdeos en el siglo XIX?	Jerez	Ribera del Duero	Valdepenas Sur	la Rioja
+489634	Vino	3	Aunque produce varios tipos, Argentina es conocida por ¿qué tipo de vino?	Espumoso	Chenin Blanc	champán	rojo
+489629	Vino	3	¿En qué año se fundó la popular marca china, China Great Wall Wine Co., Ltd.?	1984	1980	1975	1983
+489577	Vino	3	¿Cómo se llama Chenin Blanc en Sudáfrica?	Chenin Blanc	Loire Blanc	Riesling	Steen
+349501	Vino	3	¿Qué organización desarrolló regulaciones para establecer las Áreas Vitícolas Estadounidenses (AVA)?	FDA	Departamento de Salud de California	Asociación de Viticultores de la Costa Oeste.	BATF
+489338	Vino	3	¿Qué tipo de uvas se utilizan para hacer Meursault?	Cabernet Sauvignon	Zinfandel	Uvas de champán	Chardonnay
+489643	Vino	3	Charmat es un proceso utilizado para hacer qué?	Puerto	Jerez	Chablis	Vinos espumosos
+416811	Vino	3	¿Qué tipo de vino es el Vin Santo de la Toscana?	champán	Puerto	Jerez	Vino de postre
+281539	Vino	3	¿A las bodegas chilenas se les conoce comúnmente como qué?	Casas	Mercados	Villas	Bodegas
+416674	Vino	3	La región española de Rioja es mejor conocida por producir ¿qué tipo de vino?	Blanco	Riesling	Chardonnay	rojo
+489514	Vino	3	¿Qué uva se utiliza para elaborar la mayoría de los borgoñones rojos?	Cabernet Sauvignon	Franco cabernet	Merlot	Pinot Noir
+489433	Vino	3	El licor de tiraje se utiliza en la elaboración de qué tipo de vino?	Puerto	Chablis	Jerez	Vinos espumosos
+55003	Vino	3	¿A qué se puede hacer referencia a los vinos jóvenes y sin desarrollar?	Abierto	Abajo	Vestido	Cerrado
+489416	Vino	3	¿Qué región de Italia es el hogar del vino espumoso Prosecco?	Piamonte	Umbria	Abruzos	Veneto
+489453	Vino	3	¿Alemania ha designado cuántas regiones vinícolas de calidad?	15	17	19	13
+415532	Vino	3	En el mundo del vino, ¿cuál es el término común para "Botrytis cinerea"?	Zorrillo	De Visso	Hongo	Podredumbre noble
+416662	Vino	3	¿En qué región vinícola francesa se produce el vino Beaujolais?	Alsacia	valle Loire	Saboya	borgoña
+489619	Vino	3	¿Cómo se llama un vino blanco elaborado con dos tipos diferentes de uvas?	Zinfandel	Spritzer	Bock	Edelzwicker
+489349	Vino	3	¿Los vinos del Nuevo Mundo tienden a clasificarse según qué criterios?	Región	Calidad	Años	Uva
+402622	Vino	3	¿De qué toma Madeira su nombre?	Una ciudad en españa	Una región de Italia	Una región en Francia	Una isla de propiedad portuguesa
+489466	Vino	3	Los antiguos chinos comenzaron a cultivar uvas y a elaborar vinos durante ¿qué dinastía?	Espiga	Ming	Yuan	Han
+299560	Vino	3	¿Cuántos años tiene un vino español Gran Reservas?	Diez	Dos	Veinte	Cinco
+489519	Vino	3	¿En qué región de Italia se produce el Chianti?	Piamonte	Veneto	Lacio	Toscana
+489445	Vino	3	¿Cuál es la principal uva de vino tinto de la Rioja en España?	Mourisco	Mazuelo	Graciano	Tempranillo
+416682	Vino	3	¿Qué cosecha de Burdeos de los 90 se ha comparado con las mejores añadas de todos los tiempos?	1994	1993	1997	1995
+489526	Vino	3	¿Cuál de los siguientes productores de vino no es una famosa casa de Oporto?	Graham	Fonseca	De Dow	Antinori
+489587	Vino	3	¿En qué zona climática japonesa se produce la mayor parte del cultivo de la vid?	Ecuatorial	Semi árido	Mediterráneo	Monzón
+218235	Vino	3	¿Cuál de estos es un vino generoso?	Chardonnay	Chablis	Sauvignon Blanc	Jerez
+489541	Vino	3	¿Cuál es la regla general con respecto a cuántas copas de champán hay en una botella?	Cinco	Diez	Ocho	Seis
+416601	Vino	3	¿Qué tipo de vino es Vernaccia?	Espumoso	Jerez	rojo	Blanco
+489451	Vino	3	¿Qué vino famoso se produce en la zona noroeste de Piamonte en Italia?	Chianti	Soave	Valpolicella	Barolo
+489507	Vino	3	¿Qué podría perder un vino tinto si se deja calentar demasiado?	Contenido de alcohol	Aroma	Color	Jugosidad
+416846	Vino	3	¿Qué término describe mejor al Pinot Noir?	Cuerpo ligero	Cuerpo completo	Brut	De cuerpo medio
+489345	Vino	3	¿Qué tipo de vino se elabora con la variedad Melon De Bourgogne?	Cabernet Sauvignon	Jerez	Syrah	Muscadet
+489555	Vino	3	Cuando se publicó el sistema Grand Cru Classe, ¿cuántos vinos eran Premier Cru?	Veintiuno	Ninguna	Doscientos doce	Cuatro
+489355	Vino	3	Los vinos servidos en chambre se sirven a qué temperatura?	46 grados F	Temperatura corporal	Enfriado	Temperatura ambiente
+489602	Vino	3	En Italia, ¿cuál es la cantidad mínima de tiempo que todos los Barolos envejecen?	Seis meses	Un año	Cinco años	Dos años
+489446	Vino	3	¿Cuál es la edad media de un roble francés cosechado para hacer barricas de vino?	17 años	70 años	7 años	170 años
+489353	Vino	3	¿Qué uvas se utilizan para elaborar White Zinfandel?	Zinfandel blanco	Rubor Zinfandel	Uvas de champán	Zinfandel rojo
+402637	Vino	3	¿Qué región de Italia es el hogar de la uva Montepulciano?	Lombardía	Umbria	Sicilia	Abruzos
+54253	Vino	3	¿Qué término se usa para describir el vino que es un poco agrio?	Seco	Suave	Ancho	Crujiente
+489450	Vino	3	¿Qué se considera a menudo "Chardonnay de los pobres"?	Sauvignon Blanc	Muscadet	Pinot Gris	Pinot Blanc
+402648	Vino	3	Usado para la clarificación del vino, ¿la bentonita es un tipo de qué?	Carbón	Azúcar	Miel	Arcilla
+489627	Vino	3	¿Cómo se llama el vino espumoso español originario de la región de Cataluña?	Caná	Caba	Cova	Cava
+416801	Vino	3	¿El viñedo chino más grande se encuentra en la misma latitud que qué otra región productora de vino?	El sur de California de Estados Unidos	Italia del norte	Sur de Brasil	Sur de Francia
+489399	Vino	3	¿Cuál de estos es un vino generoso?	Chardonnay	Sauterne	Tokay	Puerto
+218211	Vino	3	¿Ruby, "tawny" y "vintage" son estilos de qué tipo de vino?	champán	Madeira	Chablis	Puerto
+489586	Vino	3	¿Qué región de Italia es el hogar de la uva Negroamaro?	Liguria	Friuli-Venecia Julia	Calabria	Puglia
+489441	Vino	3	¿Qué palabra describe el tamaño de las burbujas en una copa de vino?	Bianco	Piernas	Poso	Talón
+489626	Vino	3	¿Cuál es el nombre de la ciudad donde se encontró el primer vino en China?	Beijing	Xian	Cantón	Jiahu
+489452	Vino	3	¿Qué país se destaca por Madeira?	Italia	España	Grecia	Portugal
+416689	Vino	3	¿Qué tipo de uva se utiliza para elaborar los mejores vinos de Argentina?	Chardonnay	Lambrusco	Riesling	Malbec
+489524	Vino	3	¿Qué parte de Nueva Zelanda se destaca por sus uvas Cabernet Sauvignon?	isla del sur	Otago	Tasman	isla del Norte
+489609	Vino	3	¿De qué región de Italia es originaria la variedad de uva Nero d'Avola?	Umbria	Piamonte	Lombardía	Sicilia
+489656	Vino	3	¿La variedad de Garnacha tiene sus raíces en qué país?	Francia	Alemania	Italia	España
+489358	Vino	3	¿Qué término relacionado con el vino describe mejor al Pinot Gris?	Seco	Medio seco	Dulce	Muy seco
+54283	Vino	3	¿Cuál es el vino generoso más famoso de Italia?	Jerez	Madeira	Vin Doux	Marsala
+54280	Vino	3	Napa Gamay es un clon de qué varietal tinto	Cabernet Sauvignon	Merlot	Zinfandel	Pinot Noir
+489509	Vino	3	¿Qué denominación famosa del Ródano reside en el sur del Valle del Ródano?	Cote Rotie	Ermita	Pauillac	Chateauneuf Du Pape
+489409	Vino	3	¿Dónde se produce principalmente el vini da tavola "boutique", elaborado con uvas francesas?	Alsacia	Bretaña	Normandía	Toscana
+489599	Vino	3	¿Qué país produce Vin Santo?	España	Portugal	Alemania	Italia
+489653	Vino	3	¿Cómo se llama la porción de vino que se evapora durante el proceso de envejecimiento?	La parte del diablo	La acción romana	La acción francesa	La parte del ángel
+489485	Vino	3	¿Qué vino italiano se asocia con las botellas envueltas en paja?	Barolo	Sangiovese	Lambrusco	Chianti
+489400	Vino	3	¿De dónde provienen la mayoría de los vinos mexicanos?	Valle de Santo Tomás	Valle de la Laguna	Valle de Guadalupe	Península de Baja
+489356	Vino	3	¿Qué variedad de uva se considera el orgullo de la Toscana?	Dolcetto	Moscato	Montepulciano	Sangiovese
+489454	Vino	3	¿Qué región vinícola se encuentra en los estados mexicanos de Coahuila y Durango?	Zacatecas	Baja	Querétaro	Laguna
+489430	Vino	3	¿Cuál es la bodega más grande de Chile?	Cantena	Los Vascos	Casa Lapostolle	Concha Y Toro
+489392	Vino	3	¿Las variedades secas de vinos fortificados generalmente se sirven como qué?	Vinos de postre	Acompañamientos para carne	Acompañamientos para queso	Aperitivos
+416839	Vino	3	¿En qué región se produce la mayor parte del vino en Brasil?	Sao Paulo	Santa Catarina	Minas Gerais	Rio Grande Do Sul
+402624	Vino	3	¿Cuál de las siguientes bodegas estadounidenses se encuentra en Oregón?	L'ecole No. 41	Bodegas Leonetti	Chateau Ste. Michelle	Ponzi
+416638	Vino	3	¿Qué corporación es propietaria de America's Mondavi Wines?	Corporación Brown-Forman	Beringer Blass	El grupo del vino	Marcas de constelaciones
+489538	Vino	3	¿Por qué sabores se destacan los vinos Tokay Pinot Gris de Alsacia?	Pera e higo	Cereza y manzana	Blackberry y fecha	Melocotón y plátano
+489490	Vino	3	¿Qué domina cada una de las zonas vinícolas de Italia?	Un viñedo	Un enólogo establecido	Un proceso particular	Una variedad específica
+489395	Vino	3	¿Qué tipo de vinos destacados provienen de Burdeos en Francia?	Blancos dulces de cuerpo ligero	Blancos secos y con cuerpo	Rojos secos de cuerpo ligero	Rojos secos con mucho cuerpo
+54259	Vino	3	¿Qué hay en el vino tinto que puede provocar dolores de cabeza en personas propensas a las migrañas?	Alcohol	Dióxido de azufre	Levadura	Taninos
+489540	Vino	3	Para no confundirlo con el Gamays francés, ¿cómo se llama el varietal Gamay en California?	Costa oeste Gamay	California Gamay	Pinot Noir	Napa Gamay
+489501	Vino	3	En el habla del vino, ¿qué es lo opuesto a dulce?	Segundo	Todavía	Crujiente	Seco
+489536	Vino	3	¿Qué dos regiones de Francia son famosas por sus viñedos Grand Cru?	Borgoña y Loira	Alsacia y Cotes De Rhone	Loire y Cotes De Rhone	Alsacia y Borgoña
+48911360	Vino	3	¿Los vinos de cocina contienen casi siempre una gran cantidad de qué mineral?	Zinc	Magnesio	Hierro	sal
+489615	Vino	3	Los vinos alsacianos tienen un estilo y carácter que, en lugar de francés, ¿es más qué?	italiano	Español	suizo	alemán
+416631	Vino	3	Aproximadamente, ¿cuántas calorías hay en un vaso o vino de 6 onzas (tinto o blanco)?	260	410	90	180
+489419	Vino	3	¿Un jeroboam equivale a cuántas botellas de champagne?	3	2.5	1,5	2
+489616	Vino	3	¿En qué país se originaron las famosas uvas Malbec de Argentina?	Italia	España	Alemania	Francia
+489394	Vino	3	¿Qué drama de máxima audiencia se centró en una familia vitivinícola?	Dallas	Dinastía	Aterrizaje de nudos	Cresta de halcón
+402643	Vino	3	¿Qué país produce vinos Tokay?	Italia	España	Alemania	Hungría
+489497	Vino	3	¿Qué dos cualidades tienen la mayoría de los Sauvignon Blancs?	Dulce y crujiente	Tarta y Flinty	Audaz y afrutado	Seco y sin remover
+489529	Vino	3	Si un champán es "sec", ¿qué significa eso?	Esta seco	Es burbujeante	Es de color rosa	Es dulce
+489614	Vino	3	¿Quién plantó los primeros viñedos en Argentina en el siglo XVI?	Colonos alemanes	Agricultores locales	Colonos franceses	Colonos españoles
+489533	Vino	3	¿Cuál es la capacidad de un rehoboam?	2,5 litros	3,0 litros	4,0 litros	4,5 litros
+489552	Vino	3	¿Qué famosa bodega estadounidense reside en el condado de Sonoma, California?	Beringer	Chateau Montelena	Robert Mondavi	Chateau St. Jean
+489368	Vino	3	¿Qué región de Italia es el hogar del vino espumoso Asti Spumante?	Lombardía	Umbria	Veneto	Piamonte
+489638	Vino	3	¿Con qué se condimenta el popular vino japonés Umeshu?	Camote y caña de azúcar	Maíz	Trigo y melocotón dulce	Ciruelas japonesas
+402635	Vino	3	¿Cómo se extrae todavía hoy el jugo de uva para los mejores vinos de Oporto?	Prensado en frío	Trituración de roble	Maceración	Pisando el pie
+489417	Vino	3	¿Cómo llamas al vino tradicional de Grecia?	Merlot	Grapa	Ouzo	Retsina
+489464	Vino	3	Las uvas se dejan en la vid y se cosechan tarde para crear ¿qué tipo de vino?	Vinos secos	Puerto	champán	Vinos de postre
+416785	Vino	3	¿Qué tipo de uvas se utilizan para hacer Chablis francés?	Cabernet Sauvignon	Chenin Blanc	Sauvignon Blanc	Chardonnay
+489652	Vino	3	¿Qué significa si un vino se describe como "alcooleux"?	Desde el país de Argel	No alcohólico	Servido Frío	Con contenido alcohólico abrumador
+416719	Vino	3	¿Cuánto tiempo lleva envejecido un Barolo marcado con "riserva"?	Dos años	Cuatro años	Al menos un año	Más de cinco años
+402627	Vino	3	¿Qué vino se lanza anualmente el tercer jueves de noviembre?	Bock	Zinfandel	borgoña	Beaujolais Nouveau
+489341	Vino	3	¿Cuál es el centro del vino de la región de Veneto en Italia?	Roma	Florencia	Siena	Verona
+416195	Vino	3	¿Un jeroboam equivale a cuántas botellas de vino tinto?	3	2	3,5	4
+416684	Vino	3	¿Qué uva creen los expertos que es responsable de los mejores vinos de Argentina?	Barbera	Nebbiolo	Pinot Noir	Malbec
+489387	Vino	3	¿Quién posee la mayoría de las bodegas que producen vinos finos en Brasil?	Empresas estadounidenses de importación y exportación	Bodegas operadas en Francia	Comunidades de inmigrantes alemanes	95% propiedad familiar
+489508	Vino	3	¿Qué región vinícola ha sido un punto de conflicto entre franceses y alemanes durante siglos?	Bretaña	Centrar	Lemosín	Alsacia
+489475	Vino	3	¿Cuál es el acrónimo del sistema regulador en Italia que establece los estándares para la vinificación?	AOC	COV	COV	DOC
+416656	Vino	3	¿Cómo se llaman los vinos de Alsacia?	Para la región	Para el viñedo	Para el enólogo	Para el varietal
+54249	Vino	3	¿En 1978, Walter Schug era el enólogo de qué bodega?	Beringer	Chateau Montelena	Arroyo Matanzas	Joseph Phelps
+489335	Vino	3	¿Bertani y Bolla de Italia son dos grandes productores de qué vino?	Lambrusco	Chianti	Corvina	Valpolicella
+489623	Vino	3	¿Cuántas botellas normales de vino (tinto o blanco) hay en un rehoboam?	5	5.5	4.5	6
+489535	Vino	3	Las uvas Riesling maduran mejor en viñedos que miran hacia qué dirección?	Este	norte	Oeste	Sur
+489479	Vino	3	¿Qué término describe mejor a Merlot?	Cuerpo ligero	Cuerpo completo	Crujiente	De cuerpo medio
+489352	Vino	3	¿Qué término describe mejor a Syrah?	Cuerpo ligero	De cuerpo medio	Tarta	Cuerpo completo
+416592	Vino	3	A mediados de la década de 1990, ¿de qué tres países importaba Estados Unidos la mayor parte del vino?	España, Alemania y Austria	Francia, Italia y Australia	Alemania, Francia y Australia	Italia, Francia y Chile
+54286	Vino	3	¿Cuál de las siguientes opciones no forma parte de la jerga común que se usa para describir un vino?	Patio del granero	Orina de gato	Mantecoso	Gracioso
+489448	Vino	3	¿Qué término se utiliza para describir un vino tinto con alto contenido de taninos?	Crujiente	Brut	De roble	Firma
+306102	Vino	3	¿Qué uva es la base de los famosos vinos Vouvray y Anjou de Francia?	Chardonnay	Pinot Noir	Pinot Gris	Chenin Blanc
+402618	Vino	3	¿En qué canción de Def Leppard dicen "Probé barro y probé vino"?	Convertirse en polvo	Cicatriz	Largo, largo camino para ir	Hombre de demolición
+416832	Vino	3	¿Qué bodega mexicana no forma parte de "Los Tres Grandes"?	Vinos LA Cetto	Vinos Pedro Domecq	Bodegas De Santo Tomas	Casa De Piedra
+489364	Vino	3	¿Cómo se llama Madeira muy seca?	Puerto	Cao	Duomi	Malvasía
+489432	Vino	3	La producción mundial total de vino en 2004 fue ¿cuántos miles de toneladas?	50	140	280	370
+489457	Vino	3	¿Cuál es el único vino francés que se consume típicamente en el mismo año de su cosecha?	champán	Chablis	Montrachet	Beaujolais Nouveau
+54264	Vino	3	¿De qué país se importó el primer vino a China?	Estados Unidos	Inglaterra	India	Francia
+402613	Vino	3	¿Por qué Gewurztramine tiene un contenido de alcohol más alto que Chardonnay?	Se agrega alcohol	Se agrega azúcar	Se agrega levadura	Las uvas permanecen más tiempo en la vid
+489636	Vino	3	¿Cuál es otro nombre para Elswein?	Sauterne	Chablis	Tokay	Vino de hielo
+489493	Vino	3	¿Qué término describe mejor a Riesling?	Seco	Muy seco	Dulce	Medio seco
+489654	Vino	3	¿En qué se fermenta la mayor parte del Sauvignon Blanc?	Barriles de roble envejecido	Barriles de roble nuevos	Botellas de vidrio	Cubas de acero
+218210	Vino	3	¿Qué variedad de vino tinto recibe el sobrenombre de "Rey de las uvas"?	Merlot	Shiraz	Pinot Noir	Cabernet Sauvignon
+489525	Vino	3	¿Qué ayuda a atenuar la dulzura de un vino?	Llevarlo a temperatura ambiente	Permitir que las manos calienten el vaso	Dejándolo respirar	Enfriarlo
+489494	Vino	3	¿Cuántas cajas de vino exportó la India en 2006?	200.000 cajas	450.000 cajas	10,000 cajas	60.000 cajas
+489471	Vino	3	¿Qué región vinícola de Francia limita con Alemania?	Burdeos	Cotes De Rhone	Saboya	Alsacia
+54256	Vino	3	¿La maceración carbónica es la forma principal de producir qué vino?	Amarone	champán	Cabernet Sauvignon del Valle de Napa	Beaujolais Nouveau
+489346	Vino	3	¿Cuánto más vino produce Argentina que Chile?	Tres veces más	Diez veces más	La producción es igual	Cinco veces más
+489382	Vino	3	¿La variedad de uva Tempranillo hizo famoso a qué país productor de vino?	Chile	Alemania	Italia	España
+489444	Vino	3	El jerez se produjo originalmente en qué región de España	Cataluña	Aragón	Madrid	Andalucía
+98751	Vino	3	¿Cuántos distritos vitivinícolas de EE. UU. Están designados por la AVA según la ley de EE. UU.?	542	19	52	187
+489622	Vino	3	¿Cómo llaman los enólogos a los vinos de postre producidos en Estados Unidos?	Tokays	Vinos de postre	Puerto	Cosecha tardía
+489488	Vino	3	El método champenoise requiere que el vino fermente lentamente en la botella durante al menos cuánto tiempo.	Un mes	Seis meses	Dos años	Un año
+402616	Vino	3	¿Cómo se llama un vino varietal de California con acabado de corcho económico en una botella de 1,5 litros?	Jarra	Botella doble	Bolla	Varietal de lucha
+489566	Vino	3	Borgoña es mejor conocido por qué tipo de vinos?	rojo	Blanco	champán	Rojo blanco
+489574	Vino	3	¿Qué término describe mejor al Cabernet Franc?	Cuerpo ligero	De cuerpo medio	Delgado	Cuerpo completo
+489480	Vino	3	¿Qué significa "Comun" cuando se ve en una botella de vino brasileño?	Mesa de vino	Vino seco	Vino con alto contenido de alcohol	Vino de viñas híbridas
+14226	Vino	3	¿Qué término se usa para describir un vino tinto con bajo contenido de taninos?	Todavía	Ancho	Leve	Suave
+489478	Vino	3	¿Por qué se llama la uva Nebbiolo?	Lluvias de finales de verano	El viñedo donde se originó	Montañas circundantes	Una niebla que ayuda a madurar
+416766	Vino	3	¿Qué se puede decir de las uvas utilizadas en la vendimia Champagne?	Eran todas variedades rojas	Eran todas variedades blancas	Se mezclan rojo y blanco	Todos se producen el mismo año
+54276	Vino	3	A lo largo de la década de 1990, ¿cuál de los nuevos precios de lanzamiento de un vino famoso fue el más caro en la historia del vino?	Marc Colin Montrachet	Águila gritando Napa	Chateau Margaux Margaux	Domaine De La Romanee-Conti Romanee-Conti
+416786	Vino	3	¿Qué trajo Santiago del Estero a Argentina por primera vez en 1557?	Viruela	corcho	Levadura	Esquejes de vid de uva
+489605	Vino	3	¿Cuál es la región vinícola más grande de Alemania por área?	Palatinado	Baden	Wurttemberg	Rheinhessen
+489429	Vino	3	En "methode champenoise", ¿cuántas veces se fermenta el vino?	Tres veces	Una vez	Cuatro veces	Dos veces
+489491	Vino	3	¿Qué país es el mayor productor de uva de América del Sur?	Brasil	Venezuela	Chile	Argentina
+416664	Vino	3	¿Qué es un estilo pálido de jerez que se consume poco después del embotellado?	Florido	Funcionamiento libre	Pinot Noir	Fino
+489482	Vino	3	¿En qué región vinícola australiana se encuentra la bodega "Poets Corner"?	Margaret River	Rutherglen	Valle de Barossa	Mudgee
+489405	Vino	3	En 1998, ¿qué bodega extranjera se convirtió en el mayor importador de vino a Estados Unidos?	Antinori de Italia	Riunite de Francia	E&J Gallo de California	Concha y Toro de Chile
+489456	Vino	3	¿Cómo se llama la botella de champán más grande?	Botella doble	Generosidad	Pontífice	Nabucodonosor
+489597	Vino	3	¿Cuántas áreas distintas de cultivo de uva hay en la provincia argentina de Mendoza?	dieciséis	2	13	4
+416676	Vino	3	¿Cuál es la uva tinta más plantada en California?	Gamay	Pinot Noir	Cabernet Sauvignon	Zinfandel
+489564	Vino	3	¿Cómo se llama la lámina o el plástico que cubre la parte superior de la mayoría de las botellas de vino?	Gorra	Linoise	Buffer	Cápsula
+54268	Vino	3	¿Qué vino más vendido en los EE. UU. A menudo se denomina "sobreobreado" y "no apto para alimentos"?	Merlot	Cabernet Sauvignon	Pinot Noir	Chardonnay
+416757	Vino	3	¿De qué país proceden muchos de los varietales que se cultivan en Argentina?	Francia	Estados Unidos	Alemania	Italia
+54261	Vino	3	¿Cuál es el sistema estadounidense para clasificar los vinos?	WVA	VCC	A B C	AVA
+489366	Vino	3	¿Cuándo se disfruta tradicionalmente la grappa?	Con brunch	Como aperitivo	Con pescado	Después de la cena
+489537	Vino	3	¿Cuál es la fuente de los elementos de sabor intencionales en el vino?	Las uvas	La tierra	Los aromatizantes añadidos	Las barricas de roble
+489633	Vino	3	¿Cuál es la variedad blanca más plantada en Francia?	Pinot Blanc	Semillón	Pinot Gris	Chardonnay
+489404	Vino	3	¿Quiénes son los principales consumidores de vino en la India?	Hombres de mediana edad	Mujer casada	Hombres mayores	Jóvenes profesionales
+489592	Vino	3	¿Qué región vinícola italiana es el hogar de la uva Nebbiolo?	Lacio	Toscana	Veneto	Piamonte
+489527	Vino	3	En España, ¿cuánto tiempo debe envejecer un vino tinto para optar a la denominación de "crianza"?	1 año	3 años	4 años	2 años
+489585	Vino	3	¿Qué tipo de uvas se utilizan para producir los mejores vinos de postre de renombre de Alemania?	Sauvignon Blanc	Rulander	Cabernet Sauvignon	Reisling
+489646	Vino	3	¿Cómo se describe mejor la uva garnacha?	Delicado	De roble	Figgy	Picante
+489506	Vino	3	¿Qué se agrega al vino hoy para controlar el crecimiento de bacterias naturales de la piel de las uvas?	Azúcar	Dióxido de carbono	Anti-hongos	Dióxido de azufre
+489517	Vino	3	¿Qué factores agrícolas naturales limitan las cosechas de uva en la región de Zacatecas en México?	Entorno costero ácido	Gran altitud escasamente oxidada	Cosecha de género de uva no indígena	Lluvia anual muy baja
+489460	Vino	3	¿Cómo se llama el Madeira muy dulce?	Celli	Puerto	Jerez	Agua de lluvia
+489374	Vino	3	En "Northern Exposure", ¿qué vino invaluable Shelly rompió y reemplazó con la ayuda de Eve?	1919 Latour	1924 Latour	1932 Latour	1929 Latour
+489481	Vino	3	¿Qué varietal se utiliza para hacer la Barca Velha de Portugal?	Silvaner	Rulander	Chenin Blanc	Tinta Roriz
+489411	Vino	3	¿En qué región de Francia se produce Sauternes?	Normandía	Alsacia	Bretaña	Burdeos
+402653	Vino	3	¿Cuál de estos es un vino generoso?	Tokay	Pinot Noir	Pinot Gris	Madeira
+416703	Vino	3	¿Qué país es conocido por el jerez?	Italia	Francia	Portugal	España
+489413	Vino	3	¿Qué hotel de Nueva York cuenta con una suite con una bodega de 2000 botellas?	Waldorf-Astoria	De Morgan	Hudson	Plaza
+489532	Vino	3	¿Quién es el dios romano del vino?	Apolo	Zeus	Marte	Baco

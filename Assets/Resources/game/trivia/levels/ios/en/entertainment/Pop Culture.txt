@@ -1,0 +1,302 @@
+FTUXPICPC09	Pop Culture	0	What cartoon is this cat from?	Power Rangers	Looney Tunes	Blues Clues	Tom and Jerry
+FTUX164	Pop Culture	0	Which of the following is a famous talk show host?	Elon Musk	Tom Brady	Margot Robbie	Oprah Winfrey
+FTUXPICPC28	Pop Culture	0	What movie is this from?	Apollo 13	Terminator	Jurassic Park	Jaws
+FTUX146	Pop Culture	0	Who is the CEO of Facebook?	Brad Pitt	Henry Ford	Tom Anderson	Mark Zuckerberg
+FTUXPICPC01	Pop Culture	0	What is this toy?	Owlette	Cabbage Patch Kid	Fuzzy B	Furby
+0DIFETM8	Pop Culture	0	In which movie franchise does Arnold Schwarzenegger play a killer robot?	Avatar	Avengers	Rambo	Terminator
+FTUXPICPC30	Pop Culture	0	What is this candy?	Warheads	Fun Dip	Skittles	M&Ms
+FTUX163	Pop Culture	0	Who co-developed the famous character "Mickey Mouse"?	Tim Burton	Seth MacFarlane	Dr. Seuss	Walt Disney
+FTUXPICPC08	Pop Culture	0	What game are these pieces from?	Monopoly	Boggle	Clue	Scrabble
+0DIFETM5	Pop Culture	0	Which of these is a Batman movie?	Armageddon	Spider-Man 2	Transformers	The Dark Knight
+FTUXPICPC02	Pop Culture	0	What is this fashionista toy?	Katie Cutie Doll	Bratz Doll	Chia Pet	Barbie
+0DIFETM6	Pop Culture	0	What movie franchise has Vin Diesel, Dwayne Johnson, and Paul Walker as leads?	Batman	The Matrix	Jurassic Park	The Fast and the Furious
+FTUXPICPC27	Pop Culture	0	Who is this fictional treasure hunter?	Ace Ventura	Happy Gilmore	Lord of the Rings	Indiana Jones
+FTUX156	Pop Culture	0	Which actor starred in "The Fresh Prince of Bel-Air"?	Gordon Ramsay	Morgan Freeman	Jack Nicholson	Will Smith
+FTUXPICPC15	Pop Culture	0	What show is this character from?	American Dad!	Futurama	Simpsons	Family Guy
+0DIFETM415	Pop Culture	1	Norman Reedus plays a character named Daryl Dixon in which of the following shows?	Criminal Minds	Arrow	Justified	Walking Dead
+FTUXPICPC03	Pop Culture	0	Who is this pop star?	Miley Cyrus	Demi Lovato	Britney Spears	Billie Eilish
+0DIFETM73	Pop Culture	0	Bruce Willis is known as a famous what?	Politician	Painter	Stand Up Comic	Actor
+FTUXPICPC06	Pop Culture	0	What is this musical item?	CD	Boom Box	8 Track	Cassette
+0DIFETM65	Pop Culture	0	Who is widely considered to be the first rock star?	Cyndi Lauper	Miles Davis	Ice Cube	Elvis Presley
+FTUXPICPC17	Pop Culture	0	What movie are these kids from?	Sixteen Candles	Grease	Ferris Bueller's Day Off	The Breakfast Club
+0DIFETM197	Pop Culture	0	"First Man" is a biopic about Neil Armstrong, the first man to do what?	Be president of the United States	Vote	Ride a bike	Walk on the moon
+FTUXPICPC05	Pop Culture	0	Who is this video game character?	Spyro	Master Chief	Crash Bandicoot	Pac-Man
+0DIFETM220	Pop Culture	0	Which long-running action franchise starring Tom Cruise as a secret agent got its start in the 1990s?	Full Metal Jacket	Jaws	Titanic	Mission: Impossible
+FTUXPICPC04	Pop Culture	0	Name this artist!	Rick Astley	Led Zeppelin	David Bowie	John Lennon
+20VE3387	Pop Culture	0	Complete the name of this TV show: "How I Met Your ___"	Brother	Family	Ex	Mother
+FTUXPICPC13	Pop Culture	0	What children's cartoon is this item from?	Angry Beavers	Tom and Jerry	Power Rangers	Pokemon
+611FTUX171	Pop Culture	0	Robin Williams played a nanny in which movie?	Dazed and Confused	Big	The Shawshank Redemption	Ms. Doubtfire
+FTUXPICPC24	Pop Culture	0	Which movie is this character from?	Star Wars	The Hunger Games	Lord of the Rings	Harry Potter
+20VE1732	Pop Culture	0	Which is a classic film starring tough guy Clint Eastwood?	Goldfinger	Looper	Cold Mountain	Dirty Harry
+FTUXPICPC16	Pop Culture	0	What is this candy?	Baby Bottle Pop	Snickers	Gushers	Ring Pop
+0DIFETM15	Pop Culture	0	What movie features a giant monkey climbing the Empire State Building?	Guardians of the Galaxy	The Matrix	John Wick	King Kong
+FTUXPICPC20	Pop Culture	0	Which hit song did this artist sing?	Thriller	Hip's Don't Lie	Drop It Like It's Hot	Baby
+D0TRV321148	Pop Culture	0	Which film featured 4 human-like reptiles trained in martial arts?	Jurassic Park	Anaconda	Batman Forever	Teenage Mutant Ninja Turtles
+FTUXPICPC18	Pop Culture	0	What movie series is this character from?	Jurassic Park	The Breakfast Club	Bruce Almighty	Ace Ventura
+0DIFETM66	Pop Culture	0	What actor was the first martial arts star in the United States?	Miley Cyrus	George Clooney	Kate Winslet	Bruce Lee
+0DIFETM238	Pop Culture	0	What "Hit Me Baby One More Time" singer famously shaved her head and attacked paparazzi?	Cyndi Lauper	Janet Jackson	Gwyneth Paltrow	Britney Spears
+FTUXPICPC10	Pop Culture	0	What is this old school item?	Abacus	Floppy Disk	Keyboard	Typewriter
+PC050514	Pop Culture	0	Which show has the quote, "You killed Kenny!" in its episodes?	Beavis and Butt-head	Simpsons	Archer	South Park
+20VE2403	Pop Culture	0	Which was a big hit by Gwen Stefani?	California Girls	Last of the American Girls	Big Girls Don’t Cry	Hollaback Girl
+0DIFETM228	Pop Culture	0	What rap duo was responsible for the hit song "Hey Ya"?	Death Cab for Cutie	Pearl Jam	Future	Outkast
+FTUXPICPC21	Pop Culture	0	What horror movie is this?	The Exorcist	Dawn of the Dead	Evil Dead	The Shining
+0DIFETM71	Pop Culture	0	What daytime TV host is famous for big giveaways and celebrity guests?	Hugh Grant	Britney Spears	Dwayne Johnson	Ellen DeGeneres
+FTUXPICPC11	Pop Culture	0	What is this toy called?	Square It	Color Match	Three Block	Rubik's Cube
+0DIFETM4	Pop Culture	0	Which of these movies featured a terrifying T. Rex?	The Dark Knight	Iron Man	The Matrix	Jurassic Park
+FTUXPICPC22	Pop Culture	0	What movie is this little alien from?	Wall-E	War of the Worlds	Independence Day	E.T. the Extra-Terrestrial
+0DIFETM20	Pop Culture	0	What movie franchise takes place in a post-apocalyptic world?	The Lord of the Rings	Star Wars	Spider-Man	Mad Max
+FTUXPICPC19	Pop Culture	0	What Robin Williams movie is this?	Jumanji	Mr. Deeds	Ferris Bueller's Day Off	Mrs. Doubtfire
+0DIFETM68	Pop Culture	0	What family do people "Keep Up with" on a famous reality show?	The Van Halens	The Obamas	The Hiltons	The Kardashians
+FTUXPICPC23	Pop Culture	0	Who is this girl group?	The Supremes	Dixie Chicks	Destiny's Child	Spice Girls
+D0TRV321139	Pop Culture	0	Which film starred Sean Connery as the captain of a Russian submarine?	Crimson Tide	Titanic	Oceans Eleven	The Hunt for Red October
+FTUXPICPC12	Pop Culture	0	What game is this board from?	Battleship	Sorry	Risk	Monopoly
+0DIFETM261	Pop Culture	0	Which of these early 90's songs contained the lyrics 'Stop. Hammer time.'?	Hanson, "MmmBop"	Nirvana, "Smells Like Teen Spirit"	Britney Spears, "Baby One More Time"	M.C. Hammer, "Can't Touch This"
+FTUX152	Pop Culture	0	Which author wrote "Salem's Lot" and "The Shining"?	Stephanie Meyer	Jane Austen	Charles Dickens	Stephen King
+FTUXPICPC25	Pop Culture	0	Who is this pop artist?	Justin Bieber	Nick Carter	Joe Jonas	Justin Timberlake
+0DIFETM78	Pop Culture	0	Which of these is a famous professional wrestler?	Tiger Woods	Michael Jordan	Mike Tyson	John Cena
+FTUXPICPC26	Pop Culture	0	What movie is this?	Ghostbusters	Jumanji	Hook	Happy Gilmore
+0DIFETM12	Pop Culture	0	What giant lizard monster originally comes from Japan?	Ultron	The Terminator	Dracula	Godzilla
+FTUXPICPC29	Pop Culture	0	What is this item?	Shrinky Dinks	Pet Rock	Rubik's Cube	Chia Pet
+FTUX147	Pop Culture	0	What TV show brought Jerry Seinfeld fame and fortune?	Unbreakable Kimmy Schmidt	Saturday Night Live	Big Bang Theory	Seinfeld
+0DIFETM258	Pop Culture	0	Pop star Katy Perry has which of these songs as a hit?	24k Magic	Bad Guy	...Oops I Did It Again	California Gurls
+0DIFETM382	Pop Culture	0	Who lives in a pineapple under the sea?	A crab	A starfish	A squirrel	Spongebob Squarepants
+0DIFETM172	Pop Culture	0	In the movie "Shrek," Shrek is friends with what talking animal?	A dolphin	A crow	A snake	A donkey
+20VE1730	Pop Culture	0	Which of these "Die Hard" movies was released first?	A Good Day to Die Hard	Die Hard 2	Live Free or Die Hard	Die Hard
+FTUXPICPC07	Pop Culture	0	Name this city!	New York City	London	Berlin	San Francisco
+0DIFETM249	Pop Culture	0	Who was the singer behind both "Uptown Funk" and "24k Magic"?	Adele	Carly Rae Jepsen	Eminem	Bruno Mars
+777T1903	Pop Culture	0	What rock band is "Bohemian Rhapsody" about?	Aerosmith	The Beatles	Rush	Queen
+0DIFETM279	Pop Culture	0	What pop-punk band was responsible for such tracks as "All the Small Things" and "What's My Age Again?" in the late 90's?	Aerosmith	Whitney Houston	Christina Aguilera	Blink 182
+530332	Pop Culture	0	Which of these TV characters is from the TV series "24 "?	Archie Bunker	Marge Gunderson	Frank Burns	Jack Bauer
+0DIFETM405	Pop Culture	0	Which scary TV show took place in a haunted house, an asylum, a witch coven, a circus and a hotel?	Ash vs Evil Dead	Haunting of Hill House	Walking Dead	American Horror Story
+20VE3485	Pop Culture	0	Which TV show is about Medellín drug kingpin Pablo Escobar?	Barry	Sense 8	Broadchurch	Narcos
+0DIFETM232	Pop Culture	0	What famous pop singer, responsible for albums such as "Thriller" and "BAD," died in 2009?	Barry Manilow	Will.I.Am	Justin Timberlake	Michael Jackson
+0DIFETM221	Pop Culture	0	What pop star broke off from Destiny's Child and released the debut single "Crazy in Love"?	Billy Corgan	Lady Gaga	David Bowie	Beyoncé
+20VE2307	Pop Culture	0	What film character had scissors for hands?	Billy Madison	Dennis the Menace	Grand Moff Tarkin	Edward Scissorhands
+0DIFETM184	Pop Culture	0	What South Korean movie is the first Asian-made film to win Best Picture at the Oscars?	Black Panther	The Wrestler	Call Me By Your Name	Parasite
+20VE3451	Pop Culture	0	Which is the news network that features Wolf Blitzer?	Bloomberg	MTV	VH1	CNN
+0DIFETM454	Pop Culture	0	Which early 2000's medical comedy featured Zach Braff as a new doctor supported by characters like Turk and Bob Kelso?	Bojack Horseman	I Love Lucy	Parks and Recreation	Scrubs
+0DIFETM384	Pop Culture	0	Steve Carell plays Michael Scott and manages a paper company in which show?	Bones	American Horror Story	The Wire	The Office
+TVFP001	Pop Culture	0	In "The Fresh Prince of Bel-Air," where does Will move from when he comes to Bel-Air?	Compton	New York City	Chicago	West Philadelphia
+0DIFETM214	Pop Culture	0	In "The Sixth Sense," what is the child character Cole able to do?	Breathe underwater	Fly	Talk to animals	See dead people
+0DIFETM278	Pop Culture	0	Which of these was not an artist or music group in the 90's?	Britney Spears	NSYNC	Ricky Martin	Dwayne "The Rock" Johnson
+0DIFETM451	Pop Culture	0	What sitcom centered around an astronaut and a fantasy, wish granting, leading lady?	Brooklyn 99	8 Simple Rules	American Dad	I Dream of Jeannie
+0DIFETM248	Pop Culture	0	What Toronto rapper is the artist behind the song "Hotline Bling"?	Bruno Mars	Adele	Taylor Swift	Drake
+0DIFETM257	Pop Culture	0	What British artist is responsible for the songs "Shape of You" and "Castle on the Hill"?	Bruno Mars	Taylor Swift	Rihanna	Ed Sheeran
+20VE2611	Pop Culture	0	"MMMBop" was a number one hit for which group?	C+C Music Factory	Rolling Stones	Dixie Chicks	Hanson
+20VE3357	Pop Culture	0	In the TV show "Seinfeld", what is George's last name?	Alexander	Cohen	Benes	Costanza
+0DIFETM62	Pop Culture	0	Which of these people directed movies such as "Jaws" and "E.T."?	George Lucas	Nicolas Cage	Francis Ford Coppola	Steven Spielberg
+0DIFETM182	Pop Culture	0	What thriller about race was written and director by comedian Jordan Peele?	Captain America: The Winter Soldier	Lady Bird	The Social Network	Get Out
+0DIFETM69	Pop Culture	0	Which of these is an incredibly famous basketball player?	Stanley Kubrick	Kendrick Lamar	David Ortiz	Lebron James
+20VE3447	Pop Culture	0	What is the title of the TV mini-series about a nuclear power plant accident on April 26, 1986?	Carlos	Millennium	The Pillars of the Earth	Chernobyl
+20VE3439	Pop Culture	0	What is the correct title of the British television anthology series that covers unanticipated consequences of new technologies?	Castle Rock	Yellow Homes	Green River	Black Mirror
+0DIFETM230	Pop Culture	0	What soulful singer had hits like "Rehab" and "Back to Black," but died tragically at age 27?	Cher	Miley Cyrus	Katy Perry	Amy Winehouse
+20VE2243	Pop Culture	0	What genre of film is "Interstellar"?	Comedy	Western	Musical	Science Fiction
+20VE2651	Pop Culture	0	Sublime's song "Santeria' is what genre of music?	Country	Heavy Metal	Jazz	Ska Punk
+20VE3465	Pop Culture	0	Anthony Bourdain: Parts Unknown is focused on what theme?	Dangerous Fish	Stunts	Circus Performers	Food Around The World
+0DIFETM226	Pop Culture	0	"SexyBack" is a pop hit from what former boyband member?	Dave Grohl	Lil Wayne	Jack White	Justin Timberlake
+20VE3391	Pop Culture	0	In what US city does the TV series "Friends" take place?	Atlanta	Fort Lauderdale	Portland	New York
+0DIFETM179	Pop Culture	0	What movie, once the highest earning R-rated movie of all time, took its story straight from the Bible?	Deadpool	The Matrix: Revolution	Star Wars Episode II: Attack of the Clones	The Passion of the Christ
+0DIFETM395	Pop Culture	0	Which HBO mini-series followed Easy Company during World War II?	Deadwood	The Sopranos	Mad Men	Band of Brothers
+243087	Pop Culture	0	Who plays Bernie on the TV show "The Bernie Mac Show"?	Diane Farr	Joey Lawrence	Donal Logue	Bernie Mac
+20VE3403	Pop Culture	0	The TV show "Brooklyn Nine-Nine" is about what?	Doctors	Prison	Witches	Police Officers
+20VE2291	Pop Culture	0	What is the main sport played in the film "Space Jam"?	Dodgeball	Tennis	Hockey	Basketball
+0DIFETM252	Pop Culture	0	"Rolling in the Deep" and "Set Fire to the Rain" are hit songs from what British singer?	Drake	Justin Bieber	Lorde	Adele
+20VE3325	Pop Culture	0	What Fox TV series aired their first regular episode, "Bart the Genius"?	Drew Carey Show	Let's Make A Deal	General Hospital	The Simpsons
+20VE2609	Pop Culture	0	What instrument is Eric Clapton known for playing?	Drums	Trumpet	Bass	Guitar
+0DIFETM176	Pop Culture	0	Kingdom of the Crystal Skull was an installment in which legendary film franchise?	E.T.	Avatar	Godzilla	Indiana Jones
+20VE3265	Pop Culture	0	What does the letters in the title of the TV show "ER" stand for?	Electric Room	Emergency Runners	Energy Room	Emergency Room
+0DIFETM168	Pop Culture	0	Casino Royale was the first James Bond movie to star which actor as Agent 007?	Elijah Wood	Emily Blunt	Johnny Depp	Daniel Craig
+0DIFETM445	Pop Culture	0	Actor Will Smith played a character who was sent to live with his Aunt and Uncle in what early 90's sitcom?	Family Guy	Arrested Development	The Office	The Fresh Prince of Bel-air
+20VE3327	Pop Culture	0	Johnny Carson retired from what TV talk show after 30 years on the air?	Fernwood 2 Night	Late Night	Ellen	The Tonight Show
+20VE2157	Pop Culture	0	Which is a movie from Marvel Studios?	Finding Nemo	Avatar	Donnie Darko	Spider-Man 3
+0DIFETM190	Pop Culture	0	In "Frozen," Princess Elsa is able to control what with her magic?	Fire	Rocks	Animals	Ice and Snow
+20VE3217	Pop Culture	0	Which show is about car related subjects?	Firefly	The Shield	Still Game	Top Gear
+20VE2135	Pop Culture	0	Which is a movie based on the music of the band ABBA?	First Daughter	Gangs Of New York	Cast Away	Mama Mia!
+0DIFETM247	Pop Culture	0	Taylor Swift is responsible for which of these hit songs?	Float On	Paparazzi	Despacito	Shake It Off
+0DIFETM246	Pop Culture	0	What massive hit crossed over the sounds of Latin and American pop?	Formation	Call Me Maybe	Party Rock Anthem	Despacito
+0DIFETM421	Pop Culture	0	Jerry, Elaine, George, and Kramer dominated 90s airwaves in what show?	Frasier	Spin City	Dharma and Greg	Seinfeld
+20VE2643	Pop Culture	0	Who had a hit with the song "Creep"?	Fugees	Rolling Stones	Phil Collins	Radiohead
+0DIFETM163	Pop Culture	0	Batman fights the Joker and Two Face in what critically lauded movie from Christopher Nolan?	Gladiator	Children of Men	Memento	The Dark Knight
+20VE1738	Pop Culture	0	Which of these films is about 007 James Bond?	Goldmember	Love and Death	Looper	Goldfinger
+0DIFETM183	Pop Culture	0	The Social Network follows the story of Mark Zuckerberg, the founder of what website?	Google	Amazon	Craigslist	Facebook
+20VE3347	Pop Culture	0	Which is an animated TV show about a burger restaurant?	Grown-ish	The Unicorn	It's Always Sunny in Philadelphia	Bob's Burgers
+20VE2439	Pop Culture	0	"Empire State of Mind" by Jay-Z feat. Alicia Keys is about what city?	Hallandale	Kansas City	Laredo	New York City
+0DIFETM273	Pop Culture	0	"Enter Sandman" was a crossover hit that allowed what heavier band to step into popularity in the early 90's?	Hanson	98 Degrees	Ricky Martin	Metallica
+20VE2603	Pop Culture	0	Marky Mark had hits with what "bunch"?	Happy Bunch	Hairy Bunch	Macho Bunch	Funky Bunch
+20VE1746	Pop Culture	0	What character is looking for the Lost Ark of the Covenant?	Harley Quinn	Bruce Wayne	Cleopatra Jones	Indiana Jones
+20VE1754	Pop Culture	0	Rambo: First Blood is about what fictional Vietnam War veteran?	Hawkeye Pierce	Lieutenant Dang	Tony Nelson	John J. Rambo
+0DIFETM430	Pop Culture	0	In which show did Melissa Joan Hart play an adolescent character with supernatural powers?	Hey Dude	Are You Afraid of the Dark?	Clarissa Explains it All	Sabrina the Teenage Witch
+0DIFETM213	Pop Culture	0	The exploration of the New World by the English is the backdrop of what animated Disney film?	Independence Day	Being John Malkovich	Clerks	Pocahontas
+0DIFETM203	Pop Culture	0	"Jurassic Park" features a cavalcade of what types of animals?	Insects	House Cats	Penguins	Dinosaurs
+0DIFETM189	Pop Culture	0	Captain America, Thor, Iron Man, Black Widow, and Hawkeye finally came together as a team in what landmark Marvel movie?	Inside Out	American Sniper	Straight Outta Compton	The Avengers
+20VE2163	Pop Culture	0	Which is a movie based on a Dr. Seuss book?	Iron Man	Red Fish Blue Fish	Thing	The Cat In The Hat
+0DIFETM456	Pop Culture	0	What sitcom focused on the lives of four older single women sharing a house in Miami?	It's Always Sunny in Philadelphia	Modern Family	Black Books	Golden Girls
+20VE1776	Pop Culture	0	Who starred in the mob picture "Goodfellas"?	Jamie Foxx	Ted Danson	Johnny Depp	Robert De Niro
+20VE2365	Pop Culture	0	Which film is about a British passenger liner that sunk?	Jawbreaker	Clueless	Groundhog Day	Titanic
+0DIFETM242	Pop Culture	0	Who achieved fame as a rapper after the success of the song "Bodack Yellow"?	Jay-Z	Katy Perry	Justin Timberlake	Cardi B
+0DIFETM391	Pop Culture	0	Regis Philbin was the host of which trivia game show?	Jeopardy!	Cash Cab	Deal or No Deal	Who Wants to Be a Millionaire
+20VE3181	Pop Culture	0	What show is about normal people around the world discovering they have super powers?	Jericho	Lost	Psych	Heroes
+20VE3521	Pop Culture	0	Which is a show about vampires in a small Louisiana town?	Jessica Jones	The Good Wife	The Americans	True Blood
+530335	Pop Culture	0	Who hosted the show "The Colbert Report"?	Jon Stewart	Seth Myers	Bill Maher	Stephen Colbert
+0DIFETM253	Pop Culture	0	What rapper, famous for albums such as "Good Kid, m.A.A.d. City" and "DAMN," was the first of the genre to win a Pulitzer prize?	Justin Bieber	Christina Aguilera	Daniel Craig	Kendrick Lamar
+20VE2571	Pop Culture	0	"Can't Stop the Feeling!" is a song recorded by Justin Timberlake for what 2016 animated feature?	La La Land	Straight Outta Compton	Pitch Perfect	Trolls
+20VE3379	Pop Culture	0	What is the name of Bart Simpson's father in the TV show "The Simpsons"	Leon	Ralph	Sam	Homer
+0DIFETM245	Pop Culture	0	New Zealand artist Lorde hit it big with what breakthrough single?	Lose Yourself	Shut Up and Dance	Old Town Road	Royals
+20VE3237	Pop Culture	0	What purple dinosaur premiered on their own children's show PBS in 1992?	Lucky	Jake	Dino	Barney
+0DIFETM208	Pop Culture	0	Who is the star and title character of "Forrest Gump"?	Mark Hamill	Angelina Jolie	Morgan Freeman	Tom Hanks
+20VE2555	Pop Culture	0	What is the name of the duet Lady Gaga and Bradley Cooper sang in the 2018 film "A Star is Born"?	Marrow	Follow	Hollow	Shallow
+20VE1752	Pop Culture	0	Who is the hero in the 2006 movie "Casino Royale"?	Maxwell Smart	Indiana Jones	Sherlock Holmes	James Bond
+20VE2665	Pop Culture	0	"Ice Ice Baby" was a big hit for what rapper?	MC Hammer	Marvin Gaye	John Mellencamp	Vanilla Ice
+530356	Pop Culture	0	In what U.S. city is the gritty drama "The Wire" set?	Miami	Kansas City	Omaha	Baltimore
+20VE1778	Pop Culture	0	During what historical period does the movie "Gladiator" take place?	Ming Dynasty	Henry the VIII	US Civil War	Roman Empire
+0DIFETM386	Pop Culture	0	Bryan Cranston and Frankie Muniz are father and son in which FOX show?	Modern Family	Arrested Development	Curb your Enthusiasm	Malcolm in the Middle
+0DIFETM227	Pop Culture	0	What rapper was the most commercially successful artist of the 2000s?	Modest Mouse	Aerosmith	Christina Aguilera	Eminem
+0DIFETM212	Pop Culture	0	The World War II drama "Saving Private Ryan" was directed by what famous filmmaker?	Muhammad Ali	George W. Bush	Justin Bieber	Steven Spielberg
+0DIFETM207	Pop Culture	0	The Martin Scorsese movie "Goodfellas" follows characters in what line of work?	Music	Priesthood	Space Exploration	Organized Crime
+20VE2117	Pop Culture	0	What genre of film is "Friday the 13th"?	Musical	Documentary	Comedy	Horror
+0DIFETM388	Pop Culture	0	Which HBO drama was about a fictional Italian-American crime family?	My Cousin Vinny	Band of Brothers	Oz	The Sopranos
+0DIFETM239	Pop Culture	0	What pop star shares a name with a light color?	Navy Blue	Crimson	Sea Green	Pink
+0DIFETM408	Pop Culture	0	Finish the show title starring Viola Davis: "How to get away with _____"	Never working	Cookies	Anything	Murder
+20VE3367	Pop Culture	0	What is an animated TV show about a family that lives in Quahog, Rhode Island?	New Girl	Murphy Brown	The Neighborhood	Family Guy
+0DIFETM426	Pop Culture	0	Nickelodeon made many animated series in the 90s collectively referred to as:	Nick at Nite	Snick	Nick Shows	Nicktoons
+20VE3243	Pop Culture	0	Who is the "Science Guy" that hosted a 90s educational show?	Niles Bhor	Charles Darwin	Jacques Cousteau	Bill Nye
+0DIFETM268	Pop Culture	0	Which of these is NOT a 90's Boy Band?	NSYNC	Backstreet Boys	98 Degrees	Linkin Park
+0DIFETM265	Pop Culture	0	"Smells Like Teen Spirit" was one of the most popular tracks from what 90's grunge phenomenon?	Oasis	Weezer	Pixies	Nirvana
+20VE2093	Pop Culture	0	What animated movie is about insects?	Oldboy	Baby Boy	Hostage	Bee Movie
+0DIFETM236	Pop Culture	0	Which of these is NOT a rock band from the early 2000s?	Papa Roach	Disturbed	Slipknot	One Direction
+20VE3175	Pop Culture	0	Which of these is the actual name of a long time running daytime soap opera?	Pine Valley Hospital	Specialty Hospital	Happy Hospital	General Hospital
+0DIFETM205	Pop Culture	0	What movie stars Arnold Schwarzenegger and is a sequel to a movie about a killer robot?	Quiz Show	Saving Private Ryan	Hamlet	Terminator 2: Judgement Day
+0DIFETM259	Pop Culture	0	What rock band is behind songs such as "Radioactive," "Thunder," and "It's Time"?	Radiohead	Green Day	Vampire Weekend	Imagine Dragons
+20VE3299	Pop Culture	0	Whose trial shown live on TV drew high ratings in 1995?	Richard Nixon	Robert Blake	Michael Milken	O.J. Simpson
+0DIFETM233	Pop Culture	0	What rapper created hits such as "Gold Digger," "Stronger," and "All Falls Down"?	Ringo Starr	Stone Cold Steve Austin	Britney Spears	Kanye West
+0DIFETM406	Pop Culture	0	Which TV series takes place in the Star Wars universe?	Riverdale	Lucifer	This is Us	The Mandalorian
+20VE3239	Pop Culture	0	Where does a lot of the action in the show "Baywatch" take place?	Rocky Mountains	Post Office	University Library	Beach
+0DIFETM423	Pop Culture	0	Which was not one of the main characters on Friends?	Ross	Phoebe	Joey	Billy
+20VE3459	Pop Culture	0	Who is the actor known as The Rock that is in the HBO series "Ballers"?	Sam Shepard	Don Johnson	Bruce Willis	Dwayne Johnson
+20VE2587	Pop Culture	0	Complete the name of the rock band: Goo Goo ___	Sand	Gloop	Gaga	Dolls
+20VE3501	Pop Culture	0	Which TV show opens with the announcement "Live From New York, its Saturday Night"?	Saturday Night Once Again	The Late Show	Conan	Saturday Night Live
+0DIFETM241	Pop Culture	0	What rap/country crossover was the #1 song for 19 weeks straight?	Seven Nation Army	Firework	Get Lucky	Old Town Road
+20VE3171	Pop Culture	0	What is the title of Ray Romano's hit TV show?	She Loves Raymond	Nobody Loves Raymond	Everybody Loves Long Island	Everybody Loves Raymond
+0DIFETM235	Pop Culture	0	What pop star was the winner of the first season of American Idol?	Simon Cowell	Harry Styles	Michael Jackson	Kelly Clarkson
+20VE3373	Pop Culture	0	What TV series is about the life of immigrants in America?	Single Parents	The Conners	Scrubs	Fresh Off The Boat
+20VE2153	Pop Culture	0	Which is a movie about zombies?	Snow Dogs	Fargo	Spy Kids	Shaun Of The Dead
+0DIFETM194	Pop Culture	0	Toy Story 3 continues the adventures of Woody and who?	Snow White	Simba	Batman	Buzz Lightyear
+20VE3195	Pop Culture	0	What kind of gang are the "Sons of Anarchy"?	Soldiers In World War II	Inner City Gang	Break Dancers	Motorcycle Gang
+0DIFETM185	Pop Culture	0	Inception is a movie about using scifi technology to break into what?	Space	Submarines	Prisons	Dreams
+0DIFETM420	Pop Culture	0	Which show is an animated series that follows a super scientist and his not-so-bright grandson?	Star Trek	Dark Matter	Sense 8	Rick and Morty
+0DIFETM173	Pop Culture	0	The wizarding school Hogwarts is the main setting for which series of movies?	Star Wars	Batman	Shrek	Harry Potter
+0DIFETM161	Pop Culture	0	What trilogy of fantasy movies started with "The Fellowship of the Ring"?	Star Wars	Batman	Die Hard	The Lord of the Rings
+20VE3339	Pop Culture	0	What sort of character was Alf in the 80's TV series "Alf"?	Talking Horse	Pet Cat	Superhero	Alien
+20VE3247	Pop Culture	0	Who was the game show host of "The Price Is Right" in the 1990s?	Ted Knight	Jay Pharaoh	Merv Griffin	Bob Barker
+0DIFETM209	Pop Culture	0	In the movie "Home Alone," around what holiday does the story take place?	The 4th of July	Easter	Flag Day	Christmas
+0DIFETM181	Pop Culture	0	What movie about a boy growing up was filmed in real time over 12 years?	The Avengers	Mad Max: Fury Road	Inception	Boyhood
+0DIFETM448	Pop Culture	0	Actor Tim Allen starred in which of these sitcoms where his character starred in 'Tool Time'?	The Brady Bunch	Frasier	30 Rock	Home Improvement
+0DIFETM434	Pop Culture	0	Which Comedy Central show revolves around foul-mouthed elementary school kids in Colorado?	The Daily Show	Clone High	Drawn Together	South Park
+0DIFETM193	Pop Culture	0	Which of these is the long-awaited sequel to "Finding Nemo"?	The Little Mermaid	Dawn of the Planet of the Apes	Joker	Finding Dory
+0DIFETM192	Pop Culture	0	The Force Awakens marked the beginning of a new trilogy in what famous franchise?	The Lord of the Rings	The Matrix	Frozen	Star Wars
+0DIFETM192	Pop Culture	0	The Force Awakens marked the beginning of a new trilogy in what famous franchise?	The Lord of the Rings	The Matrix	Frozen	Star Wars
+20VE3271	Pop Culture	0	Which show included the nerdy neighbor Steve Urkel?	The Practice	X-Files	Saved By The Bell	Family Matters
+20VE3229	Pop Culture	0	On which TV game show do you answer in the form of a question?	The Price Is Right	Wheel of Fortune	Password	Jeopardy
+20VE2115	Pop Culture	0	Which of these films was a musical?	The Sweetest Thing	Fargo	Boys Don't Cry	High School Musical
+0DIFETM262	Pop Culture	0	"Genie in a Bottle" was a late 90's song by which of these artists?	The Verve	Whitney Houston	Backstreet Boys	Christina Aguilera
+20VE3467	Pop Culture	0	In which show are you likely to see a sword fight?	This is Us	The Bridge	The Good Fight	Game of Thrones
+0DIFETM188	Pop Culture	0	Which musical is set in Los Angeles and famously didn't win Best Picture?	Thor: Ragnarok	Toy Story 3	The Wolf of Wall Street	La La Land
+20VE2089	Pop Culture	0	Why did the guys in "The Hangover" go to Las Vegas?	To See A Show	Kill Zombies	To Hide Out	Bachelor Party
+20VE3415	Pop Culture	0	Which is an animated series that has a character named Cartman?	Tommy	Bless This Mess	Archer	South Park
+0DIFETM250	Pop Culture	0	What hit by Korean singer PSY was the first song to reach 1 billion views on YouTube?	Uptown Funk	Love Shack	My Heart Will Go On	Gangnam Style
+20VE1757	Pop Culture	0	What billionaire former pro basketball player is known worldwide?	Walt Bellamy	Dick McGuire	David Robinson	Michael Jordan
+0DIFETM240	Pop Culture	0	Choose the musical act that DIDN'T start in the 2000s.	White Stripes	The Strokes	Beyoncé	The Rolling Stones
+0DIFETM263	Pop Culture	0	Artist Ricky Martin came out with which of these tracks in the late 90's?	Wonderwall	Don't Speak	My Heart Will Go On	Livin' la Vida Loca
+528439	Pop Culture	1	Which of these 2014 films is about historical events?	22 Jump Street	Lucy	Transcendence	Selma
+380840	Pop Culture	1	In the "Star Wars" movies, what are the names of Anakin Skywalker's two children?	Luke And Han	Han And Leia	Leia And Anakin	Luke And Leia
+777T1911	Pop Culture	1	What production company did "Star Wars: The Last Jedi"?	Acme	Lionsgate	Pixar	Lucasfilm Ltd.
+1tenD833	Pop Culture	1	Which actor is also in a band called "Tenacious D"?	Adam Sandler	Jackie Chan	Johnny Depp	Jack Black
+0DIFETM199	Pop Culture	1	"Lady Bird" is a coming-of-age movie that takes place in Sacramento, the capital of which US state?	Alaska	Puerto Rico	Texas	California
+475421	Pop Culture	1	Who makes a cameo appearance in "Captain America: The First Avenger"?	Alfred Hitchcock	John Ratzenberger	Kevin Smith	Stan Lee
+164854	Pop Culture	1	Hootie & The Blowfish had which hit single in 1996?	Alright	Don't It Make My Brown Eyes Blue 	I Love Music (Pt. 1)	Only Wanna Be With You
+20VE2471	Pop Culture	1	Which is a Coldplay song released in 2008?	American Bad Ass	Ring Of Fire	Rip Her To Shreds	Viva La Vida
+293689	Pop Culture	1	In the TV show "Boy Meets World", who did Cory end up marrying?	Amy	Rachel	Angela	Topanga
+164811	Pop Culture	1	Oasis had which hit single in 1996?	Are You Ready?	Ruby, Don't Take Your Love To Town	There's A Moon Out Tonight	Wonderwall
+3016	Pop Culture	1	Levar Burton, Geordi LaForge on "Star Trek: The Next Generation", stars on which children's show?	Barney And Friends	Lamb Chop's Play-Along	Sesame Street	Reading Rainbow
+10632	Pop Culture	1	Who did the voice of Chef on TV's "South Park"?	Barry White	Curtis Mayfield	Sly Stone	Isaac Hayes
+14125	Pop Culture	1	What sport does David Beckham, husband of Spice Girl Victoria Beckham, play?	Baseball	Basketball	Tennis	Soccer
+475345	Pop Culture	1	Name the pop artist who recorded the hit "Super Bass"	Beyonce	Enrique Iglesias Featuring Ludacris	Rihanna	Nicki Minaj
+295779	Pop Culture	1	The 2003 movie "Freaky Friday" was a remake of what 1977 movie?	Big	Mother Daughter	Vice Versa	Freaky Friday
+95278	Pop Culture	1	In what movie does Adam Sandler play a hockey player who becomes a golfer?	Big Daddy	Little Nicky	Billy Madison	Happy Gilmore
+186317	Pop Culture	1	Who portrayed the President in the first seven seasons of TV's "The West Wing"?	Bill O'Reilly	Howard Stern	Rob Lowe	Martin Sheen
+20VE2473	Pop Culture	1	Complete the name of the band: Vampire ____  	Bites	Garlic	Ten	Weekend
+99570	Pop Culture	1	In which 2001 movie did George Clooney play the character Daniel Ocean?	Blade II	What Women Want	Lara Croft: Tomb Raider	Ocean's Eleven
+481970	Pop Culture	1	The title of which 2011 hit for Wiz Khalifa & Stargate is a reference to the colors of Pittsburgh sports teams?	Blue and Gold	Red and White	Purple and Green	Black and Yellow
+528070	Pop Culture	1	The first season of what HBO drama series follows a pair of homicide detectives?	Breaking Bad	Game Of Thrones	House Of Cards	True Detective
+528073	Pop Culture	1	What FX crime drama is inspired by the Coen brothers' 1996 film of the same name?	Breaking Bad	House Of Cards	True Detective	Fargo
+0DIFETM385	Pop Culture	1	What series follows the Bluth family? Remember, there is always money in the banana stand.	Brooklyn Nine-Nine	Trailer Park Boys	Parks and Recreation	Arrested Development
+296040	Pop Culture	1	What is Superman's real-life name in "Superman Returns"?	Bruce Wayne	Roy Rogers	Jimmy Olsen	Clark Kent
+20VE3453	Pop Culture	1	What is the full title of the Jerry Seinfeld interview show: "Comedians in Cars Getting ___"	Burgers & Fries	Watermelon	Beer	Coffee
+0DIFETM256	Pop Culture	1	K-Pop, which found massive Western popularity in the 2010s, is pop music that comes from what country?	Canada	India	Egypt	South Korea
+530354	Pop Culture	1	In 2015 who was the host of the game show "Family Feud"?	Cedric The Entertainer	Alex Trebeck	Mark Goodson	Steve Harvey
+528079	Pop Culture	1	What 2014 documentary series is presented by astrophysicist Neil deGrasse Tyson?	Chemistry: A Volatile History	Charles Darwin And The Tree Of Life	Shock And Awe: The Story Of Electricity	Cosmos: A Spacetime Odyssey
+0DIFETM254	Pop Culture	1	The Chainsmokers create what kind of music?	Conscious Hip-Hop	Industrial Metal	Video Game Music	EDM
+530374	Pop Culture	1	Which show is about fairy-tale legends and modern life?	Cristela	Scandal	Revenge	Once Upon a Time
+777W123	Pop Culture	1	The TV series "Riverdale" is based on what comic books?	Dark Reign	Infinity Gauntlet	Secret Wars	Archie
+228056	Pop Culture	1	What profession did Jim Carrey play in "Liar Liar"?	Doctor	Police Officer	Judge	Lawyer
+TVFP008	Pop Culture	1	How many seasons did "The Fresh Prince of Bel-Air" get?	3	2	1	6
+222798	Pop Culture	1	What is the name of the character Anthony Hopkins plays in the 1991 film "The Silence of the Lambs"?	Dr. Frederick Chilton	Jack Crawford	Agent Burroughs	Dr. Hannibal Lecter
+221716	Pop Culture	1	What film starring Mel Gibson as William Wallace was released in 1995?	Dragonheart	Before Sunrise	Thunderheart	Braveheart
+324416	Pop Culture	1	Who plays Charlie Harper on "Two and a Half Men"?	Emilio Estevez	Jon Cryer	Angus T. Jones	Charlie Sheen
+254323	Pop Culture	1	Who released the hit "Boulevard Of Broken Dreams" in 2004?	Eminem	Omarion	3 Doors Down	Green Day
+475561	Pop Culture	1	In "X-Men: First Class" who is the founder of the X-Men?	Erik Lensherr	Sebastian Shaw	Henry McCoy	Charles Xavier
+300310	Pop Culture	1	How did super-rich Alice L. Walton make her billions?	Estee Lauder	Real Estate	Fashion	Wal-Mart
+528452	Pop Culture	1	Which movie was first released in the theaters in 2010?	Finding Nemo	Frozen	The Lion King	Despicable Me
+375620	Pop Culture	1	With what popular slogan were the Spice Girls associated?	Flower Power	Power And Control	The Power Of Love	Girl Power
+186086	Pop Culture	1	Who starred in the 90's movie "Titanic"?	Frankie Muniz	Hank Azaira	Drew Barrymore	Leonardo DiCaprio
+20VE3205	Pop Culture	1	What TV series takes place over 100 years before James T. Kirk captained his spacecraft?	Futurama	Andromeda	Stargate Atlantis	Star Trek: Enterprise
+243718	Pop Culture	1	Which network originally aired "Punk'd"?	FX	VH1	Spike TV	MTV
+20VE2637	Pop Culture	1	What instrument is Billy Joel known for playing?	Guitar	Drums	Trumpet	Piano
+272582	Pop Culture	1	Drew Barrymore plays a character with short-term memory loss in what movie?	Happy Gilmore	The Amy Fisher Story	Bogie	50 First Dates
+298568	Pop Culture	1	What ABC comedy features an unfashionable secretary for a fashion magazine?	Help Me Help You	Boston Legal	Hope & Faith	Ugly Betty
+298395	Pop Culture	1	How I Met Your Mother is a show about Ted and his quest for what?	His Missing Children	To Break Up His Best Friend's Marriage	His Mother	True Love
+20VE2653	Pop Culture	1	Chris Cornell fronted which Seattle band?	Hole	Pearl Jam	Nirvana	Soundgarden
+66957	Pop Culture	1	On TV's "Full House", what was Michelle's catch phrase?	Holy Cats	Groovy	Don't Have A Cow, Man	You Got It, Dude
+295389	Pop Culture	1	On what network did the TV show "The O.C." initially run?	ABC	CBS	NBC	Fox
+99574	Pop Culture	1	In which 2001 movie did Dwayne "The Rock" Johnson play the character of the Scorpion King?	Independence Day	Hannibal	Fargo	The Mummy Returns
+326450	Pop Culture	1	Where is the character "Borat" from?	Iraq	Pakistan	Russia	Kazakhstan
+20VE2091	Pop Culture	1	Complete the name of the film, "Bend it Like ___"?	It Hurts	Rope	Slackers	Beckham
+475350	Pop Culture	1	Name the pop artist who recorded the hit "Party Rock Anthem"?	Jason Derulo	Enrique Iglesias Featuring Usher and Lil Wayne	Gym Class Heroes Featuring Adam Levine	Lmfao
+87862	Pop Culture	1	Who made it big with their 2000 single "Who Let the Dogs Out"?	Jay-Z	Busta Rhymes	Eminem	The Baha Men
+10690	Pop Culture	1	Norma Jean is the real name of which star?	Jean Shrimpton	Brigitte Bardot	Pamela Anderson	Marilyn Monroe
+88182	Pop Culture	1	Who starred in the "Ernest" films?	Jim Nabors	Paul Reiser	Erik Estrada	Jim Varney
+777T1952	Pop Culture	1	Who is the actor who played Forest Gump and Ben Bradlee?	Johnny Depp	Colin Firth	Robert De Niro	Tom Hanks
+45K10002	Pop Culture	1	"Closer" featured The Chainsmokers and who?	Lil Wayne	Taylor Swift	Katy Perry	Halsey
+4476	Pop Culture	1	Where and when was John Lennon killed?	London, August 10, 1996	He Died Of Natural Causes	Tokyo, June 14, 1980	New York City, December 8, 1980
+254647	Pop Culture	1	What was the character's name played by Kirsten Dunst in "Spider-Man"?	Mary	Del Blaine	Julia Sullivan	Mary Jane Watson
+462112	Pop Culture	1	Which celebrity died first?	Michael Jackson	Merv Griffin	Anna Nicole Smith	Freddie Mercury
+100766	Pop Culture	1	What is the first rule of "Fight Club"?	No Hitting Below The Belt	No Biting	Fight Club Does Not Exist	Don't Talk About Fight Club
+526036	Pop Culture	1	In "Cinderella", the title character is enchanted with a spell that wears off at what time of day?	Noon	Dawn	Dusk	Midnight
+295533	Pop Culture	1	At what company do Michael, Jim and Dwight work for on "The Office"?	Omax-Hopaco	Wernham-Hogg	Boise-Cascade	Dunder-Mifflin
+20VE2381	Pop Culture	1	What band had the huge hit "I Gotta Feeling"?	Outkast	Busta Rhymes	Allman Brothers Band	Black Eyed Peas
+325312	Pop Culture	1	The 2007 film "Zodiac" is based on the true story of a serial killer in what western U.S. city?	Portland	Los Angeles	Seattle	San Francisco
+295766	Pop Culture	1	What is the supervillain's name in "Fantastic Four"?	Professor Nightshade	Professor Downfall	Doctor Octopus	Doctor Doom
+740	Pop Culture	1	According to the movie "Pulp Fiction", what is a Quarter Pounder called in Europe?	Quart De Livre Avec Fromage	Le Burger-Fromage	Pound-Quatre, Fromage American	Royale With Cheese
+20VE2621	Pop Culture	1	Complete the name of the rock band: Rage Against The ___	Rage	Money	Men	Machine
+20VE1932	Pop Culture	1	Which of these people gained fame for being a real mob boss?	Ray Romano	Cyd Charisse	Lou Costello	John Gotti
+221913	Pop Culture	1	What film starring Nicolas Cage as Castor Troy/Sean Archer was released in 1997?	Remember The Titans	Grosse Pointe Blank	Red Corner	Face/Off
+10821	Pop Culture	1	What was the Spice Girls' first U.S. single?	Say You'll Be There	Stop	Too Much	Wannabe
+531393	Pop Culture	1	The song "Pumped Up Kicks" was a hit for which indie artist?	Score	Paramore	Bring Me The Horizon	Foster The People
+777T2019	Pop Culture	1	The Upside Down is a place in which TV show?	Seinfeld	Modern Family	GLOW	Stranger Things
+0DIFETM264	Pop Culture	1	"Hey now, you're an allstar" are the lyrics from what group's knockout hit 'All Star' in the late 90's?	Smashing Pumpkins	Celine Dion	Oasis	Smashmouth
+20VE3341	Pop Culture	1	What type of TV series is "BoJack Horseman"?	Soap Opera	Historical Drama	Documentary	Animated
+20VE2437	Pop Culture	1	Metallica filed a lawsuit against what peer-to-peer service for copyright infringement?	Soundcloud	Spotify	Apple Music	Napster
+441600	Pop Culture	1	Weezer had a charting song in 2006 with what title?	Southside	Wait For You	Why You Wanna	Beverly Hills
+20VE2495	Pop Culture	1	Who is the eccentric guitar player known for wearing a bucket on his head?	Steve Earle	Gary Clark Jr.	Slash	Buckethead
+185954	Pop Culture	1	What is given away on "Win Ben Stein's Money"?	Stocks	Gift Certificates	Credit Cards	Money
+528433	Pop Culture	1	Which of these movies is about vampires?	Super 8	Harry Potter	Divergent	Twilight
+267497	Pop Culture	1	What show is about a brother doing everything he can to free his wrongly convicted sibling?	Surface	Grey's Anatomy	Head Cases	Prison Break
+777T1945	Pop Culture	1	What 2018 film is about Michael Myers on Halloween night?	Suspiria	Overlord	Upgrade	Halloween
+14140	Pop Culture	1	On the TV show "Buffy the Vampire Slayer", what is Buffy's last name?	Sutters	Sutners	Sumters	Summers
+20VE1747	Pop Culture	1	Who is known for creating and producing the TV show "Saturday Night Live"?	Ted Danson	Martin Scorsese	Larry David	Lorne Michaels
+75845	Pop Culture	1	Which cable network has been known as TFN?	The Funky Network	The French Network	The Football Network	The Food Network
+777T1904	Pop Culture	1	Which movie stars Lady Gaga?	The Happy Prince	The Oath	Bullitt County	A Star Is Born
+273218	Pop Culture	1	What hit cable TV show is loosely based on Mark Wahlberg's life?	The L Word	6 Feet Under	Weeds	Entourage
+308445	Pop Culture	1	What was the popular TV show focused on a high school student named Zack Morris?	USA High	Hang Time	California Dreams	Saved By The Bell
+0DIFETM222	Pop Culture	1	The smash hit "Mr. Brightside" was a single from what Las Vegas band?	Van Halen	Bastille	Oasis	The Killers
+20VE3283	Pop Culture	1	What is the correct name of the Keenen Ivory Wayans sketch comedy show?	Wide World of Colors	Primary Colors	Three Colors	In Living Color

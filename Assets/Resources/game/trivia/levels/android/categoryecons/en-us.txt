@@ -1,0 +1,60 @@
+Animals	0
+Football	3
+Animated Movies	0
+Food	0
+Auto Racing	9
+Pop Culture	0
+Brands	2
+Baseball	11
+Disney	1
+Birds	5
+Basketball	14
+Celebrities	7
+World Geography	12
+Hockey	18
+Pop Music	50
+Capital Cities	19
+Golf	27
+Movies 90s	25
+Biology	26
+Tennis	36
+TV 10s	34
+Travel	33
+Olympics	42
+Music 10s	43
+Pets	40
+Soccer	45
+Movies 10s	52
+Landmarks	47
+Boxing	65
+Reality TV	62
+World History	54
+Cricket	74
+Plays & Musicals	70
+Literature	61
+College Sports	83
+Country Music	79
+Poetry	68
+TV 90s	88
+Technology	75
+Sitcoms	97
+Mythology	82
+Awards	106
+Science	89
+Rock Music	115
+Art	96
+Video Games	124
+Oceans	103
+Music R&B	133
+Chemistry	110
+Music 00s	142
+U.S. History	117
+Music 90s	151
+Earth	125
+Movies 00s	160
+U.S. Geography	131
+Hip Hop	169
+Wine	145
+Action Movies	178
+TV 00s	187
+Foreign Films	196

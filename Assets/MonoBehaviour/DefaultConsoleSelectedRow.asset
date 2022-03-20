@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cbbc59046bdb5ba3a7bb43c0762ed2f, type: 3}
+  m_Name: "DefaultConsoleSelectedRow"
+  m_EditorClassIdentifier: 
+  _keys:
+  - "Console_Entry_BG"
+  _styles:
+  - ActiveColor: {r: 1, g: 1, b: 1, a: 1}
+    DisabledColor: {r: 1, g: 1, b: 1, a: 1}
+    HoverColor: {r: 1, g: 1, b: 1, a: 1}
+    Image: {fileID: 0}
+    NormalColor: {r: 0.2431373, g: 0.372549, b: 0.5843138, a: 0.8235294}
+  Parent: {fileID: 11400000, guid: b1b03b7dfc7b47fdb23bffb940aefa63, type: 2}

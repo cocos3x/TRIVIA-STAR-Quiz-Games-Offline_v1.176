@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80154dad11d760a13303332a1bc7b428, type: 3}
+  m_Name: "Trivia_AudioDefinition"
+  m_EditorClassIdentifier: 
+  generalClips:
+  - {fileID: 8300000, guid: 381f561bd6014aedb4452837d7222911, type: 3}
+  - {fileID: 8300000, guid: 9a2b278191ee4b6c9617546b3899575e, type: 3}
+  - {fileID: 8300000, guid: 8ad917cbfe0e42ab98afe061338c9069, type: 3}
+  - {fileID: 8300000, guid: 8ad917cbfe0e42ab98afe061338c9069, type: 3}
+  - {fileID: 8300000, guid: 24ab20fef233489b90b6be0d6a0183bf, type: 3}
+  - {fileID: 8300000, guid: ba6e9bba2d9f4f3891d3866dc5484399, type: 3}
+  - {fileID: 8300000, guid: 09f6e99e64a84210a2a1b538bcd59765, type: 3}
+  - {fileID: 8300000, guid: 014aec873c1249db9f4e09ab863ff5a7, type: 3}
+  - {fileID: 8300000, guid: 09f6e99e64a84210a2a1b538bcd59765, type: 3}
+  - {fileID: 8300000, guid: 60713733aa8d4b3c880404207733767d, type: 3}
+  - {fileID: 8300000, guid: 05cf3c3dd35841679d51171e85e187b0, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonClips:
+  - {fileID: 8300000, guid: 11e69b990ab14a03b7c6eaa7ba8fd735, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  newItemId: 
+  newItemClips: {fileID: 0}
+  fadeBetweenTracks: 1
+  defaultMusicVolume: 0.7
+  menuMusic: []
+  gameplayMusic:
+  - {fileID: 8300000, guid: 795e6f0307cd46518db03dfc5ad5721f, type: 3}
+  gameSpecificClips:
+  - id: "TRVChestOpen"
+    clips:
+    - {fileID: 8300000, guid: b0d8f61dc5ed422d8fbc0b70f9e7bede, type: 3}
+  - id: "TRVQuestionCorrect"
+    clips:
+    - {fileID: 8300000, guid: 0e5a0207c8464a1080b0658cef6dd20b, type: 3}
+  - id: "TRVQuizCompleteCollect"
+    clips:
+    - {fileID: 8300000, guid: 7ff70ab6d44d40d4943d55f1ee8aa41f, type: 3}
+  - id: "TRVCategorySelected"
+    clips:
+    - {fileID: 8300000, guid: bb39835920304d069054e7649959494f, type: 3}
+  - id: "TRVQuestionIncorrect"
+    clips:
+    - {fileID: 8300000, guid: df9ebb5878764eb38cd5cba1ea111a9a, type: 3}
+  - id: "RollingCategory"
+    clips:
+    - {fileID: 8300000, guid: f95e3033e71d4127b31ee3585810a363, type: 3}
+  - id: "Counting Down"
+    clips:
+    - {fileID: 8300000, guid: a7cb0fa3ab894004939c318e6fbbeb71, type: 3}
+  - id: "Time Up"
+    clips:
+    - {fileID: 8300000, guid: 0c1f409e9a6e4969a6beae811dbeb3fc, type: 3}
+  - id: "Show Answer Option"
+    clips:
+    - {fileID: 8300000, guid: 52ff0285951d4cf0bd91b48531a9aa55, type: 3}

@@ -1,0 +1,579 @@
+0DIF1	Animales	0	¿Qué animal tiene más de un corazón?	Gorila	Loro	Lobo	Pulpo
+FTUX015	Animales	0	¿Qué animal no puede caminar erguido sobre dos patas?	Gorila	Oso	Canguro	Delfín
+18116	Animales	0	¿Qué animal espinoso tiene púas como agujas en su cuerpo?	Tiburón martillo	Chaqueta amarilla	Mantarraya	Puerco espín
+50311	Animales	0	¿Cuál de estos animales es un roedor?	Pez luna	Sinsonte	Búho Manchado	Ardilla
+FTUX19	Animales	0	¿Qué tipo de animal es un dragón de Komodo?	Gato	Pájaro	Pescado	Lagartija
+FTUXPIC15	Animales	0	Este anfibio se conoce como ¿qué?	Lagartija	Iguana	Sapo	Rana
+FTUXPIC12	Animales	0	¿Qué son estos animales omnívoros?	Hienas	Pandas gigantes	Osos polares	Osos pardos
+40E2459	Animales	1	¿Qué animal tiene la vida útil más larga?	Mono	Elefante	Serpiente	Tortuga gigante
+FTUX14	Animales	0	¿Cuál de estos es real?	Unicornio	Pie Grande	Hombre-lobo	Dragon de Komodo
+0DIF6	Animales	0	¿Qué animal tiene el corazón dentro de su cabeza?	Tigre	Mono	Perro	Camarón
+4786	Animales	0	¿Cuál de estos es un animal grande que permanece mucho tiempo en el agua?	Águila calva	Sapo	Ruiseñor	Hipopótamo
+FTUX036	Animales	0	¿Qué reptil grande es conocido por convertirse en un obstáculo en los campos de golf del sur de Estados Unidos?	Camaleón	Geco	Mamba negro	Caimán
+FTUX24	Animales	0	¿Cuál es el mamífero más grande del mundo?	Rinoceronte	León marino	Oso	Ballena azul
+0DIF13	Animales	0	¿Cuál de los siguientes es un tipo de pingüino?	Colosal	Jorobado	Congo	Emperador
+FTUX028	Animales	0	¿Cuál tiene más de dos ojos?	Jirafa	Rana	Pulpo	Araña
+FTUX033	Animales	0	¿Qué animal se ha denominado "panda de basura"?	Oso kodiak	Zarigüeya	Hámster	Mapache
+FTUX024	Animales	0	¿A qué grupo / familia pertenecen los escorpiones, arañas, ácaros y garrapatas?	Protozoos	Reptiles	Mamíferos	Arácnidos
+FTUX15	Animales	0	¿De qué color es un cardenal?	Azul	Rosa	Verde	Rojo
+FTUXPIC18	Animales	0	¿Qué es este animal del desierto?	Lémur	Ocelote	Planeador del azúcar	Suricata
+60E2949	Animales	0	¿Cuál es un animal de carga relacionado con el camello?	Lémur	Zorro	Hiena	Llama
+FTUXPIC23	Animales	0	¿Qué es este gran herbívoro?	Rinoceronte	Vaca	Ratón	Bisonte
+FTUX012	Animales	0	¿Qué animal usa el sigilo y la tranquilidad para acechar a su presa?	Rinoceronte	Elefante	Búfalo	Tigre
+0DIF12	Animales	0	Asesinato es el sustantivo colectivo para un grupo de ¿qué?	Gatos	Hámsters	Osos	Cuervos
+60E1309	Animales	0	¿Qué es un mamífero que tiene alas y es capaz de volar de forma sostenida?	Ardilla	Mono	Lobo	Murciélago
+60E2229	Animales	0	¿Qué animal tiene la espalda plateada?	Rinoceronte	Elefante	Tigre	Gorila
+40E2419	Animales	0	¿Qué criatura marina está estrechamente relacionada con los cangrejos y las langostas?	Salmón	León marino	Manatí	Gamba
+60E2829	Animales	0	¿Qué animal es un herbívoro originario de Australia?	Mapache	Oso café	Cabra	Coala
+FTUX11	Animales	0	¿Cuál es el animal más alto del mundo?	Lémur	Gorila	Tigre	Jirafa
+FTUX027	Animales	0	¿Cuál no es una especie de oso?	Kodiak	Polar	Marrón	Gigantesco
+FTUXPIC16	Animales	0	¿Qué es este animal terrestre extremadamente rápido?	Leopardo	Tigre	León	Leopardo cazador
+FTUXPIC10	Animales	0	¿Cómo se llama este pájaro grande?	Kiwi	Pato	Paloma	Cisne
+FTUXPIC30	Animales	0	¿Cómo se llama este pequeño lagarto?	Dragon de Komodo	Iguana	Rana	Geco
+FTUX013	Animales	0	¿Las orugas se envuelven en un qué?	Burbuja	Traje	Cáscara	Capullo
+FTUX18	Animales	0	¿Cómo se llama un bebé cabra?	Oveja	Gatito	Renacuajo	Cabrito
+60E2189	Animales	0	¿Qué animal de cuello largo tiene la lengua negra?	Tigre	Coala	Mono	Jirafa
+60E2349	Animales	0	¿Qué animal es un roedor que se suele tener como mascota?	Mangosta	Wombat	Tigre	Hámster
+FTUXPIC01	Animales	0	¿Cuáles son estos animales nativos de Madagascar?	Hurones	Hámsters	Coala	Lémures
+180955	Animales	0	Un gran tipo de ciervo de EE. UU. Y Canadá también se conoce como ¿qué?	Correcaminos	Mantis religiosa	Pato	Alce
+95892	Animales	0	¿Qué animal es fácil de notar debido a sus llamativas rayas blancas y negras?	Cacatúa	Serpiente de cascabel	Pez espada	Cebra
+0DIF2	Animales	0	¿Cuál es el esquema de color más común del pez payaso?	Azul y amarillo	Verde y azul	Negro y rosa	Naranja y blanco
+0DIF4	Animales	0	Durante las primeras semanas de vida, ¿de qué se alimentan los ratones bebés?	Un Pan	Hormigas	Semillas	La leche materna
+40E2409	Animales	0	¿Cuál es un roedor grande con púas?	Conejo	Jerbo	Hámster	Puerco espín
+180916	Animales	0	¿Qué animal tiene marcas en forma de máscara en la cara y una cola anillada?	Cocodrilo	Halcón de cola roja	Polilla Luna	Mapache
+FTUX21	Animales	0	¿Cómo se llama un canguro bebé?	Perrito	Becerro	Cachorro	Joey
+FTUX018	Animales	0	¿Qué mamífero es conocido por tener una o dos jorobas?	Estegosaurio	Búfalo	Alce	Camello
+0DIF11	Animales	0	¿Una mariquita común tiene manchas de qué color?	Blanco	Rojo	Amarillo	Negro
+395963	Animales	0	¿Qué especies se consideran "corredoras muy rápidas"?	Buho Nevado	Pato Mallard	Ganso de Canadá	Caballo
+FTUX023	Animales	0	¿De qué animal se hace principalmente el tocino?	Vaca	Pollo	Tiburón	Cerdo
+FTUX12	Animales	0	¿Cuántos brazos tiene la mayoría de las estrellas de mar?	1	2	12	5
+46356	Animales	0	¿Cuál de los siguientes no es un mamífero?	Leopardo cazador	Bisonte	Mono	Águila calva
+FTUX030	Animales	0	¿Cuál es el término para un ciervo bebé?	Cabrito	Oveja	Alce	Fauno
+47389	Animales	0	¿Cómo llamarías a un gato grande y feroz con rayas?	Saltamontes	Azulejo oriental	Anguila electrica	Tigre
+0DIF18	Animales	0	¿Qué animal puede pararse sobre su cola?	Jirafa	Lobo	Gato	Canguro
+FTUX022	Animales	0	¿Qué insecto construye colonias bajo tierra?	Mariposa	Tábano	Libélula	Hormiga
+180939	Animales	0	¿Qué animal es pequeño y peludo con patas cortas?	Angelote	Pizca	Paloma	Comadreja
+FTUX020	Animales	0	Un recinto de vidrio para lagartos, tortugas, serpientes se llama ¿qué?	Exhibir	Caja de zapatos	Pecera	Terrario
+FTUX20	Animales	0	¿Cuál de los siguientes es el animal más pequeño?	Caballo	Pantera	Lobo	Hurón
+FTUX016	Animales	0	Elija el animal de sangre caliente:	Lagartija	Pescado	Serpiente	Caballo
+40E2949	Animales	0	¿Cuántos pares de alas tiene una abeja?	5	0	6	2
+FTUX22	Animales	0	¿Cómo se llama si un tigre tiene un bebé con un león?	Cuasi	Joey	Mamífero	Ligre
+0DIF8	Animales	0	¿Cómo se conoce a un grupo de crías de perro?	Escuela	Cesta	Manada	Camada
+FTUX7	Animales	0	¿Qué animal puede cambiar sus colores para mezclarse con el medio ambiente?	Elefante	Jirafa	Pavo	Camaleón
+0DIF7	Animales	0	¿Cómo se llama una vaca bebé?	Pinky	Gatito	Renacuajo	Becerro
+FTUX032	Animales	0	¿Qué pájaro tiene un pico muy grande y una bolsa que lo acompaña?	Colibrí	Loro	Cuervo	Pelícano
+FTUXPIC09	Animales	0	¿Qué es este animal "cacareando"?	Mandril	Perro oso	Gato montés	Hiena
+FTUXPIC13	Animales	0	Este perro australiano es conocido como ¿qué?	Antílope	Zorro	Labrador	Dingo
+40E2569	Animales	0	¿Qué animal se cría generalmente como ganado?	Oso	Ardilla	Serpiente	Oveja
+60E2409	Animales	0	¿Qué es un crustáceo que lleva su caparazón a la espalda?	Medusa	Bacalao	Tiburón	Cangrejo ermitaño
+FTUX00	Animales	0	¿Cuál de los siguientes animales está domesticado?	Cebra	Jirafa	León	Perro
+FTUX4	Animales	0	¿Cuál de los siguientes animales muda su piel?	Perro	Gato	Hámster	Serpiente
+0DIF20	Animales	0	¿Cuál de los siguientes no es un tipo de tigre?	Siberiano	Bengala	Sumatran	Dardo venenoso
+180651	Animales	0	¿Qué animal de madriguera puede encontrar su camino en su madriguera a pesar de estar casi ciego?	Correcaminos	Gusano de seda	Polilla de frijol saltarina	Topo
+64200	Animales	0	¿Cuál de estos es un mamífero?	Caimán	Mariposa	Serpiente de cascabel 	Elefante
+FTUX3	Animales	0	¿Qué país tiene abundancia de canguros?	Japón	Estados Unidos	Canadá	Australia
+FTUX034	Animales	0	¿En qué continente se pueden encontrar de forma nativa koalas, canguros y kookaburra?	Asia	Norteamérica	Antártida	Australia
+40E2109	Animales	0	¿Qué animal es el resultado del apareamiento de un burro macho y una yegua?	Tritón	Ocelote	Pika	Mula
+4713	Animales	0	¿Cómo se conoce a los animales de granja que se crían para obtener lana y carne?	Colibrí	Azulejo oriental	Caimán	Oveja
+FTUXPIC19	Animales	0	¿Qué es esta inteligente criatura?	Wallaby	Ocelote	Foca	Nutria
+60E2329	Animales	0	¿Qué animal es un roedor que se suele tener como mascota?	Chacal	Ibis	Mono	Conejillo de indias
+40E2919	Animales	0	¿Cuál de estos animales es una serpiente?	Gaviota	Ornitorrinco	Geco	Liga
+60E1889	Animales	0	¿Qué mamífero vive en el agua y se considera inteligente?	Elefante	Salmón	Medusa	Delfín
+57177	Animales	0	¿Qué es un hurón?	Una parte electrónica	Un árbol	Un tipo de plástico	Un Animal
+180951	Animales	0	¿Qué gato salvaje tiene el pelaje manchado?	Tigre	León	Puma	Leopardo
+FTUX17	Animales	0	¿Qué animal es un felino?	Serpiente	Rana	Pescado	Gato
+FTUX23	Animales	0	¿Qué tipo de animal es una "cierva"?	Mono	Lagartija	Pingüino	Ciervo
+40E2559	Animales	0	¿Qué tipo de criatura marina puede ser un mako o un toro?	Medusa	Tortuga	Bacalao	Tiburón
+4726	Animales	0	¿Qué animal es un simio grande que habita en los árboles?	Kakapo	Pingüino emperador	Grillo	Orangután
+FTUX1	Animales	0	¿Cuál de los siguientes animales terrestres es el más rápido?	Jirafa	Oso	Perezoso	Leopardo cazador
+FTUX13	Animales	0	¿Cómo se llama una rana bebé?	Franchute	Becerro	Cabrito	Renacuajo
+40E2339	Animales	0	¿Qué animal tiene grandes manchas negras alrededor de los ojos?	Pantera	Alce	Búfalo	Panda
+0DIF9	Animales	0	¿Cuál de los siguientes animales no puede saltar?	León	Gorila	Cebra	Elefante
+FTUX017	Animales	0	¿Cuál de estos puede volar?	Pingüino	Lagartija	Perezoso	Halcón
+4714	Animales	0	¿Cómo llamarías a un animal pequeño que salta con orejas grandes?	Cisne negro	Mantis religiosa	Loro	Conejo
+FTUXPIC24	Animales	0	¿Qué es este animal desdentado?	Suricata	Lémur	Cerdo hormiguero	Oso hormiguero
+0DIF5	Animales	0	¿Un mandril es qué tipo de criatura?	Hámster	Tigre	Perro	Mono
+FTUXPIC02	Animales	0	¿Qué es este animal originario de Australia?	Hurón	Panda	Drop Bear	Coala
+180942	Animales	0	¿Qué animal produce un olor terrible?	Polilla Luna	Ganso de Canadá	Gran grúa	Zorrillo
+60E2029	Animales	0	¿Una mamba es un tipo de qué?	Búfalo	Lémur	Alce	Serpiente
+4742	Animales	0	¿Cuál de estos animales es un roedor que se encuentra comúnmente en los vecindarios urbanos?	Loro gris africano	Caballo de mar	Kakapo	Ardilla
+87716	Animales	0	¿Cuál de los siguientes es un mamífero?	Buitre	Pollo de la pradera	Gallina Leghorn	Cebra
+180968	Animales	0	¿Cómo se llaman los osos blancos y negros de China?	Frailecillo	Trucha de lago	Abeja	Panda
+60E1149	Animales	0	¿La dieta de qué animal se compone de insectos?	Bisonte	Dingo	Castor	Oso hormiguero
+40E2519	Animales	0	¿Qué es un mamífero marino semiacuático de patas aletas?	Mono	Tiburón	Cerdo	Foca
+FTUX038	Animales	0	¿Qué palabra se asocia con pájaros domesticados criados como alimento / por sus huevos?	Estampida	Conspiración	Congreso	Ave
+4827	Animales	0	¿Cuántas patas tiene una araña típica?	Dieciséis	Dos	Cuatro	Ocho
+40E2399	Animales	0	¿Qué animal tiene pezuñas?	Lobo	Mapache	Hiena	Cerdo
+84643	Animales	0	¿Qué animal es grande y vive en el Polo Norte?	Rana	Araña viuda negro	Peces linterna	Oso polar
+FTUXPIC05	Animales	0	¿Qué tipo de reptil deslizante es este?	Cobra	Dragon de Komodo	Iguana	Pitón
+FTUXPIC20	Animales	0	¿Qué es este insecto alado?	Avispón	Avispa	Mariposa	Libélula
+FTUX8	Animales	0	¿Cuál de los siguientes animales tiene cuerno?	Tortuga	Cebra	León	Rinoceronte
+FTUX021	Animales	0	¿Cuál no es de la familia de los gatos?	Leopardo cazador	Leopardo	Pantera	Zorro
+FTUX6	Animales	0	¿Qué animal es capaz de imitar el habla humana?	Serpiente	Pollo	Tiburón	Loro
+180920	Animales	0	¿Cuál de los siguientes es un mamífero?	Buitre	Buho Nevado	Pizca	Zorrilla
+FTUX035	Animales	0	¿Qué pez se hincha con un exterior puntiagudo?	Trucha	Pez payaso	Medusa	Pez globo
+FTUX9	Animales	0	¿A qué animal le encanta comer plátanos?	Pez de colores	Grillo	Serpiente	Mono
+0DIF14	Animales	0	¿Cuál de los siguientes no es un canino?	Perros	Lobos	Zorros	Tigres
+40E2939	Animales	0	¿Qué es un animal grande que vive comúnmente en el Ártico?	Nutria	Iguana	Jirafa	Foca arpa
+60E1949	Animales	0	¿Qué animal tiene tendencia a sumergirse en el agua para atrapar su comida?	Jirafa	Pantera	Cabra	Pato
+FTUX16	Animales	0	¿Qué alimento constituye casi toda la dieta de un panda?	Insectos	Césped	Tacos	Bambú
+60E1509	Animales	0	¿Cuál es un animal de trabajo que vive en un hábitat desértico?	Conejo	Cabra	Ardilla	Camello
+40E2929	Animales	0	¿Qué animal caza animales grandes como la cebra y el ñu?	Mapache	Coala	Mono	León
+104006	Animales	0	¿Cómo llamarías a un pequeño roedor de cola larga?	Ganso hawaiano	Petirrojo americano	Ruiseñor	Ratón
+0DIF3	Animales	0	¿Los grupos de leones se conocen como qué?	Categorías	Multitudes	Escuelas	Manada
+180935	Animales	0	¿En qué país se encontrará el canguro con más frecuencia?	Florida	España	Austria	Australia
+60E2009	Animales	0	¿Cuál es un animal de tronco largo?	Ciervo	Nutria	Perezoso	Elefante
+40248	Animales	0	¿Cuál es el animal más rápido en África?	Leopardo	León	Tigre	Leopardo cazador
+FTUXPIC08	Animales	0	¿Esta criatura linda y astuta es un qué?	Panda rojo	Dingo	Mapache	Zorro
+214400	Animales	0	¿Qué especie encaja mejor con esta descripción, "gato salvaje grande con manchas de América del Sur y Central"?	Pollo de la pradera	Oriol	Azulejo oriental	Jaguar
+60E1609	Animales	0	¿Qué animal tiene a menudo una impresión manchada distinguible?	Perezoso	León	Zorro	Leopardo cazador
+40E2369	Animales	0	¿Qué ave está estrechamente relacionada con el faisán y tiene enormes plumas en la cola?	Pinzón	Loro	Aves acuáticas	Pavo real
+FTUX014	Animales	0	¿Cuál es el mamífero terrestre más grande?	Ciervo	León	Ratón	Elefante
+FTUX037	Animales	0	¿Cómo utilizan las serpientes su sentido del olfato?	Con sus escamas	Con sus colas	Con sus ojos	Con su lengua
+40E2589	Animales	0	¿Qué animal usa el olor para disuadir a los depredadores?	Vaca	Caballo	Jerbo	Zorrillo
+FTUXPIC04	Animales	0	¿Qué es esta mascota popular?	Chinchilla	Planeador del azúcar	Ardilla	Hámster
+FTUXPIC25	Animales	0	¿Qué es este mamífero en peligro de extinción?	Nutria	Perro de agua	Foca	León marino
+0DIF10	Animales	0	¿Qué animal no tiene cuerdas vocales?	Chimpancé	Lobo	Perro	Jirafa
+60E1909	Animales	0	¿Qué mamífero tiene un orificio nasal en la parte superior de la cabeza para respirar?	Trucha	Pez espada	Guppy	Delfín
+0DIF16	Animales	0	¿Cuál de los siguientes mamíferos pone huevos?	Ballena	Oso	Elefante	Ornitorrinco
+60E1869	Animales	0	¿Qué animal tiene un agudo sentido del olfato y es una gran mascota?	Lobo	Leopardo cazador	Rana	Perro
+FTUX019	Animales	0	¿Cuál no es un roedor?	Rato	Ardilla	Ratón	Coala
+FTUX026	Animales	0	¿Qué animal no tiene pezuñas?	Caballo	Cebra	Ciervo	León de montaña
+40E2909	Animales	0	¿Qué animal tiene dos orificios nasales?	Cigüeña	Cálao	Alondra	Ballena azul
+40E2319	Animales	0	¿Cuál de los siguientes no es un pájaro?	Garza	Halcón	Albatros	Taipán
+40E2829	Animales	0	¿Qué animal vive en el Ártico y tiene colmillos largos?	Pingüino	Oso Polar	Foca	Morsa
+180929	Animales	0	¿Qué animal vive en el norte del Océano Pacífico?	Pollo de la pradera	Tarántula	Búho manchado	Elefante marino del norte
+FTUX10	Animales	0	¿Cuál es la característica más reconocible de la apariencia de un erizo?	Aletas	Piernas largas	Color azul	Pelo de punta
+88566	Animales	0	¿Qué especie puede describirse como un cerdo salvaje de África?	Geco	Chaqueta amarilla	Gran grúa	Jabalí
+60E1929	Animales	0	¿Qué animal se utiliza para ayudar a transportar cargas pesadas?	Alce	Mono	Ardilla	Burro
+FTUXPIC29	Animales	0	¿Qué es este animal, conocido por construir presas?	Puerco espín	Ornitorrinco	Glotón	Castor
+FTUXPIC03	Animales	0	¿Qué es este reptil amante del sol?	Tirano saurio Rex	Rey Cobra	Dragon de Komodo	Iguana
+60E1589	Animales	0	¿Cuál de estos es un anfibio?	Vaca	Halcón	Búho	Salamandra
+FTUX5	Animales	0	¿Qué combinación de colores suelen tener las abejas?	Rojo y negro	Verde y naranja	Morado y azul	Amarillo y negro
+180653	Animales	0	¿Cuál de estos fue un animal grande parecido a un elefante que vivió durante las eras glaciales?	Polilla Luna	Loro gris africano	Iguana	Mamut
+180956	Animales	0	¿Cuál de estas opciones es un mamífero?	Lori arcoíris	Bastón	Azulejo oriental	Lobo
+FTUX029	Animales	0	¿Qué son capaces de hacer los animales venenosos?	Correr muy rápido	Ser un simbionte	Fingir la muerte	Introducción de toxinas por mordeduras o picaduras
+FTUX2	Animales	0	¿Cuántas patas tiene una araña?	2	0	16	8
+FTUXPIC21	Animales	1	¿Qué es este mamífero espinoso?	Hámster	Puerco espín	Suricata	Erizo
+1DIF17	Animales	1	¿Qué tipo de perro era Scooby Doo?	San Bernardo	Beagle	Chihuahua	Gran danés
+50235	Animales	1	¿Qué animal come cientos de libras de peces y mamíferos marinos todos los días?	Pingüino	Tortuga del desierto	Mosquito	Orca
+1DIF09	Animales	1	¿Cuánto suele pesar una ballena azul adulta?	50-150 libras	800 libras	2 toneladas	50-150  toneladas
+180958	Animales	1	¿Qué roedor también se llama marmota en Inglés?	Iguana	Escarabajos	Guacamaya roja	Woodchuck
+60E1829	Animales	1	¿Qué es un animal de carga que se encuentra comúnmente en Australia?	León marino	Cabra	Zorro	Dingo
+40E2259	Animales	1	¿Qué animal es conocido por comer garrapatas?	Leonés	Wombats	Nutrias	Zarigüeyas
+1DIF10	Animales	1	¿Qué es lo opuesto a un carnívoro?	Omnívoro	Locovoro	Piscívoro	Herbívoro
+30446	Animales	1	¿Cuál de los siguientes es un pez?	Avispa	Caribú	Dingo	Tiburon martillo
+1DIF11	Animales	1	¿De dónde son nativos los elefantes?	Norte y sur America	Australia y Norteamérica	América del Sur y Antártida	Asia y Africa
+1DIF04	Animales	1	Completa el título del libro: Los ________ del Sr. Popper	Hipopótamo	Pterodáctilo	Puerco espín	Pingüinos
+FTUXPIC26	Animales	1	¿Qué es este mono grande?	Orangután	Chimpancé	Gorila	Babuino
+4755	Animales	1	¿Qué es un tritón?	Un racimo de iguanas	Un género de roedores	Una esfera de elementos puros	Una pequeña criatura parecida a una salamandra
+180967	Animales	1	Cuando la cola de un perro está entre sus patas, ¿qué significa?	Ellos tienen hambre	Ellos quieren atención	Ellos están en celo	Ellos están amenazados
+180657	Animales	1	¿Qué es un coala?	Un pájaro	Un mono	Un reptil	Un marsupial
+FTUXPIC07	Animales	1	¿Qué es este animal de pastoreo?	Dik-dik	Cebra	Ciervo	Antílope
+1DIF14	Animales	1	¿Qué animal pasa tiempo tanto en la tierra como en el agua?	León	Elefante	Ballena	Tortuga
+57186	Animales	1	¿Cuál de estos es un primate de ojos grandes de Madagascar?	Suricata	Kookaburra	Grackle	Anillo de lémur de cola
+15125	Animales	1	¿Cómo llamarías a un primate de ojos grandes del sudeste asiático?	Escorpión	Paloma	Pez espada	Loris
+1DIF29	Animales	1	¿Qué es lo opuesto a un animal nocturno?	Parásito	Invertebrado	Acuático	Diurno
+1DIF24	Animales	1	¿Cuál es el nombre de un grupo de camellos?	Disfrutar	Estampida	Giba	Caravana
+4737	Animales	1	¿Cuál de estos animales es un carnívoro en peligro de extinción del este de Estados Unidos?	Gorrión arborícola americano	Ganso de nieve	Pingüino emperador	Lobo rojo
+1DIF18	Animales	1	¿Qué pez tiene barbillas o "bigotes"?	Pez de colores	Calamar	Cazón	Bagre
+6052	Animales	1	Según la Biblia, ¿dónde tentó la serpiente a Adán y Eva?	En la Gran Muralla China	Al final del arco iris	Bajo el malecón	En el huerto del Edén
+1DIF13	Animales	1	Elija el animal que vive en la selva:	Bisonte	Avestruz	Camello	Jaguar
+1DIF06	Animales	1	Pumbaa, de El Rey León, ¿qué tipo de animal era?	Suricata	León	Cebra	Jabalí
+76302	Animales	1	¿Qué perro puede ser negro, marrón o amarillo?	Lhasa Apso	Springer Spaniel	Collie	Labrador Retriever
+1DIF01	Animales	1	Un grupo de gansos en el suelo se llama ¿qué?	Corrillo	Enjambre	Terror	Manada
+180923	Animales	1	¿Qué otro gato grande se cría con un tigre para hacer el tigón?	Leopardo cazador	Leopardo	Jaguar	León
+228370	Animales	1	¿Qué criatura enumerada a continuación también podría llamarse "el mono más ruidoso"?	Mono marino	Orangután	Chimpancé	Mono aullador
+180650	Animales	1	¿Qué tipo de perro tiene un cuerpo largo y redondeado y patas cortas?	Labrador chocolate	Perro perdiguero de oro	Pastor alemán	Perro tejonero
+180961	Animales	1	¿Qué mamífero sudamericano se parece a una pequeña llama?	Guanila	Antilca	Coabo	Alpaca
+13840	Animales	1	¿Cuál tiene la cola más corta?	León	Elefante	Tigre	Hámster
+FTUXPIC11	Animales	1	¿Qué son estos animales canguros?	Liebres	Dingos	Coalas	Wallabies
+1DIF23	Animales	1	¿Cuál es el nombre de un grupo de murciélagos?	Temblar	Sombra	Nido	Colonia
+48630	Animales	1	¿Cuáles son los únicos mamíferos que pueden volar?	Chihuahuas	Numbats	Ardillas voladoras	Murciélagos
+180934	Animales	1	¿Qué animal es una ardilla de tierra?	Halcón de cola roja	Ganso hawaiano	Pollo de la pradera	Perrito de las praderas
+FTUX031	Animales	1	Los peces que se mantienen como mascotas se mantienen en agua dulce o ¿qué?	Agua suave	Agua dura	Agua destilada	Agua salada
+180933	Animales	1	¿Cuál de estos es un animal grande, fuerte y herbívoro?	Caballo de mar	Kookaburra	Monstruo Gila	Yak
+49158	Animales	1	¿Cómo se llama una ballena bebé?	Júnior	Vaina	Cachorro	Becerro
+4763	Animales	1	¿Qué especie encaja mejor con esta descripción, "antílope liviano y de salto alto del sur de África"?	Salmón	Águila dorada	Tritón	Impala
+1DIF03	Animales	1	¿Qué animal marino es muy inteligente y se sabe que usa herramientas y escapa de su recinto?	Cangrejo	Tiburones	León marino	Pulpo
+1DIF08	Animales	1	¿Cómo se llama un grupo de langostas?	Desfile	Escuela	Asesinato	Plaga
+FTUXPIC28	Animales	1	¿Qué es este pequeño animal, relacionado con la nutria?	Glotón	Ardilla de tierra	Mapache	Tejón
+1DIF22	Animales	1	¿Qué araña no solo muerde, sino que arroja cerdas parecidas a la fibra de vidrio en defensa propia?	Tejedora de orbes	Araña lobo	Viuda negra	Tarántula
+1DIF07	Animales	1	¿Cómo se llama un grupo de orugas?	Manada	Plaga	Enjambre	Ejército
+1DIF26	Animales	1	¿Cuál no es un gato grande?	León	Tigre	Pantera	Ocelote
+53090	Animales	1	¿En qué país se originó el pastor inglés?	Irlanda	Estados Unidos	Escocia	Inglaterra
+FTUX025	Animales	1	¿Cuál no es una raza de gato doméstico?	Manx	Siamés	Persa	Nariz de botella
+1DIF12	Animales	1	¿Qué animal no se encuentra en la tundra?	Buho Nevado	Zorro ártico	Oso Polar	Liebre del desierto
+60E2709	Animales	1	¿Dónde se encuentra el ornitorrinco?	Japón	Rusia	Estados Unidos	Australia
+FTUXPIC22	Animales	1	¿Qué es este pájaro tan inteligente?	Halcón	Gavilán	Paloma	Cuervo
+180945	Animales	1	¿Cuál de estos es un animal acuático gentil que nada lentamente?	Jirafa	Petirrojo Americano	Saltamontes	Manatí
+22301	Animales	1	¿Cuál de estas especies es un gato salvaje de las Américas?	Tiburon martillo	Codorniz	Gusano de seda	Ocelote
+180649	Animales	1	¿Cuál especie cumple con esta descripción, "peces aplanados de colores brillantes que viven en aguas cálidas poco profundas"?	Ganso de Canadá	Gato montés	Ballena beluga	Angelote
+1DIF16	Animales	1	¿Lassie era qué tipo de perro?	Schnauzer	Terrier	Dálmata	Collie
+180948	Animales	1	¿Cuál de los siguientes animales es un mamífero?	Sapo	Garceta grande	Jilguero Americano	Murciélago vampiro
+6053	Animales	1	¿Cuál par de especie y tipo de animal es correcto?	Abeja - Pájaro	Anguila eléctrica - Insecto	Gorrión arborícola Americano - Pez	Nutria Marina - Mamífero
+1DIF02	Animales	1	Un grupo de abejas se llama ¿qué?	Conga	Celebracion	Familia	Enjámbre
+0DIF17	Animales	1	¿Cuántas patas tiene un cangrejo?	4	7	29	10
+4724	Animales	1	¿Cuál de estos es un animal acuático juguetón?	Oso	Avispa	Libélula	Nutria
+180936	Animales	1	¿Cómo se conoce a un pequeño roedor de América del Norte?	Tortuga del desierto	Codorniz	Peces linterna	Rata canguro
+180950	Animales	1	¿Cuál de estos dinosaurios era carnívoro?	Estegosaurio	Allosaurus	Corythosaurus	Tirano-saurio Rex
+1DIF05	Animales	1	¿Cuál es más parecido a un perrito de las praderas?	Coyote	Lobo	Ciervo	Ardilla de tierra
+FTUXPIC06	Animales	1	Este pájaro carroñero se llama ¿qué?	Búho	Águila	Halcón	Buitre
+0DIF19	Animales	1	¿Cuál de los siguientes no es nocturno?	Zorrillo	Leopardo	Tigre	Oveja
+12112	Animales	1	¿Cuál de los siguientes es un mamífero?	Cosechador	Pájaro carpintero velloso	Buho Nevado	Yak
+6051	Animales	1	¿Qué especie es un mono del viejo mundo grande y de colores brillantes?	Abeja	Buho Nevado	Saltamontes	Mandril
+180941	Animales	1	¿Cuál de estos animales es un perro?	Geco	Jaguar	Calicó	Akita
+217037	Animales	1	¿Qué animal se considera el primer no humano en adquirir el lenguaje humano?	Caballo	Gato	Delfín	Chimpancé
+1DIF15	Animales	1	¿El bisonte está más estrechamente relacionado con qué animal?	Elefante	Alce	León de montaña	Búfalo
+180918	Animales	1	¿Por qué no debería darle chocolate a un perro?	Arruinará su sentido del olfato	Le dará gusanos	Le hará engordar	Contiene una sustancia química dañina
+1DIF30	Animales	1	¿Cuál no es una característica de un rinoceronte?	Cuerno puntiagudo	Piel con forma de armadura	Más grande que una minivan	Cola en forma de látigo
+1DIF21	Animales	1	¿Los perros son huéspedes comunes de qué insectos?	Escarabajos	Mantis	Mariquitas	Pulgas
+FTUXPIC14	Animales	1	¿Qué es este animal, también relacionado con los camellos?	Caballo	Cebra	Camello	Llama
+FTUXPIC17	Animales	1	¿Qué es este gato nocturno?	León	Leopardo	Casa de Gato	Ocelote
+49734	Animales	1	¿Cuál de estos es un animal enorme de África o Asia que tiene una o dos púas en forma de cuerno?	Geco	Pingüino emperador	Kakapo	Rinoceronte
+1DIF20	Animales	1	¿Qué pez nada contra la corriente?	Rape	Róbalo	Carpa	Salmón
+FTUXPIC27	Animales	1	¿Qué es este marsupial nocturno?	Chinchilla	Murciélago	Lémur	Planeador del azúcar
+1DIF28	Animales	1	¿Qué significa cuando un animal es de sangre fría?	No pueden sobrevivir en climas cálidos.	Ellos no son cariñosos	Ellos prefieren zonas más frías	No pueden regular su propia temperatura
+180917	Animales	1	¿Cuál de los siguientes es un pez?	Pollo	Tuátara	Correcaminos	Gobio
+2489	Animales	1	¿Qué animal de cuatro patas vive en el norte?	Camello	Tigre	Lirón	Reno
+1DIF25	Animales	1	¿Cuál de los siguientes no es un primate?	Babuino	Macaco	Lémur	Perezoso
+180910	Animales	1	¿Una "manada" es un grupo de cuál de estos animales?	Pez payaso	Tortugas del desierto	Pingüinos de penacho amarillo	Leones
+1DIF19	Animales	1	¿Qué pájaro es un carroñero?	Águila	Pollo	Paloma	Buitre
+180925	Animales	1	¿Qué parte del cuerpo de un elefante tiene más músculos?	Piernas	Cuello	Mandíbula	Trompa
+0DIF15	Animales	1	¿Un "desfile" es un grupo de qué?	Tiburones	Pescado	Perros	Elefantes
+1DIF27	Animales	1	¿Cuál es la especie de ave más común del mundo?	Kiwi	Cóndor	Águila	Pollo
+180975	Animales	2	¿Qué discapacidad tiene una ardilla?	Sordera	Falta de olor	Ceguera	Daltónico
+391464	Animales	2	¿Cómo llamarías a un insectívoro del tamaño de un pollo de Nueva Zelanda?	Alce	Salmón	Gibón	Kiwi
+47673	Animales	2	¿Qué especie encaja mejor con esta descripción, "peces grandes de agua dulce de América del Norte que nadan rápidamente"?	Guppy	Manta raya	Barracuda	Trucha de lago
+57174	Animales	2	En la famosa historia del Dr. Seuss, ¿cómo se llamaba la tortuga?	Speedy	Tommy	Shelley	Yertle
+37146	Animales	2	¿Cómo se llama un animal nocturno parecido a una jirafa de las selvas tropicales africanas?	Orix	Monstruo Gila	Suricata	Okapi
+47153	Animales	2	¿Cuántos brazos tiene un calamar?	12	4	8	10
+483814	Animales	2	¿Qué criatura hace su propia comida?	Parásito	Mariposa	Platija	Abeja
+250866	Animales	2	¿Qué animal tiene el metabolismo más lento?	Serpiente	Hipopótamo	Elefante	Ballena
+180913	Animales	2	¿Qué raza de perro fue criada para perseguir ratas?	Setter Irlandés	Doguillo	Newfoundland	Terrier Escocés
+73016	Animales	2	¿Qué insecto era sagrado en el Antiguo Egipto?	Grillo	Abeja	Araña viuda negro	Escarabajo
+65962	Animales	2	¿Cuál de estos animales no es un anfibio?	Rana	Sapo	Salamandra	Serpiente
+88281	Animales	2	¿Qué tan rápido puede correr un búfalo?	12 Millas por hora	350 Millas por hora	10 Millas por hora	35 Millas por hora
+103915	Animales	2	¿Qué raza de perro se parece mucho a un Sheltie?	Cocker	Dálmata	Caniche	Collie
+4822	Animales	2	¿Cuál de los siguientes animales es nocturno?	Babuino sagrado	Ballena jorobada	Elefante marino	Armadillo de nueve bandas
+328151	Animales	2	¿Qué insectos de cuerpo blando a menudo se llaman "hormigas blancas"?	Cucarachas	Tijeretas	Cigarras	Termitas
+103998	Animales	2	¿Qué hace la mantis religiosa femenina con su pareja durante el apareamiento?	Exprimiéndolo hasta la muerte	Licuarlo	Paralizándolo	Mordiendo su cabeza
+77420	Animales	2	¿Cómo se clasifica un tapir?	Pájaro	Pescado	Insecto	Mamífero
+181521	Animales	2	¿Qué insecto puede fingir una explosión corporal para disuadir a sus enemigos?	Araña Balor	Escarabajo de la lira	Termita Nasute	Escarabajo bombardero
+395959	Animales	2	Una aquamala es una criatura marina más conocida con qué otro nombre.	Leviatán	Langosta	Estrella de mar	Medusa
+66040	Animales	2	¿De qué color es un Bichon Frise?	Bronceado	Rojo y dorado	Negro	Blanco
+22303	Animales	2	¿Qué criaturas vinieron después a la tierra después de los peces?	Mamíferos	Criaturas voladoras	Insectos	Anfibios
+4817	Animales	2	¿Cómo llamarías a un animal con una cabeza enorme y una boca arqueada?	Angelote	Cisne negro	Ganso de nieve	Ballena franca
+180931	Animales	2	¿Qué vegetal no debes alimentar a un perro?	Patatas	Chícharos	Zanahorias	Cebollas
+43627	Animales	2	¿Cuál es la clasificación de un mandril?	Reptil	Pájaro	Arácnido	Mamífero
+49728	Animales	2	¿Qué raza de perro generalmente se considera la más pequeña?	Papillon	Poodle de juguete	Doguillo	Chihuahua
+391386	Animales	2	¿Cuál de estas opciones es un mamífero?	Pavo real	Alondra occidental	Búho manchado	Zorro
+31349	Animales	2	¿Cuál de estos animales está genéticamente más cercano a los humanos?	Gibón	Ballena azul	Gorila de las tierras bajas	Chimpancé
+4816	Animales	2	¿Qué tiene dos pares de alas y mandíbulas fuertes?	Emú	Escorpión	Pingüino	Avispa
+85160	Animales	2	¿El macho de qué insecto principalmente nocturno produce un sonido fuerte, rítmico y chirriante?	Libélula	Tijereta	Mantis	Grillo
+181078	Animales	2	¿Qué tipo de animal es un casuario?	Reptil	Mamífero	Pescado	Pájaro
+228322	Animales	2	¿Por qué los castores roen, mastican y pican casi todo el tiempo?	Energía nerviosa	Para matar parásitos	Por comida	Los dientes delanteros nunca dejan de crecer
+180744	Animales	2	¿Qué animal está en el emblema de Gran Bretaña?	Erizo	Zorro	Águila	León
+527804	Animales	2	¿Qué insecto de cuerpo largo y de vuelo rápido tiene dos pares de alas grandes y transparentes?	Cucaracha	Saltamontes	Cigarra	Libélula
+49975	Animales	2	¿Cuál de los siguientes no es miembro de la familia de los moluscos?	Almeja	Ostra	Mejillón	Langosta
+180909	Animales	2	¿Cuál de estos puede oler una gota de sangre en un millón de galones de agua?	Sanguijuela	Cocodrilo	Piraña	Tiburón
+48993	Animales	2	¿Quién hace el ruido más fuerte de un ser vivo?	Humanos	Loros	Gorilas	Ballenas jorobadas
+42075	Animales	2	¿Qué animal macho no se conoce como "gamo"?	Conejo	Ciervo	Cabra	Caballo
+49162	Animales	2	De estas opciones, ¿cuál es un mamífero?	Hormiga	Cardenal norteño	Quetzal	Dromedario
+47030	Animales	2	¿Qué color no es reconocido para un Labrador Retriever por el AKC?	Amarillo	Chocolate	Negro	Dorado
+256634	Animales	2	¿Cuál es el término científico para un animal que camina sobre dos patas?	Binario	Bígamo	Bilateral	Bípedo
+2571	Animales	2	¿Cuál es la serpiente más pesada?	Pitón reticulado	Pitón Indio	Boa	Anaconda
+4716	Animales	2	¿Qué come un buey?	Sándwiches de atún	Regaliz	Carne cruda	Plantas
+381814	Animales	2	¿Qué puede producir una descarga de hasta 650 voltios?	Estático	Rayo	C batería	Anguila eléctrica
+48865	Animales	2	¿Qué característica tiene un gato en común con los tiburones?	Pelaje	Garras	Dos filas de dientes	Un tercer párpado
+483816	Animales	2	¿Cuál es la clasificación de un orix?	Pescado	Pájaro	Insecto	Mamífero
+4727	Animales	2	¿Qué tipo de frecuencias usan los murciélagos para su radar?	Supersónico	Infrasónico	Sónico	Ultrasónico
+13828	Animales	2	¿Qué perro es originario de Escocia?	Perro lobo Ruso	Perro de montaña de Bernese	Perro lobo Irlandés	Collie
+228503	Animales	2	¿Cómo se clasifica un ocelote?	Insecto	Pescado	Pájaro	Mamífero
+391384	Animales	2	¿Qué insecto tiene una cabeza triangular, ojos grandes y patas delanteras con púas plegables?	Cucaracha	Saltamontes	Libélula	Mantis
+4744	Animales	2	¿Un loris se clasifica como cuál de estos?	Pescado	Reptil	Pájaro	Mamífero
+47388	Animales	2	¿Cómo se llama la pieza de metal en una brida que se mete en la boca del caballo?	Brida	Sillín	Circunferencia	Bocado
+228375	Animales	2	¿Qué criatura marina tiene un ojo del tamaño de una pelota de baloncesto?	La ballena jorobada	El gran tiburón blanco	Un manatí	El calamar gigante
+49736	Animales	2	¿Cuál es el roedor más grande de América del Norte?	La rata Noruega	El hurón	La zarigüeya	El castor
+75608	Animales	2	¿Cuál de los siguientes animales no es legal tener como mascota en la mayoría de los estados?	Hurón	Chinchilla	Zarigüeya	Zorrillo
+50228	Animales	2	¿Dónde viven las ratas?	En cuevas	En Túneles	En árboles	Dondequiera que la gente lo haga
+77854	Animales	2	¿Qué raza de perro es la única raza estadounidense real?	Sabueso	Collie	Pitbull	Boston terrier y catahoula
+483826	Animales	2	¿Cómo se clasifica un Zorrilla?	Pescado	Pájaro	Reptil	Mamífero
+39385	Animales	2	¿Qué animal no puede volar?	Cigüeña	Murciélago abejorro	Mirlo de alas rojas	Ardilla voladora
+23866	Animales	2	¿Qué animal tiene los ojos más grandes?	Un caballo	Un perro	Un elefante	Un calamar
+180647	Animales	2	¿Cómo se llama la raza de perro cuyo pelaje crece en cordones especiales?	Pastor Alemán	Border Collie	Husky Siberiano	Puli
+6078	Animales	2	¿Cómo se llama un cachorro de león marino?	Carro pesado	Becerro	Gatito	Cachorro
+282574	Animales	2	¿Cuál es el período de gestación típico de los perros?	21 Dias	180 Dias	365 Dias	63 Dias
+180943	Animales	2	¿A qué raza de perro se parece más el Whippet?	Collie	Otterhound	Sabueso Afgano	Galgo
+527803	Animales	2	¿A qué grupo de insectos se le llama enjambre, molienda o colmena?	Moscas	Avispas	Hormigas	Abejas
+48299	Animales	2	¿Cómo se llama un grupo de ballenas?	Banco	Correr	Waller	Vaina
+49164	Animales	2	¿Cuál de estos es un antílope de cuernos largos de las zonas secas de África y Asia?	Buitre	Caimán de anteojos	Mantis religiosa	Orix
+180949	Animales	2	¿Qué par de especies animales y clase es la correcta?	Cardenal norteño - Reptil	Pez ángel - Pájaro	Monstruo de Gila - Pez	Dromedario - Mamífero
+73660	Animales	2	¿Cuál de los siguientes no es miembro de la familia canina?	Chacales	Zorros	Perros	Glotón
+483812	Animales	2	¿Cuál no es una serpiente venenosa?	Coral	Traqueteo	Cobra	Rey
+232755	Animales	2	¿Qué especie se encuentra frente a las costas del sur de África?	Lobo rojo	Elefante marino del norte	Panda rojo	Pingüino Africano
+49743	Animales	2	¿A qué animal se le suele llamar "papá patas largas"?	Oso hormiguero	Quetzal	Rata canguro	Araña cosechadora
+381774	Animales	2	¿Cómo se llamaba el legendario buey azul de Paul Bunyan?	Sky	Bluebird	Oswald	Babe
+49732	Animales	2	¿Qué mamífero macho tiene una espiga venenosa que sobresale de su pata trasera?	Coala	Perezoso	Puerco espín	Ornitorrinco
+96289	Animales	2	¿Qué tipo de animal es un charrán ártico?	Mamífero	Insecto	Anfibio	Pájaro
+50227	Animales	2	¿Cuánto miden aproximadamente los canguros bebés en el momento del nacimiento?	18 pulgadas	Cuatro pies	Dos pies	Una pulgada
+73658	Animales	2	¿Qué tiburón considera la Sociedad Nacional de Tiburones más peligroso?	Tiburón toro	Cazón	Tiburón tigre	Gran tiburón blanco
+46990	Animales	2	¿Qué combinación de serpientes es la más mortífera del mundo?	Rey Cobra / Serpiente Tigre	Rey Cobra / Krait común	Mamba Verde / Mamba Negra	Taipan / Mamba Negra
+95763	Animales	2	Una ballena asesina no es realmente una ballena; ¿qué clase de animal es?	Foca	Tiburón	Marsopa	Delfín
+94890	Animales	2	¿Qué perro tiene la mejor habilidad de rastreo?	El golden retriever	El caniche	El Patterdale terrier	El Sabueso
+88340	Animales	2	¿Cuántos gatitos puede tener una gata productiva en su vida?	Cerca de 25 gatitos	Cerca de 50 gatitos	Cerca de 16 gatitos	Más de 100 gatitos
+17860	Animales	2	¿Cuál de los siguientes es un animal con pezuñas que se ha adaptado a la vida del desierto?	Kiwi	Mula	Kakapo	Burro
+13846	Animales	2	¿Cómo se escribe correctamente la sustancia de la que está hecho el cuerno de un rinoceronte?	Bordilla	Buerdillio	Bordil	Bordillo
+46914	Animales	2	¿Cuál de los siguientes también se conoce como el "perro mariposa"?	Collie	Yorkshire Terrier	Chihuahua	Papillon
+4793	Animales	2	¿Cuál de estas razas de perros se originó en China?	Labrador chocolate	Caniche	Malamute	Shih Tzu
+214458	Animales	2	¿Qué tipo de animal es el dhole?	Topo	Elefante Indio	Mapache	Perro salvaje
+181110	Animales	2	¿Qué tipo de animal es un lorito arcoíris?	Pescado	Mamífero	Serpiente	Pájaro
+49735	Animales	2	¿Cuál es el oso más grande de América del Norte?	El oso grizzly	El oso polar	El oso negro	El oso kodiak
+327481	Animales	2	¿Dónde se pueden encontrar los lémures?	El sudeste de Asia	África	Sudamerica	Madagascar
+228504	Animales	2	¿Qué especie encaja mejor con esta descripción, "puede deslizarse en tierra, trepar a los árboles y nadar en el agua"?	Mono aullador	Perezoso	Tritón	Rey Cobra
+180974	Animales	2	¿Cuál es la araña que se mueve más rápido del mundo?	Tarantula	Tipula	Viuda negra	Araña solar
+4721	Animales	2	¿Para qué usan las abejas la miel?	Para que los drones coman	Para que los humanos coman	Como protección para la abeja reina	Para proporcionar nutrientes a las larvas eclosionadas
+98557	Animales	2	¿Cuál es el tiburón más grande del mundo?	El tiburon azul	El gran tiburón blanco	El tiburón tigre	El tiburon ballena
+483810	Animales	2	¿Cuál es el insecto que se mueve más rápido del mundo?	Weedle Japonés	Mariquita	Skimmer de piscina	Libélula
+282567	Animales	2	¿Por qué las serpientes de cascabel juveniles son más peligrosas que los adultos más grandes?	Más veneno mortal	Se aferra a la víctima por más tiempo	Huelga sin previo aviso	No se puede calcular el veneno apropiado
+47672	Animales	2	¿Qué animal está clasificado como el único marsupial en los Estados Unidos?	Mapache	Alca	Zorille	Zarigüeyas
+48632	Animales	2	¿Qué grupo de animales no se llama manada?	Cabras	Vacas	Elefantes	Gansos
+102793	Animales	2	Principalmente, ¿de qué color es un samoyedo?	Negro	Grisáceo	Gris y blanco	Blanco
+228368	Animales	2	¿Qué animal tiene una lengua dos veces más larga que su cuerpo?	Dragon de Komodo	Rana mugidora	Escinco	Camaleón
+180962	Animales	2	¿Cuál es el nombre que se le da al más grande de todos los pingüinos?	Barón	Rey	Real	Emperador
+483823	Animales	2	¿Qué tipo de ave acuática tiene el mayor número de vértebras en su cuello?	Garza azul	Pato Mallard	Ganso canadiense	Cisne
+4825	Animales	2	¿Qué insecto tiene un par de pinzas en forma de fórceps en la parte posterior del abdomen?	Libélula	Cigarra	Mantis	Tijereta
+4814	Animales	2	¿Cuáles son los nombres de los únicos dos mamíferos que ponen huevos que existen?	Ballena azul y tortuga	Emú y coala	Ornitorrinco y Bilby	Equidna y ornitorrinco
+46917	Animales	2	¿Qué tipo de caballo recibe el nombre de la palabra española que significa "pintado"?	Toyota	Mustang	Palomino	Pinto
+6082	Animales	2	¿Qué criatura marina a veces expulsa todo su sistema digestivo para evadir a los atacantes?	Anguila electrica	Anémona de espinas moradas	caballo de mar	Pepino de mar
+180966	Animales	2	¿Qué perro tiene el pelo largo?	Perro perdiguero de labrador amarillo	Beagle	Sabueso de Doonesbury	Sabueso Afgano
+180912	Animales	2	¿Cuáles son los insectos más peligrosos?	Halcones tarántula	Escarabajos Bombardier	Cucarachas silbantes	Mosquitos
+181183	Animales	2	¿Qué criatura arroja sangre de sus ojos a sus atacantes?	Escinco	Tritón de ojos rojos	Olla apestosa	Sapo cornudo
+328160	Animales	2	¿El gris, el azul, la cabeza arqueada y el finback son variedades de qué?	Conchas marinas	Perros	Tiburones	Ballenas
+181452	Animales	2	¿Cómo se conoce al animal acuático aerodinámico de América del Norte?	Murrelet jaspeado	Avispa	Gran tiburón blanco	Nutria de río
+43893	Animales	2	¿Cómo se llaman las casas de los conejos europeos?	Madrigueras	Colonias	Vainas	Conejeras
+180946	Animales	2	¿A qué perro se le suele cortar la cola?	Perro tejonero	Collie	Perro perdiguero de oro	Cocker Spaniel
+4725	Animales	2	¿Qué raza de perro es conocida por la forma divertida en que usa sus patas delanteras?	Maltés	Tervuren Belga	Terrier de pelo de alambre	Bóxer
+24173	Animales	2	¿Cuál de estos animales es un tipo feroz de comadreja que vive en zonas frías?	Ñandú común	Chorlito Dorado Americano	Luciérnaga	Glotón
+77467	Animales	3	¿Qué dinosaurio descubrió O.C. Marsh en 1871?	Triceratops	Braquiópodo	Arqueoptérix	Pterodáctilo
+4792	Animales	3	¿A cuántas millas por hora se ha registrado un guepardo?	40	46	90	70
+46918	Animales	3	¿Qué reina introdujo la raza Pomerania en Inglaterra?	Reina Victoria	Reina Elizabeth I	Reina Mary	Reina Charlotte
+180930	Animales	3	¿Cuántas etapas hay en la vida de un mosquito?	6	10	1	4
+89422	Animales	3	¿Qué tipo de árbol suele utilizar el pájaro secretario para hacer sus nidos?	Baobab	Marula	Espina de paraguas	Acacia
+4823	Animales	3	¿Cuál de estas aves pone la mayor nidada de huevos?	Martín pescador	Cuco	Golondrina Arctica	Perdiz gris
+48302	Animales	3	¿Cuál de los siguientes perros no está criado para la velocidad?	Whippet	Galgo	Saluki	Husky Siberiano
+381813	Animales	3	¿Qué órgano le falta un ciervo?	Páncreas	Hígado	Intestino delgado	Vesícula biliar
+4752	Animales	3	¿Cuál de estos animales guarda comida para otra hora?	Pájaro	Rana	Lagartija	Leopardo
+282702	Animales	3	¿Qué animal ha tenido dos películas familiares sobre él, una en 1993 y una secuela en 1995?	Lassie	Flipper	El oso Smokey	Keiko
+6048	Animales	3	¿Cómo se conoce a un ciervo con astas de doce puntas?	Barón	Duque	Embajador	Real
+73657	Animales	3	¿Qué primate, de las montañas de Japón, se mantiene caliente en invierno bañándose en manantiales volcánicos calientes?	Bonobos	Lémur	Orangután	Macaco
+244995	Animales	3	¿Cuál de estos animales no es un llamoide?	Vicuña	Guanaco	Llama	Camello
+48306	Animales	3	¿Qué gato montés solían tener como mascota los indios de los bosques de América del Sur?	Gato montés	Todas estas opciones	Lince	Ocelote
+180960	Animales	3	¿Qué criatura puede usar un ojo para cazar y el otro ojo para buscar depredadores?	Rana de árbol	Tegu	Bilby	Camaleón
+91488	Animales	3	¿Los cuernos de un orix pueden medir hasta cuántas pulgadas de largo?	20	10	40	30
+232996	Animales	3	¿Cómo se llama la piel que cuelga del cuello de un pavo?	El necking	El molleja	El menudillo	El zarzo
+4820	Animales	3	¿Qué nombre de raza de perro significa perro de juguete rizado?	Cockapoo	Caniche	Shiatsu	Bichon Frise
+13843	Animales	3	¿Qué mamífero Australiano traga grandes cantidades de tierra con su comida?	Wallaby	Coala	Canguro	Bilby
+67814	Animales	3	¿Los colmillos de un elefante Africano se forman a partir de un segundo juego de qué tipo de diente?	Molar	Bicúspide	Canina	Incisivo
+214459	Animales	3	¿Cuál de estos animales puede durar más sin agua?	Llama	Camello	Serpiente de cascabel	Ratón
+244987	Animales	3	¿Qué raza de perro tiene 2 tipos, uno llamado sin pelo y el otro Powderpuff?	Perro tejonero	Mexicano sin pelo	Corgi	Crestado Chino
+385288	Animales	3	¿A qué familia de mamíferos pertenece el quokka?	Mangosta	Ciervo	Mono	Wallaby
+46919	Animales	3	¿Qué se conoce como "fugu" para los Japoneses?	Salmón	Langosta	Atún de vientre graso	Pez globo
+391467	Animales	3	¿Qué es un Schipperke?	Golosinas caseras para perros	Una caseta de madera de Suecia	Un perro esquimal completamente blanco	Un perrito negro sin cola
+13847	Animales	3	¿Cuál es la característica distintiva de un gato Manx?	Abrigo rizado	Orejas dobladas	Garras perdidas	Cola corta o faltante
+282845	Animales	3	¿Qué miembro de la familia de los gatos no puede retraer sus garras?	Jaguar	Tigre Siberiano	Leopardo	Leopardo cazador
+232749	Animales	3	El tapir está relacionado con el caballo y ¿qué otro animal?	Cerdo	Jabalí	Hipopótamo	Rinoceronte
+395957	Animales	3	¿Qué característica es la más común en los dálmatas?	Albinismo	Dedos extra	Ceguera	Sordera
+79723	Animales	3	¿Cuál es el pájaro del estado de Indiana?	Pinzón amarillo	Gorrión	Robin de pecho rojo	Cardenal
+195394	Animales	3	¿Cuántos días viven las hormigas en promedio?	365	180	12	60
+4736	Animales	3	¿Qué serpiente se dará la vuelta y fingirá una muerte espantosa para confundir a su atacante?	Víbora europea	Serpiente de maíz	Serpiente loro	Nariz de cerdo oriental
+73663	Animales	3	¿Cuántas variedades de Scotch Collie hay?	6	3	1	2
+228282	Animales	3	¿Cuánta agua puede contener la trompa de un elefante?	1 Galón	120 Galones	2 Galones	4 Galones
+4826	Animales	3	¿Cuál es otro nombre común del mocasín de agua?	El diablo de agua	No hay otra	La serpiente de leche	La boca de algodón
+527806	Animales	3	¿El halcón de cola roja promedio tiene una envergadura de hasta cuántas pulgadas?	12	90	84	48
+22307	Animales	3	¿Qué característica inusual tiene un gato polidactilo?	Sin espolones	Labios de gran tamaño	Demasiados dientes	Dedos extra
+483824	Animales	3	¿Cuántos dientes suele tener un gato adulto?	18	46	22	30
+54351	Animales	3	¿Cómo se llama un grupo familiar de jabalíes?	Sinvergüenza	Mazo	Platija	Sonido
+4738	Animales	3	¿El Mustang desciende originalmente de caballos traídos a América del Norte desde qué país?	Italia	Inglaterra	Francia	España
+49028	Animales	3	¿Qué animal tiene el sistema digestivo de un carnívoro, pero en realidad es vegetariano?	Orangután	Coala	Ocelote	Panda
+4818	Animales	3	¿Cuál es el canguro más grande?	Wallaroo	Canguro azul ahumado	Canguro gris	Canguro rojo
+88078	Animales	3	¿En qué consiste la comida principal del kiwi?	Polillas e insectos nocturnos	Las deliciosas hojas exteriores del árbol de la col	Bayas caídas de los árboles Karaka	Larvas y gusanos
+48997	Animales	3	¿Cuánto tiempo vive una mosca doméstica común?	Aproximadamente 3 días	Aproximadamente 1 día	Aproximadamente 104 días	Aproximadamente 14 días
+228367	Animales	3	¿De qué colores son los perros boyeros australianos?	En blanco y negro	Negro y azul	Marrón y negro	Azul y rojo
+282609	Animales	3	La palabra "gacela" se deriva de una palabra en qué idioma?	Swahili	Griego	Farsi	Arábica
+4813	Animales	3	¿Cuántos ojos tiene una abeja?	2	4	8	5
+70191	Animales	3	¿Cómo se conocen los cangrejos machos?	Sooks	Dickies	Bobbies	Jimmies
+527808	Animales	3	¿Qué mamífero tiene el período de gestación más corto?	Cavy	Hámster	Conejo	Zarigüeya
+47028	Animales	3	¿Qué insecto tiene un órgano auditivo en una de las venas de sus alas que le permite escuchar el chillido de los murciélagos?	Tábano	Polilla de halcón	Libélula	Mariposa Lacewing
+181163	Animales	3	¿Cuánto tiempo puede vivir una termita reina?	5 meses	10 años	4 semanas	50 años
+201884	Animales	3	¿Cuál de las siguientes especies está clasificada como en peligro crítico?	Dugong	Zorro Afgano	Cerdo hormiguero	Foca monje del Mediterráneo
+14025	Animales	3	¿Cuál es el más sociable de todos los gatos?	Leopardo cazador	Pantera	Leopardo	León
+57180	Animales	3	¿Cuál de estos tiene más dientes?	El Tigre	El Oso	La Musaraña	La Zarigüeya
+282566	Animales	3	¿Cómo oye un grillo?	Con sus orejas	Con su antena	A través de su cola	A través de sus rodillas
+47035	Animales	3	¿Qué es un Canis Lupus?	Zorro Artico	Coyote	Dingo	Lobo gris
+180914	Animales	3	¿Cómo se conoce a un cisne joven?	Polluela	Bebé	Swannee	Pollo del cisne
+95762	Animales	3	¿Cuál es la temperatura corporal normal de un perro en grados Fahrenheit?	97	98.6	104	101
+6059	Animales	3	¿Cuál de los siguientes es perro mono en Alemán?	Bichon Frise	Schipperke	Brussels Griffon	Affenpinscher
+180648	Animales	3	¿Cuál es el segundo mamífero terrestre más pesado?	Oso Kodiak	Elefante	Hipopótamo	Rinoceronte
+483918	Animales	3	¿Cuál es la especie de ciervo más pequeña?	Barbecho	Muntjac	Chital	Pudu
+32886	Animales	3	¿Qué animal, como los humanos, llora lágrimas cuando está angustiado?	Lemúrido	Dragon de Komodo	Cocodrilo	Elefantes
+87797	Animales	3	¿Qué apodo tiene el Monk Fish?	Camarón Español	Abbey Roe	Nadador silencioso	La langosta del pobre
+4778	Animales	3	¿A qué edad son las morsas sexualmente maduras?	1 a 2 años	10 a 13 años	9 a 10 años	5 a 6 años
+181208	Animales	3	¿Cuál de los siguientes es un monotrema?	Rey Cobra	Hiena	Caribú	Ornitorrinco
+63954	Animales	3	¿Cuál es la temperatura corporal normal de una oveja en grados Fahrenheit?	110	98.6	85	102
+62993	Animales	3	¿Los canguros viven en un qué?	Escuela	Colonia	Manada	Multitud
+36255	Animales	3	¿Qué especie describe mejor un "carnívoro de América del Sur y Central"?	Orca	Emú	Junco	Caimán de anteojos
+47037	Animales	3	¿Qué raza llamaron los ingleses a un perro entrenador?	Collie	Aguilucho	Galgo	Dálmata
+4732	Animales	3	¿Cuál de estos perros parece un cordero?	El Bouvier des Flandres	El Pastor de Picardía	El Airedale Terrier	El Bedlington Terrier
+181119	Animales	3	¿Cuál de estos no es un nombre común para Litoria Caeruliae?	Rana arborícola rechoncha	Rana arborícola de White	Rana arborícola verde Australiana	Rana arborícola de labios blancos
+195392	Animales	3	Además de la jirafa, ¿qué especie es el único miembro de la familia Giraffidae?	Camello	Tapir	Gacela	Okapi
+194611	Animales	3	¿Con qué apodo se conoce a la avispa Pepsis?	Muerte silenciosa	Avispa tábano	La avispa gigante	Asesino de tarántula
+214394	Animales	3	¿Qué marsupial australiano se confunde a menudo con un mono?	Bilby	Coala	Baalok	Cuscús
+244948	Animales	3	¿Cuál es la vida útil aproximada promedio de un oso pardo?	40 años	5 años	12 años	25 años
+69905	Animales	3	¿A qué color de leopardo se le llama melanístico?	Blanco	Gris	Rojo	Negro
+47674	Animales	3	¿Qué raza de perro es la más alta conocida?	Terranova	Borzoi	Perro lobo Ruso	Perro lobo Irlandés
+228410	Animales	3	¿Qué tipo de animal es un chukar?	Pescado	Reptil	Anfibio	Pájaro
+14295	Animales	3	¿Cuál de los siguientes no es una especie de manatí sobreviviente?	Indio occidental	Africano	Amazónico	Pacífico
+180952	Animales	3	¿Qué nombre común tienen los animales de América del Sur del género Pseudalopex?	Pingüino	Halcón peregrino	Azulejo oriental	Zorro
+180969	Animales	3	¿Cómo encuentran el salmón el camino de regreso a su río de origen para desovar cada año?	Sonido del río	El salmón desovará en cualquier río	Ellos siempre se quedan cerca de ello	Olor del río
+87213	Animales	3	¿De qué colores son los Boston Terriers?	Negro y bronceado	Bronceado sólido	Negro sólido	Blanco y negro
+49032	Animales	3	¿Qué tipo de perro es Chance de la película "Homeward Bound"?	Mastín toro	Caniche	Mezcla Pit-Bull	Bulldog Americano
+214389	Animales	3	¿Cuál es otro nombre para las manchas de un leopardo?	Manchas	Zills	Tiffs	Rosetas
+4821	Animales	3	¿Cuál de estos seres vivos ha sido llamado "fósil viviente"?	Araña	Cangrejo de caparazón blando	Cardo	Ginkgo
+181225	Animales	3	¿Cuál es el pez más rápido del mar?	Pez payaso	Ballena	Tiburón	Pez vela
+13836	Animales	3	¿Cuántos pies puede lanzar un puercoespín con sus púas?	300 pies	20 pies	40 pies	0 pies
+48998	Animales	3	¿Qué grupo de mamíferos pone huevos?	Minortrates	Placentarios	Marsupiales	Monotremas
+48305	Animales	3	¿Qué tipo de animal es un Nebelung?	Un gato Persa negro	Un gato gris del bosque Noruego	Un gato Chartreux negro	Un gato azul Ruso de pelo largo
+282710	Animales	3	¿Cuál de los siguientes gatos fue creado en 1985 por Carol Anne Brewer?	Punto de color de pelo corto	Furgoneta Turca	Siamés	Pixie Bob
+31198	Animales	3	¿Qué animal no se apareará de por vida?	Pingüino	Lobo	Paloma	Canguro
+6095	Animales	3	¿Qué serpiente tiene los colmillos más largos?	Taipan Australiano	Mamba negro	Cobra	Víbora de Gabón
+4812	Animales	3	¿Qué dos razas de gatos se cruzaron originalmente para crear la raza Tonkinese?	Siamés y Abisinio	Siamés y Himalaya	Birmano y Balinés	Siamés y Birmano
+282579	Animales	3	¿Qué animal tiene un bebé que mide aproximadamente una pulgada de largo y un nombre que significa "no sé"?	Wallaby	Ñandú	Escinco	Canguro
+181162	Animales	3	Al cazar, el halcón peregrino puede divisar a su presa desde qué altura?	500 pies	1,000 pies	2,500 pies	2,000 pies
+13829	Animales	3	¿Qué tipo de rinoceronte es el más grande en promedio?	Negro	Indio	Javan	Blanco
+48308	Animales	3	¿Qué especie de nutria comparte gran parte de su área de distribución con la nutria de cuello manchado?	Nutria de mar	Nutria gigante	Nutria de nariz peluda	Nutria Africana sin garras
+48294	Animales	3	¿Qué tiburón, segundo después del Gran Blanco, es responsable de la mayoría de las muertes humanas?	El tiburón azul	El mako	El tiburón toro	El tiburón tigre
+218444	Animales	3	¿El Binturong viene de qué parte del mundo?	Papúa Nueva Guinea	Borneo	Australia del Sur	El sudeste de Asia
+48491	Animales	3	¿Cómo se llama una gata?	Duquesa	Un ámbar	Una cierva	Una reina
+46354	Animales	3	¿Qué es un punto de presión en los perros?	Los perros no tienen ninguno	Medio del estómago	Sus patas	Puntas de sus orejas
+180855	Animales	3	¿Qué especie de ballena es conocida por cantar canciones largas y complejas?	Ballena gris	Orca	Ballena franca	Ballena jorobada
+48995	Animales	3	¿Cuál es el búho Australiano más pequeño?	El poderoso búho	El búho ladrador	El búho hollín	El búho boobook
+228328	Animales	3	¿Cuál de estos animales se considera el más amenazado en América del Norte?	Lobo gris	Buho Nevado	Ardilla arborícola de patas rojas	Hurón de patas negras
+483822	Animales	3	¿Cómo se llama un grupo de osos?	Pila	Equipo	Orgullo	Manada
+48999	Animales	3	¿Qué guarda un camello en su joroba?	Agua	Comida	Sangre	Grasa corporal
+228411	Animales	3	¿Qué continente es el hogar del zorro fennec?	Asia	Europa	Norteamérica	Africa
+73665	Animales	3	¿Qué es una característica clásica de un gato atigrado?	Cola faltante	Patas grandes	Todos tienen narices negras	Una m en la frente
+194610	Animales	3	¿Qué mamífero tiene menos dientes?	La cabra	El tapir malayo	El carpincho	El Armadillo
+76588	Animales	3	¿Dónde se crió originalmente Lhasa Apsos?	China	Japón	Inglaterra	Tíbet
+391154	Animales	3	¿Cuántas veces por minuto late el corazón de una ballena?	30	12	3	9
+57166	Animales	3	¿Cuántas cámaras tiene un corazón de pez?	4	3	1	2
+218120	Animales	3	¿Cuál es la serpiente más venenosa del mundo?	Mamba negro	Rey Cobra	Víbora de la muerte	El taipán interior o serpiente feroz
+214488	Animales	3	¿En qué país se originó el sabueso?	Francia	Estados Unidos	Alemania	Bélgica
+180940	Animales	3	¿Qué criatura no muerde a la cebra?	Escorpión	Víbora	Tarántula	Mosca Tsetse
+4799	Animales	3	¿Qué es un cachorro de barro?	Rana	Tritón	Lagartija	Salamandra
+46355	Animales	3	¿Qué raza de perro tiene lengua negra?	Chihuahua	Husky	Shih Tzu	Chow Chow
+90798	Animales	3	¿Qué búho es el más raro?	Búho de madera	Lechuza	Chillido búho	Buho Nevado
+391395	Animales	3	¿Qué tipo de animal es un mono marino?	Un renacuajo	Un lémur acuático	Un cangrejo de río en miniatura	Un camarón de agua salada
+483808	Animales	3	¿Qué tipo de pescado es un Rollmop?	Sardina	Trucha	Calamar	Arenque
+483811	Animales	3	¿Cuál es la temperatura corporal normal de un gato en grados Fahrenheit?	103,5 grados	105,5 grados	91,5 grados	101,5 grados
+32887	Animales	3	¿Qué raza de perro se conoce como "El pequeño capitán"?	Poodle de juguete	Crestado Chino	Boston Terrier	Schipperke
+180921	Animales	3	¿Qué determina el sexo de los caimanes recién nacidos?	Precipitaciones anuales	Genética	Edad de los padres	Temperatura del huevo
+63440	Animales	3	¿Qué animal africano es el único mamífero conocido que vive en una colonia y tiene un sistema de castas?	Gato cerval	Orix	Mangosta	Rata topo
+4735	Animales	3	¿En qué país se originó el pastor Australiano?	Inglaterra	Escocia	Irlanda	Estados Unidos
+13844	Animales	3	¿Qué criatura es sorda?	Mofeta manchada	Golondrina Europea	Rana toro Africana	Mariposas
+49723	Animales	3	¿Qué tipo de animal es un klipspringer?	Un ciervo Canadiense	Una cabra Asiática	Una liebre Europea	Un antílope Africano
+391394	Animales	3	¿Cuál de los siguientes tiene orejas erguidas naturalmente?	Boxer	Gran Danés	Doberman Pinscher	Husky Siberiano
+228376	Animales	3	¿En qué partes del mundo viven los murciélagos vampiros?	América del Norte y Canadá	Europa y Asia	África e India	América Central y del Sur
+50230	Animales	3	¿Qué raza de gato tiene el pelo rizado?	El Balinés	The Manx	El Birmano	El Rex
+65832	Animales	3	En "A Través del Espejo", ¿quién caminaba por la playa con la morsa?	El carnicero	El panadero	El candelero	El carpintero
+181172	Animales	3	¿En qué país puedes encontrar una salamandra gigante que puede crecer hasta 5 pies de largo?	Nueva Zelanda	Borneo	India	Japón
+180964	Animales	3	¿La supervivencia de qué animales se hizo famosa por Dian Fossey?	Delfines	Tigres	Ballenas	Gorilas
+180999	Animales	3	¿Qué color les atrae más a las barracudas?	Blanco	Rosa	Verde azulado	Amarillo
+47676	Animales	3	¿Qué tipo de pájaro ves a menudo sentado en el lomo del rinoceronte?	Tit Pendulino	Whydah	Pinzón cebra	Garrapata pájaro
+13837	Animales	3	¿Qué mamífero siempre tiene cuatro crías idénticas del mismo sexo?	Zarigüeya	Zorro	Tejón	Armadillo
+282580	Animales	3	¿Qué tipo de criatura es un caracal?	Perro	Comadreja	Oso hormiguero	Gato
+26598	Animales	3	¿Qué mamífero tiene el pelaje más largo?	Pangolin	Yak	Orangután	Buey almizclero
+214396	Animales	3	¿A cuántos pies del suelo suelen volar los murciélagos vampiro?	20 pies	10 pies	50 pies	3 pies
+4767	Animales	3	¿A qué grupo AKC pertenece un setter Irlandés?	Terrier	Perro de trabajo	Sabueso	Perro deportivo
+4745	Animales	3	¿Qué significa "dachshund" en Alemán?	Raposero	Perro pato	Galgo de Escocia	Perro tejón
+180947	Animales	3	¿Cuándo están abiertos los ojos de los gatitos jóvenes?	Primera semana	Primer Mes	Segundia dia	Dos semanas
+483829	Animales	3	¿Qué puede detectar un elefante a más de 20 kilómetros de distancia?	El sexo opuesto	Humanos	Leones	Fruta madura
+256640	Animales	3	¿Cuál es el enemigo más letal de la tarántula?	Otra tarántula	Escorpión	Serpiente de cascabel	Avispa cazadora de arañas
+395958	Animales	3	¿Qué tipo de gato se conoce como blanco extranjero?	Un Maine Coon Blanco	Un angora turco blanco	Un abisinio blanco	Un siamés blanco
+483815	Animales	3	¿Qué animal es el único que tiene cuatro verdaderas rodillas?	Un leon	Un caballo	Un jabalí	Un elefante
+88539	Animales	3	¿Cuál es el terrier "trabajador" más pequeño?	Terrier de Norfolk	Yorkshire terrier	Terrier de Norwich	Terrier australiano
+47043	Animales	3	¿Cuál es el tipo de caballo más alto?	árabe	Pura sangre	Ponche de Suffolk	Condado
+191988	Animales	3	¿Qué idioma usa "Koko" el gorila para comunicarse?	Inglés	Lenguaje de señas americano (asl)	swahili	Lenguaje de señas de gorila (Gsl)
+87717	Animales	3	¿Qué patrón de color no es aceptable para los Cavalier King Charles Spaniels?	Rubí	Blenheim	Tricolor (tostado, blanco y negro)	Negro
+328163	Animales	3	¿Qué mamífero tiene la mayor diferencia de tamaño relativo entre los sexos?	Morsa	León marino de California	Nutria de mar	Elefante marino
+66140	Animales	3	¿Cómo se conoce comúnmente al loro de mar?	Charrán	Pelícano	Seagull	Frailecillo
+31193	Animales	3	¿Qué subespecie de tigre es la más grande?	japonés	Sumatran	Bengala	siberiano
+213857	Animales	3	¿Cuál de estos animales tiene la presión arterial más alta?	Ratón	Colibrí	Elefante	Jirafa
+214398	Animales	3	¿Qué pequeño animal marino se considera un vínculo entre vertebrados e invertebrados?	Serpiente de mar	Pescado de cinta	Anémona de mar	Lancelet
+31259	Animales	3	¿Cuál era el nombre del mamífero australiano en el programa de televisión de los años 60 que llevaba su nombre?	El Wannabe Wallaby	Ornitorrinco	Kenny, el koala	Skippy, el canguro de Bush
+527810	Animales	3	¿Cuál es el período de gestación de la jirafa?	10 meses	12 meses	20 meses	14 meses
+14306	Animales	3	¿Cuál de los siguientes animales no se encuentra en Australia?	Dingo	Kookaburra	Liebre europea	Rock Hyrax
+181212	Animales	3	¿De qué color es la sangre de una langosta?	rojo	Amarillo	Claro	Azul
+180970	Animales	3	¿Qué leche de animal nunca se cuajará?	Vaca	Cabra	Ardilla	Camello
+22300	Animales	3	¿Qué rinoceronte tiene un solo cuerno?	Rinoceronte blanco	Rinoceronte africano	Rinoceronte negro	Rinoceronte indio
+6063	Animales	3	¿Qué raza de gato es conocida por nadar?	birmano	Pelo corto doméstico	Bengala	Furgoneta turca
+527807	Animales	3	¿El turón rayado del Sahara es miembro de qué familia?	Visones	Martens	Hurones-tejones	Comadrejas
+61679	Animales	3	¿En qué río de China vive una pequeña población de marsopas sin aleta?	Perla	Amarillo	Amur	Yangtze
+213883	Animales	3	¿Cuál de estas es la serpiente más larga del mundo?	Anaconda	Pitón bola	Boa constrictor	Pitón reticulado
+282842	Animales	3	¿El puma es un gato salvaje que comparte su nombre con cuál de estos productos?	Un piano	Una mezcla de pastel	Una loción de manos	Un coche
+46348	Animales	3	¿"Tercel" es el nombre del macho de qué animal?	Sello	Glotón	Colibrí	Halcón
+256638	Animales	3	¿Cuál de las siguientes regiones de África alberga jabalíes?	Gran valle de la grieta	Desierto de Kalahari	Tierras Altas de Etiopía	Montañas del Atlas
+181169	Animales	3	¿Cómo se conoce también a la orca?	Grampan	Grampol	Abuelo	Grampus
+218078	Animales	3	¿Cuál no es una característica única de una raza de perro Lundehund?	Puede cerrar sus oídos	Dedos extra	Articulaciones adicionales	Visión nocturna
+51358	Animales	3	¿La principal diferencia fisiológica entre rayas y mantas es?	Las mantas son vivíparos, los rayos son ovíparos	Los rayos son bivíparos, las mantas son trivíparos	Los rayos son omnívoros, mantas herbívoros	Los rayos son vivíparos, las mantasson ovíparos
+47680	Animales	3	¿Qué ave común de jardín tiene el nombre latino "Troglodytes Troglodytes"?	Alionín	Mirlo	Robin	Reyezuelo
+214401	Animales	3	¿Cuántos estómagos tiene una hormiga?	Uno	Cinco	Cuatro	Dos
+97627	Animales	3	¿Qué parte del cerebro de un tiburón se dedica totalmente a procesar la información olfativa?	Un cuarto	Un tercio	Tres cuartos	Dos tercios
+87893	Animales	3	¿Cuál de los siguientes es un queloniano?	Erizo	Zorro ártico	Puerco espín	Tortuga
+46352	Animales	3	¿Con qué especie está más relacionado el manatí?	Morsa	Caballo	Perro	Elefante
+98387	Animales	3	Cuando es atacado, ¿qué usa el pájaro petrel gigante para defenderse?	Garras	Picotear	Chillidos	Comida regurgitada
+282577	Animales	3	¿Qué porcentaje de su peso corporal come una morsa en un día?	8,6 a 10,5%	10% a 20%	7.5% hasta 9.3%	4.2% al 6.2%
+49170	Animales	3	¿Qué cultura antigua se comía a las hienas?	chino	Español	Esquimales	egipcio
+228312	Animales	3	¿En qué continente encontraría el roedor más grande del mundo?	Asia	Australia	África	Sudamerica
+232754	Animales	3	Aproximadamente, ¿cuántos tipos diferentes de arañas hay?	200	220.000	600	36.000
+46349	Animales	3	¿Qué raza de perros puede vivir más tiempo?	Perro perdiguero de oro	Sabueso	Perro lobo irlandés	Chihuahua
+483825	Animales	3	¿Cuáles de estos grandes felinos se encuentran en los bosques montañosos del este de Rusia?	Leopardo de nieve	Tigre de Bengala	Leopardo longibando	El Leopardo de Amur
+181221	Animales	3	¿Cuántos ojos tienen las arañas errantes?	Doce	Uno	Trescientos	Ocho
+49026	Animales	3	El término "turón" es un nombre inapropiado porque el turón es realmente ¿qué?	Un roedor	Un hermafrodita	Un canino	Una comadreja
+214392	Animales	3	¿Cuál es la estructura de alimentación que se encuentra en los erizos de mar?	El Labrium	Linterna de Arquímedes	La boca	Linterna de Aristóteles
+527809	Animales	3	¿Cuál de estos gatos está más relacionado con el perro?	Puma	Pantera	Puma	leopardo
+50231	Animales	3	¿Qué huesos (izquierdo y derecho) tiene un gato y un humano que no tiene un perro?	Escápula (omóplatos)	Patella (rodilleras)	Huesos de la cadera	Huesos del cuello
+50313	Animales	3	¿Cuál es el animal más rápido de la Tierra?	leopardo	Ballena azul	Leopardo	Vencejo
+527805	Animales	3	¿Cuántas personas puede matar 1 gramo de veneno de cobra real?	5	20	80	150
+31200	Animales	3	¿Cuál de los siguientes es realmente un lagarto?	Sumador	Serpiente de maíz	Boomslang	Serpiente de cristal
+77424	Animales	3	¿Cuál de estas ranas solo puede vivir dentro del Círculo Polar Ártico?	Rana leopardo del norte	Rana toro norteamericana	Rana de visón	Rana de madera norteamericana
+181147	Animales	3	¿Qué nombre colectivo se usa para un grupo de cucarachas?	Nube	Plaga	Enjambre	Intrusión
+387947	Animales	3	¿Cuál es el caballo más pequeño del mundo?	Poni de las américas	Brumby	Cuarto caballo	Fallabella
+180736	Animales	3	¿Cuál de las siguientes razas de caballos viene solo en color negro?	Trakehner	Pura sangre	Cuarto caballo	Frisón
+483818	Animales	3	¿Cómo llamas a un grupo de gansos volando juntos?	Manada	Paquete	Una "V"	Madeja
+180973	Animales	3	¿Qué reptil hembra puede producir huevos 4 años después del apareamiento?	Escinco	Anaconda	Caimán	Tortuga
+282572	Animales	3	¿Qué animal puede vivir más?	Elefante	Humano	Tiburón	Almeja
+180928	Animales	3	¿Cómo se llama la parte suave, triangular y carnosa del interior del casco de un caballo?	Sapo	Único	Amortiguar	Rana
+483819	Animales	3	¿Cuál de estos gatos también se conoce por su nombre científico "Neofelis nebulosa"?	Leopardo de nieve	Margay	Gato cerval	Leopardo longibando
+97196	Animales	3	¿Qué término se usa para un grupo de mosquitos?	Aleteo	Ejército	Colmena	Azotar
+202777	Animales	3	¿A qué se refiere el nombre "lagomorfo"?	Perro	Mono	Tortuga	Conejo
+48996	Animales	3	¿Cuál es el término para un perro macho sin testículo visible?	Monorquídea	Underhot	Molera	Criptorquidia
+48303	Animales	3	¿Cómo se conoce a un camello macho?	Semental	Ciervo	Dólar	Toro
+218751	Animales	3	¿De qué animal proviene el catgut utilizado para la costura quirúrgica?	Vaca	Cerdo	Gato	Oveja
+88567	Animales	3	¿Qué raza de perro se conoce como el "rey de los terriers"?	galés	Corgi	Pelo de alambre	Airedale
+49033	Animales	3	¿Cuál de las siguientes características posee un Dugong?	Extremidades traseras	Aleta dorsal	Aletas pectorales	Extremidades anteriores
+483817	Animales	3	¿Cuál de estos felinos es el más raro de todos los gatos salvajes?	Gato leopardo	Leopardo de nieve	Lince iberico	Gato de la bahía
+4765	Animales	3	¿Por qué la cebra nunca ha sido domesticada y utilizada como un medio habitual para montar?	No tiene suficiente resistencia	No tiene "sentido del caballo"	Muerde y patea fácilmente	La piel se enrolla de lado a lado
+14898	Animales	3	¿Cuál es el defecto genético más común en los Cavalier King Charles Spaniels?	Displasia de cadera	Sordera	Ceguera	Defectos cardíacos congénitos
+49726	Animales	3	¿Cuál es otro nombre para un dhole?	Perro salvaje árabe	Perro salvaje africano	Perro salvaje egipcio	Perro salvaje indio
+483813	Animales	3	¿Cuál de estas serpientes es venenosa?	Serpiente de leche	Pitón bola	Serpiente de maíz	Mocasín de agua
+384663	Animales	3	¿Cuántas especies de tigres se encuentran en el continente africano?	Uno	Dos	Tres	Ninguna
+57486	Animales	3	¿Cuál de los siguientes perros se muda estacionalmente?	Caniche	Yorkie	maltés	Shih Tzu
+483827	Animales	3	¿Cuántos estómagos tienen las vacas?	Cinco	Uno	Dos	Cuatro
+50312	Animales	3	¿De qué pueden pasar los escorpiones un año?	Aire	Dormir	Comida	Movimiento
+70923	Animales	3	¿Qué cabra tiene cuernos que se parecen a los sacacorchos?	Cabra Saanen	Cabra nubia	Cabra de las Montañas Rocosas	Cabra de Suleiman
+78641	Animales	3	¿Qué ave también se conoce como avestruz sudamericano?	Pied Avocet	Grulla de corona roja	Casuario	ñandú
+391466	Animales	3	¿Qué es una bolsa selvática?	Una bolsa que tienen las gatas embarazadas	Donde los perros llevan a sus hijos	Una bolsa que tienen los animales de la selva	Una solapa adicional de piel en gatos
+31207	Animales	3	¿Cuál de las siguientes razas caninas es casi blanco puro?	Shih Tzu	Papillon	Chin japonés	maltés
+483828	Animales	3	¿Con cuántos dientes tienen los elefantes africanos para masticar su comida?	44	19	100	4
+50232	Animales	3	La variedad "cruzada" de zorro rojo toma su nombre de una marca en qué parte del cuerpo?	Cabeza	Flanco	Cola	Hombro

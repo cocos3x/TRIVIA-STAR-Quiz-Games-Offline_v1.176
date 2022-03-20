@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OverlayDialog
+  - RubyBalance
+  - gameUI_donate_button
+  - PlayerCreditsStatView
+  - CoinDestinationParticle
+  - SRDebugButton
+  - background_image
+  - StuckArrow
+  - PreserveInMinigames
+  - Area-WordRegion
+  - SRPauseButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - phys_tail
+  - LineRender Layer
+  - Particle Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Background"
+    uniqueID: 887265133
+    locked: 0
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "Foreground"
+    uniqueID: 2409401001
+    locked: 0
+  - name: "Immediate"
+    uniqueID: 3384533473
+    locked: 0

@@ -1,0 +1,956 @@
+521184	Hockey	0	Which NHL player married musician Carrie Underwood in 2010?	Russel Wilson	Martin St. Louis	Rafael Nadal	Mike Fisher
+0DIFSP170	Hockey	0	Hockey players are stereotypically missing some of which feature?	Hair	Fingers	Toes	Teeth
+0DIFSP258	Hockey	0	During the pre-NHL era, which city was the smallest city (population) to win The Stanley cup?	San Francisco	Los Angeles	Austin	Kenora
+207549	Hockey	0	What year did the Toronto Maple Leafs join the NHL?	1817	2012	2020	1926
+0DIFSP260	Hockey	0	Which of the following is not a real team that participated in the Stanley Cup?	Toronto Maple Leafs	Seattle Metropolitans	Detroit Red Wings	Kentucky Ducklings
+20997	Hockey	0	In 1991, the NHL added which team?	Florida Gators	Ottawa Hawks	Tampa Bay Hamsters	San Jose Sharks
+FTUX201	Hockey	0	How many players participate in NHL overtime, not including goalies?	5-on-5	2-on-2	6-on-6	3-on-3
+FTUX205	Hockey	0	Which NHL player is a forward?	Marc-Andre Fleury	Patrick Roy	Martin Brodeur	Alexander Ovechkin
+6E7054	Hockey	0	Which of these was an actual skills competition at the 2020 NHL All-Star Game?	Most Teeth	Tricky Skate Move	Most Curvy Shot	Fastest Skater
+151833	Hockey	0	What hockey term is defined as "area containing a bench where players serve penalty time"?	Back Line	Board-Checking	Freeze The Puck	Penalty Box
+0DIFSP257	Hockey	0	What was the first American city to win the Stanley Cup?	Little Rock	Salem	Wichita	Seattle
+0DIFSP162	Hockey	0	What is a hockey puck typically made of?	Cork	Wood	Plastic	Rubber
+415447	Hockey	0	Which hockey term describes a situation where the goalie is out of position or off the ice?	Blue Line	Slapshot	Freezing The Puck	Empty Net
+185763	Hockey	0	Which hockey star is known as "Super Mario"?	Bob Griese	Franco Harris	Gale Sayers	Mario Lemieux
+0DIFSP171	Hockey	0	Choose the NHL player:	Bubba Watson	Clint Dempsey	Stephen Curry	Sidney Crosby
+FTUX186	Hockey	0	What rises above the outer edge of the rink, higher on each end, to protect the fans from flying pucks?	Force field	Bamboo	Metal fencing	Plexiglass and netting
+0DIFSP242	Hockey	0	What is a unique feature of the Stanley Cup Trophy?	Made of pure platinum	It is slightly radioactive	There is a new one each year	Every winner's name is engraved
+0DIFSP175	Hockey	0	Which is not a primary position in hockey?	Forward	Defenseman	Goaltender	Guard
+0DIFSP165	Hockey	0	How many periods are in a regulation hockey game?	4	2	8	3
+0DIFSP163	Hockey	0	When a player scores three goals in a game, it is called a:	Home Run	Power Play	Fancy Feast	Hat Trick
+FTUX202	Hockey	0	If a player passes the puck to a teammate who then scores, what does the first player receive?	Money	A time-out	A penalty	An assist
+FTUX192	Hockey	0	The three zones on the ice are the defending zone, attacking zone, and what?	Penalty zone	Twilight zone	Goalie zone	Neutral zone
+0DIFSP167	Hockey	0	Which is an alternative form of hockey not played on ice?	Soccer	Pond Hockey	Mountain Hockey	Street Hockey
+0DIFSP180	Hockey	0	Which is not a California NHL team?	Kings	Sharks	Ducks	Oilers
+0DIFSP243	Hockey	0	How long is the Stanley Cup Finals series?	Until someone scores	First to 10 goals	Best of 5 games	Best of 7 games
+58372	Hockey	0	Which of these nicknames was never used by an NHL team?	Eagles	Yellow Jackets	Maroons	Marlboros
+6E7059	Hockey	0	What former NHL star has a freeway in Edmonton, Alberta named after him?	Barack Obama	Aaron Donald	Phil Housley	Wayne Gretzky
+6E7062	Hockey	0	What NHL team's colors are red, black and white?	Nashville Predators	San Jose Sharks	Pittsburgh Penguins	New Jersey Devils
+151821	Hockey	0	What color is the circular blue spot in the center of an NHL ice hockey rink?	Red	Green	Pink	Blue
+0DIFSP253	Hockey	0	What year did the Stanley Cup have no winner?	1612	1766	2019	1919
+FTUX193	Hockey	0	Which is not a legal method of scoring a goal?	Scoring on an empty net	Shot from a goalie	Deflection off of a defender	Slapping or kicking the puck
+415476	Hockey	0	What is awarded to the team which wins the NHL postseason?	Vezina Trophy	Lady Byng Memorial Trophy	Simpson Cup	Stanley Cup
+6E7061	Hockey	0	How many Stanley Cups have the Nashville Predators won through 2020?	All of them	Twelve	Ten	Zero
+0DIFSP246	Hockey	0	Pick the Stanley Cup champion:	Patrick Marleau	Ernie Els	Jamie Moyer	Mario Lemieux
+0DIFSP173	Hockey	0	Penalties are split into which two designations?	Big and Little	Bad and Really Bad	Personal and Technical	Major and Minor
+6E7058	Hockey	0	What year was Wayne Gretzky born?	1902	2001	1930	1961
+0DIFSP247	Hockey	0	Which team has won the most Stanley Cups?	Los Angeles Kings	Edmonton Oilers	Detroit Red Wings	Montreal Canadiens
+FTUX195	Hockey	0	Which is not a part of goalie-specific equipment?	Wider stick	Large leg pads	Full facemask	Blade-less skates
+120257	Hockey	0	What is the first name of hockey's Gretzky?	Ray	Mo	Dave	Wayne
+0DIFSP161	Hockey	0	How many players are allowed on ice (including the goalie) per team?	8	3	12	6
+151836	Hockey	0	What is the playing arena for ice hockey called?	Field	Court	Pitch	Rink
+151829	Hockey	0	Which ice hockey term is defined as "substitution of one entire line for another"?	Empty Net	Icing	Cross-Checking	Line Change
+FTUX188	Hockey	0	What is another common name for the penalty box?	Broom closet	Funhouse	No-no land	Sin bin
+6E7060	Hockey	0	Which is a real NHL team?	Los Angeles Lakers	Boston Red Sox	Pittsburgh Steelers	Columbus Blue Jackets
+6E7057	Hockey	0	In what month was the 2020 NHL All-Star Game held?	March	April	November of 2019	January
+0DIFSP174	Hockey	0	How many players can be credited with an assist on a goal?	1	3	5	2
+120258	Hockey	0	What is the first name of hockey's Lemieux?	Hamilton	Jasper	Leslie	Mario
+511606	Hockey	0	Which ice hockey term is defined as "a pass that sets up a goal"?	Neutral Play	Penalty Shot	Goal Crease	Assist
+FTUX200	Hockey	0	When a player drops their gloves on the ice, what is about to happen?	Line change	Game is about to end	Dance-off	A fight
+FTUX196	Hockey	0	How often do teams switch sides?	After each goal	They don't	When the home team requests it	After each period
+0DIFSP251	Hockey	0	Stanley Cup was named after whom?	King Stan IV	Stanley Dolittle	Jeff Stanley	Lord Stanley of Preston
+FTUX204	Hockey	0	Which NHL player is a goalie?	Brett Hull	Jaromir Jagr	Wayne Gretzky	Marc-Andre Fleury
+0DIFSP169	Hockey	0	What is the term used for when the official drops the puck in play?	Tip off	First pitch	Scrum	Face off
+FTUX194	Hockey	0	Who is referred to as The Great One, and had his NHL number retired leaguewide?	Mario Lemieux	Jaromir Jagr	Gordie Howe	Wayne Gretzky
+521181	Hockey	0	Which Detroit Red Wings player is sometimes known as "The Mule"?	Tom Brady	Cam Newton	Ernie Els	Johan Franzen
+521205	Hockey	0	Actor Vince Vaughn is frequently seen in the front row during which Chicago NHL team's games?	Flybirds	Pinks	Red Wings	Blackhawks
+6E7053	Hockey	0	How many games were played for the 2020 National Hockey League All-Star Game?	15 Games	13 Games	0 Games	3 Games
+2254	Hockey	0	Which of the following is a famous NHL player?	Tom Hanks	Peyton Manning	J. J. Watt	Mario Lemieux
+0DIFSP164	Hockey	0	When a player goes to the penalty box, the other team is considered to be:	On one	En Garde	On blast	On a Power Play
+0DIFSP245	Hockey	0	How many rounds are the Stanley Cup playoffs?	2	3	6	4
+0DIFSP241	Hockey	0	Which sport is played at the Stanley Cup?	Baseball	Soccer	American Football	Hockey
+6E7063	Hockey	0	In what U.S. state does the NHL Stars team play home games?	Hawaii	California	Minnesota	Texas
+FTUX190	Hockey	0	The three best players in each game are referred to as what?	Three Amigos	The Three Best Dudes	Three Musketeers	Three Stars
+0DIFSP254	Hockey	0	What player holds the record for most career goals in the Stanley Cup Finals?	Michael Cera	Babe Ruth	Kobe Bryant	Maurice Richard
+0DIFSP168	Hockey	0	What is not a common piece of hockey equipment?	Skates	Helmet	Gloves	Shorts
+0DIFSP178	Hockey	0	When are hockey players allowed to substitute in and out?	Only after a goal	Only at the start of the period	Only during a timeout	At any time
+269106	Hockey	0	If a player receives their first major penalty, how long are they off the ice for?	Fifty-five minutes	The entire game	Thirty seconds	Five minutes
+0DIFSP248	Hockey	0	Which team has never won a Stanley Cup?	Pittsburgh Penguins	Toronto Maple Leafs	New York Rangers	Nashville Predators
+FTUX187	Hockey	0	Where is a player sent after committing a minor penalty?	Siberia	Home	Shadow realm	Penalty Box
+151832	Hockey	0	Which ice hockey term is defined as "the area contained between the blue lines"?	Zamboni	Goal Crease	Line Change	Neutral Zone
+0DIFSP259	Hockey	0	The Stanley Cup was purchased in 1892, how much did Lord Stanley pay for it?	It was free	$10,000	$5,000	$50
+120259	Hockey	0	What is the first name of hockey's Potvin?	Sandy	Cheryl	Ender	Denis
+FTUX191	Hockey	0	Which is a primary color for the San Jose Sharks?	Chartreuse	Red	Yellow	Teal
+120260	Hockey	0	What is the first name of hockey's Esposito?	Asher	Barret	Seth	Tony
+6E7056	Hockey	0	Who was named honorary captain of the Pacific division for the 2020 NHL All-Star Game?	Mike Tyson	Dave Chappelle	Donald Trump	Wayne Gretzky
+0DIFSP172	Hockey	0	Which player is primarily responsible for blocking the net?	Enforcer	Wing	Defenseman	Goaltender
+0DIFSP244	Hockey	0	Which is a team that would play in the Stanley Cup playoffs?	Los Angeles Lakers	Buffalo Bills	Minnesota Twins	Nashville Predators
+0DIFSP255	Hockey	0	Who has their name on the Stanley Cup the most?	Ken Dryden	John Stanley	Al Gore	Henri Richard
+151838	Hockey	0	Which ice hockey foul is defined as swinging the stick at an opponent when it's below the shoulders?	Empty Net	Puck	Wrist Shot	Slashing
+FTUX199	Hockey	0	What happens if a player breaks their stick?	Delayed penalty	Play stops immediately	Player must leave the ice	Play continues
+6E7055	Hockey	0	Which of these was an actual skills competition at the 2020 NHL All-Star Game?	Worst Penalty	Best Stick	Softest Shot	Hardest Shot
+FTUX203	Hockey	0	If there is a player already in the penalty box, and another player on the same team earns a penalty, where do they go?	Dressing room	They're allowed to remain on the ice	The bench	They also go to the penalty box
+0DIFSP179	Hockey	0	The NHL is comprised of teams from which country or countries?	Only USA	Only Canada	Russia, USA, Canada	USA and Canada
+0DIFSP249	Hockey	0	What happens if a game is tied at the end of overtime in the Stanley Cup Playoffs?	It ends in a tie	Penalty Shootout	The game is replayed	More overtime is played as necessary
+FTUX197	Hockey	0	Which of the following is an NHL team?	San Francisco Bulls	Saskatoon Slashers	Milwaukee Pucks	Columbus Blue Jackets
+207634	Hockey	0	Which NHL player is known as the "Russian Rocket"?	Bobby Hull	Brian Leetch	Red Kelly	Pavel Bure
+FTUX189	Hockey	0	How many blue lines (to divide into zones) appear on the ice?	10	1	6	2
+FTUX198	Hockey	0	Crashing into an attacking player, leading with the shoulder or hip, is called what?	Dunking	Rude	Travelling	Checking
+7K4011	Hockey	0	What are the blue lines that run across an ice hockey rink 60 feet from each goal called?	Puck	Check	Cross-Checking	Blue Line
+269231	Hockey	1	A hockey official chopping one hand against the other arm is signaling which penalty?	Spearing	High-Sticking	Delay Of Game	Slashing
+0DIFSP177	Hockey	1	Which position primarily handles offensive duties?	Goalie	Enforcer	Defenseman	Forward
+211063	Hockey	1	Which NHL division includes Ottawa?	Pacific	Central	Metropolitan	Atlantic
+151816	Hockey	1	What hockey term is used to describe a goal scored after the opposing team has pulled its goalie?	Unopposed Goal	Unguarded Goal	Vacant Goal	Empty-Net Goal
+269103	Hockey	1	In the NHL, how many minutes does a major penalty last?	The Rest Of The Game	2 Minutes	10 Minutes	5 Minutes
+359564	Hockey	1	How many Stanley Cups did the New Jersey Devils win in the 1990's?	Two	None	Three	One
+185771	Hockey	1	What trophy does the Most Valuable Player in Stanley Cup Playoffs receive?	Jack Adams Trophy	King Clancy Trophy	Hart Memorial Trophy	Conn Smythe Trophy
+521124	Hockey	1	Which hockey term is defined as "sending an opponent violently into the boards by any method"?	Slashing	Empty Net	Icing	Board-Checking
+269090	Hockey	1	Which star of the film"21 Jump Street" is a frequent attendee at Los Angeles Kings games?	Henry Thomas	Richard Jenkins	Luke Benward	Channing Tatum
+521079	Hockey	1	What ice-hockey penalty is defined as "taking two or more steps before body checking an opponent"?	High-Sticking	Fighting	Clipping	Charging
+120616	Hockey	1	What penalty occurs if a hockey goalkeeper throws the puck down-rink?	Major Penalty	Double-Minor Penalty	Game Misconduct Penalty	Minor Penalty
+211064	Hockey	1	What NHL division does Boston belong to?	Central	Atlantic	Metropolitan	Atlantic
+58224	Hockey	1	What hockey term refers to a motion by the puck carrier to confuse an opponent?	Sneaking	Sliding	Checking	Dekeing
+0DIFSP252	Hockey	1	Who was the first hockey team to have their names inscribed on the Stanley Cup?	Los Angeles Dodgers	Mighty Ducks	New York Yankees	Montreal Wanderers
+0DIFSP166	Hockey	1	Which is not an NHL team with a colorful name?	Detroid Red Wings	St Louis Blues	Chicago Blackhawks	Gainsborough Grey Geese
+151815	Hockey	1	Why would a hockey official raise his arm but not blow his whistle?	To Designate Timeout	To Indicate A Goal Scored	To Ask For Assistance	To Signal A Delayed Penalty
+415490	Hockey	1	Which ice hockey term is defined as "an area in front of the goal cage"?	Power Play	Hat Trick	Box	Goal Crease
+2417	Hockey	1	Which ice hockey term is defined as "player whose primary job is to protect teammates"?	Blue Line	Assist	Freeze The Puck	Enforcer
+8401	Hockey	1	What NHL division does Vancouver belong to?	Southeast	Atlantic	Northeast	Northwest
+521077	Hockey	1	How many teams go to the playoffs each year in the NHL?	12	Eight	Four	16
+211084	Hockey	1	What NHL division does Anaheim belong to?	Atlantic	Central	Metropolitan	Pacific
+291852	Hockey	1	How many games were played at T-Mobile Arena in the 2018 Stanley Cup Final?	1 Games	2 Games	4 Games	3 Games
+511608	Hockey	1	Which penalty is called when a hockey player hits another player below the knee?	Spearing	High Sticking	Boarding	Clipping
+1Q4019	Hockey	1	Who won the first game of the Stanley Cup Finals in 2019?	Tampa Lightning	Washington Capitals	Orange Baxters	Boston Bruins
+521127	Hockey	1	What hockey term is defined as "area in a team's own end, between the blue line and the goal line"?	Blade	Charging	Zamboni	Defensive Zone
+415659	Hockey	1	What are the dimensions of a standard ice hockey goal?	4' X 5'	5' X 6'	6' X 6'	4' X 6'
+521078	Hockey	1	How many time outs, per game, are allowed for each team in regular season NHL play?	4	3	2	1
+487213	Hockey	1	How many times can a team call time out during an NHL playoff game?	4	3	2	1
+415474	Hockey	1	Which team is also known as "Les Habitants"?	Boston Bruins	Quebec Nordiques	Los Angeles Kings	Montreal Canadiens
+422750	Hockey	1	Which team had won the most Stanley Cup Trophies until the lockout hiatus of 2005?	Boston Bruins	New York Rangers	Colorado Avalanche	Montreal Canadiens
+189S844	Hockey	1	How long does a National Hockey League game last in playing time?	90 Minutes	120 Minutes	75 Minutes	60 Minutes
+511607	Hockey	1	Which "Anchorman" star makes frequent appearances at Los Angeles Kings games?	John C. Reilly	Zach Galifianakis	Jon Hamm	Will Ferrell
+21049	Hockey	1	Which of the following teams was never coached by Scotty Bowman?	Montreal	St. Louis	Pittsburgh	Toronto
+426967	Hockey	1	Who was the Playoff MVP when the Montreal Canadiens won the Stanley Cup in 1986 and 1993?	Kirk Muller	Bob Gainey	Eric Desjardins	Patrick Roy
+415440	Hockey	1	Which ice hockey term is defined as "to get the puck away from one's own goal cage"?	Hat Trick	Cross-Checking	Penalty Shot	Clearing
+415480	Hockey	1	Who was the NHL number one draft pick in 2005-06?	Mike Green	Andy Delmore	Jacob Younce	Sidney Crosby
+521150	Hockey	1	What does the hockey term "five hole" refer to?	Center Ice	A Particular Face-Off Spot	Penalty Bench	Between A Goalie's Leg Pads
+18S1214	Hockey	1	Which hockey term is defined as "hitting an opponent with the stick while it is held in both hands"?	Line Change	Icing	Centering The Puck	Cross-Checking
+521227	Hockey	1	What NHL team began their first season in 2017?	Sharks	Blue Jackets	Jets	Golden Knights
+415453	Hockey	1	Which hockey term means "to hold the puck against boards or back of the net with skate or stick"?	Slashing	Power Play	Center The Puck	Freeze The Puck
+57198	Hockey	1	Which ice hockey term means to make a line change or send other substitutes out while play is going on?	Five On Three	Wrap Around	Power Play	Change On The Fly
+521059	Hockey	1	In the NHL how many minutes does a minor penalty last?	5	3	1	2
+269089	Hockey	1	Which ice hockey term is defined as "using the stick to hold an opponent"?	Slashing	Line Change	Neutral Zone	Hooking
+211081	Hockey	1	Which NHL division includes Colorado?	Pacific	Metropolitan	Atlantic	Central
+415571	Hockey	1	What is the only circumstance that allows a third goalie to play for a team in an NHL game?	Overtime	Playoff Game	Coach's Discretion	Injury To Two Goalies
+0DIFSP256	Hockey	1	When was the first Stanley Cup awarded?	1704	1995	2005	1893
+211077	Hockey	1	A tugging motion with both hands towards an official's stomach signifies what hockey penalty?	Spearing	Too Many Players On Ice	Boarding	Hooking
+20995	Hockey	1	Which of these players has won nine Hart Trophies, four Lady Byng Memorial Trophies, and four Stanley Cups?	Mario Lemieux	Mark Messier	Ron Francis	Wayne Gretzky
+415485	Hockey	1	In what city do the NHL's Blue Jackets play?	Detroit	Minnesota	Atlanta	Columbus
+18S1206	Hockey	1	Which ice hockey term is defined as "flat section of a hockey stick that contacts the puck"?	Check	Crease	Slot	Blade
+7K4021	Hockey	1	What ice hockey term describes the team's two defensemen?	Hat Tricks	Board-Checking	Empty Netters	Back Line
+211066	Hockey	1	What NHL division does Vegas belong to?	Atlantic	Central	Metropolitan	Pacific
+151811	Hockey	1	What hockey term means "official primarily responsible for calling icing and offside violations"?	Enforcer	Power Play	Penalty	Linesman
+415444	Hockey	1	For which team did Sidney Crosby play in his rookie NHL season?	Calgary Flames	Los Angeles Kings	Columbus Blue Jackets	Pittsburgh Penguins
+151830	Hockey	1	Which ice hockey term is defined as "group of forwards who play together for a team"?	Assisters	Cross-Checkers	Hat Trickers	Line
+357369	Hockey	1	What was Nikolai Khabibulin's time on ice in the 7th game of the 2004 Stanley Cup finals?	59:51:00	55:51:00	45:51:00	60:00:00
+269084	Hockey	1	How many games are there in a regular NHL season?	75	96	80	82
+404840	Hockey	1	Which star of the movie "Wayne's World" said it would be a "miracle" if his beloved Maple Leafs won the Stanley Cup?	Cullen Moss	Scott Porter	Jonah Hill	Mike Myers
+326719	Hockey	1	Which Blackhawks captain was named the MVP of the 2010 Stanley Cup Playoffs?	Steven Stamkos	Martin Brodeur	Tyler Myers	Jonathan Toews
+36168	Hockey	1	Who was the MVP of the 2018 Stanley Cup Finals	Brooks Orpik	Lars Eller	James Neal	Alexander Ovechkin
+521154	Hockey	1	Which NHL player was on the 2018-19 Panthers roster?	Ryan McDonagh	Nikita Kucherov	Tomas Plekanec	Roberto Luongo
+0DIFSP250	Hockey	1	The teams that make the Stanley Cup playoffs are the division leaders and who else?	Everybody makes the playoffs	Nobody else	Teams drawn by lottery	Wild Card teams
+456L850	Hockey	1	Who won a record 11 Stanley Cups with the Montreal Canadiens?	Jean Beliveau	Yvan Cournoyer	Jacques Lemaire	Henri Richard
+87752	Hockey	1	Who is Foster Hewitt?	Hall Of Fame Jockey	Boston Bruins Announcer	Hall Of Fame Goalie	The Voice Of Hockey
+521032	Hockey	1	In hockey, an automatic game misconduct is applied when a player gathers how many major penalties?	Two	Five	Seven	Three
+415516	Hockey	1	What member of a hockey team wears a waffle pad?	Coach	Linesman	Referee	Goalie
+189S850	Hockey	1	What hockey term refers to impeding the progress of an opposing player?	Cross Checking	Boarding	Icing	Holding
+415488	Hockey	1	In hockey, where does the face-off occur after a successful penalty shot?	In The Zone Of The Shot	In The Opposite Zone	Behind The Goal	At Center Ice
+211058	Hockey	1	What NHL division does New Jersey belong to?	Pacific	Atlantic	Central	Metropolitan
+151823	Hockey	1	In hockey, the same signal used for unsportsmanlike conduct is also used to mean what?	End Of Period	Goal Scored	Game Misconduct Penalty	Time Out
+454HL743	Hockey	1	Which hockey term means "pass the puck from a near corner into the area in front of the goal cage"?	Slapshot	Empty Net	Icing	Center The Puck
+0DIFSP176	Hockey	1	What indoor vehicle is driven between periods to treat the ice?	ATV	Snowplow	Streetsweeper	Zamboni
+211061	Hockey	1	Which NHL division are the Pittsburgh Penguins in?	Pacific	Atlantic	Central	Metropolitan
+211059	Hockey	1	Which NHL division includes Philadelphia?	Pacific	Atlantic	Central	Metropolitan
+58739	Hockey	1	How many total games did the St. Louis Blues win in their first three Stanley Cup Finals?	Two	Four	Six	Zero
+487176	Hockey	1	Which of these actions is a legal action in the NHL?	Sliding A Goalie His Stick	Throwing A Stick From The Bench	Playing With A Broken Stick	Playing Without A Stick
+521081	Hockey	1	Which ice hockey term is a "quick shot made with a snap of the wrist"?	Blade	Cross-Checking	Quick Snap	Wrist Shot
+151827	Hockey	1	Which ice hockey term is defined as "scoring three or more goals in a game"?	Penalty Box	Hooking	Neutral Zone	Hat Trick
+521235	Hockey	1	Who was the first NHL commissioner?	Gary Bettman	Wayne Gretzky	Bill Masterson	Frank Calder
+416942	Hockey	1	Chris Chelios of the Detroit Red Wings won his first Stanley Cup with which team?	Pittsburgh Penguins	Calgary Flames	Detroit Red Wings	Montreal Canadiens
+18S1374	Hockey	1	In hockey, what occurs when the puck is deflected into the goal by an official?	Both Teams Are Credited With A Goal	Goal Stands, Official Is Removed	The Goal Stands, Official Remains	The Goal Is Disallowed
+2535	Hockey	2	Who won the 2018 National Hockey League All-Star Game Final?	Metropolitan	Central	Atlantic	Pacific
+456L857	Hockey	2	Which Detroit Red Wing scored the Stanley Cup-winning goal and won the Conn Smythe Trophy in 2008?	Pavel Datsyuk	Chris Osgood	Dan Cleary	Henrik Zetterberg
+422789	Hockey	2	Who were the 2000 and 2001 Stanley Cup Champions?	Rangers And Devils	Stars And Mighty Ducks	Oilers And Wild	Devils And Avalanche
+521211	Hockey	2	How wide is a standard NHL hockey rink?	60 Feet	90 Feet	75 Feet	85 Feet
+2H0015	Hockey	2	In what country was NHL player Steve Reinprecht born?	USA	Czech Republic	Germany	Canada
+416002	Hockey	2	Who said that his hat-trick game that sent the L.A. Kings to the finals in 1993 was his best ever?	Luc Robitaille	Dave Taylor	Jari Kurri	Wayne Gretzky
+357384	Hockey	2	When did Dan Boyle win the Stanley Cup for the first time?	1998	2001	2006	2004
+38553	Hockey	2	The New Jersey Devils swept which team in the 1995 Finals to win their first Stanley Cup?	Dallas Stars	Calgary Flames	Colorado Avalanche	Detroit Red Wings
+521069	Hockey	2	Which Detroit Red Wing was the first European-born captain of a Stanley Cup-winning team?	Igor Larionov	Alex Delvecchio	Tomas Holmstrom	Nicklas Lidstrom
+415507	Hockey	2	In hockey, when should play stop if multiple pucks are on the ice?	Immediately	After A Goal Is Scored	Not At All	On A Change In Possession
+94089	Hockey	2	Who was the Captain of the New Jersey Devils when they won their first Stanley Cup?	Kirk Muller	Ken Daneyko	Larry Robinson	Scott Stevens
+415446	Hockey	2	Which hockey team did Wayne Gretzky coach in 2005-06?	Anaheim Mighty Ducks	Edmonton Oilers	Colorado Avalanche	Phoenix Coyotes
+521200	Hockey	2	How long does a time out last in an NHL game?	3 Minutes	2 Minutes	1 Minute	30 Seconds
+58226	Hockey	2	Which Florida Panthers defenseman is sometimes known by the nickname "Soupy"?	Aaron Ekblad	Willie Mitchell	Colby Robak	Brian Campbell
+521202	Hockey	2	What NHL division does St. Louis belong to?	Pacific	Northwest	Northeast	Central
+326817	Hockey	2	Who did the Colorado Avalanche beat to win their second Stanley Cup in 2001?	Florida Panthers	Vancouver Canucks	Anaheim Ducks	New Jersey Devils
+415494	Hockey	2	Which NHL team earned only 68 points for the 2014-2015 regular season?	Pittsburgh Penguins	New York Islanders	St. Louis Blues	Toronto Maple Leafs
+269240	Hockey	2	Where did the 2018 National Hockey League All-Star Game take place?	New York City	Miami	Chicago	Tampa
+2233	Hockey	2	How many inter-conference games does an NHL team play in the regular season?	12	16	None	10
+189S845	Hockey	2	Which NHL division includes Nashville?	Pacific	Northeast	Atlantic	Central
+357611	Hockey	2	Scott Niedermayer has won Stanley Cups with the Anaheim Ducks and, earlier, with what other team?	Edmonton Oilers	Calgary Flames	Columbus Blue Jackets	New Jersey Devils
+419710	Hockey	2	What Pittsburgh Penguin posted 12 points in the 1991 Stanley Cup finals?	Ron Francis	Jaromir Jagr	Rick Tocchet	Mario Lemieux
+2248	Hockey	2	Which player scored the 2015 Stanley Cup-clinching goal for the Chicago Blackhawks?	Patrick Sharp	Jonathan Toews	Brad Richards	Duncan Keith
+8384	Hockey	2	Which Oscar-winning star of the movie "Jerry Maguire" frequently attends Los Angeles Kings games?	Denzel Washington	Gary Oldman	Kurt Russell	Cuba Gooding, Jr.
+415564	Hockey	2	What is the minimum penalty for high-sticking in the NHL?	Double Minor Penalty	Major Penalty	Game Misconduct Penalty	Minor Penalty
+269076	Hockey	2	Antii Laaksonen hails from what country?	Norway	Sweden	Denmark	Finland
+426480	Hockey	2	Which Eastern Conference team, in winning the division, made their first Stanley Cup Finals in 2007?	Buffalo Sabres	Anaheim Ducks	Detroit Red Wings	Ottawa Senators
+415489	Hockey	2	Who lost the 2019 NHL Eastern Finals?	Boston Bruins	Chicago Blackhawks	Philadelphia Flyers	Carolina Hurricanes
+326695	Hockey	2	Which franchise captured it's first Stanley Cup at the end of the 2011-12 NHL season?	Columbus Blue Jackets	Nashville Predators	Phoenix Coyotes	Los Angeles Kings
+416929	Hockey	2	Who did Sergei Bobrovsky play for the 2018-19 NHL season?	Pittsburgh Penguins	Calgary Flames	Carolina Hurricanes	Columbus Blue Jackets
+415467	Hockey	2	Who became Detroit Red Wings General Manger for the 2019-20 NHL season?	Keith Gretzky	Paul Fenton	Peter DeBoer	Steve Yzerman
+415479	Hockey	2	What 2018-19 NHL team includes Steven Fogarty and Marc Staal?	Boston Bruins	Buffalo Sabres	Vancouver Canucks	New York Rangers
+511619	Hockey	2	Which NHL division includes Chicago?	Northwest	Atlantic	Southeast	Central
+2H0123	Hockey	2	NHL goaltender Johan Hedberg was popularly known by what animal nickname?	The Tiger	The Eagle	The Mantis	The Moose
+357452	Hockey	2	What team defeated the New Jersey Devils in game seven of the 2001 Stanley Cup Playoffs?	Pittsburgh Penguins	Toronto Maple Leafs	Carolina Hurricanes	Colorado Avalanche
+151817	Hockey	2	What country is NHL skater Jeff Halpern from?	Sweeden	Russia	Canada	USA
+521060	Hockey	2	Which Ducks star won the MVP for the 2010-11 NHL season?	Daniel Sedin	Tim Thomas	Sidney Crosby	Corey Perry
+487206	Hockey	2	In 2015, which team won their third Stanley Cup in six seasons?	Los Angeles Kings	Boston Bruins	Tampa Bay Lightning	Chicago Blackhawks
+151818	Hockey	2	In hockey, which of these leads to a puck being called dead?	Hitting The Puck With A Skate	A Second Puck On The Ice	A Penalty Occurring	A Player Holding The Puck
+327318	Hockey	2	Who scored the Stanley Cup-clinching goal in the 2018 Finals?	Devante Smith-Pelly	Evgeny Kuznetsov	Alexander Ovechkin	Lars Eller
+415502	Hockey	2	What was Minnesota's NHL team called before it moved to Dallas in 1993?	Minnesota Stars	Minnesota Icejets	Minnesota Avalanche	Minnesota North Stars
+521215	Hockey	2	Which last name completes the full name of an athlete from hockey ... Bryan?	Agassi	Robinson	Moon	Trottier
+326771	Hockey	2	Joe Nieuwendyk won the Stanley Cup with how many teams?	0	1	5	3
+454HL749	Hockey	2	Who is the captain of the Florida Panthers in 2018-19?	Mike Hoffman	Keith Yandle	Jonathan Huberdeau	Aleksander Barkov
+18S1048	Hockey	2	What color helmet must hockey referees wear?	Blue	White	Pink	Black
+422779	Hockey	2	Which NHL team won both the President's Trophy and the Stanley Cup for the 2012-13 NHL season?	Nashville Predators	Winnipeg Jets	Calgary Flames	Chicago Blackhawks
+151828	Hockey	2	Who did Frans Nielsen play for the 2016-17 NHL season?	Nashville Predators	Carolina Hurricanes	Buffalo Sabres	Detroit Red Wings
+361681	Hockey	2	How many games did the Stanley Cup Finals played in 2015 last?	5 Games	4 Games	7 Games	6 Games
+456L000	Hockey	2	Which Dallas Star posted a hard-fought shutout in Game 5 of the 1998-1999 Stanley Cup series?	Patrick Roy	Martin Brodeur	Jose Theodore	Eddie Belfour
+406035	Hockey	2	Pavel Kubina played with which team that won the 2003-04 Stanley Cup?	Carolina Hurricanes	Calgary Flames	Toronto Maple Leafs	Tampa Bay Lightning
+521071	Hockey	2	Which team barely won the Atlantic Division over the Pittsburgh Penguins during the 2010-11 NHL season?	Tampa Bay Lightning	Buffalo Sabres	Carolina Hurricanes	Philadelphia Flyers
+7K4013	Hockey	2	How long is a standard NHL hockey rink?	150 Feet	100 Feet	250 Feet	200 Feet
+151813	Hockey	2	What is the diameter of a standard NHL hockey puck?	5 Inches	4 Inches	2 Inches	3 Inches
+269238	Hockey	2	What New York Islanders center was selected to the 2015 NHL All-Star Game?	Kyle Okposo	Ryan Strome	Frans Nielsen	John Tavares
+12K1299	Hockey	2	Which NHL team has won the most Stanley Cup Championships?	Penguins	Red Wings	Oilers	Canadiens
+415496	Hockey	2	Who took over for Glen Gulutzan as coach of the 2018-19 Calgary Flames?	Paul Fenton	Mike Vernon	Bob Hartley	Bill Peters
+360086	Hockey	2	Which team won five Stanley Cups during the 1960's?	Detroit Red Wings	Boston Bruins	Toronto Maple Leafs	Montreal Canadiens
+416795	Hockey	2	Who did Mike Smith play for the 2016-17 NHL season?	Nashville Predators	Chicago Blackhawks	Detroit Red Wings	Arizona Coyotes
+415682	Hockey	2	In what country was NHL player Chris Chelios born?	Russia	Canada	Finland	USA
+422380	Hockey	2	Which team did former St. Louis Blues coach Al Arbour lead to four straight Stanley Cups?	Toronto Maple Leafs	Detroit Red Wings	Montreal Canadiens	New York Islanders
+207804	Hockey	2	Which forward led the New Jersey Devils in scoring during the 2011-12 Stanley Cup Playoffs?	Travis Zajac	Zach Parise	Alexei Ponikarovsky	Ilya Kovalchuk
+189S834	Hockey	2	Why did the NHL make the "Biron Rule", named after Martin Biron?	To Limit The Number Of Fights	To Prevent A Requested Trade	To Require More Playing Time	To Restrict Numbers To 1 Through 98
+269099	Hockey	2	What is the penalty for knocking the puck away from an hockey official trying to retrieve it?	Minor Penalty	Major Penalty	Game Misconduct Penalty	Misconduct Penalty
+72668	Hockey	2	Which team represented the Eastern Conference in the 2011-12 Stanley Cup Finals?	Boston Bruins	Washington Capitals	New York Rangers	New Jersey Devils
+454HL741	Hockey	2	Which goaltender played the most minutes in the 2003-2004 NHL season?	Roberto Luongo	Jose Theodore	Kevin Weekes	Martin Brodeur
+415563	Hockey	2	What penalty is signaled by a hockey official's rotating clenched fists around each other?	Fighting	Delaying The Game	High-Sticking	Charging
+415449	Hockey	2	What number does NHL rookie superstar Sidney Crosby wear?	15	99	37	87
+454HL747	Hockey	2	Which star of "Friends" said it was his "happiest night as a sports fan" when the Los Angeles Kings won the Stanley Cup?	Jason Alexander	David Cross	Brian Posehn	Matthew Perry
+422382	Hockey	2	Which team, formerly based in Minnesota, won its first Stanley Cup in 1999?	Phoenix Coyotes	Colorado Avalanche	Columbus Blue Jackets	Dallas Stars
+13587	Hockey	2	Who did Tyler Seguin play for the 2016-17 NHL season?	Edmonton Oilers	Pittsburgh Penguins	Minnesota Wild	Dallas Stars
+7K4009	Hockey	2	For what NHL team did Henrik Zetterberg have 66 points for the 2014-15 season?	Florida Panthers	Washington Capitals	New York Islanders	Detroit Red Wings
+2262	Hockey	2	Which NHL division includes Minnesota?	Southeast	Pacific	Northeast	Northwest
+362308	Hockey	2	Which Phoenix Coyote was the goalie for all seven of their 1997 Stanley Cup Playoff games?	Pat Jablonski	Darcy Wakaluk	Parris Duffus	Nikolai Khabibulin
+1H4577	Hockey	2	When Jean-Sebastien Giguere retired in 2014, he was the last active player to have played for what NHL team?	Minnesota North Stars	Atlanta Thrashers	Quebec Nordiques	Hartford Whalers
+269100	Hockey	2	What is the thickness of a NHL hockey puck?	3 Inches	.75 Inches	2 Inches	1 Inch
+211080	Hockey	2	The 2011 NHL playoffs started in which month?	March	May	June	April
+232221	Hockey	2	Which team made their 13th Stanley Cup Finals appearance in 2015?	Los Angeles Kings	Boston Bruins	Tampa Bay Lightning	Chicago Blackhawks
+1H4577	Hockey	2	Which NHL player drew a 17-game suspension in 2011 for elbowing Ryan McDonagh in the head?	Nick Foligno	Rick Nash	Raffi Torres	Matt Cooke
+269228	Hockey	2	Which of these actions draws an automatic game misconduct penalty?	Biting	Grabbing A Face Mask	Cross-Checking	Throwing An Object At A Spectator
+207805	Hockey	2	Rod Brind'Amour won the Stanley Cup with Carolina and what individual trophy in 2006?	Lady Byng	Rocket Richard	Art Ross	Frank J. Selke
+20983	Hockey	2	Who won their first ever Stanley Cup in their 44th season?	Boston Bruins	Tampa Bay Lightning	Chicago Blackhawks	Washington Capitals
+1HF4633	Hockey	2	Articles thrown onto the ice of a hockey rink by spectators won't result in a penalty in what situation?	When Thrown At Home Players	When Thrown By Children	When Thrown By Clowns	Following A Special Occasion
+202774	Hockey	2	In their first three seasons, the Blues had what total record in Stanley Cup finals games?	3-4	7-12	8-9	0-12
+364290	Hockey	2	The New Jersey Devils beat which team in the 2000 Finals to win their second Stanley Cup?	Colorado Avalanche	Detroit Red Wings	Calgary Flames	Dallas Stars
+415624	Hockey	2	What fine is levied against a hockey team whose players fight before or after a game?	15000	5000	100	25000
+232220	Hockey	2	With which team had Sergei Fedorov won three Stanley Cups before becoming a Columbus Blue Jacket?	Mighty Ducks Of Anaheim	Montreal Canadiens	Toronto Maple Leafs	Detroit Red Wings
+327315	Hockey	2	What New Jersey Devils goalie challenged the Dallas Stars in the 1999-2000 Stanley Cup Finals?	Jose Theodore	Patrick Roy	Felix Potvin	Martin Brodeur
+151814	Hockey	2	By what name was the Eastern Conference's Atlantic Division previously known?	Star Division	Coastal Division	Smythe Division	Patrick Division
+1H4611	Hockey	2	Mad Men star Jon Hamm is known for his loyalty to which hometown NHL team?	Ottawa Senators	New Jersey Devils	Philadelphia Flyers	St. Louis Blues
+521214	Hockey	2	Blackhawks captain Jonathan Toews earned what nickname from his approach to interviews?	Captain Hindsight	Captain Fury	Captain Insanity	Captain Serious
+322956	Hockey	2	Which Red Wings star is often called the "Magic Man" because of his puck-handling skills?	Kris Letang	Erik Johnson	Alexander Ovechkin	Pavel Datsyuk
+357443	Hockey	2	What team knocked the Montreal Canadiens out of the Stanley Cup Playoffs in the 2003-04 season?	Boston Bruins	Buffalo Sabres	Colorado Avalanche	Tampa Bay Lightning
+2471	Hockey	2	The 2004 Flames were the first Canadian team to go to the Stanley Cup finals in how long?	20 Years	Three Years	17 Years	10 Years
+426849	Hockey	2	In which year did no team win the Stanley Cup?	1899-00	1920-21	1921-22	1918-19
+7K4015	Hockey	2	In what season did Wayne Gretzky first score 200 or more points?	1982-83	1980-81	1979-80	1981-82
+521080	Hockey	2	Which of these penalties does not have an official NHL hand signal?	Delaying The Game	High-Sticking	Boarding	Headbutting
+269088	Hockey	2	Who did Sergei Bobrovsky play for the 2016-17 NHL season?	Pittsburgh Penguins	Calgary Flames	Carolina Hurricanes	Columbus Blue Jackets
+532561	Hockey	2	Country singer Vince Gill is a vocal fan of which NHL team?	Dallas Stars	St. Louis Blues	Carolina Hurricanes	Nashville Predators
+415501	Hockey	2	How is it decided which hockey team shoots first in a shootout?	The Visiting Team Chooses	Coin Flip	Team With Fewest Penalties	The Home Team Chooses
+361180	Hockey	2	How many Stanley Cups did the Edmonton Oilers win in the 1980's?	2	3	5	4
+427189	Hockey	2	Who was captain of the 2017 Stanley Cup Finals losers the Predators?	 Eric Fehr	Sidney Crosby	Yannick Weber	Mike Fisher
+487220	Hockey	2	What color light shining behind the hockey goal signifies that the period has ended?	Blue	Amber	Red	Green
+211073	Hockey	2	What fine is levied against a hockey team whose players fight before or after a game?	$15,000	$5,000	$100	$25,000
+487170	Hockey	2	Who was the captain of 1994 Rangers team that won the Stanley Cup?	Wayne Gretzky	George Hainsworth	Tony Esposito	Mark Messier
+361155	Hockey	2	Which NHL team won its first Stanley Cup in 2012?	New Jersey Devils	Colorado Avalanche	Pittsburgh Penguins	Los Angeles Kings
+424205	Hockey	2	What dominant team defeated the Philadelphia Flyers in the 1986-87 Stanley Cup finals?	Toronto Maple Leafs	Los Angeles Kings	Buffalo Sabres	Edmonton Oilers
+521239	Hockey	2	Jordan Staal is the captain of what 2019-20 NHL team?	NY Islanders	Nashville Predators	Buffalo Sabres	Carolina Hurricanes
+423733	Hockey	2	How many times did Toronto win the Stanley Cup in the 1980's?	Five	One	Two	None
+207806	Hockey	2	How many times was Martin Brodeur the playoff MVP in his first 4 Stanley Cup Finals?	Once	Twice	Three Times	Never
+415559	Hockey	2	If a hockey player is hurt and can't leave the ice, what must occur before play stops?	An Official Must Declare Timeout	A Doctor Must Examine The Player	A Goal Must Be Scored	His Team Must Control The Puck
+151812	Hockey	2	What 2018-19 NHL team includes Paul Bittner and Zac Dalpe?	New York Rangers	Buffalo Sabres	Ottawa Senators	Columbus Blue Jackets
+207608	Hockey	2	How many Stanley Cups did Patrick Roy win with the Colorado Avalanche from 1995-03?	One	None	Six	Two
+421001	Hockey	2	Which Tampa Bay Lightning goalie notched three shutouts during the team's first Stanley Cup season?	John Grahame	Darren Rumble	Eric Perrin	Nikolai Khabibulin
+1HF4611	Hockey	2	What hockey team was Eric Lindros drafted by?	Philadelphia Flyers	Montreal Canadiens	Hartford Whalers	Quebec Nordiques
+269091	Hockey	2	Celtic rock band The Dropkick Murphys wrote an unofficial theme song for which NHL team?	Phoenix Coyotes	Colorado Avalanche	Pittsburgh Penguins	Boston Bruins
+415536	Hockey	2	Which NHL team in the 2014-2015 regular season had only 24 wins?	St. Louis Blues	New Jersey Devils	Winnipeg Jets	Edmonton Oilers
+33885	Hockey	2	What team earned the top seed in the Eastern Conference for the 2013 Stanley Cup playoffs?	New York Rangers	Boston Bruins	Montreal Canadiens	Pittsburgh Penguin
+207802	Hockey	2	The 2011 Stanley Cup Finals lasted how many games?	6	5	4	7
+7K4017	Hockey	2	Which NHL division includes Detroit?	Northwest	Northeast	Southeast	Atlantic
+269098	Hockey	2	What NHL goaltender was sometimes known by the derisive nickname "three-or-more"?	Tuukka Rask	Sergei Bobrovsky	Ryan Miller	Jose Theodore
+532438	Hockey	2	Which was the only team to win more Stanley Cups than the Toronto Maple Leafs during the 20th century?	Detroit Red Wings	Boston Bruins	Edmonton Oilers	Montreal Canadiens
+521094	Hockey	2	Which of these players did not win a Stanley Cup with multiple teams?	Bryan Trottier	Mark Messier	Patrick Roy	Wayne Gretzky
+8386	Hockey	2	2008 Hall of Fame inductee Igor Larionov won Stanley Cups with which team?	San Jose Sharks	Chicago Blackhawks	New Jersey Devils	Detroit Red Wings
+207879	Hockey	2	In 2002, what former San Jose Shark became the oldest player to score a Stanley Cup finals goal?	Mike Rathje	Doug Wilson	Pat Falloon	Igor Larionov
+422167	Hockey	2	With which team did Bobby Holik first win the Stanley Cup?	Dallas Stars	Colorado Avalanche	Detroit Red Wings	New Jersey Devils
+285775	Hockey	2	Brad Richards broke what Stanley Cup Playoffs record in 2004 with the Tampa Bay Lightning?	Total Goals In A Series	Total Goals In A Playoff Year	Career Playoff Game-Winning Goals	Goals In A Game
+357482	Hockey	2	What unusual event happened during Game 4 of the Bruins-Oilers Stanley Cup finals in 1988?	Ice Melted	Coaches Got Into A Fist Fight	Wayne Gretzky Saw A Ghost	Power Went Out
+521128	Hockey	2	Which team won the 1999 NHL Stanley Cup?	New York Islanders	Montreal Canadiens	Detroit Red Wings	Dallas Stars
+207799	Hockey	2	Who scored the Montreal Canadiens' 3 goals in game 2 of the 1993 Stanley Cup?	John Leclair	Kirk Muller	Mathieu Schneider	Eric Desjardins
+487177	Hockey	2	How many teams played in the NHL during the 2005-2006 season?	36	15	27	30
+415475	Hockey	2	What NHL division does Columbus belong to?	Atlantic	Northeast	Northwest	Central
+532463	Hockey	2	Who helped the Devils to the Stanley Cup Finals in 2000 and 2001?	Frankie Brimsek	Wayne Gretzky	John MacLean	Martin Brodeur
+521033	Hockey	2	Which hockey star won 6 Stanley Cups, including 4 consecutive titles with the Islanders?	Sonny Jurgensen	Mike Schmidt	Barry Bonds	Bryan Trottier
+419555	Hockey	2	Who did the Dallas Stars face in the 1999 Stanley Cup Finals?	Edmonton Oilers	St. Louis Blues	Tampa Bay Lightning	Buffalo Sabres
+21013	Hockey	2	Which team won the Stanley Cup in 1998 against the Washington Capitals?	Toronto Maple Leafs	Colorado Avalanche	Montreal Canadiens	Detroit Red Wings
+232216	Hockey	2	How many Stanley Cup championships did Detroit Red Wings win with Steve Yzerman?	5	4	2	3
+400074	Hockey	2	Who coached the Montreal Canadiens from 1983-85 after winning eight Stanley Cups with them as a player?	Larry Robinson	Bob Berry	Claude Ruel	Jacques Lemaire
+399982	Hockey	2	Who captained the Oilers to their first Stanley Cup Championship in 1984?	Bobby Hull	Brian Leetch	Glen Murray	Wayne Gretzky
+521070	Hockey	2	Who was the 2019 Stanley Cup Finals MVP?	Jaden Schwartz	Zach Sanford	Brayden Schenn	Ryan O'Reilly
+511624	Hockey	2	NHL player Marc-Edouard Vlasic is sometimes known by what food-related nickname?	Noodles	Carrots	Stir-Fry	Pickles
+356330	Hockey	2	Who won the Stanley Cup in 2007, defeating the Ottawa Senators in their first Finals?	Detroit Red Wings	Dallas Stars	San Jose Sharks	Anaheim Ducks
+21030	Hockey	2	What Edmonton Oiler scored 16 seconds into game five of the 2006 Stanley Cup Finals?	Chris Pronger	Michael Peca	Sergei Samsanov	Fernando Pisani
+487161	Hockey	2	Where is the Hockey Hall of Fame located?	Boston	Montreal	Detroit	Toronto
+532486	Hockey	2	The 2012-13 NHL lockout officially began in which month of 2012?	December	March	June	September
+211076	Hockey	2	Which NHL captain is sometimes referred to as "The Great Eight" due to his jersey number?	Sidney Crosby	Corey Perry	Ryan Getzlaf	Alexander Ovechkin
+400004	Hockey	2	When the Colorado Avalanche won the 1996 Stanley Cup, which fact hurt the Montreal Canadiens most?	They Had Mocked The Canadiens	They Were Long-Standing Rivals	They Had Been Based In Canada	They Were Led By Patrick Roy
+1H4605	Hockey	2	Which Canucks head coach was suspended during the 2013-14 NHL season for trying to enter an opposing locker room?	Erik Johnson	Travis Hamonic	Zack Kassian	John Tortorella
+192188	Hockey	2	How many Stanley Cups did the New York Rangers win with Dave Kerr as goalie?	None	Three	Five	One
+487218	Hockey	2	What caused the Tampa Bay Lightning to not be able to defend their Stanley Cup in 2004-05?	Strike	Bankruptcy	Contraction	Lockout
+45L127	Hockey	2	What team included Jonathan Toews in 2016?	Pittsburgh Penguins	Calgary Flames	Carolina Hurricanes	Chicago Blackhawks
+326722	Hockey	2	The Detroit Red Wings defeated which team in the 2008 Stanley Cup finals?	Ottawa Senators	Montreal Canadiens	New Jersey Devils	Pittsburgh Penguins
+322705	Hockey	2	Which former Toronto Maple Leaf scored a Stanley Cup game winning goal, while playing with a broken leg?	Teeder Kennedy	Darryl Sittler	Dave Keon	Bob Baun
+521320	Hockey	2	Who was the first American NHL team to win the Stanley Cup?	Detroit Red Wings	Boston Bruins	Chicago Blackhawks	New York Rangers
+151822	Hockey	2	Which Rangers goaltender led the NHL in shutouts during the 2010-11 season with 11?	Marc-Andre Fleury	Carey Price	Corey Crawford	Henrik Lundqvist
+521133	Hockey	2	Who lost in the 2016 Stanley Cup final?	Tampa Bay Lightning	Los Angeles Kings	Washington Capitals	San Jose Sharks
+422990	Hockey	2	Which team did the Los Angeles Kings defeat in the 2014 Stanley Cup Finals?	Tampa Bay Lightning	Columbus Blue Jackets	Philadelphia Flyers	New York Rangers
+215126	Hockey	2	Who won the Conn Smythe Trophy in 2016-17 NHL season?	Alex Ovechkin	Sergei Bobrovsky	Carey Price	Sidney Crosby
+1H4601	Hockey	2	How many games did the 2019 Stanley Cup Finals last?	5 Games	6 Games	4 Games	7 Games
+4X4562	Hockey	2	Which goaltender had the most shutouts in the 2003-2004 season?	Ed Belfour	Jose Theodore	Patrick Lalime	Martin Brodeur
+532458	Hockey	2	Before playing for Tampa Bay, Petr Svoboda had played for which Stanley Cup-winning team?	Detroit Red Wings	Carolina Hurricanes	Los Angeles Kings	Montreal Canadiens
+269229	Hockey	2	For the 2010-11 NHL season, the league instituted new rules regarding hits to what area?	The Legs	The Neck	The Back	The Head
+269235	Hockey	2	What country is NHL skater Mike Modano from?	Canada	Lithuania	Finland	USA
+362420	Hockey	2	Which of these players names were engraved on the Stanley Cup for their 2019 victory?	Matt Grzelcyk	Connor Clifton	Torey Krug	Patrick Maroon
+207629	Hockey	2	Which team did the Boston Bruins defeat to win the 2011 Stanley Cup Finals?	Toronto Maple Leafs	Carolina Hurricanes	Atlanta Thrashers	Vancouver Canucks
+269092	Hockey	2	NHL goaltender Nikolai Khabibulin was widely known by what nickname?	The Bullin Fist	The Bullin Beast	The Bullin Monster	The Bullin Wall
+362370	Hockey	3	Scotty Bowman won how many Stanley Cups in nine years as coach of the Montreal Canadiens?	Three	Four	Seven	Five
+287717	Hockey	3	Coach Darryl Sutter took charge of which NHL team in 2011?	Calgary Flames	Dallas Stars	Ottawa Senators	Los Angeles Kings
+356292	Hockey	3	Which team did Columbus Blue Jackets head coach Ken Hitchcock lead to a Stanley Cup?	Philadelphia Flyers	Pittsburgh Penguins	New York Rangers	Dallas Stars
+364313	Hockey	3	Who won the Conn Smythe Trophy as Playoff MVP with the New York Islanders' first Stanley Cup?	Mike Bossy	Denis Potvin	Butch Goring	Brian Trottier
+269077	Hockey	3	The 2014 head coach of which Hockey team is Paul MacLean?	Winnipeg Jets	Vancouver Canucks	Buffalo Sabres	Ottawa Senators
+426689	Hockey	3	How many seasons did Dave Andreychuk play in the NHL before winning the Stanley Cup?	18	20	24	22
+62035	Hockey	3	What team defeated the Buffalo Sabres to win the Stanley Cup in 1974-1975?	Chicago Blackhawks	Tampa Bay Lightning	Montreal Canadiens	Philadelphia Flyers
+2H0111	Hockey	3	Which NHL team won the 2019 Heritage Classic?	Dallas Stars	New Jersey Devils	Edmonton Oilers	Winnipeg Jets
+1H4605	Hockey	3	Who is the first hockey player to have ten penalties in a game?	Marty McSorley	Dave Shultz	Wayne Gretzky	Chris Nilan
+364442	Hockey	3	Which team won the Stanley Cup in 1940 beating Toronto Maple Leafs?	Calgary Flames	Montreal Canadiens	Chicago Blackhawks	New York Rangers
+322747	Hockey	3	Which Calgary Flame had won the Stanley Cup twice while playing for the Colorado Avalanche?	Craig Conroy	Alex Tanguay	Brett Clark	Stephane Yelle
+151820	Hockey	3	Willie Desjardins became head coach of which NHL team in 2014?	Edmonton Oilers	Winnipeg Jets	Detroit Red Wings	Vancouver Canucks
+362343	Hockey	3	How many Stanley Cup Finals did the Edmonton Oilers make in the 1980's?	3	4	6	5
+487191	Hockey	3	In which city were the NHL's Calgary Flames originally based?	Jacksonville	Nashville	Montreal	Atlanta
+1H4597	Hockey	3	Which team did the Buffalo Sabres trade Don Edwards to before the 1982-83 season?	Edmonton Oilers	Winnipeg Jets	Detroit Red Wings	Calgary Flames
+2H0033	Hockey	3	In which city was the 2010-11 NHL All-Star Game held?	Dallas	Detroit	Atlanta	Raleigh
+39174	Hockey	3	Which NHL player was on the 2018-19 Lightning roster?	Maxim Mamin	Patrick Kane	Victor Mete	Cedric Paquette
+362319	Hockey	3	What Red Wing beat Carolina Hurricane Arturs Irbe in overtime, Game 3 of the Stanley Cup Finals?	Sergei Federov	Brendan Shanahan	Chris Chelios	Igor Larionov
+416001	Hockey	3	Philadelphia Flyers coach Keith Allen won a Stanley Cup in 1954 with which team?	Montreal Canadiens	Boston Bruins	Vancouver Canucks	Detroit Red Wings
+532482	Hockey	3	Which NHL team moved into the Consol Energy Center for the 2010-11 season?	Chicago Blackhawks	Los Angeles Kings	Edmonton Oilers	Pittsburgh Penguins
+487232	Hockey	3	Who was chosen first overall in the 2012 NHL Entry Draft?	Ryan Murray	Filip Forsberg	Tomas Hertl	Nail Yakupov
+419557	Hockey	3	Where did Bates Battaglia rank in team playoff scoring for 2002 Stanley Cup Finalist Carolina?	1st	5th	8th	2nd
+416230	Hockey	3	Who did the New York Rangers beat to get to the Stanley Cup finals in 1932?	Detroit Falcons	New York Americans	Boston Bruins	Montreal Canadiens
+356310	Hockey	3	Which Colorado Avalanche player scored two goals in Game 7 of the 2000-2001 Stanley Cup Finals?	Ray Bourque	Peter Forsberg	Patrick Roy	Alex Tanguay
+487238	Hockey	3	Which Detroit Red Wing scored 68 points in 2003-04 to tie Pavel Datsyuk for the team lead?	Mathieu Schneider	Ray Whitney	Nicklas Lidstrom	Brett Hull
+322832	Hockey	3	Who won his first Stanley Cup in 2002 in his first year with the Detroit Red Wings, 16th in the NHL?	Brett Hull	Fredrik Olausson	Pat Verbeek	Luc Robitaille
+419412	Hockey	3	How many Stanley Cups did Dominik Hasek win with the Detroit Red Wings?	None	One	Four	Two
+364299	Hockey	3	Who did the Islanders sweep in the 1983 Stanley Cup finals to win their fourth straight title?	Vancouver	Chicago	Los Angeles	Edmonton
+211079	Hockey	3	Who as drafted first overall by the Penguins out of the Quebec Major Junior Hockey League?	Niclas Andersen	Ian Cole	Jean-Sebastien Dea	Sidney Crosby
+423477	Hockey	3	Who scored an overtime goal in 1999 to give the Dallas Stars their first Stanley Cup?	Wayne Gretzky	Mike Modano	Jamie Langenbrunner	Brett Hull
+427033	Hockey	3	Who led the New Jersey Devils with 11 playoff goals when they won the 2003 Stanley Cup?	Joe Nieuwendyk	John Madden	Michael Rupp	Jamie Langenbrunner
+2H0099	Hockey	3	Who was the number one pick in the 1990-91 NHL Draft?	Darryl Sydor	Jaromir Jagr	Petr Nedved	Owen Nolan
+362251	Hockey	3	New York Islander captain Bill Guerin won a Stanley Cup while playing for what other team?	Detroit Red Wings	Mighty Ducks Of Anaheim	Dallas Stars	New Jersey Devils
+344375	Hockey	3	Who beat the Anaheim Mighty Ducks in the 2003 Stanley Cup finals?	Ottawa Senators	Detroit Red Wings	Toronto Maple Leafs	New Jersey Devils
+207800	Hockey	3	What was the 7th game score in the 2003-04 NHL Stanley Cup finals?	Tampa 2 Detroit 1	Tampa 7 Calgary 1	Calgary 1 Tampa 0	Tampa 2 Calgary 1
+521226	Hockey	3	Who won the Passing Challenge at the 2018 National Hockey League All-Star Game?	Eric Staal	Auston Matthews	Andrei Vasilevskiy	Alex Pietrangelo
+532449	Hockey	3	Who led all L.A. Kings defensemen with 75 points in 1988-89 and played in his first All-Star Game?	Larry Murphy	Mark Hardy	Gordon Wells	Steve Duchesne
+364162	Hockey	3	The Toronto Maple Leafs defeated which team to win the Stanley Cup in their first year of existence?	Montreal Canadiens	Montreal Wanderers	Detroit Red Wings	Vancouver Millionaires
+18S1190	Hockey	3	Who won the Conn Smythe Trophy in 2017-18 NHL season?	Craig Anderson	Henrik Lundqvist	Ivan Provorov	Alex Ovechkin
+356358	Hockey	3	Where did Edmonton's Shawn Horcoff rank in points in the 2006 Stanley Cup Playoffs?	2nd	13th	22nd	5th
+420005	Hockey	3	Who scored twice for Anaheim in the decisive fifth game of the 2007 Stanley Cup?	Andy McDonald	Francois Beauchemin	Corey Perry	Travis Moen
+1H4565	Hockey	3	From 2000 until April 2008, the Minnesota Wild accomplished which feat?	Sold Out All Away Games	Won The Stanley Cup Twice	Only Had One Team Captain	Sold Out All Home Games
+286293	Hockey	3	Who coached the Florida Panthers to their first Stanley Cup Final?	Bryan Murray	Mike Keenan	Rick Dudley	Doug MacLean
+419797	Hockey	3	Who led the NHL in assists for the 2018-19 season?	Justin Williams	Steven Stamkos	Alex Ovechkin	Nikita Kucherov
+326221	Hockey	3	What team defeated the Philadelphia Flyers in the 1979-1980 Stanley Cup Finals, a first for them?	Calgary Flames	Edmonton Oilers	Atlanta Thrashers	New York Islanders
+1H4571	Hockey	3	Who won the Hart Trophy in the 2011-2012 NHL season?	Patrice Bergeron	Brian Campbell	Sidney Crosby	Evgeni Malkin
+532521	Hockey	3	Which NHL player drew a 25-game suspension in 2012 for a hit to the head of Marian Hossa?	Claude Giroux	Martin Hanzal	Nicklas Backstrom	Raffi Torres
+532538	Hockey	3	Who took over as general manager of the Chicago Blackhawks in July 1997?	Bob Pulford	Dave Tallon	Dminik Hasek	Bob Murray
+521263	Hockey	3	Which NHL All-Star retired in November of 2014?	Sidney Crosby	Alexander Ovechkin	John Tavares	Daniel Alfredsson
+1H4575	Hockey	3	Which NHL star retired in 2013 so that he could play in his native Russia?	Milan Hejduk	Kari Lehtonen	Justin Azevedo	Ilya Kovalchuk
+415551	Hockey	3	Who was a head coach for the Florida Panthers in the 2008-09 NHL season?	Paul Maurice	Craig Hartsburg	Dave Tippett	Peter DeBoer
+427291	Hockey	3	What New Jersey Devil from Anchorage brought the Stanley Cup to Alaska for the first time in the cup's history?	Ty Conklin	Jason Ryznar	Brandon Dubinsky	Scott Gomez
+458151	Hockey	3	Who ended the Calgary Flames' Stanley Cup dreams late in their 1980-1981 debut post-season?	Philadelphia Flyers	Chicago Black Hawks	Vancouver Canucks	Minnesota North Stars
+420167	Hockey	3	The New York Islanders finished the 2014-15 season in what place in their division?	First	Second	Fourth	Third
+487196	Hockey	3	What team did Randy Carlyle coach in the 2016-17 NHL season?	Tampa Bay Lightning	Los Angeles Kings	Vancouver Canucks	Anaheim Ducks
+1H4587	Hockey	3	Who did the Rangers defeat in Round 1 of the 2017 NHL Playoffs?	Arizona	Buffalo	Pittsburgh	Montreal
+418522	Hockey	3	Who was on the Pittsburgh Penguins' "Option Line" during their first Stanley cup year, 1990-91?	Lemieux, Recchi, Stevens	Lemieux, Stevens, Jagr	Cullen, Stevens, Lemieux	Recchi, Cullen, Stevens
+405706	Hockey	3	Who was the Goaltending Coach of the 2018 Stanley Cup Champions?	Michal Kempny	Sergey Kocharov	Christopher Patrick	Scott Murray
+356384	Hockey	3	Who defeated the Buffalo Sabres with an extremely controversial goal in the 1999 Stanley Cup Finals?	New Jersey Devils	New York Islanders	Washington Capitals	Dallas Stars
+532609	Hockey	3	The Detroit Red Wings picked Sergei Fedorov in the fourth round and who in the third in the 1989 draft?	Dallas Drake	Vladimir Konstantinov	Vyacheslav Kozlov	Nicklas Lidstrom
+1H4595	Hockey	3	Who led the NHL with 56 goals in winning the Hart Trophy as League MVP in 2009?	Evgeni Malkin	Jonathan Toews	Jarome Iginla	Alexander Ovechkin
+487225	Hockey	3	The dramatic 6-5 win for the St. Louis Blues over Calgary on May 12, 1986 is known by what name?	The Flame-Out	The Black And Blue Blowup	The Miracle On Ice	The Monday Night Miracle
+423679	Hockey	3	Who was the MVP of the 1994 Stanley Cup Playoffs?	Mike Richter	Pavel Bure	Mark Messier	Brian Leetch
+269247	Hockey	3	Who was a head coach for the Nashville Predators in the 2008-09 NHL season?	Todd McLellan	Craig MacTavish	Brent Sutter	Barry Trotz
+487156	Hockey	3	Who was the first player to score his first NHL goal on a penalty shot?	Rick Foley	Ralph "Scotty" Bowman	Reggie Meserve	Illka Sinasalo
+422143	Hockey	3	In the '95-'96 NHL season, David Andreychuk won the Stanley Cup with which team?	New York Rangers	Philadelphia Flyers	Colorado Avalanche	New Jersey Devils
+521257	Hockey	3	Which hard-hitting forward won the Selke Trophy for the 2010-11 NHL season?	Patrice Bergeron	Pavel Datsyuk	Kris Draper	Ryan Kesler
+359964	Hockey	3	What team beat the Edmonton Oilers in the 2006 Stanley Cup Finals?	Ottawa Senators	New Jersey Devils	Buffalo Sabres	Carolina Hurricanes
+286054	Hockey	3	Who began a second tenure as head coach of the Buffalo Sabres during the 2013-14 NHL season?	Joe Sacco	Ron Rolston	Glen Gulutzan	Ted Nolan
+327311	Hockey	3	How many Stanley Cup-round games were played in 1991 between the North Stars and the Penguins?	Seven	Four	Five	Six
+419411	Hockey	3	When did the Dallas Stars win their first Stanley Cup?	1998	1994	2001	1999
+1H4589	Hockey	3	Who won the Conn Smythe Trophy for the 2015-16 NHL season?	Cam Ward	Henrik Zetterberg	Tim Thomas	Sidney Crosby
+357631	Hockey	3	Which Detroit Red Wing scored the first two goals of the 2008 Stanley Cup finals?	Niklas Kronwall	Dan Cleary	Johan Franzen	Mikael Samuelsson
+521323	Hockey	3	Which NHL team in the 2014-2015 regular season had 71 points and had 183 goals?	Winnipeg Jets	New York Rangers	Chicago Blackhawks	Carolina Hurricanes
+419615	Hockey	3	What Oiler delivered the game-winner in game three of the 2006 Stanley Cup finals?	Chris Pronger	Fernando Pisani	Ty Conklin	Ryan Smith
+269138	Hockey	3	What was the first season after the NHL's founding that the Montreal Canadiens won the Stanley Cup?	1922-23	1923-24	1958-59	1918-19
+356372	Hockey	3	What team did the Philadelphia Flyers defeat in the 1973-74 Stanley Cup finals, claiming their first ever franchise championship?	Montreal Canadiens	Atlanta Flames	Detroit Red Wings	Boston Bruins
+207747	Hockey	3	How many playoff games did Erik Cole play in when Carolina won the Stanley Cup in 2006?	None	19	25	Two
+423422	Hockey	3	Who was the captain for the Chicago Blackhawks from 1989-1995?	Chris Chelios	Keith Magnusson	Red Hamill	Dirk Graham
+7K4007	Hockey	3	Who broke Wayne Gretzky's fastest 2 shorthanded goals record less than a week later?	Mario Lemieux	Mark Messier	Pat Hughes	Esa Tikkanen
+207877	Hockey	3	Which team was defeated by the Chicago Blackhawks in the 2015 Stanley Cup Finals?	New York Rangers	Boston Bruins	New Jersey Devils	Tampa Bay Lightning
+364118	Hockey	3	Who led St. Louis in playoff goals during their 1967-68 run to the Stanley Cup finals?	Jimmy Roberts	Red Berenson	Frank St. Marseille	Dickie Moore
+207743	Hockey	3	Who scored the most goals for the New Jersey Devils in their 2000 Stanley Cup-winning post-season?	Jason Arnott	Scott Niedermayer	Andy Greene	Patrik Elias
+415483	Hockey	3	Where was NHL player Leo Komarov born?	USA	Norway	Canada	Soviet Union
+521201	Hockey	3	Who was drafted by the Detroit Red Wings in the third round, 95th overall?	Steve Bernier	Johnny Boychuk	Tyler Seguin	Valtteri Filppula
+412919	Hockey	3	Which New Jersey Devil was second in scoring in 1996-97 but never won a Stanley Cup with them?	Bill Guerin	Steve Sullivan	Brian Rolston	Dave Andreychuk
+269070	Hockey	3	Which coach lead the Montreal Canadiens past the Los Angeles Kings in the 1993 Stanley Cup finals?	Harry Sinden	Hector "Toe" Blake	Bill Stewart	Jacques Demers
+326718	Hockey	3	During which game of the 2006 Stanley Cup did the Hurricanes win the Cup?	Game 4	Game 5	Game 6	Game 7
+362352	Hockey	3	How many consecutive Stanley Cups did the New York Islanders win in the 1980's?	Five	Two	Seven	Four
+269230	Hockey	3	Which team captured their third Presidents' Trophy in the 2014-15 NHL season?	Washington Capitals	New York Islanders	Pittsburgh Penguins	New York Rangers
+359608	Hockey	3	Which goalie was in net for most of the Detroit Red Wings' 2008 winning Stanley Cup Playoff run?	Dominik Hasek	Manny Legace	Jimmy Howard	Chris Osgood
+415690	Hockey	3	The Vancouver Canucks had which head coach in the 2008-09 NHL season?	Brent Sutter	Andy Murray	Bruce Boudreau	Alain Vigneault
+428772	Hockey	3	Which NHL team made the playoffs for the 20th straight year in 2010-11?	Minnesota Wild	Nashville Predators	Columbus Blue Jackets	Detroit Red Wings
+423580	Hockey	3	The Florida Panthers defeated which team to qualify for their first Stanley Cup finals?	Montreal Canadiens	New Jersey Devils	Boston Bruins	Pittsburgh Penguins
+21047	Hockey	3	What was the nickname of the forward line on the 1928-29 Stanley Cup-winning Boston Bruins team?	World Beaters	Hurricane Line	Gold Rush	Dynamite Line
+424283	Hockey	3	Which player scored in double overtime to end the 2014 Stanley Cup Finals?	Justin Williams	Brad Richards	Anze Kopitar	Alec Martinez
+2H0093	Hockey	3	Who was the first NHL player to mark stitches on his mask, when hit in the face with a puck?	Bernie Parent	Ken Dryden	Jacques Plante	Gerry Cheevers
+327322	Hockey	3	Who did the Pittsburgh Penguins defeat when they first won the Stanley Cup in 1991?	Vancouver Canucks	Chicago Blackhawks	Edmonton Oilers	Minnesota North Stars
+326715	Hockey	3	Who were the brothers who helped the New York Rangers to their 1933 Stanley Cup championship?	Paul And Lloyd Waner	Gump And Hump Worsley	Jack And Buck Harmon	Bill And Bun Cook
+454HL745	Hockey	3	How many games did the New Jersey Devils win in the 2018-19 NHL season?	45 Games	48 Games	21 Games	31 Games
+269227	Hockey	3	Which team had the most points in the NHL for the 2014-2015 regular season?	Ottawa Senators	Columbus Blue Jackets	New Jersey Devils	New York Rangers
+362398	Hockey	3	In which year did the Edmonton Oilers win their first Stanley Cup Championship?	1983	1985	1987	1984
+361686	Hockey	3	Who scored the Stanley Cup winning goal in 1967 for the Toronto Maple Leafs?	Allan Stanley	Marcel Pronovost	Dave Keon	Jim Pappin
+350647	Hockey	3	How many Stanley Cup finals did Eric Desjardins play in?	One	Three	Four	Two
+1H4563	Hockey	3	Who won the Fastest Skater Contest at the 2018 National Hockey League All-Star Game?	Sidney Crosby	Steven Stamkos	Josh Bailey	Connor McDavid
+21029	Hockey	3	What team knocked the Phoenix Coyotes out of the 2000 Stanley Cup Playoffs?	New Jersey Devils	Dallas Stars	Vancouver Canucks	Colorado Avalanche
+362360	Hockey	3	By the end of the 1960-61 season, how many times had the Chicago Blackhawks won the Stanley Cup?	Two	Six	None	Three
+1H4583	Hockey	3	Which coach was named a finalist for the Jack Adams Award in 2015?	Barry Trotz	Mike Johnston	Jack Capuano	Alain Vigneault
+423198	Hockey	3	Which NHL team played without an official captain for the 2014 Stanley Cup Finals?	Los Angeles Kings	Detroit Red Wings	Pittsburgh Penguins	New York Rangers
+415481	Hockey	3	Who was the first Pittsburgh Penguins player to record 100 points in a season?	Jean Pronovost	Syl Apps	Rick Kehoe	Pierre Larouche
+364301	Hockey	3	Who captained the Dallas Stars to their first Stanley Cup triumph?	Brett Hull	Mike Modano	Sergei Zubov	Derian Hatcher
+357376	Hockey	3	What was Rod Brind'Amour's rank in goal scoring for the 2006 Stanley Cup Playoffs?	1st	5th	9th	2nd
+532539	Hockey	3	Which NHL player opened a restaurant in New York City called Warren 77?	Henrik Lundqvist	Dan Girardi	Marc Staal	Sean Avery
+426249	Hockey	3	What team knocked the Devils out of the Stanley Cup Playoffs in 2006?	New York Rangers	Philadelphia Flyers	Boston Bruins	Carolina Hurricanes
+323307	Hockey	3	Who defeated the Los Angeles Kings in their first Stanley Cup Finals appearance in 1993?	Edmonton Oilers	New Jersey Devils	Buffalo Sabres	Montreal Canadiens
+487221	Hockey	3	What was Evgeni Nabokov's save percentage for the Sharks in 2005-2006?	.901	.902	.876	.885
+8369	Hockey	3	How many games did the New Jersey Devils win in the 2016-17 NHL season?	40 Games	48 Games	51 Games	28 Games
+423012	Hockey	3	Who coached the Montreal Canadiens to eight Stanley Cups in the 1950's and 1960's?	Dick Irvin	Claude Ruel	Leo Dandurand	Toe Blake
+360S687	Hockey	3	What team did the Pittsburgh Penguins beat to win the Stanley Cup for the second time in 1991-92?	Minnesota North Stars	Edmonton Oilers	Carolina Hurricanes	Chicago Blackhawks
+428684	Hockey	3	What was the name of Cleveland's entry in the World Hockey Association?	The Lumberjacks	The Barons	The Spiders	The Crusaders
+426472	Hockey	3	For what team did Scott Niedermayer record two assists in the 2003 Stanley Cup final?	Anaheim Mighty Ducks	Ottawa Senators	Washington Capitals	New Jersey Devils
+151826	Hockey	3	What country is NHL skater Brian Willsie from?	Finland	USA	Sweeden	Canada
+357309	Hockey	3	Who scored an overtime goal in Game 7 to win the 1950 Stanley Cup for the Detroit Red Wings?	Leo Reise	Marcel Pronovost	Tony Leswick	Pete Babando
+418815	Hockey	3	When John Grahame won the Stanley Cup in 2004, which family member's name was already on it?	Father	Uncle	Brother	Mother
+456L800	Hockey	3	Who was the coach of the Stanley Cup Champion New York Rangers of 1994?	Glen Sather	Scotty Bowman	Cy Denneny	Mike Keenan
+428533	Hockey	3	How many 7-game series did the Boston Bruins win during the 2011 NHL playoffs?	2	1	0	3
+357382	Hockey	3	The famous photo of Bobby Orr "flying" after scoring in the Stanley Cup finals was taken when?	1972	1968	1975	1970
+422799	Hockey	3	What New York Rangers center helped lead the team to its 1933 Stanley Cup title?	Butch Keeling	Muzz Patrick	Brian Hextal	Frank Boucher
+348373	Hockey	3	Which former Calgary Flame and winner of the 1989 Stanley Cup is President of the Flames Alumni?	Al MacInnis	Tim Hunter	Ken Sabourin	Jim Peplinski
+425085	Hockey	3	The Edmonton Oilers made it the Stanley Cup Playoffs in 1979-80, but were defeated by which team?	Los Angeles Kings	New Jersey Devils	New York Rangers	Philadelphia Flyers
+362461	Hockey	3	As a player, how many times did Minnesota Wild coach Jacques Lemaire win the Stanley Cup?	One	Four	Thirteen	Eight
+422626	Hockey	3	The coach of the Ottawa Senators won NHL Coach of the Year in 1999, who was he?	Pat Burns	Red Berenson	Glen Sather	Jacques Martin
+429696	Hockey	3	Which NHL player was on the 2018-19 Lightning roster?	Jacob MacDonald	Luke Johnson	Jonathan Drouin	J.T. Miller
+189S837	Hockey	3	What team did the 2017-18 James Norris Memorial Trophy play for?	Calgary Flames	Ottawa Senators	Boston Bruins	Tampa Bay Lightning
+521219	Hockey	3	1989 Washington Capitals draftee Byron Dafoe ended his NHL career with which team?	Washington Capitals	Edmonton Oilers	Colorado Avalanche	Atlanta Thrashers
+400089	Hockey	3	Who swept the Philadelphia Flyers in the 1976 Stanley Cup Finals?	Boston Bruins	New York Rangers	New Jersey Devils	Montreal Canadiens
+361172	Hockey	3	The Stanley Cup mistakenly lists whom as the coach of the 1921-22 Toronto St. Patricks?	George O'Donoghue	Charles Querrie	Frank Carroll	Eddie Powers
+8404	Hockey	3	How many Stanley Cup championship rings has Jari Kurri won?	2	3	4	5
+413803	Hockey	3	How many Stanley Cups did the Boston Bruins win in the 20th century?	Eight	13	17	Five
+400144	Hockey	3	What was the total score of the Montreal Canadiens six-game 1989 Stanley Cup finals losses?	18-18	23-21	12-17	16-19
+426879	Hockey	3	Which Canadien was the first defenseman with a Stanley Cup finals hat trick at the Montreal Forum?	Doug Harvey	Jacques Laperriere	Larry Robinson	Eric Desjardins
+8P9090	Hockey	3	The Detroit Red Wings beat the Montreal Maroons in which overtime in their 1936 Stanley Cup run?	Fourth	Fifth	Seventh	Sixth
+7K4005	Hockey	3	What country is NHL skater Dany Heatley from?	Czech Republic	Sloveniavakia	USA	Germany
+416588	Hockey	3	Who did the New York Islanders defeat in the 1980 Finals to win their first Stanley Cup?	Buffalo Sabres	Montreal Canadiens	Vancouver Canucks	Philadelphia Flyers
+207616	Hockey	3	In what country was NHL player Tom Kostopoulos born?	Russia	USA	Ukraine	Canada
+423469	Hockey	3	Who got the assist on Wayne Gretzky's historic 802nd career goal?	Tony Granato	Jari Kurri	Kelly Hrudey	Marty McSorley
+364319	Hockey	3	Who coached the Montreal Canadiens to eight Stanley Cups in 13 seasons?	Dick Irvin	Scotty Bowman	Claude Ruel	Toe Blake
+360691	Hockey	3	Scotty Bowman won how many of his record nine Stanley Cups as a coach with the Detroit Red Wings?	Two	Four	Five	Three
+521223	Hockey	3	Who ended the 2014-15 NHL season as runner-up for the Art Ross Trophy with 86 points?	Sidney Crosby	Alexander Ovechkin	Jamie Benn	John Tavares
+521233	Hockey	3	Who was captain of the Bruins in 2016-17?	David Backes	Riley Nash	David Krejci	Zdeno Chara
+7K9993	Hockey	3	In 2008, Detroit Red Wing Dan Cleary became the first player born where to win the Stanley Cup?	Alaska	Ireland	Austria	Newfoundland
+364306	Hockey	3	What expansion team did the Montreal Canadiens meet in the 1968 Stanley Cup finals?	Minnesota North Stars	Colorado Avalanche	Vancouver Canucks	St. Louis Blues
+362330	Hockey	3	Which Ottawa Senator defenseman scored in double overtime to beat Buffalo in Game 2 of the 2007 Stanley Cup Semifinals?	Chris Phillips	Anton Volchenkov	Andrej Meszaros	Joe Corvo
+532544	Hockey	3	What is the minimum height for the glass above the boards on the sides of a hockey rink?	Six Feet	One Foot	Twenty Feet	Five Feet
+415692	Hockey	3	Which of the following players was not a finalist for the NHL's Hart Memorial Trophy in 2011-12?	Henrik Lundqvist	Evgeni Malkin	Steven Stamkos	Jonathon Quick
+532536	Hockey	3	Who won the Conn Smythe Trophy in 2015?	Cam Ward	Henrik Zetterberg	Tim Thomas	Duncan Keith
+422749	Hockey	3	Who was the coach of the Stanley Cup champion Pittsburgh Penguins of 1992?	Jacques Lemaire	Frank Boucher	Hector "Toe" Blake	Scotty Bowman
+419974	Hockey	3	Which NHL team led the league in overtime/shootout losses for the 2011-12 season?	Calgary Flames	Edmonton Oilers	Toronto Maple Leafs	Florida Panthers
+2H0027	Hockey	3	Which NHL team finished atop the Eastern Conference for the 2010-11 NHL regular season?	Philadelphia Flyers	Boston Bruins	Pittsburgh Penguins	Washington Capitals
+423444	Hockey	3	Which former Canucks center died tragically during the 2011 offseason?	Tom Sesito	Linden Vey	Radim Vrbata	Rick Rypien
+269086	Hockey	3	The winner of the 1937 NHL Stanley Cup was?	Montreal Canadiens	Ottawa Senators	New York Islanders	Detroit Red Wings
+521232	Hockey	3	In January of 1993, which Blackhawks left wing played his 1000th career game?	Steve Larmer	Ed Belfour	Bill Mosienko	Mike Goulet
+419994	Hockey	3	How many NHL teams had 50 or more wins in the 2013-14 regular season?	12 Teams	2 Teams	3 Teams	6 Teams
+423565	Hockey	3	Who was the last Hartford Whaler on the Carolina Hurricanes when they won the 2005-06 Stanley Cup?	Bret Hedican	Rod Brind'Amour	Eric Staal	Glen Wesley
+422375	Hockey	3	The 2007 NHL Playoffs with the Ottawa Senators marked how many times in four years that Matin Gerber was in the Stanley Cup Finals?	One	Two	Four	Three
+7K4023	Hockey	3	Which NHL goaltender was born in South Africa?	Troy Murray	Peter Sidorkiewicz	Jim Hrivnak	Olaf Kolzig
+419639	Hockey	3	Who was the manager of the 1995 Stanley Cup-winning New Jersey Devils?	Jacques Lamaire	Mike Keenan	Jacques Demers	Lou Lamoriello
+251865	Hockey	3	Who beat the Oilers in game one of the 2006 Stanley Cup series?	Anaheim Ducks	Calgary Flames	Boston Bruins	Carolina Hurricanes
+269239	Hockey	3	Who led the NHL in scoring during the 2011-12 season?	Steven Stamkos	Claude Giroux	Ilya Kovalchuk	Evgeni Malkin
+151824	Hockey	3	Which Tampa Bay Lightning forward score 60 goals during the 2011-12 NHL season?	Martin St. Louis	Vincent Lecavalier	Mattias Ohlund	Steven Stamkos
+413846	Hockey	3	Who did the Detroit Red Wings defeat in the 2002 Stanley Cup Finals?	Buffalo Sabres	New Jersey Devils	They Lost	Carolina Hurricanes
+521224	Hockey	3	Which team lost 24 of the 82 games and had 109 points for the 2014-2015 regular season?	Buffalo Sabres	Vancouver Canucks	Colorado Avalanche	St. Louis Blues
+419930	Hockey	3	Who coached the Tampa Bay Lightning to their first Stanley Cup?	Roger Paterson	Steve Ludzik	Terry Crisp	John Tortorella
+347568	Hockey	3	Who was traded by the Los Angeles Kings in mid 2007-08 and won the Stanley Cup at season's end?	Jaroslav Modry	Rob Blake	Lubomir Visnovsky	Brad Stuart
+207809	Hockey	3	Who was the coach of the New Jersey Devils in 2003 when they won the Stanley Cup?	Robbie Ftorek	Larry Robinson	Kevin Constantine	Pat Burns
+363395	Hockey	3	Who was the coach of the Stanley Cup Champion New York Rangers of 1940?	Scotty Bowman	R. "Cooney" Weiland	Hector "Toe" Blake	Frank Boucher
+364304	Hockey	3	During the 2010-11 Stanley Cup Playoffs, the Nashville Predators won a series against which team?	Phoenix Coyotes	Los Angeles Kings	Detroit Red Wings	Anaheim Ducks
+2H0069	Hockey	3	Which team won the most games during the 2010-11 NHL regular season?	Washington Capitals	San Jose Sharks	Philadelphia Flyers	Vancouver Canucks
+429713	Hockey	3	Who scored the most goals with New Jersey Devils in their 1987-88 season?	Kirk Muller	Aaron Broten	Claude Loiselle	Pat Verbeek
+356317	Hockey	3	Which Anaheim Mighty Duck received the Conn Smythe Trophy in 2002-2003, but lost the Stanley Cup?	Paul Kariya	Sergei Fedorov	Sandis Ozolinsh	Jean-Sebastien Giguere
+424022	Hockey	3	What team did Doug Weight play for when he won his first Stanley Cup Championship?	St. Louis Blues	Edmonton Oilers	New York Rangers	Carolina Hurricanes
+532611	Hockey	3	What New York Islander scored five seconds into a 1984 game to tie a record for fastest goal?	Pat LaFontaine	Clark Gillies	Ken Morrow	Bryan Trottier
+422785	Hockey	3	Which Avalanche defenseman scored the Stanley Cup-winning goal in the 1995-96 finals?	Joe Sakic	Adam Foote	Stan Kroenke	Uwe Krupp
+419619	Hockey	3	As 1939-40 Stanley Cup champions, what odd action did the New York Rangers take while celebrating?	Slept In The Arena	Everyone Quit	Trashed The Arena	Burned The Lease In The Stanley Cup
+487212	Hockey	3	How many goals did Rookie of the Year Daniel Alfredsson score for Ottawa in 1995-96?	36	46	56	26
+532534	Hockey	3	Who scored the 18,000th goal in Boston Bruins history in December of 2007?	Patrice Bergeron	Marc Suvard	P.J. Axelsson	Dennis Wideman
+422999	Hockey	3	What team beat the Dallas Stars in the 1997-1998 conference finals, and then won the Stanley Cup?	Los Angeles Kings	Pittsburgh Penguins	Atlanta Thrashers	Detroit Red Wings
+423034	Hockey	3	For the 2014-15 season, Peter Laviolette became the new head coach of which NHL team?	Vancouver Canucks	Washington Capitals	Florida Panthers	Nashville Predators
+8P1117	Hockey	3	The Detroit Red Wings lost Game 6 of the 2008 Stanley Cup Finals by a goal scored in which period?	3rd	4th	5th	6th
+423230	Hockey	3	What Carolina Hurricane came off the injury list to play in the 2005-2006 Stanley Cup Finals Game 6?	Cory Stillman	Cam Ward	Aaron Ward	Erik Cole
+364386	Hockey	3	With which team did Stu Barnes play in his first Stanley Cup Final?	Buffalo Sabres	Detroit Red Wings	Colorado Avalanche	Florida Panthers
+357094	Hockey	3	What year did Justin Williams first become a Stanley Cup championship winner?	2005	2002	2004	2006
+362413	Hockey	3	Who was the captain of the Tampa Bay Lightning's first Stanley Cup team?	Martin St. Louis	Brad Richards	Nikolai Khabibulin	Dave Andreychuk
+151825	Hockey	3	What franchise played its 89th season in the National Hockey League in 2014-15?	Ottawa Senators	Boston Bruins	Tampa Bay Lightning	Detroit Red Wings
+422782	Hockey	3	Who did the Philadelphia Flyers face in the 1975 Stanley Cup Finals?	Boston Bruins	Toronto Maple Leafs	New Jersey Devils	Buffalo Sabres
+415478	Hockey	3	What team did the 2018-19 James Norris Memorial Trophy play for?	Los Angeles Kings	San Jose Sharks	Carolina Hurricanes	Calgary Flames
+521321	Hockey	3	In February of 1985 the St. Louis Blues traded goalie Mike Liut to which team?	New Jersey Devils	Minnesota North Stars	Washington Capitals	Hartford Whalers
+361685	Hockey	3	Who was the losing coach in the 1953 Stanley Cup finals for the Boston Bruins?	Jack Adams	Billy Reay	Lester Patrick	Lynn Patrick
+412765	Hockey	3	Which Colorado Avalanche player scored the winning goal against the Florida Panthers for the 1996 Stanley Cup?	Joe Sakic	Peter Forsberg	Scott Young	Uwe Krupp
+357635	Hockey	3	The Montreal Canadiens were 1986 Stanley Cup Champs, with Conn Smythe winner Patrick Roy in net. Who was his back-up?	Steve Penney	Hardy Astrom	J.C. Bergeron	Doug Soetart
+521237	Hockey	3	The Chicago Blackhawks had which head coach in the 2008-09 NHL season?	Tony Granato	Peter DeBoer	Craig Hartsburg	Joel Quenneville
+532610	Hockey	3	What is the maximum curvature allowed on a stick for the 2005-2006 NHL season?	1 Inch	None	1/2 Inch	3/4 Inch
+418823	Hockey	3	How many times did Toronto win the Stanley Cup in the 1960's?	None	10	One	Four
+428757	Hockey	3	The 2010-11 NHL season was the final campaign for which NHL team?	Carolina Hurricanes	Phoenix Coyotes	Nashville Predators	Atlanta Thrashers
+2H0063	Hockey	3	Which NHL team wore memorial patches for Pavol Demitra and Derek Boogaard for the 2011-12 season?	Nashville Predators	Winnipeg Jets	Calgary Flames	Minnesota Wild
+458157	Hockey	3	In 1994, what Vancouver Canuck scored in double overtime to send them to the Stanley Cup Finals?	Pavel Bure	Trevor Linden	Geoff Courtnall	Greg Adams
+426416	Hockey	3	Who sang the National Anthem at final game of the 2017 Stanley Cup Playoffs?	Sia	Billy Joel	Faith Hill	Jeff Jimerson
+207795	Hockey	3	Who broke the Ottawa Silver Seven's stranglehold of the Stanley cup in 1906?	Quebec Bulldogs	Hamilton Tigers	Toronto St. Pats	Montreal Wanderers
+421430	Hockey	3	Who captained the Vancouver Canucks to the Stanley Cup Finals against the Islanders in 1982?	Dan Quinn	Doug Lidster	Mark Messier	Stan Smyl
+521221	Hockey	3	Who was the first president of the NHL's Nashville Predators?	Tom Ward	David Poile	Barry Trotz	Jack Diller
+232219	Hockey	3	Who did the Golden Knights defeat in the Conference Finals to get to their first Stanley Cup Final?	Philadelphia Flyers	Boston Bruins	Minnesota Wild	Winnipeg Jets
+7K9996	Hockey	3	In which year did Ville Nieminen win the Stanley Cup with the Colorado Avalanche?	2002	2000	2004	2001
+207882	Hockey	3	In what year did the New York Ranger's win their first Stanley Cup?	1964	1935	1926	1928
+426294	Hockey	3	Who scored the game-winning goal to give the New Jersey Devils their second Stanley Cup?	Martin Brodeur	Bill Smith	Bobby Hull	Jason Arnott
+20996	Hockey	3	What was especially significant about the New York Rangers' win of the 1927-1928 Stanley Cup?	Winning Goal Was Controversial	They Had No Goalie	All Played With Injuries	First American Team To Win
+326218	Hockey	3	Who won their third career Hart Memorial Trophy for the 2012-13 season?	Sidney Crosby	Martin St. Louis	Carey Price	Alexander Ovechkin
+487158	Hockey	3	Which player was on a team's roster in the 2014 Stanley Cup Final?	Calvin de Haan	Josh Bailey	Matt Martin	Mike Richards
+521146	Hockey	3	Which was the first U.S. team to win the Stanley Cup?	San Jose Sharks	Boston Bruins	Chicago Blackhawks	Seattle Metropolitans
+428740	Hockey	3	Which NHL team was put in the Pacific Division for the 2013-14 season?	Philadelphia Flyers	Tampa Bay Lightning	Ottawa Senators	Los Angeles Kings
+362354	Hockey	3	The Tampa Bay Lightning failed to re-sign which goalie before their first season as Stanley Cup Champions?	John Grahame	Nolan Pratt	Darren Rumble	Nikolai Khabibulin
+428559	Hockey	3	Which team did the New Jersey Devils beat in seven games to win the 2003 Stanley Cup?	Calgary Flames	Dallas Stars	Detroit Red Wings	Anaheim Mighty Ducks
+357437	Hockey	3	Which team swept the Detroit Red Wings in the 1995 Stanley Cup finals?	Montreal Canadiens	New York Rangers	Pittsburgh Penguins	New Jersey Devils
+532614	Hockey	3	Who among the following did not receive the NHL's Lester Patrick Trophy for the 2010-11 season?	Bob Pulford	Tony Rossi	Jeff Sauer	Jack Parker
+521209	Hockey	3	In what year was NHL star Henrik Lundqvist born?	1979	1985	1988	1982
+412967	Hockey	3	How many Europeans had captained a team to the Stanley Cup Finals before Daniel Alfredsson with the Ottawa Senators?	One	Two	Three	None
+360477	Hockey	3	What was the score of the first game of the 2018 Stanley Cup Final?	3-2	5-0	9-1	6-4
+521199	Hockey	3	What Boston Bruin played the character Sea Bass in the 1994 Jim Carrey movie "Dumb and Dumber"?	Terry O'Reilly	Rick Middleton	Dave Reid	Cam Neely
+487214	Hockey	3	Who is the first player to ever win the Memorial Cup in junior, the Calder Cup in the AHL and the Stanley Cup in the NHL in three consecutive years?	Mario Lemieux	Guy LaFleur	Patrick Roy	John Kordic
+364134	Hockey	3	Who was captain of the New York Islanders when they won their first Stanley Cup?	Clark Gillies	Brian Trottier	Bob Bourne	Denis Potvin
+347610	Hockey	3	Which Edmonton Oiler scored an overtime shorthanded goal in Game 5 of the 2006 Stanley Cup Finals?	Ryan Smyth	Sergei Samsonov	Chris Pronger	Fernando Pisani
+487231	Hockey	3	Who did the St. Louis Blues trade Joe Mullen to in February of 1986?	Los Angeles Kings	Pittsburgh Penguins	Philadelphia Flyers	Calgary Flames
+327286	Hockey	3	Who led the New Jersey Devils with 16 playoff assists when they won the 2003 Stanley Cup?	Patrik Elias	Brian Rafalski	Jay Pandolfo	Scott Niedermayer
+2BS11008	Hockey	3	Who became the 13th player in NHL history to score 8 points in a game during the 2011-12 season?	Steve Staios	Tomas Holmstrom	Mike Knuble	Sam Gagner
+429718	Hockey	3	Who won the Hardest Shot at the 2018 National Hockey League All-Star Game?	Steven Stamkos	Brent Burns	P.K. Subban	Alexander Ovechkin
+418835	Hockey	3	What happened in the 1988 Stanley Cup finals in Boston Garden to cancel the would-be game four?	A Scheduling Conflict	The Ice Melted	The Ceiling Fell	A Blown Fuse Killed The Lights
+532540	Hockey	3	Due to a lockout, the 2012-13 NHL season did not begin until what month of 2013?	February	March	April	January
+416643	Hockey	3	What team is in their 40th season for the National Hockey League in 2018-19?	Philadelphia Flyers	Carolina Hurricanes	New York Rangers	Arizona Coyotes
+421896	Hockey	3	Which Detroit Red Wing used the Stanley Cup for baptizing a baby in 2008?	Nicklas Lidstrom	Andreas Lilja	Mikael Samuelsson	Tomas Holmstrom
+211078	Hockey	3	In the 2011-12 NHL playoffs, how many first-round series ended in a sweep?	2	4	8	0
+532460	Hockey	3	Who won his first Stanley Cup in 1970 with the Boston Bruins?	Joe Montana	Merlin Olsen	Ray Mercer	Bobby Orr
+418813	Hockey	3	Who won the Conn Smythe Trophy in 2007, the year Anaheim won the Stanley Cup?	Jean-Sebastien Giguere	Corey Perry	Chris Pronger	Scott Niedermayer
+532532	Hockey	3	1981 Capitals third-round pick Eric Calder played four years with which country's HC Rouen?	Germany	Switzerland	Austria	France
+20948	Hockey	3	What NHL player is the cousin of Keith Tkachuk?	Andrew Cassels	Jeremy Roenick	Ron Hextall	Tom Fitzgerald
+45L124	Hockey	3	What TV series did the NHL launch in 2013 to highlight the lives of key players?	NHL Uncovered	NHL Off-Ice	NHL Beyond	NHL Revealed
+399979	Hockey	3	In whose lap did Detroit Red Wing Steve Yzerman place his team's 1998 Stanley Cup?	Wayne Gretzky's	Gordie Howe's	Bobby Hull's	Vladimir Konstantinov's
+357713	Hockey	3	How many games did the Colorado Avalanche win against the Detroit Red Wings in the 1996-97 Stanley Cup finals?	One	None	Four	Two
+364330	Hockey	3	Who shared goaltending duties with Kevin Weekes, helping lead the Carolina Hurricanes to the 2002 Stanley Cup Finals?	Curtis Joseph	Felix Potvin	Nikali Khabibulin	Arturs Irbe
+521213	Hockey	3	In 1997, where was the name "Predators" for Nashville's NHL team officially unveiled?	Nashville Arena	First American Building	Grand Ole Opry	Wildhorse Saloon
+1H4567	Hockey	3	Which of these players was picked for the 2017 NHL All-Star Game?	Antoine Vermette	Logan Shaw	Jared Boll	Ryan Kesler
+400083	Hockey	3	Who scored a Game 7 overtime goal to send the St. Louis Blues to the Stanley Cup Finals in 1968?	Red Berenson	Dickie Moore	Bob Plager	Ron Schock
+322690	Hockey	3	Brian Rafalski won how many Stanley Cups before he won his first with the Detroit Red Wings in 2008?	None	One	Four	Two
+416154	Hockey	3	Vincent Lecavalier scored how many playoff goals in Tampa Bay's 2003-04 Stanley Cup year?	Four	13	18	Nine
+1H4609	Hockey	3	Which NHL player was on the 2018-19 New York Islanders roster?	Mike Matheson	Erik Gustafsson	Max Domi	Stephen Gionta
+521084	Hockey	3	What team fired Randy Carlyle on February 10, 2019?	Minnesota Wild	Nashville Predators	Buffalo Sabres	Anaheim Ducks
+422774	Hockey	3	The 1997 Philadelphia Flyers reached the Stanley Cup Finals for the first time in how long?	20 Years	5 Years	2 Years	10 Years
+420923	Hockey	3	The last trade of the 2010-11 NHL season sent Petr Kalus from the Minnesota Wild to which team?	Colorado Avalanche	Chicago Blackhawks	Calgary Flames	Columbus Blue Jackets
+421021	Hockey	3	What did opposing fans chant pre-1994 to remind the New York Rangers of their Stanley Cup drought?	1944	Where's Your Cup?	Dutton	1940
+423470	Hockey	3	How many Chicago Blackhawks players were voted into the 2015 NHL All-Star Game?	Three	One	Six	Five
+399972	Hockey	3	Which Carolina Hurricane scored a goal 86 seconds into Game 7 of the 2005-2006 Stanley Cup Finals?	Cory Stillman	Rod Brind'Amour	Erik Cole	Aaron Ward
+361682	Hockey	3	Who was the coach of the Stanley Cup Champion Chicago Blackhawks of 1938?	Hector "Toe" Blake	Tommy Gorman	Dick Irvin	Bill Stewart
+418812	Hockey	3	The Detroit Red Wings won how many Stanley Cups in the 1950's?	One	Two	Six	Four
+415605	Hockey	3	Which of these NHL teams made the playoffs for the 2014-15 season?	Florida Panthers	Carolina Hurricanes	Toronto Maple Leafs	Ottawa Senators
+521176	Hockey	3	Who was the coach of the 1990 Stanley Cup Champion Edmonton Oilers?	Terry Crisp	Marc Crawford	Scotty Bowman	John Muckler
+362073	Hockey	3	What team did Montreal beat four games to three to reach the 1953 Stanley Cup finals?	Toronto Maple Leafs	New York Rangers	Boston Bruins	Chicago Blackhawks
+362342	Hockey	3	Who was the first U.S. native to win the Conn Smythe Trophy as the Stanley Cup MVP?	Bobby Orr In 1972	Billy Smith In 1983	Glenn Hall In 1968	Brian Leetch In 1994
+532448	Hockey	3	Which team did Wayne Gretzky play his last game against?	Flyers	Bruins	Devils	Penguins
+269108	Hockey	3	What team did Andrew Ference become the captain of in the 2013-14 season?	Minnesota Wild	Ottawa Senators	New York Islanders	Edmonton Oilers
+415500	Hockey	3	How many minutes before face-off must the visiting hockey team provide its lineup?	Fifteen	Five	Sixty	Twenty
+423310	Hockey	3	Who won the Conn Smythe Trophy when the Detroit Red Wings won their second straight Cup in 1998?	Chris Osgood	Larry Murphy	Brendan Shanahan	Steve Yzerman
+416377	Hockey	3	Which captain of the Los Angeles Kings won five Stanley Cups with the Montreal Canadiens?	Larry Robinson	Bob Murdoch	Bob Berry	Terry Harper
+207822	Hockey	3	Who did the Calgary Flames beat in the 1989 Stanley Cup finals?	Los Angeles Kings	Minnesota North Stars	Dallas Stars	Montreal Canadiens
+521234	Hockey	3	What Calgary Flames forward captured the 2014-15 Lady Byng Memorial Trophy?	Dennis Wideman	Johnny Gaudreau	Mark Giordano	Jiri Hudler
+421431	Hockey	3	Who led the Florida Panthers in points in the season they first reached the Stanley Cup Finals?	Rob Niedermayer	Robert Svehla	Jesse Belanger	Scott Mellanby
+360690	Hockey	3	Who of these hockey greats scored the most goals in a Stanley Cup Final?	Wayne Gretzky	Jean Beliveau	Gordie Howe	Maurice Richard
+421904	Hockey	3	Anders Eriksson played on which 1997-98 Stanley Cup-winning team?	Toronto Maple Leafs	Dallas Stars	Washington Capitals	Detroit Red Wings
+361687	Hockey	3	In which decade did the Detroit Red Wings fail to appear in a Stanley Cup Finals series?	1960's	1950's	1990's	1970's
+521208	Hockey	3	Before coming to the NHL, Teemu Selanne practiced what profession in his native Finland?	Lawyer	Banker	Boxer	Teacher
+421253	Hockey	3	Who made his Islander debut just after playing for Team Canada in the 1984 Olympics?	Brent Sutter	Kelly Hrudey	Paul Boutilier	Patrick Flatley
+207823	Hockey	3	Who led the Florida Panthers with 49 assists in the season they first reached the Stanley Cup Finals?	Stu Barnes	Jody Hull	Rob Niedermayer	Robert Svehla
+487187	Hockey	3	Who designed the EDGE Uniform System used by all NHL teams in the 2007-08 season?	Nike	Adidas	Microsoft	Reebok
+362335	Hockey	3	Who did the Capitals defeat in the 2018 Conference Finals to get to the Stanley Cup Final?	Boston Bruins	Los Angeles Kings	Chicago Blackhawks	Tampa Bay Lightning
+323267	Hockey	3	Who defeated the Toronto Maple Leafs in their first Stanley Cup Finals as the St. Patricks?	Montreal Canadiens	Boston Bruins	Vancouver Canucks	Ottawa Senators
+1H4579	Hockey	3	Which NHL team dressed an NHL-record 9 goalies during the 2013-14 NHL season?	Columbus Blue Jackets	Edmonton Oilers	Calgary Flames	Buffalo Sabres
+426255	Hockey	3	The Florida Panthers played in their first Stanley Cup finals in which year of their existence ?	Fifth	Seventh	Ninth	Third
+532556	Hockey	3	What hockey term means "a pass to a teammate who is trying for a breakaway"?	Forward Pass	Rush Pass	Cram Pass	Break Pass
+363365	Hockey	3	What other U.S. teams had won the Stanley Cup before the Rangers won it in 1928?	Red Wings	Black Hawks	Bruins	None
+416627	Hockey	3	Which player was drafted second overall in the 1993 entry draft of the NHL?	Jason Arnott	Chris Gratton	Alexandre Daigle	Chris Pronger
+269115	Hockey	3	Which coach led the Dallas Stars past the Buffalo Sabres in the 1999 Stanley Cup finals?	Glen Sather	G. "Punch" Imlach	Hector "Toe" Blake	Ken Hitchcock
+362234	Hockey	3	How many Stanley Cups did the Montreal Canadiens win before they left the Montreal Forum in 1995?	20	16	12	24
+400098	Hockey	3	What did New York Rangers coach Lester Patrick do that was unusual in the 1928 Stanley Cup finals?	Played Left Wing For One Game	Refused To Shake Hands At The End	Retired Before The Last Game	Played Goalie For Two Periods
+521316	Hockey	3	The 2013 NHL Winter Classic was meant to be played in which US City?	Chicago	Philadelphia	Boston	Detroit
+416950	Hockey	3	In the NHL who did the San Jose Sharks acquire forward Evander Kane from in February 2018?	Colorado Avalanche	NY Rangers	Chicago Blackhawks	Buffalo Sabres
+13581	Hockey	3	In 2001, what Colorado Avalanche player scored the Stanley Cup series winning goal?	Joe Sakic	Uwe Krupp	Ray Bourque	Alex Tanguay
+8397	Hockey	3	In 2014, who became the 21st coach in NHL history to reach 500 wins?	Ken Hitchcock	Mike Babcock	Bob Hartley	Alain Vigneault
+350657	Hockey	3	Who played 36 games for the Detroit Red Wings in 2001-02 but didn't get his name on the Stanley Cup?	Jiri Fischer	Igor Larionov	Boyd Devereaux	Sean Avery
+521258	Hockey	3	Which player scored the most game winning goals during the 2003-2004 Playoffs?	Martin St. Louis	Keith Primeau	Vincent Damphousse	Brad Richards
+419807	Hockey	3	Who captained the Toronto Maple Leafs to the 1951 Stanley Cup?	Sid Smith	Syl Apps	George Armstrong	Teeder Kennedy
+423685	Hockey	3	How many times did the Chicago Blackhawks win the Stanley Cup in the 1930's?	Once	Six Times	Never	Twice
+2H0105	Hockey	3	Who led the Los Angeles Kings with 27 goals in 1995-96 and was named Team MVP?	Ray Ferraro	Wayne Gretzky	Ed Olczyk	Dmitri Khristich
+8362	Hockey	3	Dallas Eakins was named head coach of what NHL team in June 2019?	Buffalo Sabres	Los Angeles Kings	Carolina Hurricanes	Anaheim Ducks
+359926	Hockey	3	Which Detroit Red Wing led all defenseman with 15 points in the 2008 Stanley Cup Playoffs?	Brian Rafalski	Nicklas Lidstrom	Brad Stuart	Niklas Kronwall
+12K1289	Hockey	3	Which Edmonton Oilers forward scored two goals in 8 seconds in 2013?	Jordan Eberle	Andrew Ference	Matt Hendricks	Taylor Hall
+487184	Hockey	3	What team did Jared Bednar coach in the 2016-17 NHL season?	Edmonton Oilers	Chicago Blackhawks	Philadelphia Flyers	Colorado Avalanche
+207670	Hockey	3	At the start of the 2008-09 season, who was the one Florida Panther left from the Stanley Cup Finals team?	Jay Bouwmeester	Jassen Cullimore	Ville Peltonen	Radek Dvorak
+350631	Hockey	3	How many games did Vancouver win in losing to the Islanders in the 1982 Stanley Cup finals?	One	Two	Three	None
+487186	Hockey	3	Which NHL player was on the 2018-19 Lightning roster?	Jordan Weal	Henri Jokiharju	David Schlemko	Dan Girardi
+8387	Hockey	3	With which NHL team did former New York Ranger Andy Bathgate play on a Stanley Cup winner?	Pittsburgh Penguins	Philadelphia Flyers	Los Angeles Kings	Toronto Maple Leafs
+415995	Hockey	3	Michael Peca reached the 2006 NHL Stanley Cup finals with which team?	New York Rangers	New Jersey Devils	Dallas Stars	Edmonton Oilers
+1H4607	Hockey	3	Which star forward did the Vancouver Canucks trade to the Anaheim Ducks in 2014?	Ryan Callahan	Martin St. Louis	Thomas Vanek	Ryan Kesler
+421242	Hockey	3	What famous line did then-New Jersey coach Jim Schoenfeld yell to referee Don Koharski during the 1988 Stanley Cup playoffs?	Thank You Sir , Can I Have A Little More?	You Blind Elk ! You Ought To Be Shot !	My God Man , You're A Moron !	You Fat Pig ! You Fat Pig ! Have Another Donut !
+416415	Hockey	3	In the NHL who did the Nashville Predators acquire forward Tyler Gaudet from in February 2018?	Chicago Blackhawks	Boston Bruins	Pittsburgh Penguins	Arizona Coyotes
+211075	Hockey	3	Which NHL team in the 2014-15 regular season had 43 wins and had 204 goals scored against them?	Edmonton Oilers	Buffalo Sabres	Arizona Coyotes	Winnipeg Jets
+487183	Hockey	3	On December 4, 2014, who became the 21st coach in NHL history to reach 500 wins?	Ken Hitchcock	Mike Babcock	Bob Hartley	Alain Vigneault
+2BS11002	Hockey	3	Which of the following teams did not participate in the NHL's "Hockey Day in America" in 2011?	New York Rangers	Pittsburgh Penguins	Philadelphia Flyers	New York Islanders
+347588	Hockey	3	Who had four game-winning goals in the 2003 Playoffs helping the New Jersey Devils win the Stanley Cup?	Brian Gionta	John Madden	Scott Niedermayer	Jeff Friesen
+364291	Hockey	3	What team defeated the Edmonton Oilers in the 1983 Stanley Cup Finals?	Philadelphia Flyers	Boston Bruins	New York Rangers	New York Islanders
+416405	Hockey	3	Which team defeated the Pittsburgh Penguins to earn a spot in the 2007 Stanley Cup Playoffs?	Montreal Canadiens	Detroit Redwings	New Jersey Devils	Ottawa Senators
+415484	Hockey	3	The Columbus Blue Jackets had which head coach in the 2008-09 NHL season?	Mike Babcock	Terry Murray	Brent Sutter	Ken Hitchcock
+364369	Hockey	3	In 1941, who reportedly said the New York Rangers wouldn't win the Stanley Cup again while he lived?	Montreal Canadiens Coach	Fan Club President	New York Times Reporter	New York Americans President
+423546	Hockey	3	What was the final score of game 6 of the 2013 Stanley Cup Finals?	Chicago Blackhawks 7˚2	Boston Bruins 3-1	Chicago Blackhawks 1˚0	Chicago Blackhawks 3˚2
+415562	Hockey	3	Which NHL team had 2 goal tenders finish with a GAA under 2.00 during the 2011-12 season?	Los Angeles Kings	Vancouver Canucks	New York Rangers	St. Louis Blues
+416080	Hockey	3	Who was the regular Goalie of the Pittsburgh Penguins when they won their first two Stanley Cups?	Johan Hedberg	Denis Herron	Gilles Meloche	Tom Barrasso
+419997	Hockey	3	What team came in last place in the NHL during the 1995-96 season?	Ottawa 67's	Tampa Bay Lightning	San Jose Sharks	Ottawa Senators
+400082	Hockey	3	When David Aebischer won the Stanley Cup in 2001, which goalie did he back up?	Ed Belfour	Martin Brodeur	Dominik Hasek	Patrick Roy
+487155	Hockey	3	Which NHL team had the best record in the Eastern Conference for the 2011-12 season?	Boston Bruins	Florida Panthers	Pittsburgh Penguins	New York Rangers
+364315	Hockey	3	How many Stanley Cups did the Montreal Canadiens win while Gerry McNeil was with the team?	None	Five	Eight	One
+532483	Hockey	3	Who beat the New York Islanders in the 2013 Conference Quarterfinals?	Washington Capitals	Toronto Maple Leafs	Boston Bruins	Pittsburgh Penguins
+18S1222	Hockey	3	Who was the first captain of the Los Angeles Kings?	Gilles Gratton	Bill White	Neil Komadowski	Bob Wall
+423630	Hockey	3	How many Stanley Cup-winning teams had Claude Lemieux played on before becoming a Phoenix Coyote?	One	Seven	Three	Four
+532534	Hockey	3	Which lone Lightning player played in the 1996-1997 All-Star Game in San Jose?	Darren Puppa	Petr Klima	Brent Gretzky	Dino Ciccarelli
+362405	Hockey	3	What Carolina Hurricane collided with goalie Dwayne Roloson in the 2005-2006 Stanley Cup Finals?	Steve Staios	Ales Hemsky	Erik Staal	Andrew Ladd
+426522	Hockey	3	Where was 2007 Stanley Cup participant and Ottawa Senators captain Daniel Alfredsson born?	Norway	Canada	The United States	Sweden
+416041	Hockey	3	Which of the following players served more than 100 penalty minutes during the 2010-11 NHL season?	Henrik Zetterberg	Henrik Sedin	Jarome Iginla	Corey Perry
+362367	Hockey	3	Who was the only Ottawa Senator to play in their first-ever playoff game and first-ever Stanley Cup Finals?	Wade Redden	Chris Phillips	Shawn McEachern	Daniel Alfredsson
+521318	Hockey	3	Which of the following NHL franchises celebrated its 40th anniversary during the 2011-12 season?	Calgary Flames	St. Louis Blues	Vancouver Canucks	New York Islanders
+1H4589	Hockey	3	Thomas Vanek was drafted by the Buffalo Sabres in which round of the 2003 NHL Draft?	Second	Fifth	Sixth	First
+521229	Hockey	3	Who did Jacques Martin replace as general manager of the Florida Panthers in 2006?	Randy Sexton	Cliff Fletcher	Rick Dudley	Mike Keenan
+415568	Hockey	3	What number season of the NHL started on October 2nd, 2019?	125th	50th	110th	103rd
+487189	Hockey	3	What was Ryan Miller's save percentage for the Buffalo Sabres in the 2005-06 season?	.905	.844	.876	.914
+362108	Hockey	3	In 1997-1998, who scored on Dominik Hasek to send the Washington Capitals to the Stanley Cup Finals?	Rod Langway	Alexander Ovechkin	Brian Pothier	Joe Juneau
+360072	Hockey	3	By what margin did the Pittsburgh Penguins win Game 6 in the 1991 Stanley Cup Finals?	5-4	1-0	3-2	8-0
+8390	Hockey	3	Which NHL player was on the 2018-19 New York Islanders roster?	Juho Lammikko	Jesperi Kotkaniemi	Matthew Peca	Cal Clutterbuck
+322845	Hockey	3	Who did the Detroit Red Wings defeat to claim their second consecutive Stanley Cup in 1936-1937?	Montreal Canadiens	Chicago Blackhawks	Toronto Maple Leafs	New York Rangers
+215941	Hockey	3	Who was the coach of the Stanley Cup Champion Toronto Maple Leafs of 1932?	G. "Punch" Imlach	Bill Stewart	Clarence "Hap" Day	Dick Irvin
+521313	Hockey	3	Which NHL player was on the 2018-19 Lightning roster?	Casey Cizikas	Gustav Forsling	Nicolas Deslauriers	Tyler Johnson
+422594	Hockey	3	Which NHL player was on the 2018-19 New York Islanders roster?	Slater Koekkoek	Libor Hajek	Ryan Poehling	Josh Bailey
+423118	Hockey	3	Which former New York Islander was signed to the Devils on March 10, 2006?	Jason Ryzner	Ken Klee	Jason Wiemer	Brad Lukowich
+416135	Hockey	3	Which NHL player was on the 2018-19 New York Islanders roster?	Nate Thompson	Brett Kulak	Tomas Tatar	Andrew Ladd
+362394	Hockey	3	Who did Pittsburgh defeat to reach the Stanley Cup Finals in 2016?	Nashville	San Jose	St. Louis	Tampa Bay
+423683	Hockey	3	How many Stanley Cups did the Montreal Canadiens win in the 1980's?	None	Five	Three	One
+521217	Hockey	3	How many games did the San Jose Sharks win in the 2015-16 NHL season?	55 Games	38 Games	66 Games	46 Games
+521143	Hockey	3	Against what team did Darryl Sittler score ten points in one NHL game in February, 1976?	New York Islanders	Montreal Canadiens	Vancouver Canucks	Boston Bruins
+521317	Hockey	3	The Blackhawks retired jersey No. 18 in 1998, honoring which former player?	Bobby Hull	Tony Amonte	Dominik Hasek	Denis Savard
+357714	Hockey	3	Who was the losing coach in the 1941 Stanley Cup finals for Detroit Red Wings?	Sid Abel	Terry O'Reilly	Art Ross	Ebbie Goodfellow
+423294	Hockey	3	Who was not on the Montreal Canadiens team that won five straight Stanley Cups from 1956-60?	Doug Harvey	Maurice Richard	Jacques Plante	John Ferguson
+207758	Hockey	3	In 1997, the Detroit Red Wings won their first Stanley Cup in how many years?	22 Years	30 Years	10 Years	42 Years
+1H4599	Hockey	3	Which Colorado Avalanche player's name was misspelled on the Stanley Cup in 1996?	Uwe Krupp	Adam Foote	Mike Keane	Adam Deadmarsh
+32180	Hockey	3	Ian Laperriere won which of the following trophies for the 2010-11 NHL season?	James Norris Trophy	Ted Lindsay Award	Rocket Richard Trophy	Bill Masterson Trophy
+422284	Hockey	3	What was the final score of the final game of the 2012 Stanley Cup Playoffs?	5-1	4-1	7-1	6-1
+422378	Hockey	3	Patrick Roy winked at which Los Angeles King after stoning him in the 1993 Stanley Cup finals?	Wayne Gretzky	Luc Robitaille	Rob Blake	Tomas Sandstrom
+327211	Hockey	3	Which Ottawa Senators Defenseman accidentally put the 2007 Stanley Cup-winning goal into his own net?	Wade Redden	Joe Corvo	Tom Preissing	Chris Phillips
+416471	Hockey	3	How many Stanley Cup-winning seasons did Maurice Richard play in with the Montreal Canadiens?	Three	One	Five	Eight
+360132	Hockey	3	Which Carolina Hurricane scored the winning goal in Game 1 of the 2005-2006 Stanley Cup Finals?	Cory Stillman	Fernando Pisani	Aaron Ward	Rod Brind'Amour
+363324	Hockey	3	What team did the New York Rangers beat to get to the 1950 Stanley Cup finals?	Toronto Maple Leafs	Chicago Blackhawks	Boston Bruins	Montreal Canadiens
+416406	Hockey	3	Who earned the nickname "Mr. Game 7"?	Jean-Sebastien Dea	Sidney Crosby	Duncan Keith	Justin Williams
+7K4019	Hockey	3	Who was the first NHL'er to wear glasses while playing?	Jacques Plante	Al Arbour	Gordie Howe	Russ Blinco
+521249	Hockey	3	What defenseman played his last NHL game in 2014-15 with the Los Angeles Kings?	Evgeni Nabokov	Daniel Briere	Kimmo Timonen	Robyn Regehr
+416162	Hockey	3	How long a suspension did Rick Rypien serve for grabbing a fan during the 2010-11 NHL season?	10 Games	1 Game	3 Games	6 Games
+400106	Hockey	3	With which team did Johan Hedberg play 18 Stanley Cup Playoff Games in 2001?	New Jersey Devils	Colorado Avalanche	Dallas Stars	Pittsburgh Penguins
+2419	Hockey	3	Which NHL player was on the 2018-19 New York Islanders roster?	Jamie McGinn	Charles Hudon	Antti Niemi	Tom Kuhnhackl
+364407	Hockey	3	Where does Sergei Fedorov rank in Stanley Cup Playoffs points scored for the 1990's?	1st	6th	10th	3rd
+2H0117	Hockey	3	Who scored the most goals for the New Jersey Devils in their 1984-85 season?	Doug Sulliman	Aaron Broten	Mel Bridgman	Paul Gagne
+406040	Hockey	3	Who took injured New York Rangers goalie Lorne Chabot's place in the 1927-1928 Stanley Cup Finals?	Equipment Manager	General Manager	Team Owner	Head Coach
+400120	Hockey	3	How many Stanley Cups did Chris Dingman win before he went to play in Sweden in 2006?	0	1	4	2
+426107	Hockey	3	How many games did the New York Islanders win in the 2015-16 NHL season?	71 Games	66 Games	22 Games	45 Games
+360039	Hockey	3	Which team did the Tampa Bay Lightning defeat to win their first Stanley Cup?	Montreal Canadiens	Colorado Avalanche	Vancouver Canucks	Calgary Flames
+411792	Hockey	3	Who did the Pittsburgh Penguins defeat in a seven-game Finals to win the 2009 Stanley Cup?	Anaheim Ducks	Vancouver Canucks	Calgary Flames	Detroit Red Wings
+30586	Hockey	3	What annual award did Ron Hextall's brother tell Ron he should win in the 1995-96 season?	Vezina	Hart	Art Ross	Lady Byng
+487188	Hockey	3	Which NHL player was on the 2018-19 New York Islanders roster?	Brady Keeper	David Kampf	Christian Folin	Tanner Fritz
+151839	Hockey	3	Which team defeated the New York Rangers in the 2015 NHL Eastern Conference Final?	Washington Capitals	Pittsburgh Penguins	Chicago Blackhawks	Tampa Bay Lightning
+422980	Hockey	3	Which team won the Stanley Cup in 1927 beating Boston Bruins?	Montreal Canadiens	Montreal Maroons	Chicago Blackhawks	Ottawa Senators
+400080	Hockey	3	By what margin did the Oilers lose game seven of the 2006 Stanley Cup Finals?	5-2	3-0	1-0	2-1
+357495	Hockey	3	How many overtime wins in the 1980 playoffs earned the New York Islanders their first Stanley Cup?	Ten	Two	Four	Six
+415561	Hockey	3	Which New York Ranger skater had the most points for the 2013-14 season?	Ryan  McDonagh	Rick Nash	Brad Richards	Matts Zuccarello
+405548	Hockey	3	Who led the Florida Panthers in playoff scoring the first time they reached the Stanley Cup finals?	Ray Sheppard	Stu Barnes	Bill Lindsay	Dave Lowry
+360151	Hockey	3	How many times did the New York Rangers win the Stanley Cup with Frank Boucher as coach?	None	Twice	Six	Once
+487171	Hockey	3	Against which team did the Toronto Maple Leafs come back from 0-3 to win the 1942 Stanley Cup?	Chicago Blackhawks	Vancouver Canucks	Boston Bruins	Detroit Red Wings
+326214	Hockey	3	Which Canadian team knocked the Chicago Blackhawks out of the Stanley Cup Playoffs in the 1984-85 season?	Calgary Flames	Vancouver Canucks	Montreal Canadiens	Edmonton Oilers
+487201	Hockey	3	Which team defeated the Vancouver Canucks in the 2014 NHL Heritage Classic?	Toronto Maple Leafs	Montreal Canadiens	Chicago Blackhawks	Ottawa Senators
+487162	Hockey	3	Which NHL player was on the 2018-19 Panthers roster?	Bogdan Kiselevich	Slater Koekkoek	Brendan Gallagher	Ian McCoshen
+532530	Hockey	3	In which city was the 2017 NHL Awards ceremony held?	Los Angeles	New York	Chicago	Las Vegas
+399987	Hockey	3	Who scored the only goal for the losing team in game 1 of the 2015 Stanley Cup Finals?	Teuvo Teravainen	Tyler Johnson	Steven Stamkos	Alex Killorn
+521088	Hockey	3	In what NHL season did Mario Lemieux first outscore Wayne Gretzky?	1985-86	1986-87	1988-89	1987-88
+326739	Hockey	3	By how many total points did St. Louis lose the four games of the 1968 Stanley Cup finals?	Five	Eight	13	Four
+423640	Hockey	3	In 2006, the Oilers advanced to the Stanley Cup finals for the first time in how many years?	12 Years	Two Years	Six Years	16 Years
+419775	Hockey	3	Who did the Boston Bruins defeat in 1929 when they clinched their first Stanley Cup championship?	Montreal Canadiens	Toronto Maple Leafs	Chicago Blackhawks	New York Rangers
+356353	Hockey	3	How many times from 1967-08 have the Pittsburgh Penguins won the Stanley Cup?	Once	Five Times	Never	Twice
+423004	Hockey	3	On March 4, 2015, what New York Rangers defenseman played in his 1,000th NHL game?	Martin St. Louis	Rick Nash	Henrik Lundqvist	Dan Boyle
+323454	Hockey	3	Who joined the Los Angeles Kings in 2008 after winning the Stanley Cup the previous season?	Peter Harrold	Matt Ellis	John Zeiler	Kyle Quincey
+420304	Hockey	3	Who led the NHL in penalties in minutes for the 2018-19 season?	Henrik Lundqvist	Carey Price	John Tavares	Evander Kane
+207810	Hockey	3	What was the total score of Montreal's six-game Stanley Cup win over Chicago in 1973?	14-8	21-21	22-5	33-23
+400029	Hockey	3	Who was the winner of the 1929 NHL Stanley Cup?	New York Islanders	Montreal Canadiens	New York Rangers	Boston Bruins
+400060	Hockey	3	In which of their seasons did the Minnesota Wild reach the Stanley Cup semifinals?	Fourth	Sixth	Eighth	Third
+487164	Hockey	3	Which Canadiens star was named the best defenceman of the 2012-13 NHL season?	Sidney Crosby	Dustin Brown	Antti Niemi	PK Subban
+422422	Hockey	3	What Detroit Red Wings goalie blanked the Bruins in the last two games of the 1942-1943 Stanley Cup?	Eddie Giacomin	Harry Lumley	Alex Connell	Johnny Mowers
+428530	Hockey	3	Singer Taylor Swift appeared in a commercial proclaiming her fandom for which team?	San Jose Sharks	Florida Panthers	Columbus Blue Jackets	Nashville Predators
+491231	Hockey	3	How many minutes are served on a double-minor in hockey with an associated penalty shot?	Four	Zero	Three	Two
+521322	Hockey	3	Which Rangers coach was fined $30,000 in 2012 for criticizing NHL officiating?	Dan Blysma	Joel Quenneville	Peter Laviolette	John Tortorella
+357634	Hockey	3	The winner of the 1941 NHL Stanley Cup was?	Montreal Canadiens	Toronto Maple Leafs	Chicago Blackhawks	Boston Bruins
+364229	Hockey	3	Which 1995 New Jersey Devil was reacquired in 2000, just in time for another Stanley Cup?	Alexander Mogilny	Brian Rolston	John Madden	Claude Lemieux
+420940	Hockey	3	Who won the NHL General Manager of the Year Award for the 2010-11 season?	Don Maloney	Doug Armstrong	Dale Tallon	Mike Gillis
+421166	Hockey	3	Whose seven points were the best of any Phoenix Coyote in the 1999 Stanley Cup Playoffs?	Keith Tkachuk	Juha Ylonen	Bob Corkum	Dallas Drake
+532450	Hockey	3	Blackhawks winger Daniel Carcillo is sometimes known by what violent nickname?	Meathook	Machine Gun	Napalm	Car Bomb
+37462	Hockey	3	What was the total series scoring margin in Buffalo's 1984 playoff loss?	12-14	11-9	8-10	5-13
+415624	Hockey	3	On which date in 2012 did the 2011-12 NHL season end?	June 12th	June 13th	June 10th	June 11th
+207797	Hockey	3	Which Toronto player scored the 1951 Stanley Cup winning goal?	Fern Flaman	Howie Meeker	Max Bentley	Bill Barilko
+423439	Hockey	3	Singer Michael Buble is known for his support for which hometown NHL team?	Montreal Canadiens	Ottawa Senators	Toronto Maple Leafs	Vancouver Canucks
+419694	Hockey	3	How many games did the New York Rangers win in the 2016-17 NHL season?	28 Games	58 Games	40 Games	48 Games
+422758	Hockey	3	Who was picked as NHL General Manager of the Year Award winner for 2013–14?	Steve Yzerman	Don Maloney[	Jason Botterill	Bob Murray
+364458	Hockey	3	Which team did the Tampa Bay Lightning defeat to make their first Stanley Cup Final?	Pittsburgh Penguins	Carolina Hurricanes	Boston Bruins	Philadelphia Flyers
+151831	Hockey	3	What country is NHL skater Johan Hedberg from?	Canada	Czech Republic	Finland	Sweeden
+428699	Hockey	3	Which team played against the Philadelphia Flyers in the 2012 NHL Winter Classic?	Carolina Hurricanes	Buffalo Sabres	Washington Capitals	New York Rangers
+8372	Hockey	3	Which Bruins netminder led the league with a 2.00 Goals Against Average in 2010-11?	Roberto Luongo	Pekka Rinne	Jonathon Quick	Tim Thomas
+411791	Hockey	3	What New York Ranger scored the winning overtime goal in Game 6 of the 1939-1940 Stanley Cup Finals?	Muzz Patrick	Gordie Howe	Phil Esposito	Bryan Hextall
+419547	Hockey	3	Who scored a short-handed goal in the Anaheim/Ottawa Stanley Cup deciding game in 2007?	Travis Moen	Rob Niedermayer	Corey Perry	Daniel Alfredsson
+1H4603	Hockey	3	What score in a 1981 game with Edmonton set a New York Islanders record for most points in a draw?	10-10	7-7	12-12	8-8
+423061	Hockey	3	What team included Duncan Keith in 2016?	Nashville Predators	Carolina Hurricanes	Buffalo Sabres	Chicago Blackhawks
+423644	Hockey	3	Who was the general manager of the L.A. Kings in 1993 when they reached the Stanley Cup Finals?	Bob Pulford	George Maguire	Sam McMaster	Nick Beverley
+207796	Hockey	3	Who was the coach of the 2000 Stanley Cup Champion New Jersey Devils?	Harry Sinden	Glen Sather	Jack Adams	Larry Robinson
+521237	Hockey	3	NHL All-Star Owen Nolan was born in what European country?	Iceland	Switzerland	Portugal	Northern Ireland
+424376	Hockey	3	How many Stanley Cup-winning Montreal Canadiens teams did Doug Harvey play on?	Three	Eight	Five	Six
+285760	Hockey	3	Who had the most shorthanded goals for the New Jersey Devils in 1986-87?	Mark Johnson	Doug Sulliman	Kirk Muller	Andy Brickley
+419970	Hockey	3	In 1990, Vladislav Tretiak joined the Chicago Blackhawks in what role?	Head Coach	General Manager	Owner	Goaltender Coach
+1H4573	Hockey	3	What team did Guy Boucher coach in the 2016-17 NHL season?	Los Angeles Kings	Vancouver Canucks	New York Islanders	Ottawa Senators
+422203	Hockey	3	For the 2001-02 season, the Dallas Stars acquired which player who beat them for the 2000 Stanley Cup?	Rand McKay	Curt Muller	Mike Modano	Jason Arnott
+532498	Hockey	3	Who stepped down as general manager of the Chicago Blackhawks in July 1997?	Bob Murray	Mike Keenan	Tony Amonte	Bob Pulford
+359954	Hockey	3	What Fred Shero-coached team won the 1973-74 Stanley Cup?	New York Rangers	Boston Bruins	Toronto Maple Leafs	Philadelphia Flyers
+521206	Hockey	3	Which player took home the Calder Memorial Trophy as the best rookie in the NHL for 2010-11?	Tyler Myers	Steve Mason	Willi Plett	Jeff Skinner
+364297	Hockey	3	What 2000-2001 Colorado Avalanche player retired after winning the Stanley Cup for the first time?	Patrick Roy	Peter Forsberg	Joe Sakic	Ray Bourque
+487226	Hockey	3	Which team traded Al Jensen to the Washington Capitals in July of 1981?	Chicago Blackhawks	Boston Bruins	Minnesota North Stars	Detroit Red Wings
+426987	Hockey	3	After the 1943 Stanley Cup finals, the Boston Bruins lost how many players to the war effort?	Seven	Two	11	Four
+521225	Hockey	3	In 2013, which NHL player drew a multi-game suspension for the second year a row for hitting to the head?	Justin Abdelkader	Nate Thompson	Duncan Keith	Raffi Torres
+419687	Hockey	3	Who led the Toronto Maple Leafs' 1967 Stanley Cup team in scoring with 59 points?	Bob Pulford	Ron Ellis	Dave Keon	Mike Walton
+423526	Hockey	3	Which NHL team in the 2014-2015 regular season had 41 wins?	Carolina Hurricanes	Arizona Coyotes	Colorado Avalanche	Boston Bruins
+423018	Hockey	3	Who was the first Boston Bruin to play on three Stanley Cup champion teams?	Eddie Shore	John Bucyk	Frank Brimsek	Aubrey Clapper
+532531	Hockey	3	The 2015-16 season is the New York Islanders first season played where?	Queens	Suffolk County	Manhattan	Brooklyn
+185770	Hockey	3	Who did the New York Islanders sweep in four straight games to win the 1982 NHL Stanley Cup?	Calgary	Boston	Toronto	Vancouver
+532612	Hockey	3	What Calgary Flames player was nominated for the NHL Foundation Player Award in 2015?	Dennis Wideman	Kris Russell	Jiri Hudler	Mark Giordano
+426122	Hockey	3	Which coach led the Calgary Flames past the Montreal Canadiens in the 1989 Stanley Cup finals?	Claude Ruel	Fred Shero	John Muckler	Terry Crisp
+1H4569	Hockey	3	Which scrappy Bruins winger is sometimes called "The Little Ball of Hate"?	Milan Lucic	Daniel Paille	Matt Fraser	Brad Marchand
+423631	Hockey	3	What team did the Philadelphia Flyers defeat in the 1974-75 Stanley Cup finals, claiming their second consecutive championship?	Montreal Canadiens	New Jersey Devils	Toronto Maple Leafs	Buffalo Sabres
+327376	Hockey	3	By what margin did the Flames lose game seven of the 2004 Stanley Cup finals?	1-0	5-4	4-2	2-1
+2H0129	Hockey	3	Which player was the first overall pick in the 2014 NHL Draft?	Sam Bennett	Kasperi Kapanen	Sam Reinhart	Aaron Ekblad
+364142	Hockey	3	Who was the first Toronto-based team to win the Stanley Cup?	Toronto St. Patrick's	Toronto Arenas	Toronto Maple Leafs	Toronto Blueshirts
+532537	Hockey	3	Which Rangers player was named MVP of the 2011-12 NHL All-Star Game?	Mikko Koivu	James Neal	Dan Girardi	Marian Gaborik
+521230	Hockey	3	What year was NHL star Andrew Ladd born?	1991	1980	1988	1985
+232214	Hockey	3	In 2007, whose overtime goal eliminated the Sabres and sent the Ottawa Senators to their first Stanley Cup Finals?	Jason Spezza	Todd White	Antoine Vermette	Daniel Alfredsson
+207820	Hockey	3	What was the New Jersey Devils' road record in going 16-4 in the playoffs to win the 1995 Stanley Cup?	5-4	6-3	8-2	10-1
+428719	Hockey	3	Who beat the Rangers in the 2013 Conference Semifinals?	Washington Capitals	Detroit Red Wings	Ottawa Senators	Boston Bruins
+322900	Hockey	3	Who did the Colorado Avalanche defeat to win their first Stanley Cup in 1996?	Detroit Red Wings	Washington Capitals	Toronto Maple Leafs	Florida Panthers
+421004	Hockey	3	Who did the Vancouver Canucks face during the 1989 Stanley Cup Playoffs?	Detroit Red Wings	Anaheim Ducks	New York Rangers	Calgary Flames
+87881	Hockey	3	In the 2011-2012 regular NHL season, how many points did left winger Raffi Torres have?	31	15	21	26
+418905	Hockey	3	What Chicago arena hosted its final regular-season NHL game on April 14th, 1994?	Chicago Coliseum	United Center	Maple Leaf Gardens	Chicago Stadium
+416057	Hockey	3	How many Stanley Cup championships did Tampa Bay win prior to their 2004 win?	One	Three	Six	Zero
+427687	Hockey	3	When did the Ottawa Senators advance to the Stanley Cup finals for the first time?	2006	2005	2004	2007
+357445	Hockey	3	Who won the Stanley Cup MVP Award for the champion Edmonton Oilers in 1990?	Wayne Gretzky	Mark Messier	Grant Fuhr	Bill Ranford
+207603	Hockey	3	Who is the Majority Owner of the 2018 Stanley Cup Champions?	Andrew Barroway	Tom Dundon	Terrence Pegula	Ted Leonsis
+617362	Hockey	3	Who scored the winning goal for the Rangers in the 1994 Stanley Cup Finals in game 7?	Alexi Kovalev	Brian Leetch	Adam Graves	Mark Messier
+416309	Hockey	3	How many Stanley Cup-winning Montreal Canadiens teams did Pit Lepine play on?	None	One	Five	Two
+399973	Hockey	3	How many Stanley Cups did Bryan Trottier win while playing with the Pittsburgh Penguins?	Four	Six	None	Two
+487202	Hockey	3	Who was the first pick in the 1996 NHL Draft?	Andrei Zyuzin	Boyd Devereaux	Jean-Pierre Dumont	Chris Phillips
+521265	Hockey	3	Who was playing in a suburban Detroit "beer league" when the Red Wings reacquired him in 1996?	Stu Grimson	Jamie Pushor	Larry Murphy	Joey Kocur
+2432	Hockey	3	When was the first Stanley Cup awarded?	1904	1936	1919	1893
+364324	Hockey	3	Who had an assist and a goal in game 1 of the 2015 Stanley Cup Final?	Alex Killorn	Andrew Shaw	Brent Seabrook	Teuvo Teravainen
+487229	Hockey	3	Which NHL star is known for donating $2,000 to charity for every goal he scores?	Mark Giordano	Eric Staal	Dion Phaneuf	Jarome Iginla
+364081	Hockey	3	Who was coaching the Colorado Avalanche at the time of their 2001 Stanley Cup win?	Brian Trottier	Mark Crawford	Stanley Kroenke	Bob Hartley
+322746	Hockey	3	Who was the first goalie to score a goal in the NHL Stanley Cup Playoffs?	Martin Brodeur	Grant Fuhr	Billy Smith	Ron Hextall
+487235	Hockey	3	The 1960-61 Chicago Blackhawks defeated which team in the Stanley Cup finals?	Montreal Canadiens	Atlanta Thrashers	Toronto Maple Leafs	Detroit Red Wings
+423476	Hockey	3	When did the Pittsburgh Penguins make it to the Stanley Cup Finals for the first time?	1995	1980	1982	1991
+416951	Hockey	3	Who was coaching the Colorado Avalanche during the 1996 Stanley Cup finals?	Bob Hartley	Doug MacLean	Pierre Lacroix	Mark Crawford
+362115	Hockey	3	Who won the Conn Smythe Trophy for Playoff MVP when the New Jersey Devils won their first Stanley Cup?	Martin Brodeur	Scott Stevens	Neal Broten	Claude Lemieux
+429709	Hockey	3	Which Hall of Fame NHL goaltender became the new head coach of the Colorado Avalanche for the 2013-14 season?	Terry Sawchuk	Ron Hextall	Curtis Joseph	Patrick Roy
+521259	Hockey	3	Who was the Playoff MVP in 2000 when the New Jersey Devils won their second Stanley Cup?	Martin Brodeur	Bobby Holik	Peter Sykora	Scott Stevens
+356333	Hockey	3	What team won back-to-back Stanley Cups in 1997 and 1998?	Pittsburgh Penguins	Philadelphia Flyers	San Jose Sharks	Detroit Red Wings
+521216	Hockey	3	Which NHL team drew a $100,000 fine in 2011 for conduct in a game against the Pittsburgh Penguins?	Nashville Predators	Toronto Maple Leafs	Vancouver Canucks	New York Islanders
+327181	Hockey	3	Who started and ended the 2006 year as a St. Louis Blue but won a Stanley Cup in June?	Keith Tkacuk	Manny Legace	Dan Hinote	Doug Weight
+359579	Hockey	3	What Penguin leading scorer of the 1990-91 season was traded and missed winning the Stanley Cup?	Phil Bourque	Scott Young	Moe Mantha	John Cullen
+426563	Hockey	3	What Islander was also the Bruin who assisted on Bobby Orr's game-winner in the 1970 Stanley Cup?	Mike Bossy	Bryan Trottier	Denis Potvin	Ed Westfall
+532457	Hockey	3	Who was the coach of the New York Islanders when they won their first four Stanley Cups?	Lorne Henning	Butch Goring	Bill Torrey	Al Arbour
+487236	Hockey	3	In the 1961-62 season, which team defeated the Chicago Blackhawks to win the Stanley Cup?	Montreal Canadiens	Detroit Red Wings	Edmonton Oilers	Toronto Maple Leafs
+416441	Hockey	3	What team swept the New York Rangers in two games in the 1928-1929 Stanley Cup Finals?	Montreal Maroons	Montreal Canadiens	Toronto Maple Leafs	Boston Bruins
+323268	Hockey	3	IN the 2013 Stanley Cup playoffs who collected 26 points?	Milan Lucic	Nathan Horton	Patrick Kane	David Krejci
+521247	Hockey	3	Which team celebrated their 20th year of existence during the 2012-13 season?	Edmonton Oilers	Buffalo Sabres	Florida Panthers	Tampa Bay Lightning
+420272	Hockey	3	Who was the coach of the Metropolitan Division at the 2017 NHL All-Star Game	Guy Boucher	Michel Therrien	Martin Jones	Wayne Gretzky
+487192	Hockey	3	Before coming to Tampa Bay, Wendel Clark was chosen with which overall pick of the 1985 NHL Draft?	Fourth	17th	43rd	First
+426579	Hockey	3	How many Stanley Cup-winning Canadiens teams did Ralph Backstrom play on?	Three	Eight	One	Six
+456L856	Hockey	3	Why was the Dallas Stars' 1999 Stanley Cup victory very special for Derian Hatcher?	Daughter Born Same Day	Marriage Scheduled Next Day	Congratulated By The Singer Prince	First American-Born Captain To Win
+532481	Hockey	3	Which goalie played the most games for the New Jersey Devils in the 1986-87 regular season?	Kirk McLean	Karl Friesen	Craig Billington	Alain Chevrier
+1H4607	Hockey	3	Who was chosen first overall in the 2017 NHL Entry Draft?	Nick Suzuki	Cale Makar	Cody Glass	Nico Hischier
+2H0051	Hockey	3	Which NHL player was on the 2018-19 Blackhawks roster?	Jared McCann	Noah Juulsen	Xavier Ouellet	Chris Kunitz
+422383	Hockey	3	Who scored both goals in Pittsburgh's 2-1 Game Seven victory in the 2009 Stanley Cup Finals?	Brooks Orpik	Sidney Crosby	Evgeni Malkin	Pascal Dupuis
+532437	Hockey	3	In 1933-1934, what team defeated the Detroit Red Wings in their first Stanley Cup Finals?	New York Americans	Montreal Canadiens	St. Louis Blues	Chicago Blackhawks
+487195	Hockey	3	Which NHL player was on the 2018-19 New York Islanders roster?	Danick Martel	Dominik Kahun	Mike Reilly	Thomas Hickey
+423635	Hockey	3	Boston Bruins assistant coach Craig Ramsay won a Stanley Cup in 2004 as an assistant coach with what team?	Detroit	New Jersey	Anaheim	Tampa Bay
+58711	Hockey	3	Who scored the game-winning goal in the 1994 Stanley Cup final?	Glenn Anderson	Brian Leetch	Adam Graves	Mark Messier
+429716	Hockey	3	Which NHL player was on the 2018-19 Panthers roster?	Joshua Ho-Sang	Ross Johnston	Leo Komarov	Derek MacKenzie
+487216	Hockey	3	Which NHL player was on the 2018-19 New York Islanders roster?	Ryan Strome	Dennis Gilbert	Andrew Shaw	Jordan Eberle
+532608	Hockey	3	Which NHL player tallied 81 points during the 2011-12 season despite scoring only 14 goals?	Patrik Elias	John Tavares	James Neal	Henrik Sedin
+487215	Hockey	3	What team did Eric Lindros play for in junior hockey?	Ottawa 67's	Guelph Storm	Belleville Bulls	Oshawa Generals
+362457	Hockey	3	Who was the last Detroit Red Wings coach to win a Stanley Cup before Scotty Bowman?	Sid Abel	Jack Adams	Bill Stewart	Jimmy Skinner
+416433	Hockey	3	Who did the Ducks pick in the second round of the 2017 NHL Draft?	Tyler Soy	Sam Steel	Gil Villenavue	Maxime Comtois
+487223	Hockey	3	Three players from which NHL team received suspensions following a 2012 game against the Flyers?	Washington Capitals	New York Rangers	Ottawa Senators	Pittsburgh Penguins
+426454	Hockey	3	Boyd Devereaux played with which Stanley Cup winning squad in 2001-02?	New Jersey Devils	Colorado Avalanche	Edmonton Oilers	Detroit Red Wings
+364371	Hockey	3	Which 2007 Stanley Cup Final team entered the series with home ice advantage?	Ottawa Senators	New Jersey Devils	Detroit Red Wings	Anaheim Ducks
+323205	Hockey	3	The Detroit Red Wings' 11th Stanley Cup in 2008 made how many fewer than the Toronto Maple Leafs?	None	One	Four	Two
+419842	Hockey	3	Ron Francis became General Manager of which team in 2014?	Calgary Flames	Pittsburgh Penguins	Nashville Predators	Carolina Hurricanes
+357396	Hockey	3	Who scored the Stanley Cup-winning goal in overtime against the Detroit Red Wings in 1966?	Bob Baun	Claude Provost	George Armstrong	Henri Richard
+419928	Hockey	3	What team trounced the Colorado Avalanche in the 2001-2002 Stanley Cup Finals?	New Jersey Devils	Calgary Flames	Edmonton Oilers	Detroit Red Wings
+363360	Hockey	3	Who led the Tampa Bay Lightning's first Stanley Cup team with 94 regular season points?	Cory Stillman	Brad Richards	Dave Andreychuk	Martin St. Louis
+364109	Hockey	3	Which team beat the Florida Panthers to win the Stanley Cup in 1996?	New Jersey Devils	Detroit Red Wings	New York Islanders	Colorado Avalanche
+2H0075	Hockey	3	How many games did the Bruins win in 2016-17?	49 Games	33 Games	50 Games	44 Games
+364082	Hockey	3	With which NHL team did Alex Kovalev hoist the Stanley Cup in 1994?	Montreal Canadiens	Pittsburgh Penguins	New Jersey Devils	New York Rangers
+323234	Hockey	3	What team swept the Florida Panthers out of the first round of the 1999-00 Stanley Cup Playoffs?	Buffalo Sabres	New York Rangers	Boston Bruins	New Jersey Devils
+2H0039	Hockey	3	In the 1989-90 season, who led the New Jersey Devils in penalty minutes?	David Maley	Brendan Shanahan	Jamie Huscroft	Ken Daneyko
+424365	Hockey	3	What was the nickname of Cecil Thompson, the goalie on the first Stanley Cup-winning Boston Bruins team?	Terror	Mr. Zero	Spider	Tiny
+423738	Hockey	3	The St. Louis Blues missed playing in the Stanley Cup Finals for the first time in which season of their existence?	1st	2nd	3rd	4th
+322653	Hockey	3	What was Daniel Briere's rank in points for the 2006 Stanley Cup Playoffs?	8th	12th	16th	4th
+18S1198	Hockey	3	Who did Frans Nielsen play for the 2018-19 NHL season?	Nashville Predators	Carolina Hurricanes	Buffalo Sabres	Detroit Red Wings
+362202	Hockey	3	Where were the Edmonton Oilers playing when they won their first Stanley Cup in 1984?	Olympic Saddledome	Nassau Coliseum	Maple Leaf Gardens	Northlands Coliseum
+400136	Hockey	3	Who was the Director, Player Personnel of the 2018 Stanley Cup Champions?	Ted Leonsis	Ed McColgan	Olaf Kolzig	Christopher Patrick
+348377	Hockey	3	Which team did former Phoenix Coyote Oleg Tverdovsky play for when they won a Stanley Cup?	Carolina Hurricanes	Los Angeles Kings	Tampa Bay Lightning	New Jersey Devils
+400084	Hockey	3	What team did the Edmonton Oilers beat in the 1987 Stanley Cup Finals?	Hartford Whalers	Montreal Canadiens	Washington Capitals	Philadelphia Flyers
+487237	Hockey	3	With which Stanley Cup winning team did future Columbus Blue Jacket Mike Commodore play?	Calgary Flames	New Jersey Devils	Mighty Ducks Of Anaheim	Carolina Hurricanes
+423451	Hockey	3	Who was not obtained in a trade with the Hartford Whalers in 1990-91 when the Pittsburgh Penguins won their first Stanley Cup?	Ron Francis	Ulf Samuelsson	Grant Jennings	Joe Mullen
+357404	Hockey	3	At age 19, which Pittsburgh Penguin became the youngest player to ever score a goal in the Stanley Cup Finals?	Scott Young	Mark Recchi	Martin Straka	Jaromir Jagr
+422742	Hockey	3	Which Senators defenceman took home the Norris Trophy for the 2011-12 NHL season?	Shea Weber	Jared Cowen	Marc Methot	Erik Karlsson
+362438	Hockey	3	Which Western Conference NHL team won the first game in the 2007 Stanley Cup Finals?	Ottawa Senators	Detroit Red Wings	Buffalo Sabres	Anaheim Ducks
+532558	Hockey	3	TV star Jim Belushi is known for his love of which NHL team?	Anaheim Ducks	Dallas Stars	New Jersey Devils	Chicago Blackhawks
+413187	Hockey	3	Which NHL player was on the 2018-19 Lightning roster?	Valtteri Filppula	John Hayden	Johnny Boychuk	Mathieu Joseph
+420020	Hockey	3	Bill Peters became the new head coach of which NHL team in June 2014?	New Jersey Devils	Philadelphia Flyers	Columbus Blue Jackets	Carolina Hurricanes
+423732	Hockey	3	What team knocked the Vancouver Canucks out of the Stanley Cup chase in 2002-03?	Florida Panthers	Carolina Hurricanes	Colorado Avalanche	Minnesota Wild
+269105	Hockey	3	Who scored the Stanley Cup-winning goal for the Detroit Red Wings in 1997?	Igor Larionov	Steve Yzerman	Doug Brown	Darren McCarty
+7K9990	Hockey	3	With which team did future Lightning coach Terry Crisp win two Stanley Cups as a player?	Detroit Red Wings	Pittsburgh Penguins	St. Louis Blues	Philadelphia Flyers
+356375	Hockey	3	Anders Eriksson became a Stanley Cup winner playing for which NHL team in 1998?	Chicago Blackhawks	Toronto Maple Leafs	Florida Panthers	Detroit Red Wings
+423090	Hockey	3	Which NHL team won the 2016 Heritage Classic?	Philadelphia Flyers	Winnipeg Jets	Calgary Flames	Edmonton Oilers
+521319	Hockey	3	What New York Rangers player was a 2014-15 NHL Foundation Player Award finalist?	Cam Talbot	Mackenzie Skapski	Antti Raanta	Henrik Lundqvist
+421913	Hockey	3	How did the team name "The Boston Bruins" appear on their 1972 Stanley Cup?	The Boston Bruins	The Boston Bruins	The Bustin Bruins	The Bqstqn Bruins
+8385	Hockey	3	Which NHL player was on the 2018-19 New York Islanders roster?	Ondrej Palat	Victor Hedman	Jeff Petry	Thomas Greiss
+521231	Hockey	3	Which of the Minnesota Wild's coaches was inducted into the Hockey Hall of Fame in 1985?	John Anderson	Mike Keenan	Joel Quenneville	Jacques Lemaire
+207684	Hockey	3	How many Stanley Cups had Scott Niedermayer won prior to the 2005-06 season?	Two	Four	One	Three
+416161	Hockey	3	The Detroit Red Wings won the first three games of the finals but who won the 1942 Stanley Cup?	Montreal Canadiens	New York Rangers	Boston Bruins	Toronto Maple Leafs
+357540	Hockey	3	What night of the week was the 7th game of the 2004 Stanley Cup Finals?	Sunday	Friday	Tuesday	Monday
+363390	Hockey	3	Which NHL franchise won its 6th Stanley Cup in 2011?	Vancouver Canucks	New York Rangers	Chicago Blackhawks	Boston Bruins
+360688	Hockey	3	Which coach lead the Toronto Maple Leafs past the Montreal Canadiens in the 1951 Stanley Cup finals?	Jimmy Skinner	Clarence "Hap" Day	Al Arbour	Joe Primeau
+416452	Hockey	3	In their first Playoffs in 1988, the New Jersey Devils missed making the Stanley Cup Finals by how many wins?	Two	Four	Eight	One
+532436	Hockey	3	Which 1933-34 Blackhawks player led his team to the Stanley Cup?	Chuck Gardiner	Sam LoPresti	Alfie Moore	Tommy Gorman
+420347	Hockey	3	Which NHL player was on the 2018-19 New York Islanders roster?	Denis Malgin	Alexandre Fortin	Charlie Lindgren	Mathew Barzal
+47204	Hockey	3	Who coached the Montreal Canadiens to victory in the 1986 Stanley Cup?	Mario Tremblay	Jacques Lemaire	Jacques Demers	Jean Perron
+532535	Hockey	3	Alexander Mogilny represented which country in the 1988 Olympics before joining the Buffalo Sabres?	Switzerland	Italy	Latvia	Soviet Union
+91403	Hockey	3	Who was the coach of the Pittsburgh Penguins when they first won the Stanley Cup in 1991?	Scotty Bowman	Craig Patrick	Eddie Johnson	Bob Johnson
+420926	Hockey	3	What team did Bruce Boudreau coach in the 2016-17 NHL season?	New York Rangers	Edmonton Oilers	Pittsburgh Penguins	Minnesota Wild
+416373	Hockey	3	How much was the NHL salary cap announced on June 22, 2019?	$41.5 Million	$801.5 Million	$71.5 Million	$81.5 Million
+532533	Hockey	3	Which NHL team in the 2014-2015 regular season gave up less than 200 goals against?	Tampa Bay Lightning	Edmonton Oilers	Buffalo Sabres	Montreal Canadiens
+364333	Hockey	3	Who scored a disputed third overtime goal in the 1998-1999 Stanley Cup Finals to give Dallas a win?	Mike Modano	Joe Nieuwendyk	Rick Wilson	Brett Hull
+419992	Hockey	3	Which NHL player was fined in 2014 for squirting water on Montreal's PK Subban?	Ryan Garbutt	Milan Lucic	Scott Hartnell	Shawn Thornton
+8395	Hockey	3	Which NHL player was on the 2018-19 Blackhawks roster?	Anthony Beauvillier	Artturi Lehkonen	Christopher Gibson	Marcus Kruger
+362460	Hockey	3	How many times did Bobby Clarke lead the Philadelphia Flyers to the Stanley Cup?	Eight Times	Five Times	Three Times	Twice
+416506	Hockey	3	The Florida Panthers selected which goalie in the 1999 NHL Entry Draft?	Jamie McLennan	Chris Mason	Mikhail Shtalenkov	Alex Auld
+208297	Hockey	3	Which NHL team won the Southeast Division for the 2011-12 season with 94 points?	Washington Capitals	Tampa Bay Lightning	Carolina Hurricanes	Florida Panthers
+359581	Hockey	3	Who won the first game of the 2004 Stanley Cup finals?	Tampa Bay Lightning	New York Islanders	New Jersey Devils	Calgary Flames
+327225	Hockey	3	Who did the Montreal Canadiens beat in the semifinals to get to the 1944 Stanley Cup finals?	Boston Bruins	Detroit Red Wings	New York Rangers	Toronto Maple Leafs
+487190	Hockey	3	Which Western Conference NHL team had only 5 shootout/overtime losses during the 2010-11 season?	Vancouver Canucks	Chicago Blackhawks	Los Angeles Kings	Anaheim Ducks
+416051	Hockey	3	How many games did the New York Islanders win in the 2016-17 NHL season?	23 Games	51 Games	31 Games	41 Games
+521312	Hockey	3	Starting in 1982-83, how many straight .500+ seasons did Washington have?	11	17	Nine	14
+532455	Hockey	3	Which coach lead the New Jersey Devils past the Detroit Red Wings in the 1995 Stanley Cup finals?	Joe Primeau	Mike Keenan	Hector "Toe" Blake	Jacques Lemaire
+487185	Hockey	3	What was the last number of Wayne Gretzky before he changed for 99?	19	21	9	14
+424372	Hockey	3	Besides the Detroit Red Wings, who did the New York Rangers beat in the 1933 Stanley Cup Playoffs?	Montreal Maroons	Toronto Maple Leafs	Boston Bruins	Montreal Canadiens
+207643	Hockey	3	Which coach lead the Detroit Red Wings past the Philadelphia Flyers in the 1997 Stanley Cup finals?	Hector "Toe" Blake	Glen Sather	Larry Robinson	Scotty Bowman
+357390	Hockey	3	In the 1980's, how many Stanley Cup Finals Series went to a seventh game?	3	4	6	1
+491230	Hockey	3	Who played against Dallas at the Winter Classic held on January 1, 2020 at Cotton Bowl?	Buffalo Sabres	Anaheim Ducks	Chicago Blackhawks	Nashville Predators
+458154	Hockey	3	What is the first tiebreaker for playoff seeding in the NHL?	Team Wins	Team Goals For	Team Losses	Team Points
+423551	Hockey	3	Which player scored the most goals during the 2003-2004 Stanley Cup Playoffs?	Frederik Modin	Martin St. Louis	Brad Richards	Jarome Iginla
+362347	Hockey	3	What were the first years the Edmonton Oilers won back-to-back Stanley Cup Championships?	1983 And 1984	1987 And 1988	1985 And 1986	1984 And 1985
+416152	Hockey	3	What team included Justin Williams in 2016?	Tampa Bay Lightning	Buffalo Sabres	Los Angeles Kings	Washington Capitals
+1H4585	Hockey	3	The first 12 picks of the 2011 NHL entry draft were natives of either Canada or which country?	The United States	Russia	Czech Republic	Sweden
+1H4593	Hockey	3	What team did Glen Gulutzan coach in the 2016-17 NHL season?	Buffalo Sabres	Arizona Coyotes	Winnipeg Jets	Calgary Flames
+521236	Hockey	3	Who won the NHL's Selke Trophy for best defensive forward for the 1992-93 season?	Guy Carbonneau, Montreal	Adam Oates, Boston	Sergei Fedorov, Detroit	Doug Gilmour, Toronto
+521260	Hockey	3	What Carolina Hurricane had the winning overtime goal in game one of the 2001-02 Stanley Cup finals?	Shane Willis	Niclas Wallin	Erik Cole	Ron Francis
+326565	Hockey	3	What Colorado Avalanche "hit man" got a two game suspension in the 1995-1996 Stanley Cup Finals?	Joe Sakic	Patrick Roy	Uwe Krupp	Claude Lemieux
+364121	Hockey	3	With which NHL team did Darryl Sydor capture his second career Stanley Cup?	Florida Panthers	Dallas Stars	Los Angeles Kings	Tampa Bay Lightning
+269139	Hockey	3	How many goals were scored in the 2nd period of game 1 of the 2015 Stanley Cup Finals?	Five	One	Six	None
+322943	Hockey	3	What is not true about the point total amassed by the New Jersey Devils in the season after their first Stanley Cup?	Had 86 Points	Third-Highest In Club History	Not Enough To Make Playoffs	Included 10-Game Winless Streak
+423643	Hockey	3	In the 1989 Stanley Cup Finals, Game 6, which Calgary Flame scored twice in the third for a 4-2 win?	Gary Sutter	Jim Peplinski	Joe Mullen	Doug Gilmore
+364161	Hockey	3	Which Tampa Bay Lightning player scored two goals in game 7 of the 2004 Stanley Cup Finals?	Martin St. Louis	Brad Richards	Dave Andreychuk	Ruslan Fedotenko
+532613	Hockey	3	Who recorded the first shutout for the NHL's Nashville Predators?	Mike Dunham	Dan Ellis	Chris Mason	Tomas Vokoun
+400126	Hockey	3	Who did the Islanders defeat in the 1980 conference finals to reach their first Stanley Cup final?	Philadelphia	Boston	Washington	Buffalo
+2H0009	Hockey	3	Which Detroit Red Wing was Canadian Major Junior Defenseman of the Year in 1999?	Brian Rafalski	Andreas Lilja	Dan Cleary	Brad Stuart
+207739	Hockey	3	Whose overtime goal in the deciding game in 1980 won the New York Islanders their first Stanley Cup?	Butch Goring	Stefan Persson	John Tonelli	Bob Nystrom
+424363	Hockey	3	How many total games did the Los Angeles Kings lose during the 2011-12 Stanley Cup Playoffs?	5	6	7	4
+2H0057	Hockey	3	Who was the head coach of the USA's 2018 Olympic Ice Hockey team?	Cam Fowler	Dan Bylsma	Scott Young	Tony Granato
+18S1366	Hockey	3	Who invented the butterfly style of goaltending?	Ken Daneyko	Jeff O'Neill	Patrick Roy	Glenn Hall
+521210	Hockey	3	What Islander teamed with Bill Smith in 1983 to win the Jennings Trophy for fewest goals allowed?	Ray Ferraro	Chris Osgood	Garth Snow	Roland Melanson
+2H0045	Hockey	3	Which NHL player was on the 2018-19 Blackhawks roster?	Yanni Gourde	Libor Hajek	Carey Price	Duncan Keith
+415560	Hockey	3	By what name was the Central Division of the Western Conference of the NHL previously known?	Smythe Division	Plains Division	Southwestern Division	Norris Division
+400043	Hockey	3	Ray Bourque spent how many seasons as a Boston Bruin before winning a Stanley Cup with Colorado?	19	24	18	21
+423078	Hockey	3	Listed at 6-foot-6, who was the tallest player on the 2007-08 Washington Capitals?	Eric Fehr	Boyd Gordon	Matt Cooke	Jeff Schultz
+2H0081	Hockey	3	Whose 18 points easily led the San Jose Sharks in the 1994 playoffs?	Sergei Makarov	Ulf Dahlen	Gaetan Duchesne	Igor Larionov
+422579	Hockey	3	Which teams did the St. Louis Blues beat to reach the Stanley Cup finals in 1968?	Kings And Flyers	Kings And Seals	Maple Leafs And Bruins	Flyers And North Stars
+487193	Hockey	3	During the 2010-11 NHL season, who became the 7th coach in NHL history to win 600 games?	John Tortorella	Darryl Sutter	Joel Quenneville	Ron Wilson
+357544	Hockey	3	When did Ed Jovanovski play in the Stanley Cup Finals for the Florida Panthers?	1998	2000	2002	1996
+422376	Hockey	3	How much does the Stanley Cup trophy weigh?	22 Pounds	48 Pounds	15 Pounds	36 Pounds
+347561	Hockey	3	Who won the Stanley Cup in the 1995-1996 season?	NY Rangers	Detroit	Dallas	Colorado
+2H0087	Hockey	3	Who was the celebrity coach for the Metropolitan Division in the 2016 NHL All Star games?	Willie Nelson	Drew Carey	Drake	Vince Gill
+1H4591	Hockey	3	In 2012, NHL star Zdeno Chara served as the captain of which country's Olympic team?	Sweden	Russia	Croatia	Slovakia
+426527	Hockey	3	Which defenseman took a crucial 5-minute major in game 6 of the 2012 Stanley Cup Finals?	Rob Scuderi	Travis Zajac	Justin Williams	Steve Bernier
+2H0021	Hockey	3	During the 2012-13 NHL lockout, stars Jason Spezza, Tyler Seguin, and John Tavares all played in what country?	Sweden	Germany	Finland	Switzerland
+532499	Hockey	3	How many points did Joe Mullen record in 10 games with St. Louis in the 1982 playoffs?	11	Seven	Zero	18
+454HL755	Hockey	3	Which team captured its second ever Stanley Cup in 2014?	Chicago Blackhawks	New York Rangers	Pittsburgh Penguins	Los Angeles Kings
+1H4581	Hockey	3	Which player was the NHL official First Star for two straight months in 2013?	Phil Kessel	Alexander Steen	Jarome Iginla	Patrick Kane
+364320	Hockey	3	Where did Ales Hemsky of the Edmonton Oilers rank in assists in the 2006 Stanley Cup Playoffs?	3rd	13th	26th	7th
+363556	Hockey	3	Which team did former Washington Capitals coach Bryan Murray first lead to the Stanley Cup finals?	Mighty Ducks Of Anaheim	Florida Panthers	Detroit Red Wings	Ottawa Senators

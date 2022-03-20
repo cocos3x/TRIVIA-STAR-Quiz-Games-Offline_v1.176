@@ -1,0 +1,538 @@
+FTUXPIC92	Landmarks	0	What Rome attraction is this?	Stonehenge	Easter Island	Machu Picchu	The Colosseum
+FTUXPIC98	Landmarks	0	What is this Egyptian monument?	Pyramids of Giza	Angkor Wat	Stonehenge	Great Sphinx
+258784	Landmarks	0	Which city is home to a hotel and casino with a half-scale replica of the Eiffel Tower?	Atlantic City	New York	Branson	Las Vegas
+367024	Landmarks	0	What Hall of Fame opened in Cooperstown, New York in 1939?	The R&B Hall Of Fame	The Peanut Butter Hall Of Fame	The Gangster Hall Of Fame	The Baseball Hall Of fame
+363868	Landmarks	0	The Last Supper, painted by Leonardo da Vinci, can be seen in which country?	France	Germany	Canada	Italy
+0DIF203	Landmarks	0	The Colorado river flows through which landmark?	Machu Picchu	Eiffel Tower	Statue of Liberty	The Grand Canyon
+0DIF205	Landmarks	0	Which people built Machu Picchu?	Americans	Spanish	Mayans	Incas
+FTUXPIC95	Landmarks	0	What Italian attraction is this?	The Colosseum	Acropolis	Big Ben	Leaning Tower of Pisa
+363864	Landmarks	0	The middle part of Australia is called what?	The Land Down Under	The Great Barrier Reef	The Middle	The Outback
+394524	Landmarks	0	Which major river is associated with Cairo?	Tigris	Euphrates	Qualag	Nile
+386117	Landmarks	0	What California theme park did Walt Disney open in 1955?	Disney World	Euro Disney	Sea World	Disneyland
+365395	Landmarks	0	Which of these mountain ranges is located in China?	Smoky	Appalachian	Rocky	Himalayan
+FTUXPIC112	Landmarks	0	What is this Seattle observation tower called?	Sears Tower	Big Ben	Tokyo Tower	Space Needle
+406182	Landmarks	0	What New York bridge, built in the late 19th century, was the last bridge designed by John Roebling?	The Golden Gate Bridge	The Mackinac Bridge	The Tacoma Narrows Bridge	The Brooklyn Bridge
+369225	Landmarks	0	What is the nickname of the famous clock tower in London, England?	Pike's Peak	Father Time	London Lighthouse	Big Ben
+FTUXPIC110	Landmarks	0	What is this tourist destination?	Sears Tower	CN Tower	Shibuya Crossing	London Eye
+368865	Landmarks	0	Which landmark is on the border between Canada and the United states?	Yellow Stone	The Grand Canyon	Big Ben	Niagra Falls
+385713	Landmarks	0	A statue of what famous figure stands atop a hill in Rio de Janeiro?	Mother Teresa	Pope Julius II	Fidel Castro	Jesus Christ
+FTUXPIC118	Landmarks	0	What bridge is this?	London Bridge	Golden Gate Bridge	Chengyang Bridge	Rialto Bridge
+FTUXPIC94	Landmarks	0	What island prison is this?	Easter Island	Angkor Wat	Acropolis	Alcatraz
+FTUXPIC91	Landmarks	0	What bridge is this?	Hangzhou Bay Bridge	Ye Olde Bridge	Brooklyn Bridge	Golden Gate Bridge
+376841	Landmarks	0	Which of these Presidents is not on Mount Rushmore?	George Washington	Theodore Roosevelt	Abraham Lincoln	John F. Kennedy
+349906	Landmarks	0	How long is the Great Barrier Reef?	10 miles	75 miles	300 miles	More than 1,600 miles
+0DIF213	Landmarks	0	Where would you find the Berlin Wall?	Italy	France	Sweden	Germany
+FTUXPIC120	Landmarks	0	What is this holy landmark called?	Fushimi Inari Taisha	Sydney Opera House	Brandenburg Gate	Westminster Abbey
+394752	Landmarks	0	Located in Brazil, Ipanema is what type of natural landmark?	A rock	Mountain Resort	River	Beach
+0DIF207	Landmarks	0	The Great Sphinx is made up of what?	Ash	Yellow brick	Yellow sand	Limestone
+393175	Landmarks	0	St. Louis, Missouri is home to which world-famous landmark?	The Grand Canyon	Mount Rushmore	Liberty Bell	Gateway Arch
+369795	Landmarks	0	What is New Mexico's longest river?	Santa Fe River	Rio Chama	Pecos River	Rio Grande
+365263	Landmarks	0	In what country is the Leaning Tower of Pisa located?	Germany	Spain	Romania	Italy
+FTUXPIC93	Landmarks	0	What London landmark is this?	London Clocktower	Notre Dame	Space Needle	Big Ben
+FTUXPIC105	Landmarks	0	What is this 13,000+ mile long structure?	Berlin Wall	Brandenburg Gate	The Grand Canyon	Great Wall of China
+283620	Landmarks	0	What is the official residence of the President of Russia?	Notre Dame	A hidden mountain cabin	Russia's White House	Kremlin
+FTUXPIC114	Landmarks	0	What is this Arizona landmark called?	Mount Fuji	Mount Rushmore	The Himalayas	The Grand Canyon
+180646	Landmarks	0	With which of these places is the character Mickey Mouse most often connected?	Great Smoky Mountains National Park	Arlington National Cemetery	Black Sea	Disneyland
+462583	Landmarks	0	In what city will you find Michelangelo's David?	Rome	San Marino	Turin	Florence
+0DIF218	Landmarks	0	Where is the Statue of Liberty located?	Berlin	Paris	Los Angeles	New York
+368362	Landmarks	0	What did Emperor Shi Huandi order to be built?	Forbidden City	Dams	A Mountain	Great Wall
+365440	Landmarks	0	The Great Wall of China was built for what reason?	To Keep Citizens In	To Look Nice	For Protection From Wind	To Keep Enemies Out
+FTUXPIC102	Landmarks	0	What is this ancient Athens citadel called?	The Colosseum	Taj Mahal	Westminster Abbey	Acropolis
+FTUXPIC108	Landmarks	0	What is this French cathedral called?	Big Ben	London Tower	Edinburgh	Notre Dame
+365393	Landmarks	0	In what country is the Historic Centre of Florence?	Mexico	Germany	United States	Italy
+365482	Landmarks	0	What mountain range borders Italy on the north?	Blue Range	Black Hills	Florence Range	The Alps
+FTUXPIC111	Landmarks	0	Which of the Seven Wonders are these?	Great Sphinxes	Patronas Towers	Pyramids of the Niches	Pyramids of Giza
+FTUXPIC104	Landmarks	0	What is this prehistoric monument?	Easter Island	The Grand Canyon	Mount Rushmore	Stonehenge
+363276	Landmarks	0	Where is the birthplace of Islam?	Rome	Hong Kong	Tel Aviv	Mecca
+406402	Landmarks	0	In what country is the Archaeological Site of Troy?	Costa Rica	Greenland	Easter Island	Turkey
+258948	Landmarks	0	The Hotel Hershey is located in which U.S. state?	Ohio	California	New York	Pennsylvania
+282956	Landmarks	0	Where is Mount Kilimanjaro located?	Japan	Germany	Indonesia	Tanzania
+0DIF219	Landmarks	0	Bali is located in which counrty?	Iran	Japan	Ireland	Indonesia
+0DIF206	Landmarks	0	Taj Mahal is located in which country?	Scotland	Germany	Indonesia	India
+180603	Landmarks	0	The description "birthplace of American freedom" best relates to which landmark?	St. Peter's Basilica	The Wailing Wall	The Vatican	Independence Hall
+476862	Landmarks	0	What 2200-mile bicycle race is held in France each year?	Wayfarer Race	French National Bicycle Race	Champagne National	Tour De France
+0DIF208	Landmarks	0	Which famous landmark, built around 2500 BC, is one of the Seven Wonders of the Ancient World?	Taj Mahal	Great Wall of China	Brooklyn Bridge	Great Pyramid of Giza
+0DIF202	Landmarks	0	What color is the Golden Gate Bridge?	Caramel	Violet Sunrise	Chartreuse	Orange Vermilion
+365430	Landmarks	0	What is the highest mountain in Japan?	Mount Everest	Mount Olympus	Mount Kenya	Mount Fuji
+FTUXPIC117	Landmarks	0	What is this famous London structure?	Moscow White House	Buckingham Palace	Diaoyu Fortress	St. Paul's Cathedral
+0DIF216	Landmarks	0	Yellowstone National Park does not pass through which state?	Montana	Wyoming	Idaho	Florida
+0DIF204	Landmarks	0	What famous landmark is in Copenhagen harbor?	The Colosseum	Giant Crab Statue	Stonehenge	Little Mermaid Statue
+365242	Landmarks	0	Autobahns are mainly located in which country?	South Africa	United States	Ireland	Germany
+FTUXPIC101	Landmarks	0	What is this Berlin monument called?	Tower Bridge	Tokyo Tower	Berlin Wall	Brandenburg Gate
+462315	Landmarks	0	In what US city is the curvy Lombard Street and Fisherman's Wharf?	Dallas	Lynchburg	Los Angeles	San Francisco
+FTUXPIC99	Landmarks	0	What bridge is this?	Golden Gate Bridge	Brooklyn Bridge	Bay Bridge	Tower Bridge
+0DIF220	Landmarks	0	The Leaning Tower of Pisa is located in which country?	India	France	Canada	Italy
+0DIF217	Landmarks	0	Which one of these presidents does not have his head carved in Mount Rushmore?	George Washington	Theodore Roosevelt	Abraham Lincoln	Bill Clinton
+0DIF215	Landmarks	0	The Great Barrier Reef is located in which country?	Canada	Mexico	China	Australia
+FTUXPIC113	Landmarks	0	What is this Westminster landmark?	St. Basil's Cathedral	Vorontsovsky Palace	Osaka Castle	Buckingham Palace
+365454	Landmarks	0	Where is the Sahara Desert?	Asia	Australia	United States	Africa
+363852	Landmarks	0	How long is the Great Wall of China?	500 miles	250 miles	50 miles	More than 4,000 miles
+0DIF210	Landmarks	0	Mount Everest is located in which continent?	South America	North America	Europe	Asia
+0DIF211	Landmarks	0	Which famous bridge was completed in 1937 and was the brainchild of Joseph Strauss?	Los Angeles Bridge	London Bridge	Rialto Bridge	Golden Gate Bridge
+503017	Landmarks	0	Which bridge in San Francisco is made with over 80,000 miles of steel wire?	Silver Gate Bridge	Platinum Gate Bridge	Balsa Wood Gate Bridge	Golden Gate Bridge
+FTUXPIC100	Landmarks	0	What is this Incan citadel called?	Great Wall of China	Easter Island	The Colosseum	Machu Picchu
+FTUXPIC106	Landmarks	0	What Australian attraction is this?	Notre Dame	Buckingham Palace	St. Basil's Cathedral	Sydney Opera House
+FTUXPIC107	Landmarks	0	What is this Cambodian structure called?	Taj Mahal	Bangalore Palace	Grand Kremlin Palace	Angkor Wat
+386200	Landmarks	0	What 1969 New York music festival featured The Who, Jimi Hendrix and Janis Joplin?	Altamont	Monterey Pop	Concert In Central Park	Woodstock
+363909	Landmarks	0	What is a famous statue in Egypt that has the body of a lion and the head of a man?	Pharaoh	Mummy	Pyramid	Sphinx
+365266	Landmarks	0	Where is Stonehenge located?	Libya	United States	Botswana	Great Britain
+FTUXPIC119	Landmarks	0	What Presidential landmark is this?	The Grand Canyon	Hoover Dam	Washington Monument	Mount Rushmore
+FTUXPIC96	Landmarks	0	What is this Indian mausoleum?	Angkor Wat	Notre Dame	St. Basil's Cathedral	Taj Mahal
+405297	Landmarks	0	What early U.S. patriot and inventor founded the school which became the University of Pennsylvania?	Barack Obama	Bill Clinton	Abe Lincoln	Benjamin Franklin
+FTUXPIC109	Landmarks	0	What is this Japanese landmark?	Eiffel Tower	Space Needle	Leaning Tower of Pisa	Tokyo Tower
+FTUXPIC103	Landmarks	0	Which waterfall is this?	Angel Falls	Iguazu Falls	Havasu Falls	Niagara Falls
+0DIF201	Landmarks	0	Which country built and donated the Statue of Liberty?	England	Spain	Holland	France
+503018	Landmarks	0	What's the only one of the Seven Wonders of the Ancient World that still stands?	Colossus of Rhodes	Temple of Artemis	Lighthouse of Alexandria	Pyramids of Egypt
+FTUXPIC115	Landmarks	0	What is this old Scottish fortress?	Buckingham Palace	Osaka Castle	The Tower of London	Edinburgh Castle
+369382	Landmarks	0	What Kentucky town sits on an $11 billion gold mine?	Bowling Green	Frankfort	Shelbyville	Fort Knox
+FTUXPIC97	Landmarks	0	What is this Russian landmark?	Taj Mahal	Sydney Opera House	Buckingham Palace	St. Basil's Cathedral
+462585	Landmarks	0	Which Italian city is built on water in a lagoon?	Rome	Florence	Naples	Venice
+365356	Landmarks	0	The ancient Egyptians built the pyramids for what purpose?	As A Competition	To Hold Sporting Events	For Fancy Gatherings	To Bury Royalty
+408939	Landmarks	0	What are Superior, Huron, Michigan, Erie and Ontario?	The Five Oceans	The Seven Seas	The Big Lakes	The Great Lakes
+FTUXPIC116	Landmarks	0	What is this historic Japanese landmark?	Winter Palace	Kerak Castle	Red Fort	Osaka Castle
+365434	Landmarks	0	Where did the Romans go to socialize and bathe?	Pantheon	Colosseum	Red Sea	Baths
+180376	Landmarks	1	What type of collection can be found at the Greenwich Fan Museum, which is the only one of its kind?	Boats	Airplanes	Shells	Fans
+180518	Landmarks	1	What did the state of Kansas rename in honor of the heroic nurse Clara Barton?	Barton River	Barton Lake	Fort Barton	Barton County
+367740	Landmarks	1	Through what country did the U.S dig a canal from 1904 to 1914?	Canada	Nicaragua	Iceland	Panama
+52k91744	Landmarks	1	What 4-km beach in Rio de Janeiro, Brazil, is one of the most famous in the world?	Long Beach	Waikiki Beach	El Nido	Copacabana
+462466	Landmarks	1	What is in the right hand of Lady Liberty in the Statue of Liberty?	Book	Flag	Money	Torch
+376784	Landmarks	1	Victor Hugo's "The Hunchback of Notre Dame" is set in what country?	Chile	New Zealand	Japan	France
+180388	Landmarks	1	In what country find The Terracotta Army?	Cuba	Italy	Japan	China
+462471	Landmarks	1	What is the name of Thomas Jefferson's home in Virginia, which he designed himself?	Limoncello	Bordello	Portobello	Monticello
+180355	Landmarks	1	Which of these best describes the Golden Gate Bridge?	Links Two Modern Nations	Spectacular Collapse In 1940	Its Clock Dials Are 23 Feet Square	Recognized Symbol Of San Francisco
+462464	Landmarks	1	Which U.S. President is not on Mount Rushmore?	Abraham Lincoln	George Washington	Theodore Roosevelt	Richard Nixon
+94882	Landmarks	1	Which city is the Liberty Bell found in?	New York City	Washington	Boston	Philadelphia
+462473	Landmarks	1	You can find the Wailing Wall at which location?	Rome	Egypt	South Dakota	Old City Of Jerusalem
+116D4372	Landmarks	1	What 30-m tall statue is located at the peak of the 700-m Corcovado mountain in Rio de Janeiro, Brazil?	Christ The Rescuer	Christ The Deliverer	Christ The Emancipator	Christ The Redeemer
+88091	Landmarks	1	The Neon Sign Graveyard, an extension of the Neon Museum, can be found where?	New York	Washington	Annheim	Las Vegas
+526551	Landmarks	1	In what country is the World Heritage site, Mausoleum of the First Qin Emperor?	Saudi Arabia	India	Denmark	China
+180407	Landmarks	1	You can find Mount Rainier at which location?	California	Great Britain	New York	Washington
+472674	Landmarks	1	Which exquisite palace was built by Louis XIV of France?	Buckingham Palace	Windsor Castle	St. James's Palace	Palace Of Versailles
+479159	Landmarks	1	Which best describes the Gateway Arch?	Remnant Of Lake Bonneville	Built In Celebration Of The French Revolution	Flows Into The North Sea	Stainless Steel Structure Rises 630 Feet High
+180425	Landmarks	1	The Little Mermaid statue is made of what material?	Limestone	Gold	Brass	Copper
+180361	Landmarks	1	What is Westminster Abbey?	Queen's Residence	Bus Station	Opera House	Gothic Church
+394892	Landmarks	1	The majority of the Amazon Jungle is contained within which country, with 60% of the rainforest?	Suriname	Guyana	Venezuela	Brazil
+180394	Landmarks	1	Which honeymoon destination is known as "City of Lights"?	Cancun	Miami	New York	Paris
+526569	Landmarks	1	Which famous scientist came up with the theory of evolution while visiting the Galapagos Islands?	Isaac Newton	Albert Einstein	Carl Linnaeus	Charles Darwin
+376367	Landmarks	1	In which city is the Parthenon located?	Washington, D.C.	Los Angeles, California	London, England	Athens, Greece
+465749	Landmarks	1	In which capital city was the Tower Bridge erected?	Amsterdam	Ottawa	Canberra	London
+180398	Landmarks	1	Where can you find Everglades National Park?	Texas	Georgia	California	Florida
+91107	Landmarks	1	On what continent is The Great Barrier Reef located?	Asia	Antarctica	Europe	Australia
+180472	Landmarks	1	Where is the casino Caesars Palace located?	Casper, Wyoming	Atlantic City, New Jersey	Washington, DC	Las Vegas, Nevada
+526556	Landmarks	1	Which best describes the Guggenheim Museum?	Birthplace Of American Freedom	Adjacent To A Famous Catholic Sanctuary	Contains The Magnificent Dome Of Michelangelo	Designed By Frank Lloyd Wright
+116D1500	Landmarks	1	You can visit Alcatraz prison in which of these states?	Oregon	New York	Texas	California
+462323	Landmarks	1	Where is the famous Leaning Tower found?	Hamburg	Venice	Naples	Pisa
+192209	Landmarks	1	What body of water separates England from the mainland of Europe?	Bering Sea	Pacific Ocean	Lake Michigan	English Channel
+180489	Landmarks	1	Where would you find the Extraterrestrial Highway, the site of several UFO sightings?	Wyoming	Utah	Vermont	Nevada
+462327	Landmarks	1	Where is Pearl Harbor located?	New York City	Boston	Alaska	Hawaii
+0DIF209	Landmarks	1	What is the top of the Empire State Building currently used for?	Air traffic monitoring	Nothing	Space signals	Broadcasting radio signals
+376788	Landmarks	1	You can find the Gateway Arch at which location?	Washington, DC	Alberta	Juneau	St. Louis
+479000	Landmarks	1	What is a colossal statue of Jesus Christ at the summit of Mount Corcovado in Rio de Janeiro, Brazil?	Christ The Reclaimer	Christ The Regainer	Christ The Restorer	Christ The Redeemer
+180426	Landmarks	1	Which of these facts describes the Berlin Wall?	Controls The Colorado River	Original Home Of Mickey Mouse	Built Along The Rhine River	Construction Began In 1961
+2291C787	Landmarks	1	You can find the Empire State Building at which location?	South Dakota	Arizona	Russia	New York
+180386	Landmarks	1	What archaeological site in Peru was voted one of the new seven wonders of the world in 2007?	Petra	Taj Mahal	Giza Necropolis	Machu Picchu
+180380	Landmarks	1	You can find Plymouth Rock at which location?	South America	Rochester, New York	Pearl Harbor	Massachusetts
+385511	Landmarks	1	Where is the Aswam Dam located?	South Korea	Vietnam	Germany	Egypt
+180381	Landmarks	1	What state is Arlington National Cemetery in?	Hawaii	Alaska	South Dakota	Virginia
+529174u7	Landmarks	1	You can find Grand Teton National Park in which U.S. state?	Florida	Rhode Island	Hawaii	Wyoming
+526578	Landmarks	1	What street is the White House on?	Bourbon Street	Broadway	Rodeo Drive	Pennsylvania Avenue
+116D4392	Landmarks	1	What does the world famous sign in California's Hollywood Hills say?	Welcome	Show Time	Movieland	Hollywood
+5291c743	Landmarks	1	What is the name of the royal residence located in Kensington Gardens?	Gloucester Castle	Kent House	Notre Dame	Kensington Palace
+44362	Landmarks	1	In which American state is the Hoover Dam located?	New Mexico	New York	Oregon	Nevada
+405847	Landmarks	1	What U.S. building was the tallest in the world from 1974 through 1998?	The Empire State Building	The Chrysler Building	The John Hancock Center	The Sears Tower
+116D1602	Landmarks	1	In what country is the World Heritage site, Hiroshima Peace Memorial?	Mexico	Saudi Arabia	Russian Federation	Japan
+414799	Landmarks	1	You can find Cape Horn at which location?	Rome	Eastmost Point Of Africa	Athens	Southernmost Point Of South America
+44364	Landmarks	1	Which best describes Great Salt Lake?	Carved By Sculptor Gutzon Borglum	75,000 Gallons Of Water Each Second	Flows Though Nine Countries	Remnant Of Lake Bonneville
+116D1020	Landmarks	1	You can find Niagara Falls at which location?	Australia	Houston	South America	New York
+180419	Landmarks	1	Where is Greenwich Village?	New Mexico	South Dakota	Washington	New York
+180366	Landmarks	1	What South American jungle is the largest tropical rainforest in the world?	Mamazon	Horizon	Verizon	Amazon
+116D2972	Landmarks	1	Chernobyl can be found in which one of the following locations?	Wyoming	Idaho	Washington	Ukraine
+116D3462	Landmarks	1	What city is the historic French Quarter located in?	New York	Boston	Carson City	New Orleans
+2291C772	Landmarks	1	Where would you find the fictional Dracula's castle?	Paris	New York	Rome	Transylvania
+116D4022	Landmarks	1	Where is the Palace of Versailles?	Iraq	Canada	Haiti	France
+405670	Landmarks	1	What Wisconsin-born architect designed Taliesin and the Guggenheim Museum?	Maya Lin	Christopher Alexander	Daniel Burnham	Frank Lloyd Wright
+2291C757	Landmarks	1	Which best describes the Nile River?	Famous Museum	Cathedral Commissioned By Ivan The Terrible	World Famous Casino	Flows Though Nine Countries
+180382	Landmarks	1	Where would you find the English Channel?	Russia	Pompeii, Italy	Washington	Western Europe
+116D1398	Landmarks	1	Which 4,200-foot suspension bridge is located in San Francisco, California?	Clifton Bridge	Verrazano Narrows Bridge	Golden Arch Bridge	Golden Gate Bridge
+116D2884	Landmarks	1	In what country is the World Heritage site, Palace and Park of Versailles?	Spain	Portugal	Saudi Arabia	France
+406179	Landmarks	1	What structure did Shah Jahan build at Agra in the 17th century as a tomb for his wife?	Angkor Wat	The Blue Mosque	Tamerlane Mausoleum	The Taj Mahal
+116D1054	Landmarks	1	Where is the Ho Chi Minh Trail?	Poland	Germany	United States Of America	Vietnam
+180510	Landmarks	1	Where did the Wright brothers first fly for 59 seconds?	Paris	Menlo Park	Boston	Kitty Hawk
+368393	Landmarks	1	What Arkansas city is the origin of 47 natural hot springs?	Hope	Mountain Home	Little Rock	Hot Springs
+2291C747	Landmarks	1	Which best describes Alcatraz?	A Ruin Lying Atop The Acropolis Of Athens	Undersea Wonderland	Park Contains More Than 2,000 Natural Arches	Famous Prison Island
+0DIF214	Landmarks	1	The Eiffel Tower contains 20,000 what?	Windows	Steps	Cameras	Light Bulbs
+526572	Landmarks	1	In what country is the World Heritage site, Chartres Cathedral?	India	Thailand	Pakistan	France
+180335	Landmarks	1	The Great Barrier Reef is located off the northeastern coast of what continent?	North America	Antarctica	Asia	Australia
+180378	Landmarks	1	In which U.S. city will you find the Metropolitan Museum of Art?	Seattle	Philadelphia	Boston	New York
+462467	Landmarks	1	You can find Badlands National Park at which location?	New York	Old City Of Jerusalem	Alberta	South Dakota
+2291C742	Landmarks	1	In which capital city can the Colosseum be found?	Vienna	Berlin	Madrid	Rome
+2291C792	Landmarks	1	You can find the Alamo at which location?	Washington, DC	Australia	South America	San Antonio, Texas
+462474	Landmarks	1	What landmark would you find in the California city once named Yerba Buena?	Old Faithful	Grand Canyon	Giant Ball Of Twine	Golden Gate Bridge
+267823	Landmarks	1	In what country is the World Heritage site, Cologne Cathedral?	Sri Lanka	Portugal	Russian Federation	Germany
+2291C767	Landmarks	1	You can find the Lincoln Memorial at which location?	California	North Carolina And Tennessee	Casper, Wyoming	Washington, DC
+180411	Landmarks	1	What is the name of the famous museum in London which houses realistic wax figures?	Queen's Wax Museum	National Gallery	Wax R Us	Madame Tussauds
+180397	Landmarks	1	You can find Yankee Stadium at which location?	San Antonio, Texas	Pearl Harbor	Africa	New York
+180392	Landmarks	1	Where do people from all over the world go to ice skate in New York City?	Broadway	Yankee Stadium	Empire State Building	Rockefeller Center
+180488	Landmarks	1	What is the Rose Bowl?	A Rock Formation In Taos	An Extinct Volcano In Washington	A Valley In Kentucky	A Famous Football Stadium
+526568	Landmarks	1	Huangya Pass, a major tourist attraction within Tianjin, is a small section of what Chinese structure?	Great Tower Of China	Great Bridge Of China	Great Pyramid Of China	Great Wall Of China
+180412	Landmarks	1	Where is Gettysburg?	Massachusetts	Wyoming	Vatican City	Pennsylvania
+267806	Landmarks	1	What historic fortified complex serves as the official residence of the Russian president?	Federal Palace	White House	Buckingham Palace	Moscow Kremlin
+462462	Landmarks	1	Which best describes Arches National Park?	843 Acres In The Center Of The City	Oldest Part Of The City Established 1718	50.7 Miles Long And 300 Feet Wide	The Park Contains More Than 2,000 Natural Arches
+526543	Landmarks	1	Which U.S. state's highest point is Mt. Rainier, measured at 14,410 feet?	Utah	Minnesota	Massachusetts	Washington
+180531	Landmarks	1	Gondoliers row boats through the canals of what Italian city?	Milan	Rome	Naples	Venice
+180332	Landmarks	1	Which best describes the Great Barrier Reef?	Otherwise Known As The Palace Of Westminster	The Youngest Of The Rocky Mountains	Battle Ground From U.S. Civil War	Undersea Wonderland
+2291C797	Landmarks	1	You can find the Nile River in which location?	Athens	Germany	New York City	Africa
+526547	Landmarks	1	The National Palace, which is the official seat of the Mexican government, is located in what city?	Puebla	Tijuana	Chihuahua	Mexico City
+258501	Landmarks	1	Which European town hosts a Disneyland Hotel?	Berlin	Madrid	London	Paris
+368887	Landmarks	1	In what country is the World Heritage site, Cathedral of Notre-Dame?	Israel	Malta	United Kingdom	France
+462472	Landmarks	1	Where is the Rose Bowl located?	Pierre, South Dakota	Sydney, Australia	New York, New York	Pasadena, California
+526540	Landmarks	1	Where would you find the Yangtze River?	Brazil	India	Japan	China
+462469	Landmarks	1	You can find Coney Island at which location?	London	South Dakota	Maryland	New York
+116D4360	Landmarks	1	Which best describes the Wailing Wall?	Stainless Steel Structure Rises 630 Feet High	Roughly The Size Of Rhode Island	Monument Of Freedom	Only Wall Left Of King Herod's Temple
+526554	Landmarks	1	By which name is Las Vegas' Las Vegas Boulevard commonly known?	Main Street	Route 66	Secret Lane	The Strip
+180330	Landmarks	1	You can find the Florida Keys at which location?	Washington, DC	Northern California	Southern California	South Florida
+368795	Landmarks	1	Who is the theme park "Dollywood" named after?	Dolley Madison	Carol Channing	Barbie	Dolly Parton
+2291C762	Landmarks	1	Which best describes Gettysburg?	Seat Of The Roman Catholic Church	Previously Called Shangri-La	50.7 Miles Long And 300 Feet Wide	Battle Ground From U.S. Civil War
+526537	Landmarks	1	Which candy company has a theme park in Pennsylvania?	Nestle	Cadbury	Peter Pan	Hershey
+180389	Landmarks	1	Vatican City, where the Pope resides, is a city-state entirely contained within what country?	England	France	Turkey	Italy
+218566	Landmarks	1	You can find The Great Wall at which location?	Pennsylvania	Nevada	Egypt	China
+526586	Landmarks	1	What civilization built the great city of Machu Pichu in Peru?	Circa	Tapioca	Alpaca	Inca
+116D2316	Landmarks	1	In what country is the World Heritage site, Archaeological Site of Olympia?	Spain	Pakistan	Turkmenistan	Greece
+180395	Landmarks	1	What country gave the Statue of Liberty to America?	Spain	Italy	Japan	France
+526538	Landmarks	1	You can find Yosemite National Park in what U.S. state?	Ukraine	Alaska	Lake Superior	California
+180399	Landmarks	1	Where is the famed Central Park located?	Athens, Greece	Cambridge, Massachusetts	Baghdad, Iraq	New York City
+2291C777	Landmarks	1	You can find the U.S. Capitol Building at which location?	Utah	Philadelphia	London	Washington, DC
+526570	Landmarks	1	Where is the United Nations building?	Chicago	Rome	Paris	New York City
+180342	Landmarks	1	In what country is the World Heritage site, Peking Man Site at Zhoukoudian?	Japan	Peru	Russian Federation	China
+180421	Landmarks	1	Which best describes the English Channel?	Third Largest Ocean In The World	Carved By Sculptor Gutzon Borglum	Roof Shaped Like Sails Of A Boat	Has Underground Tunnel For Passage
+180333	Landmarks	1	Which best describes Yosemite National Park?	The Magic Kingdom	Where The Mayflower Landed	Largest U.S. City	Roughly The Size Of Rhode Island
+116D3922	Landmarks	1	In which U.S. city is the Liberty Bell found in?	Fayetteville	Aberdeen	Topeka	Philadelphia
+526545	Landmarks	1	What Chilean island in the southeastern Pacific Ocean is most famous for its enigmatic giant stone statues?	Christmas Island	Halloween Island	Valentine Island	Easter Island
+180345	Landmarks	1	In what state is Niagara Falls located?	Maine	Pennsylvania	Ohio	New York
+180422	Landmarks	1	What is the world's highest uninterrupted waterfall, with a height of 979 meters and a plunge of 807 meters?	Spirit Falls	Devil Falls	Cherub Falls	Angel Falls
+526583	Landmarks	1	The Louvre is located in what country?	Italy	Germany	Switzerland	France
+462326	Landmarks	1	In what country is the World Heritage site, Sydney Opera House?	Morocco	Greece	Denmark	Australia
+2291C782	Landmarks	1	You can find the Vatican at which location?	South Dakota	Nevada	Washington, DC	Rome
+368952	Landmarks	1	You can find Mount Rushmore at which location?	Southern United States	St. Louis	Divides Africa And Russia	South Dakota
+5463	Landmarks	1	Which of these is a U.S. Civil War battle site located in Pennsylvania?	Atlanta	Appomattox	Sumter	Gettysburg
+265449	Landmarks	1	In what country is the World Heritage site, Temple and Cemetery of Confucius?	South Korea	Argentina	New Zealand	China
+180384	Landmarks	1	Where can you find the Golden Gate Bridge?	Chicago	Miami	New York City	San Francisco
+61671	Landmarks	1	Which U.S. war's veterans have a memorial dedicated to them in Washington, DC?	Spanish American	Mexican	Philippine American	Vietnam
+180400	Landmarks	1	What city is Buckingham Palace located?	Edinburgh	Boston	Frankfurt	London
+376706	Landmarks	1	Where is the Little Mermaid statue located?	Nice, France	Stockholm, Sweden	Warsaw, Poland	Copenhagen, Denmark
+60835	Landmarks	1	What is the name of the island that the Statue of Liberty sits on?	Long Island	Ellis Island	Jones Island	Liberty Island
+479001	Landmarks	1	You can find Disney World at which location?	Uniontown, Washington	Juneau, Alaska	New York, New York	Orlando, Florida
+318371	Landmarks	1	The Hudson River Bridge has been named after which famous American?	George Bush	Abraham Lincoln	Bill Clinton	George Washington
+286372	Landmarks	1	What is the name of the big sinkhole in the middle of the sea in Belize?	Mariana Trench	Belize Blue	The Sinker	The Great Blue Hole
+180379	Landmarks	2	What waterfall drops over the edge of the Auyantepui mountain in Bolivar state, Venezuela?	Anger Falls	Anvil Falls	Angle Falls	Angel Falls
+258802	Landmarks	2	In what country is the World Heritage site, Bourges Cathedral?	Thailand	Jordan	Spain	France
+180365	Landmarks	2	Oklahoma's Robbers Cave is known as a former hideout for what infamous outlaw?	Billy The Kid	Bonnie And Clyde	Al Capone	Jesse James
+526541	Landmarks	2	Where is the Lowell Observatory, where the planet Pluto was discovered in 1930?	Palomar, California	Mt. McKinley, Alaska	Denver, Colorado	Flagstaff, Arizona
+180469	Landmarks	2	What is the original name for New York's Times Square?	The Great White Way	Empire Square	Herald Square	Longacre Square
+116D4502	Landmarks	2	What South American landmark is consisted of about 275 individual waterfalls and cascades?	Aguazu Falls	Uguazu Falls	Oguazu Falls	Iguazu Falls
+116D1908	Landmarks	2	Also called the Pharos of Alexandria, what was regarded as one of the Seven Wonders of the Ancient World?	Temple Of Alexandria	Pyramid Of Alexandria	Library Of Alexandria	Lighthouse Of Alexandria
+526594	Landmarks	2	You can find Great Smoky Mountains National Park at which location?	France	California	Washington, DC	North Carolina And Tennessee
+90341	Landmarks	2	In what country is the World Heritage site, Stevns Klint?	Portugal	Montenegro	Bangladesh	Denmark
+116D2770	Landmarks	2	Which U.S. state's highest point is Mt. McKinley, measured at 20,320 feet?	Delaware	Pennsylvania	North Dakota	Alaska
+479003	Landmarks	2	You can find the Mark Twain House at which location?	Southernmost Point Of South America	California	Great Britain	Hartford, Connecticut
+283163	Landmarks	2	In what country is the World Heritage site, Palace and Gardens of Schonbrunn?	Panama	United Kingdom	France	Austria
+524282	Landmarks	2	What city is the hometown of the Beatles?	London	Kent	Manchester	Liverpool
+402107	Landmarks	2	Which tourist attraction is famous for John Brown's 1859 arsenal seizure?	Charleston	Fort Knox	Mill Creek	Harpers Ferry
+180495	Landmarks	2	Where in New York would you find the Korean War Monument?	Brooklyn Bridge	Rockefeller Center	The Intrepid Museum	Battery Park
+462463	Landmarks	2	Located in Chihuahua, Mexico, what cave's main chamber contains the largest selenite crystals ever found?	Little Crystal Cave	Mini Crystal Cave	Tiny Crystal Cave	Giant Crystal Cave
+526592	Landmarks	2	What are giant stone figures carved by the Rapa Nui people on the Easter Island of Chile?	Bonsai	Samurai	Shanghai	Moai
+479157	Landmarks	2	What is the name of a church built deep inside a salt mine in Cundinamarca, Colombia?	Salt Tetrahedral Of Zipaquira	Salt Octahedral Of Zipaquira	Salt Polyhedral Of Zipaquira	Salt Cathedral Of Zipaquira
+180357	Landmarks	2	In what country is the World Heritage site, Naumburg Cathedral?	United States	Panama	Australia	Germany
+180406	Landmarks	2	You can find the Bell Telephone Laboratories at which location?	Southern California	Washington, DC	Australia	New York
+180341	Landmarks	2	Where is the London Holocaust Memorial located?	Buckingham Palace	The Shard	Westminster Abbey	Hyde Park
+116D4112	Landmarks	2	What spectacular waterfalls are located on the border of Argentina and Brazil?	Kaieteur Falls	Yumbilla Falls	Cuquenan Falls	Iguazu Falls
+368568	Landmarks	2	What style is New York's Chrysler Building an architectural example of?	Baroque	Classical	Rococo	Art Deco
+91106	Landmarks	2	The beaches of Copacabana and Ipanema are located in what city in Brazil?	Montevideo	Buenos Aires	Santiago	Rio De Janeiro
+524263	Landmarks	2	Which modern country includes Transylvania?	Ukraine	Hungary	Poland	Romania
+417033	Landmarks	2	What archipelago of volcanic islands belonging to Ecuador is world-renowned for its unique wildlife?	Los Testigos Islands	Chincha Islands	Pearl Islands	Galapagos Islands
+376805	Landmarks	2	The Pink House in Buenos Aires is the presidential palace of which country?	Brazil	Chile	Bolivia	Argentina
+462468	Landmarks	2	The Waldorf-Astoria hotel was originally built on the site of which New York landmark?	Trump Tower	Chrysler Building	Madison Square Garden	Empire State Building
+518546	Landmarks	2	The name of what national park in southern Chilean Patagonia is Spanish for "Towers of Paine"?	Castillos Del Paine	Fuertes Del Paine	Pilares Del Paine	Torres Del Paine
+462465	Landmarks	2	In which U.S. state would you find Camp David?	Kentucky	New York	California	Maryland
+479185	Landmarks	2	What enormous waterfalls in South America are 82 meters tall and 2.7 kilometers wide?	Iguana Falls	Igneous Falls	Igloo Falls	Iguazu Falls
+180409	Landmarks	2	You can find the Normandy American Cemetery at which location?	Russia	New York	London	France
+479198	Landmarks	2	Which of these is a Mayan ruin?	Ebru Pikachu	Angkor Wat	Machu Picchu	Chichen Itza
+365238	Landmarks	2	Located in Argentina, what mountain is the tallest peak in all of the Americas?	Mount Everest	Mount McKinley	Kilimanjaro	Aconcagua
+526590	Landmarks	2	What cave located in the Santa Cruz province of Argentina is famous for the paintings of hands?	Rio De Las Manos	Desierto De Las Manos	Casa De Las Manos	Cueva De Las Manos
+180385	Landmarks	2	What is the name of the town in Ireland whose name means "the little field" and is home to a legendary stone?	Cork	Liverpool	Woollen Mills	Blarney
+96958	Landmarks	2	In what country is the World Heritage site, Flemish Beguinages?	Turkmenistan	China	United Kingdom	Belgium
+180433	Landmarks	2	What U-shaped, 82 meters high chasm is located in the Iguazu Falls?	Devil's Goat	Devil's Coat	Devil's Float	Devil's Throat
+180470	Landmarks	2	Who owned the New York World Trade Towers buildings?	Donald Trump	Michael Bloomberg	An Insurance Company	Port Authority
+399150	Landmarks	2	Located in the Nazca Desert in southern Peru, what are the best known geoglyphs in the world?	Nazca Borders	Nazca Strokes	Nazca Marks	Nazca Lines
+526555	Landmarks	2	What mountain range extend from north to south through seven South American countries?	Alps	Atlas†	Himalayas	Andes
+180364	Landmarks	2	Whose tomb is located at Pasargadae in Iran?	Marco Polo	Cleopatra	Alexander the Great	Cyrus the Great
+518514	Landmarks	2	What was created by Jim Reinders in Nebraska with 38 vintage cars to replicate Stonehenge?	Car Garage	Car Store	Caracas	Carhenge
+505976	Landmarks	2	What mountain in Rio de Janeiro, Brazil is known worldwide for its cableway and panoramic views of the city?	Meatloaf Mountain	Sugarplum Mountain	Sugarcane Mountain	Sugarloaf Mountain
+526582	Landmarks	2	Which best describes Arlington National Cemetery?	Only Wall Left Of King Herod's Temple	World War II Memorial	Spectacular Collection Of Stone Trees	The Nation's Most Sacred Shrine
+526580	Landmarks	2	What city's reputation as the "Garden City of India" began in 1927?	Seoul	Bangkok	Shenzhen	Bangalore
+300084	Landmarks	2	In what country is the World Heritage site, Fortress of Suomenlinna?	Russian Federation	Switzerland	United States	Finland
+526559	Landmarks	2	What cathedral in Brazil is a hyperboloid structure constructed from 16 concrete columns?	Cathedral Of Montevideo	Cathedral Of Buenos Aires	Cathedral Of Lima	Cathedral Of Brasilia
+518421	Landmarks	2	Where in Massachusetts is Harvard University?	Boston	Amherst	Springfield	Cambridge
+180404	Landmarks	2	What is the name commonly used to refer to the University of Paris?	Palais Garnier	Place des Vosges	Les Invalides	Sorbonne
+258502	Landmarks	2	What is the landmark building in Inglewood, California that has a giant doughnut on the roof?	Brandy's Donuts	Donald's Donuts	Hole In The World	Randy's Donuts
+518429	Landmarks	2	What is considered is the world's largest art museum?	Hermitage Museum	Victoria and Albert Museum	Three Gorges Museum	Louvre Museum
+116D2802	Landmarks	2	What is the name of the 52-foot statue of a talking cowboy seen at the Texas State Fair in Dallas?	Billy The Kid	Cowboy Roy	Sam Houston	Big Tex
+214678	Landmarks	2	Located in Honduras, Copan was once one of the most important cities of what great ancient culture?	Soya	Papaya	Playa	Maya
+180416	Landmarks	2	In which three states is Yellowstone National Park located?	Maine, New Hampshire, Vermont	Utah, Colorado, Nevada	South Dakota, North Dakota, Iowa	Wyoming, Idaho, Montana
+394276	Landmarks	2	How far is the Las Vegas McCarran Airport from the Las Vegas Strip?	29 Miles	On The Strip	12 Miles	One Mile
+490939	Landmarks	2	You can find the Crazy Horse Memorial at which location?	San Francisco	Washington, DC	Australia	South Dakota
+526574	Landmarks	2	Where can you find the Old South Meeting House?	Sioux Falls, South Dakota	Athens, Georgia	Cheyenne, Wyoming	Boston, Massachusetts
+88180	Landmarks	2	What London landmark did Queen Elizabeth II open up to tourism in 1993?	Big Ben	House of Commons	Tower Of London	Buckingham Palace
+479163	Landmarks	2	Corcovado mountain, the highest granite dome in Brazil, is located in what city?	Montevideo	Asuncion	La Paz	Rio De Janeiro
+526577	Landmarks	2	What is the name of the huge tower attraction in Las Vegas?	Sunrise Tower	Vegas Peak	The Landmark	The Stratosphere
+116D4472	Landmarks	2	In what country is the World Heritage site, Site of Xanadu?	Thailand	Turkmenistan	United Kingdom	China
+526593	Landmarks	2	In what museum is the Hope Diamond housed?	Smithsonian Air And Space Museum, Washington D.C.	Delta Morge Museum, Belfast, Ireland	Museum Of Modern Art, New York	Smithsonian Natural History Museum, Washington D.C.
+518377	Landmarks	2	Where is the Great Pyramid located?	Thebes	Aswan	Tyre	Giza
+180446	Landmarks	2	In what city will you find the Summer Palace?	Hollywood, California	San Francisco	Tokyo	Beijing
+376713	Landmarks	2	Where in NYC is the U.S. Open tennis tournament held?	Harlem	Rockaway	Sheepshead Bay	Flushing Meadow
+5291a742	Landmarks	2	What California landmark was in the 2011 film "Rise of the Planet of the Apes"?	Hollywood Walk of Fame	Los Angeles Memorial Coliseum	Pony Express Terminal	Golden Gate Bridge
+216034	Landmarks	2	What bronze sculpture covered with gold stands atop a stone column in Mexico City?	Angel Of Dependence	Angel Of Servitude	Angel Of Subordination	Angel Of Independence
+180362	Landmarks	2	Which African country's highest elevation point is Mt. Kilimanjaro at 5,895 meters?	Slovakia	Bahrain	Ecuador	Tanzania
+526539	Landmarks	2	Where is the U.S. Naval Academy located?	Albany, NY	West Point, NY	Baltimore, MD	Annapolis, MD
+518426	Landmarks	2	Where in South Carolina is the military college, The Citadel located?	Columbia	Beaufort	Clemson	Charleston
+479184	Landmarks	2	The Bridge of the Americas is an iconic bridge across the Pacific entrance to what ship canal?	Costa Rica Canal	Nicaragua Canal	Guatemala Canal	Panama Canal
+180354	Landmarks	2	Where would you come across "The Bridge on the River Kwai"?	India	China	Nepal	Thailand
+526567	Landmarks	2	What famous landmark is in the Copenhagen harbor?	A Statue Of Hans Christian Andersen	A Gigantic Scepter	A Plaque Commemorating Alfred Nobel	A Statue Of The Little Mermaid
+192213	Landmarks	2	Robert E. Peary and Matthew Henson are considered the first to reach what landmark in 1909?	Amazon Rainforest	King Tut's Tomb	International Date Line	North Pole
+478998	Landmarks	2	Two former cities joined by bridges across the Danube, Budapest is the capital of which country?	Bulgaria	Romania	Greece	Hungary
+505981	Landmarks	2	The Haji Ali Dargah mosque is one of the most visited places in what Indian city?	Guangzhou	Istanbul	Lagos	Mumbai
+462470	Landmarks	2	In what nation will you find Serengeti National Park?	Libya	Kenya	South Africa	Tanzania
+479006	Landmarks	2	In 1925, a giant California sequoia was named what?	First Tree	Oldest Tree In The World	Charlie Brown Tree	National Christmas Tree
+367757	Landmarks	3	What royal collection is housed in St. James Palace?	Wedding Gowns	Family Bibles	Butterflies	Stamps
+369732	Landmarks	3	What is the tallest volcano in New Zealand?	Mt. Ngauruhoe	Mt. Tongariro	Mt. Tauhara	Mt. Ruapehu
+258691	Landmarks	3	The Berlin Wall started construction in what year?	1934	1951	1900	1961
+282944	Landmarks	3	Which great temples were built first on the islands of Malta?	Tarxien Temple	Hagar Qim	Mnajdra Temples	Ggantija Temples Of Gozo
+529s1746	Landmarks	3	Located in New Mexico, what is the USA's oldest continuously used public building?	Santa Fe Plaza	New Mexico Capitol	Santa Fe Building	Palace Of The Governors
+526550	Landmarks	3	Which attraction in Chongqing is considered the best place for people to learn about Chinese ghost culture?	Dazu Rock Carvings	Snowy Jade Cave	Goose Neck Park	Fengdu Ghost City
+526585	Landmarks	3	You can find Arches National Park at which location?	New Mexico	Old City Of Jerusalem	The Rock Of Gibraltar	Utah
+367753	Landmarks	3	Where is the Great Wall of Gorgan located?	England	Switzerland	Cuban	Iran
+402028	Landmarks	3	What famous American monument was finished in 1885?	Grant's Tomb	Mount Rushmore	New York Monument	Washington Monument
+479201	Landmarks	3	How many canals are in Amsterdam?	1200	1000	45	165
+402101	Landmarks	3	What U.S city is nicknamed the "Cradle of Aviation"?	Houston, Texas	Paris, France	Little Rock, Arkansas	Dayton, Ohio
+258903	Landmarks	3	What does Jimi Hendrix's tombstone say above his name?	Wanna Take You Higher	Too Old To Die	I've Been Experienced	Forever In Our Hearts
+216066	Landmarks	3	What is the name of the former home of the Duke and Duchess of Gloucester located by the village of Barnwell?	Qundle Manor	Ramsey Manor	Berenger's	Barnwell Manor
+23404	Landmarks	3	Which of the following is another name for the Cano Cristales River in Colombia?	Liquid Elbow	Liquid Crossbow	Liquid Longbow	Liquid Rainbow
+116D1180	Landmarks	3	In addition to the Eiffel Tower, which landmark did Gustave Eiffel help design?	The Empire State Building	The Sphinx	The Leaning Tower Of Pisa	The Statue Of Liberty
+284807	Landmarks	3	What is the name of the country house set in a large park, the Great Park in Hertfordshire?	Salisbury House	Morton House	Shire House	Hatfield House
+116D1194	Landmarks	3	The Gold Museum, which displays a selection of pre-Hispanic gold work, is located in what Colombian city?	Caracas	Georgetown	Quito	Bogota
+505804	Landmarks	3	In which European city could you visit the Anne Frank house?	Frankfurt	Rotterdam	The Hague	Amsterdam
+282946	Landmarks	3	Al-Azhar, the oldest University in the Arab world, is located in which country?	Saudi Arabia	Jordan	Syria	Egypt
+136570	Landmarks	3	Who is the Strawberry Fields section of Central Park in New York City dedicated to?	Joe DiMaggio	Rudy Giuliani	John Adams	John Lennon
+479068	Landmarks	3	Which is located in Liverpool, England?	Lace Market	Albert Square	St Paul's Tower	Pier Head
+116D1296	Landmarks	3	The Church of the Society of Jesus, a spectacularly ornate Jesuit church, is located in what Ecuadorian city?	Bogota	Santiago	Lima	Quito
+365611	Landmarks	3	What is the Arabic name for the city of Jerusalem?	Dimishq	Jezzeria	Al Qaheera	Al Quds
+365613	Landmarks	3	What is the mausoleum for fourth dynasty Egyptian Pharaoh Khufu?	Bent Pyramid	Dolmen de Viera	Yeha Temple	Great Pyramid of Giza
+40131	Landmarks	3	What New York City street is also known as the Avenue of the Americas?	Fifth Avenue	Twenty-Fourth Street	Eighth Avenue	Sixth Avenue
+192205	Landmarks	3	Which amusement park featured a "Days of Thunder" simulation ride?	Kings Mountain	Opryland	Hershey Park	Kings Island
+116D2364	Landmarks	3	Which river is 4,160 miles long?	Amazon	Volga	Mississippi	Nile
+300092	Landmarks	3	Folk legend says that what monster lives in the River Thames?	Loch Ness Monster	Devil Rays	Headless Horseman	Red Salamander
+258517	Landmarks	3	What is the name of the London home used by U.S. General Dwight D. Eisenhower during the Second World War?	Sutherland Manor	York House	Dwight's Place	Thatched House Lodge
+505803	Landmarks	3	What is the name of the official residence of the monarch in Scotland?	Victoria's Palace	Scots Castle	Kings Castle	Palace Of Holyroodhouse
+258638	Landmarks	3	What is the name of the famous 450 foot ferris wheel on the South Bank of the London Thames?	Giant Wheel	Thames Ferris	London's Wheel	London Eye
+8495	Landmarks	3	What national landmark is on the back of the U.S. $50 bill?	Grand Canyon	Jefferson Memorial	Washington Monument	U.S. Capitol
+401996	Landmarks	3	Where is the Red Light District in Amsterdam?	Leidseplein	Rembrandtplein	Amsterdam West	De Wallen
+116D4696	Landmarks	3	You can find the Escorial Palace at which location?	China	Panama	Washington, DC	Spain
+116D4136	Landmarks	3	What is the world's largest salt flat, spanning 10,582 square kilometers in southwestern Bolivia?	Azucar De Uyuni	Rio De Uyuni	Leche De Uyuni	Salar De Uyuni
+22780	Landmarks	3	What London tourist attraction is built around the 1857 Round Reading Room?	Big Ben	Hampstead Heath	Dungeons	The British Museum
+526562	Landmarks	3	What is a large underwater sinkhole located 100 kilometers off the coast of Belize?	Great Red Hole	Great Green Hole	Great Black Hole	Great Blue Hole
+369860	Landmarks	3	How many blocks of bluestone make up Stonehenge?	94	108	85	80
+92443	Landmarks	3	What year does The Louvre Palace in Paris date back to?	1789	1900	1642	1190
+74213	Landmarks	3	In what country is the landmark Anker Clock located?	United States	Mexico	Canada	Austria
+462459	Landmarks	3	What was located on the site of the Sydney Opera House prior to its construction?	A Park	A Monument To Lady Macquarie	A Hospital	A Tram Depot
+462460	Landmarks	3	What is the name of the aviation museum located in London which houses over 100 aircraft?	Aircraft Museum	London's Air Museum	Fopp Museum	Royal Air Force Museum
+479187	Landmarks	3	In which U.S. state is the Petrified Forest located?	Colorado	Wyoming	New Mexico	Arizona
+258503	Landmarks	3	Which Taiwan building is 1667 feet tall?	Wuhan World Trade Tower	Park Tower	21st Century Tower	Taipei 101
+282629	Landmarks	3	Which unusual Victorian mansion, built by an heiress, was under construction for 38 years?	The Hilton Habitat	The Vanderbilt Villa	The Heinz House	The Winchester Mystery House
+180436	Landmarks	3	The Red Fort is a historic fort located in what city?	Paris	Tokyo	Bangkok	Delhi
+192214	Landmarks	3	What is the name of one of the largest and most important castles in Scotland which sits atop Castle Hill?	Forth Castle	Queen Of Scots Castle	Snowdoun	Stirling Castle
+378844	Landmarks	3	Within the Tower of London, where have British monarchs made their home since William the Conqueror?	Bloody Tower	Brick Tower	Salt Tower	White Tower
+526552	Landmarks	3	If you visit Stark's museum in Portland, what item's evolution would you be able to see?	Television	Refrigerator	Kitchen	Vacuum Cleaner
+116D1160	Landmarks	3	In what year was the Statue of Liberty opened to the public for the first time since the tragedy of 9/11/01?	2003	2006	2005	2004
+472707	Landmarks	3	The largest beagle (30-foot high) in the world can be found where?	Vermont	New York	New Jersey	Idaho
+368710	Landmarks	3	What is the youngest stratovolcano in Costa Rica and is one of the most active volcanoes in the country?	Krakatoa	Mount Vesuvius	Mount Pinatubo	Arenal Volcano
+479181	Landmarks	3	Which famous Paris landmark was built for the International Exhibition of 1889?	Opera House	Arc De Triomphe	Louvre	Eiffel Tower
+100477	Landmarks	3	Which amusement park is located in Altoona, Iowa?	Funtown USA	Circus World	Pagel's Playland	Adventureland
+300070	Landmarks	3	Scholars believe the Great Sphinx in Egypt may represent which god?	Moon	Fertility	Death	Sun
+2291C802	Landmarks	3	In what city in China is Lotus World, the largest lotus ecological theme park in the world, found?	Luanda	Ahmedabad	Santiago	Foshan
+5291e748	Landmarks	3	Where in US would you be able to visit Ames Pyramid?	Rawlins, Wyoming	Greybull, Wyoming	Douglas, Wyoming	Buford, Wyoming
+524264	Landmarks	3	What U.S. state has the most National Parks and National Forests?	New York	Florida	Wyoming	California
+386054	Landmarks	3	In what city in England is Europe's largest public library?	Liverpool	Chelsea	Bedfordshire	Birmingham
+180390	Landmarks	3	Where would you come across the 100 year old landmark Lucy the Elephant?	New York	Los Angeles	San Diego	New Jersey
+180429	Landmarks	3	The Perito Moreno Glacier is located in the Patagonia region of which country?	Brazil	Peru	Bolivia	Argentina
+526549	Landmarks	3	How long is China's Grand Canal?	26 Miles	75 Miles	750 Miles	1,000 Miles
+8491	Landmarks	3	Which hotel is a New York City Historic Literary Landmark?	Deauville	Grand Central	Plaza	Algonquin
+404607	Landmarks	3	What valley in the Atacama Desert of Chile looks somewhat similar to the surface of the moon?	Valle De La Estrella	Valle De La Sol	Valle De La Tierra	Valle De La Luna
+479064	Landmarks	3	In which city is the biggest Disney theme park located in?	Paris, France	Los Angeles, California	Orlando, Florida	Tokyo, Japan
+70943	Landmarks	3	What Auckland, New Zealand landmark is also known as Maungakiekie?	Mt. Eden	Rangitoto	Auckland Harbour Bridge	One Tree Hill
+399152	Landmarks	3	How long did the construction of New York's Empire State Building take?	10 Months	81 Months	16 Months	14 Months
+518457	Landmarks	3	The Niteroi Contemporary Art Museum, which is often described as UFO-like, is located in what Brazilian city?	Rio De Janeiro	Sao Paulo	Brasilia	Niteroi
+180641	Landmarks	3	Where are the Petronas Twin Towers, formerly the world's second- and third-largest buildings?	The United States	Great Britain	South Africa	Malaysia
+283370	Landmarks	3	What is the name of the castle fortress in Scotland built atop the volcanic Castle Rock?	Rock Castle	Buckingham Palace	Scottish Palace	Edinburgh Castle
+23405	Landmarks	3	What is the largest lake in New Zealand?	Lake Tekapo	Lake Rotoma	Lake Rotorua	Lake Taupo
+103253	Landmarks	3	Which attraction of modern Cairo is 590 feet high?	Government Center	Khan Al-Khalili Bazaar	Pharaonic Village	Cairo Tower
+289256	Landmarks	3	Where in Boston would you ride the "Swan Boats"?	Charles River	Frog Pond	Boston Commons	Public Garden
+518502	Landmarks	3	What hotel was built by mobster Benjamin "Bugsy" Siegel?	Sahara Hotel	Circus Circus	MGM Grand	Flamingo Hotel
+367007	Landmarks	3	The British Museum was first housed in what 17th-century mansion?	White Tower	Kensington Palace	Heathrow	Montagu House
+116D2428	Landmarks	3	Which bridge marks the oldest crossing of the River Thames?	Westminster Bridge	Runnymede Bridge	Tower Bridge	London Bridge
+526557	Landmarks	3	Mount Cotopaxi, one of the highest active volcanoes in the world, is located in what city in Ecuador?	Bogota	Caracas	Lima	Quito
+526591	Landmarks	3	In what country is the World Heritage site, Red Fort Complex?	Sri Lanka	North Macedonia	New Zealand	India
+479158	Landmarks	3	The British Museum houses which of these famous artefacts?	Mona Lisa	Hope Diamond	King Tut's Tomb	Rosetta Stone
+216072	Landmarks	3	Museo de Jade, which has the world's largest collection of American jade, is located in what Costa Rican city?	Panama City	Managua	San Salvador	San Jose
+283028	Landmarks	3	Where can you find Denali National Park?	Spain	Ireland	Africa	Alaska
+526558	Landmarks	3	Which waterfall making up Niagara Falls lies predominantly in Canada?	American Falls	Bridal Veil Falls	Victoria Falls	Horseshoe Falls
+394275	Landmarks	3	The California landmark, Hale Solar Observatory, can be found where?	La Jolla	Los Angeles	Clear Lake	Pasadena
+479058	Landmarks	3	Where would you come across Bonnie and Clyde Ambush Museum?	Ohio	Kansas	Maine	Louisiana
+479171	Landmarks	3	In what country is the World Heritage site, Stoclet House?	Russian Federation	United States	North Korea	Belgium
+74618	Landmarks	3	Dromoland Castle is a large hotel found in which country?	Scotland	England	Germany	Ireland
+369161	Landmarks	3	Deadwood is located where?	Montgomery, Alabama	Washington	San Francisco Bay	South Dakota
+518383	Landmarks	3	Cadbury Chocolate was established in which city in England in 1824?	London	Liverpool	Bristol	Birmingham
+251497	Landmarks	3	What is the most famous road in Auckland, New Zealand?	Remuera Road	Great South Road	Great North Road	Queen Street
+116D2214	Landmarks	3	How many steps lead up to the Lincoln Memorial?	95	100	33	98
+93506	Landmarks	3	Where in California will you find Hubert H. Bancroft Ranch House?	Yosemite National Park	Sonora	Pasadena	San Diego
+402100	Landmarks	3	What brick castle in Poland on the bank of the river Nogat was built in 1406?	Saxon Bastille	Sand Castle	Wartburg Castle	Malbork Castle
+116D2542	Landmarks	3	What is the name of the public art gallery located at Buckingham Palace?	London Gallery	British Gallery	Royal Gallery	Queen's Gallery
+479011	Landmarks	3	The Crown Jewels are kept in what tower at the Tower of London?	Bloody Tower	White Tower	Devereux Tower	Wakefield Tower
+283029	Landmarks	3	Which New York building is 1046 feet tall?	Emirates Tower Two	Park Tower	Bank of America Plaza	Chrysler Building
+180424	Landmarks	3	When was Saint Basil's Cathedral built in Russia?	1888	1102	1999	1561
+80381	Landmarks	3	How many bricks make up the Empire State Building?	20,000	40 Million	450	10 Million
+526542	Landmarks	3	Where can the Top Secret Inc., an upside-down White House, be found?	Vermont	Virginia	Oregon	Wisconsin
+402115	Landmarks	3	What Colorado hotel has been called Durango's historic centerpiece?	The Peck House	Castle Marne	The Delaware Hotel	Strater Hotel
+88051	Landmarks	3	In what park is North America's highest point, Mount McKinley?	The Thomas Jefferson Memorial	The Great Barrier Reef	The Black Sea	Denali National Park
+367718	Landmarks	3	Which museum, first known as Museum of Non-Objective Art, opened in New York in 1939?	The Museum Of Modern Art	The Getty	The Brooklyn Museum Of Art	The Guggenheim
+365571	Landmarks	3	What castle in Ireland was the fortified seat of British rule in Ireland until 1922?	King John's Palace	Lord Of Ireland Castle	Dame Street Castle	Dublin Castle
+479091	Landmarks	3	Which river is called "Rio Bravo" by Mexicans?	Colorado River	Rio Rojo	Rio Lobos	Rio Grande
+180427	Landmarks	3	What is the name of the castle located in the English county of Berkshire noted for its architecture?	William's Castle	Berkshire Castle	Queen's Castle	Windsor Castle
+526566	Landmarks	3	What is the largest freshwater lake in South America and the highest of the world's large lakes?	Lake Atacama	Lake Amazonia	Lake Patagonia	Lake Titicaca
+283374	Landmarks	3	When the statue of King George in NYC was melted down by Patriots, about how many bullets did it make?	250,000	100,000	25,000	2 For Each Soldier
+478999	Landmarks	3	The Hanging Gardens of Babylon are located approximately 50 km south of which Arab Capital?	Tehran	Damascus	Cairo	Baghdad
+402005	Landmarks	3	What is the name of the Irish town south of Belfast where St. Patrick was reputedly buried?	Belfast	Ulster	Dublin	Downpatrick
+479014	Landmarks	3	The Riviera Hotel became the first Las Vegas Strip high-rise with how many stories?	13 Stories	7 Stories	21 Stories	9 Stories
+271165	Landmarks	3	What tabletop mountain is a natural border between Venezuela, Brazil and Guyana?	Cotopaxi	Ojos Del Salado	Aconcagua	Mount Roraima
+394482	Landmarks	3	The first area in London known as Chinatown was located where?	Lambeth	Tower Hamlets	Greenwich	Limehouse
+479013	Landmarks	3	What is the name of the oldest museum in England, founded in 1683 in Oxford?	Rockerell Museum	Greek Museum	Beaumont Museum	Ashmolean Museum
+526564	Landmarks	3	Which best describes the St. Basil's Cathedral?	Adjacent To A Famous Catholic Sanctuary	Contains The Magnificent Dome Of Michelangelo	Home Of The Parthenon	Cathedral Commissioned By Ivan The Terrible
+180337	Landmarks	3	In what country is the World Heritage site, Joggins Fossil Cliffs?	Marshall Islands	Tonga	Australia	Canada
+401998	Landmarks	3	The Palace of Versailles, just outside of Paris, was built in what century?	14th	16th	18th	17th
+505815	Landmarks	3	La Grande Arche is a monument to what in Paris?	World War II Heroes	Francois Mitterrand	Free Speech	Business District Of La Defense
+6227	Landmarks	3	In England, what is "Brown Willy"?	A Rock Near Hartland Point	A Famous London Statue	A Winding Road Near Dover	A Hill In Cornwall
+251429	Landmarks	3	What is the name of the theme park and zoo originally opened as a zoo in 1931, located in South West London?	London Zoo	Trails Of The Kings	Tuk Tuk	Chessington World Of Adventures Resort
+518430	Landmarks	3	Where is Fish River Canyon, the second largest canyon in the world located?	Kenya	Cuba	Canada	Namibia
+526563	Landmarks	3	In what country is the World Heritage site, Masada?	Russian Federation	North Korea	Turkey	Israel
+300000	Landmarks	3	What was the site of the Great Exhibition of 1851 in England?	Palace of Westminster	Trafalgar Square	Regent's Park	Hyde Park
+180430	Landmarks	3	The name of what salt lake at the southernmost tip of Bolivia is Spanish for "green lake" or "green lagoon"?	Oceano Verde	Rio Verde	Canal Verde	Laguna Verde
+479087	Landmarks	3	Where is the great granite mass called Stone Mountain located?	South Dakota	Wyoming	Alabama	Georgia
+365595	Landmarks	3	What famous American national park was created in 1890?	Fundy	Yellowstone	Acadia	Yosemite
+505806	Landmarks	3	In 2004, the fastest ascent of Mt. Everest to date took approximately how long?	14 Hours	23 Hours	36 Hours	8 Hours
+180370	Landmarks	3	The Virunga Mountains in East Africa are a chain of how many major volcanos	4	10	2	8
+192206	Landmarks	3	The California landmark, The Ahwahnee, can be found where?	Long Beach	Sonoma	Los Angeles	Yosemite National Park
+368707	Landmarks	3	The World's Largest Buffalo monument is located where in North Dakota?	Four Bears Village	Cavalier	Park River	Frontier Village
+284806	Landmarks	3	What is the large silver ball at Disney's EPCOT called?	Wonders Of The Universe	Space Mountain	The Big Ball Of Tomorrow	Spaceship Earth
+524266	Landmarks	3	What is the name of the official residence of Diana, Princess of Wales, used until her death in 1997?	Buckingham Palace	Diana's Place	Ornate Palace	Kensington Palace
+180524	Landmarks	3	Colchester Castle in England was begun in what century?	1100's	1700's	1500's	1000's
+518542	Landmarks	3	Where would you visit Jackalope (the Official Mythological Creature of Wyoming) Territory?	Greybull	Laramie	Buford	Douglas
+462317	Landmarks	3	How large is Russia's "Crystal Island" building?	10 Square Miles	188,000 Square Feet	15 City Blocks	1 Square Mile
+283171	Landmarks	3	Who had the palaces and cathedrals built in the Kremlin?	Peter The Great	Catherine The Great	Lenin	Ivan The Great
+116D1704	Landmarks	3	What powerful waterfalls in Guyana combine very high volume of water and large height of fall?	Amateur Falls	Directeur Falls	Restauranteur Falls	Kaieteur Falls
+479080	Landmarks	3	Prior to July 2009, what was the Willis Tower called?	Empire State Building	Chrysler Building	Bank of America Tower	Sears Tower
+526573	Landmarks	3	What Colombian city has been called "The Athens of South America" due to its many universities and libraries?	Rio de Janeiro	Abidjan	Luanda	Bogota
+365478	Landmarks	3	Which one of these countries is the smallest in total area?	Kenya	Tunisia	Ecuador	Iceland
+180373	Landmarks	3	What is the name of the house which is a component of the Palace of Whitehall, used for banquets?	Palladio	Portland House	Royal House Of Pancakes	The Banqueting House
+75412	Landmarks	3	The Hugh Lane Gallery is a modern-art museum in which European city?	Birmingham, England	Salzburg, Austria	Dusseldorf, Germany	Dublin, Ireland
+137472	Landmarks	3	Where does the largest Gothic cathedral stand?	London	Dublin	Edinborough	New York City
+479162	Landmarks	3	Where will you find St. Basil's Cathedral?	Houston, Texas	Cape Of Good Hope, South Africa	Kitty Hawk, North Carolina	Moscow, Russia
+479170	Landmarks	3	Who wrote the famous short story "The Snows of Kilimanjaro"?	Mark Twain	Stephen King	Charles Dickens	Ernest Hemingway
+282941	Landmarks	3	About how long did it take the Ancient Egyptians to build the Great Pyramid of Khufu?	10 Years	30 Years	50 Years	20 Years
+414805	Landmarks	3	Where can the world's largest thermometer be found?	Alaska	Tewas	Wyoming	California
+281349	Landmarks	3	The first free public library in the United States was established in what New Hampshire city?	Plymouth	Piermont	Pike	Peterborough
+490942	Landmarks	3	Floralis Generica, a 23 meter high flower made of stainless steel, is located in what Argentine city?	Santiago	Lima	Rio De Janeiro	Buenos Aires
+48463	Landmarks	3	What year was Eiffel Tower completed in Paris?	1961	1946	1901	1889
+526581	Landmarks	3	In what country is the World Heritage site, the Historic Mosque City of Bagerhat?	Mexico	Switzerland	Palestine	Bangladesh
+18470	Landmarks	3	Victoria Falls is located in which two countries?	United States And Canada	Paraguay And Brazil	India And Pakistan	Zambia And Zimbabwe
+369371	Landmarks	3	Where can you find the Rhine River?	Paris	Washington, DC	Great Britain	Switzerland
+524269	Landmarks	3	Who designed the clock faces and dials on Clock Tower in London?	Charles Barry	Benjamin Caunt	Captain Scarlet	Augustus Pugin
+366335	Landmarks	3	Who was the Parthenon in Greece built to honor?	Hera	Zeus	Aphrodite	Athena
+479156	Landmarks	3	What is the largest tourist destination in Scotland and the second largest in the United Kingdom?	Glasgow	Stirling	Aberdeen	Edinburgh
+187966	Landmarks	3	What is the name of Britain's new National Museum of Modern Art located in London?	Bankside Museum	London's Museum Of Art	Art Museum Of Britain	Tate Modern
+116D3202	Landmarks	3	Disneyland built a theme land within the park based entirely on which of these Disney movies?	Aladdin	Beauty And The Beast	Snow White And The Seven Dwarfs	Who Framed Roger Rabbit
+526589	Landmarks	3	Magellan's Cross is one of the popular and must-see landmarks on what island in the Philippines?	Leyte	Samar	Bohol	Cebu
+282850	Landmarks	3	The Castel dell'Ovo (the Egg Castle) fell in what period of time?	1400's	1200's	1700's	1300's
+518523	Landmarks	3	In what country is the World Heritage site, Thracian Tomb of Kazanlak?	Pakistan	Tonga	South Korea	Bulgaria
+180493	Landmarks	3	What man-made lake was created in the early 1950's and opened by Queen Elizabeth II?	Blagdon Lake	Loch Shin	Wast Water	Chew Valley Lake
+116D2998	Landmarks	3	In what Argentine city is the Palacio Barolo, a unique high-rise building in eclectic style, located?	Brasilia	Montevideo	Lima	Buenos Aires
+368883	Landmarks	3	What color is the Casapueblo, a hotel located in Punta Ballena, Uruguay?	Blue	Green	Black	White
+385563	Landmarks	3	What landlocked river delta in South America is the world's largest freshwater wetland?	Pontanal	Pentanal	Puntanal	Pantanal
+180536	Landmarks	3	What is the name of the college located within a half mile of the castle, across the River Thames?	British Royal College	Yale University	Thames College	Eton College
+116D4746	Landmarks	3	Where would you find the Atlas Mountains?	Italy	Southern France	Greece	Northwestern Africa
+27618	Landmarks	3	The California landmark, Hollyhock House, can be found where?	San Francisco	Sacramento	Yosemite National Park	Los Angeles
+187907	Landmarks	3	Where is Hearst Castle?	Maine	New Jersey	Florida	California
+300026	Landmarks	3	What was not included in the New Seven Wonders of the World, announced in July 2007?	The Great Wall of China	The Colosseum	Machu Picchu	The Eiffel Tower
+44392	Landmarks	3	How tall does the towering Eiffel Tower stand?	1,245 Feet	2,124 Feet	928 Feet	1,063 Feet
+526576	Landmarks	3	In which U.S. state is Carlsbad Caverns located?	California	Florida	Washington	New Mexico
+479200	Landmarks	3	What is the shape of the Pavilion of Horizons in EPCOT?	A Brain	Two Large Cones	A Big Ball	A Gem
+365252	Landmarks	3	What hotel is the most recognizable and photographed spot in South Beach?	Winterhaven Hotel	Sagamore Hotel	Beach Hotel	Colony Hotel
+526587	Landmarks	3	Where can you find the Chartres Cathedral?	California	Orlando, Florida	Panama	France
+505802	Landmarks	3	What royal residence in England was best known as the official home of Diana, Princess of Wales?	Buckingham Palace	St. James's Palace	Windsor Castle	Kensington Palace
+526575	Landmarks	3	What was the first Renaissance building in England, located in London which underwent 6 years of renovation?	Jones House	Tower Of London	York House	Queen's House
+180443	Landmarks	3	What is the birthplace of Charles Dickens?	London	Kent	Liverpool	Portsmouth
+46229	Landmarks	3	The famous Library of Alexandria, Egypt was destroyed in what year?	1773	1167	32 BC	47 BC
+479214	Landmarks	3	Guantanamo Bay is located on which shore of Cuba?	Northern	Western	Southwestern	Southeastern
+282860	Landmarks	3	Where would you be able to visit the "Dinosaur Town With Volcano Toilets"?	Nashville	Los Angeles	Portland	Washington
+505799	Landmarks	3	What is the street address of City Hall in London?	Parliament Square	Buckingham Gate	Pudding Lane	The Queen's Walk
+283172	Landmarks	3	What famous U.S. landmark was opened to the public in 1937?	Statue Of Liberty	Lincoln Memorial	Grand Canyon	Golden Gate Bridge
+526571	Landmarks	3	What museum opened in 2005 as a replacement for the old Chongqing Museum?	Chongqing People's Auditorium	Great Hall Of The People	Qixia Temple	Three Gorges Museum
+180479	Landmarks	3	Where in New York would you come across the prison museum Sing Sing?	Lake George	Oneida	Cobleskill	Ossining
+116D4584	Landmarks	3	Museo Popol Vuh, home to one of the world's largest collections of Maya art, is found in what Guatemalan city?	Panama City	Mexico City	San Salvador	Guatemala City
+254197	Landmarks	3	Kilmainham Gaol is now a museum in Ireland, for what purpose was it originally made?	Guinness Brewery	Zoo	Hospital	Prison
+479199	Landmarks	3	What is the name of one of the most famous Abbeys located in North Yorkshire which was a Cistercian monastery?	Aldfield Abbey	York Abbey	Thurstan Abbey	Fountains Abbey
+116D2010	Landmarks	3	In which city is the Great Western Forum located?	Hollywood	Carson	Long Beach	Inglewood
+180487	Landmarks	3	The birthplace of Sir Winston Churchill, which was built in the 1700's, was called what?	Castel Sant' Angelo	Fontainebleu Palace	Palace Of Versailles	Blenheim Palace
+116D1528	Landmarks	3	Lake Titicaca lies on the border between Bolivia and which other country?	Ecuador	Colombia	Venezuela	Peru
+465748	Landmarks	3	In what country is the World Heritage site, Wartburg Castle?	Poland	Chechnya	Bulgaria	Germany
+71009	Landmarks	3	What is the name of the best preserved castle in the County of West Sussex, in southern England?	Buckingham Palace	Victoria's Place	Sussex Castle	Arundel Castle
+283622	Landmarks	3	What famous American bridge opened in 1883?	Golden Gate Bridge	Chicago Bridge	Boston Bridge	Brooklyn Bridge
+479075	Landmarks	3	What is the name of the castle in the county of Kent which has an aviary, a maze, a grotto and a golf course?	Moat Castle	Kent Castle	Maze House	Leeds Castle
+6258	Landmarks	3	What was the original use of the Alamo in San Antonio, Texas?	A School	A Home	A Market	A Mission
+365585	Landmarks	3	Which Atlanta building is 871 feet tall?	Bank of America Plaza	Taipei 101	Grand Gateway Plaza I	SunTrust Plaza
+116D1806	Landmarks	3	In what country is the World Heritage site, Kronborg Castle?	Canada	Sri Lanka	Brazil	Denmark
+479004	Landmarks	3	Where in Chicago did the "St. Valentine's Day Massacre" occur?	Division Street	Union Station	La Salle Street	Clark Street
+526546	Landmarks	3	What are an assortment of over 300 petrospheres in Costa Rica?	Iron Spheres Of Costa Rica	Wood Spheres Of Costa Rica	Bronze Spheres Of Costa Rica	Stone Spheres Of Costa Rica
+402012	Landmarks	3	What is located on the eastern side of Red Square in Moscow?	U.S. Embassy	Cathedral Of Saint Basil	State Historical Museum	Gum Department Store
+116D2656	Landmarks	3	What city or place is Vizcaya in?	New York City	Dayton	Arlington	Miami
+479065	Landmarks	3	What mountain range divides northern England into eastern and western regions?	Cotswolds	Mendip Hills	Dartmoor	Pennines
+116D2112	Landmarks	3	In what country is the World Heritage site, Semmering Railway?	Peru	Israel	China	Austria
+518379	Landmarks	3	Dr J.J.C Bradfield is the architect of which famous bridge?	Golden Gate Bridge	Brooklyn Bridge	Le Pont De Normandie	Sydney Harbor Bridge
+75409	Landmarks	3	In what state is the Coachella Valley Music and Arts Festival held?	Maine	Colorado	New York	California
+402106	Landmarks	3	Where in California will you find Bradbury Building?	San Rafael	San Francisco	Sonoma	Los Angeles
+526584	Landmarks	3	In what Uruguayan city is the eclectic building Salvo Palace located?	Buenos Aires	Brasilia	Asuncion	Montevideo
+91137	Landmarks	3	Wilkinson's Pike and Hell's Half Acre are landmarks at what battle site of the U.S. Civil War?	Antietam	Spotsylvania	Perryville	Stones River
+526579	Landmarks	3	When are the state rooms of Buckingham Palace open to the public each year?	January	June And July	February	August And September
+526565	Landmarks	3	Where has sign fanatic Tod Swormstedt created the American Sign Museum?	Lima, Ohio	Columbus, Ohio	Dayton, Ohio	Cincinnati, Ohio
+365553	Landmarks	3	What was the Eiffel Tower built for?	Napoleon	1922 World's Fair	World War II Radar Station	Exposition Universelle
+526588	Landmarks	3	What is located at 263 Prinsengracht in Amsterdam?	Van Gogh Museum	Rembrandt House Museum	Westerpoort	Anne Frank House
+42397	Landmarks	3	Which is a Zen Buddhist temple in Kyoto, Japan?	Sera Monastery	Dorje Drak	Pagoda of the Celestial Lady	Kinkaku-ji
+180417	Landmarks	3	What London street features a large outdoor market on Saturdays?	Penny Lane	Harbinger Square	Fleet Street	Portobello Road
+116D1094	Landmarks	3	What 64-story tall skyscraper in Santiago, Chile is the tallest building in Latin America?	Titanium La Portada	Eureka Tower	Q1	Gran Torre Santiago
+136415	Landmarks	3	What theme park that is full of replicas of sites all over the world is located in Shenzhen, China?	Happy Valley Theme Park	Minsk World	Sea World Shekou China	Window Of The World
+479191	Landmarks	3	What is the name of the former royal residence on the Isle of Wight where Queen Victoria died?	Cubitt House	Victoria's Palace	Tower Of London	Osborne House
+350343	Landmarks	3	The ancient Phoenician city of Constantine is located in what modern-day Arab country?	Libya	Morocco	Egypt	Algeria
+95888	Landmarks	3	Which country's highest elevation point is Mount Everest 8,850 meters and is located in Asia?	Switzerland	Vietnam	American Samoa	China
+194037	Landmarks	3	From Cairo, what direction do you go to get to the Pyramids of Giza?	North	South	East	West
+526548	Landmarks	3	A tower named for what animal was the home of a zoo inside the Tower of London?	Zebra	Elephant	Peacock	Lion
+526553	Landmarks	3	What is the name of the conservation area with walking trails, located in Penzance?	Penzance Park	Nelson's Park	City Park	Land's End
+524576	Landmarks	3	What island is located in Loch Ness?	Grape Island	Blue Island	Long Island	Cherry Island
+462461	Landmarks	3	What is the name of the largest aquarium in North West England located in Cheshire?	England Aquarium	Chester Aquarium	Tropical Rivers	Blue Planet Aquarium
+180420	Landmarks	3	You can find Banff National Park at which location?	Massachusetts	Southern California	San Francisco	Alberta
+365680	Landmarks	3	What is the name of the castle which had been the fortified seat of British rule in Ireland?	The Kingdom Of Ireland	Poddle Palace	Bermingham	Dublin Castle
+402097	Landmarks	3	Which lake is part of Slowinski National Park in Poland?	Lake Peipus	Lake Pskov	Wild Lake	Lake Lebsko
+402116	Landmarks	3	Where in the state of California can you visit Big Four House?	San Diego	San Francisco	Inyo	Sacramento
+28928	Landmarks	3	Where is the Walker Art Gallery located?	Leeds	Birmingham	Chelsea	Liverpool
+180377	Landmarks	3	Keith Jennings has sculpted faces into the oak trees of St. Simons Island. Where?	New York	Pennsylvania	Rhode Island	Georgia
+411424	Landmarks	3	The Aswan Dam, completed in 1970, forever changed the physical landscape in which Arab nation?	Lebanon	Syria	Saudi Arabia	Egypt
+180474	Landmarks	3	Who created the world's largest ball of twine situated in Cawker City, Kansas?	Frank Sinatra	Frank Clinton	Frank Botham	Frank Stoeber
+116D4248	Landmarks	3	Temple IV is a step pyramid in the ruins of what ancient Mayan city in modern Guatemala?	Fokal	Vokal	Lokal	Tikal
+402071	Landmarks	3	Which best describes The Outer Banks?	One Of The World's Most Massive Volcanoes	Contains More Than Two Million Works Of Art	A Bell Tower Designed To Stand Vertical	People Of Roanoke Island Settled-And Disappeared

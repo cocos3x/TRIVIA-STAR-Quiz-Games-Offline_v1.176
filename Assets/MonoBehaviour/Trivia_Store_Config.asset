@@ -1,0 +1,415 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdfc19fecd1c2879f93cbd118af266a0, type: 3}
+  m_Name: "Trivia_Store_Config"
+  m_EditorClassIdentifier: 
+  CurrencyTheme: {fileID: 0}
+  MostPopularPackPrice: 9.99
+  ScratchCardPriceThreshold: 9.99
+  purchasePackages:
+  - "word_game_credits1"
+  - "word_game_credits2"
+  - "word_game_credits3"
+  - "word_game_credits4"
+  - "word_game_credits5"
+  - "word_game_credits6"
+  - "word_game_credits7"
+  id_credits1:
+    internalId: 
+    sku: "trivia_star_credits1"
+    productType: 0
+  id_credits199:
+    internalId: 
+    sku: "trivia_star_credits199"
+    productType: 0
+  id_credits2:
+    internalId: 
+    sku: "trivia_star_credits2"
+    productType: 0
+  id_credits3:
+    internalId: 
+    sku: "trivia_star_credits3"
+    productType: 0
+  id_credits4:
+    internalId: 
+    sku: "trivia_star_credits4"
+    productType: 0
+  id_credits5:
+    internalId: 
+    sku: "trivia_star_credits5"
+    productType: 0
+  id_credits6:
+    internalId: 
+    sku: "trivia_star_credits6"
+    productType: 0
+  id_credits7:
+    internalId: 
+    sku: "trivia_star_credits7"
+    productType: 0
+  id_credits8:
+    internalId: 
+    sku: "trivia_star_credits8"
+    productType: 0
+  id_credits9:
+    internalId: 
+    sku: "trivia_star_credits9"
+    productType: 0
+  id_credits10:
+    internalId: 
+    sku: "trivia_star_credits10"
+    productType: 0
+  id_removeAds1:
+    internalId: 
+    sku: "trivia_star_removeads1"
+    productType: 0
+  id_removeAds2:
+    internalId: 
+    sku: "trivia_star_removeads2"
+    productType: 0
+  id_removeAds3:
+    internalId: 
+    sku: "trivia_star_removeads3"
+    productType: 0
+  id_removeAds4:
+    internalId: 
+    sku: "trivia_star_removeads4"
+    productType: 0
+  id_removeAds5:
+    internalId: 
+    sku: "trivia_star_removeads5"
+    productType: 0
+  id_waterfall_0:
+    internalId: 
+    sku: "trivia_star_waterfall0"
+    productType: 0
+  id_waterfall_1:
+    internalId: 
+    sku: "trivia_star_waterfall1"
+    productType: 0
+  id_waterfall_2:
+    internalId: 
+    sku: "trivia_star_waterfall2"
+    productType: 0
+  id_waterfall_3:
+    internalId: 
+    sku: "trivia_star_waterfall3"
+    productType: 0
+  id_waterfall_4:
+    internalId: 
+    sku: "trivia_star_waterfall4"
+    productType: 0
+  id_waterfall_5:
+    internalId: 
+    sku: "trivia_star_waterfall5"
+    productType: 0
+  id_waterfall_6:
+    internalId: 
+    sku: "trivia_star_waterfall6"
+    productType: 0
+  id_waterfall_7:
+    internalId: 
+    sku: "trivia_star_waterfall7"
+    productType: 0
+  id_golden_ticket_subscription:
+    internalId: 
+    sku: "trivia_star_vip_sub_monthly"
+    productType: 2
+  id_silver_ticket_subscription:
+    internalId: 
+    sku: "trivia_star_vip_sub_weekly"
+    productType: 2
+  golden_ticket_ios_override: "trivia_star_vip_sub_monthly01"
+  silver_ticket_ios_override: "trivia_star_vip_sub_weekly01"
+  id_starter_pack:
+    internalId: 
+    sku: "trivia_star_starter_pack0"
+    productType: 0
+  id_starter_dice_pack:
+    internalId: 
+    sku: 
+    productType: 0
+  id_fomo_pack:
+    internalId: 
+    sku: "trivia_star_fomo_1"
+    productType: 0
+  id_piggy_bank_nonbuyer:
+    internalId: 
+    sku: "trivia_star_pb_nonbuyer"
+    productType: 0
+  id_piggy_bank_lapse1:
+    internalId: 
+    sku: "trivia_star_pb_lapse1"
+    productType: 0
+  id_piggy_bank_lapse2:
+    internalId: 
+    sku: "trivia_star_pb_lapse2"
+    productType: 0
+  id_piggy_bank_lapse3:
+    internalId: 
+    sku: "trivia_star_pb_lapse3"
+    productType: 0
+  id_piggy_bank_tier0:
+    internalId: 
+    sku: 
+    productType: 0
+  id_piggy_bank_tier1:
+    internalId: 
+    sku: 
+    productType: 0
+  id_piggy_bank_tier2:
+    internalId: 
+    sku: 
+    productType: 0
+  id_piggy_bank_tier3:
+    internalId: 
+    sku: 
+    productType: 0
+  id_piggy_bank_tier4:
+    internalId: 
+    sku: 
+    productType: 0
+  id_piggy_bank_tier5:
+    internalId: 
+    sku: 
+    productType: 0
+  id_super_bundle_nonbuyer:
+    internalId: 
+    sku: 
+    productType: 0
+  id_super_bundle_lapse1:
+    internalId: 
+    sku: 
+    productType: 0
+  id_super_bundle_lapse2:
+    internalId: 
+    sku: 
+    productType: 0
+  id_super_bundle_lapse3:
+    internalId: 
+    sku: 
+    productType: 0
+  id_gems1:
+    internalId: 
+    sku: "trivia_star_gems1"
+    productType: 0
+  id_gems2:
+    internalId: 
+    sku: "trivia_star_gems2"
+    productType: 0
+  id_gems3:
+    internalId: 
+    sku: "trivia_star_gems3"
+    productType: 0
+  id_gems4:
+    internalId: 
+    sku: "trivia_star_gems4"
+    productType: 0
+  id_gems5:
+    internalId: 
+    sku: "trivia_star_gems5"
+    productType: 0
+  id_gems6:
+    internalId: 
+    sku: "trivia_star_gems6"
+    productType: 0
+  id_pets_food1:
+    internalId: 
+    sku: 
+    productType: 0
+  id_pets_food2:
+    internalId: 
+    sku: 
+    productType: 0
+  id_pets_food3:
+    internalId: 
+    sku: 
+    productType: 0
+  id_pets_food4:
+    internalId: 
+    sku: 
+    productType: 0
+  id_pets_food5:
+    internalId: 
+    sku: 
+    productType: 0
+  id_pets_food6:
+    internalId: 
+    sku: 
+    productType: 0
+  id_pets_food7:
+    internalId: 
+    sku: 
+    productType: 0
+  id_dice_roll1:
+    internalId: 
+    sku: 
+    productType: 0
+  id_dice_roll2:
+    internalId: 
+    sku: 
+    productType: 0
+  id_dice_roll3:
+    internalId: 
+    sku: 
+    productType: 0
+  id_bundles0:
+    internalId: 
+    sku: 
+    productType: 0
+  id_bundles1:
+    internalId: 
+    sku: 
+    productType: 0
+  id_bundles2:
+    internalId: 
+    sku: 
+    productType: 0
+  id_bundles3:
+    internalId: 
+    sku: 
+    productType: 0
+  id_bundles4:
+    internalId: 
+    sku: 
+    productType: 0
+  id_bundles5:
+    internalId: 
+    sku: 
+    productType: 0
+  id_bundles6:
+    internalId: 
+    sku: 
+    productType: 0
+  trivia_star_bundle1:
+    internalId: 
+    sku: "trivia_star_bundle1"
+    productType: 0
+  id_keyPack1:
+    internalId: 
+    sku: 
+    productType: 0
+  id_keyPack2:
+    internalId: 
+    sku: 
+    productType: 0
+  id_keyPack3:
+    internalId: 
+    sku: 
+    productType: 0
+  id_spins1:
+    internalId: 
+    sku: 
+    productType: 0
+  id_spins2:
+    internalId: 
+    sku: 
+    productType: 0
+  id_spins3:
+    internalId: 
+    sku: 
+    productType: 0
+  id_spins4:
+    internalId: 
+    sku: 
+    productType: 0
+  id_spins5:
+    internalId: 
+    sku: 
+    productType: 0
+  id_spins6:
+    internalId: 
+    sku: 
+    productType: 0
+  restaurant_rivals_ooc_bundle:
+    internalId: 
+    sku: 
+    productType: 0
+  restaurant_rivals_oos_free1:
+    internalId: 
+    sku: 
+    productType: 0
+  restaurant_rivals_oos_free2:
+    internalId: 
+    sku: 
+    productType: 0
+  restaurant_rivals_oos_paid1:
+    internalId: 
+    sku: 
+    productType: 0
+  restaurant_rivals_oos_paid2:
+    internalId: 
+    sku: 
+    productType: 0
+  restaurant_rivals_oos_paid3:
+    internalId: 
+    sku: 
+    productType: 0
+  id_piggybank_raid_1:
+    internalId: 
+    sku: 
+    productType: 0
+  id_piggybank_raid_2:
+    internalId: 
+    sku: 
+    productType: 0
+  id_piggybank_raid_3:
+    internalId: 
+    sku: 
+    productType: 0
+  id_piggybank_raid_4:
+    internalId: 
+    sku: 
+    productType: 0
+  id_piggybank_raid_5:
+    internalId: 
+    sku: 
+    productType: 0
+  id_season_plus_pass:
+    internalId: 
+    sku: 
+    productType: 0
+  progressive_sale_1:
+    internalId: 
+    sku: "trivia_star_progressive_sale_1"
+    productType: 0
+  progressive_sale_2:
+    internalId: 
+    sku: "trivia_star_progressive_sale_2"
+    productType: 0
+  progressive_sale_3:
+    internalId: 
+    sku: "trivia_star_progressive_sale_3"
+    productType: 0
+  progressive_sale_4:
+    internalId: 
+    sku: 
+    productType: 0
+  progressive_sale_5:
+    internalId: 
+    sku: 
+    productType: 0
+  progressive_sale_6:
+    internalId: 
+    sku: 
+    productType: 0
+  progressive_sale_7:
+    internalId: 
+    sku: 
+    productType: 0
+  progressive_sale_8:
+    internalId: 
+    sku: 
+    productType: 0
+  progressive_sale_9:
+    internalId: 
+    sku: 
+    productType: 0

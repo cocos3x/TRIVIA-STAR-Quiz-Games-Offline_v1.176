@@ -1,0 +1,434 @@
+0DIFETM43	Awards	0	What annual awards show is held on Nickelodeon?	The Academy Awards	The Critics Choice Awards	The Grownups Choice Awards	The Kids Choice Awards
+0DIFETM45	Awards	0	Who decides who will win a Critics Choice award?	The Population of Detroit, MI	Movie Stars	Teenagers	Critics
+0DIFETM41	Awards	0	The Academy Awards are also known as what?	The Movie Awards	The Razzies	The Big Awards	The Oscars
+0DIFETM49	Awards	0	What award show does MTV put on every year?	The Academy Awards	The Jersey Shore Awards	The Pulitzers	Video Music Awards
+0DIFETM50	Awards	0	What award is given to people who accomplish great acts of peace?	Emmy Award	MTV Video Music Award	Kids Choice Award	The Nobel Peace Prize
+0DIFETM42	Awards	0	The Recording Academy gives out music awards known as what?	Bangers	Sonic Booms	Soundies	Grammys
+0DIFETM56	Awards	0	Which award recognizes, among other things, excellence in journalism?	People's Choice Awards	Country Music Awards	Teen Choice Awards	Pulitzer
+0DIFETM48	Awards	0	At the Academy Awards, what award goes to the best movie of the year?	Best Original Song	Best Movie	Best Director	Best Picture
+0DIFETM54	Awards	0	A Grammy award is shaped like what record-playing device?	A pair of earbuds	A DVD player	An iPod	A gramophone
+0DIFETM58	Awards	0	At the Academy Awards, which award recognizes the best song in a movie?	Best Actor in a Leading Role	Best Director	Best Cinematography	Best Original Song
+0DIFETM59	Awards	0	Which of these is NOT an award given to books?	Hugo Award	Newbery Medal	Caldecott Medal	Academy Award
+0DIFETM44	Awards	0	What is not an award typically given at most major movie award shows?	Best Actor	Best Actress	Best Director	Best Onscreen Sandwich
+0DIFETM57	Awards	0	ESPN's ESPY awards recognize excellence in what?	Food	Musicals	Movies	Sports
+0DIFETM47	Awards	0	Your favorite TV show might win which of these awards?	The Nobel Prize	Michelin 5-Star Rating	Academy Award	Emmy
+0DIFETM55	Awards	0	What award show recognizes the best on-stage musicals of the year?	The Grammys	The Nobel Prize	The Oscars	The Tonys
+0DIFETM53	Awards	0	What color is an Academy Award?	Chartreuse	White	Purple	Gold
+0DIFETM51	Awards	0	What awards show recognizes movies AND television?	The Emmys	The Grammys	The Academy Awards	The Golden Globes
+0DIFETM60	Awards	0	The MTV Video Music Awards honor which of these?	Comic Books	Food	Acting	Music Videos
+0DIFETM52	Awards	0	At the Grammy Awards, which prize is handed out to the most exciting new musical act?	New Kid On the Block Award	Newest Hottest Thing Award	Best Debut	Best New Artist
+0DIFETM46	Awards	1	The Tony Awards recognize excellence in what medium?	Poetry	Ceramics	People Named Tony	Theater
+93009	Awards	1	Which 1991 movie gained Susan Sarandon her second Oscar nomination?	Lorenzo's Oil	Rambling Rose	The Silence Of The Lambs	Thelma & Louise
+465465	Awards	1	In 2008 Daniel Day-Lewis won a Best Actor Oscar for which film?	No Country for Old Men	Eastern Promises	Michael Clayton	There Will Be Blood
+10496	Awards	1	Who played a big roll in Oscar's Best Picture of 1997 but didn't get nominated for an Oscar?	Jodie Foster	Kate Winslet	Brad Pitt	Leonardo DiCaprio
+223169	Awards	1	The 1981 Academy Award for Best Actress went to Katharine Hepburn for her performance in what film?	Coming Home	Moonstruck	Boys Don't Cry	On Golden Pond
+254562	Awards	1	Which star won an Oscar for Best Supporting Actress in "Girl, Interrupted"?	Alexa Vega	Courtney Cox	Drew Barrymore	Angelina Jolie
+223078	Awards	1	What film did Roberto Benigni take home the Oscar in 1998 for Best Actor?	The Bridge On The River Kwai	Cat Ballou	Kramer Vs. Kramer	Life Is Beautiful
+223084	Awards	1	For what film did Al Pacino take home the Oscar in 1992 for Best Actor?	Network	One Flew Over The Cuckoo's Nest	The Lost Weekend	Scent Of A Woman
+523392	Awards	1	I'm the Oscar-winning director of "Jaws", "E.T.", and "Jurassic Park". Who am I?	JJ Abrams	George Lucas	Garry Marshall	Steven Spielberg
+526045	Awards	1	Which Oscar winner directed "American Sniper"?	Jack Nicholson	Gary Oldman	Robert Duvall	Clint Eastwood
+465473	Awards	1	For which film did Martin Scorsese win an Academy Award for Best Director?	Raging Bull	Gangs of New York	Goodfellas	The Departed
+386118	Awards	1	What 1954 film won Oscars for Best Picture, Actor, Director and Supporting Actress?	Gentlemen Prefer Blondes	My Fair Lady	Rebel Without A Cause	On The Waterfront
+25802	Awards	1	What former "Saturday Night Live" star was nominated for an Academy Award for "Driving Miss Daisy"?	Bill Murray	Jane Curtain	Garrett Morris	Dan Aykroyd
+523363	Awards	1	I'm an Oscar-winning actress who starred in "The Hunger Games" and "X-Men". Who am I?	Kate Winslet	Natalie Portman	Cate Blanchett	Jennifer Lawrence
+465466	Awards	1	Which Best Director beat out James Cameron at the Academy Awards in 2010?	Lee Daniels	Jason Reitman	Quentin Tarantino	Kathryn Bigelow
+495377	Awards	1	Which Woody Allen film won him an Oscar for Best Director in 1978?	Sleeper	Manhattan	Midnight in Paris	Annie Hall
+385929	Awards	1	Robert De Niro won an Oscar for his 1980 film portrayal of which boxer?	Rocky Marciano	Willie Pep	Rocky Graziano	Jake La Motta
+504657	Awards	1	Who hosted the 2013 Golden Globe Awards?	Billy Crystal	Jay Leno	Ricky Gervais	Amy Poehler and Tina Fey
+385988	Awards	1	What is the name of Al Gore's Oscar-winning 2006 documentary on climate change?	Super-Size Me	Fahrenheit 9/11	The Wal-Mart Effect	An Inconvenient Truth
+223101	Awards	1	For which film did Jack Nicholson win an Oscar?	The Bridge On The River Kwai	Hamlet	The Godfather	One Flew Over The Cuckoo's Nest
+506951	Awards	1	Complete the title of this Oscar nominated film "12 Years A ____"?	Prisoner	Married Man	Thief	Slave
+223224	Awards	1	Gladiator won an Academy Award for best film of the year, which year?	1953	1957	1934	2000
+343905	Awards	1	What movie won the Academy Award for Best Picture in 1973?	Cabaret	Deliverance	Sounder	The Godfather
+494615	Awards	1	Oscar Diggs is a small-time circus magician from what 2013 film?	Mud	Stand Up Guys	Identity Thief	Oz The Great And Powerful
+223250	Awards	1	What year did "The Godfather Part II" win the Best Picture Oscar?	1971	1952	1944	1975
+465482	Awards	1	Who was awarded an Oscar for directing the 2005 film "Brokeback Mountain"?	George Clooney	Bennett Miller	Paul Haggis	Ang Lee
+298509	Awards	1	Kyra Sedgwick was nominated as lead actress for an Emmy, Golden Globe, and Screen Actors Guild Award for what 2005 television series?	Nightmares And Dreamscapes	Saved	Cold Case	The Closer
+495405	Awards	1	What actress won an Academy Award for Best Supporting Actress for her role in Vicky Cristina Barcelona?	Cate Blanchett	Jennifer Hudson	Tilda Swinton	Penelope Cruz
+523410	Awards	1	I was once a rapper who led the Funky Bunch, but now I'm an Oscar-nominated actor. Who am I?	Keanu Reeves	Daniel Radcliffe	Vince Vaughn	Mark Wahlberg
+464917	Awards	1	Sam Mendes and Jim Threapleton are ex-husbands of which Oscar winning actress?	Helen Hunt	Jodie Foster	Jassica Lange	Kate Winslet
+444258	Awards	1	Who won the Best Rock Album Grammy in 2001 for "There Is Nothing Left To Lose"?	Missy Elliott	Alison Krauss	Kanye West	Foo Fighters
+534319	Awards	1	Which Academy Award-winning actress has played Dr. Leanne Rorish in the series "Code Black"?	Marcia Cross	Marsha Hunt	Marsha Thomason	Marcia Gay Harden
+223087	Awards	1	For which film did Daniel Day-Lewis win an Oscar?	Scent Of A Woman	Amadeus	Save The Tiger	My Left Foot
+464066	Awards	1	Which Golden Globe-nominated actress has a twin brother, Hunter?	Kate Winslet	Julia Roberts	Susan Sarandon	Scarlett Johansson
+62603	Awards	1	Which actress has won back to back Oscars in the Best Actress category?	Elizabeth Taylor	Jane Fonda	Vivien Leigh	Katharine Hepburn
+444374	Awards	1	Who won the Best Rap Album Grammy in 2005 for "The College Dropout"?	Lauryn Hill	Steely Dan	Phil Collins	Kanye West
+495381	Awards	1	Which 2011 Woody Allen film took home an Oscar for Best Original Screenplay?	Melinda and Melinda	To Rome With Love	Whatever Works	Midnight in Paris
+13426	Awards	1	I am an Academy Award winning actor who has played a Radio DJ, a school teacher, a psychiatrist, and a bum, who am I?	Dustin Hoffman	Jack Nicholson	Robert Redford	Robin Williams
+465469	Awards	1	Which film won the first Best Animated Feature Oscar in 2002?	Jimmy Neutron: Boy Genius	Monsters, Inc.	Toy Story	Shrek
+223168	Awards	1	Meryl Streep won the 1982 best actress Oscar for which film?	Guess Who's Coming To Dinner	Gaslight	The Song Of Bernadette	Sophie's Choice
+386007	Awards	1	A film about the life of which classical composer won the 1985 Oscar for Best Picture?	Johann Sebastian Bach	Ludwig Van Beethoven	Johannes Brahms	Wolfgang Amadeus Mozart
+291634	Awards	1	Which 2002 play, based on an Oscar-winning film, featured music by Simon and Garfunkel?	Hollywood Arms	I'm Not Rappaport	The Look Of Love	The Graduate
+40290	Awards	1	Which Alfred Hitchcock directed film won an Academy Award for best picture?	North By Northwest	Psycho	Vertigo	Rebecca
+223114	Awards	1	For which film did Gregory Peck take home the Oscar for Best Actor in 1962?	My Left Foot	The King And I	The Color Of Money	To Kill A Mockingbird
+223088	Awards	1	In 1988, Dustin Hoffman won the Best Actor Oscar for which film?	Life Is Beautiful	To Kill A Mockingbird	The King And I	Rain Man
+423355	Awards	1	For what 2004 film was Jamie Foxx nominated for the Best Supporting Actor Oscar?	Ray	Stealth	The Kingdom	Collateral
+223167	Awards	1	What film did Shirley MacLaine win an Oscar for in 1983?	The Trip To Bountiful	Cabaret	Johnny Belinda	Terms Of Endearment
+223117	Awards	1	For which film did Charlton Heston win an Oscar?	Scent Of A Woman	Going My Way	A Free Soul	Ben-Hur
+759	Awards	1	Which film won the Academy Award for Best Picture in 1971?	Patton	The Sting	Midnight Cowboy	The French Connection
+444369	Awards	1	In 2001, who won the Best Rap Album Grammy for "The Marshall Mathers LP"?	Natalie Cole With Nat King Cole	Bob Carlisle	Sheryl Crow	Eminem
+223170	Awards	1	What film did Sissy Spacek win an Oscar for in 1980?	On Golden Pond	Sophie's Choice	The Three Faces Of Eve	Coal Miner's Daughter
+481874	Awards	1	Which Alexander Payne film starring George Clooney won Best Drama at the 2011 Golden Globes?	Transformers	Hugo	The Iron Lady	The Descendents
+223089	Awards	1	For which film did Michael Douglas win an Oscar?	Raging Bull	The Silence Of The Lambs	Forrest Gump	Wall Street
+255601	Awards	1	What famous Oscar nominated actor was slimed on stage at the 2005 Kids Choice Awards?	Tom Hanks	Leo DiCaprio	Dustin Hoffman	Johnny Depp
+495488	Awards	1	Mira Sorvino won an Oscar for her role in which Woody Allen film?	Melinda and Melinda	Small Time Crooks	Match Point	Mighty Aphrodite
+526066	Awards	1	Which actress won a Golden Globe for her work in "Big Eyes"?	Krysten Ritter	Madeleine Arthur	Kate Winslet	Amy Adams
+272565	Awards	1	Jennifer Aniston won a Golden Globe for Best Actress in what comedy series?	ER	Scrubs	Beverly Hills, 90210	Friends
+223227	Awards	1	Titanic won an Academy Award for best film of the year, which year?	1972	1979	1929	1997
+223113	Awards	1	For which film did Sidney Poitier win an Oscar for Best Actor in a Leading Role?	The Defiant Ones	The Jackal	A Raisin in the Sun	Lilies Of The Field
+223085	Awards	1	For what film did Anthony Hopkins win an Oscar?	True Grit	Marty	A Double Life	The Silence Of The Lambs
+425535	Awards	1	Which Three 6 Mafia song won an Academy Award?	Whoomp That Trick	Smoked Out	Loced Out	It's Hard Out Here For A Pimp
+465472	Awards	1	Who won the Best Director Oscar in 1993 for the film "Unforgiven"?	Neil Jordan	Robert Altman	Martin Brest	Clint Eastwood
+444256	Awards	1	Who won the Best Rock Album Grammy in 1998 for "Blue Moon Swamp"?	Alison Krauss	U2	Dr. Dre	John Fogerty
+495521	Awards	1	As of 2013, Woody Allen is the all-time leader in Oscar nominations in what category?	Directing	Editing	Acting	Screenwriting
+62606	Awards	1	For which 1982 film did Jessica Lange win an Oscar?	King Kong	Blue Sky	Frances	Tootsie
+463875	Awards	1	What stop-motion animated 3D film was nominated for an Oscar in 2010?	Up	The Grinch	Toy Story	Coraline
+512729	Awards	1	Pharrell Williams' "Happy" was nominated for Best Original Song at the 2014 Oscars but lost to which song?	Skyfall	Ordinary Love	The Moon Song	Let It Go
+20650	Awards	1	Mel Brooks transformed which successful musical into an Oscar-winning movie?	Blazing Saddles	High Anxiety	History Of The World, Part I	The Producers
+444366	Awards	1	Who won the Best Rap Album Grammy in 1999 for "Vol. 2: Hard Knock Life"?	Johnny Cash	Soul Asylum	Alicia Keys	Jay-Z
+89005	Awards	1	Who won the Best Actress Academy Award for the title role in "Julia"?	Marisa Tomei	Jane Fonda	Audrey Hepburn	Vanessa Redgrave
+320650	Awards	1	Which of the following movies did Patrick Swayze not receive a Golden Globe Award nomination for?	Dirty Dancing	To Wong Foo Thanks for Everything, Julie Newmar	Ghost	Point Break
+423229	Awards	1	Erykah Badu appeared in what 1999 Oscar-nominated film?	American Beauty	Music Of The Heart	The Green Mile	The Cider House Rules
+94899	Awards	1	Which film won the 1990 Academy Award for Best Picture?	Goodfellas	Misery	Reversal Of Fortune	Dances With Wolves
+386020	Awards	1	Who won an Oscar for Best Actor for 1988's Best Picture "Rain Man"?	Jack Nicholson	Tom Cruise	Richard Harris	Dustin Hoffman
+223240	Awards	1	In what year was the 57th Academy Awards held that "Amadeus" won for best picture?	1934	1953	1957	1985
+230846	Awards	1	In her 2002 Golden Globe speech, Sarah Jessica Parker included a thank you to whom?	Her Sister	Her Mom	Her Brother	City Of New York
+508077	Awards	1	Written in honor of Nelson Mandela, what 2013 U2 song received an Academy Award nomination?	I Will Follow	Invisible	Vertigo	Ordinary Love
+223662	Awards	1	Which actor received an honorary Oscar in 1994 in recognition of his charity work?	Christopher Reeve	Kevin Costner	Morgan Freeman	Paul Newman
+45LL003	Awards	1	Who won Best Performance in a Motion Picture Drama at the 2017 Golden Globe Awards?	Joel Edgerton	Denzel Washington	Viggo Mortensen	Casey Affleck
+444257	Awards	1	In 1999, who won the Best Rock Album Grammy for "The Globe Sessions"?	Eminem	Whitney Houston	Mary J. Blige	Sheryl Crow
+7P0009	Awards	1	Who hosted the 24th Critics' Choice Awards were presented on January 13, 2019?	Al Pacino	Dave Letterman	Jimmy Kimmel	Taye Diggs
+419278	Awards	1	What movie earned Mos Def a Golden Globe nomination in 2005?	The Italian Job	Wedding Crashers	Finding Nemo	Something The Lord Made
+223223	Awards	1	In what year did "A Beautiful Mind" win the best picture Oscar?	1995	1998	2003	2002
+534349	Awards	1	Which Academy Award-winning actress has played Sally Rayburn, the Rayburn family matriarch, in "Bloodline"?	Meryl Streep	Shirley MacLaine	Ellen Burstyn	Sissy Spacek
+483125	Awards	1	Emma Stone received a Golden Globe nomination for her role in what 2010 teen comedy?	Movie 43	The House Bunny	The Rocker	Easy A
+386050	Awards	1	What 1993 Steven Spielberg film won seven Oscars, including Best Director and Best Picture?	Raiders Of The Lost Ark	Jaws	E.T.: The Extra-Terrestrial	Schindler's List
+483079	Awards	1	Jennifer Lawrence was nominated for an Best Actress Oscar for her role in which 2010 film?	The Beaver	Like Crazy	The Burning Plain	Winter's Bone
+465481	Awards	1	Which actor won an Academy Award for directing the film "Dances With Wolves"?	Clint Eastwood	Robert Redford	Paul Newman	Kevin Costner
+495498	Awards	1	In "The Curse of the Jade Scorpion", Woody Allen romances both Helen Hunt and what other Oscar-winning actress?	Hilary Swank	Nicole Kidman	Helen Mirren	Charlize Theron
+223252	Awards	1	What year was an Academy Award given to "The Godfather" for best picture?	1996	1948	1929	1972
+444254	Awards	1	Who won the Best Rock Album Grammy in 1996 for "Jagged Little Pill"?	Seal	U2	Eminem	Alanis Morissette
+465483	Awards	1	Nicolas Cage won a Best Actor Oscar in 1996 for which film?	Raising Arizona	Trapped in Paradise	It Could Happen to You	Leaving Las Vegas
+223253	Awards	1	What year did "The French Connection" win the Best Picture Oscar?	1957	2000	1938	1971
+444253	Awards	1	In 1995, who won the Best Rock Album Grammy for "Voodoo Lounge"?	Dixie Chicks	Whitney Houston	Eric Clapton	The Rolling Stones
+45LL001	Awards	1	What movie won the most awards at the 2017 Golden Globe Awards?	Hacksaw Ridge	Florence Foster Jenkins	20th Century Women	La La Land
+444255	Awards	1	In 1997, who won the Best Rock Album Grammy for "Sheryl Crow"?	Whitney Houston	Amy Winehouse	TLC	Sheryl Crow
+458975	Awards	1	Which famous musical theater team was known as "Dick and Oscar"?	Berlin And Holt	Porter And Rogers	Gershwin And Best	Rodgers and Hammerstein
+93256	Awards	1	What Oscar winning film did Kevin Smith and Scott Mosier Co-Executive Produce?	A Few Good Men	Pulp Fiction	The Usual Suspects	Good Will Hunting
+348541	Awards	1	Costumer Janty Yates won a 2000 Academy Award for what film set in the Roman Empire?	300	Alexander	The Queen	Gladiator
+223115	Awards	1	For which film did Maximilian Schell win an Oscar?	Watch On The Rhine	Disraeli	Separate Tables	Judgment At Nuremberg
+45D740	Awards	1	What award show did Seth Meyers host in 2018?	Pulitzer Prize Awards	ESPY Awards	Academy Awards	Golden Globe Awards
+223225	Awards	1	What year was an Academy Award given to "American Beauty" for best picture?	1951	1955	1960	1999
+223082	Awards	1	In 1994, Tom Hanks took home the Best Actor Oscar for which film?	Charly	On Golden Pond	Kramer Vs. Kramer	Forrest Gump
+386012	Awards	1	What 1986 film about the Vietnam War won the 1987 Oscar for Best Picture?	Apocalypse Now	Patton	Good Morning Vietnam	Platoon
+465476	Awards	1	Which film beat out "Saving Private Ryan" for the Best Picture Oscar in 1999?	Life Is Beautiful	The Thin Red Line	Elizabeth	Shakespeare in Love
+393295	Awards	1	Jennifer Lopez played what ill-fated singer, earning her a 1997 Golden Globe nomination?	Buddy Holly	Yoko Ono	Patsy Cline	Selena
+223226	Awards	1	What year did "Shakespeare In Love" win the best picture Oscar?	1964	1985	1990	1999
+465480	Awards	1	Which actor won a Best Actor Oscar for his role in the 1999 film "American Beauty"?	Sean Penn	Michael Caine	Jude Law	Kevin Spacey
+62601	Awards	1	Besides Tom Hanks, who else won two Academy Awards back-to-back for Best Actor?	Marlon Brando	Cliff Robertson	James Cagney	Spencer Tracy
+385501	Awards	1	What actor won a Best Supporting Actor Oscar for his role in the 2007 film "Little Miss Sunshine"?	Ben Gazzara	Wilford Brimley	Peter Falk	Alan Arkin
+223076	Awards	1	For what film did Russell Crowe take home the Oscar in 2000 for Best Actor?	Disraeli	Hamlet	Cyrano De Bergerac	Gladiator
+295890	Awards	1	Which Academy Award did "March of the Penguins" win?	Best Supporting Actor	Best Actor	Best Actress	Best Documentary
+64061	Awards	1	In 1993, who won the Academy Award for Best Supporting Actress?	Dianne Wiest	Emma Thompson	Holly Hunter	Anna Paquin
+506978	Awards	1	Who was the host of the 86th Annual Academy Awards in 2014?	Tom Hanks	Billy Crystal	James Franco	Ellen DeGeneres
+382204	Awards	1	Which Academy Award-winning actress was divorced from Alec Baldwin in 2001?	Cate Blanchett	Kate Winslet	Jennifer Hudson	Kim Basinger
+523877	Awards	2	Which song did Madonna perform at the 2015 Grammys?	Like a Virgin	Material Girl	Vogue	Living for Love
+68500	Awards	2	What film garnered Mel Brooks an Academy Award?	Blazing Saddles	Spaceballs	Young Frankenstein	The Producers
+291591	Awards	2	Which Oscar-winning director brought "Spamalot" to the stage in its original production?	Stanley Donen	Sam Mendes	Rob Marshall	Mike Nichols
+444391	Awards	2	In 2000, who won the Album of the Year Grammy for "Supernatural"?	Bob Dylan	Alicia Keys	Alanis Morissette	Santana
+445000	Awards	2	Ben Stiller brought satire to the 2009 Academy Awards by satirizing what "retired" actor?	Val Kilmer	Dimitri Martin	Marlon Brando	Joaquin Phoenix
+343902	Awards	2	What was the first X-rated movie to ever win the Best Picture Oscar?	True Grit	Easy Rider	Hello, Dolly!	Midnight Cowboy
+465428	Awards	2	Meredith Vieira won a Daytime Emmy Award for Outstanding Game Show Host for what show?	Wheel of Fortune	Hollywood Squares	Pyramid	Who Wants to Be a Millionaire
+330117	Awards	2	For which role did Nicollette Sheridan earn a Golden Globe nomination in 2005?	Paige Matheson	Veronique Ukrinsky	Grace Adler	Edie Britt
+391160	Awards	2	Who was the first director to win the Oscar for Best Original Screenplay?	John Ford	Frank Capra	George Cukor	Preston Sturges
+223270	Awards	2	What year was an Academy Award given to "On The Waterfront" for best picture?	1940	1998	1943	1954
+9B0024	Awards	2	What won Best Musical or Comedy Series at the 77th Golden Globe Awards in 2020?	The Morning Show	The Politician	Barry	Fleabag
+272751	Awards	2	For which film did Ralph Fiennes receive an Academy Award nomination?	Spider	Wuthering Heights	Red Dragon	The English Patient
+465310	Awards	2	Who won the Golden Globe at age nine for playing T.J. Flynn in the 1979 film "The Champ"?	Jonathan Taylor Thomas	Todd Bridges	David Faustino	Ricky Schroder
+385993	Awards	2	The 2007 movie "American Gangster" starred which two winners of a Best Actor Oscar?	Don Cheadle And Joaquin Phoenix	Kevin Spacey And Samuel Jackson	Morgan Freeman And Edward Norton	Russell Crowe And Denzel Washington
+385456	Awards	2	What Golden Globe-winning British series was remade as "Viva Laughlin"?	The Office	State Of Play	Doctor Who	Viva Blackpool
+462091	Awards	2	He Knows You're Alone features the first role for what Oscar winner?	Al Pacino	Meryl Streep	Jane Fonda	Tom Hanks
+45LL007	Awards	2	What film won Best Screenplay at the 2017 Golden Globe Awards?	Hidden Figures	Manchester by the Sea	Moonlight	La La Land
+495476	Awards	2	Woody Allen shared his 1978 Best Original Screenplay Oscar with which writer?	Paddy Chayefsky	William Goldman	Robert Towne	Marshall Brickman
+223093	Awards	2	For which film did Robert Duvall win an Oscar?	Leaving Las Vegas	The Story Of Louis Pasteur	Cyrano De Bergerac	Tender Mercies
+523865	Awards	2	The 2015 Grammys were watched by approximately how many people?	250 million	2.5 million	2.5 billion	25 million
+74940	Awards	2	Which actor took home the 1996 Academy Award for Best Actor?	Tom Cruise (Jerry Maguire)	Woody Harrelson (The People Vs. Larry Flynt)	Billy Bob Thornton (Sling Blade)	Geoffrey Rush (Shine)
+523863	Awards	2	Who hosted the 2015 Grammys?	Neil Patrick Harris	Madonna	Justin Timberlake	LL Cool J
+223118	Awards	2	For which film did David Niven take home the Best Actor Oscar in 1958?	Marty	In Old Arizona	Philadelphia	Separate Tables
+466037	Awards	2	In what year was the Academy Award for Animated Short Film first presented?	1962	2001	1977	1932
+9B0028	Awards	2	Who won Best Actor in a Motion Picture Musical or Comedy winner at the 77th Golden Globe Awards in 2020?	Daniel Craig	Roman Griffin Davis	Eddie Murphy	Taron Egerton
+464258	Awards	2	Which actress won the first Golden Globe awarded to a horror film?	Jamie Lee Curtis	Sally Field	Sissy Spacek	Kathy Bates
+534340	Awards	2	Which actress in the Showtime series, "The Affair" won a 2015 Golden Globe for her role as Alison Lockhart?	Rita Wilson	Rebel Wilson	Chandra Wilson	Ruth Wilson
+223683	Awards	2	Who earned an Oscar for his role as veteran Chicago cop Jimmy Malone in 1987's "The Untouchables"?	Daniel Day-Lewis	Val Kilmer	Robin Williams	Sean Connery
+483082	Awards	2	How old was Jennifer Lawrence when she received her first Oscar nomination?	15	17	23	20
+528086	Awards	2	In 2015, Gina Rodriguez won a Golden Globe Award for her role in what CW series?	Girls	Veep	Orange Is The New Black	Jane The Virgin
+523884	Awards	2	Which legendary crooner won a Grammy in 2015 for a collaboration with Lady Gaga?	Frank Sinatra	Dean Martin	Tom Jones	Tony Bennett
+528308	Awards	2	Which actor received an Academy Award nomination for his role in the 2014 film "American Sniper"?	Luke Grimes	Kyle Gallner	Sam Jaeger	Bradley Cooper
+13274	Awards	2	For what movie did Julia Roberts get her first Academy Award nomination?	Dying Young	Pretty Woman	Pelican Brief	Steel Magnolias
+339101	Awards	2	Which 2005 film, featuring Anne Hathaway, was nominated for several Oscars?	Havoc	Hoodwinked	The Devil Wears Prada	Brokeback Mountain
+523874	Awards	2	At the 2015 Grammys, Kanye West performed a song with which Beatle?	John Lennon	Ringo Starr	George Harrison	Paul McCartney
+465447	Awards	2	The writers for which TV comedy won an Emmy in 2010?	The Big Bang Theory	Nurse Jackie	Glee	Modern Family
+483066	Awards	2	Ryan Gosling received his first Academy Award nomination for portraying Dan Dunne in what 2006 film?	Stay	Fracture	The Notebook	Half Nelson
+481880	Awards	2	Which 2010 film took home 4 Oscars, including Best Picture?	Horrible Bosses	I Am Number Four	The Eagle	The King's Speech
+465448	Awards	2	Which show won an Emmy for Reality Competition shows?	Survivor	American Idol	America's Got Talent	Top Chef
+419614	Awards	2	Which Oscar winner sang on Kanye West's "Gold Digger"?	Jennifer Hudson	Queen Latifah	Beyonce Knowles	Jamie Foxx
+465467	Awards	2	Which actress won the Best Actress Oscar in 2000?	Annette Bening	Meryl Streep	Julianne Moore	Hillary Swank
+397329	Awards	2	In 1972, Jane Fonda won an Academy Award for her role in "Klute"; what other award did she win?	Screen Actors Guild Award	Edgar Allan Poe Award	BAFTA Award	Golden Globe Award
+295802	Awards	2	What Academy Award nominated actor pays Lord Voldemort in the 2005 movie "Harry Potter and the Goblet of Fire"?	Jim Carrey	Joseph Fiennes	Robin Williams	Ralph Fiennes
+223255	Awards	2	What year was an Academy Award given to "Midnight Cowboy" for best picture?	1952	1944	1938	1969
+45LL005	Awards	2	Who won Best Director at the 2017 Golden Globe Awards?	Tom Ford	Mel Gibson	Barry Jenkins	Damien Chazelle
+459023	Awards	2	Who was the first person to win an Oscar and a Tony for the same role?	Ray Middleton	Fred Astaire	Julie Andrews	Yul Brynner
+9842	Awards	2	In 1996, Brad Pitt won the Golden Globe Award for Best Supporting Actor in which movie?	Kalifornia	Thelma And Louise	Seven	Twelve Monkeys
+444400	Awards	2	Who won the Song of the Year Grammy in 1990 for "Wind Beneath My Wings"?	Dr. Dre	Creed	The White Stripes	Bette Midler
+466039	Awards	2	Who won 10 of the first 12 Academy Awards for Animated Short Film?	MGM	Universal Pictures	Hanna-Barbera	Walt Disney
+464362	Awards	2	Who won a posthumous Oscar for his role of the Joker in "The Dark Knight"?	Gary Oldman	Anthony Hopkins	Patrick Swayze	Heath Ledger
+72918	Awards	2	Who did Barbra Streisand tie with when she won her Oscar for Best Actress?	Audrey Hepburn	Joanne Woodward	Maureen Stapleton	Katharine Hepburn
+523870	Awards	2	Which Sam Smith album won Best Vocal Album at the 2015 Grammys?	In the Twilight Hour	In the Last Hour	In the Final Hour	In the Lonely Hour
+99213	Awards	2	What did actor Will Smith say about the red carpet at the 2002 Oscars?	How Much Do You Want For It	You Wouldn't See A Wine Stain On It	Clashes With Nicole Kidman's Dress	It's Not Really Red, It's Burgundy
+523873	Awards	2	Which band performed their hit "Highway to Hell" at the 2015 Grammys?	Black Sabbath	Led Zeppelin	The Who	AC/DC
+59800	Awards	2	How many songs from The Beatles film "A Hard Days Night" were nominated for an Oscar?	4	1	2	0
+313737	Awards	2	Willie Nelson was nominated for an Academy Award for which song?	Red-Headed Stranger	Beer For My Horses	Always On My Mind	On The Road Again
+464292	Awards	2	Which Oscar winner was born Ilyena Lydia Vasilievna Mironov?	Joan Collins	Maggie Smith	Barbra Streisand	Helen Mirren
+1167	Awards	2	Which Oscar winner once appeared on "The Andy Griffith Show"?	George C. Scott	Robert De Niro	Robert Duvall	Jack Nicholson
+223674	Awards	2	Which actor was banned from the Oscars once after making anti-China comments?	Christopher Reeve	John Travolta	Kevin Spacey	Richard Gere
+529813	Awards	2	Which Oscar winner for "Syriana" appeared in small role on "The Golden Girls"?	Matt Damon	Nicky Henson	Chris Cooper	George Clooney
+457270	Awards	2	Robert Downey Jr. was nominated for an Academy Award for his portrayal of what filmmaker?	Peter Sellers	Ed Wood	Lon Chaney	Charlie Chaplin
+223190	Awards	2	The Academy Award for Best Actress in 1960 went to Elizabeth Taylor for her work in what film?	Mary Poppins	To Each His Own	Roman Holiday	BUtterfield 8
+523864	Awards	2	The 2015 Grammys aired on which TV network?	ABC	Fox	NBC	CBS
+444399	Awards	2	In 2007, who won the Album of the Year Grammy for "Taking The Long Way"?	The Rolling Stones	Bob Dylan	Shania Twain	Dixie Chicks
+528094	Awards	2	In 2015, which actress won a Golden Globe for her role in the drama "The Affair"?	Robin Wright	Viola Davis	Claire Danes	Ruth Wilson
+399701	Awards	2	Johnny Depp won a 2008 Golden Globe for Best Actor in a Motion Picture for what musical comedy?	Dead Man's Chest	Finding Neverland	Edward Scissorhands	Sweeney Todd
+465484	Awards	2	Which film beat "Four Weddings and a Funeral" for the Best Picture Oscar in 1995?	Pulp Fiction	Quiz Show	The Shawshank Redemption	Forrest Gump
+87543	Awards	2	Which of these actresses was nominated four times before finally winning an Oscar in 1996?	Julia Roberts	Meryl Streep	Emma Thompson	Susan Sarandon
+324613	Awards	2	In 2007, which movie won the Golden Globe in the category Best Motion Picture - Musical or Comedy?	The Devil Wears Prada	Little Miss Sunshine	Thank You For Smoking	Dreamgirls
+523885	Awards	2	Which song by Pharrell Williams won Best Music Video at the 2015 Grammys?	We Exist	Turn Down for What	The Golden Age	Happy
+354032	Awards	2	On which Jazz musician's life was the Oscar winning film "The King Of Jazz" based?	Laura La Plante	Joseph C. Smith	Art Hickman	Paul Whiteman
+464896	Awards	2	Which of the following classics won 10 Oscars in 1962?	The Quiet Man	Rear Window	Rebecca	West Side Story
+523908	Awards	2	Which song was performed by Beck and Chris Martin at the 2015 Grammys?	Glory	Stay With Me	My Heart is Open	Heart is a Drum
+414730	Awards	2	Robert De Niro won his second Oscar and first Golden Globe for what film?	The Godfather: Part II	Cape Fear	The Teletubbies Movie	Raging Bull
+495400	Awards	2	Which 1978 Woody Allen film led to Oscar nominations for Geraldine Page and Maureen Stapleton?	Manhattan	Love and Death	Another Woman	Interiors
+295986	Awards	2	The movie "Shark Tale" was nominated for an Academy Award in what category?	Best Costume Design	Best Original Song	Best Picture	Best Animated Feature
+408916	Awards	2	Who received an Academy Award for Best Actor posthumously?	Spencer Tracy	Henry Fonda	John Wayne	Peter Finch
+465426	Awards	2	Ben Bailey won a Daytime Emmy Award for Outstanding Game Show Host for what show?	Who Wants to Be a Millionaire	The Price is Right	Hollywood Squares	Cash Cab
+257933	Awards	2	Which film won the Oscar for Best Picture in 1969?	Mary Poppins	The Godfather	The Graduate	Midnight Cowboy
+13513	Awards	2	For which film did Jim Carrey receive a Golden Globe nomination for Best Actor?	Ace Ventura: Pet Detective	None Of These	The Cable Guy	Liar Liar
+495523	Awards	2	Which actress won Academy Awards for her roles in Woody Allen's films "Hannah and Her Sisters" and "Bullets Over Broadway"?	Meryl Streep	Mira Sorvino	Diane Keaton	Dianne Wiest
+483070	Awards	2	Ryan Gosling was nominated for a Golden Globe in 2012 for his role in what romantic comedy?	The Ides of March	All Good Things	Blue Valentine	Crazy, Stupid, Love
+465452	Awards	2	Which of these TV comedies won an Emmy as the best comedy in 1984?	Buffalo Bill	M*A*S*H	Taxi	Cheers
+272936	Awards	2	In 1984 Prince won an Oscar for Best Original Song Score for what movie?	8 Mile	Graffiti Bridge	Under The Cherry Moon	Purple Rain
+223119	Awards	2	For what film did Alec Guinness win an Oscar?	Forrest Gump	All The King's Men	Network	The Bridge On The River Kwai
+816	Awards	2	For which 1985 movie did Harrison Ford receive an Oscar nomination?	Raiders Of The Lost Ark	The Empire Strikes Back	Working Girl	Witness
+523875	Awards	2	Who performed "My Heart is Open" with Adam Levine at the 2015 Grammys?	Ed Sheeran	Miranda Lambert	Jessie J	Gwen Stefani
+254763	Awards	2	Why was Hilary Swank's dress "the talk of the town" on Oscar Night 2005?	Front Was Wide Open	It Was See Through	Way Too Short	Very Deep Open Back
+465449	Awards	2	What movie won an Emmy for Best Made for Television Movie in 2010?	Georgia O'Keeffe	Moonshot	The Special Relationship	Temple Grandin
+465463	Awards	2	Who was the first black performer to win an Academy Award?	Denzel Washington	Whoopi Goldberg	Sydney Poitier	Hattie McDaniel
+465474	Awards	2	Which actress beat Kate Winslet's role in "Titanic" for the Best Actress Oscar in 1998?	Julie Christie	Helena Bonham Carter	Judi Dench	Helen Hunt
+903	Awards	2	For what movie did Al Pacino win his first Oscar for best actor?	Heat	Cape Fear	Out For Justice	Scent Of A Woman
+223268	Awards	2	What year did "Around The World In 80 Days" win the Best Picture Oscar?	1930	1984	1937	1956
+462509	Awards	2	Who in 1999, paid $1.54m for the Best Picture Oscar statue for "Gone with the Wind"?	George Lucas	VS Naipaul	James Cameron	Michael Jackson
+465479	Awards	2	What was the first animated film to be nominated as Best Picture Oscar?	The Little Mermaid	Cinderella	Dumbo	Beauty and the Beast
+230848	Awards	2	Peter Jackson won Best Director for the 2004 Golden Globes and Oscars for what film?	Lost In Translation	Big Fish	Mystic River	Lord Of The Rings: The Return Of The King
+375360	Awards	2	Which of Anne Hathaway's 2005 films was nominated for Best Picture at the Academy Awards?	Havoc	The Devil Wears Prada	The Princess Diaries	Brokeback Mountain
+528100	Awards	2	In 2015, which actor won a Golden Globe for his role in the series "Transparent"?	Don Cheadle	Ricky Gervais	Louis C.K.	Jeffrey Tambor
+523860	Awards	2	The 2015 Grammys were held on what date?	March 3rd	January 27th	April 16th	February 8th
+9B0020	Awards	2	What won Best Drama TV Series at the 77th Golden Globe Awards in 2020?	The Crown	Killing Eve	Big Little Lies	Succession
+421249	Awards	2	Courtney Love of the band Hole was nominated for a Golden Globe for what movie?	As Good As It Gets	Wag The Dog	Good Will Hunting	The People Vs. Larry Flint
+464117	Awards	2	Which Oscar winner played Pope Paul III on "The Tudors"?	Russell Crowe	Ben Kingsley	Paul Newman	Peter O'Toole
+9B0016	Awards	2	What won Best Film Drama at the 77th Golden Globe Awards in 2020?	The Irishman	Joker	Marriage Story	1917
+307740	Awards	2	Which Counting Crows song was nominated for an Academy Award?	Mr. Jones	Big Yellow Taxi	Mrs. Potter	Accidentally In Love
+257937	Awards	2	Which year did "West Side Story" win the Oscar for Best Picture?	1962	1969	1964	1961
+495411	Awards	2	Michael Caine received an Academy Award for Best Supporting Actor for his role in what Woody Allen film?	Don't Drink the Water	Deconstructing Harry	Everyone Says I Love You	Hannah and Her Sisters
+385940	Awards	2	Who played the title role in the 1982 Oscar winner "Gandhi"?	Anthony Hopkins	Alec Guinness	John Hurt	Ben Kingsley
+345885	Awards	2	What film won the best picture award for the 79th annual Oscars in Feb 2007?	Little Miss Sunshine	Dreamgirls	Babel	The Departed
+343967	Awards	2	What movie won the Academy Award for Best Picture in 1962?	Fanny	The Hustler	Judgment At Nuremberg	West Side Story
+528183	Awards	2	Which film had actress Holly Hunter winning an Academy Award in 1993 for Best Actress?	Shine	Love And Other Catastrophies	The Interview	The Piano
+523888	Awards	2	Which former U.S. President earned a Grammy nomination in 2015 for "A Call to Action"?	George H.W. Bush	Bill Clinton	Gerald Ford	Jimmy Carter
+464820	Awards	2	Who directed and won an Academy Award for the 2001 film "A Beautiful Mind"?	Steven Spielberg	Martin Scorsese	Robert Redford	Ron Howard
+523879	Awards	2	Which song by Iggy Azalea was nominated for Record of the Year at the 2015 Grammys?	Spicy	Tricky	Tipsy	Fancy
+780	Awards	2	For what film did Meryl Streep win her first Oscar?	Out Of Africa	The Deer Hunter	Sophie's Choice	Kramer Vs. Kramer
+223254	Awards	2	Patton won an Academy Award for Best Film of what year?	1932	1990	1979	1970
+326431	Awards	2	Who was the first "American Idol" contestant to be nominated for an Oscar or Golden Globe?	Carrie Underwood	Fantasia	Kellie Pickler	Jennifer Hudson
+504658	Awards	2	Who was the recipient of the Cecil B. DeMille Award at the 2013 Golden Globes?	Maggie Smith	Ricky Gervais	Woody Allen	Jodi Foster
+393344	Awards	2	John Travolta won an Oscar for Best Actor for his role as Chili Palmer in which film?	Pulp Fiction	Grease	Saturday Night Fever	Get Shorty
+94897	Awards	2	What Academy Award(s) did Mel Gibson win for "Braveheart"?	Both Best Director And Actor	Neither Best Director Nor Actor	Best Actor	Best Director
+41358	Awards	2	Who won Oscars for "The Piano"?	Harvey Keitel And Anna Paquin	Holly Hunter And Harvey Keitel	Holly Hunter And Sam Neill	Holly Hunter And Anna Paquin
+60618	Awards	2	Which Oscar did "Pulp Fiction" win in 1995?	Best Director	Best Supporting Actor	Best Supporting Actress	Best Original Screenplay
+528093	Awards	2	What Showtime drama starring Dominic West and Ruth Wilson won a Golden Globe in 2015?	House Of Cards	Breaking Bad	Game Of Thrones	The Affair
+523886	Awards	2	Which parody artist won Best Comedy Album at the 2015 Grammys for "Mandatory Fun"?	Jim Gaffigan	Louis CK	Patton Oswalt	Weird Al Yankovic
+63700	Awards	2	For what film did Alfred Hitchcock win the Academy Award for Best Director?	Rebecca	North By Northwest	Psycho	Hitchcock Never Won Best Director
+143822	Awards	2	Composer Vangelis won an Oscar for which 1981 movie?	The Quest For Fire	Antarctica	Conquest For Paradise	Chariots Of Fire
+223159	Awards	2	Jodie Foster won the 1991 Oscar for Best Actress for which film?	On Golden Pond	BUtterfield 8	Klute	The Silence Of The Lambs
+523880	Awards	2	Which artist's song "Chandelier" was nominated for Record of the Year at the 2015 Grammys?	Taylor Swift	Sam Smith	Meghan Trainor	Sia
+86836	Awards	2	What film set in ancient times won the 2000 Oscar for Best Costume Design?	Quills	Crouching Tiger, Hidden Dragon	How The Grinch Stole Christmas	Gladiator
+523862	Awards	2	The 2015 Grammys were held in what city?	Chicago	Pittsburgh	Miami	Los Angeles
+255134	Awards	2	Which celebrity was in the bathroom when it was announced that they won a Golden Globe award?	Jude Law	Johnny Depp	Natalie Portman	Renee Zellweger
+308473	Awards	2	For which song did Irene Cara win an Academy Award?	Why Me	You Were Made For Me	I Believe I Can Fly	Flashdance ... What A Feeling
+397391	Awards	2	In what category did the 1979 film "Breaking Away" win an Academy Award?	Best Picture	Best Costume Design	Best Actress	Best Writing
+223259	Awards	2	What year did "The Sound Of Music" win the Best Picture Oscar?	1957	1995	1946	1965
+462520	Awards	2	Whose daughter was barred from selling her father's Best Director Oscar in 2003?	Steven Spielberg	James Cameron	Charlie Chaplin	Orson Welles
+399318	Awards	2	The Thomas Crown Affair won an Oscar for which song?	For All We Know	Shadows Of Your Smile	The Morning After	The Windmills of Your Mind
+408920	Awards	2	Through 2008, what was the only movie based on a TV series to win a Best Picture Oscar nomination?	Get Smart	Mission: Impossible	The Untouchables	The Fugitive
+465451	Awards	2	What category did Eddie Falco win an Emmy for 2010?	Best actresss, drama	Best guess actresss, comedy	Best actress, miniseries	Best actresss, comedy
+9B0012	Awards	2	Who hosted the 77th Golden Globe Awards in 2020?	Seth Rogan	Seth Meyers	Jimmy Kimmel	Ricky Gervais
+523868	Awards	2	Which British artist won Song of the Year at the 2015 Grammys for "Stay With Me"?	Pharrell Williams	Beck	Damon Albarn	Sam Smith
+444398	Awards	2	Who won the Album of the Year Grammy in 2008 for "River: The Joni Letters"?	Kanye West	The Wallflowers	Faith Hill	Herbie Hancock
+223257	Awards	2	In The Heat Of The Night won an Academy Award for Best Film of what year?	1970	1996	1972	1967
+223708	Awards	2	Which actor was nominated for an Oscar for "Thunderbolt and Lightfoot "?	Christopher Walken	James Caan	Tom Hanks	Jeff Bridges
+523867	Awards	2	Which member of the Beatles was given a lifetime achievement award at the 2015 Grammys?	John Lennon	Paul McCartney	Ringo Starr	George Harrison
+523876	Awards	2	Which musician had a word from her hit "Little Red Wagon" bleeped during the 2015 Grammys broadcast?	Rihanna	Lady Gaga	Madonna	Miranda Lambert
+230847	Awards	2	Which rocker managed to get bleeped for using the "F" word at the 2003 Golden Globes?	Rod Stewart	Slash	Sting	Bono
+223091	Awards	2	For which film did William Hurt win an Oscar?	Philadelphia	Life Is Beautiful	In Old Arizona	Kiss Of The Spider Woman
+523872	Awards	2	Which American musician won three awards at the 2015 Grammys?	Jay-Z	Kanye West	Eminem	Pharrell Williams
+481928	Awards	2	Which Academy Award-winning actress played the lead role in the 2011 drama "The Debt"?	Judi Dench	Meryl Streep	Jane Wyman	Helen Mirren
+85980	Awards	2	What two actors won Oscars for portraying the same fictional character?	Fredric March And Spencer Tracy	Martin Sheen And William Devane	Richard Burton And Robert Shaw	Robert De Niro And Marlon Brando
+291644	Awards	2	Which Oscar nominee played Tevye in the 2004 revival of "Fiddler on the Roof"?	Paul Giamatti	Kevin Spacey	Geoffrey Rush	Alfred Molina
+68502	Awards	2	Who was the first to refuse a Best Actor Oscar?	Marlon Brando	Lionel Barrymore	Dustin Hoffman	George C. Scott
+523887	Awards	2	Diary of a Mad Diva won which late comedienne a 2015 Grammy for Best Spoken World Album?	Carol Burnett	Phyllis Diller	Betty White	Joan Rivers
+523909	Awards	2	The 2015 Grammys included a speech by President Obama about what crime?	Arson	Police Brutality	Credit Card Fraud	Domestic Violence
+380747	Awards	2	What Academy Award was "Star Wars: Episode III" nominated for?	Best Picture	Achievement In Graphic Arts	Achievement In Sound	Achievement In Makeup
+26974	Awards	2	For which film did Mel Brooks receive an Oscar for Best Original Screenplay?	Blazing Saddles	The Twelve Chairs	Young Frankenstein	The Producers
+223231	Awards	2	What year was an Academy Award given to "Schindler's List" for best picture?	1949	1941	1979	1993
+39433	Awards	2	What James Bond movie was the first to win an Oscar?	Dr. No	Moonraker	Thunderball	Goldfinger
+523906	Awards	2	The band HAIM was nominated for a 2015 Grammy in what category?	Song of the Year	Best Dance Recording	Best Rock Song	Best New Artist
+483149	Awards	2	Steve Carell won his first Golden Globe for his role on what TV series?`	Watching Ellie	The Daily Show	The Dana Carvey Show	The Office
+223247	Awards	2	In what year did "Annie Hall" win the best picture Oscar?	1960	1940	1965	1977
+223232	Awards	2	In what year did "Unforgiven" win the best picture Oscar?	1981	1943	1971	1992
+523869	Awards	2	Which band known for the song "Stayin' Alive" won a Lifetime Achievement Grammy in 2015?	The Banshees	The Pretenders	Thin Lizzy	The Bee Gees
+504889	Awards	2	How many Golden Globe nominations did "Captain Phillips" receive?	Eight Nominations	Zero Nominations	Twenty Nominations	Four Nominations
+523881	Awards	2	Which artist's self-titled album was nominated for the Album of the Year at the 2015 Grammys?	Sam Smith	Pharrell Williams	Ed Sheeran	Beyonce
+223237	Awards	2	What year was an Academy Award given to "The Last Emperor" for Best Picture?	1995	1960	1992	1987
+81204	Awards	2	Upon receiving an Oscar for Best Actress, who said "Hello gorgeous!" to the statue?	Barbara Stanwyck	Bette Davis	Joan Crawford	Barbra Streisand
+523866	Awards	2	In 2015, who became the second most-honored female musician in Grammy history?	Madonna	Nicki Minaj	Lady Gaga	Beyonce
+338714	Awards	2	For what show was Teri Hatcher nominated for an Emmy in 2005?	Lois And Clark	Two And A Half Men	Seinfeld	Desperate Housewives
+523882	Awards	2	What letter names an Ed Sheeran album nominated for Album of the Year at the 2015 Grammys?	Z	Y	O	X
+523907	Awards	2	Which musician performed his hit "Take Me to Church" at the 2015 Grammys?	Usher	Common	Eric Church	Hozier
+523861	Awards	2	The 2015 Grammys were held at what venue?	Madison Square Garden	Rockefeller Center	Hollywood Bowl	Staples Center
+385976	Awards	2	Clint Eastwood won two Oscars as the director of what 2004 film?	3:10 To Yuma	Saving Private Ryan	Mystic River	Million Dollar Baby
+523883	Awards	2	A Great Big World won Best Pop Duo/Group Performance at the 2015 Grammys for what song?	Do Something	Find Something	Eat Something	Say Something
+481891	Awards	2	What prolific director received a Best Picture nomination at the 2012 Academy Awards for "Midnight in Paris"?	Martin Scorsese	Terrence Malick	Steven Spielberg	Woody Allen
+523878	Awards	2	Which blind musician co-presented Record of the Year at the 2015 Grammys?	Jamie Foxx	Julian Edelman	James Corden	Stevie Wonder
+397436	Awards	2	This man won a Golden Globe for his role in what film?	A Bug's Life	Their Eyes Were Watching God	A Christmas Carol	Truman
+423358	Awards	2	For what 2005 miniseries was Jamie Foxx nominated for a Golden Globe?	Rendition	Recollection	Repossesed	Redemption
+223267	Awards	2	What year was an Academy Award given to "The Bridge On The River Kwai" for best picture?	1929	1958	1988	1957
+330003	Awards	2	Julianne Moore won a Daytime Emmy for her acting on which soap opera?	General Hospital	All My Children	The Young And The Restless	As The World Turns
+659	Awards	2	Who won an Oscar for playing a man in "The Year Of Living Dangerously"?	Linda Hamilton	Sigourney Weaver	Holly Hunter	Linda Hunt
+29587	Awards	2	What movie led Sandra Bullock to get a Golden Globe nomination?	Speed	The Net	Hope Floats	While You Were Sleeping
+482996	Awards	2	Which Academy Award-winner directed "Hugo"?	Francis Ford Coppola	Steven Spielberg	Werner Herzog	Martin Scorsese
+528067	Awards	2	In 2014, Andy Samberg won a Golden Globe Award for what FOX sitcom?	Parks And Recreation	The Last Man On Earth	The Big Bang Theory	Brooklyn Nine-Nine
+465363	Awards	3	Who was the first woman to win a directing Emmy?	Penny Marshall	Candice Bergen	Jenji Kohan	Betty Thomas
+487260	Awards	3	Which pop music superstar presented the award for best foreign language film at the 69th Golden Globes in 2012?	Lady Gaga	Janet Jackson	Miley Cyrus	Madonna
+465359	Awards	3	What show did Elaine Stritch guest star in to win a 2007 Emmy?	Desperate Housewives	Malcolm In The Middle	Weeds	30 Rock
+343948	Awards	3	How many Academy Awards did "Titanic" win in 1998?	Three	Five	Seven	Eleven
+223256	Awards	3	What year did "Oliver!" win the Best Picture Oscar?	1970	1958	1960	1968
+325063	Awards	3	Which movie won the Golden Globe for Best Drama of 2006?	Casino Royale	The Queen	Dreamgirls	Babel
+60469	Awards	3	Which actor, who has garnered a record 11 Oscar nominations, received his first in 1969?	Al Pacino	Robert De Niro	Tom Hanks	Jack Nicholson
+305028	Awards	3	Elton John won an Academy Award for which song in 1994?	Hakuna Matata	Circle of Life	I Just Can't Wait to be King	Can You Feel the Love Tonight?
+86831	Awards	3	How many Oscar nominations did the 1939 film "Ninotchka" garner?	None	Two	Six	Four
+385985	Awards	3	Director Martin Scorsese won his first Best Director Oscar for what 2006 film?	Titanic	The Talented Mr. Ripley	As Good As It Gets	The Departed
+230767	Awards	3	What composer finally got his first Oscar for Original Song at the 2002 Oscars?	Burt Bacharach	Elton John	Sting	Randy Newman
+315485	Awards	3	Which single did Huey Lewis & The News receive an Academy Award nomination for?	Heart And Soul	Do You Believe In Love	Hip To Be Square	The Power of Love
+96915	Awards	3	Which director won an Oscar for the 1976 movie "Rocky"?	Michael Cimino	Sylvester Stallone	Milos Forman	John Avildsen
+223251	Awards	3	The Sting won an Academy Award for Best Film of what year?	1977	1939	1947	1973
+217497	Awards	3	Julie Andrews won the best actress Oscar in 1964 for what movie?	Sob	Victor Victoria	The Sound Of Music	Mary Poppins
+464275	Awards	3	Which two sisters were nominated for Best Actress Oscars in 1967?	Joan Fontaine and Olivia De Havilind	Janet and Vivien Leigh	Mia and Tisa Farrow	Vanessa and Lynn Redgrave
+324435	Awards	3	In what decade did Denzel Washington win his first Academy Award?	1970's	1990's	2000's	1980's
+291680	Awards	3	Which Oscar Wilde revival closed in less than six weeks in 2003?	An Ideal Husband	The Importance Of Being Earnest	A Woman Of No Importance	Salome
+482997	Awards	3	How many Academy Awards was "Hugo" nominated for in 2012?	10	9	12	11
+465360	Awards	3	What did Bobby H. Grayson win an Emmy for on "Saturday Night Live"?	Direction	Music	Camerawork	Hairstyling
+466952	Awards	3	What won both an Emmy Award and a Golden Globe Award for best mini-series in 1998?	Laurel Avenue	Epitafios	Angels in America	From the Earth to the Moon
+312775	Awards	3	Who hosted "The Academy Awards" in 2003?	The Lead Actor From "City Slickers"	The Lead Actor From "The Daily Show"	The Host Of "The Late Show"	The Lead Actor From "The Jerk"
+311694	Awards	3	For work on what children's movie did Paul Simon receive an Oscar?	The Muppet Movie	Finding Nemo	Stuart Little	The Wild Thornberrys Movie
+412156	Awards	3	What singer wore a "swan dress" by designer Marjan Pejoski to the 2001 Oscars?	Madonna	Pink	Raffi	Bjork
+464263	Awards	3	When did Ellen Burstyn win a Best Actress Oscar for "Alice Doesn't Live Here Anymore"?	1980	1964	1970	1975
+232343	Awards	3	Who received an eight trophy sweep at the 45th annual Grammy Awards?	Eminem	Patti LaBelle	Alicia Keys	Norah Jones
+504874	Awards	3	The director of 2013's "Out Of The Furnace" also directed which Oscar winning film?	Argo	Skyfall	Avatar	Crazy Heart
+526047	Awards	3	American Sniper won an Oscar in which category?	Best Cinematography	Best Picture	Best Visual Effects	Best Sound Editing
+65219	Awards	3	For which of the following films was Tom Cruise not nominated for an Oscar?	Jerry Maguire	Magnolia	Born On The Fourth Of July	Rainman
+494994	Awards	3	Who many Oscar nominations did "Inglourious Basterds" earn?	Six Nominations	Two Nominations	Twenty Nominations	Eight Nominations
+523871	Awards	3	Which album by Beck won Album of the Year at the 2015 Grammys?	Modern Guilt	The Information	Guero	Morning Phase
+408918	Awards	3	Which Pixar film did not win the Academy Award for Best Animated Feature?	Finding Nemo	Ratatouille	The Incredibles	Monsters, Inc.
+273133	Awards	3	In 1985 Eric Roberts was nominated for a Best Supporting Actor Oscar for what film?	Best Of The Best	To Heal A Nation	Final Analysis	Runaway Train
+504666	Awards	3	Who hosted the 2013 Oscars?	Alec Baldwin	Jon Stewart	James Franco	Seth MacFarlane
+464240	Awards	3	Which stage and screen star was the first actress to win an Emmy, Grammy Oscar and Tony?	Natalie Wood	Chita Rivera	Liza Minelli	Rita Moreno
+504663	Awards	3	In what venue was the 2013 Oscars held?	Fonda Theatre	Gibson Amphitheatre	Kirk Douglas Theatre	Dolby Theatre
+232434	Awards	3	Who won Best Female R&B Vocal Performance at the 2000 Grammy Awards?	Beyonce Knowles	Mary J. Blige	Whitney Houston	Toni Braxton
+384896	Awards	3	Which "America's Next Top Model" star won two Golden Globes for "The Boyfriend"?	Tyra Banks	Miss J	Kimora Lee Simmons	Twiggy
+321491	Awards	3	Rebecca was the only one of my movies to win a Best Picture Oscar, who am I?	Laurence Olivier	David O. Selznick	Orson Welles	Alfred Hitchcock
+272848	Awards	3	Al Pacino won his first Oscar Award how many years after he received his first nomination?	8	4	1	21
+230769	Awards	3	Which film nominated for Best Picture in 2004 did not have an Oscar nod for its director?	Master And Commander	Lost In Translation	Mystic River	Seabiscuit
+82199	Awards	3	Who won the Golden Globe award in 1993 for Best Actress in a Mini Series or Telefilm?	Jessica Lange	Angelina Jolie	Kate Hudson	Drew Barrymore
+527909	Awards	3	How many Golden Globe nominations did Angela Lansbury get for "Murder, She Wrote"?	8	12	14	10
+852	Awards	3	Who won the 1940 Best Actor Oscar for his role in "The Philadelphia Story"?	Cary Grant	Clark Gable	Humphrey Bogart	Jimmy Stewart
+353586	Awards	3	Which costumer won six Tony Awards and two Oscars for his work on "My Fair Lady"?	Giorgio Armani	Hubert De Givenchy	Tommy Hilfiger	Cecil Barton
+464762	Awards	3	The 2001 film "Bridget Jones's Diary" was nominated for an Academy Award in which category?	Best motion picture	Best leading actor	Best supporting actor	Best leading actress
+223164	Awards	3	For which film did Marlee Matlin win the 1987 Oscar for Best Actress?	Alice Doesn't Live Here Anymore	Two Women	The Good Earth	Children Of A Lesser God
+232435	Awards	3	Who won the Best Female R&B Vocal at the 1999 Grammy Awards?	Alicia Keys	Beyonce Knowles	Toni Braxton	Whitney Houston
+75540	Awards	3	Who received an Oscar nomination for her role in Looking for "Mr. Goodbar" in 1977?	Priscilla Pointer	Martha Gaden	Paulette Goddard	Tuesday Weld
+465362	Awards	3	How many Emmy nominations did "NYPD Blue" earn in 1994?	37 nominations	7 nominations	11 nominations	27 nominations
+282022	Awards	3	Who wore $1 million diamond encrusted shoes to the 2002 Academy Awards?	Mira Sorvino	Chloe Sevigny	Katie Finneran	Laura Harring
+481933	Awards	3	How many films received a nomination for the Best Picture category at the 2012 Academy Awards?	8	10	7	9
+91796	Awards	3	Which album and artist/producer won a Grammy Award for Album of the Year in 1992?	Luck Of The Draw, Bonnie Raitt	Out Of Time, Rem	The Rhythm Of The Saints, Paul Simon	Unforgettable, Natalie Cole
+464236	Awards	3	Which Oscar winner's pale complexion earned him the nickname "Bobby Milk"?	Robert Culp	Roberto Benigni	Robert Downey, Jr.	Robert De Niro
+345795	Awards	3	Which movie won the Best Picture Oscar for 1976?	Taxi Driver	Bound For Glory	Network	Rocky
+223258	Awards	3	What year was an Academy Award given to "A Man For All Seasons" for best picture?	1928	1954	1950	1966
+465361	Awards	3	How many Emmys did Candice Bergen win for "Murphy Brown"?	Ten	Zero	Three	Five
+343909	Awards	3	Who was the first woman ever to receive the "Lifetime Achievement Award" at the Oscars?	Barbra Streisand	Elizabeth Taylor	Meryl Streep	Bette Davis
+305402	Awards	3	For which film score did Talking Heads frontman David Byrne win an Academy Award?	Cal	Until The End Of The World	Mystery Train	The Last Emperor
+222993	Awards	3	F. Murray Abraham won a Best Actor Oscar for what role?	A Cop In Scarface	Macbeth In Macbeth	Amadeus In Amadeus.	Salieri In Amadeus
+504661	Awards	3	What was the date of the 2013 Oscars?	10-Apr	6-Aug	4-Mar	24-Feb
+465317	Awards	3	For which film did Anna Paquin win the Oscar in 1994 at the age of 11?	Jane Eyre	Castle in the Sky	It's the Rage	Piano
+87812	Awards	3	Who was not nominated for the Best Director Academy Award in 1998?	Terrence Malick (The Thin Red Line)	Roberto Benigni (Life Is Beautiful)	Peter Weir (The Truman Show)	Shekhar Kapur (Elizabeth)
+343956	Awards	3	Which was released in 2005 and won the Oscar for Best Picture?	Brokeback Mountain	Capote	Munich	Crash
+853	Awards	3	Prior to "Schindler's List" in 1993, which was the last black and white film to win the Best Picture Oscar?	The Man Who Shot Liberty Valance	Raging Bull	The Purple Rose Of Cairo	The Apartment
+464262	Awards	3	Judi Dench's 1998 Oscar-winning role in which film was onscreen for a mere eight minutes?	The Queen	Sleepless in Seattle	As Good as It Gets	Shakespeare in Love
+74891	Awards	3	For what film did Frank Sinatra win his first Academy Award?	The First Deadly Sin	The Man With The Golden Arm	Oceans Eleven	From Here To Eternity
+465478	Awards	3	What film first won the Oscars for Best Picture, Director, Actor, Actress and Screenplay?	One Flew Over the Cuckoo's Nest	The Silence of the Lambs	Gone With the Wind	It Happened One Night
+92378	Awards	3	What was the name of John Wayne's horse in the Academy Award winning classic Western "True Grit"?	Dollar	Duke	Old Blue	Bo
+591	Awards	3	Which of the following films did not win Best Picture at the Academy Awards?	The Last Emperor	The French Connection	The Sting	On Golden Pond
+96933	Awards	3	Which actress was the first "Golden Girl" to win an Emmy for the show?	Bea Arthur	Estelle Getty	Rue McClanahan	Betty White
+93008	Awards	3	For which movie did Susan Sarandon gain her first Oscar nomination in 1980?	The Rocky Horror Picture Show	King Of The Gypsies	Pretty Baby	Atlantic City
+76008	Awards	3	Who won the Best New Artist Grammy in 1984?	Jody Watley	Madonna	Whitney Houston	Cyndi Lauper
+90724	Awards	3	I won the Oscar for Best Supporting actor in the 73rd Annual Academy Awards, who am I?	Joaquin Phoenix	Michael Caine	Antonio Banderas	Benicio Del Toro
+223915	Awards	3	In what category did Patrick Doyle win an Oscar for the film "Sense and Sensibility"?	Director	Costumes	Set Design	Musical Score
+465475	Awards	3	Which film was the first filmed in color to win the Best Picture Academy Award?	The Wizard of Oz	The Adventures of Robin Hood	Grand Illusion	Gone With the Wind
+329751	Awards	3	For which film did Reese Witherspoon receive her first Golden Globe nomination?	Legally Blonde	Walk The Line	Pleasantville	Election
+464357	Awards	3	Which blockbuster won the Best Visual Effects Oscar at the 79th Academy Awards?	The Lord of the Rings: The Two Towers	Titanic	Avatar	Pirates of the Caribbean Dead Man's Chest
+338562	Awards	3	Edie Falco was the first actress to win an Emmy, Golden Globe and what other award in the same year?	Tony	Grammy	Oscar	SAG Award
+311892	Awards	3	In the 1990's, which Neil Young song was nominated for an Academy Award for Best Song?	Harvest Moon	From Hank To Hendrix	Sleeps With Angels	Philadelphia
+258538	Awards	3	What hotel was the first Academy Awards presentation held?	Chateau Marmont	Guesthouse Intl Inn	Renaissance Hollywood Hotel	Hollywood Roosevelt Hotel
+96917	Awards	3	For which "Godfather" film did Francis Ford Coppola win an Oscar for Best Director?	The Godfather: Part III	The Godfather	None Of Them	The Godfather: Part II
+96919	Awards	3	Which of these were the only two actresses to win more than one Best Actress Oscar in the 70's?	Diane Keaton And Sally Field	Faye Dunaway And Meryl Streep	Sally Field And Meryl Streep	Glenda Jackson And Jane Fonda
+385957	Awards	3	Actor Russell Crowe injured his foot, hip and arms filming what 2001 Oscar winner?	Fight Club	A Beautiful Mind	Cinderella Man	Gladiator
+343944	Awards	3	For which movie did Steven Spielberg win his first directing Oscar?	E.T. The Extra-Terrestrial	Jaws	Jurassic Park	Schindler's List
+232427	Awards	3	For which song did Usher win a 2002 Grammy Award?	Untitled (How Does It Feel)	U Remind Me	Dance With My Father	U Don't Have To Call
+465306	Awards	3	For which film did Tatum O'Neal win the Academy Award in 1974 at the age of 10?	The Bad News Bears	International Velvet	Little Darlings	Paper Moon
+72904	Awards	3	Jim Henson's Creature Shop received an Academy Award for work in which film?	Labyrinth	The Empire Strikes Back	The Muppet Movie	Babe
+465450	Awards	3	Which show was not nominated in 2010 for Outstanding Drama Series?	True Blood	The Good Wife	Lost	The Closer
+465471	Awards	3	Who was the first actor/actress to win four Academy Awards?	Jack Nicholson	Meryl Streep	Robert Redford	Katharine Hepburn
+86832	Awards	3	The Kodak Center, home for the Academy Awards, is located where?	Hollywood And Vine	Melrose And Vine	Sunset And Vine	Hollywood And Highland
+465464	Awards	3	What movie won the very first Academy Award for Best Picture?	All Quiet on the Western Front	Grand Hotel	It Happened One Night	Wings
+465468	Awards	3	What two actresses tied for Best Actress at the 1968 Academy Awards?	Anne Bancroft & Liza Minnelli	Patricia Neal & Vanessa Redgrave	Joanne Woodward & Ruth Gordon	Katharine Hepburn & Barbra Streisand
+465477	Awards	3	Which was the only silent film to win Best Picture Oscar?	The Racket	The Tramp	Modern Times	Wings
+465417	Awards	3	Who won an Emmy for his acting in the 60's TV show "I Spy"?	Robert Blake	Don Johnson	Rock Hudson	Bill Cosby
+349227	Awards	3	As costumer, how many Oscars did 33-time nominee Edith Head win?	Six	Nineteen	Thirty-One	Eight
+414353	Awards	3	For which movie did Richard Dreyfuss win a Best Actor Oscar at the age of 30?	Let It Ride	Tootsie	Short Guys Don't Dance	The Goodbye Girl
+22874	Awards	3	Who won the first Grammy for Alternative Music?	Tom Waits	REM	U2	Sinead O'Connor
+385827	Awards	3	Which film, inspired by Senator Huey P. Long, won an Oscar for Best Picture in 1950?	Raging Bull	The Jungle	Death Of A Salesman	All The King's Men
+95668	Awards	3	Billy Bob Thornton won an Oscar for "Sling Blade" under what category?	Best Director	Best Actor	Best Supporting Actor	Best Screenplay
+87983	Awards	3	When Julia Roberts was giving her acceptance speech for her 2000 Best Actress Oscar, what did she call the orchestra conductor?	Band Guy	Bandleader	Stick Guy	Stick Man
+464243	Awards	3	Which actress was the first to receive six Oscar nominations after the age of 60?	Elizabeth Taylor	Vanessa Redgrave	Kathy Bates	Judi Dench
+34907	Awards	3	How many Academy Awards did "Mary Poppins" win for Disney?	Three	Two	None	Five
+504659	Awards	3	The 2013 Hollywood Foreign Press Association's Annual Golden Globes marked what year anniversary of the event?	25th	100th	55th	70th
+345806	Awards	3	Which movie won nine Oscars, including Best Picture, in 1988?	Moonstruck	Fatal Attraction	Hope And Glory	The Last Emperor
+421844	Awards	3	Tom Waits received an Academy Award nomination for his soundtrack work on what 1982 movie?	Gandhi	E.T.: The Extra-Terrestrial	Annie	One From The Heart
+223690	Awards	3	Who was nominated for an Oscar for playing gangster Mickey Cohen in the 1991 movie "Bugsy"?	River Phoenix	Christopher Walken	Michael Douglas	Harvey Keitel
+326971	Awards	3	Who did Jennifer Hudson dedicate her 2007 Golden Globe to?	Aretha Franklin	Tina Turner	Paula Abdul	Florence Ballard
+330064	Awards	3	For which film did Meryl Streep receive her first Academy Award nomination?	Julia	Kramer vs. Kramer	The French Lieutenant's Woman	The Deer Hunter
+338863	Awards	3	Which movie won Cate Blanchett an Academy Award for Best Supporting Actress?	The Lord Of The Rings	Elizabeth	The Talented Mr. Ripley	The Aviator
+223239	Awards	3	In which year did "Out Of Africa" win an Academy Award for best film?	1981	1987	1989	1985
+217502	Awards	3	The film "Midnight Cowboy", which won an Oscar in 1969 for Best Picture, had what rating originally?	PG-13	G	R	X
+96918	Awards	3	How many total Oscars for Best Actor and Best Supporting Actor did Robert De Niro win in the 1970's?	Zero	Three	Two	One
+232575	Awards	3	Who won a Grammy for Album of the Year for "Innervisions"?	Bobby Womack	Curtis Mayfield	Roberta Flack	Stevie Wonder
+329769	Awards	3	Which movie earned Johnny Depp an Oscar nomination for Best Actor in 2004?	Pirates Of The Caribbean	Secret Window	Corpse Bride	Finding Neverland
+268265	Awards	3	What was the cost of the bracelet Paris Hilton lost at the 2003 Oscars?	$572,500	$70,200	$121,000	$159,500
+464271	Awards	3	Which actress and her father John were the first Oscar winning father-daughter duo?	Sigourney Weaver	Jane Fonda	Vanessa Redgrave	Hayley Mills

@@ -1,0 +1,438 @@
+0DIF273	Océanos	0	¿El 'Anillo de Fuego' es una cadena de volcanes en y alrededor de qué océano?	océano Índico	océano Ártico	Oceano del Sur	océano Pacífico
+0DIF279	Océanos	0	¿El 'Estrecho de Bering' es un pedazo del océano Pacífico que divide a cuál de estos dos países?	Canadá y Estados Unidos	Australia e Indonesia	Corea del Norte y Corea del Sur	Rusia y Estados Unidos
+0DIF267	Océanos	0	¿Cuál de los océanos es el más pequeño?	océano Atlántico	océano Índico	océano Pacífico	océano Ártico
+0DIF274	Océanos	0	¿Las piscinas de salmuera en el océano tienen una concentración inusualmente grande de qué?	Pescado	Arena	Nitrógeno	sal
+0DIF269	Océanos	0	¿En cuál de estos océanos se encuentra el Triángulo de las Bermudas?	océano Índico	océano Ártico	Oceano del Sur	océano Atlántico
+0DIF262	Océanos	0	¿Qué porcentaje de la vida en la tierra está contenida en el océano?	10%	40%	6%	95%
+0DIF264	Océanos	0	¿El río Amazonas desemboca en cuál de estos océanos?	océano Índico	océano Pacífico	océano Ártico	océano Atlántico
+0DIF268	Océanos	0	¿La marea del océano es creada por la relación de la Tierra con cuál de estos cuerpos celestes?	Júpiter	Marte	Venus	La luna
+0DIF263	Océanos	0	¿Cuál de estos contiene el punto más profundo del océano Pacífico?	Trinchera South Sandwich	Fosa de Puerto Rico	Fosa de Tonga	Fosa de las Marianas
+0DIF272	Océanos	0	¿Cuál de estos océanos es el más grande?	océano Ártico	océano Índico	océano Atlántico	océano Pacífico
+0DIF265	Océanos	0	¿Qué estado de EE. UU. Limita con dos océanos diferentes?	Texas	Michigan	Nevada	Alaska
+0DIF275	Océanos	0	¿Qué porcentaje de la superficie terrestre está cubierta por océanos?	10%	40%	99%	70%
+0DIF261	Océanos	0	¿En qué océano se encuentra Hawái?	Océano tropical	océano Índico	océano Ártico	océano Pacífico
+0DIF271	Océanos	0	¿Qué océano se encuentra entre América del Norte y Europa?	océano Índico	Océano europeo	océano Ártico	océano Atlántico
+0DIF276	Océanos	0	¿Qué porcentaje de nuestro suministro de oxígeno se genera en el océano?	10%	5%	99%	70%
+0DIF280	Océanos	0	¿Cuál de estos océanos permanece congelado durante la mayor parte del año?	océano Índico	océano Pacífico	océano Atlántico	océano Ártico
+0DIF278	Océanos	0	¿Cuántos océanos atraviesa el ecuador?	0	7	1	3
+0DIF266	Océanos	0	¿Cuál de estos océanos es el más profundo?	océano Atlántico	océano Ártico	océano Índico	océano Pacífico
+0DIF277	Océanos	0	¿Qué océano se encuentra entre África y Australia?	océano Pacífico	Océano africano	Océano al atardecer	océano Índico
+2K25180	Océanos	1	¿Cuál de estas actividades oceánicas proporciona alimento?	Aparejo petrolero	Nadando	Flotante	Pescar
+2K25270	Océanos	1	¿Qué tipo de brisa corre del océano a la tierra?	Brisa de tierra	Brisa tranquila	Brisa invernal	Brisa marina
+2K25094	Océanos	1	¿Qué significa bacterioplancton en lo que respecta al medio ambiente?	Plantas de tierra	Pesticida	Éter	Bacterias en el agua
+2K25344	Océanos	1	¿En qué océano se vacían la mayoría de los ríos chinos?	atlántico	indio	Ártico	Pacífico
+2K25234	Océanos	1	¿Qué río representa casi el 20% de la descarga de agua dulce del mundo en los océanos?	Congo	El nilo	Ganges	El Amazonas
+2K25394	Océanos	1	¿Qué significa la pesca deportiva en lo que respecta al medio ambiente?	Incomible	Cebo	Artificial	Atrapado por deporte
+2K25356	Océanos	1	¿Qué animal desova en agua dulce pero vive la mayor parte de su vida en el mar?	Búho	Ganso de Canadá	Escarabajos	Salmón
+2K25200	Océanos	1	Normalmente, ¿qué causa un tsunami?	Mareas altas	Corrientes	Huracanes	Terremotos submarinos
+2K25538	Océanos	1	¿A cuál de estas familias de mamíferos pertenece la orca?	Tiburones	focas	Atún	Delfines
+15P1019	Océanos	1	¿Cuál de las regiones geográficas de Colombia comienza en la costa del Océano Pacífico?	Región Andina	Región del Caribe	Región Amazónica	Región pacífica
+2K25278	Océanos	1	¿Cómo se llama el famoso arrecife de coral frente a la costa de Australia?	El arrecife de buen día	Montículo de flores	Arrecife canguro	Gran Barrera de Coral
+2K25360	Océanos	1	¿Cómo se llama un ciclón tropical formado en el Océano Pacífico?	Huracanita	Tornado	Tsunami	Tifón
+2K25126	Océanos	1	¿Cómo llamas al área de tierra que se encuentra junto a un océano?	Interior	Meseta	Montaña	Línea costera
+2K25208	Océanos	1	¿Cuál de estos es el más grande de los océanos del mundo?	atlántico	indio	Ártico	Pacífico
+2K25322	Océanos	1	¿Qué causa el viento en la superficie del océano?	Tensión superficial	Tormentas	Nubes	Corrientes superficiales
+2K25500	Océanos	1	¿Una marsopa sin aleta toma su nombre de una falta casi total de qué aleta?	Adiposo	Caudal	Pectoral	Dorsal
+352067	Océanos	1	Isla de Pascua es una isla en qué océano?	atlántico	indio	Ártico	Pacífico
+2K25336	Océanos	1	¿Qué animal comienza su vida como un renacuajo?	Guacamaya roja	Junco	Rata canguro	Rana
+2K25342	Océanos	1	¿Cuál es el término para la corteza terrestre donde subyace a los océanos?	Pared del mar	Cuenca de drenaje	Cama de roca	Corteza oceánica
+2K25308	Océanos	1	¿Qué nombre se refiere a los viajes por el Atlántico?	Transpacífico	Transcontinental	Trasplante	Transatlántico
+2K25198	Océanos	1	¿Cuál de estos recursos naturales no esperaría encontrar en un océano?	Pescado	Petróleo	Piedras preciosas	Árboles
+2K25178	Océanos	1	¿Qué océano cruzaron los peregrinos para llegar a América del Norte?	océano Pacífico	océano Ártico	océano Índico	océano Atlántico
+2K25156	Océanos	1	¿El pez venenoso que puede tragar agua para duplicar su tamaño también se conoce como qué?	Hipopótamo	Libélula Verde Darner	Ganso hawaiano	Pez globo
+352209	Océanos	1	¿Cómo se llama la parte delantera de un barco?	El mástil	El púlpito	La popa	El arco
+0DIF270	Océanos	1	¿Cómo se llama una gran colección de islas en el océano?	Istmo	Atolón	Pila de islas	Archipiélago
+2K25160	Océanos	1	¿Cuántos brazos tiene una estrella de mar?	4	2	3	5
+2K25254	Océanos	1	¿Cómo se llama una preparación japonesa de pescado crudo sin arroz?	Miso	Motivo	Maki Roll	Sashimi
+2K25194	Océanos	1	¿Qué tipo de criatura marina es una orca?	mantarraya	Pez espada	Anguila	Ballena
+2K25222	Océanos	1	¿Cuál de los siguientes pescados de marisco suele ser de color rosa / naranja?	Hipogloso	Atún	Vieiras	Salmón
+2K25142	Océanos	1	¿Qué dos océanos rodean América del Norte?	Indio y ártico	Indio y pacífico	Ártico y Atlántico	Atlántico y Pacífico
+2K25146	Océanos	1	¿Qué dos océanos se encuentran al este y al oeste de Argentina?	Pacífico e indio	Indio y ártico	Ártico y mediterráneo	Atlántico y Pacífico
+400758	Océanos	1	¿Cuáles de los siguientes rasgos se utilizan para ayudar a clasificar a las ballenas como mamíferos?	No tienen huesos	No tienen pelo	Comen proteínas	Respiran aire y tienen glándulas mamarias
+352038	Océanos	1	¿Cuál de estos estados está más cerca del Océano Pacífico?	Vermont	Georgia	Nueva York	Nevada
+2K25144	Océanos	1	¿Qué pez, aunque en realidad es un carroñero, se ha convertido en sinónimo de comportamiento cruel y depredador?	mantarraya	Pargo	Carangid	Barracuda
+2K25472	Océanos	1	¿Cuál de estos estados está más cerca del Océano Pacífico?	Virginia	Luisiana	Alabama	California
+2K25190	Océanos	1	¿Qué animal es un pez de agua dulce carnívoro?	Rinoceronte	Pingüino africano	Monstruo Gila	Piraña
+2K25306	Océanos	1	¿Cuál es el contaminante más común que se encuentra en el pescado?	Dioxinas	Bifenilos policlorados	Parásitos	Mercurio
+2K25442	Océanos	1	¿El Océano Atlántico separa a Brasil de qué continente?	Asia	Australia	Europa	África
+2K25154	Océanos	1	¿Qué es un pez de colores que vive entre las anémona de mar?	Mosquito	Flamenco	Ballena gris	Pez payaso
+2K25412	Océanos	1	¿Cuál es el acrónimo de un instrumento que mide la conductividad-temperatura-profundidad del agua de mar?	TDC	FDD	NOA	CTD
+2K25158	Océanos	1	¿En el fondo de qué océano encontraría la cordillera del Atlántico Medio?	océano Índico	océano Pacífico	océano Ártico	océano Atlántico
+447238	Océanos	1	¿Cuál de los siguientes peces tiene más forma de torpedo?	Platija	Chorro de arena	Pez payaso	Trucha
+2K25314	Océanos	1	¿Qué océano limita con China por el este?	océano Atlántico	océano Ártico	océano Índico	océano Pacífico
+2K25202	Océanos	1	¿Cómo se llama también un manatí?	Toro de mar	Erizo de mar	Elefante marino	Vaca marina
+2K25246	Océanos	1	¿Cómo se llama el movimiento ascendente y descendente del agua del océano causado por el viento?	Adiós	Hola	Soplo	Ola
+2K25186	Océanos	1	Mar del Plata es una ciudad argentina en la costa de qué océano	océano Ártico	Oceano del Sur	océano Índico	océano Atlántico
+2K25364	Océanos	1	¿Qué estado de EE. UU. Se encuentra más cerca del Océano Atlántico?	Arizona	Nuevo Mexico	Wyoming	Florida
+2K25164	Océanos	1	¿Qué mar tiene tanta sal que ningún pez puede vivir allí?	mar Mediterráneo	mar Báltico	mar Rojo	Mar Muerto
+2K25452	Océanos	1	¿Irlanda limita con qué océano?	océano Ártico	océano Índico	océano Pacífico	océano Atlántico
+2K25430	Océanos	1	¿Qué océano del Polo Norte casi siempre está totalmente congelado?	Pacífico	atlántico	indio	Ártico
+2K25244	Océanos	1	¿Qué país está ubicado en la costa oeste de América del Sur?	Uruguay	Argentina	Venezuela	Perú
+2K25280	Océanos	1	¿Qué océano se encuentra al sur de Afganistán?	Ártico	atlántico	Mediterráneo	Indíco
+2K25382	Océanos	1	¿En qué lugar del océano encontrarás langostas viviendo?	El abismo	Pozas de marea	Volcanes submarinos	El piso
+2K25288	Océanos	1	¿Qué nutriente que se encuentra en el pescado se cree que es bueno tanto para el corazón como para el cerebro?	Caroteno	Carbohidratos	Vitamina C	Ácidos grasos omega 3
+2K25132	Océanos	1	¿El océano Atlántico lleva el nombre de quién en la mitología griega?	Attis	Ares	Apolo	Atlas
+2K25268	Océanos	1	¿Qué significa oceánico en lo que respecta al medio ambiente?	Perteneciente a los lagos	Contaminado	Grietas de magma submarinas	Viviendo en alta mar
+2K25362	Océanos	1	¿Dónde en los Estados Unidos encontrarías los Everglades?	Texas	Nuevo Mexico	California	Florida
+2K25562	Océanos	1	¿Qué agua del océano es la más fría?	Pacífico	indio	atlántico	Ártico
+2K25236	Océanos	1	¿Qué es una gran masa de agua salada, generalmente conectada a un océano?	lago	Canal	Río	Mar
+2K25282	Océanos	1	¿Cuál es la principal fuente de alimento de los arrecifes de coral?	Mantarrayas	Luz de sol	Crustáceos	Plancton
+2K25204	Océanos	1	¿En qué lugar de la Tierra estarían más cálidos los océanos?	Cerca de Maine	Cerca de Groenlandia	Cerca de alaska	Cerca de los Cayos de Florida
+2K25320	Océanos	1	¿Qué barco famoso se hundió en el fondo del Océano Atlántico en 1912?	Bismarck	Reina Elizabeth II	Lusitania	Titánico
+2K25162	Océanos	1	¿Qué estado de EE. UU. Se encuentra más cerca del Océano Atlántico?	Colorado	Oregón	California	Connecticut
+2K25140	Océanos	1	¿Qué debe usar un humano al explorar las profundidades del océano?	Traje espacial	Máscara	Gafas de protección	Traje de baño
+2K25102	Océanos	1	¿Qué sentido especial tienen algunas ballenas y delfines para escuchar bajo el agua?	Electrorrecepción	Sentido infrarrojo	Sentido magnético	Ecolocalización
+2K25542	Océanos	1	¿Cómo se llama generalmente el área terrestre más cercana al océano?	Duna	Rompeolas	Muelle	playa
+2K25370	Océanos	1	¿Qué come una morsa?	Barras de caramelo	Ordenadores	Brócoli	Mariscos
+2K25172	Océanos	1	¿Cuál de estos es el más pequeño de los océanos del mundo?	Pacífico	atlántico	indio	Ártico
+2K25260	Océanos	1	¿En qué dirección está el Océano Ártico desde América del Norte?	Sur	Este	Oeste	norte
+2K25118	Océanos	1	¿Qué es la corteza oceánica?	Plancton de superficie	Contaminación costera	Grupos de galaxias	Los océanos subyacentes de la corteza terrestre
+2K25220	Océanos	1	¿Cuál de estas es otra palabra para el estudio del océano?	Revolución	Cuenca de drenaje	Metano	Oceanografía
+365488	Océanos	1	¿Qué gas que respira, necesario para la vida, también se disuelve en el agua del océano?	Helio	Neón	Cloro	Oxígeno
+2K25284	Océanos	1	¿Qué crustáceo es la principal presa de las ballenas barbadas, incluida la ballena azul?	Cangrejo	Gamba	langosta	Krill
+2K25122	Océanos	1	¿Qué pez sudamericano puede generar una descarga de 600 voltios?	Trucha degollada	Guppy	Piraña	Anguila eléctrica
+2K25292	Océanos	1	¿Qué sería un alimento común para una tortuga marina?	Pescado azul	Coral	Aves	Medusa
+2K25434	Océanos	1	¿A qué océano principal está conectado el río Amazonas?	océano Pacífico	océano Índico	océano Ártico	océano Atlántico
+2K25294	Océanos	1	¿Cómo se llaman los científicos que estudian el océano?	Meteorólogos	Geólogos	Geógrafos	Oceanógrafos
+2K25124	Océanos	1	¿Cuántos brazos tiene una estrella de mar?	Cuatro	Tres	Dos	Cinco
+2K25170	Océanos	1	¿Qué océano está frente a la costa este de los Estados Unidos?	Pacífico	Ártico	indio	atlántico
+2K25380	Océanos	1	Un extraño pez con forma de anzuelo que vive en aguas cálidas se conoce como ¿qué?	Pez payaso	Estrella de mar	Pescado Leghorn	caballo de mar
+2K25256	Océanos	1	¿Qué nombre de pez significa "fuerte-fuerte" en hawaiano?	Aba-Aba	Lia-Lia	Iko-Iko	Mahi mahi
+2K25136	Océanos	1	¿El 40% de los huracanes que ocurren en los Estados Unidos golpean dónde?	Luisiana	Georgia	Texas	Florida
+365309	Océanos	1	¿Cuál es el arrecife de coral más grande del mundo?	Arrecife de Pratte	Arrecife Ningaloo	Arrecife Abrolhos	Gran Barrera de Coral
+2K25210	Océanos	1	¿A qué océano está más cerca la India?	Pacífico	atlántico	Ártico	indio
+2K25298	Océanos	1	¿Cómo se llama la subida y bajada periódica del nivel del agua del océano?	Onda lunar	Onda solar	Actual	Marea
+2K25150	Océanos	1	¿Qué describe mejor el centro de un huracán?	Tormentoso	Nublado	Áspero	Calma
+2K25286	Océanos	1	¿Qué significa la trinchera oceánica en lo que respecta al medio ambiente?	Cordillera Submarina	Zona sin vida	Fondo del océano costero	Profundidades marinas largas y estrechas
+2K25120	Océanos	1	El coral, el componente más grande de los arrecifes, ¿se parece más a qué tipo de organismo?	Hongo	Mamífero	Virus	Animal
+321268	Océanos	1	¿Cuál es el animal más grande del océano?	El gran tiburón blanco	La ballena asesina (Orca)	La ballena gris	La ballena azul
+2K25340	Océanos	1	¿Cómo se llaman los cañones más profundos del océano?	Tríadas	Grinches	Trinidades	Trincheras
+2K25250	Océanos	1	¿Qué especie se conoce como Devilfish?	Pez payaso	Salmón	Marsopa	Manta raya
+2K25128	Océanos	1	¿En qué océano es más probable que encuentres glaciares flotando?	indio	Pacífico	atlántico	Ártico
+2K25276	Océanos	1	¿Qué animal es un pez plano sin huesos, solo cartílago?	Jaguar	Ballena beluga	Oso negro	Rayo
+2K25478	Océanos	1	¿Qué estado de EE. UU. Se encuentra más cerca del Océano Atlántico?	Utah	Washington	Montana	Alabama
+2K25218	Océanos	1	¿Cuál de las siguientes herramientas usaría una nutria marina para abrir un marisco?	Aleta dorsal	Pico	Dientes	Piedra
+2K25552	Océanos	1	¿La Gran Barrera de Coral se encuentra justo al lado de qué continente?	Asia	Antártida	Sudamérica	Australia
+399846	Océanos	1	¿Qué produce las mareas oceánicas?	Las nubes	Marte	La capa de ozono	La luna
+2K25152	Océanos	1	¿Qué término se refiere al calentamiento anormal regular del Océano Pacífico?	Efecto Atlántico	Corriente de Perú	Vientos alisios	el niño
+2K25188	Océanos	1	¿Cómo se llama un científico que estudia la vida en el océano?	Físico	Geólogo	Criatura marina	Biólogo marino
+2K25230	Océanos	1	¿Qué canal de navegación que conecta los océanos Atlántico y Pacífico se construyó entre 1904 y 1914?	Canal de Costa Rica	Canal de Nicaragua	Canal de Guatemala	canal de Panamá
+2K25304	Océanos	1	¿Qué tiburón que se alimenta por filtración de movimiento lento es el pez más grande del mundo?	Tiburón boca ancha	Gran tiburón blanco	Tiburón peregrino	Tiburón ballena
+2K25130	Océanos	1	¿Cómo se llama el área del océano que nunca puede ser tocada por la luz solar?	Mar oscuro	Agua Negra	Mar ciego	Mar profundo
+2K25358	Océanos	1	¿Qué océano se encuentra entre Asia y América del Norte y del Sur?	océano Atlántico	océano Ártico	océano Índico	océano Pacífico
+366074	Océanos	1	¿La ballena beluga es de qué color como adulto?	Plata	gris	Negro	Blanco
+2K25372	Océanos	1	¿Qué océano está frente a la costa oeste de Estados Unidos?	atlántico	Ártico	indio	océano Pacífico
+2K25134	Océanos	1	¿Qué océano cruzaron los exploradores europeos para llegar al Nuevo Mundo?	Pacífico	indio	Ártico	atlántico
+2K25096	Océanos	1	¿Cómo se llama un grupo de peces nadando juntos?	Una universidad	Una pandilla	Una manada	Un banco
+2K25104	Océanos	1	¿Qué océano se encuentra entre África y América del Norte y del Sur?	océano Ártico	océano Pacífico	océano Índico	océano Atlántico
+2K25300	Océanos	1	¿Cuál de los siguientes es un depredador importante de las nutrias marinas?	Delfines	Leones	Lobos	Ballena asesina
+2K25098	Océanos	1	Islandia se encuentra en qué océano?	indio	Pacífico	mar Rojo	atlántico
+2K25312	Océanos	1	¿Cuál de estos no es un océano?	atlántico	Pacífico	Índico	Superior
+2K25374	Océanos	1	¿Qué océano forma toda la frontera occidental de Chile?	Pan Pacífico	peruano	antártico	Pacífico
+15P1004	Océanos	1	¿Cuál de estos estados está más cerca del Océano Pacífico?	Nueva York	Virginia	Virginia del Oeste	Oregón
+2K25174	Océanos	1	Al mirar un océano, ¿cuál de estos es el color que más parece tener?	Morado oscuro	Blanco	naranja	Azul
+2K25258	Océanos	1	¿Qué instrumento usa ondas sonoras para ayudar a obtener una imagen del fondo del océano?	Sismógrafos	Canción de ballena	Clics de delfines	Sonar
+2K25326	Océanos	1	¿La definición de "el ascenso y descenso periódico de los océanos y la atmósfera de la Tierra" se ajusta mejor a qué término científico?	Inactividad	Nudo	Corriente en chorro	Marea
+2K25464	Océanos	1	¿Todos los sistemas fluviales de Brasil drenan en qué océano?	Pacífico	Ártico	Meridional	atlántico
+2K25338	Océanos	1	¿Qué tipo de cocina incluye salsa de pescado, cilantro, limoncillo, chiles, jugo de lima y fideos?	alemán	sudamericano	África occidental	Sudeste Asiatico
+410893	Océanos	1	¿Qué océano limita con Japón al este?	océano Atlántico	océano Índico	océano Ártico	océano Pacífico
+2K25090	Océanos	1	¿Qué harán la mayoría de las especies de tiburones cuando dejen de moverse?	Flotar a la superficie	Quedarse dormido	Comer	Ahogar
+350038	Océanos	2	¿Cómo llamarías a un pez largo, parecido a una serpiente, que tiene branquias circulares?	mantarraya	Cola amarilla	Calamar	Anguila morena
+2K25534	Océanos	2	¿Qué cubre la piel de una sepia y le permite cambiar su color para mezclarse con su entorno?	Transparencia	Fotosíntesis	Cloroformo	Cromatóforos
+15P1001	Océanos	2	¿Cómo se llama la piscina al pie de una pequeña cascada en un río?	Río abajo	Garganta	Barranco	Piscina de inmersión
+102994	Océanos	2	¿El nombre del Océano Pacífico tiene un significado original de qué?	Mucho mar	Mar de alabanza	Mar pálido	Mar pacífico
+2K25266	Océanos	2	¿Quién se convirtió en el primer europeo en ver el Océano Pacífico en 1513 al cruzar el istmo de Panamá?	Manuel Amador Guerrero	Juan Carlos Varela	Cristobal colon	Vasco NuÒez De Balboa
+2K25354	Océanos	2	¿Cuántas patas tiene el grupo de crustáceos que incluye cangrejos, langostas y camarones?	Seis	Ocho	Cuatro	Diez
+181113	Océanos	2	¿Qué significa la sobrepesca en lo que respecta al medio ambiente?	Carbono principal	Bosque plantado	Mayor población	Población más baja
+376779	Océanos	2	¿Filipinas es parte de qué área alrededor del Océano Pacífico que tiene muchos volcanes y terremotos?	Anillo de humo	Anillo de magma	Anillo de terremoto	Anillo de Fuego
+2K25386	Océanos	2	¿Qué estado, aunque es ampliamente conocido por los mariscos, solo tiene ocho millas de costa en el Océano Atlántico?	Connecticut	Maine	Carolina del Norte	Maryland
+2K25184	Océanos	2	¿Qué significa el Océano Austral en lo que respecta al medio ambiente?	Agua costera de Sri Lanka	Golfo de México	Zona ecuatorial	Agua que rodea la Antártida
+2K25192	Océanos	2	¿Cuál es el tercer océano más grande del mundo?	océano Pacífico	Oceano del Sur	océano Ártico	océano Índico
+2K25536	Océanos	2	¿Qué papel juega un skimmer en la limpieza de la contaminación del océano?	Mantener el movimiento del agua	Descomponer la contaminación superficial	Captura y reubicación de vida silvestre	Recolectando contaminación flotante
+2K25528	Océanos	2	Cuando se consume durante largos períodos de tiempo, ¿qué causa el agua del océano en los humanos?	Psicosis	Enfermedad del mar	Cólera	Deshidratación
+2K25088	Océanos	2	¿Qué significa el ciclo del agua del océano en lo que respecta al medio ambiente?	Grandes bañeras de hidromasaje	Corrientes transoceánicas	Flujo de intercambio de capa oceánica	Evaporación / Precipitación
+2K25328	Océanos	2	¿Qué estado de los EE. UU. Tiene como apodo "The Ocean State"?	New Jersey	Massachusetts	Maryland	Rhode Island
+2K25368	Océanos	2	¿Qué hace una membrana nictitante en un tiburón?	Protege las aletas	Abrigos la lengua	Cubre la piel	Protege los ojos
+2K25290	Océanos	2	¿Cuál de estos es un método relativamente nuevo para limpiar derrames de petróleo en el océano?	Usando un virus	Más aceite	Agua salada	Bacterias hambrientas de aceite
+181129	Océanos	2	¿Qué océano nombró Fernando de Magallanes?	atlántico	indio	Ártico	Pacífico
+526383	Océanos	2	Si cocina con pescado, cebollas, patatas y crema agria, ¿qué tipo de comida podría estar cocinando?	hawaiano	japonés	Meridional	noruego
+2K25446	Océanos	2	¿En qué océano se encuentra el arrecife artificial más grande del mundo, el USS Oriskany?	océano Pacífico	océano Índico	océano Ártico	océano Atlántico
+374276	Océanos	2	¿El Estrecho de Gibraltar conecta el Océano Atlántico con qué mar?	Mar Caspio	Golfo pérsico	mar Rojo	mar Mediterráneo
+365446	Océanos	2	¿El "Anillo de Fuego" es una cadena de volcanes en y alrededor de qué océano?	atlántico	Meridional	indio	Pacífico
+365367	Océanos	2	¿Un estuario conecta el océano con un qué?	Mar	lago	Puerto	Río
+2K25444	Océanos	2	¿Cuál es el océano más pequeño de la tierra?	océano Índico	océano Atlántico	océano Pacífico	océano Ártico
+365408	Océanos	2	¿Qué océano hay en la costa occidental de Perú?	indio	Ártico	atlántico	Pacífico
+368377	Océanos	2	¿Qué animal flotante se comen las ballenas azules?	Delfín	Cangrejo	Atún	Plancton
+2K25422	Océanos	2	¿Un gran número de islas mencionadas colectivamente es un qué?	Atolón	Anillo de la isla	Istmo	Archipiélago
+15P1022	Océanos	2	¿Qué utilizaron los primeros científicos oceánicos para medir la distancia al fondo del océano?	Un buceador	Canción de ballena	Aviones	Cuerdas ponderadas
+15P1016	Océanos	2	¿El Triángulo de las Bermudas también se conoce con qué nombre?	Triángulo de la Atlántida	Triángulo del infierno	Anillo de Fuego	Triángulo del diablo
+10178	Océanos	2	¿Qué océano rodea África en el lado este?	atlántico	Pacífico	Ártico	Índico
+2K25366	Océanos	2	¿Qué mantiene la salinidad del océano igual durante todo el año?	Plancton	Tormentas	Rayos de sol	Movimiento del océano
+365516	Océanos	2	¿En qué océano fluye el río Zambezi?	oceano Antártico	océano Pacífico	océano Atlántico	océano Índico
+346867	Océanos	2	¿Qué es un río o arroyo más pequeño que desemboca en un río o arroyo más grande?	Hábitat	Cuenca	Meseta	Afluente
+386091	Océanos	2	¿Qué significa crianza en el océano?	Colección Shell	Secado de algas	Colección Scale	Pesca de salmón
+367736	Océanos	2	¿El estrecho de Bering se encuentra entre qué dos continentes?	América del Norte y América del Sur	Asia y África	Europa y África	América del Norte y Asia
+349537	Océanos	2	¿Qué máquina submarina ayuda a los humanos a viajar por debajo de la superficie del océano?	Sumergibles	Barcos	Petroleros	Sumergible
+2K25100	Océanos	2	¿Qué océano contiene la Corriente del Golfo?	Pacífico	norte	Bering	atlántico
+2K25526	Océanos	2	¿Cuál de las siguientes partes del cuerpo no tiene la ballena de Groenlandia?	Flukes	Aletas	Ballena	Aletas dorsales
+181118	Océanos	2	¿Qué pez se llama así por su mandíbula larga, afilada y sin dientes?	Platija	Caballa	Atún	Pez espada
+97475	Océanos	2	¿Qué pez vive dentro y alrededor de la anémona de mar?	Estrella de mar	Medusa	Pulpo	Pez payaso
+527748	Océanos	3	¿Cómo se llama una forma de onda que avanza con una velocidad constante?	Marea	Actual	Movimiento	Progresiva
+2K25512	Océanos	3	¿Qué son los chelae en un cangrejo?	Ojos	Cáscara	Patas traseras	Garras delanteras
+410827	Océanos	3	¿Dónde encontrarías lagos llamados QianHai, BeiHai y HouHai?	México	India	Tailandia	China
+2K25384	Océanos	3	De todos los crustáceos marinos capturados por humanos cada año, ¿qué porcentaje representan los cangrejos?	0,05	0,01	1	0,2
+70901	Océanos	3	¿Qué porcentaje de vida marina habita las zonas costeras?	17%	58%	75%	98%
+526378	Océanos	3	¿Qué significa la oceanografía operativa en lo que respecta al medio ambiente?	Estudios médicos del océano	Investigación de la cuenca oceánica	Estudio de corrientes oceánicas	Medidas oceánicas a largo plazo
+93887	Océanos	3	¿Cuál es la zona oceánica más profunda?	Zona abisal	Zona batial	Zona Eufótica	Zona Hadal
+294006	Océanos	3	La leche de ballena tiene un alto contenido en grasas. ¿Aproximadamente qué porcentaje en volumen de grasa contiene la leche de ballena?	75%	90%	35%	50%
+448598	Océanos	3	¿A qué familia de peces pertenece la lobina negra?	Clúpeidos	Salmónidos	Ciprínidos	Centrarquidas
+2K25504	Océanos	3	¿A qué hora y día chocó el Titanic con el iceberg?	10:30:23 AM, 14 de abril de 1912	11:37:56 AM, 15 de abril de 1912	2:27:00 AM, 15 de abril de 1912	11:40:40 PM, 14 de abril de 1912
+2K25414	Océanos	3	Aproximadamente, ¿dónde está ubicado el orificio nasal en la cabeza de un cachalote?	Lado trasero izquierdo	Medio	Parte trasera derecha	Lado delantero izquierdo
+447676	Océanos	3	¿El récord mundial de captura de trucha en el hielo en 1987 fue?	22 libras 14 onzas	5 libras 2 onzas	16 libras 7 onzas	8 libras 4 onzas
+2K25548	Océanos	3	¿La lengua de una ballena azul es aproximadamente del mismo tamaño que cuál de los siguientes animales?	Un oso	Un leon	Un cocodrilo	Un elefante
+2K25402	Océanos	3	¿Qué tipo de cnidario forma un arrecife submarino?	Dólares de arena	Erizos de mar	Chorros de mar	Coral
+410878	Océanos	3	¿Qué es la eutrofización aplicada a los océanos?	Verter venenos	Usar agua del océano como refrigerante	Convertir el agua del océano en dulce	Liberación de nutrientes químicos
+447423	Océanos	3	¿A qué se refiere la disminución de oxígeno en el agua?	Eutrofización	Putrificación	Asfixia por agua	Hipoxia
+391383	Océanos	3	¿Quién construyó el barco RMS Titanic?	Blohm y Voss	John Brown & Co.	Swan Hunter y Wingham Richardson	Harland y Wolff
+2K25238	Océanos	3	¿Cuándo se lanzó oficialmente el Titanic?	Agosto-12	Agosto 20	Mayo-09	11 de mayo
+446940	Océanos	3	¿Quién fue el fabricante del primer motor fueraborda del mundo?	Mercurio	Chrysler	Suzuki	Evinrude
+281440	Océanos	3	Otro nombre para el delfín de Risso es ¿qué?	Delfín piloto	Delfín búfalo	Delfín común	Delfín monje
+9984	Océanos	3	¿Qué más de 300 islas del archipiélago del Pacífico se formó completamente a partir de volcanes?	Islas de pascua	Islas menores alejadas de EE. UU.	Hawai	Islas Aleutianas
+352230	Océanos	3	¿Qué determina el sexo de una tortuga marina?	Ubicación	Aleatorio	Cromosomas	Temperatura de la arena
+447519	Océanos	3	¿Quién fue el ingeniero jefe del Titanic?	H. Jupe	JH Hesketh	WL Duffy	J. Bell
+349492	Océanos	3	Las ballenas azules tienen una llamada extremadamente fuerte, aproximadamente ¿qué tan fuerte se mide en decibelios?	140 decibeles	330 decibeles	221 decibeles	188 decibeles
+352072	Océanos	3	¿Cuántas pulgadas de grosor desde la infancia hasta la madurez tiene la grasa de una ballena azul?	30-80 pulgadas	24-28 pulgadas	150-500 pulgadas	2-14 pulgadas
+189680	Océanos	3	¿Qué pez ayuda a equilibrar las algas y los corales en un arrecife?	Esturión	Pez trompeta	Agrupador	Pez Cirujano
+9350	Océanos	3	¿Cuál es la zona oceánica superior?	Zona mesopelágica	Zona Nerítica	Zona Nepipelágica	Zona epipelágica
+352061	Océanos	3	¿Qué significa Estratosfera oceánica en lo que respecta al medio ambiente?	Capa superior del océano	Aguas del hemisferio sur	Aguas del hemisferio norte	Capa inferior del océano
+2K25458	Océanos	3	¿Qué pez de agua salada sin escamas y con forma de serpiente puede alcanzar tamaños de más de 170 libras?	Hipogloso	Sábalo	Aguja	Congrio
+403792	Océanos	3	¿A qué edad alcanzan las ballenas la madurez reproductiva?	13-15 años	20-22 años	25 - 40 años	7-10 años
+352083	Océanos	3	¿Quién era el dueño del Titanic?	J. Paul Getty	La familia real británica	El gobierno de los Estados Unidos	JP Morgan
+218439	Océanos	3	¿Cómo se llama el estudio científico de masas de agua dulce?	Lakeology	Oceanografía	Aquaología	Limnología
+356441	Océanos	3	¿Qué es una catarata en un río?	Un dique	Agua baja	Un área sin corriente	Rápidos llenos de rocas
+446939	Océanos	3	¿Dónde se encuentra Apo Reef?	India	México	Madagascar	Filipinas
+20029	Océanos	3	Aproximadamente, ¿cuánto pesa el cerebro del cachalote?	30 libras	10 libras	70 libras	20 libras
+2K25352	Océanos	3	¿Qué edad tenía el capitán del Titanic cuando se hundió?	40	sesenta y cinco	44	62
+94258	Océanos	3	¿Qué dos depredadores naturales se sabe que se alimentan de ballenas beluga además de los humanos que las cazan?	Ballenas azules y grandes tiburones blancos	Grandes tiburones blancos y orcas	Cachalotes y ballenas azules	Osos polares y orcas
+411066	Océanos	3	¿Cuál de estos es un tipo de arrecife de coral natural?	Arrecife de surf	Fan Reef	Archipiélago	Atolón
+400952	Océanos	3	Aproximadamente, ¿cuántos millones de toneladas de sal se obtienen del océano cada año?	60 millones	2 millones	10 millones	6 millones
+410815	Océanos	3	¿Qué porcentaje del agua del océano constituye la sal disuelta?	75%	12%	5,50%	3,50%
+49024	Océanos	3	¿Cuál es la velocidad máxima estimada de un cachalote?	30 - 40 millas por hora	10-20 millas por hora	40 - 50 millas por hora	20 - 30 millas por hora
+446985	Océanos	3	¿En qué año publicó Alfred Wegner "El origen de continentes y océanos"?	1920	1919	1932	1915
+400236	Océanos	3	¿La relación entre la altura de la ola y la longitud de onda es qué onda?	Medición de superficie	Energía	Fuerza	Lo escarpado
+369388	Océanos	3	Aproximadamente, ¿cuántos millones de toneladas de sal se obtienen del océano cada año?	60	2	10	6
+16072	Océanos	3	¿Qué océano se encuentra entre los tradicionales "Siete Mares"?	océano Atlántico	océano Ártico	Océano del Sur	océano Índico
+346866	Océanos	3	¿Qué especie de tiburón fue la primera en ser protegida al ser incluida en la Lista de especies amenazadas?	Gran tiburón blanco	Tiburón gris de arrecife	Tiburón tigre	Tiburón nodriza gris
+447627	Océanos	3	¿Cuáles son las dimensiones de tamaño promedio de las aletas de un cachalote?	10 pies De largo por 5 pies. Amplio	30 pies De largo por 15 pies. Amplio	60 pies Largo por 30 pies. Amplio	5 pies De largo por 3 pies. Amplio
+365501	Océanos	3	¿Los corales son animales antiguos relacionados con qué?	Krill	Caracoles	Caballos marinos	Medusa
+2K25240	Océanos	3	En el Atlántico, la temporada de huracanes comienza el 1 de junio, mientras que en el Pacífico, ¿cuándo comienza?	1 de junio	8-ago	14-sep	15-mayo
+410888	Océanos	3	¿Cuál de las siguientes es una característica de todas las ballenas barbadas?	Comederos estacionales	2 orificios respiratorios	Las hembras son más grandes	Todos ellos
+447217	Océanos	3	¿Cuántos huevos lleva una tiburón nodriza gris cuando está embarazada?	150-250	100-150	50-100	300-400
+350065	Océanos	3	¿Qué tipo de algas viven simbióticamente con los arrecifes de coral en aguas poco profundas?	Fitoplancton	Apistogramma	Leulingi	Zooxantelas
+446924	Océanos	3	El Triángulo de Coral, principalmente en Indonesia, también se conoce como ¿qué?	Jardines de coral	Gema del mar	triángulo de las Bermudas	Amazonas de los mares
+352068	Océanos	3	¿Cuál es el pez más venenoso del mundo?	Pez globo	Pez león	mantarraya	Pez piedra
+346852	Océanos	3	¿En qué proceso resulta la pérdida de zooxantelas simbióticas?	Muerte de coral	Enfermedad de los corales	Pólipos de coral	Blanqueamiento de corales
+2K25510	Océanos	3	¿Cuántos galones de petróleo se vertieron durante el derrame de petróleo del Exxon Valdez de 1989?	15 millones	7 millones	23 millones	11 millones
+448482	Océanos	3	¿En qué dos ciudades se detuvo el Titanic antes de dirigirse a Nueva York?	Belfast y Londres	Londres y Cherburgo	París y Scarborough	Cherburgo y Queenstown
+346854	Océanos	3	¿De qué océano forma parte el Mar de Coral?	atlántico	antártico	indio	Pacífico
+318263	Océanos	3	¿A cuál de las siguientes velocidades se sabe que las orcas nadan en ráfagas para atrapar a sus presas?	35 kilómetros por hora	25 kilómetros por hora	112 kilómetros por hora	48 kilómetros por hora
+408924	Océanos	3	¿Cuál es la isla más grande del Océano Índico?	Sri Lanka	Sumatra	Nueva Guinea	Madagascar
+410886	Océanos	3	Además de Groenlandia, ¿cuál es la isla más grande del Océano Atlántico?	Irlanda	Islandia	Cuba	Bretaña
+394747	Océanos	3	Aproximadamente, ¿cuántos dientes hay en la mandíbula inferior del cachalote?	90-110	300-400	200-220	50-60 dientes
+9986	Océanos	3	¿Qué significa la dorsal oceánica en lo que se refiere al medio ambiente?	Valle bajo el agua	Línea de cambio de temperatura	Línea de latitud	Cordillera Submarina
+2K25418	Océanos	3	¿Cuál fue la velocidad de crucero normal para el Titanic?	12 nudos	40 nudos	55 nudos	21 nudos
+281432	Océanos	3	¿Cuál es el punto más profundo de la Fosa de Filipinas en el Océano Pacífico occidental?	Horizonte profundo	Abismo Challenger	Richards Deep	Profundidad de Galathea
+356475	Océanos	3	¿Qué océano se encoge una pulgada cada año?	atlántico	indio	Ártico	océano Pacífico
+352238	Océanos	3	¿Qué les falta a las ballenas barbadas que tienen otras ballenas?	Ojos	Espiráculos	Aletas dorsales	Dientes
+410864	Océanos	3	¿Qué pez tiene un veneno tan poderoso y mortal como la picadura de una serpiente de cascabel?	Pargo	Pez globo	Anguila	Weeverfish
+2K25476	Océanos	3	Cualquier material depositado por un río ¿cómo se llama?	Fiordo	Descarga	Abrasión	Aluvión
+181124	Océanos	3	¿Qué contiene mucho el hígado de un tiburón?	Organismos	Bacterias	Bilis	Grasa
+2K25516	Océanos	3	¿Qué término geográfico se ajusta mejor a la desembocadura de la marea de un río grande?	Foredune	Acreción	Latitud	Estuario
+2K25540	Océanos	3	¿Qué metal valioso se encuentra en los océanos pero es caro de extraer?	Dirigir	Aluminio	Sodio	Oro
+2K25454	Océanos	3	¿Cuál de los siguientes se considera el ser vivo "más ruidoso" en esta Tierra?	Gorila africano	Tirano-saurio Rex	Trackosaurus	Ballena azul
+448183	Océanos	3	¿Cómo se llama la diferencia de elevación entre la cresta de una ola y la depresión?	Waveforce	Medida de onda	Altura de las olas	Longitud de onda
+365483	Océanos	3	¿Cómo llamó Balboa originalmente el Océano Pacífico?	océano Pacífico	Océano español	Mar Dorado	Mar del sur
+346868	Océanos	3	¿Cuántas pulgadas de largo tiene el diente promedio de una orca o ballena asesina adulta?	1,5 pulgadas	8 pulgadas	5 pulgadas	3 pulgadas
+410876	Océanos	3	Las ballenas orca macho tienen una esperanza de vida de 50 a 60 años, ¿cuál es la esperanza de vida de las ballenas orca hembras?	40 años	50 años	30 años	90 años
+408945	Océanos	3	¿Cuál de los siguientes tiene la cabeza más grande de cualquier animal?	Orca	Ballena azul	Ballena gris	Ballena de esperma
+368658	Océanos	3	En la década de 1970, una gran y fallida expansión a Osborne Reef de Florida se componía principalmente de ¿qué?	Bloques de cemento	Autos Dañados	Cajas de almacenamiento	Neumáticos viejos
+2K25316	Océanos	3	¿Cuándo comenzó el Centro Nacional de Huracanes a dar nombres oficiales a las tormentas?	1976	1886	1902	1953
+402692	Océanos	3	¿Cuál es el método de alimentación utilizado por las ballenas jorobadas que les permite reunir masas de presas altamente concentradas?	Alimentación por boca superficial	Alimentación en aguas profundas	Alimentación concentrada tubular	Alimentación con red de burbujas
+2K25396	Océanos	3	Para que se desarrolle un huracán, ¿las aguas del océano deben estar por encima de qué temperatura?	36 grados Celsius	30 grados Celsius	18 grados Celsius	26 grados Celsius
+352049	Océanos	3	Las ballenas de Groenlandia adultas crecen aproximadamente a cuál de las siguientes longitudes?	9-12 metros	27-33 metros	24-27 metros	15-18 metros
+2K25416	Océanos	3	¿Cuál de las siguientes ballenas recibe el sobrenombre de 'Squid Hound' debido a su dieta y cómo caza a sus presas?	Orca	Ballena de esperma	Ballena azul	Ballena beluga
+9981	Océanos	3	¿Aproximadamente cuántas libras pesa el corazón promedio de un cachalote?	350 libras	1220 libras	144 libras	277 libras
+447487	Océanos	3	Darwin Mounds es un arrecife ¿dónde?	Australia	Bahamas	Filipinas	Escocia
+2K25494	Océanos	3	¿Qué usan los trabajadores de los puentes para evitar la formación de óxido en los puentes cerca del océano?	Jabón antioxidante	Detergente para platos	Huevos	Electricidad
+180613	Océanos	3	¿Qué come la estrella de la canasta chilena?	Esponjas	Pez Beta	Sardinas	Krill
+2K25508	Océanos	3	¿Cuál de las siguientes partes del cuerpo no tiene la ballena beluga?	Aletas	Sopladura	Pico	Aletas
+374213	Océanos	3	¿Cuál fue el puerto de registro del Titanic?	Londres	Nueva York	Oslo	Liverpool
+2K25406	Océanos	3	¿Cuál es un pez largo y delgado con un hocico grande y una cabeza en forma de triángulo?	Pez elefante	Peces linterna	Manta raya	Pez trompeta atlántico
+410867	Océanos	3	¿Los arrecifes de coral se encuentran principalmente en qué zona oceánica?	Zona Eufótica	Zona abisal	Zona Hadal	Zona Nerítica
+2K25506	Océanos	3	¿Un barco con qué nombre se le atribuye el descubrimiento de los restos del Titanic?	Arvin	Elvin	Titán	Alvin
+402850	Océanos	3	¿Qué usan los capitanes de barco para saber cuándo es seguro atracar en la orilla del océano?	Actividad del viento solar	Mesas de erosión de playa	Sismógrafos	Tablas de mareas
+447419	Océanos	3	¿Aproximadamente cuántas libras de comida consume una ballena beluga adulta cada día?	100 libras	500 libras	700 libras	50 libras
+447386	Océanos	3	¿Cuántos botes salvavidas plegables llevaba el Titanic?	Seis	Cero	Dos	Cuatro
+410868	Océanos	3	Daintree Reef en Australia fue nombrado en honor a qué geólogo?	Susan Daintree	Daintree Alpogin	Daintree Smythe	Richard Daintree
+294752	Océanos	3	¿Cómo se llama una barrera de tierra natural o hecha por el humano a lo largo del borde de un arroyo, lago o río?	Canal	Cuenca	Agua corporal	Dique
+363857	Océanos	3	¿Cuál es la abertura en forma de embudo debajo de la cabeza de un pulpo que secreta un líquido negro cuando se ve amenazado?	Bosic	Clateral	Algave	Sifón
+2K25432	Océanos	3	¿Cuál es la vida útil de la marsopa común?	50 años	5 años	80 años	20 años
+446952	Océanos	3	¿El delfín blanco chino puede ser de qué color?	Negro	Blanco	Azul	Rosado
+400903	Océanos	3	¿A qué profundidad comienza la zona abisal?	1.000 metros	3.000 metros	4.000 metros	2,000 metros
+68109	Océanos	3	¿En qué año la Comisión Ballenera Internacional declaró a las ballenas azules como una especie protegida debido a una enorme disminución de su población?	1970	1955	1932	1966
+394341	Océanos	3	¿Cómo se conocen las "extremidades anteriores" de una ballena?	Aletas dorsales	Aletas de paleta	Aletas Fluke	Aletas pectorales
+2K25334	Océanos	3	¿Cuántos pies de largo tenía el Titanic de proa a popa?	995 1/2	680	1050	882 1/2
+365415	Océanos	3	¿Qué arrecife encontrarías en el Golfo de México?	Arrecife Minerva	Arrecife Lyra	Arrecife Kingman	Arrecife de escorpión
+16195	Océanos	3	¿A qué se refiere a menudo un área del océano con poco oxígeno?	Nitrógeno saturado	Hambriento de oxígeno	Zona hipóxica	Zona muerta
+2K25530	Océanos	3	¿Cuál de los siguientes tiburones no existe (según el mejor conocimiento humano)?	Tiburón Wobbegong	Tiburón Megmouth	Tiburón Alfombra	Tiburón antártico
+402782	Océanos	3	¿El lado de barlovento de una isla se enfrenta a qué?	El océano	Montañas	Hacia el norte	Los vientos predominantes
+374305	Océanos	3	¿Qué significa el arrecife de coral en lo que respecta al medio ambiente?	Aguas poco profundas	Granja de peces	Hábitat de ballenas	Estructura de piedra caliza
+286803	Océanos	3	¿Cuál es el velero más pequeño de la lista?	Kestral	Amotinado	Cigarrillo	Girasol Snark
+15P1010	Océanos	3	¿Cómo se conoce comúnmente a un grupo de focas?	Un vuelo	Una escuela	Una guarida	Una manada
+447981	Océanos	3	El tritón gigante es un caracol marino que puede alcanzar ¿qué tamaño?	1,5 M	2 M	1 M	0,5 M
+146272	Océanos	3	¿A qué se refiere la pesca fantasma?	Dejando redes para recuperar más tarde	Pesca de peces criptozoológicos	Uso de peces vivos para atraer peces más grandes	Redes perdidas que continúan capturando peces
+447789	Océanos	3	En un arrecife, un coral individual se conoce como ¿qué?	Micro	Esqueleto	Quiste	Pólipo
+2K25532	Océanos	3	¿Cuál es la velocidad más alta que se sabe que alcanzan los delfines?	100 millas por hora	18 millas por hora	20 millas por hora	35 millas por hora
+2K25426	Océanos	3	¿Qué es un lugar alto del que fluyen ríos en todas direcciones?	División de montaña	Repisa	Camino de la ladera	División continental
+394803	Océanos	3	En relación con el medio ambiente, ¿qué significa oceanografía operativa?	Estudios médicos del océano	Investigación de la cuenca oceánica	Estudio de corrientes oceánicas	Medidas oceánicas a largo plazo
+410816	Océanos	3	¿En qué parte del océano se encontraría un monte submarino?	En una playa	En una fosa del mar profundo	En el fondo del mar	Cerca de la costa
+365375	Océanos	3	¿Cuál de las siguientes letras del alfabeto tiene la forma del orificio nasal de un cachalote?	V	W	yo	S
+410869	Océanos	3	¿El delfín de Commerson también se conoce como qué otro nombre?	Acro Dolphin	Delfín de vientre blanco	Delfín calvo	Delfín mofeta
+2K25462	Océanos	3	¿Los arqueólogos descubrieron la ciudad perdida de Thonis / Heracleion bajo el agua frente a la costa de qué país?	Rusia	Canadá	Sudáfrica	Egipto
+447596	Océanos	3	¿Cuál es la principal fuerza perturbadora en el océano abierto?	Ondulaciones	Resaca	Olas	Viento
+9980	Océanos	3	¿Cuánto dura aproximadamente el período de gestación de una cría de ballena azul?	3-4 meses	14-16 meses	5-7 meses	11-12 meses
+447814	Océanos	3	¿Qué tipo de cola tiene un tiburón?	División	Homocercal	Dividido	Heterocercal
+410863	Océanos	3	¿Cuál es el nombre de una ballena jorobada en el Océano Pacífico Sur que fue rastreada en línea por Greenpeace?	Gran chico	Darlene	Walter	Mister Splashy Pantalones
+352079	Océanos	3	¿Cómo se llama una curva en un río que generalmente está en el curso medio o bajo?	Canal	Delta	Amarras	Meandro
+2K25440	Océanos	3	¿Cuál es la familia científica a la que pertenecen las tortugas marinas?	Reptilia	Animalia	Chordata	Cheloniidae
+2K25350	Océanos	3	¿Cuántos corazones tiene un pulpo?	2	4	1	3
+43913	Océanos	3	¿Qué lago se formó cuando se construyó la presa Akosombo en Ghana?	Lago Bogoria	Lago Kainji	Lago ngami	Lago volta
+181123	Océanos	3	¿Cuál de las siguientes características caracteriza el entorno en el que viven los cachalotes?	Orilla	Ártico	Hemisferio sur	Vainas
+394881	Océanos	3	¿Las piscinas de salmuera en el océano tienen un nivel inusualmente alto de qué?	Oxígeno	Tiburones	Conchas	sal
+410853	Océanos	3	¿El delfín de Irrawaddy es similar a qué ballena en apariencia?	Ballena	Jorobado	Orca	Ballena beluga
+20560	Océanos	3	¿Cómo se llama a las comunidades de vida acuática que habitan en o sobre los sedimentos del fondo de un cuerpo de agua?	Depresión cerrada	Acuífero	BMP	Bentho
+394827	Océanos	3	Los tres tipos de hielo que cubren el Océano Ártico son hielo polar, hielo fijo y ¿qué?	Hielo suave	Hielo vivo	Hielo Artico	Bloques de hielo
+410871	Océanos	3	¿Qué fracción de la Tierra cubren los océanos?	Dos tercios	Un cuarto	Una mitad	Tres cuartos
+410828	Océanos	3	¿Qué significa la troposfera oceánica en lo que respecta al medio ambiente?	Capa inferior del océano	Aguas del hemisferio norte	Aguas del hemisferio sur	Capa superior del océano
+447756	Océanos	3	¿Cuántas parejas de barbas cortas y lisas tienen las ballenas grises adultas completamente maduras en la boca?	332	215	630	160
+447188	Océanos	3	¿Cuál es la altura máxima que puede crecer el coral cerebro?	Sesenta pies de altura	Dos pies de alto	Cien pies de alto	Seis pies de alto
+2K25544	Océanos	3	¿Cuál es la longitud promedio en pies de una ballena gris adulta?	25 - 30 pies	20 - 25 pies	60-80 pies	45 - 50 pies
+525904	Océanos	3	¿En qué cuerpo de agua se encuentra la "zona muerta" hipóxica más grande del mundo?	Mar Muerto	Mar Negro	océano Pacífico	Golfo de México
+447792	Océanos	3	¿Cuál de estas criaturas residiría en la zona abisal?	Calamar	Medusa	Tiburón ballena	Diente de colmillo
+400765	Océanos	3	¿Qué roca superficial comprende la mayor parte de la corteza terrestre en el área debajo de los océanos?	Granito	Caliza	Obsidiana	Basalto
+410817	Océanos	3	¿Cuál fue el objetivo del Proyecto Mohole?	Para documentar los cráteres de aguas profundas	Observar las trincheras de aguas profundas	Para recolectar petróleo de aguas profundas	Para perforar entre corteza y manto
+356451	Océanos	3	¿Las algas gigantes pueden crecer hasta qué altura por año?	200 pies	100 pies	500 pies	300 pies
+91440	Océanos	3	¿Cuál es la definición en español del término científico de alimentación de ballenas "bentónico"?	Oceánico	Parte superior	Agua fría	Fondo
+40118	Océanos	3	¿Cuál fue el mayor derrame de petróleo en términos de volumen en el siglo XX?	Exxon Valdez	Ixtoc I	Valle de Fergana	guerra del Golfo
+2K25400	Océanos	3	¿Más del 50% de todos los lagos del mundo se encuentran en qué país?	Estados Unidos	Rusia	Japón	Canadá
+350433	Océanos	3	¿El plancton reside en gran parte en qué parte del océano?	Zona de luz solar	Zona de hidraclorita	Zona de termoclina	Zona pelágica
+410880	Océanos	3	El término científico 'Physeter Macrocephalus' se utiliza para describir ¿cuál de las siguientes ballenas?	Orca	Ballena azul	Ballena gris	Ballena de esperma
+296951	Océanos	3	¿Cuál es el color de las glándulas grandes de un cangrejo de río que tienen funciones excretoras?	Azul	Amarillo	Negro	Verde
+15P1013	Océanos	3	¿Qué causa las corrientes oceánicas profundas?	Vientos	Dom	Hundimiento de agua caliente	Hundimiento de agua más fría
+2K25522	Océanos	3	¿La ballena beluga promedio crece hasta aproximadamente cuántos pies de largo cuando es adulta?	30 pies	45 pies	60 pies	15 pies
+410860	Océanos	3	La esperanza de vida promedio de un cachalote es aproximadamente ¿cuántos años?	100 años	50 años	200 años	70 años
+2K25448	Océanos	3	¿Cuándo se sumergió finalmente el Titanic?	11:30 PM del 13 de abril de 1912	12:40 AM del 15 de abril de 1913	2:20 AM el 14 de abril de 1912	2:20 AM del 15 de abril de 1912
+2K25480	Océanos	3	¿En qué mar desemboca el río más largo de Europa?	mar del Norte	mar Báltico	Mar de Irlanda	Mar Caspio
+511109	Océanos	3	¿Qué lago es el segundo más grande del mundo?	Lago Huron	Lago Erie	lago Michigan	El lago superior
+2K25408	Océanos	3	¿Qué comen los peces loro?	Medusa	Plancton	Loros	Algas
+90884	Océanos	3	¿Cuál de los siguientes no es un apodo para la ballena beluga?	Canario de mar	Sabueso de calamar	Marsopa blanca	Tapa de botella
+448219	Océanos	3	¿Cómo se llama el antiguo océano que rodeaba la masa terrestre de Pangea?	Pannotia	Rodina	Godwanna	Panthalassa
+2K25392	Océanos	3	¿Qué término científico se ajusta mejor a la definición de "una gran superficie cuyas aguas se drenan en un sistema fluvial principal"?	Log Jam	Precipitación	Exfoliar	Cuenca de drenaje
+355067	Océanos	3	¿En qué siglo descubrió Vitus Bering Alaska mientras exploraba lo que se convirtió en el estrecho de Bering?	16 °	17	19	18
+201771	Océanos	3	¿Dónde pone sus huevos el bagre marino hembra?	Bajo las rocas	En algas	En coral	En su boca
+180982	Océanos	3	¿Cuál es la distancia sobre el agua en la que las olas son generadas por un viento que tiene una dirección y velocidad bastante constantes?	Escarpa	Rompeolas	Deriva litoral	Fetch
+483860	Océanos	3	¿A cuál de las siguientes clasificaciones de mamíferos pertenecen las ballenas?	Diprotodoncia	Artiodactyla	Procellariformes	Cetáceos
+2K25438	Océanos	3	Para que una tormenta se llame huracán, ¿qué velocidad debe alcanzar el viento?	65 kilómetros por hora	140 kilómetros por hora	80 kilómetros por hora	119 Km / H
+477575	Océanos	3	¿Qué significa gradiente térmico oceánico?	Altura de las olas	Temperatura del suelo oceánico	Punto de ebullición del agua de mar	Diferencia de temperatura por profundidad
+410820	Océanos	3	¿Qué describe un SRN4?	La hélice más grande disponible	El registro de Lusitania	El número de la reina Isabel II	El aerodeslizador más grande del mundo
+365515	Océanos	3	¿Qué significa el océano Jápeto en lo que respecta al medio ambiente?	Región del Océano Índico	Región del Océano Atlántico	Océano helado	Océano prehistórico
+91404	Océanos	3	¿Cuáles de los siguientes alimentos son los más consumidos por los cachalotes?	Tiburón azul	Rayo de aguijón gigante	Atún de aleta amarilla	Calamar gigante
+181112	Océanos	3	¿Cuál de estos se considera el pez más pequeño del mundo?	Pez gobio	Platija	arenque	Infantfish robusto
+296950	Océanos	3	¿Cuáles son las placas duras en la parte posterior de los miembros de la familia Loricariidae también conocida como "Familia del bagre blindado"?	Yeguas	Remaches	Escudos	Escudos
+356468	Océanos	3	¿Cuántas de las chimeneas del Titanic se utilizaron para las calderas?	Cuatro	Uno	Dos	Tres
+76024	Océanos	3	¿Cuántos países se vieron afectados por el tsunami del Océano Índico de 2004?	8	17	15	11
+2K25546	Océanos	3	¿Cuál es el umbral mínimo para la profundidad de una operación en aguas profundas?	500 pies	1000 pies	2000 pies	1,500 pies
+410873	Océanos	3	¿Qué efecto tiene la absorción de las emisiones de CO2 en los océanos?	Caída de temperatura	Aumento de la deformidad de la vida silvestre	Pérdida de densidad	Acidificación oceánica
+352078	Océanos	3	¿La luz ya no llega al océano a partir de qué zona oceánica?	Zona Hadal	Zona Nerítica	Zona Eufótica	Zona abisal
+2K25498	Océanos	3	La vía marítima de St. Lawrence se inauguró en 1959 y permitió que los barcos transoceánicos llegaran a qué ciudad de Minnesota.	Bloomington	Minneapolis	Spring Valley	Duluth
+447825	Océanos	3	¿Cuál de estas zonas oceánicas permite la fotosíntesis?	Zona costera	Zona mesopelágica	Zona de planta	Zona epipelágica
+2K25496	Océanos	3	La esperanza de vida promedio de las ballenas beluga es aproximadamente ¿cuántos años?	40 - 50 años	50 - 80 años	80-100 años	25-30 años
+23369	Océanos	3	En lo que respecta a los océanos, ¿qué es la biorremediación?	Filtrar agua contaminada para beber	Extraer sal del agua del océano	Elimine el plancton para aumentar los alimentos	Microorganismo para limpiar la contaminación
+2K25550	Océanos	3	¿Aproximadamente cuánto tiempo puede permanecer un cachalote bajo el agua con una sola respiración?	24 horas	15 minutos	6 horas	2 horas
+410884	Océanos	3	¿Cuál de las siguientes ballenas está clasificada científicamente como "Eschrichltius Robustus"?	Ballenas orcas	Ballenas francas	Ballenas jorobadas	Ballenas grises
+2K25490	Océanos	3	¿Quién encabezó el equipo que descubrió los restos del Titanic?	Capitán Henry J. Renie	James Cameron	Walter Lord	Dr. Robert Ballard
+410874	Océanos	3	Steelhead es del mismo género y especie que otros peces?	Salmón Chinook	Esturión	Hipogloso	Trucha arcoiris
+349561	Océanos	3	¿En qué se diferencian las marsopas de los delfines?	Las marsopas comen pescado	Las marsopas viven en el océano	Las marsopas son mamíferos	Las marsopas son tímidas
+447568	Océanos	3	¿Cuál fue el registro del terremoto que provocó el tsunami del Océano Índico en 2004 en la escala de Richter?	9.5	7,9	8.2	9
+8675	Océanos	3	¿Qué porcentaje del océano es sal?	10 por ciento	97 por ciento	23 por ciento	3 por ciento
+2K25404	Océanos	3	A diferencia de la mayoría de los ríos, ¿en qué dirección fluyen generalmente los ríos en China?	Norte y sur	Oeste	norte	Este y oeste
+2K25206	Océanos	3	¿Cuántas cámaras tienen los corazones de los cachalotes?	3	2	6	4
+352233	Océanos	3	¿Cuál es el tercer tiburón más grande del mundo?	Tiburón ballena	Tiburón peregrino	Tiburon enano	Gran tiburón blanco
+2K25324	Océanos	3	¿Las tortugas marinas verdes pueden permanecer bajo el agua hasta cuántas horas?	8	2	12	5
+351471	Océanos	3	¿Cuál es el término para un lago que está permanentemente cubierto por hielo?	Endorreico	Meromíctico	Encogido	Subglacial
+251530	Océanos	3	¿Cómo se llama el tiempo que tarda una onda en pasar por un punto fijo?	Pase Wave	Relación de onda	Velocidad de onda	Periodo de onda
+49835	Océanos	3	¿La definición de "la superficie del océano" se ajusta mejor a cuál término de geografía?	Mapa topográfico	Líneas de flujo	Escala lineal	El nivel del mar
+2K25388	Océanos	3	¿Cuál es el nombre colectivo del grupo de cangrejos?	Una puntuacion	Una escuela	Un rebaño	Un molde
+29090	Océanos	3	¿Qué parte de las algas la sujeta al fondo del océano debajo de ella?	Raíz	Stipe	Espada	Retensión
+9349	Océanos	3	¿Los arrecifes de coral solo pueden sobrevivir entre cuál de estas temperaturas en grados Celsius?	15 y 25	32 y 39	40 y 43	25 y 29
+410891	Océanos	3	¿Cuál es uno de los apodos de la ballena piloto de aleta larga?	Ballena voladora	Ballena de nieve	Ballena de espinilla	Ballena marihuana
+410894	Océanos	3	¿Cuál de las siguientes es una característica única de las ballenas minke?	Cola pequeña	Aleta dorsal grande	Sin ranuras en la garganta	Banda blanca en cada aleta
+92199	Océanos	3	¿Qué barco estaba más cerca del Titanic cuando se hundió?	Carpatia	olímpico	británico	californiano
+181122	Océanos	3	¿El plan sancionado por el gobierno de hundir barcos para crear arrecifes se conoce como qué?	Plan Nacional de Arrecifes Artificiales	Programa Nacional de Gestión de Buques	Cascos a hábitats	Plataformas a arrecifes
+447554	Océanos	3	¿Qué porcentaje del volumen del océano se encuentra en zonas costeras?	5%	20%	35%	10%
+447869	Océanos	3	¿A qué profundidad comienza la zona abisal?	5,000 metros	30.000 metros	15.000 metros	10,000 metros
+2K25398	Océanos	3	Cuando el hielo del Océano Ártico se derrite, libera nutrientes y organismos al agua, lo que promueve el crecimiento de ¿qué?	Arrecifes	Anémonas de mar	Coral	Algas
+2K25450	Océanos	3	¿Cuántas libras pesa aproximadamente el corazón de una ballena azul adulta promedio?	700 libras	300 libras	500 libras	1000 libras
+391864	Océanos	3	¿Qué pez se pensó que estaba extinto hasta que fue redescubierto en el siglo XX?	Pez Dodo	Cisco de mandíbula larga	Lucioperca azul	Celacantos
+447643	Océanos	3	¿Quién recopiló las primeras estadísticas importantes sobre las corrientes eólicas y oceánicas?	Harrison Tyler	Benjamin Franklin	Thomas Jefferson	Matthew Maury
+352042	Océanos	3	¿La grasa de ballena sirve como qué propósito para la vida y el desarrollo del mamífero?	Alimentación e hidratación	Aerodinámica y maleabilidad	Flotabilidad y movilidad	Energía y aislamiento
+511112	Océanos	3	¿Qué significa el pez áspero en lo que respecta al medio ambiente?	Riesgo	Vaporizar	Sequía	Incomible
+410823	Océanos	3	¿Dónde se encuentra el arrecife French Frigate Shoals?	Columbia	Nueva Guinea	Australia	Islas hawaianas
+410862	Océanos	3	¿Qué pez conocido como danio rerio se usa comúnmente en la investigación?	Pez Beta	Pez de colores	Oscar	Pez cebra
+410865	Océanos	3	¿Hasta el 80% de los desechos marinos proviene de qué fuente?	Vertimiento industrial	Buques volcados	Bañistas derrochadores	Cuencas hidrográficas contaminadas
+410866	Océanos	3	¿Dónde está ubicado el Bar Reef?	México	Belice	Cuba	Sri Lanka
+70997	Océanos	3	¿Qué significa el nombre de las ballenas beluga en ruso?	demonio blanco	Pescado blanco	Aleta blanca	El blanco
+2K25272	Océanos	3	¿Cuántas cámaras tiene un corazón de pez?	1	4	3	2
+410890	Océanos	3	¿En qué año comenzó el Programa de perforación oceánica?	1973	1988	1979	1985
+2K25514	Océanos	3	¿Mauritania limita con qué océano?	Pacífico	indio	Ártico	atlántico
+94261	Océanos	3	¿Cuáles de las siguientes opciones utilizan las ballenas jorobadas para atrapar krill, plancton o peces pequeños como el arenque, la caballa, el capelán y la anguila de arena?	Aire	Presión del agua	Ondas sonoras	Burbujas
+352211	Océanos	3	¿Cuál es la gestación de una tortuga marina?	18-20 semanas	2-4 semanas	12-16 semanas	6-10 semanas
+410881	Océanos	3	La Fosa de las Marianas en el Océano Pacífico es el área más profunda conocida de los océanos de la Tierra, ¿aproximadamente cuántos metros?	1000 metros	20000 metros	5000 metros	11000 metros
+2K25390	Océanos	3	¿Qué no es una especie de barco?	Trimarán	Queche	Barrilete	Funicular
+410870	Océanos	3	¿Cuál de estas criaturas habitaría la zona batial?	Tiburón toro	arenque	Medusa	Calamar
+70828	Océanos	3	¿Qué le sucede a un pez dorado cuando se mantiene en la oscuridad?	Se vuelve ciego	Duerme	Muere	Se vuelve blanco
+23358	Océanos	3	¿Cuál es la longitud del mar Caspio?	3000 kilómetros	200 kilómetros	900 kilómetros	1,199 Kilómetros
+94254	Océanos	3	¿El estrecho de Bering lleva el nombre de qué explorador nacido en Dinamarca?	Magnus Bering	Titus Bering	Olaf Bering	Vitus Bering
+57479	Océanos	3	¿Cuántos motores tenía el Titanic?	Cuatro	Cinco	Dos	Tres
+2K25252	Océanos	3	¿Cuántos pies había en el Titanic de la quilla al puente?	100	92	96	104
+408944	Océanos	3	¿En qué año comenzó el Proyecto de perforación en aguas profundas?	1965	1962	1967	1964
+447178	Océanos	3	¿Qué come el atún rojo del Atlántico a una edad temprana?	Krill	Algas	Medusa	Zooplancton
+408927	Océanos	3	¿A quién se le atribuye ser el descubridor del Océano Pacífico?	Cortez	Colón	Eric el rojo	Balboa
+447288	Océanos	3	¿El consumo de mariscos crudos es una de las causas de cuál de las siguientes enfermedades?	H. Pylori	Malaria	Escarlatina	Cólera
+410829	Océanos	3	¿En qué año se propuso el Proyecto Mohole?	1967	1981	1972	1957
+281416	Océanos	3	¿Qué significa OPDS?	Sociedad de disuasión de la contaminación oceánica	Sistema de retención de contaminación oceánica	Sistema de perforación de petróleo en alta mar	Sistema de descarga de petróleo en alta mar
+9985	Océanos	3	Las ballenas beluga tienen dientes diseñados para agarrar y desgarrar a sus presas, ¿cuántos dientes tienen?	40 dientes	96 dientes	74 dientes	34 dientes
+2K25456	Océanos	3	Se sabe que la estrella de mar corona de espinas causa daño ¿a qué?	Buques	Nidos de tortugas marinas	Camarón	Los arrecifes de coral
+351467	Océanos	3	¿El único enemigo de la orca o ballena asesina es cuál de los siguientes depredadores?	Grandes tiburones blancos	Delfines	Osos polares	Seres humanos
+447254	Océanos	3	El delfín de Héctor es el delfín más pequeño del mundo y también el ¿qué?	Inteligente	Más grande	Común	Más raro
+2K25428	Océanos	3	¿Cuál es la velocidad más alta que se sabe que alcanzan los delfines?	160 kilómetros por hora	28 kilómetros por hora	32 kilómetros por hora	56 kilómetros por hora
+410877	Océanos	3	¿Cuánto tiempo le tomó a Colón cruzar el Atlántico?	200 días	365 dias	100 días	35 días
+2K25302	Océanos	3	Aproximadamente, ¿qué porcentaje del cuerpo de una medusa promedio es agua?	0.8	0,5	0,6	0,95
+9987	Océanos	3	¿Cuántos tipos diferentes de coral encontraría en la Barrera de Coral?	150	85	325	400
+529034	Océanos	3	¿Qué playa de las Islas Cook es famosa por sus lugares para bucear, pescar y hacer esnórquel?	playa Sur	Playa waikiki	Maya Bay	Aroa
+400979	Océanos	3	La convención OSPAR es breve para qué?	Protección y derechos de las ciencias oceánicas	Contaminación / Remediación de las Ciencias Oceánicas	Publicación y recuperación de servicios oceánicos	Oslo y paris
+374215	Océanos	3	¿En qué dirección fluyen la mayoría de las corrientes oceánicas en el ecuador?	Este	norte	Sur	Oeste
+448337	Océanos	3	¿Quién era el presidente de los Estados Unidos durante el desastre del Titanic?	Warren Harding	Woodrow Wilson	Herbert Hoover	William Taft
+394545	Océanos	3	¿Cuál de estos animales depende de las corrientes oceánicas para moverse?	Estrella de mar	Acial	Cangrejos	Medusa
+346853	Océanos	3	El pez globo y el pez cofre son mortales para los humanos debido a la presencia de qué veneno en su piel y órganos.	Grammistin	Ciguatera	Ribovenom	Tetrodotoxina
+189790	Océanos	3	¿El apetito de pescado de qué país está agotando los recursos en otras áreas?	China	Sudáfrica	Australia	Japón
+400234	Océanos	3	¿En qué océano se encuentra el mar de los Sargazos?	Ártico	indio	Pacífico	atlántico
+2K25488	Océanos	3	¿Qué es una unidad común de profundidad en el océano?	Floral	Incubación	Uranio	Braza
+350064	Océanos	3	¿Cuál de las siguientes es la más pequeña de las especies de ballenas barbadas?	Ballena cabeza de botella	Ballena	Delfín del pacífico	Ballena minke
+369550	Océanos	3	¿Cuál es otro nombre para el delfín girador?	Delfín de Risso	Delfín de Irrawaddy	Delfín nariz de botella	Delfín de hocico largo
+529195	Océanos	3	¿Cuál de las siguientes opciones no tienen los cachalotes en su cuerpo?	Jorobas	Aletas de cola	Aletas	Picos en forma de V
+406082	Océanos	3	¿A qué se refieren a veces las langostas a las que les faltan garras?	Braccens	Almejas	Slams	Sacrificios
+2K25410	Océanos	3	¿A qué profundidad puede que necesite ir para ver un tiburón volador en el océano?	500 pies	2,500 pies	1,000 pies	5,000 pies
+294745	Océanos	3	¿El delfín de Fraser también se llama con qué nombre?	Pastillero delfín	Delfín de mentón negro	Beas delfín	Delfín de Sarawak
+2K25420	Océanos	3	¿Qué tipo de animal marino depende del movimiento del agua para obtener alimento?	Alimentador de horno	Alimentador solar	Alimentador lunar	Alimentador de filtro
+2K25492	Océanos	3	¿En qué continente se encuentra el río más largo del mundo?	Sudamerica	Asia	Norteamérica	África

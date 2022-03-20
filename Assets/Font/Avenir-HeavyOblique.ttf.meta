@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 684d84c8d95545c5a4385778799485de
+timeCreated: 1647776348
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Avenir-HeavyOblique"
+  fontNames:
+  - Avenir
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

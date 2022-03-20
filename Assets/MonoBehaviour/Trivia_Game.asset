@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c686d4844a5a0034d6342620d6d1093, type: 3}
+  m_Name: "Trivia_Game"
+  m_EditorClassIdentifier: 
+  vip_email: 
+  termsOfServiceURL: "https:\x2f\x2fsuperfree.com\x2fterms-of-service\x2f"
+  privacyPolicyUrl: "https:\x2f\x2fsuperfree.com\x2fprivacy-policy\x2f"
+  facebookRecommenderUrl: "http:\x2f\x2ftrivia.superluckycasino.com"
+  recommenderUrl: "trivia.superluckycasino.com"
+  adjustInviteUrl: "https:\x2f\x2fapp.adjust.com"
+  twitterInviteURL: "defualtURL"
+  facebookViralText: "Play Over 1000+ Levels! "
+  twitterViralText: "Play Over 1000+ Levels! "
+  pinterestViralText: "Play Over 1000+ Levels! "
+  smsViralText: "Play Over 1000+ Levels! "
+  emailSubjectViralText: "Check out this awesome game!"
+  emailBodyViralText: "Play Over 1000+ Levels! "
+  appIndexDescription: 
+  socialEnabled: 0
+  themesEnabled: 1
+  allowedThemes: 01000000

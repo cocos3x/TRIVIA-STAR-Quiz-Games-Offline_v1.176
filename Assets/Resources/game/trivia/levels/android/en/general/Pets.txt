@@ -1,0 +1,640 @@
+611FTUX84	Pets	0	A dog wags his tail to show that he is what?	Angry	Tired	Scared	Happy
+0DIF300	Pets	0	Which pet doesn't lay eggs?	Snake	Fish	Bird	Rabbit
+0DIF289	Pets	0	What is the most common trick that a pet dog performs?	Attack	Roll over	Tap Dancing	Sit
+611FTUX83	Pets	0	Which dog breed is known to pull sleds?	Whippet	Chihuahua	Corgi	Husky
+611FTUX103	Pets	0	What type of pet is a Siamese?	Bird	Ferret	Rat	Cat
+611FTUX77	Pets	0	Which of these pet birds can mimic human speech?	Canary	Owl	Finch	Parrot
+611FTUX73	Pets	0	Which is not a breed of cat?	Munchkin	Persian	Siamese	Labrador
+0DIF298	Pets	1	Normal adult dogs have how many teeth?	10	14	22	42
+0DIF299	Pets	1	Puppies are delivered how many weeks after conception?	36	30	18	9
+611FTUX95	Pets	0	Which of the following is a pet snake breed?	Maine Coon	Robo	Whippet	Corn
+0DIF296	Pets	0	Which pet can jump as much as six times its height?	Gerbil	Hamster	Dog	Cat
+611FTUX88	Pets	0	Which of the following is NOT true about pet chinchillas?	They take dust baths	Their teeth constantly grow	They are herbivores	They are good swimmers
+611FTUX85	Pets	0	Which of the following does a pet snake eat?	Bread	Crickets	Lettuce	Mice
+611FTUX65	Pets	0	What is a common requirement for having dogs in public?	They are muzzled	They are clothed	They are coned	They are leashed
+611FTUX108	Pets	0	Which of the following is NOT a vaccine given to dogs?	Rabies	Bordatella	Parvovirus	Maniaway
+0DIF292	Pets	0	Dogs belong to the same family as which of the following animals?	Hamsters	Deer	Bears	Wolves
+611FTUX110	Pets	0	What type of pet is a Boxer?	Lizard	Ferret	Rat	Dog
+611FTUX62	Pets	0	Which pet would require a heated enclosure?	Rat	Parrot	Hamster	Snake
+611FTUX91	Pets	0	What do pet horses need to stay healthy?	Regular exercise	Hoof maintenance	Shelter from the sun	All of these
+611FTUX70	Pets	0	A "blep" is an animal doing what?	Running	Eating	Sleeping	Sticking their tongue out
+611FTUX78	Pets	0	Which breed of dog among these is the largest?	French Bulldog	Chihuahua	Yorkshire Terrier	Bull Mastiff
+611FTUX63	Pets	0	Which is a major pet food manufacturer?	Green Goose	Orange Ocelot	Red Rodent	Blue Buffalo
+611FTUX104	Pets	0	Dwarf, Russian, Robo and Syrian are types of pet what?	Birds	Dogs	Cats	Hamsters
+0DIF295	Pets	0	Which pet has the capability to live more than 75 years?	Doberman	Siamese cat	Hamster	Cockatoo
+611FTUX99	Pets	0	What type of pet is a Neon Tetra?	Turtle	Rat	Hamster	Fish
+611FTUX105	Pets	0	What type of pet is a Cockatiel?	Mouse	Spider	Gecko	Bird
+0DIF291	Pets	0	What is a baby mouse called?	Mini mouse	Petite	Kid	Pinky
+611FTUX100	Pets	0	What type of pet is a Red-Eared Slider?	Hedgehog	Cat	Dog	Turtle
+611FTUX90	Pets	0	Why are male betta fish kept separated?	They can't grow together	They won't eat with the other near	They secrete toxins	They would fight each other
+611FTUX106	Pets	0	What would you feed a pet rabbit?	Carrots	Lettuce	Hay	All of these
+0DIF284	Pets	0	Which of the following is not considered a "toy" dog?	Yorkshire terrier	Pug	Maltese	Pit bull
+0DIF281	Pets	0	Which pet has been known as man's best friend?	Cat	Snake	Bird	Dog
+611FTUX71	Pets	0	If you were to "boop" an animal's "snoot", what would you be touching?	Paws	Legs	Belly	Nose/Snout
+611FTUX69	Pets	0	Dogs pant to release heat because they are unable to:	Sleep	Run	Drink water	Sweat
+0DIF282	Pets	0	Which of the following snakes is allowed as a pet in the United States?	Black mamba	Death adder	King cobra	Ball python
+611FTUX107	Pets	0	Which of the following would upset a dog's stomach?	Apples	Cucumbers	Carrots	Onions
+611FTUX87	Pets	0	What is the average lifespan of a hamster?	30-35 years	10-11 years	6-8 months	2-3 years
+611FTUX98	Pets	0	What type of pet is a Corgi?	Snake	Cat	Ferret	Dog
+611FTUX86	Pets	0	Which of the following is a common pet snake?	Rattlesnake	Black Mamba	Inland Taipan	Corn Snake
+0DIF293	Pets	0	Which animal likes to take dust baths?	Dog	Snake	Lizard	Chinchilla
+611FTUX66	Pets	0	Bob Barker would ask that you help control the pet population, and have your pet:	De-clawed	Kept away from other pets	Forced to stay indoors	Spayed or neutered
+0DIF286	Pets	0	Which of the follwing pets is not primarily nocturnal?	Hamster	Cat	Rat	Dog
+0DIF283	Pets	0	How does a dog release heat from its body?	Sneezing	Sweating from ears	Sweating from torso	Panting
+611FTUX68	Pets	0	Cats are more active at night, meaning they are:	Ambidextrous	Lazy	Irresponsible	Nocturnal
+611FTUX74	Pets	0	Where would one take a pet dog or cat to stay while the humans go on vacation?	Resort	Shelter	Hotel	Kennel
+611FTUX64	Pets	0	Which is a healthy behavior for cats?	Hairballs	Panting	Yowling	Sharpening their claws
+611FTUX97	Pets	0	What type of pet is a Greyhound?	Rabbit	Turtle	Cat	Dog
+611FTUX94	Pets	0	Which of the following pets is a reptile?	Chinchilla	Fish	Frog	Bearded Dragon
+611FTUX76	Pets	0	Among these, which pet is an herbivore?	Snake	Dog	Cat	Rabbit
+611FTUX79	Pets	0	Which of these pets has the most legs?	Snake	Dog	Fish	Tarantula
+611FTUX81	Pets	0	Which animal is best kept in a cage?	Fish	Cat	Dog	Guinea Pig
+611FTUX89	Pets	0	Which of the following is true about a ferret?	They can grow 4 feet long	They have scales	They are blind and deaf	They belong to the weasel family
+611FTUX75	Pets	0	What is not a way that a cat shows affection?	Purring	Kneading their paws	Rubbing	Lowering their ears
+611FTUX67	Pets	0	Which of these is a bad treat for a dog?	Peanut Butter	Pumpkin	Salmon	Chocolate
+611FTUX82	Pets	0	Cats and dogs are given what common vaccine?	Polio	MMR	Tetanus	Rabies
+611FTUX96	Pets	0	Which of the following fish is NOT kept as a pet?	Betta	Clownfish	Neon Tetra	Angler
+611FTUX80	Pets	0	What do cats require that most other pets dont?	Space to exercise	Dry place to sleep	Meat in their diet	Litter box
+611FTUX109	Pets	0	What type of pet is a Chihuahua?	Hamster	Rat	Cat	Dog
+0DIF294	Pets	0	Which of the following dogs has short legs and is known for herding cattle?	Golden Retriever	Doberman	Labrador	Corgi
+611FTUX92	Pets	0	What would you feed a pet lizard?	Mayonnaise	Tofu	Mice	Crickets
+0DIF287	Pets	0	What color are a cat's eyes when it is born?	Purple	Green	Orange	Blue
+0DIF285	Pets	0	What is a dog's most powerful sense?	Touch	Sight	Fashion	Smell
+611FTUX93	Pets	0	Which of the following pets is a rodent?	Dog	Turtle	Lizard	Gerbil
+611FTUX102	Pets	0	What type of pet is a Scottish Fold?	Hamster	Snake	Fish	Cat
+611FTUX72	Pets	0	Betta and Tetra are what kind of pet you'd find in a tank?	Frogs	Snakes	Lizards	Fish
+D0TRV32901	Pets	0	What was Ash Ketchum's first pokemon pet in the cartoon series?	Pidgey	Mewtwo	Magikarp	Pikachu
+D0TRV32902	Pets	0	In the U.S., what organization is known for rescuing pets from cruelty?	U.S. Fish and Wildlife service	ATF	FBI	ASPCA
+D0TRV32903	Pets	0	Which is a breed of cats?	Poodle	Capybara	Hedgehog	Siberian
+D0TRV32904	Pets	0	What is commonly used to aerate fish tanks?	Lamps	Hair Dryer	Dry Ice	Air Pumps
+D0TRV32905	Pets	0	What sound do cats commonly make when they are content?	Growl	Whining	Hiss	Purring
+D0TRV32906	Pets	0	According to superstition, what color cat may bring bad luck?	White	Blue	Orange	Black
+D0TRV32907	Pets	0	What popular cartoon series had "pocket monsters" captured as pets and trained to battle?	SpongeBob Squarepants	Adventure Time	Voltron	Pokemon
+D0TRV32908	Pets	0	What common pet can run up walls and ceilings?	Dogs	Snakes	Rabbits	Geckos
+D0TRV32909	Pets	0	What is commonly fed to pet tarantulas?	Steak	Corn	Apples	Crickets
+D0TRV32910	Pets	0	In the cartoon Phineas and Ferb, what animal was the family pet?	Hampster	Black Widow	Goldfish	Platypus
+D0TRV32911	Pets	0	When duck hunting, which dog breed is often used to retrieve fallen ducks?	Beagle	Labrador Retriever	Golden Retriever	All of these
+D0TRV32912	Pets	0	What pet is commonly kept in a hutch?	Horses	Ants	Gold fish	Rabbit
+D0TRV32913	Pets	0	What breed was Jonny Quest's dog?	Great Dane	Golden Retriever	Basset Hound	Bulldog
+D0TRV32914	Pets	0	What kind of pet is a Flemish Giant?	Bird	Cat	Dog	Rabbit
+D0TRV32915	Pets	0	Which is NOT a breed of dogs?	Papillon	English Mastiff	Welsh Terrier	Manx
+D0TRV32916	Pets	0	What do most cats dislike?	Eating	Warmth	Catnip	Baths
+D0TRV32917	Pets	0	Which pet sheds fur?	Cats	Rabbits	Dogs	All of these
+D0TRV32918	Pets	0	What exotic pet is the smallest canid species?	Sugar Glider	Hedgehog	Capybaras	Fennec fox
+D0TRV32919	Pets	0	In the past, which bird was taken into coal mines as a carbon monoxide detector?	Eagles	Myna Birds	Zebra finches	Canaries
+D0TRV32920	Pets	0	Which animal is closely associated with witches?	Dogs	Horses	Ants	Cats
+D0TRV32921	Pets	0	What type of pet is a Green Chromis?	Hamster	Cat	Dog	Fish
+D0TRV32922	Pets	0	What color was Eek the cat in their cartoons?	White	Black	Brown	Purple
+D0TRV32923	Pets	0	Which pet is commonly taken for walks?	Gecko	Tarantula	Snake	Dog
+D0TRV32924	Pets	0	What common pet species can also be used refer to a "human test subject"?	Dodo bird	Turtle	Ferret	Guinea pig
+D0TRV32925	Pets	0	In the story of the Wizard of Oz, what was Dorothy's pet dog named?	Kansas	Wicked Witch of the East	Tin Man	Toto
+D0TRV32926	Pets	0	Who was Charlie Brown's famous pet dog?	Pig-Pen	Lucy	Linus	Snoopy
+D0TRV32927	Pets	0	Which pet sheds its skin to grow?	Horses	Macaws	Frogs	Tarantulas
+D0TRV32928	Pets	0	Which old TV show starred a talking horse?	Leave It To Beaver	Flipper	National Velvet	Mister Ed
+D0TRV32929	Pets	0	Which is a breed of dogs?	Blue Tang	Caiques	Sugar Glider	Labrador Retriever
+D0TRV32930	Pets	0	What are animal doctors called?	Psychiatrist	Doolittles	Chiropractor	Veterinarians
+D0TRV32931	Pets	0	In the animated show the Simpson's, what was the family cat named?	Chloe	Hawkeye	Selina	Snowball
+D0TRV32932	Pets	0	What kind of pet was mainly featured on the TV show, Flipper?	Kangaroo	Frog	Sugar Glider	Dolphin
+D0TRV32933	Pets	0	What color was Snoopy?	Brown	Orange	Yellow	Black and White
+D0TRV32934	Pets	0	What do bee keepers often use to help calm or confuse bee's while harvesting honey?	Singing	Bright lights	Flower bouquet	Smoker
+D0TRV32935	Pets	0	In the Looney Tunes cartoons, which pet is named Sylvester?	Dog	Canary	Rooster	Cat
+D0TRV32936	Pets	0	What sound do dogs commonly make when they need or want something?	None (silence)	Meow	Growl	Whining
+D0TRV32937	Pets	0	Which pet can climb trees and is sometimes rescued out of them?	Turtles	Pygmy Goats	Rabbits	Cats
+D0TRV32938	Pets	0	What kind of pet is a Yellow-bellied Slider?	Snake	Bird	Dog	Turtle
+D0TRV32939	Pets	0	Which animal can make hissing sounds?	Snakes	Cats	Opossum	All of these
+D0TRV32940	Pets	0	In the cartoon Adventure Time, what was Finn's dog named?	Bubblegum	Marceline	Lumpy	Jake
+D0TRV32941	Pets	0	In the Flintstones cartoon, what was Fred's pet dinosaur named?	Steggy	Tops	Bronto	Dino
+D0TRV32942	Pets	0	In the animated show Family Guy, what was the family dog named?	Rex	Wolfgang	Fido	Brian
+D0TRV32943	Pets	0	Which of these pets can see better than the others in the dark?	Dog	Parrot	Hamster	Cat
+D0TRV32944	Pets	0	What Stephen King book starred a dangerous dog with rabies?	The Grey	Reservoir Dogs	The Pack	Cujo
+D0TRV32945	Pets	0	What should NOT be fed to dogs?	White Rice	Broccoli	Oranges	Chicken bones
+D0TRV32946	Pets	0	From which country did Siamese cats come from?	Ireland	Brazil	Morocco	Thailand
+D0TRV32947	Pets	0	In Australia, what kind of feral pet is threatening native species?	Parrot	Turtle	Tarantula	Cat
+D0TRV32948	Pets	0	Which animal makes a neighing sound?	Skunks	Bees	Dogs	Horses
+D0TRV32949	Pets	0	What are adult female horses called?	Matrons	Ewes	Sows	Mares
+D0TRV32950	Pets	0	What colorful fish is commonly sold in pet stores?	Flounder	Tuna	Salmon	Goldfish
+D0TRV32951	Pets	0	What is the name of the dog Garfield was annoyed by?	Balto	Rin Tin Tin	Benji	Odie
+D0TRV32952	Pets	0	What fairy creature from Celtic mythology resembles a black cat with a white chest spot?	Kelpie	Shellycoat	Ghillie Dhu	Cat-sith
+D0TRV32953	Pets	0	Which country first began breeding Koi as colorful pets?	Australia	Russia	Egypt	Japan
+D0TRV32954	Pets	0	What kind of pet is said to "always land on their feet"?	Gerbil	Snake	Pot bellied pigs	Cat
+D0TRV32955	Pets	0	What color was Perry the platypus from Phineas and Ferb?	Brown	Orange	Yellow	Bluish Green
+D0TRV32956	Pets	0	What should NOT be fed to cats?	Alcohol	Onion	Garlic	All of these
+D0TRV32957	Pets	0	What kind of pet is a Pug?	Fish	Monkey	Turtle	Dog
+D0TRV32958	Pets	0	In Blue's Clues, what animal is Blue?	Cat	Skunk	Parrot	Dog
+D0TRV32959	Pets	0	In the film "Best in Show", what kind of competion is held?	Cat show	Rabbit show	Guinea pig show	Dog show
+D0TRV32960	Pets	0	In the cartoon the Jetson's, what was the family dog named?	Joker	Thanos	Hannibal	Astro
+D0TRV32961	Pets	0	In the film, the Nightmare Before Christmas, what was Jack's dog's named?	Fido	Anubis	Lupus	Zero
+D0TRV32962	Pets	0	From the Ren and Stimpy cartoons, what dog breed was Ren?	French Bulldog	Mastiff	Portuguese Water Dog	Chihuahua
+D0TRV32963	Pets	0	Which bird is common in the practice of falconry?	Peregrine falcon	Red-tailed Hawk	Harris's hawk	All of these
+D0TRV32964	Pets	0	What kind of pet is a Maine Coon?	Dog	Rat	Beetle	Cat
+D0TRV32965	Pets	0	What are dogs trained to assist blind people called?	Golden dogs	Super dogs	Butler dogs	Seeing eye dogs
+D0TRV32966	Pets	0	What is a baby horse called?	Fawn	Kid	Pup	Foal
+D0TRV32967	Pets	0	According to a common phrase, how many lives are cats said to have?	18	5	21	9
+D0TRV32968	Pets	0	What popular pet bird has a red spot on each side of their face?	Parakeet	Grey Parrot	Quaker Parrot	Cockatiel
+D0TRV32969	Pets	0	Which cat breed is hairless?	Turkish Angora	Norwegian Forest Cat	Ocicat	Sphynx
+D0TRV32970	Pets	0	What cat breed is a hybrid of a domestic cat and a serval?	Persian	Abyssinian	Russian Blue	Savannah
+D0TRV32971	Pets	0	Which pet sheds its skin to grow?	Guppies	Capybara	Maine Coon	California Kingsnake
+D0TRV32972	Pets	0	In which movie did dead pets return to "life"?	Born Free	Charlotte's Web	Babe	Pet Cemetery
+D0TRV32973	Pets	0	Which country first began breeding goldfish as colorful pets?	Fiji	Iceland	South Africa	China
+D0TRV32974	Pets	0	Which film starred pet dogs?	Stuart Little	Meet the Parents	Bird Box	Where the Red Fern Grows
+D0TRV32975	Pets	0	What colors appear on scarlet macaw parrots?	Red	Yellow	Blue	All of these
+D0TRV32976	Pets	0	What kind of pet is an Beagle?	Cat	Bird	Hamster	Dog
+D0TRV32977	Pets	0	In a popular childrens' book series, what was the big red dog named?	Copper	Ramona	Devo	Clifford
+D0TRV32978	Pets	0	In comic books, what was the name of Superman's pet dog?	Wally	Rex	Duke	Krypto
+D0TRV32979	Pets	0	What kind of pet is a Ragdoll?	Pot bellied pig	Fish	Llama	Cat
+D0TRV32980	Pets	0	In the King of the Hill cartoon, what was Hank's dog named?	Fido	Boomhauer	Dale	Ladybird
+D0TRV32981	Pets	0	What type of pet is a Havanese?	Hermit Crab	Bird	Lizard	Dog
+D0TRV32982	Pets	0	Which is a pet bird breed?	Pomeranian	Green Mandarin Goby	Leopard Gecko	Ring-necked Parakeet
+D0TRV32983	Pets	0	What pet did farmers commonly keep to help keep mice/rats away?	Hares	Deers	Pidgeons	Cats
+D0TRV32984	Pets	0	In Japan, what is a popular type of pet insect?	Dragonfly	Rhinoceros Beetle	Firefly	All of these
+D0TRV32985	Pets	0	What type of pet is a Japanese Bobtail?	Fish	Snake	Bird	Cat
+D0TRV32986	Pets	0	What animal is depicted by Maneki-neko, a mostly white figurine often near Asian business entrances?	Dog	Gold fish	Frog	Cat
+D0TRV32987	Pets	0	In the cartoon Inspector Gadget, what was Dr. Claw's cat named?	Murdock	Smelly Cat	Andy	MAD Cat
+D0TRV32988	Pets	0	In the Wallace and Gromit animations, what was the dog named?	Wallace	Shaun	Victor	Gromit
+D0TRV32989	Pets	0	Which is a pet reptile breed?	Longnose Butterfly	King Charles Spaniel	Great Dane	Chameleon
+D0TRV32990	Pets	0	In the animated show Futurama, what was Leela's pet alien named?	Optimus	Alf	Kal-El	Nibbler
+D0TRV32991	Pets	0	In the film All Dogs go to Heaven, what breed was Charlie?	Basset Hound	Pug	Dachshund	German Shepard
+D0TRV32992	Pets	0	What pet can often be seen licking their eye ball?	Cats	Gerbils	Horses	Geckos
+D0TRV32993	Pets	0	How many of Lady Gaga's French Bulldogs were stolen in 2021?	6	9	4	2
+D0TRV32994	Pets	0	What color was Courage the cowardly dog in their cartoons?	White	Blue	Green	Pink
+D0TRV32995	Pets	0	What rodent is successfully being trained to detect land mines?	Capybaras	Pot bellied pigs	Rabbits	Rats
+D0TRV32996	Pets	0	Which pet sheds fur?	Red-footed Tortoise	Cricket	Rosellas	Bloodhound
+D0TRV32997	Pets	0	In the cartoon Inspector Gadget, what was Penny's dog named?	Face	Mason	Drake	Brain
+D0TRV32998	Pets	0	Which pet became famous for looking unhappy?	Nala Cat	Jiff the Pomeranian	Doug the Pug	Grumpy Cat
+D0TRV32999	Pets	0	What kind of pet is a Netherland dwarf?	Fennec fox	Snake	Turtle	Rabbit
+D0TRV321000	Pets	0	According to a common phrase, to what can't you teach new tricks?	Puppies	Monkeys	Parrots	Old dogs
+D0TRV321001	Pets	0	In the Jonny Quest cartoon, what was Jonny's dog named?	Race	Bruce	Mr. Peabody	Bandit
+D0TRV321002	Pets	0	What pet fish is endangering coral reefs and native fish in the Caribbean and US gulf/east coast?	Koi	Goldfish	Clownfish	Lionfish
+D0TRV321003	Pets	0	Which cat breed has very short legs?	Maine Coon	Scottish Fold	Russian Blue	Munchkin
+D0TRV321004	Pets	0	In the Austin Powers films, what was Dr. Evil's cat named?	Mrs. Fields	Harry	Salem	Mr. Bigglesworth
+D0TRV321005	Pets	0	In the Game of Thrones series, what pets did the Stark children have?	Lions	Eagles	Dragons	Direwolves
+D0TRV321006	Pets	0	Which is NOT a breed of cats?	Bengal	Chartreux	Devon Rex	Shiba Inu
+D0TRV321007	Pets	0	On the TV show Friends, what was Ross' pet monkey named?	Abu	Bubbles	Amy	Marcel
+D0TRV321008	Pets	0	In the Avatar: The Last Airbender cartoon series, what pet did Ang ride?	Fire Whale	Earth Phoenix	Water Dragon	Sky Bison
+D0TRV321009	Pets	0	What environment do many salt water fish tanks try to emulate?	Swamp	Volcanic vent	Arctic seabed	Coral Reef
+D0TRV321010	Pets	0	What animal was Michael Jackson's pet, Bubbles?	Horse	Sugar Glider	Frog	Chimpanzee
+D0TRV321011	Pets	0	What color was the Simpson's cat, Snowball?	Brown	Orange	Yellow	Black
+D0TRV321012	Pets	0	Which pet has retractable claws?	Dogs	Parrots	Sloth	Cats
+D0TRV321013	Pets	0	What dog breed gained notariety from the Marmaduke comic strip?	Cocker Spaniel	Pit Bull	Thai Ridgeback	Great Dane
+D0TRV321014	Pets	0	From which continent did Guinea pigs originate?	Europe	Antarctica	Australia	South America
+D0TRV321015	Pets	0	What type of snake is not venomous, and strangles its prey instead?	Cobra	Moccasin	Rattlesnake	Python
+D0TRV321016	Pets	0	What pet needs certain kinds of lamps to survive in-doors?	Dog	Cat	Rat	Turtles
+D0TRV321017	Pets	0	Which pet is often used in search and rescue teams?	Pigeons	Miniature Donkeys	Cats	Dogs
+D0TRV321018	Pets	0	What type of pet is a Copperband Butterfly?	Bird	Cat	Dog	Fish
+D0TRV321019	Pets	0	What color was Garfield the cat?	Black	White	Grey	Orange
+D0TRV321020	Pets	0	What color was Scooby-Doo?	Green	Red	White	Brown and Black
+D0TRV321021	Pets	0	Which animal has a forked tongue?	Rabbits	Cats	Dogs	Snakes
+D0TRV321022	Pets	0	What is usually removed from pet skunks?	Fangs	Claws	Horn	Scent glands
+D0TRV321023	Pets	0	What color was Catdog in their cartoons?	Purple	Black and White	Green	Orange and Brown
+D0TRV321024	Pets	0	Which dog breed is commonly associated with fire stations?	Chihuahua	Chow Chow	Jindo	Dalmatians
+D0TRV321025	Pets	0	What kind of pet is a Dachshund?	Hedgehog	Bird	Fish	Dog
+D0TRV321026	Pets	0	What kind of pet was featured in a book, and in films as Black Beauty?	Spotted Genet	Tarantula	Raven	Horse
+D0TRV321027	Pets	0	What was Harry Potter's pet owl named?	Olaf	Henry	Hooty	Hedwig
+D0TRV321028	Pets	0	Which pet bird is popular for it's singing?	Crow	Chicken	Ostrich	Canaries
+D0TRV321029	Pets	0	In multiple countries around the world, what pet bird breed is trained to race?	Ostrich	Canary	Owl	Pigeons
+D0TRV321030	Pets	0	In the film Bolt, what dog breed was Bolt?	Russian Toy	Poodle	Newfoundland	White Shepard
+D0TRV321031	Pets	0	Which is NOT a breed of dogs?	Rottweiler	Shih Tzu	Newfoundland	Budgie
+D0TRV321032	Pets	0	What are pet garter snakes commonly fed?	Milk	Fruits	Bread	Mice
+D0TRV321033	Pets	0	What kind of pet animal did SpongeBob have?	Eagle	Elephant	Lion	Snail
+D0TRV321034	Pets	0	What type of dog was bred for racing or chasing game?	Basset hound	Bulldog	Chihuahua	Greyhounds
+D0TRV321035	Pets	0	What color was Micky's dog Pluto?	Red	White	Black	Orange
+D0TRV321036	Pets	0	Which film starred a pet dog?	Paddington	Curious George	Free Willy	Old Yeller
+D0TRV321037	Pets	0	What kind of pet is a Ragamuffin?	Dog	Fish	Rabbit	Cat
+D0TRV321038	Pets	0	Which U.S. state has an issue with escaped/unwanted pythons in the wild?	Washington	Arizona	North Dakota	Florida
+D0TRV321039	Pets	0	Which animal is NOT included in the Chinese zodiac?	Dog	Rabbit	Monkey	House cat
+D0TRV321040	Pets	0	In the animated show the Simpson's, what was the family dog named?	Bug	Elf	Socks	Santa's Little Helper
+D0TRV321041	Pets	0	What animals are playing poker in some kitsch paintings/posters?	Parrots	Chickens	Rabbits	Dogs
+D0TRV321042	Pets	0	What breed of dog starred in the film Beethoven?	Yorkshire Terrier	Greyhound	German Shepard	St. Bernard
+D0TRV321043	Pets	0	On the TV show Frasier, what was Frasier's dog named?	Niles	Odie	Daphne	Eddie
+D0TRV321044	Pets	0	What kind of pet is a Holland lop?	Capybara	Dog	Miniature Donkey	Rabbit
+D0TRV321045	Pets	0	What type of pet is a Blue Damsel?	Turtle	Cat	Dog	Fish
+D0TRV321046	Pets	0	What kind of pet are Mollies?	Newt	Snake	Bird	Fish
+D0TRV321047	Pets	0	Which is a type of fish?	Blue Tongued Skink	Scottish Terrier	Saint Bernard	Dog Face Puffer
+D0TRV321048	Pets	0	What kind of pet are Macaws?	Cats	Capybaras	Snakes	Parrots
+D0TRV321049	Pets	0	What reptile pet appears to have something resembling "eyelashes"?	Spotted Turtle	Green Tree Python	Caiques	Crested Gecko
+D0TRV321050	Pets	0	In the popular comic strip Calvin and Hobbes, what kind of animal was Hobbes?	Owl	Cow	Jellyfish	Tiger
+476320	Pets	1	How long have cats been domesticated?	Less Than 500 Years	15 Years	950 Years	More Than 5,000 Years
+476271	Pets	1	What "designer dog" is a cross between a Beagle and a Pug?	BeePee	Buggle	Boggle	Puggle
+476018	Pets	1	What cat behavior performed by cats is a comfort behavior?	Purring	Sleeping	Rolling	Kneading
+475984	Pets	1	As a nocturnal predator, what attribute aids the cat in its night-time hunt?	Sharp Retractable Claws	Large Ears	Long Fluffy Fur	Ability To See In Near Darkness
+475902	Pets	1	What is the name of the overweight cat from the TV show "Glee"?	Prince Eddie	Queenie	Cotton	Lord Tubbington
+476497	Pets	1	What was the name of the cat that appeared in the movie "Men in Black"?	Saturn	Moon	Cottonball	Orion
+476469	Pets	1	Which of these is not a domesticated dog?	Newfoundland	Australian Cattle Dog	Hairless Chihuahua	African Wild Dog
+475840	Pets	1	What is a cat getting ready to do when it's crouched and wiggling its rear end?	Sleep	Eat	Play	Pounce
+476300	Pets	1	What is the name of an immature cat?	Baby	Kitty	Susie	Kitten
+476316	Pets	1	What dog has been included in 4000-year old cave drawings in Northern Afghanistan?	Cocker Spaniel	Doberman	Boxer	Afghan Hound
+475978	Pets	1	In the Tom and Jerry cartoon series, which character was the cat?	Jerry	Frank	Steve	Tom
+476425	Pets	1	What is the scientific name for the domesticated house cat?	Carnivorous Feline	Feline Mammal	Domesticated Felis	Felis Catus
+476301	Pets	1	What is the name of the cat in a famous French fairy tale?	Kitty In Socks	Cats With Bats	Feline Friends	Puss In Boots
+476474	Pets	1	What is the most common method of communication in cats?	Screaming	Growling	Coughing	Purring
+476251	Pets	1	What color is the West Highland White Terrier?	Black	Fawn	Apricot	White
+476237	Pets	1	What is the typical weight of a domesticated cat?	25 Lbs.	5 Lbs.	30 Lbs.	8 To 11 Lbs.
+475942	Pets	1	Because the Afghan hunts primarily by sight rather than scent, in what hound category is it placed?	Scenthound	Bloodhound	Visionator	Sighthound
+476409	Pets	1	What would be the best toys for a cat?	Sticks	Hands And/or Fingers	Beach Balls	Toys That Jump Or Dance Around
+475958	Pets	1	Where did the Rhodesian Ridgeback originate?	China	Russia	Japan	Zimbabwe, Formerly Rhodesia
+476314	Pets	1	Originally bred in Ireland, the Wheaten Terrier is related to the Kerry Blue and what other Irish breed?	Welsh Corgi	French Poodle	German Shorthair Pointer	Irish Terrier
+476424	Pets	1	If a cat is lashing its tail from side to side, what is its mood?	Happy	Hungry	Sad	Mad
+476492	Pets	1	Who is the author of the famous "Cat in the Hat" story?	Dr. Phil	James Patterson	Stephen King	Dr. Seuss
+476472	Pets	1	What is the country of origin of the Welsh Corgi?	Ireland	France	Spain	Wales
+476293	Pets	1	What musical instrument did the cat play in the English nursery rhyme, Hey Diddle Diddle?	Piano	Trumpet	Drums	Fiddle
+475919	Pets	1	Which item provides the domesticated cat with acute hearing?	Long Whiskers	Large Head	Hearing Aids	Large Movable Outer Ears
+475910	Pets	1	What is the name of the talking black cat from "Sabrina the Teenage Witch"?	Dallas	Boston Boots	Philie Feline	Salem Saberhagen
+475859	Pets	1	Devoted to the families that own them, American Mastiffs are particularly protective of what?	Other Dogs	The Family Cat	Elderly People	Children
+476222	Pets	1	What would you call a fierce short-tailed wild cat from North America?	Panther	Tiger	Jaguar	Bobcat
+475777	Pets	1	What do you call the clumps of fur that collect in a cat's stomach which are occasionally regurgitated?	Meatballs	Fuzzballs	Acid	Hairballs
+476254	Pets	1	What breed was developed to hunt otters in the River Aire that runs through Airedale?	French Poodle	Basset Hound	French Bulldog	Airedale Terrier
+476234	Pets	1	What will a cat eat to help in digestion?	Pepto Bismal	Tums	Bean Sprouts	Grass
+475897	Pets	1	Which restaurant used the famous Chihuahua as their mascot?	Del Taco	Moe's Southwest Grill	Taco Del Mar	Taco Bell
+475957	Pets	1	What item can be fatal to cats?	Catnip	Beef Jerky	Kitty Litter	Tylenol And/or Aspirin
+476408	Pets	1	What human over-the-counter pain reliever should never be given to kittens?	Aspirin	Advil	Darvocet	Tylenol
+475736	Pets	1	What country does the Norwegian Forest cat come from?	United States	France	Scotland	Norway
+0DIF297	Pets	1	Which pet has the better memory?	Goldfish	Hamster	Dog	Cat
+476407	Pets	1	What feature on a cat is ridged in a pattern that is unique, like the fingerprint of a human?	Paws	Ears	Tail	Nose Pad
+476304	Pets	1	What is the name for a male cat?	Joe	Kitty	Macho	Tom
+0DIF288	Pets	1	What is a name for a baby rat?	Kid	Pinky	Tad	Pup
+476515	Pets	1	What is the name of the fictional Japanese cat portrayed as a white bobtail with a red bow?	Goodbye Cat	Sweet Stuff	Tinker	Hello Kitty
+475782	Pets	1	What is a cat whose ancestry is recorded?	Show	Domestic	Medieval	Pedigreed
+476495	Pets	1	What "designer dog" is a cross between a Yorkshire Terrier and a Poodle?	PooTerr	PooYo	Yordle	YorkiPoo
+476302	Pets	1	What common problem causes your cat to scratch its ears and/or shake its head?	Sensitivity To Loud Noises	Ear Wax	Worms	Ear Mites
+611FTUX101	Pets	1	What type of pet is a Boa Constrictor?	Turtle	Gecko	Lizard	Snake
+475918	Pets	1	What is the name of the cat in Alice's Adventures in Wonderland?	Twiddle Dee	Smiley	Twinkle	Cheshire Cat
+476236	Pets	1	A Chow Chow is an ancient breed of which country?	Korea	Japan	Egypt	China
+475772	Pets	1	What is the average life span of an indoor cat?	5 Years	25 Years	9 Years	13 To 17 Years
+476081	Pets	2	Straight, straight up, sickle, curled, or cork-screw are types of what part of a dog's anatomy?	Eyes	Feet	Nose	Tail
+475851	Pets	2	Because of their incredible endurance, what are Rhodesian Ridgebacks enlisted to do?	Play With Children	Train As Guide Dogs	Perform On Stage	Train With Athletes
+475983	Pets	2	What terrier breed was developed from the Fox Terrier by Rev. John Russell in England around 1840?	Basenji	Airedale	Collie	Jack Russell Terrier
+475945	Pets	2	What type of white cat was used in the 1967 James Bond film, "You Only Live Twice"?	Bengal	Curly	Himalayan	Persian
+476303	Pets	2	The Bichon Frise is widely regarded as what kind of dog?	Hunting Dog	Working Dog	Service Dog	Companion Dog
+476318	Pets	2	For what was the West Highland Terrier bred?	To Hunt Foxes	To Hunt Raccoons	As Watchdogs	To Control Vermin Populations
+475944	Pets	2	What breed of cat is the most popular registered in the UK?	Scottish Fold	British Longhair	Russian Tabby	British Shorthair
+476169	Pets	2	What is the common color of the coat of the Abyssinian?	White	Orange	Black	Ruddy/red
+4772	Pets	2	Why is the Soft coated Wheaten Terrier so-named?	For Its Coarse Straw-Like Coat	For Its Love Of Whole Wheat Dog Food	Because It Loves To Run In Wheat Fields	For Its Wheat-Colored Coat
+282214	Pets	2	U.S. President Harding's Airedale, Laddie Boy, had a special chair where he sat during what gatherings?	Baseball Games	Regattas	Parades	Cabinet Meetings
+475903	Pets	2	What is the name of the self-proclaimed "world's cutest kitten" from the Garfield comic strip?	Normal	Lovely	Cutey	Nermal
+282194	Pets	2	Which dog was depicted by the Han Dynasty as a hunting dog?	Chihuahua	Shepherd	Cockapoo	Chow Chow
+475922	Pets	2	Which character of "Star Trek: The Next Generation" had a cat named Spot?	Captain Picard	Geordi La Forge	Will Riker	Data
+282197	Pets	2	What does a Rhodesian Ridgeback do when hunting lions?	Barks	Points	Whines	Distracts The Lion
+282207	Pets	2	Which daytime talk show host owns a number of Chow Chows and often features them on her show?	Ellen DeGeneres	Kelly Ripa	Oprah Winfrey	Martha Stewart
+476199	Pets	2	What country fixed the standards for the Rhodesian Ridgeback in 1922?	France	Canada	Iceland	Zimbabwe, Formerly Rhodesia
+476209	Pets	2	What are the names of the Siamese cats from the 1955 movie, "Lady and the Tramp"?	To And Fu	Ying And Yang	Bread And Butter	Si And Am
+476006	Pets	2	Who is perhaps best known for her Corgis, always keeping at least four?	Hillary Clinton	Meryl Streep	Rachael Ray	Queen Elizabeth II
+476154	Pets	2	What is the Japanese word for "dog"?	Ichi	Apso	Dojo	Inu
+476269	Pets	2	What is the name of the domesticated cat with curled ears?	Calico	Alley Cat	Short Hair	American Curl
+282206	Pets	2	What is the name of the Japanese cat-demon with two tails?	Honshu	Sato	Inoue	Nekomata
+476317	Pets	2	What "designer dog" is a cross between a Labrador Retriever and a Poodle?	LabPoo	Golden Doodle	PooVer	Labradoodle
+475911	Pets	2	About how much does a full grown American Mastiff male weigh?	90-110 Pounds	50-75 Pounds	45-60 Pounds	160-200+ Pounds
+476147	Pets	2	Which dog's name means "puff-lion dog"?	Cocker Spaniel	Collie	Bernese Mountain Dog	Chow Chow
+475849	Pets	2	What is the name of the cat owned by Gargamel from the TV show "The Smurfs"?	Zenith	Mustard	Slick	Azrael
+476467	Pets	2	What "designer dog" is a cross between a Pomeranian and a Poodle?	PomPoo	PooRanian	PooPom	Pom-A-Poo
+476223	Pets	2	Domestic cats are the only cat species able to hold their tails in what direction while walking?	Horizontally	Curled	Between Their Legs	Vertically
+476159	Pets	2	What factor contributed to the development of the American Curl breed of cat?	Selected Breeding	Luck	Surgery	Spontaneous Mutation
+282135	Pets	2	What dog is frequently mentioned in ancient Egyptian papyruses?	Wheaten Terrier	Standard Poodle	Giant Schnauzer	Afghan Hound
+476466	Pets	2	Why is the Bichon Frise a good choice for someone with allergies?	Bichons Don't Get Fleas	Bichons Don't Bark	Bichons Sleep All Day	Bichons Don't Shed
+475769	Pets	2	What domesticated cat has a short stubby tail?	Bobcat	Siamese	Himalayan	American Bobtail
+476228	Pets	2	The Bearded Collie was originally bred to do what?	Hunt	Perform	Track	Herd
+475854	Pets	2	What motion does a cat's jaw move?	Side To Side	Laterally	Unhinged	Up And Down
+282114	Pets	2	What is the name of the orange tom cat from C.S. Lewis's 'Narnia, The Last Battle'?	Parsley	Groggy	Sarah	Ginger
+476410	Pets	2	What is the country of origin of the West Highland White Terrier?	Portugal	Boliva	Canada	Scotland
+475768	Pets	2	What speed is a Whippet able to achieve in just a few seconds?	140 MPH	6 MPH	MACH 1	37 MPH
+476337	Pets	2	What "designer dog" is a cross between a Golden Retriever and a Poodle?	Labradoodle	PoodleOodle	RetPoo	Golden Doodle
+475892	Pets	2	What breed of cat has folded ears?	Bobtail	Havana Brown	Korat	Scottish Fold
+475860	Pets	2	What is a nickname for a Himalayan?	Pookey	Chubby	Smokey	Himmie
+476315	Pets	2	When herding, what does a Corgi do to an animal that turns and charges?	Barks At It	Runs Away	Jumps On Its Back	Bites Its Nose
+476085	Pets	2	What breed of cat is said to have originated in Sweden?	American Shorthair	Bali	Burmese	European Shorthair
+475853	Pets	2	The Toyger breed was produced to resemble what animal?	Lion	Cheetah	Toy Dog	Toy Tiger
+475879	Pets	2	Because the Bambino cat is hairless, what problem is this breed prone to?	Acne	Dry Skin	Freckles	Sunburn
+282199	Pets	2	Which dog is the smallest member of the American Kennel Club sporting dog group?	American Bulldog	Chow Chow	Boston Terrier	American Cocker Spaniel
+476500	Pets	2	What is the name of the cat from the 1989 movie, "Pet Sematary"?	Devil	Lucifer	Hope	Church
+475916	Pets	2	What dog breed was the star of "Jack Russell: Dog Detective" children's books by Darrell Odgers?	English Sheepdog	Bloodhound	Boston Bull Terrier	Jack Russell Terrier
+476235	Pets	2	What is the normal weight of a healthy newborn kitten?	6 Pounds	2 Pounds	11 Ounces	2-4 Ounces
+475767	Pets	2	What is the name of Dr. Evil's cat from the Austin Powers films?	Miss Snickity	Froo-froo	Mr. Terror	Mr. Bigglesworth
+476080	Pets	2	What is the most obvious trait of the Babino breed of cat?	Short	Heavy	Short Tail	Hairless
+475881	Pets	2	What is the main difference between the Pembroke Welsh Corgi and the Cardigan Welsh Corgi?	The Pembroke Has Extra Toes On The Forelegs	The Cardigan's Ear Stand Up	The Cardigan Has Blue Eyes	The Pembroke Lacks A Tail
+476319	Pets	2	What breed of cat is known as the "hairless" cat?	Siamese	Curl	Persian	Sphynx
+475844	Pets	2	What other name was Sylvester J. Pussycast, Sr., a Looney Tunes character, known as?	Pudding	Gato	Tweety	Puddy Tat
+475873	Pets	2	What type of coat does the American Wirehair breed of cat have?	Long And Straight	Short And Soft	Bald	Dense, Resilient Coat
+475846	Pets	2	When happy, what physical movement does the Egyptian Mau perform which appears to mark territory?	Tail Flip	Rear Swing	Jumping	Wiggle Tail
+475749	Pets	2	What type of coat does the Himalayan breed have?	Short	Curly	Sticky	Long
+475955	Pets	2	Canis lupus familiaris is Latin for what?	Non-Shedding Dog	Non-Barking Dog	Lap Dog	Domesticated Dog
+476220	Pets	2	What terrier breed has been used as a police dog in the U.K?	French Bulldog	Collie	Corgi	Airedale Terrier
+476428	Pets	2	Why are Soft coated Wheaten Terriers popular among people who have allergies?	Wheatens Bark A Lot	Wheatens Love To Be Groomed	Wheatens Prefer To Be Indoors	Wheatens Do Not Shed
+476420	Pets	2	What country is the breed Dragon Li from?	Japan	Thailand	Vietnam	China
+475895	Pets	2	That Afghan Hound's long, thick coat protects it from what?	Gunfire	Wild Animals	Dry Skin	Extreme Temperatures
+476020	Pets	2	What "designer dog" is a cross between a Beagle and a Poodle?	Beadle	PooBea	BeaPoo	Poogle
+476198	Pets	2	Because it is the largest of the terriers, what is the Airedale nicknamed?	Scottie	Fuzzy	HRH Airedale	King Of Terriers
+476145	Pets	2	What label is given to the tendency of Wheatens to jump up and "kiss" people?	The Wheatie Hello	The Wheaten Kiss	The Wheaten Nose Bump	The Wheaten Greetin'
+475951	Pets	2	By what name is the West Highland White Terrier more commonly known?	Cockapoo	White Terrier	Scottie	Westie
+476406	Pets	2	How many kittens lost their mittens and then began to cry?	Two	Six	Fourteen	Three
+475880	Pets	2	What is the average weight of a full-grown Jack Russell Terrier?	25-30 Pounds	40-50 Pounds	2-4 Pounds	14-18 Pounds
+476084	Pets	2	Fawn, brindle, tan, mahogany and black are all possible colors of a Boxer's what?	Eyes	Nose	Tongue	Coat
+476265	Pets	2	What does the notoriously lazy mature American Mastiff prefer to do all day?	Herd Cattle	Bark At Strangers	Watch TV	Sleep
+475781	Pets	2	What is the name of Hermione Granger's cat in the Harry Potter novels?	Peter	Bunny	Catfield	Crookshanks
+476468	Pets	2	White kittens with blue eyes are prone to what type of congenital condition?	Hair Loss	Infertility	Six Toes	Deafness
+476016	Pets	2	Why do cats scratch?	To Damage Furniture	To Prepare To Hunt	For Exercise	To Remove Excess Nail Scales
+475925	Pets	2	Where did the Afghan Hound originate?	France	Mexico	Canada	Sinai
+475989	Pets	2	The Egyptian Mau has been clocked running at what speeds?	Over 75 Mph	Under 10 Mph	1 Mph	Over 36 Mph
+475977	Pets	2	When two purebred dogs are purposefully crossed, what is the resulting offspring called?	Recessive	Amalgam	Composite	Hybrid
+475900	Pets	2	Why do cats rub against an object or person?	Scratch An Itch	Rub Off Dirt	Saying They're Hungry	Mark Territory
+476230	Pets	2	How many kittens may a productive female cat have in her life?	6	1,000	25	100
+476253	Pets	2	How many whiskers does a cat normally have?	12	36	40	24
+476079	Pets	2	What is the name of the cat from the 1993 movie "Homeward Bound: The Incredible Journey"?	Shadow	Benji	Sally	Sassy
+475868	Pets	2	The Nekomata is a Japanese cat-demon with what type of physical attribute?	One Eye	Split Tongue	Three Ears	Two Tails
+475779	Pets	2	Which dog is referred to as "teacup"?	Cockapoo	Chow Chow	Boston Terrier	Chihuahua
+475931	Pets	2	What is the name of the book by Dr. Seuss which features Little Cats A through Z?	Horton Hears A Who	Green Eggs And Ham	The Lorax	The Cat In The Hat Comes Back
+476417	Pets	2	Which of these animals is not actually a dog?	Portuguese Water Dog	French Bulldog	English Sheepdog	Prairie Dog
+282201	Pets	2	Who introduced cats to North America?	Indians	French	Vikings	Pilgrims
+475848	Pets	2	What is the average body temperature of a cat?	98.6 Degrees	120 Degrees	85 Degrees	101.5 Degrees
+476414	Pets	2	What classification is a cat who is not owned by any one person but is friendly to people?	Feral	Social	Nomadic	Semi-Feral
+476212	Pets	2	On average, how many puppies are in a Boxer's litter?	22	1	19	6
+475384	Pets	2	American Bobtails are slow to develop so reach maturity at what age?	5 Years	1 Year	6 Years	2-3 Years
+475986	Pets	2	What is the name of the cat who lived in a treehouse on "Mister Roger's Neighborhood"?	Tiger	Frosty	Missy	Henrietta Pussycat
+475943	Pets	2	What breed is said to have been produced by a bobcat/domestic cat encounter?	Wirehair	Tomcat	Birman	Maine Coon
+476311	Pets	2	What is the name of the cat from the movie "An American Tail" who was disguised as a rat?	Whiskers	Tommy	Snowball	Warren T. Rat
+476336	Pets	2	What multi-colored cat is not a breed?	Rex	Russian	Devon	Calico
+476496	Pets	2	Boxers, like Great Danes, are descended from what large breed?	Collies	Cocker Spaniels	Otter Hounds	Mastiffs
+475775	Pets	2	What is the name of the wicked cat owned by Cinderella's stepmother?	Sweetums	Pumpkin	Nasty	Lucifer
+476512	Pets	2	What breed of cat is a cross between the Chinchilla Persian and the Burmese breeds?	Cornish	Siberian	Ocicat	Burmilla
+476012	Pets	2	What is the name of the tabby cat from the "Stuart Little" series?	Precious	Gem	Snookems	Monty
+476004	Pets	2	The mostly white Jack Russell Terrier was developed so that while hunting it was not confused with what?	A Bear	A Deer	A Moose	A Fox
+475751	Pets	2	Where do kittens have sweat glands?	Ears	Tongue	Tail	Pads Of Their Feet
+282137	Pets	2	What can cause kidney failure in kittens?	Tacos	Green Beans	Tomato	Grapes And Raisins
+476141	Pets	2	What was the name of the catlike version of the Devil in the film "All Dogs Go to Heaven"?	Black	Tacky	Toughie	Red
+475904	Pets	2	What is a common nickname for the California Spangled Cat?	Butch	Tiger	Panther	House-Leopard
+475874	Pets	2	What dog breed is commonly known as a "Beardie"?	Labrador Retriever	Dachshund	Boxer	Bearded Collie
+476143	Pets	2	What is one of the common nicknames for a Polydactyl cat?	Mutant Cat	Silly Cat	Boots	Six-fingered Cats
+476005	Pets	2	What is the healthy weight of a full-grown Corgi?	10-12 Pounds	14-16 Pounds	55-65 Pounds	25-30 Pounds
+476509	Pets	2	Which dog is the world's smallest breed?	Chow Chow	Cockapoo	Boston Terrier	Chihuahua
+476157	Pets	2	What is the name of the alley cat who befriends Bolt the dog in the movie "Bolt"	Bitty	Cream	Crackers	Mittens
+475956	Pets	2	What is the name of Alice's pet cat from "Alice in Wonderland"?	Doris	Kitty	Franklin	Dinah
+475872	Pets	2	What is the breed of cat that was bred to resemble wildcats like the ocelot and leopard?	Bobtail	Bombay	Himalayan	California Spangled Cat
+476239	Pets	2	What breed of cat is almost always female?	Cornish	Devon	Rex	Calico
+475953	Pets	2	How often should Persian cats be groomed?	Weekly	Monthly	Yearly	Daily
+476494	Pets	2	Which country did the breed Balinese originate from?	Australia	Bali	Thailand	United States
+476399	Pets	2	What is the name of the breed of cat from Brazil?	Rio	South American Shorthair	Paulo	Brazilian Shorthair
+282212	Pets	2	What is the name of the cat who came back to life in Stephen King's 'Pet Sematary'?	Chester	Pookey	Snookems	Church Hill
+475774	Pets	2	How do Corgis perform their herding duties?	By Jumping	By Running In Circles	By Baying	By Nipping At The Heels
+476473	Pets	2	In the U.S., what breed of dog is associated with the Anheuser-Busch iconic, Clydesdale-drawn beer wagon?	German Shepherd	Great Dane	Beagle	Dalmatian
+475385	Pets	2	The Bichon Frise is a descendant of what breed?	Doberman	German Shepherd	Rhodesian Ridgeback	Poodle
+282202	Pets	2	What is the name of the breed of cat developed in France by Monks to have quiet voices?	Devon Rex	Javanese	Ragdoll	Chartreux
+476151	Pets	2	About how much does a mature male West Highland White Terrier weigh?	35-50 Pounds	32-42 Pounds	6-8 Pounds	15-20 Pounds
+476416	Pets	2	What is the best age to adopt a kitten?	1 Week	6 Months	3 Weeks	12 Weeks
+475936	Pets	3	What character on the "Power Rangers" had a cat named PC?	Jack	Sally	Victor	Kimberly
+475934	Pets	3	What is the name of the Tanner's cat on the old TV show "ALF"?	Star	Tinker	Fuzzy	Lucky
+476214	Pets	3	To be an American Kennel Club show dog, what is the maximum weight for a Chihuahua?	Seven Pounds	Five Pounds	Four Pounds	Six Pounds
+475921	Pets	3	According to recent DNA analysis, which is one of the oldest breeds of dog?	Cockapoo	Bernese Mountain Dog	Chihuahua	Chow Chow
+282108	Pets	3	What type of cat was Wolsey, the cat which travelled with the Doctor in the "Doctor Who" series?	Siamese	Russian	Munchkin	Tabby
+475893	Pets	3	What is the average height (at the shoulder) of an adult Westie?	24 Inches	18 Inches	8 Inches	11 Inches
+475890	Pets	3	What trait are American Shorthairs known for?	Long Tail	Blue Eyes	Large Bodies	Quiet Voices
+476412	Pets	3	Kittens lack the salivary enzyme that is required to breakdown what organic compound?	Salts	Fatty Acids	Oils	Carbohydrates
+282208	Pets	3	In what year did the AKC register the first Boxer?	2001	1998	1999	1904
+475935	Pets	3	What is the color of the Korat's coat?	Black	Orange-white	Tan	Silver-blue
+475947	Pets	3	Which breed of cat is a cross between the Ocicat and the Bengal breeds?	Cheerios	Havana Brown	Korat	Cheetah
+282209	Pets	3	Who traded Bichon Frises all over the world between the 13th and 16th centuries?	Spice Merchants	Huns	Vikings	Spanish Sailors
+476297	Pets	3	What is the name of one of Aesop's Fables that includes a cat?	The Boy And The Kitty	The Tale Of Two Tails	Cats And Mice	The Fox And The Cat
+282189	Pets	3	What is the most notable trait of the Cymric cat?	Long Tail	Large Nose	Short Legs	No Tail
+475886	Pets	3	The breed Australian Mist formerly was known by another name. What is that name?	Misty Spot	Spotted Cloud	Fuzzy Dots	Spotted Mist
+476477	Pets	3	What world event nearly decimated the Chartreux breed?	Vietnam War	Civil War	French Revolution	World War II
+475946	Pets	3	What is a possible health problem related to the Himalayan's facial structure?	Hairballs	Runny Nose	Sneezing	Difficulty Breathing
+475973	Pets	3	Who adopted the Chihuahua as sacred icons of the upper class and used them in religious ceremonies?	The Incas	The Mayans	The Toltecs	The Aztecs
+476268	Pets	3	When were the first Rhodesian Ridgebacks brought to the U.S?	1920	1880	1730	1950
+282113	Pets	3	When did the Boston Terrier Club change its name from the American Bull Terrier Club?	1991	1893	1993	1891
+476146	Pets	3	The Chausi breed of cat is known for what ability?	Swimming	Napping	Hunting	Six Foot Vertical Leap
+475908	Pets	3	Approximately how many years has the American Shorthair inhabited the continent?	250 Years	37 Years	1,000 Years	370 Years
+475842	Pets	3	In 2009, what breed was registered with the AKC more than any other?	Puggle	MaltiPoo	Hairless Chihuahua	Yellow Labrador Retriever
+476321	Pets	3	What is the name of the cat of U.S. President George W. Bush?	Bill Bush	Blackie Bush	Smokey	India "Willie" Bush
+475933	Pets	3	Which breed of cat has a long whippy tail, and webbed feet with oval paws?	Rio	Siberian	Persian	Peterbalds
+476431	Pets	3	In the children's rhyme "Pussycat pussycat" where did the cat travel to?	New York	Paris	Hong Kong	London
+476418	Pets	3	What is the name for a group of cats?	Herd	Cluster	Pack	Clowder
+475932	Pets	3	What is the nickname for the Norwegian Forest Cat?	Fluffy	Sally	Forest	Wegies
+475937	Pets	3	What is the name of the cat who goes to heaven in the award-winning story "The Cat Who Went to Heaven"?	Fuzzy	Michael	Angel	Good Fortune
+475994	Pets	3	What is the name of the cat from the "Ramona Quimby" series by Beverly Cleary?	Temperance	Patty	Precious	Picky-picky
+475752	Pets	3	What is the best known color of the American Shorthair?	Black	Brown	White	Silver Tabby
+475877	Pets	3	What is the name of the Dr. Claw's cat from the cartoon series "Inspector Gadget"?	Vicious	Nasty	Blackie	Madcat
+475852	Pets	3	What breed of cat was bred with the American Shorthair to produce the Exotic Shorthair breed?	Bombay	Burmese	Sphynx	Persian
+476231	Pets	3	Which group does the Boston Terrier belong to, according to the American Kennel Club?	The Sporting Group	The Working Group	The Toy Group	The Non-Sporting Group
+476422	Pets	3	Rap Cat, a puppet cat was featured in which fast food restaurant commercials?	Wendy's	Jack In The Box	Burger King	Checkers
+476226	Pets	3	What famous Airedale wandered the street of Wellington, New Zealand during the Great Depression?	Laddie Boy	Fred	The Irish Flyer	Paddy The Wanderer
+475975	Pets	3	What is the most common coat color for the British Shorthair?	White	Green	Brown	Blue
+475776	Pets	3	What breed of cat is known to willingly walk on a leash?	Bobtail	Prance	Birman	Pixie-bobs
+476022	Pets	3	When a Dalmatian has brown spots, instead of black, what are the markings called?	Chocolate Dots	Polka Dots	Darcy Spots	Liver Spots
+476213	Pets	3	How many muscles does a cat have in its ear?	2	80	15	30
+476499	Pets	3	What is the average weight of an adult Afghan Hound?	33 Pounds	90 Pounds	100 Pounds	60 Pounds
+476404	Pets	3	What is the name of Tia's cat from the movie "Escape to Witch Mountain"?	Blinkie	Paws	Nodden	Winkie
+476244	Pets	3	How many deciduous (baby) teeth do most kittens develop?	45	12	18	26
+475913	Pets	3	How many years does it take the American Bobtail to develop?	Ten Years	1 Year	6 Months	2-3 Years
+476219	Pets	3	What is the name of the cat who speaks in rhyme on the Heathcliff cartoon show, "The Catillac Cats"?	Sir Finicky	Nine Lives	Nestor	Wordsworth W. Wordsworth
+282132	Pets	3	How many color combinations does the American Cocker Spaniel come in?	Four	Five	Six	Three
+476211	Pets	3	What is the average life span of a Collie?	11-13 Years	10-12 Years	13-15 Years	12-14 Years
+282196	Pets	3	Where was the first cat show held, which took place in 1895?	Paris	London	Kansas City	New York City
+475912	Pets	3	How many breaths per minute does a newborn kitten take?	3-4 Breaths	80-90 Breaths	130 Breaths	15-30 Breaths
+476513	Pets	3	Which breed of cat abounded in Southeast Asia for centuries?	Alley Cat	Bengal	Bobtail	Burmese
+476233	Pets	3	The fairy tale "The Small, Small Cat" comes from which country?	Ireland	Japan	Russia	United States
+282128	Pets	3	What is the name of the cat which was the center of a song of the same name by Pink Floyd?	Baggage Kitty	Rose	Funny Face	Lucifer Sam
+476160	Pets	3	Kittens fed solely canned food have an increased risk of developing what condition?	Obesity	Anemia	Heart Palpitations	Hyperthyroidism
+476144	Pets	3	What is the name of the cat in the children's story book, "The Busy World of Richard Scarry"?	Dickie	Melon	George	Huckle Cat
+475923	Pets	3	What is the name of the farmer's cat in 'Mrs. Frisby and the Rats of NIMH'?	Eric	Charles	Fluffy	Dragon
+475979	Pets	3	Which breed of cat is known as the "good luck" cat?	Cornish	Devon	Burmese	Korat
+476415	Pets	3	When the Birman cat is born, what color is it?	Chocolate	Black	Orange	Pure White
+475949	Pets	3	What is the most popular tail type for the Cymric breed of cat?	Short Knob	Stumpie	Longie	Rumpy
+475737	Pets	3	The American Mastiff is available in which colors?	Black, White, Striped	Chocolate, Red, White	Blue, Black, Brown	Fawn, Apricot, Brindle
+476405	Pets	3	Which breed of cat will occasionally swim?	Snowshoe	Manx	Munchkin	Bengal
+476432	Pets	3	What usually happens to an American-born Airedale's tail within five days of the puppy's birth?	It Is Hand-Dyed	It Is Decorated With Ribbons	It Is Shaved	It Is Docked
+282111	Pets	3	What is the process of shaping dogs to conform to human expectations of personality and behavior?	Discipline	Re-Training	Genetic Modification	Commodification
+476429	Pets	3	What is the name of the cat who is perpetually chased by the cartoon character Pepe Le Pew?	Wendy	Bitsy	Nila	Penelope Pussycat
+475896	Pets	3	What attribute is the Chartreux breed coveted for?	Sharp Claws	Large Eyes	Long Legs	Water-repellent Fur
+476140	Pets	3	What is the approximate weight of a full grown Wheaten Terrier?	10-14 Pounds	18-22 Pounds	55-70 Pounds	30-45 Pounds
+476325	Pets	3	What is the name of the cat character in "The Cricket in Times Square"?	Fred	Sissy Cat	Missy	Harry Cat
+476240	Pets	3	What was the age of the oldest cat, Baby, who was born in 1970?	16	20	25	38
+476161	Pets	3	What was the name of the American Cocker Spaniel that inspired Albert Staehle's "Life" magazine covers?	Buddy	Lucky	Lady	Butch
+476305	Pets	3	What blood type is present in more than 90% of kittens?	AB	B	O	A
+476149	Pets	3	The Cymric has what physical ability?	Fast	Good Swimmer	Climber	Powerful Jumpers
+475887	Pets	3	What is the name of the sacred cat of Burma?	Oriental	Persian	Russian Blue	Birman
+476403	Pets	3	What is the name of the one-eyed cat owned by Mayor Adam West in the animated TV series "Family Guy"?	Stewie	Annie	Mia	Bootsie
+476008	Pets	3	What is the average weight of mature Boxer?	22-25 Pounds	120-140 Pounds	95-110 Pounds	60-70 Pounds
+476026	Pets	3	What is the breed of cat that people are least allergic to?	Hypocat	Black Cat	Korat	Cornish Rex
+475985	Pets	3	What breed of cat is often referred to as the "bulldog" of the cat world?	Siamese	Devon	Munchkin	British Shorthair
+476434	Pets	3	What is a common nickname for the mellow Exotic Shorthair?	Sleepy	Fuzzball	Speedy	Furniture With Fur
+475856	Pets	3	What is the leading registry of designer dogs in the U.S?	American Kennel Club	United Kennel Club	American Purebred Registry	American Hybrid Canine Club
+476171	Pets	3	What color are Soft coated Wheaten Terrier puppies when they are born?	White	Yellow	White With Black Spots	Dark Brown/Red
+282133	Pets	3	Which university uses the Collie named Reveille as their official mascot?	Georgetown Hoyas	Western Illinois	James Madison	Texas A & M University
+475987	Pets	3	What enviable feature does the American Mastiff have that other Mastiff breeds do not?	A Quieter Bark	Bigger Feet	Blue Eyes	Minimal Slobbering
+476216	Pets	3	What is the name of the cat from the 1977 movie "The Rescuers"?	Randy	Pixie	Mr. Fluff	Rufus
+475750	Pets	3	What is the name of the cat who was fitted with bionic hind legs following an accident in 2009?	Nick	Puss	Stormy	Oscar
+282195	Pets	3	In what year did a dog show judge declare Pembroke and Cardigan Corgis separate breeds?	1888	1902	1948	1937
+476215	Pets	3	What is the name of the cat from the 1978 movie, "The Cat from Outer Space"?	Jack	Silly Kitty	Pudding	Jake
+282134	Pets	3	Humans have 9,000 taste buds. How many taste buds do kittens have?	500	120	3,000	473
+476086	Pets	3	What is the breed of cat that originates from the land of Siam?	Norwegian	Tabby	Calico	Havana Brown
+475941	Pets	3	Which breed of cat has the thickest skin out of all domesticated types of animals?	Bengal	Cheetah	Rex	Bambino
+475968	Pets	3	What is the name of the Granny Garbonzo's cat from the "Big Comfy Couch"?	Sugar	Rose	Barney	Snicklefritz
+476433	Pets	3	What is the name of the cat from "Dennis the Menace"?	Hamburger	Pickles	Relish	Hot Dog
+476019	Pets	3	What is the usual eye color of the Burmilla cat?	Brown	Copper	Blue	Green
+475929	Pets	3	What is the name of the Russian breed of cat that is hairless?	Rostov	Cheetah	Sphynx	Donskoy
+476023	Pets	3	What was the name of the cat in a popular early 1960's cartoon series nicknamed "TC"?	Tough Cat	Tall Cat	Tiny Cat	Top Cat
+476172	Pets	3	What condition can cause kittens to refuse to eat?	Hairballs	Lack Of Teeth	Dirty Litterbox	Nasal Congestion
+282136	Pets	3	What is the name of the Colonel's faithful assistant in "One Hundred and One Dalmatians"?	Captain Kitty	Privatecat	Special	Sergeant Tibs
+475997	Pets	3	What is the overall impression of the Cymric?	Squat	Long	Short	Round
+476258	Pets	3	What is the name of the cat from a song of the same name recorded by Alastair McDonald?	Bones	Funny Kitty	Snippy	Sam The Skull
+475843	Pets	3	The Sokoke breed originally named Khadzonzos originated in what country?	Sudan	Egypt	Greece	Kenya
+476083	Pets	3	What type of boat did the Owl and the Pussycat use in the children's poem, "The Owl and the Pussycat"?	Paper Mache Boat	Sailboat	Motor Boat	Pea-green Boat
+476436	Pets	3	Why was the Welsh Corgi bred so low to the ground?	To Run Faster	To Track Vermin Better	To Float Better In Water	To Keep Out Of The Way Of Kicking Cows
+476002	Pets	3	What country was Hector the Cat from, a mascot for teaching road safety to children?	Japan	England	Columbia	Australia
+476250	Pets	3	How many human years of life is one year of life of a cat?	3 Years	1 Year	10 Years	15-16 Years
+475952	Pets	3	What is the average life expectancy of a West Highland White Terrier?	25 Years	6 Years	22 Years	15 Years
+476322	Pets	3	What is the distinctive walk of the Bambino breed?	Trot	Prance	Stomp	Waddle
+476516	Pets	3	What is the name of the white, mouse-hating cat in the book "Ragweed"?	Mooky	Sliver	Tessy	Silversides
+476481	Pets	3	What type of cat was Mr. Jinx who appeared in both movies "Meet the Parents" and "Meet the Fockers"?	Persian	Havana Brown	Korat	Himalayan
+476164	Pets	3	What is the name of the most famous mascot of the British Royal Navy?	Storm	Ralph	Cloudy	Unsinkable Sam
+282130	Pets	3	Which of the following is not a solid color of the American Cocker Spaniel?	Red	Buff	Sable	Blue
+476087	Pets	3	Why were Wheatens' tails docked in order to look like working dogs?	To Be Taken Seriously	To Look Neater	To Avoid Getting Burrs In Their Tails	To Avoid The Pet Tax
+475974	Pets	3	What is the name of the first cloned cat for commercial reasons?	Pushpin	Nicole	Jelly Bean	Little Nicky
+476312	Pets	3	In the children's rhyme "Pussycat pussycat" who does the cat visit while in London?	His Uncle	His Girlfriend	The Prime Minister	The Queen
+282203	Pets	3	What is the eye color of the Chartreux breed?	Green	Blue	Brown To Black	Copper To Gold
+475766	Pets	3	What is the temperament of the British Shorthair?	Nervous	Aloof	Skittish	Even-tempered
+475855	Pets	3	What breed of cat has curled hair including the whiskers?	Devon Rex	Cornish Rex	Short Hair	Selkirk Rex
+282131	Pets	3	What type of animal was the companion of Ginger the cat from Beatrix Potter's "Ginger and Pickles"?	Donkey	Chicken	Snake	Dog
+475865	Pets	3	What breed of cat was featured on the Neiman Marcus Christmas catalog in 1986?	Bombay	British Longhair	Javanese	California Spangled Cat
+476505	Pets	3	Which of these is not a color found in a Chow Chow?	Blue	Red	Cream	Golden
+476166	Pets	3	What were the names of the original sire and dam of the Boston Terrier breed?	Bud And Chip	George And Pip	Tramp And Lady	Judge And Gyp
+476248	Pets	3	What fruit scent do cats dislike?	Apple	Banana	Pear	Citrus
+476238	Pets	3	What is the name of the cat used in a teleportation experiment in the 1958 film "The Fly"?	Misty	Spooky	Bob	Dandelo
+476299	Pets	3	What was the name of the first Airedale in America, that in 1881 won his class in a New York dog show?	Peggy	MaryAnne	Lucy	Bruce
+282213	Pets	3	What two vegetables can cause kittens to become severely anemic?	Peas And Carrots	Broccoli And Cauliflower	Spinach And Celery	Onions And Garlic
+476138	Pets	3	What is the name of the breed that is a cross between the Sphynx and the Munchkin breeds?	Ragdoll	Siamese	Alley Cat	Bambino
+475907	Pets	3	What is the special item the cartoon character, Felix the Cat used?	Top Hat	Roller Skates	Baseball	Magic Bag Of Tricks
+475847	Pets	3	What is the name of the Siamese cat belonging to former President Jimmy Carter?	Mister Boots	Cheshire	Wilber	Misty Malarky Ying Yang
+476148	Pets	3	What is the name of the cat from the 1974 movie, "Harry and Tonto"?	Lone Ranger	Harry	Brownie	Tonto
+475995	Pets	3	Which breed did the American Kennel Club recognize the separation of in September, 1946?	Boston Terrier	German Shepard	American Bulldog	American Cocker Spaniel
+282188	Pets	3	What breed of cat is hairless and has folded ears?	Persian	Bombay	Calico	Ukrainian Levkoy
+476229	Pets	3	What are the two varieties of the Chihuahua?	Smooth Coat And Hairless	Short Hair And Hairless	Long Hair And Short Hair	Long And Smooth Coat
+282190	Pets	3	What is the average life expectancy of a Boston Terrier?	11-15 Years	9-13 Years	12-16 Years	10-14 Years
+476208	Pets	3	What is the name of the kitten from the Get-Along-Gang?	Shoelace	Boots	Ashes	Zipper Cat
+475882	Pets	3	Which dog has a large number of illnesses and infections attacking its eyes and ears in particular?	Chow Chow	Chihuahua	Cockapoo	American Cocker Spaniel
+476221	Pets	3	According to the American Kennel Club, which group does the Chow Chow belong to?	The Toy Group	The Working Group	The Sporting Group	The Non-Sporting Group
+475884	Pets	3	About how many hours of sleep does a Westie require each day?	5	21	19	13
+476266	Pets	3	How many hours a day does a kitten sleep?	6 Hours	20 Hours	3 Hours	12 Hours
+475753	Pets	3	What is the name of the cat from the TV series, "Wonder World of Science"?	Test Tube	Sherry	Waldo	Wondercat
+476252	Pets	3	What is the name of the cat who was Tom's love interest in a few of the MGM's Tom and Jerry shows?	Sissy	Missy	Kate	Toodles Galore
+476291	Pets	3	By what other name is the Rhodesian Ridgeback known?	Giant Schnauzer	Great Dane	American Mastiff	African Lion Dog
+282110	Pets	3	What country is the fairy tale "Katchen the Cat" come from?	France	England	America	Germany
+476218	Pets	3	How many chromosomes do domestic kittens have?	100	75	12	38
+476224	Pets	3	What was the name of the first Chihuahua to be officially registered by the American Kennel Club?	Jeeper	Rollo	Fred	Midget
+476162	Pets	3	The most accepted origin of the name Collie is the word coll; what is the Anglo-Saxon meaning of coll?	Brown	White	Tan	Black
+476267	Pets	3	What is the preferred degree of curl for the American Curl cat?	15-30 Degrees	200-225 Degrees	60 - 70 Degrees	90-180 Degrees
+476256	Pets	3	What genetic flaw is present in about 20% of all white Boxers?	Allergies	Nearsightedness	Asthma	Deafness
+475948	Pets	3	What was the name of the cat on the TV show "Married with Children"?	Henry	Dippy	Flip	Felix D. Katt
+476508	Pets	3	When the Westie came to the U.S. in the early 1900s, what was it originally called?	Malcolm Terrier	Argyll Terrier	Glasgow Terrier	Roseneath Terrier
+475909	Pets	3	What color is the coat of the American Bombay?	Multi-colored	White	Orange	Black
+476000	Pets	3	What type of voice does the Japanese Bobtail have?	Loud	Soft	Shrill	Chirping
+476326	Pets	3	When, approximately, did the Boston Terrier originate?	1970	1850	1950	1870
+475901	Pets	3	What is the name of the cat who is a Care Bear cousin?	Cookie Jar Cat	Grumpy Cat	Happy Cat	Proud Heart Cat
+475976	Pets	3	What country does the Celtic folklore creature called "Cat Sith" originate from?	France	Germany	Spain	Scotland
+4798	Pets	3	What is the name of Edgar Allan Poe's pet cat that inspired his story "The Black Cat"?	Chelsey	Cottonball	Charles	Catarina
+476003	Pets	3	What breed of cat is known as "Jungle Curl" or "Mountain Cougar"?	Cougar	Cheetah	Persian	Chausie
+476470	Pets	3	What type of coat does the Birman cat have?	Short	Curly	Course	Medium Long To Long
+476510	Pets	3	What is the name of the orange cat that was in an episode of "Hannah Montana"?	Charlie	Puss	Frosty	Bert
+475888	Pets	3	What taste are cats unable to taste?	Sour	Salty	Bitter	Sweet
+476323	Pets	3	What is the average life expectancy of the American Cocker Spaniel?	14-15 Years	12-13 Years	11-12 Years	13-14 Years
+476502	Pets	3	What is the name of the cat in "Dr. Doolittle's Return"?	Bitty	Small One	Sally	Itty
+475894	Pets	3	Which two breeds of cats were used to produce the breed known as Snowshoe?	American Shorthair And Bengal	Cornish Rex And Devon Rex	Korat And Ragdoll	Siamese And American Shorthair
+476290	Pets	3	When was the Collie Club of America organized?	1986	1980	1880	1886
+282193	Pets	3	How fast can a domestic cat sprint?	5 Mph	50 Mph	21 Mph	31 Mph
+475928	Pets	3	What breed of cat was known as the sewer cat?	Burmese	Manx	Calico	Singapura
+476264	Pets	3	What is the name of a cat famous for his posts on Twitter?	Mr. Freckles	Kitty-kitty	Ms. Blogs	Sockington
+476227	Pets	3	What are the two varieties of the Collie?	Small And Large	Short And Tall	Hard And Soft	Rough And Smooth
+475992	Pets	3	What is the average gestational period of a domestic cat?	45 Days	101 Days	20 Days	64 Days
+282211	Pets	3	Almost all kittens except Korats are born with what color eyes?	Green	Brown	Hazel	Blue
+476507	Pets	3	What is the name of the lovable sheriff from the movie "An American Tail: Fievel Goes West"?	Dom	Tom	Tabby	Tiger
+476419	Pets	3	In what year did the American Kennel Club register the Chihuahua?	1804	1954	1854	1904
+476015	Pets	3	What type of fur does the Ragamuffin breed produce?	Short And Fine	Long And Soft	Thick And Course	Thick, Rabbitlike
+282215	Pets	3	What is the name of the cat belonging to Bill Watterson, creator of "Calvin and Hobbes"?	Tess	Putty	Pixie	Sprite
+475972	Pets	3	At what age can female kittens go into their first heat?	1 Year	1 Month	2 Years	5-6 Months
+475927	Pets	3	What type of coat does the LaPerm breed have?	Short	Long	Course	Curly
+475906	Pets	3	What is the average number of puppies in a litter of Bichon Frises?	12-Oct	2-Jan	15-Dec	5-Apr
+282109	Pets	3	What is the feline mating season in the Northern Hemisphere?	January - June	April - August	October - December	March - September
+476014	Pets	3	How many color combinations does the Collie come in?	Three	Five	Six	Four
+476313	Pets	3	Despite the Wheaten coming to the U.S. in the 1940s, the breed was not recognized by the AKC until when?	1948	1962	1952	1973
+476241	Pets	3	Which group does the American Cocker Spaniel belong to, according to the American Kennel Club?	The Toy Group	The Non-Sporting Group	The Working Group	The Sporting Group
+282204	Pets	3	Which of these dog breeds is considered to be perhaps the most intelligent?	Malamute	Sharpei	Toy Poodle	Border Collie
+476158	Pets	3	What is the name of the cat from the 1995 film "Babe"?	Queen	Royal	Toots	Duchess
+282115	Pets	3	What is the name of the cat from the 1969 movies, "True Grit"?	Mister Pickles	General Patton	Captain Cat	General Sterling Price
+475773	Pets	3	What breed of cat is a cross between a serval and a domestic cat?	Scottish Fold	South American Shorthair	Silvertip	Savannah
+476295	Pets	3	What country does the Aegean breed of cat originate from?	Ireland	Russia	China	Greece
+476257	Pets	3	Male kittens can produce sperm as early as what age?	One Year	Two Years	One Month	Six Months
+476324	Pets	3	What is the name of the first American-born American Shorthair registered under this breed?	Kitty Galore	Joe Cat	Crazy Cat	Buster Brown
+475920	Pets	3	What breed of dog is the cross-breed of an English Bulldog and a white English Terrier?	Bulldog Terrier	Bull Terrier	English Bulldog Terrier	Boston Terrier
+476306	Pets	3	What is the name of Mia's cat in the movie "The Princess Diaries"?	Tubby Tabby	Sam	Lovely	Fat Louie
+476142	Pets	3	What is one of the important standard requirements for a Bengal cat?	Long Legs	Stripes	Large Head	Ideal Temperament
+475924	Pets	3	What breed of cat is produced when a Bengal and Oriental Shorthair are crossed?	Himalayan	Javanese	Korat	Serengeti
+476491	Pets	3	What type of eyes does the Abyssinian cat have?	Small Round Eyes	Large Round Eyes	Tiny Square Eyes	Large Almond-shape Eyes
+475914	Pets	3	Which cat breed produces large size, non-matting fur, and the tendency to relax in a person's arms?	Devon	Maine Coon	Bengal	Ragdoll
+476139	Pets	3	What is the name of the cat from the comic book series "Josie and the Pussycats"?	Max	Tassle	Henry	Sebastian
+476207	Pets	3	Where was the American Mastiff breed originated?	Golden, Colorado	Ashland, Oregon	Lancaster, Pennsylvania	Piketon, Ohio
+476163	Pets	3	What type of face/head does the British Shorthair possess?	Small	Long And Thin	Short And Wide	Round And Massive
+476413	Pets	3	What breed of cat are remarkable for their deep dark blue eyes?	Oriental	Lynx	Macho	Ojos Azules
+475891	Pets	3	What is the name of the family mouser cat in Laura Ingalls Wilder's "Little House" books?	Kat	Linda	Huggy	Kitty
+475930	Pets	3	In what year was the Bichon Frise first recognized by the AKC?	2010	1888	1929	1972
+475980	Pets	3	In 1982, what terrier breed became the first dog ever to travel to both the North and South Poles?	Labrador Retriever	Sharpei	French Bulldog	Jack Russell Terrier
+475850	Pets	3	What is the name of the cat who keeps scratching up Snoopy's doghouse in Peanuts?	Sniffles	Walnut	Stripe	World War II
+475998	Pets	3	What is the name of the cat from the old Mighty Mouse cartoon series?	Junkyard Cat	Sam	Toots	Oil Can Harry
+475915	Pets	3	What area of the United States did the American Wirehair originate from?	New Mexico	California	Florida	New York
+475990	Pets	3	From which country does the Abyssinian breed originate from?	Canada	Japan	Kenya	Ethiopia
+476493	Pets	3	On average, what is the life expectancy of an American Mastiff?	5-7 Years	2-4 Years	20-22 Years	10-12 Years
+476401	Pets	3	What type of markings does the California Spangled cat possess?	Stripes	Blotches	Solid	Spotted
+475898	Pets	3	What type of cat does Minerva McGonagall from the Harry Potter series transform into?	Persian	Manx	Devon	Tabby
+476498	Pets	3	What is the name of the villain cat from "Spy Dogs"?	Crazy Kitty	Badcat	Milton	Catastrophe
+475940	Pets	3	What is the name of the cat who almost takes over the world in "Pinky and the Brain"?	Rita	Rascal	Queen	Precious
+475876	Pets	3	American Mastiff puppies are dark-colored when born, but turn what color by the age of one year?	Russet	Black	Blue-Grey	Fawn
+476335	Pets	3	What is the name of Geppetto's cat from "Pinocchio"?	Spaghetti	Antipasto	Slim	Figaro
+475885	Pets	3	In 2001, how many domesticated dogs were estimated to in the world?	20 Million	10 Million	4 Million	300 Million
+476294	Pets	3	What color are Birman kittens born?	Blue	Black	Tan	White
+476292	Pets	3	What is the feline mating season in the Southern Hemisphere?	June - August	December - May	February - June	October - March
+475988	Pets	3	In 1920, what distinction did the Airedale achieve in America?	Biggest Dog	Smartest Dog	Cutest Dog	Most Popular Breed
+476270	Pets	3	About how much does a full grown male Rhodesian Ridgeback weigh?	45 Pounds	150 Pounds	130 Pounds	85 Pounds
+476155	Pets	3	Which breed of cat is known as the "swimming cat"?	Himalayan	Munchkin	Rex	Turkish Van
+475993	Pets	3	The Rhodesian Ridgeback is likely related to the Deerhound and what other huge breed?	Standard Poodle	Bouvier des Flandres	German Shorthair Pointer	Great Dane
+282205	Pets	3	In which year did the American Kennel Club admit the Boston Terrier?	1993	1875	1975	1893
+476150	Pets	3	In Thailand, what cat breed was thought to be a relinquish from evil?	Rostov	Stumpie	Devon Rex	Havana Brown
+476471	Pets	3	What animal was the Rhodesian Ridgeback bred to help hunt?	Hippopotamus	Elk	Kangaroo	Lions
+282200	Pets	3	What kind of bite does a well-bred American Mastiff have?	Underbite	Overbite	Lateral Bite	Scissor Bite
+475899	Pets	3	What is a favorite activity of the Egyptian Mau breed?	Eating	Sleeping	Scratching	Fetching
+475889	Pets	3	What breed of cat is known as the "clowns of the cat world"?	Birman	Chartreux	Persian	Burmese
+475778	Pets	3	In which countries has the Collie existed for many years as a herding dog?	England And America	Scotland And America	Scotland, America, And Ireland	Scotland And England
+476153	Pets	3	On average, what is the size of an Afghan Hound's litter?	14	2	1	8
+475738	Pets	3	What "designer dog" is a cross between a Boston Terrier and a Pug?	TerriPu	BoPu	BosPug	Bugg
+476247	Pets	3	When was the American Cocker Spaniel imported from Great Britain?	1920's	1940's	1950's	1930's
+476156	Pets	3	What is the length of cat gestation?	6 Months	30 Days	3 Weeks	60-68 Days
+476423	Pets	3	What is the name of the Japanese Siamese cat from the cartoon series of the same name?	Qing	Dongwa	Mama	Sagwa
+282129	Pets	3	What country is Patripatan from, a cat that went to heaven to pick a flower?	Korea	Sweden	Peru	India
+476327	Pets	3	Which dog held the top position in the number of American Kennel Club registrations from 1940 - 1952?	Golden Retrievers	German Shepherd	English Cocker Spaniel	American Cocker Spaniel
+282112	Pets	3	What is the name of the first cat of Koko the gorilla?	Mindy	Brush	Fuzzy	All Ball
+475999	Pets	3	The Westie and Scottish Terrier have been the mascots of what brand of Scotch since 1890?	Dewars	Cutty Sark	Johnnie Walker Red	Black & White
+476245	Pets	3	What is the Boxer breed's country of origin?	Mexico	Israel	Japan	Germany
+476217	Pets	3	Which dog is believed to have been brought to Europe during the travels of Christopher Columbus?	Basset Hound	Chow Chow	American Bulldog	Chihuahua
+282191	Pets	3	What is the name of the tabby cat from the 1999 movie, "Stuart Little"?	Maxie	Pixie	Purr	Monty
+476501	Pets	3	What is the name of the evil cat from the "Pound Puppies" series?	Terrible Tabby	Kittylitter	Little Terror	Catgut
+476009	Pets	3	Who saved the Collie from farm-work obscurity and showed that they were also bred for their good looks?	George Washington	Albert Payson Terhune	Betsy Ross	Queen Victoria
+476242	Pets	3	What is the breed called the "Sacred Cat of Burma"?	Burmese	Bali	Silvertip	Birman
+476430	Pets	3	What cat breed is a cross between a Siamese and a Persian?	Burmese	Chartreux	Ocicat	Himalayan
+475996	Pets	3	What is the unique trait of the Birman breed's coat?	Short Hair	Curly	Hairless	White Gloves On Each Paw
+476411	Pets	3	Where are most polydactyl cats commonly found?	Southern France	New Zealand	Brazil	East Coast Of United States
+475841	Pets	3	Which dog is nicknamed "The American Gentleman"?	American Bulldog	American Foxhound	Cockapoo	Boston Terrier
+475905	Pets	3	What is the name of the cat who was a backstage cat on the "Muppet Show"?	Kermit	Scooter	Rowlf	Gaffer
+475875	Pets	3	What is the name of the cat from the cartoon series "The Family Circus"?	Fluff	Cat	Sheila	Kittycat
+476400	Pets	3	What breed of cat did the Balinese originate from?	Bengal	Maine Coon	Javanese	Siamese
+475839	Pets	3	What is the name of the cat belonging to Judy Moody in the series by Megan McDonald?	Tigger	Mog	Pudding	Mouse
+476210	Pets	3	What are the heartbeats per minute of a newborn kitten?	600	120	25	200-300
+476435	Pets	3	What denotes the number of bones in a kitten's body?	Color	Vet	X-Rays	Breed
+282216	Pets	3	What color is the Chow Chow's tongue?	Red	Yellow-Green	Purple	Blue-Black
+475970	Pets	3	What is the name for a group of grown cats?	Herd	Kindle	Flock	Clowder
+475917	Pets	3	What is the ideal size of the Burmese cat?	Tiny	Large	Fat	Medium
+476152	Pets	3	Which was the first American breed to be recognized by the American Kennel Club?	American Bulldog	American Foxhound	Alaskan Malamute	Boston Terrier
+475938	Pets	3	Which breed of cat is the only naturally spotted cat?	Somali	Nebelung	Fat Cat	Egyptian Mau
+476298	Pets	3	Who invented the cat door?	Thomas Edison	Alexander Graham Bell	Charles Darwin	Sir Isaac Newton
+475954	Pets	3	A Polydactyl cat is born with a genetic mutation. What is the mutation?	Extra Whiskers	No Teeth	Two Tails	Extra Toes On One Or More Of Its Paws
+475878	Pets	3	Which spotted breed of cat has spots not only on its coat, but on its skin?	Hypocat	Javanese	Ragdoll	Egyptian Mau
+475845	Pets	3	What type of voice does the Burmese cat have?	Quiet	Soft	Loud	Raspy
+476168	Pets	3	At what age can kittens tolerate a bath?	3 Years	2 Weeks	1 Year	3 Months
+476225	Pets	3	Kitten fleas can't survive in altitudes greater than how many feet?	1,000 Feet	30 Feet	30,000 Feet	5,000 Feet
+476025	Pets	3	The American Bombay breed was created to resemble a miniature of what animal?	Tiger	Lynx	Lion	Black Panther
+282192	Pets	3	In what country did the breed of cat LaPerm originate?	Thailand	England	Greece	United States
+476246	Pets	3	What color should the eyes of a well-bred American Mastiff be?	Blue	Black	Brown	Dark Amber

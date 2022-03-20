@@ -1,0 +1,753 @@
+40E2729	Brands	0	Which brand would sell you a car?	Gillette	IKEA	Gucci	Toyota
+FTUX35	Brands	0	Which company's slogan is "Eat fresh"?	McDonalds	Taco Bell	Burger King	Subway
+60E1069	Brands	0	If you wanted to purchase sneakers, what brand would you look at?	Gillette	Disney	Shell	Adidas
+60E1689	Brands	0	Which brand would you choose if you were thirsty?	Visa	Facebook	Verizon	Coca-Cola
+FTUXPIC41	Brands	0	Whose logo is this?	Verizon	Western Union	Tesla	AT&T
+60E2849	Brands	0	Which brand has to do with beauty and personal care?	Disney	American Express	J.P. Morgan	L'Oreal Paris
+FTUX068	Brands	0	What Dutch beer comes in a famously green bottle?	Dr. Pepper	Capri Sun	Bud Light	Heineken
+FTUX27	Brands	0	The "McRib" belongs to which fast food establishment?	Taco Bell	Kentucky Fried Chicken	Burger King	McDonalds
+FTUX053	Brands	0	What Japanese tech company is known for the PlayStation, TVs, and other appliances?	Dippin' Dots	A&W	Marriott	Sony
+FTUX069	Brands	0	What gas company has a marine creature as a name and a logo?	Sea Urchin	Starfish	Orca	Shell
+FTUXPIC55	Brands	0	Which internet browser uses this logo?	Internet Explorer	Edge	Oracle	Firefox
+FTUX44	Brands	0	Which company has a checkered pattern in their logo?	Apple	Android	Honda	BMW
+FTUXPIC44	Brands	0	Whose logo is this?	Pepsi	Walmart	Ebay	PayPal
+40E2269	Brands	0	Which of these is a technology brand?	Mercedes-Benz	Costco	Chase	Oracle
+FTUXPIC39	Brands	0	Which encyclopedia site uses this logo?	National Geographic	Scrabble	Merriam Webster	Wikipedia
+60E2509	Brands	0	Which brand could sell you furniture?	Canon	Sony	Nescafe	IKEA
+0DIF95	Brands	0	Which of the following does not sell gas?	Shell	Chevron	76	IBM
+0DIF100	Brands	0	What does Ghirardelli make?	Pancakes	Sausages	Cough syrup	Chocolate
+60E2929	Brands	0	Which brand is linked to technology?	Uber	Walmart	Wells Fargo	LinkedIn
+FTUX063	Brands	0	If you need a credit card, what company would you likely go to?	Nintendo	eBay	Spotify	Mastercard
+FTUX058	Brands	0	Music videos, music news, and other programming was the original purpose for what television channel?	TBS	Discovery Channel	Food Network	MTV
+FTUX041	Brands	0	Which of these is NOT a brand of soda?	Coca-Cola	Pepsi	Mountain Dew	Jack Daniels
+0DIF86	Brands	0	Which of the following is a telecom provider?	Mastercard	Ford	Microsoft	Xfinity
+FTUX26	Brands	0	Which of the following companies sells coffee?	Sears	Champion	Neutrogena	Starbucks
+0DIF93	Brands	0	Uber provides what service?	Medical	Streaming	Package delivery	Transportation
+60E2689	Brands	0	Which brand can sell you a tractor?	Lego	Prada	Adobe	John Deere
+FTUXPIC58	Brands	0	Which web service uses this logo?	Yamaha	YouTube	Yelp	Yahoo!
+0DIF81	Brands	0	What is Volkswagen best known for?	Phones	Radios	Light bulbs	Cars
+0DIF82	Brands	0	Pampers makes what type of product?	Cars	Lotion	Computers	Diapers
+FTUX049	Brands	0	Which company makes the Surface tablet and Xbox One?	Disney	Dell	Coca-Cola	Microsoft
+FTUXPIC47	Brands	0	Who makes this car?	Mazda	Audi	Honda	Subaru
+FTUX33	Brands	0	Which car company has an "H" for their logo?	Toyota	Mazda	Ford	Honda
+60E2589	Brands	0	What brand deals with technology and social media?	Pepsi	McDonald's	Nike	Instagram
+FTUX050	Brands	0	If you wanted to get a box of donuts in a drivethrough, which restaurant chain would you go to?	Applebee's	Panda Express	Olive Garden	Krispy Kreme
+FTUXPIC38	Brands	0	Who made this console?	Sony	Microsoft	Steam	Nintendo
+FTUX34	Brands	0	Which of the following products does the company "Tesla, Inc" sell?	Bananas	Phones	Yoga pants	Cars
+40E2769	Brands	0	What brand would you use for ride sharing?	Walmart	Gillette	Target	Uber
+FTUX067	Brands	0	Which insurance company's slogan suggests the company "is on your side"?	WWE	Gamestop	NBA	Nationwide
+FTUX30	Brands	0	Which of the following sodas has a clear color?	Dr. Pepper	Coca Cola	Pepsi	Sprite
+FTUXPIC57	Brands	0	What kind of drinks are these?	Protein drinks	Organic juices	Sparkling water	Energy drinks
+FTUX060	Brands	0	CNN is a cable channel that shows what type of programming?	Pro wrestling highlights	The latest cartoons	Reruns of Star Trek	The news
+FTUX42	Brands	0	Which animal is featured on the cereal "Froot Loops"?	Cow	Cat	Fish	Toucan
+FTUX059	Brands	0	What massive retail chain is one of the biggest employers in the United States?	Burger King	NASA	Warner Bros.	Wal-Mart
+40E2039	Brands	0	If you wanted to disinfect, what brand would you use?	Budweiser	Nike	Adobe	Lysol
+60E1409	Brands	0	If you wanted to buy a car, which brand could provide that?	FedEx	Disney	Dell Technologies	BMW
+FTUXPIC35	Brands	0	Who makes this food?	Taco Bell	Arby's	KFC	McDonalds
+FTUXPIC54	Brands	0	Which tech company uses this logo?	Sony	Apple	Google	Microsoft
+40E2449	Brands	0	What type of brand would Costco fall under?	Cars	Entertainment	Insurance	Retail
+40E2879	Brands	0	Which brand is involved with gaming?	Citi	ExxonMobil	KFC	Xbox
+0DIF89	Brands	0	Which company made the Galaxy S9?	Motorolla	Google	Apple	Samsung
+FTUX29	Brands	0	What does Google's logo consist of?	Googly eyes	A red ball	An orange sphere	The letter "G"
+0DIF94	Brands	0	Which retail store requires a membership?	Petco	Target	Walmart	Costco
+FTUX052	Brands	0	What website would you visit to watch the latest vlogs or other videos?	Ask Jeeves	CarFax	Adidas	YouTube
+0DIF98	Brands	0	Gillette is known for making what?	Guns	Dog shampoo	Braces	Razors
+FTUX042	Brands	0	Heinz is most well known as a maker of what?	Napalm	Surfboards	Televisions	Ketchup
+FTUXPIC43	Brands	0	Which tech company uses this logo?	Apple	Microsoft	Google	Android
+FTUX056	Brands	0	Harley-Davidson is a company that makes what form of transportation?	Submarines	Rocketships	Hoverboards	Motorcycles
+0DIF90	Brands	0	Which social media platform has a logo that looks like a camera?	Twitter	MySpace	Facebook	Instagram
+FTUX044	Brands	0	If you needed a package delivered to someone, what company would you use?	Apple	Google	Costco	FedEx
+40E2359	Brands	0	American Express would be in what brand category?	Apparel	Insurance	Cars	Payments
+FTUXPIC49	Brands	0	Who makes this car?	Toyota	Jeep	Dodge	Tesla
+0DIF85	Brands	0	Which apparel company sells shoes with a checkmark logo?	Levis	Calvin Klein	Disney	Nike
+40E2029	Brands	0	If you needed a hammer, which brand would you purchase from?	Pampers	Budweiser	Adidas	Lowe's
+FTUX39	Brands	0	Which energy drink "gives you wings"?	Monster	Rockstar	Bang	Red Bull
+FTUX066	Brands	0	What famous brand of blue jeans dates back to the time of the Gold Rush?	Nike	Sony	NFL	Levi's
+FTUXPIC42	Brands	0	Which social media logo is this?	Facebook	Tumblr	Instagram	Twitter
+0DIF88	Brands	0	Which of the following is not a retail store?	Kohls	Target	Walmart	Netflix
+40E2649	Brands	0	Which of these brands is known for selling coffee?	Apple	Google	Pepsi	Starbucks
+40E2629	Brands	0	Which brand would you use for entertainment?	Gucci	Gillette	DHL	Spotify
+0DIF84	Brands	0	Marlboro sells what?	Flowers	Televisions	Chocolate	Cigarettes
+FTUXPIC48	Brands	0	Who makes this car?	Hyundai	Tesla	BMW	Audi
+40E2699	Brands	0	Which of the following is a retail brand?	Netflix	Wells Fargo	Spotify	Target
+0DIF83	Brands	0	Which of the following is a phone service provider?	Subway	Horizon	Quicken	AT&T
+FTUX38	Brands	0	Which of the following is a computer brand?	Adidas	Calvin Klein	Gucci	Asus
+FTUX048	Brands	0	If you wanted to participate in an auction online, what website would you visit?	Buzzfeed	YouTube	Instagram	eBay
+FTUX046	Brands	0	The Swedish store IKEA sells what types of goods?	Steaks	Swords	Fingerpaint	Furniture
+FTUXPIC53	Brands	0	Who makes these shoes?	Nike	Under Armour	Sketchers	Adidas
+FTUX043	Brands	0	Colonel Sanders is the founder and mascot for what fast food company?	In N Out Burger	Shake Shack	Hardee's	KFC
+FTUXPIC45	Brands	0	Which company makes this car?	BMW	Honda	Audi	Volkswagen
+40E2819	Brands	0	Which of the following is a retail brand?	J.P. Morgan	Budweiser	Uber	Walmart
+FTUXPIC56	Brands	0	Whose mascot is this?	Walmart	Safeway	Kaiser Permanente	Target
+40E2019	Brands	0	What brand would you choose for luxury items?	Shell	Budweiser	Walmart	Louis Vuitton
+0DIF92	Brands	0	What does Twitter's logo consist of?	An orange T	A blue speech bubble	A red phone	A blue bird
+FTUX064	Brands	0	What Swedish company is the biggest name is music streaming?	Toshiba	WWE	Nintendo	Spotify
+60E1729	Brands	0	What brand could you use to brush your teeth?	Morgan-Stanley	Cartier	Birds Eye	Colgate
+0DIF96	Brands	0	Which of the following is a brand of toothpaste?	Advil	Cetaphil	Pantene	Colgate
+40E2659	Brands	0	Which of these brands is based out of Seattle, Washington?	L'Oreal Paris	Huawei	Gucci	Starbucks
+FTUXPIC32	Brands	0	Which web browser uses this logo?	Oracle	Internet Explorer	Firefox	Google Chrome
+FTUXPIC37	Brands	0	Which car brand has this emblem?	Hyundai	Audi	BMW	Honda
+FTUX057	Brands	0	Mars makes what brand of small, hard-shelled chocolates?	Baby Ruths	Mars Bars	Skittles	M&M's
+FTUXPIC36	Brands	0	Which company uses this logo?	Adidas	Tesla	Amazon	Nike
+FTUX28	Brands	0	A "Reese's Peanut Butter Cups" wrapper is what color?	Green	Blue	Pink	Orange
+FTUXPIC46	Brands	0	Which company makes this car?	Volkawagen	Hyundai	Subaru	Toyota
+FTUXPIC33	Brands	0	Which company does this belong to?	Loreal Paris	Islands	Louis Vuitton	Starbucks
+40E2439	Brands	0	What brand category would Wells Fargo be?	Entertainment	Cars	Retail	Regional Banks
+40E2579	Brands	0	Which of these brands is known for gasoline?	Budweiser	Adobe	Target	Shell
+FTUX070	Brands	0	What network television channel has a peacock for a logo?	Showtime	YouTube	Kelloggs	NBC
+40E2159	Brands	0	Which brand would you look to for entertainment?	Shell	Mercedes-Benz	Subway	Netflix
+FTUXPIC52	Brands	2	Who makes this controller?	Apple	Nintendo	Microsoft	Sony
+FTUX055	Brands	0	What colorful bricks are some of the most popular toys in the world?	Transformers	Tonka Trucks	Barbies	LEGO
+FTUXPIC59	Brands	0	Which pizza place uses this logo?	Pizza Hut	Round Table	New York Pizza	Dominos
+0DIF91	Brands	0	Budweiser primarily sells what?	Milk	Juice	Soda	Beer
+FTUX41	Brands	0	Haribo is a brand of what type of candy?	Peppermints	Chocolates	Sour powder	Gummy bears
+FTUX061	Brands	0	Which of these is a brand of small mints that come in a plastic container?	Dairy Queen	Panasonic	Beats By Dre	Tic-Tacs
+FTUXPIC40	Brands	0	Which social media logo is this?	Facebook	Snapchat	Pinterest	Instagram
+40E2069	Brands	0	Which brand would you choose if you were hungry?	eBay	Zara	American Express	McDonald's
+40E2679	Brands	0	What brand would you choose if you were hungry?	FedEx	Dell Technologies	Bank Of America	Subway
+40E2719	Brands	0	The Xfinity brand would be in what category?	Fast Food	Retail	Beverages	Telecom Provider
+60E2209	Brands	0	What is a technology brand?	Chanel	UPS	Disney	Google
+FTUX25	Brands	0	Which company makes the iPhone?	Tesla	Samsung	Dove	Apple
+FTUXPIC50	Brands	0	Who makes these products?	Microsoft	Android	Sony	Apple
+0DIF97	Brands	0	Aveeno is known for making which of the following?	Juice	Painkillers	Energy drinks	Lotion
+FTUXPIC34	Brands	0	Who makes this food?	McDonalds	Burger King	Wendy's	Taco Bell
+40E2479	Brands	0	If you were looking for a technology brand what would you pick?	Starbucks	McDonald's	American Express	Samsung
+40E2899	Brands	0	Which brand would you use for entertainment?	Lysol	The Home Depot	Gillette	YouTube
+40E2709	Brands	0	The Microsoft brand would be considered what category?	Retail	Fast Food	Tobacco	Technology
+60E2889	Brands	0	Which brand would a child use if they wanted to build?	Prada	Tiffany & Co.	Jack Daniels	Lego
+0DIF87	Brands	0	Which of the following is a bank?	Atari	Sprint	Facebook	Wells Fargo
+FTUX065	Brands	0	What company makes athletic shoes and is named after a big cat?	Liger	Lynx	Tion	Puma
+FTUX32	Brands	0	Which brand used the slogan that began with "Maybe she's born with it"?	Asus	Apple	Bounty	Maybelline
+FTUX43	Brands	0	Which of the following is a brand of coffee?	Dove	Nike	Dasani	Folgers
+FTUX31	Brands	0	FedEx is a company that provides what?	Car washes	Car insurance	Spa treatments	Delivery service
+60E1849	Brands	0	Which brand would you look to for entertainment?	Toyota	FedEx	Gillette	Disney
+FTUX045	Brands	0	Which of these is a credit card company?	Marvel	Animal Planet	KFC	Visa
+60E2749	Brands	0	If you were looking for breakfast, what brand could provide that?	Birds Eye	Converse	Cadbury	Kellogg's
+FTUX37	Brands	0	Which company sold the GameCube console?	Canon	HP	Sony	Nintendo
+60E2629	Brands	0	Which brand is involved with banking?	IKEA	Pampers	Colgate	Western Union
+D0TRV32301	Brands	0	Which animal appears on Huy Fong's Sriracha sauce bottle?	Pig	Cow	Fish	Rooster
+D0TRV32302	Brands	0	Which brand's logo features red, white, and blue rectangles?	Lacoste	Xbox	Mitsubishi	Tommy Hilfiger
+D0TRV32303	Brands	0	Which fast food brand's slogan was "Have it your way"?	Olive Garden	Wienerschnitzel	Five Guys	Burger King
+D0TRV32304	Brands	0	Which brand might you choose for a cough drop?	Atomic Fireball	Lemonheads	Smarties	Ricola
+D0TRV32305	Brands	0	Which laundry detergent brand uses red and yellow circles in their logo?	Gain	Snuggle	Downy	Tide
+D0TRV32306	Brands	0	Which brand might you choose for a water pitcher with built in filter?	Toshiba	Jet Blue	Bissell	Brita
+D0TRV32307	Brands	0	Which brand does NOT make electric shavers?	Panasonic	Braun	Philips Norelco	Sony
+D0TRV32308	Brands	0	Which product is offered by Del Monte?	Shoes	Television	Blender	Canned fruit
+D0TRV32309	Brands	0	What color is the robot logo for Android devices usually?	Yellow	Blue	Black	Green
+D0TRV32310	Brands	0	What product is offered by Ray-ban?	Sun tan lotion	Hats	Batteries	Sunglasses
+D0TRV32311	Brands	0	What animal is the mascot for Charmin toilet paper?	Sheep	Rabbit	Puppy	Bear
+D0TRV32312	Brands	0	Which brand might you choose for a bicycle lock?	Tylenol	McAfee	Any of these	Kryptonite
+D0TRV32313	Brands	0	Which fabric softener brand has a teddy bear mascot?	Bounce	Downy	Gain	Snuggle
+D0TRV32314	Brands	0	Which candy brand was advertised as "the fresh maker"?	Rolo	Mambas	Pop Rocks	Mentos
+D0TRV32315	Brands	0	Which brand would you look to for streaming entertainment online?	Target	Barnes & Noble	Suave	Amazon Prime
+D0TRV32316	Brands	0	Which brand is known for vaccuum cleaners?	BMW	Cuisineart	Braun	Dyson
+D0TRV32317	Brands	0	Which brand might you choose for BBQ charcoal?	Duraflame	Pennzoil	Any of these	Kingsford
+D0TRV32318	Brands	0	Which brand might you choose for a robot vacuum?	Chick-fil-A	Whirlpool	Volvo	iRobot Roomba
+D0TRV32319	Brands	0	Which beer's ads have featured "the most interesting man in the world"?	Pabst Blue Ribbon	Budweiser	Coors	Dos Equis
+D0TRV32320	Brands	0	Which brand does NOT make ice cream?	Dreyer's	Haagen-Dazs	Blue Bunny	Chobani
+D0TRV32321	Brands	0	Which brand might you choose for a baseball bat?	Batman	Ping	Bacardi	Louisville Slugger
+D0TRV32322	Brands	0	Which brand might you choose for a kitchen range/oven?	Maserati	Lexus	Firestone	Wolf
+D0TRV32323	Brands	0	Which brand might you choose for butter?	Land O'Lakes	Kerrygold	Organic Valley	Any of these
+D0TRV32324	Brands	0	What brand would you choose for high-end jewelry?	Walmart	Dasani	J.P. Morgan	Tiffany & Co.
+D0TRV32325	Brands	0	Which brand makes canned tuna?	StarKist	Chicken of the Sea	Bumble Bee	All of these
+D0TRV32326	Brands	0	Which brand makes frozen meals?	Stouffers	Hungry-Man	Marie Callenders	All of these
+D0TRV32327	Brands	0	Which brand does NOT make shampoo?	Dove	Head & Shoulders	Pantene	Dasani
+D0TRV32328	Brands	0	Which product is offered by V8?	Cars	Jerky	Candy	Vegetable juice
+D0TRV32329	Brands	0	Which brand might you choose for jam?	A.1.	Skippy	Country Crock	Smucker's
+D0TRV32330	Brands	0	Which insurance company claims "15 minutes could save you 15% or more on ..."?	Progressive	Allstate	State Farm	GEICO
+D0TRV32331	Brands	0	Which brand makes orange juice?	Tropicana	Minute Maid	Florida's Natural	All of these
+D0TRV32332	Brands	0	Which brand might you choose for baby food?	Fruit of the Loom	Cisco	Apple	Gerber
+D0TRV32333	Brands	0	Which brand might you choose for mouthwash?	Clorox	Lysol	Old Spice	Listerine
+D0TRV32334	Brands	0	Which product is made by Igloo?	Refridgerator	Air Conditionaer	Fan	Cooler
+D0TRV32335	Brands	0	Which brand is made by Costco?	Signature SELECT	Great Value	Up&Up	Kirkland
+D0TRV32336	Brands	0	Which brand might you choose for a can of soup?	Dole	Any of these	Fanta	Progresso
+D0TRV32337	Brands	0	Which brand is known for smoothies?	Starburst	Jolly Rancher	Kool-Aid	Jamba Juice
+D0TRV32338	Brands	0	Which brand slogan asked you to "taste the rainbow"?	Lucky Charms	Nerds	Air Heads	Skittles
+D0TRV32339	Brands	0	Which brand might you choose for diapers?	Huggies	Luvs	The Honest Co.	Any of these
+D0TRV32340	Brands	0	Which is a grocery store chain?	Whole Foods	Safeway	Trader Joe's	All of these
+D0TRV32341	Brands	0	Which brand's slogan was "Just do it"?	IBM	Morgan Stanley	Ben & Jerry's	Nike
+D0TRV32342	Brands	0	Which brand's logo features a man on a horse?	White Castle	Ferrari	Porsche	Polo Ralph Lauren
+D0TRV32343	Brands	0	Which is NOT a mascot for Rice Krispies cereal?	Snap	Pop	Crackle	Crunch
+D0TRV32344	Brands	0	Which Kellogg's product uses the slogan "Leggo my ____"?	Pop Tarts	Cheez-It	Special K	Eggo
+D0TRV32345	Brands	0	Which brand makes hand soap?	Dial	Method	Dove	All of these
+D0TRV32346	Brands	0	Which brand had a series of ads featuring Terry Tate, Office Linebacker?	Office Max	Xerox	MetLife	Reebok
+D0TRV32347	Brands	0	Which cookie brand features elf bakers in their ads?	Gril Scout Cookies	Oreo	Mother's Cookies	Keebler
+D0TRV32348	Brands	0	When shopping for Jimmy Choo's, what is being sought?	Cereal	Makeup	Candy	Women's Shoes
+D0TRV32349	Brands	0	Which brand might you choose for a designer purse?	Gucci	Chanel	Prada	Any of these
+D0TRV32350	Brands	0	When shopping for Doc Martens, what is being sought?	Cough Syrup	Jacket	Coffee	Shoes
+D0TRV32351	Brands	0	Which brand might you choose for a wedding dress?	Old Navy	L'Oreal	Under Armour	Vera Wang
+D0TRV32352	Brands	0	Which brand might you choose for adhesive tape?	Brawny	Quilted Northern	Saran Wrap	Scotch
+D0TRV32353	Brands	0	Which brand might a person choose for deodorant?	Right Guard	Degree	Axe	Any of these
+D0TRV32354	Brands	0	Which brand might you choose for relief from a cold?	Dayquil	Robitussin	Mucinex	Any of these
+D0TRV32355	Brands	0	What canned product is offered by Fancy Feast?	Caviar	Truffles	Foie gras	Cat food
+D0TRV32356	Brands	0	Which brand might you choose for dog food?	Blue	Cesar	Purina	Any of these
+D0TRV32357	Brands	0	Which shoe brand did the "Damn Daniel" viral video feature?	Mizuno	Under Armour	Skechers	Vans
+D0TRV32358	Brands	0	Which fast food brand has "Golden Arches" in their logo?	Jack in the Box	In-N-Out Burger	White Castle	McDonald's
+D0TRV32359	Brands	0	Which is a brand of chewing gum?	Trident	Juicy Fruit	Orbit	All of these
+D0TRV32360	Brands	0	Which brand offers juice in pouches?	Starbucks	Apple	Dunkaroos	Capri-Sun
+D0TRV32361	Brands	0	Which brand claims to be "Strong enough for a man, made for a woman"?	Smith & Wesson	Victoria's Secret	Jimmy Choo	Secret
+D0TRV32362	Brands	0	Who is Progressive Insurance's fictional spokesperson character?	Alice	Peg	Midge	Flo
+D0TRV32363	Brands	0	Which brand had an ad called "The man your man could smell like"?	Dior	Pillsbury	Cadillac	Old Spice
+D0TRV32364	Brands	0	Which car model is made by Subaru?	Impreza	Outback	Forester	All of these
+D0TRV32365	Brands	0	Which brand sells Kisses?	Life Savers	Ann Taylor	Barilla	Hershey's
+D0TRV32366	Brands	0	Which brand might a person choose for a toothbrush?	Oral-B	Colgate	Reach	Any of these
+D0TRV32367	Brands	0	Which brand claims it "melts in your mouth, not in your hands"?	Jelly Belly	Milk Duds	Swedish Fish	M&M's
+D0TRV32368	Brands	0	According to their slogan, which potato chip brand has "Rrridges"?	Lays	Pringles	Doritos	Ruffles
+D0TRV32369	Brands	0	Which brand might you choose for a basketball?	Dunkaroos	Champion	Bull's Eye	Spalding
+D0TRV32370	Brands	0	Which brand might you choose for a laundry washing machine?	Pixel	Yamaha	Triumph	Samsung
+D0TRV32371	Brands	0	Which product is made by Herbal Essences?	Tea	Towels	Candles	Shampoo
+D0TRV32372	Brands	0	When shopping for Crocs, what is being sought?	Pants	Gloves	Dumbbells	Shoes
+D0TRV32373	Brands	0	Which car brand's slogan was "Let's go places"?	Porsche	Saab	Ford	Toyota
+D0TRV32374	Brands	0	Which brand might you choose for ramen?	Maruchan	Sapporo Ichiban	Nissin	All of these
+D0TRV32375	Brands	0	What product is the Michelin Man a mascot for?	Marshmallows	Ice Cream	Pillows	Car tires
+D0TRV32376	Brands	0	Which product was offered by Adobe.	Photoshop	Acrobat Reader	Flash	All of these
+D0TRV32377	Brands	0	Which restaurant chain helped popularize baby back ribs?	Sizzler	Red Lobster	Jersey Mike's	Chili's
+D0TRV32378	Brands	0	Which brand claimed to be "Moving at the speed of business"?	E*Trade	Intel	Home Depot	UPS
+D0TRV32379	Brands	0	Which brand makes pasta sauce?	Ragu	Prego	Bertolli	All of these
+D0TRV32380	Brands	0	Which brand makes paper towels?	Bounty	Scott	Brawny	All of these
+D0TRV32381	Brands	0	Which brand of glue might be common in many classrooms?	E6000	Master Lock	Uber	Elmer's
+D0TRV32382	Brands	0	Which was a movie theater franchise?	AMC	Cinemark	Landmark	All of these
+D0TRV32383	Brands	0	Which product is made by Yoplait?	Glue	Yo-yo	Lotion	Yogurt
+D0TRV32384	Brands	0	Which brand makes resealable plastic bags?	Finesse	Visine	Revlon	Ziploc
+D0TRV32385	Brands	0	Which brand might you choose for a bicycle?	Big Wheels	Castrol	Boeing	Schwinn
+D0TRV32386	Brands	0	Which brand makes lotion?	Nivea	Lubiderm	Jergens	Any of these
+D0TRV32387	Brands	0	What is the mascot for the Cracker Jack snack?	Clown	Lizard	Dolphin	Sailor with dog
+D0TRV32388	Brands	0	Which brand used the slogan "Sour. Sweet. Gone."?	Taco Bell	Jaguar	Panda Express	Sour Patch Kids
+D0TRV32389	Brands	0	Which store chain might you seek for home furnishings?	Williams-Sonoma	Crate & Barrel	Pottery Barn	Any of these
+D0TRV32390	Brands	0	Which brand might you choose for a jacket?	North Face	Columbia	Eddie Bauer	Any of these
+D0TRV32391	Brands	0	Which products are offered by the game company Blizzard?	World of Warcraft	Diablo 3	Starcraft 2	All of these
+D0TRV32392	Brands	0	Which brand's slogan was "Australian for beer"?	Quantus	Heineken	Guinness	Foster's
+D0TRV32393	Brands	0	Which product is made by Sub Zero?	Cooler	All of these	Skis	Refrigerator
+D0TRV32394	Brands	0	Which brand makes Air Jordan shoes?	Reebok	Converse	New Balance	Nike
+D0TRV32395	Brands	0	Which soda brand would like you to "Obey your thirst"?	Rockstar	Dr. Pepper	Jones	Sprite
+D0TRV32396	Brands	0	What product is being promoted by the slogan "It's Miller time"?	BBQ grill	Pizza	Coffee	Beer
+D0TRV32397	Brands	0	What kind of bird is the mascot for Vlasic pickles?	Owl	Cardinal	Emu	Stork
+D0TRV32398	Brands	0	Which brand offers customizable burritos in an assembly line style?	Carl's Jr.	Long John Silver's	TGI Fridays	Chipotle
+D0TRV32399	Brands	0	What does Planters' Mr. Peanut mascot wear on his face?	Sun Glasses	Eye Patch	Face Mask	Monocle
+D0TRV32400	Brands	0	Which brand's logo looks like circle divided into 3 equal parts?	Target	Motorolla	Microsoft	Mercedes-Benz
+D0TRV32401	Brands	0	Which products are made by the Michael Kors brand?	Clothing	Handbags	Wallets	All of these
+D0TRV32402	Brands	0	Which franchise offers Chinese food?	Sonic	Denny's	Applebee's	Panda Express
+D0TRV32403	Brands	0	Which brand might you choose for macaroni and cheese?	Yoplait	Kellogg's	Pepperidge Farm	Kraft
+D0TRV32404	Brands	0	Which products were made by Milton Bradley?	Battleship	Yahtzee	The Game of Life	All of these
+D0TRV32405	Brands	0	Which brand's jingle started "Plop plop fizz fizz ..."?	Pepto Bismol	Dom Perignon	Advil	Alka-Seltzer
+D0TRV32406	Brands	0	Which brand might a person choose for a motorcycle?	Ducati	Kawasaki	Harley-Davidson	Any of these
+D0TRV32407	Brands	0	Which brand said it "kills bugs dead"?	OFF!	Norton	ADT	Raid
+D0TRV32408	Brands	0	Which juice brand did Nathan Apodaca's TikTok video feature?	Mott's	POM	Welch's	Ocean Spray
+D0TRV32409	Brands	0	Which brand might you choose for ranch dressing?	Jif	French's	Nutella	Hidden Valley
+D0TRV32410	Brands	0	Which insect is Cheerios Honey Nut cereal's mascot?	Beetle	Lady Bug	Grasshopper	Bee
+D0TRV32411	Brands	0	What mascot for Energizer batteries continuously travels banging a drum?	Bear	Dog	Squirrel	Bunny
+D0TRV32412	Brands	0	Which brand might you choose for prescription glasses?	Oculus	Visine	Birds Eye	Lenscrafters
+D0TRV32413	Brands	0	Which brand might you choose for a flight?	Southwest	Lufthansa	Delta	Any of these
+D0TRV32414	Brands	0	Which car brand makes the Prius hybrid vehicle?	Tesla	Mercedes-Benz	Lamborghini	Toyota
+D0TRV32415	Brands	0	Which brand's jingle started "Like a good neighbor ..."?	Goldman Sachs	ExxonMobil	DuPont	State Farm
+D0TRV32416	Brands	0	Which brand might you choose for dish soap?	Palmolive	Dawn	Seventh Generation	Any of these
+D0TRV32417	Brands	0	Which brand does Hasbro make action figures for?	Star Wars	Transformers	G.I. Joe	All of these
+D0TRV32418	Brands	0	Which brand might you choose for plant fertilizer?	Brawndo	Roundup	Dell	Miracle-Gro
+D0TRV32419	Brands	0	Which brand makes tubes of dough for baking various cookies or rolls at home?	Wonder Bread	Subway	Krispy Kreme	Pillsbury
+D0TRV32420	Brands	0	Which is NOT a brand of cookies?	Oreos	Chips Ahoy!	Nutter Butter	Snapple
+D0TRV32421	Brands	0	Which product is made by Oroweat?	Gold Jewelry	Potato Chips	Soda	Sliced Bread
+D0TRV32422	Brands	0	Which brand might you choose for tissue paper?	Mead	Hallmark	Wall Street Journal	Kleenex
+D0TRV32423	Brands	0	Which is a frozen pizza brand?	Freschetta	DiGiorno	Red Baron	All of these
+D0TRV32424	Brands	0	Which brand makes cake mix?	Duncan Hines	Betty Crocker	Krusteaz	All of these
+D0TRV32425	Brands	0	Which brand might you choose for yoga pants?	Levi's	Cartier	Olay	Lululemon Athletica
+D0TRV32426	Brands	0	Which brand might you choose for cinnamon rolls?	Baja Fresh	Big Red	Any of these	Cinnabon
+D0TRV32427	Brands	0	Which brand might you choose for mayonnaise?	Haagen-Dazs	Philadelphia	Cool Whip	Best Foods
+D0TRV32428	Brands	0	Which brand makes tortillas?	Ortega	Mission	Old El Paso	All of these
+D0TRV32429	Brands	0	Which candy brand can be worn on your hand?	Dum Dums	Twix	All of these	Ring Pop
+D0TRV32430	Brands	0	Which fast food brand said they were "finger lickin' good"?	Red Robin	Popeyes	Wingstop	KFC
+D0TRV32431	Brands	0	Which car brand's logo is 4 interlocked rings in a row?	Acura	Infinity	Chevy	Audi
+D0TRV32432	Brands	0	Which brand might you choose for a baseball?	Addias	Canon	Hefty	Rawlings
+D0TRV32433	Brands	0	Which brand might you choose for a football?	Penn	Titleist	Under Armour	Wilson
+D0TRV32434	Brands	0	Which brand might you choose for soy sauce?	Saffola	Pace	Wish-Bone	Kikkoman
+D0TRV32435	Brands	0	Which is a Doritos tortilla chip flavor?	Cool Ranch	Nacho Cheese	Spicy Nacho	All of these
+D0TRV32436	Brands	0	Which brand makes backpacks?	JanSport	Trailmaker	Swissgear	All of these
+D0TRV32437	Brands	0	What kind of bear is the mascot for Icee drinks?	Grizzley Bear	Black Bear	Teddy Bear	Polar Bear
+D0TRV32438	Brands	0	Which brand had a jingle called "$5 footlong"?	Zales	Pizza Hut	Asics	Subway
+D0TRV32439	Brands	0	Which brand might you choose for a toy wagon?	Huffy	Volkswagon	Dunlop	Radio Flyer
+D0TRV32440	Brands	0	Which brand might you choose for luggage?	Glad	Ethan Allen	Sub-Zero	Samsonite
+D0TRV32441	Brands	0	Which brand might you choose for a power tool?	Dewalt	Ryobi	Craftsman	Any of these
+D0TRV32442	Brands	0	Which brand might you choose for a laptop?	Hoover	Maytag	Bugatti	Lenovo
+D0TRV32443	Brands	0	Which brand might you choose for a cruise?	Harbor Freight	Any of these	British Petroleum	Norwegian
+D0TRV32444	Brands	0	Which brands are owned by Disney?	Star Wars	Pixar	Marvel Comics	All of these
+D0TRV32445	Brands	0	When shopping for Chucks, what is being sought?	Peanuts	Car	Phone	Sneakers
+D0TRV32446	Brands	0	Which brand might you find at Sephora?	CLINIQUE	Lancome	Estee Lauder	Any of these
+D0TRV32447	Brands	0	For which brand did Samuel Jackson ask "What's in your wallet?"	Mastercard	Bic	Prada	Capitol One
+D0TRV32448	Brands	0	Which brand might you choose for a coffee maker machine?	Keurig	Mr. Coffee	Hamilton Beach	Any of these
+D0TRV32449	Brands	0	What kind of bird is the mascot for Linux (computer operating system)?	Eagle	Sparrow	Swan	Penguin
+D0TRV32450	Brands	0	Which brand's logo features a smile?	Apple	Sony	Domino's	Amazon
+299231	Brands	1	Which company has used the ad slogan, "We Really Move Our Tail For You"?	Expedia	Wilkinson	McDonald's	Continental Airlines
+1DIFB15	Brands	1	Which of these companies DOES NOT make computers?	Acer	Toshiba	Apple	Gold Bond
+299805	Brands	1	Which company has used the ad slogan, "How Many Bars Do You Have?"?	Clairol Herbal Essences	Roto-Rooter	Winn Dixie	AT&T
+190930	Brands	1	For the fashion label "DKNY", the initials stand for what?	Don't Know No Youths	David Krystal New York	Deeper Kneading Needs Yeast	Donna Karan New York
+345185	Brands	1	Which product is made by Kellogg's?	YSL Cologne	Slice Soda	Tab	Raisin Bran
+525206	Brands	1	Which product is made by PepsiCo?	Cracker Jacks	Preserves	Sneakers	Slice Soda
+299839	Brands	1	Which product is made by Nabisco?	Film	Floor Cleaning Machines	Paper Glue	Oreo Cookies
+494395	Brands	1	Two For Me, None For You! has been which company's ad slogan?	BMW	Renault	Like Cola	Twix
+190948	Brands	1	Which company is the maker of Cheerios?	Brita	Proctor Silex	Godiva	General Mills, Incorporated
+FTUXPIC31	Brands	1	Which social media logo is this?	MySpace	Instagram	Tumblr	Facebook
+190931	Brands	1	Which company has used the ad slogan, "Because I'm Worth It"?	7UP	Alton Towers	American Airlines	L'Oreal
+1DIFB31	Brands	1	Elon Musk founded which brand of automobile?	Studebaker	Ford	Packard	Tesla
+FTUX051	Brands	1	Which of these is NOT a place where you can get pizza?	Papa John's	Domino's	Little Caesars	Arby's
+191029	Brands	1	Which advertiser used the phrase "I can't believe I ate the whole thing"?	Domino's Pizza	Duncan Hines	Pepto Bismol	Alka Seltzer
+FTUX36	Brands	1	What is "Hewlett Packard" (HP) known for?	Makeup	Underwear	Fast Food	Printers
+FTUX047	Brands	1	Kellogg makes frosted toaster pastries that go by what name?	Fruit Pies	Swiss Rolls	Twinkies	Pop Tarts
+324653	Brands	1	What breakfast cereal features a leprechaun named Lucky?	Trix	Froot Loops	Cheerios	Lucky Charms
+190938	Brands	1	Which product is made by PepsiCo?	Band-Aids	Heath Bar	Reese's Pieces	Aquafina
+60E1669	Brands	1	Which of the following is a technology brand?	Coca-Cola	Louis Vuitton	The Home Depot	Cisco
+489668	Brands	1	What cereal mascot's slogan was "I vant to eat your cereal!" said with an accent?	Kix Rabbit	Snap	Frankenberry	Count Chocula
+255007	Brands	1	Which company is the maker of "White Diamonds" perfume?	Kraft	Die Hard	Sealy	Elizabeth Taylor
+1DIFB21	Brands	1	What is the name Yoplait's kid-friendly take on yogurt, served in a squeezable tube?	Dunkaroos	Fruit by the Foot	Gushers	Go-Gurt
+1DIFB04	Brands	1	What food company is known for cookies, hot chocolate, and more?	Papa John's	Ben & Jerry's	Kraft	Nestlé
+299351	Brands	1	Which company has used the advertising slogan, "Travel Should Take You Places"?	Halifax	Schlitz	Bounty	Hilton
+FTUX054	Brands	1	What kind of animal is the mascot for Frosted Flakes?	Bee	Toucan	Frog	Tiger
+60E1169	Brands	1	Zara would be in what brand category?	Payments	Beverages	Insurance	Apparel
+FTUXPIC51	Brands	1	Which game distribution company uses this logo?	Microsoft	Google	Apple	Steam
+202730	Brands	1	Who makes the Navigator SUV?	BMW	Lexus	Cadillac	Lincoln
+349681	Brands	1	Which company is a maker of donuts?	Reynolds Wrap	Frito Lay	Godiva	Entenmann's
+190978	Brands	1	Which company is a maker of electric guitars?	Valvoline	Mead Johnson	Amurol Confections Company	Gibson
+349700	Brands	1	What is Google's online ad services to purchase keywords in their search results?	Google Adsense	Google Market	Google Play	Google Adwords
+191340	Brands	1	Which product is made by Coca-Cola Company?	Basketballs	Bubbletape	Computer Modems	Sprite
+512317	Brands	1	All The News That's Fit To Print has been which company's ad slogan?	Irish Independent	Playboy	Teen Magazine	The New York Times
+349586	Brands	1	What fast food restaurant has a cowboy hat as its logo?	Subway	Burger King	McDonald's	Arby's
+1DIFB10	Brands	1	What brand of chewing gum invites you to "Stimulate Your Senses"?	Big League Chew	Extra	Juicy Fruit	5 Gum
+FTUX062	Brands	1	Wells Fargo's logo features a carriage drawn by what animal?	Elephant	Unicorn	Donkey	Horse
+202744	Brands	1	Which car dealer sells Vipers?	Buick	Chrysler	Ford	Dodge
+271102	Brands	1	Which auto maker produced the RX-7?	Toyota	Jaguar	Datsun	Mazda
+1DIFB02	Brands	1	What Swiss company creates luxury watches?	Kirkland Signature	Microsoft	Toshiba	Rolex
+1DIFB28	Brands	1	Which music streaming service's logo is a blue letter "P"?	Spotify	Steam	Discord	Pandora
+1DIFB14	Brands	1	The restaurant IHOP is an acronym that stands for for "International House of" what?	Prune Juice	Pencils	Punk Rock	Pancakes
+202755	Brands	1	What car company made the Elantra?	Toyota	Chrysler	Ford	Hyundai
+299403	Brands	1	What product originally sponsored the TV cartoon "The Flintstones"?	Zest Soap	Colgate Toothpaste	Ban Deodorant	Winston Cigarettes
+92848	Brands	1	Breakfast Of Champions has been used as an ad slogan by which company?	Birdseye	Home Depot	Petro-Canada	Wheaties
+191047	Brands	1	Which company is a maker of batteries?	Hersheys	Lucas Arts	Ronzoni	Duracell
+72218	Brands	1	It's Better With The Butterfly has been used as an ad slogan by which company?	Shredded Wheat	Sun Microsystems	Hughes Air West	Microsoft
+299845	Brands	1	Which of these is a Ford car?	Neon	Spectra	Prelude	Focus
+31276	Brands	1	Which product is made by Fender?	Sierra Mist	Ketchup	Motorcycles	Telecaster Guitar
+512336	Brands	1	Which of the following is actually a McDonald's food item?	McBacon And Cheese	McChickie Sandwich	McTuna Salad Sandwich	McRib Sandwich
+1DIFB22	Brands	1	If you wanted a Chalupa, some Doritos Locos Tacos, and a Baja Blast, where whould you go?	Burger King	Del Taco	IHOP	Taco Bell
+512348	Brands	1	Which company has used the ad slogan, "Too Good To Hurry Mints"?	Oldsmobile	Topic	Heineken	Murray Mints
+255417	Brands	1	Can't Beat The Real Thing has been which company's ad slogan?	Frito Lay	Pepsi	Del Monte	Coke
+512342	Brands	1	How Do They Cram All That Graham? has been which company's ad slogan?	Subway	Quaker	Nestle	Golden Grahams
+202741	Brands	1	What fast food restaurant sells the "Whopper"?	McDonalds	Arby's	Subway	Burger King
+299342	Brands	1	Which ad slogan has been promoted by Staples?	The Listening Place	Power Lunch	GOTTALOVEIT	That Was Easy
+191049	Brands	1	Which company is the maker of paper glue?	General Mills, Incorporated	Capital One	Microsoft	Elmer's
+304015	Brands	1	Which cereal's slogan starts with "Silly rabbit" and ends with "are for kids!"?	Kix	Cheerios	Frosted Flakes	Trix
+191093	Brands	1	Which product is made by Ben and Jerry's?	Lunchables	Electric Shaver	Cheetos	Ice Cream
+299843	Brands	1	What type of drink is Mott's most known for producing?	Soda	Water	Milk	Juice
+191220	Brands	1	What are kid's meals called at McDonald's?	Children's Meal	Happy Box	Mini Meal	Happy Meal
+494400	Brands	1	Which product is made by Nintendo?	Computer	Mutual Funds	Underwear	Video Games
+1DIFB08	Brands	1	Green Giant is known as a company that sells canned and frozen what?	Televisions	Potato Chips	Credit Cards	Vegetables
+489670	Brands	1	Which company is the maker of Juicy Fruit gum?	Mars	Nestle	Dansani	Wrigley
+299452	Brands	1	Which product is made by Coca Cola Company?	Ysl Cologne	Cereal	Lunchables	Powerade
+299224	Brands	1	Which company has used the ad slogan "Where A Kid Can Be A Kid"?	Bronx Zoo	Sesame Street	Disney World	Chuck E. Cheese's
+191227	Brands	1	Which furry feline is known as the "spokescat" for Cheetos?	Felix the Cat	Sylvester	Chuck E. Cheese	Chester Cheetah
+202751	Brands	1	I've Fallen And I Can't Get Up! was what company's ad slogan?	Stater Brothers	Transamerica	Listerine	Life Alert
+1DIFB16	Brands	1	The WWE, formerly known as the WWF, is known as what kind of company?	Music Streaming	Computer Manufacturing	Fresh Fruit	Pro Wrestling
+489674	Brands	1	Which potato chips are packaged in a can?	Wise	Funyuns	Lays	Pringles
+190953	Brands	1	Which famous cartoon is associated with varieties of "Pebbles" cereal?	The Jetsons	SpongeBob SquarePants	Pokemon	The Flintstones
+FTUX40	Brands	1	Pringles is a brand of what?	Soap	Tennis balls	Cookies	Chips
+318124	Brands	1	Which product is made by Hershey's?	Wheat Thins	Mello Yello	Basketballs	Milk Duds
+295626	Brands	1	According to the commercial, what is the "fabric of our lives"?	Spandex	Chiffon Coupled With Organza	Latex	Cotton
+226137	Brands	1	Which product is made by PepsiCo?	Kleenex	Trident Gum	Garage Door Openers	Mountain Dew
+3612	Brands	1	Which ad slogan has been promoted by ESPN?	Go For It	Jumping Through Hoops	See The Light	This Is Sportscenter
+299465	Brands	1	Which product is made by Friskies?	L&M Cigarettes	Video Game Software	Sneakers	Cat Food
+299494	Brands	1	Put The Fun Back Into Driving has been which company's ad slogan?	Las Vegas	Country Life Butter	Energizer Batteries	Vauxhall Motors
+1DIFB24	Brands	1	Which clothing store's slogan is "You're going to like the way you look, I guarantee it"?	Hulu	GAP	Sven's Bearhouse	Men's Wearhouse
+525198	Brands	1	Clean, Clear And Under Control has been used as an ad slogan by which company?	Papa John's	Pepsi	Albertson's	Clean And Clear
+349630	Brands	1	Milk: It Does A Body Good has been used as an ad slogan by which company?	Chrysler	Texaco Service Stations	Perdue	National Dairy Council
+350101	Brands	1	What major corporation uses the slogan "Go Brown"?	McDonald's	Wal-Mart	Nike	Ups
+40769	Brands	1	What symbol is on the Chuck Taylor sneaker?	Moon	Flower	Square	Star
+282951	Brands	1	No Battery Is Stronger Longer has been used as an ad slogan by which company?	Cox Communications	Reebok	Chuck E. Cheese's	Duracell Batteries
+FTUXPIC60	Brands	1	Who makes this product?	Logitech	Toshiba	Sony	Beats Electronics
+191222	Brands	1	Which company is the maker of Energy Bars?	Wrigley	Yves Saint Laurent	Timex	Gatorade
+1DIFB11	Brands	1	What coffee company strives to be the best part about waking up?	Pete's	Dunkin	5 Hour Energy	Folgers
+1DIFB06	Brands	1	What brand of chips is made to resemble onion rings?	Cheetos	Sun Chips	Twinkies	Funyuns
+190929	Brands	1	What soft drink was marketed as the "Uncola"?	A&W Root Beer	Sprite	Sunkist	7UP
+345162	Brands	1	What car manufacturer makes the Altima?	Buick	Chevrolet	Kia	Nissan
+1DIFB17	Brands	1	What famous red hot sauce hails from Louisiana?	Heinz	Hersheys	Juicy Fruit	Tabasco
+202223	Brands	1	Which company has used the ad slogan "Betcha can't eat just one"?	Planters Peanuts	Cheetos	Jelly Belly Jelly Beans	Lay's Potato Chips
+1DIFB09	Brands	1	What American restaurant chain is known for their toasted subs?	Baskin Robbins	Ghirardelli	Ben & Jerrys	Quiznos
+349650	Brands	1	Which Chrysler retro-styled compact car ceased production in 2010?	VP Cruiser	HB Cruiser	AZ Cruiser	PT Cruiser
+100073	Brands	1	What car manufacturer makes the Rav4?	Volkswagen	Nissan	Jaguar	Toyota
+299842	Brands	1	Which product is made by Bazooka?	Crackers	Vacuum Cleaner	Paper Glue	Bubble Gum
+345186	Brands	1	Which company is known for producing "Barbie" dolls?	Hasbro	Milton Bradley	Parker Brothers	Mattel
+1DIFB12	Brands	1	Apple is known for many products, but what is their tablet brand known as?	iPod	iTablet	iWindow	iPad
+186082	Brands	1	Which of these products is made by Bayer Corporation?	Kit Kat Bar	Garage Door Openers	Swatch Watches	Alka Seltzer
+295623	Brands	1	What product is Crayola famous for?	Tissues	Dog Food	Beds	Crayons
+356988	Brands	1	Which product is made by Dasani?	Champagne	Dog Biscuits	Irons	Water
+1DIFB27	Brands	1	Which drink's logo features the letter G with a lightning bolt through it?	Google	Guiness	Grey Goose	Gatorade
+202736	Brands	1	Aqua Velva is a skin soother men apply after doing what?	Sleeping	Eating	Driving	Shaving
+345300	Brands	1	Which restaurant is famous for its "Grand Slam" meal?	Carrows	Rainforest Cafe	TGI Fridays	Denny's
+365475	Brands	1	Clean & Clear is a product made for daily cleansing of what?	Tongue	Fingernails	Throat	Skin
+494376	Brands	1	Which product is made by Nike?	Dishwashers	Energy Drinks	Whiskey	Sneakers
+1DIFB29	Brands	1	Which popular candy has the slogan "There's no wrong way to eat a _____"	Goldfish	Whatchamacallit	Crunch	Reese's
+363764	Brands	1	Which of these is a brand of cat food?	Miltons	Amazon	Starkist	Friskies
+202734	Brands	1	Which Proctor and Gamble cosmetics brand is another term for a magazine model?	Max Factor	St. Ives Swiss Formula	Neutrogena	Cover Girl
+191541	Brands	1	Which company has used the ad slogan "Where Fresh Is The Taste"?	Delta Air Lines	Stella Artois	IKEA	Subway
+357000	Brands	1	Polo, Chaps and Club Monaco are all divisions of what company?	Nike	Coca-Cola	Starter	Ralph Lauren
+1DIFB01	Brands	1	What magazine is most closely associate with bunnies?	Time	Parade	Popular Science	Playboy
+190960	Brands	1	Who makes the Pathfinder?	Ford	Kia	Toyota	Nissan
+357030	Brands	1	Wendy's has used which advertising slogan?	I Am Canadian	Just Do It	Applying Thought	Eat Great, Even Late
+356966	Brands	1	Which product is made by PepsiCo?	Freezers	Cheetos	Baseball Cards	Sierra Mist
+345287	Brands	1	Which of these products was introduced by the Coca-Cola Company in 1999?	Steinway Pianos	Cellular Phones	Hi-Liters	Dasani Water
+1DIFB25	Brands	1	Which company makes keyboards, mice, headsets, and other PC peripherals?	Western Digital	Arby's	Seagate	Logitech
+1DIFB30	Brands	1	At which California burger chain can you get a Double-Double, animal style?	A&W	Panda Express	Burger King	In-n-Out
+349629	Brands	1	Unleash The Power Of The Sun has been used as an ad slogan by which company?	Pepsi	Coke	Snapple	Sunny Delight
+299819	Brands	1	Which of the following fashion brands has a moose on its logo?	Hollister Company	American Eagle Outfitters	L.L. Bean	Abercrombie & Fitch
+14859	Brands	1	Your Fragrance. Your Rules has been which company's ad slogan?	Prime Television Australia	Alton Towers	Sega	Hugo Boss Deep Red
+294785	Brands	1	What are the collectible little bean stuffed animals called?	Barbie	Hot Wheels	Cabbage Patch Dolls	Beanie Babies
+295618	Brands	1	Which famous cereal is "Tony the Tiger" a mascot for?	Wheaties	Shreddies	Cheerios	Frosted Flakes
+1DIFB07	Brands	1	Southwest, with their blue and orange color scheme, are known as what kind of company?	Cookies	Video Games	News	Airline
+325513	Brands	1	Which shoe manufacturer's logo is a tree?	Nike	New Balance	Reebok	Timberland
+1DIFB26	Brands	1	Which PC game service/provider empties many a gamer's wallet with massive seasonal sales?	Netflix	Origin	Amazon	Steam
+366171	Brands	1	Which company has used the ad slogan, "Don't Just Travel, Travel Right"?	Hertz	De Beers Consolidated Mines	Crest Toothpaste	Expedia
+90435	Brands	1	Why did the Chevrolet Nova not go over well in South America?	Nova Is Already A Feminine Hygiene Product	Nova Was The Name Of A Former Dictator In Mexico	The Cars Were Too Fast For South American Highways	Nova Translates Into No Go In Spanish
+299300	Brands	1	What Happens Here, Stays Here has been used as an ad slogan by which entity?	Apple Computer	Life Savers	Bubble Tape	Las Vegas
+294801	Brands	1	Which company has used the ad slogan "The Champagne Of Ginger Ales"?	Pepsi	Coca Cola	Minute Maid	Canada Dry
+1DIFB18	Brands	1	What chain of stores would you visit to buy home improvement tools?	11-Jul	Best Buy	Hot Topic	Home Depot
+202748	Brands	1	Which eternally popular Volkswagen car dropped the word 'New' from its 2012 model?	Corrado	Lupo	Brasilia	Beetle
+1DIFB19	Brands	1	Minute Maid makes what kind of edible product?	Ice cream	Potato chips	Steaks	Juices
+0DIF99	Brands	1	Which of the following is not a real gaming console?	Xbox 360	Playstation 4	Wii U	Gamesphere
+191039	Brands	1	Clearasil is a product used to treat what?	Moles	Freckles	Sunburn	Acne
+348986	Brands	1	Which product is made by Nestle?	Oven Ranges	Preserves	Blenders	Kit Kat Bar
+525209	Brands	1	Which company has used the ad slogan, "I Never Knew You Had Dandruff"?	New England Life	KFC	Peugeot	Head & Shoulders
+299390	Brands	1	Think Outside The Bun has been used as an ad slogan by which company?	Burger King	McDonald's	Wendy's	Taco Bell
+489686	Brands	1	Which product is made by Hershey's?	Preserves	Doritos	Root Beer	Mounds
+1DIFB13	Brands	1	What camera company is known for capturing quality moments?	Hardee's	IHOP	Paramount	Kodak
+294625	Brands	1	What cookie company makes "Chips Ahoy!"?	Sunshine	General Mills	Nestle	Nabisco
+190952	Brands	1	Which product is made by Coca Cola Company?	Cheetos	Pop Tarts	Makeup	Mello Yello
+494375	Brands	1	Frankenberry and "Boo Berry" cereals are most often sold around which holiday?	Christmas	Easter	New Year's Day	Halloween
+88515	Brands	1	The Kindle eBook reader is a product put out by which company?	Dell	Apple	Microsoft	Amazon
+525203	Brands	1	What is a "Radio Flyer"?	Remote Control Airplane	Frisbee	Boom Box	Red Wagon
+303589	Brands	1	Which of these advertising slogans has Campbell's Soup used?	Stay Warm	Expand Your Horizons	Veggie Powered	M'm, M'm Good
+191219	Brands	1	Which company is a maker of cellular phones?	IBM	Nestle	Wrigley	Ericson
+1DIFB23	Brands	1	Which video game publisher/developer is known for Final Fantasy and Kingdom Hearts?	YouTube	CNN	Activision	Square-Enix
+1DIFB20	Brands	1	Hasbro makes toy guns that fire foam balls and darts, that go by which name?	Smith & Wesson	Cap gun	Super Soaker	Nerf
+191225	Brands	1	Which company is the maker of Energy Drinks?	Mont Blanc	Fidelity	McDonald's	Gatorade
+190950	Brands	1	Which beverage has the Smiling Face Pitcher for its logo?	Hi C	Nantucket Nectar	Juicy Juice	Kool Aid
+226138	Brands	1	Which fast-food restaurant makes the "Big Mac"?	Wendy's	Burger King	Taco Bell	McDonald's
+60041	Brands	1	Which company has used the ad slogan, "America's Favorite Way To Fly"?	Listerine	Violet Crumble	Yokohama	Eastern Air Lines
+190995	Brands	1	Dr. Scholl's "Pedicure Essentials" is used on what body part?	Elbows	Back	Forehead	Feet
+191226	Brands	1	Which of the following is the name of a Toyota pickup truck?	Mangrove	Wetland	Taiga	Tundra
+525230	Brands	1	What car company advertised "Zoom Zoom Zoom"?	Chevrolet	Honda	Lexus	Mazda
+363638	Brands	1	What "Hostess" product did President Clinton put in a time capsule?	Snoball	Ho Ho	Suzy Q	Twinkie
+299482	Brands	1	Which soft drink company used the slogan "Be a Pepper"?	Ginger Ale	Pepsi	Sprite	Dr Pepper
+1DIFB03	Brands	1	What soap and moisturizer company is name after a type of bird?	Bald Eagle	Hen	Velociraptor	Dove
+489695	Brands	1	What is the name of Daymond John's sportswear line FUBU an acronym for?	Foster Uncles Brothers Unique	France USA Brazil Unlimited	Four Underground Big Uglies	For Us By Us
+1DIFB05	Brands	1	What German car company is known for their luxury vehicles?	Boeing	Sony	Ford	BMW
+299800	Brands	1	Which product is made by PepsiCo?	Television	Potato Chips	Video Games	Mug Root Beer
+302116	Brands	2	"Genesis Does What Nintendon't" has been which company's ad slogan?	Armani Black Code	Alka-Seltzer	Kellogg's	Sega
+90863	Brands	2	Swarovski is associated with what product?	Designer Clothes	Cooking	Diamonds	Crystal Jewelry
+202753	Brands	2	Tastes Great. Less Filling has been which company's ad slogan?	Cattlemen's Beef Board	AT&T	Fedex	Miller
+512259	Brands	2	Which company has used the ad slogan, "Energy -- For A Strong America"?	Cattlemen's Beef Board	Cooper Tires	Bounty	Exxon
+191221	Brands	2	Chocolate-flavored "Kix" cereal is known by what brand name?	Cocoa Krispies	Cocoa Pebbles	Chocolate Chex	Cocoa Puffs
+255322	Brands	2	Which ice cream store advertises "31 Flavors"?	Ben and Jerry's	Hagen Daas	Dreyers	Baskin Robbins
+89059	Brands	2	Which of the following ad slogans has been used by Toyota?	Simply The Best	Walk Less	Move On People	Moving Forward
+88068	Brands	2	What doll was hugely popular in 1984?	Elmo	Barbie	A Baby Doll	Cabbage Patch Kids
+494394	Brands	2	Which brand of sports clothing has sponsored skateboarder Tony Hawk?	Billabong	Da Kine	Pacsun	Quicksilver
+202750	Brands	2	Which Florida park opened to the public for the first time on June 7, 1990?	MGM Studios	EPCOT Center	The Magic Kingdom	Universal Studios
+299481	Brands	2	Which is not a designer brand name?	Holly Kristen	Gucci	Giorgio Armani	Gene Corleto
+345433	Brands	2	What type of dog is on the label of "Red Dog" beer?	Sheepdog	Boxer	Poodle	Bulldog
+525231	Brands	2	Which company has used the ad slogan "Once You Pop The Fun Doesn't Stop"?	Pop Rocks	Pepsi	Heineken	Pringles
+194047	Brands	2	The Instrument Of The Immortals has been used as an ad slogan by which company?	Renault	United States Forest Service	eBay	Steinway & Sons
+299464	Brands	2	What three shoe brands are geared towards teens?	Florsheim, Magli, Onex	DKNY, Aigner, Dexter	Isotoner, Hush Pups, Icon	Nike, Adidas, New Balance
+202731	Brands	2	What Australian product was the hit of the fashion boot scene in 2004?	Sketcher	Kate Spade	Via Spiga	Ugg
+191040	Brands	2	Which of the following advertising slogans has been used by BF Goodrich?	Enjoy Our Company	Rip. Mix. Burn	It's Frothy Man	Take Control
+190979	Brands	2	Which product is made by Brother?	Airplane	Video Game Software	Crunch Bar	Fax Machines
+3611	Brands	2	Which is not a Toyota?	Celica	Camry	Avalon	Tornado
+255415	Brands	2	What does the car company Volkswagen mean in English?	Versatile	Easy To Move Around With	Germany's Car	The People's Car
+299256	Brands	2	Which of the following cars is a Cadillac?	Sebring	Celebrity	Town And Country	Allante
+512324	Brands	2	Coty Beauty produced a men's fragrance line named for which three-striped shoes?	Reebok	Nike	Buster Brown	Adidas
+345251	Brands	2	Where is the headquarters city for Wal-Mart, the world's largest retailer?	Houston	New York	Richmond, VA	Bentonville, AR
+202745	Brands	2	Which of the following advertising slogans has been used by Pepsi?	Drivers Know	Time To Re-Tire	Driven To Perform	Ask For More
+3256	Brands	2	How does Lucky Leprechaun describe the taste of "Lucky Charms"?	They're Loaded With Sugar!	They're A Sweet Breakfast Treat!	They're Great!	They're Magically Delicious!
+30541	Brands	2	What car manufacturer makes the Montero?	Toyota	Ford	Honda	Mitsubishi
+357001	Brands	2	Which of the following advertising slogans has been used by Heinz?	Gotta Have My Pops!	Way To Shop	For Life	57 Varieties
+525204	Brands	2	The Document Company has been which company's ad slogan?	Office Max	UPS	NY Times	Xerox
+348988	Brands	2	Where did the name "Audi" come from?	The Car In German	Audio Due To The Engine's Sound	Name Of The Car Inventor's Son	Auto Union Deutschland Incorporated
+304007	Brands	2	What restaurant chain has commercials with the slogan "Eatin' Good in the Neighborhood"?	T.G.I. Friday's	Chevy's	Sizzler	Applebee's
+190949	Brands	2	Good To The Last Drop has been which company's ad slogan?	Coke	Stella Artois	Boeing	Maxwell House
+294640	Brands	2	Which line of handbags is known for using a duck in their logo?	The Gap	Dolce & Gabbana	Levis	Dooney & Bourke
+299206	Brands	2	What Disney-owned social network is designed just for kids?	Disney Club House	Everloop	Club House	Club Penguin
+365521	Brands	2	What was the cartoon frog's name in commercials for Sugar Smacks?	Sugar Frog	Smacker	Kellfrog	Dig'em
+96998	Brands	2	Which Mitsubishi subcompact car was discontinued in 2012?	Bolt	Dolt	Volt	Colt
+489815	Brands	2	Which company makes the popular "Blizzard" ice cream treat?	Snow King	Winter Storm Snacks	North Pole Desserts	Dairy Queen
+345779	Brands	2	What is true about Coca-Cola Zero?	Its Clear	It Has Lime In It	Its High In Sugar Content	Zero Calories
+494373	Brands	2	What is Chester Cheetah's motto in "Cheetos" commercials?	The Crunch Never Stops	It's Cool To Be Cheesy	Cheesy Is As Cheesy Does	It Ain't Easy Being Cheesy
+251037	Brands	2	Which of these clothing brands has used a flying seagull as its logo?	Old Navy	The Gap	Charlotte Russe	Hollister Company
+325494	Brands	2	Which soft drink was invented in 1886 in Atlanta?	Root Beer	7UP	Dr Pepper	Coca-Cola
+202742	Brands	2	Chanel No. 5, "Allure", "Coco" and "Chance" are perfumes made by a company founded by whom?	Ralph Lauren	Giorgio Armani	Karl Kani	Coco Chanel
+92768	Brands	2	What product did Amazon first start out selling?	Toys	Apparel	Electronics	Books
+365282	Brands	2	1,000 Songs In Your Pocket was once which company's ad slogan?	Carling	British Rail	Yellow Pages	Apple Computer
+299199	Brands	2	The Next Best Thing To Naked! has been which company's ad slogan?	Armour Hot Dogs	Mazda	Irish Independent	Jockey
+299233	Brands	2	Which company acquired Teavana in 2012?	Lavazza	Maxwell House	Dunkin Donuts	Starbucks
+299325	Brands	2	Which ice cream company produced "Phish Sticks" and "The Vermonster"?	Walls	Haagen-Dazs	Baskin-Robbins	Ben & Jerry's
+191224	Brands	2	In what city is the headquarters for Hobby Lobby located?	Hershey, PA	LA	New York	Oklahoma City, OK
+299534	Brands	2	The World Puts Its Stock In Us has been which company's ad slogan?	Coke	Meijer	Permanent Tsb	The New York Stock Exchange
+186089	Brands	2	Which Russian company produced 17% of the world's gas in 2011?	ExxonMobil	Chevron	Total	Gazprom
+299621	Brands	2	Which food company is known for its "Goldfish" crackers and "Milano" cookies?	Nabisco	Keebler	Newman's Own	Pepperidge Farm
+1238	Brands	2	Which of these snack foods is not a Frito-Lay product?	Ruffles Potato Chips	Funyuns	Cracker Jack	Slim Jims
+299797	Brands	2	Which car is made by Mitsubishi?	Sentra	Frontier	Alero	Mirage
+356984	Brands	2	Which company has used the ad slogan, "Uncompromising Performance"?	Singapore Airlines	IRN	National Dairy Council	Yokohama
+91167	Brands	2	What non-alcoholic beer was invented by Charles Hires in 1871?	Near Beer	Grape Nehi	Pilsner	Root Beer
+367543	Brands	2	What car company made the PT Cruiser?	Ford	BMW	Porsche	Chrysler
+255095	Brands	2	The Cream Of Manchester has been used as an ad slogan by which company?	The Beef Industry	General Foods International Coffees	Morton Salt	Boddington's
+525216	Brands	2	Which company acquired YouTube.com in 2006?	Microsoft	Yahoo	Facebook	Google
+202752	Brands	2	What auto manufacturer makes the Dakota?	Toyota	Nissan	Ford	Dodge
+489848	Brands	2	What do the advertisements made by "Truth" target?	Heroin Addiction	Pollution	War	Cigarette Companies
+191038	Brands	2	What was the company name of Nissan before it became Nissan?	Hyundai	Lada	Yugo	Datsun
+9438	Brands	2	Which of the following advertising slogans has been used by Saturn?	Now, That's Better	It's Time For U	Keep Going	People First
+324735	Brands	2	What food product is advertised as "Vermont's finest"?	Pringles Potato Crisps	Mrs. Butterworth Syrup	Log Cabin Syrup	Ben & Jerry's Ice Cream
+255418	Brands	2	Which of the following cars is NOT made by Honda?	Civic	Odyssey	Prelude	S-Type
+191228	Brands	2	Which auto manufacturer established Saturn in 1985?	Mitsubishi	Chrysler	Ford	General Motors
+494407	Brands	2	What was the name of Toyota's flagship sedan in the US in 2011?	Diner	Tootsie	Bugsy	Avalon
+202743	Brands	2	Which two car companies have built cars named Daytona?	Morris And Humber	Plymouth And Porsche	Datsun And Saturn	Ferrari And Dodge
+299836	Brands	2	Whose slogan is "Buy it. Sell it. Love it."?	Buy Lines	Sears	Amazon	eBay
+3288	Brands	2	What was the original name for "Cheerios"?	Roundies	Floaties	Donuts	Cheerioats
+345212	Brands	2	What does AIM stand for?	A Instant Message	All Instant Message	America Instant Message	AOL Instant Message
+5466	Brands	2	Which vehicle is not made by Chrysler Corporation?	300M	Sebring	Crossfire	Citation
+202732	Brands	2	The Choice Of A New Generation has been used as an ad slogan by which company?	Kraft	Snapple	Schweppes	Pepsi
+191048	Brands	2	What candy bar ran a Brady Bunch themed commercial during the Super Bowl in 2015?	Milky Way	Cadbury	Almond Joy	Snickers
+190961	Brands	2	Coors Light is sometimes known by what nickname?	Mountain Beer	Spring Water Fresh	Red Dog	Silver Bullet
+202758	Brands	2	What's the subtitle to the game "Outburst"?	Sing Or Die	Win, Lose, Draw	Scream To Win	The Game Of Verbal Explosions
+512272	Brands	2	Who was the creator of G-Unit clothing?	A Tribe Called Quest	Jay-Z	DMX	50 Cent
+525214	Brands	2	Which fast food company outsold Burger King for the first time in 2011?	Subway	Arby's	Qdoba	Wendy's
+512329	Brands	2	What company owns the Cadillac, Buick and Pontiac brands?	Chrysler	Saturn	Ford	GM
+363780	Brands	2	Which company recalled 130,000 cases of Velveeta Shells & Cheese in 2011?	Cargill	Unilever	PepsiCo	Kraft
+299318	Brands	2	Which product is made by Nabisco?	Kisses	Juicy Fruit Gum	Sierra Mist	Wheat Thins
+1272	Brands	2	Which ad slogan has been promoted by Volkswagen?	Keeps It Poppin'	Engineering Marvel	It Is What It Was	Drivers Wanted
+299236	Brands	2	Where It Costs Less To Get More has been which company's ad slogan?	Chevrolet	Guinness	Subaru	Kroger
+345199	Brands	2	What car manufacturer makes the Eclipse?	Honda	Toyota	Nissan	Mitsubishi
+299220	Brands	2	Where did over 60% of car buyers research financing options in 2014?	At Car Dealers	In Their Banks	With Friends	Online
+294795	Brands	2	Which juice company's logo features an orange with a straw sticking out of it?	Minute Maid	Welch's	Mott's	Tropicana
+494382	Brands	2	What type of men's products are "Axe", "BOD Man" and "New Musk"?	Tanning Lotions	Hair Gels	Shaving Creams	Spray-On Fragrances
+3286	Brands	2	Which brand of snack claims to be "dangerously cheesy"?	Jax	Ruffles Cheese Chips	Flava Puff	Cheetos
+255362	Brands	2	What is the ad slogan for the National Enquirer?	The Truth Is Out There	All The Gossip Fit To Print	No Stone Uncovered	Inquiring Minds Want To Know
+84418	Brands	2	Which product is made by Norelco?	Typerwriters	Mattress	Cruise Ships	Razors
+299279	Brands	3	"Everything You Love About Coffee" has been which company's ad slogan?	Maxwell House	Senseo	Starbucks	Sanka
+349598	Brands	3	In what year was Google+ launched?	2009	2012	2008	2011
+299383	Brands	3	"Her Kiss Her Body Her Perfume" has been which company's ad slogan?	Coty Perfumes	Hutch In India	RC Cola	Chanel 5
+84218	Brands	3	What was the last year of the Ford Maverick in USA?	1975	1980	1982	1977
+357021	Brands	3	Who invented the "Fig Newton"?	Sir Isaac Newton	John Newton	Nabisco	Charles M. Roser
+525199	Brands	3	Which of the following is a Pepsi product?	Hires	Fanta	Sprite	Slice
+299217	Brands	3	What did the Slowsky Turtles promote?	Audi Cars	Google	Amazon Web Services	Comcast Cable
+194066	Brands	3	In 2009, Zappos.com was acquired by which company?	Etsy	Priceline	eBay	Amazon
+271104	Brands	3	What was the original name of Delta Airlines?	Eastern Airlines	Delta Dawn Airlines	Freemont Airlines	Huff Daland Dusters
+356964	Brands	3	"This Is Where It Gets Good" has been used as an ad slogan by which company?	Allstate Insurance	Malabar Gold	M&M's	Foley's
+494391	Brands	3	In what year did Google release its first ever Live Action Doodle?	2012	2008	2007	2011
+251046	Brands	3	Which of the following advertising slogans has been used by Lincoln?	The Best Never Rest	Oh Thank Heaven	Lifts And Separates	Reach Higher
+271099	Brands	3	"The World's Online Marketplace" has been used as an ad slogan by which company?	Amazon	Yahoo	Craigslist	eBay
+345808	Brands	3	What cola flavored soda was originally called "Brad's Drink"?	Coca-Cola	Sprite	Tab	Pepsi
+299221	Brands	3	In 2012 which car manufacturer produced cars under the brands Brio, Elysion and Pilot?	Volvo	Bentley	Renault	Honda
+299422	Brands	3	Which company acquired WebTV in 1997?	IBM	AOL	Dell	Microsoft
+88058	Brands	3	Which company produces "Nerf" products?	Pressman	Milton Bradley	Mattel	Hasbro
+512298	Brands	3	"Tell Them About The Honey, Mummy" has been used as an ad slogan by which company?	Honey Combs	Frosted Flakes	Total	Sugar Puffs
+299223	Brands	3	"Made in Scotland from Girders" has been which company's ad slogan?	Mazda	Hostess Potato Chips	Holiday Inn	IRN
+494380	Brands	3	"Where The Magic Never Ends" has been used as an ad slogan by which company?	The New York Times	Duracell Batteries	Arrow Shirts	Alton Towers
+12097	Brands	3	Which beer is nicknamed "America's fire brewed beer"?	Michelob	Pabst	Schlitz	Stroh's
+299424	Brands	3	In the 1990's, "Chips Ahoy!" were advertised as having what?	33% Less Fat Than Other Cookies	A Smile Inside Every Bite	Grandma's Secret Ingredient	1,000 Chips In Every Bag
+3633	Brands	3	What did Jacob Schick patent in 1928?	The Trolly	The Electric Hand Car	The Electric Elevator	The Electric Razor
+363577	Brands	3	Which of the following ales is emblazoned with a trademark red triangle?	Newcastle Brown Ale	Molson Export Ale	Caffrey's Irish Ale	Bass
+39953	Brands	3	What year did the business web site LinkedIn launch?	1999	2010	2008	2003
+325399	Brands	3	In what year was the Nikon F camera introduced?	1975	1888	1914	1959
+299247	Brands	3	The "Barbie Doll" was first introduced in what year?	1952	1955	1957	1959
+299216	Brands	3	Which of the following ad slogans has been used by Chevrolet?	Have It Your Way	Red White & True	It Just Feels Right	We'll Be There
+525221	Brands	3	What company did a commercial themed around the Boston Tea Party?	H&R Block	EBay	Home Depot	Turbo Tax
+3627	Brands	3	What country do "Birkenstock" sandals come from?	The Netherlands	Sweden	Norway	Germany
+525202	Brands	3	Who is the designer of the L.A.M.B. clothing line?	Heidi Klum	Halle Berry	Sienna Miller	Gwen Stefani
+355730	Brands	3	Slip-Slop-Slap was the name for a health campaign in Australia promoting what?	Using Birth Control	Learning To Swim	Drinking Responsibly	Using Sunscreen
+202740	Brands	3	The Milky Way bar was created in which year?	1952	1950	1936	1923
+294629	Brands	3	Which ad slogan has been promoted by ABC?	Dream Up	Raising The Bar	Hello Boys	Don't Just Sit There
+228492	Brands	3	What company was originally named Blue Ribbon Sports?	Converse	Spalding	Wilson	Nike
+100729	Brands	3	What was Buster Brown's dog's name?	Shoey	Joey	Butch	Tige
+299505	Brands	3	Which company has used the ad slogan, "Baseball, Hot Dogs, Apple Pie"?	PBS	Unigate Milk	Uk Public Information Film	Chevrolet
+512291	Brands	3	In what year was Amazon founded?	1996	2000	1997	1994
+299344	Brands	3	In which East European country was the 2012 Skoda Citigo manufactured?	Poland	Belarus	Montenegro	Slovakia
+81601	Brands	3	In a TV commercial that first aired in 1979, a boy gives "Mean" Joe Greene which soft drink?	7UP	Pepsi	Dr Pepper	Coke
+299218	Brands	3	What led store owner Henry David Lee to found his own jeans manufacturing company in 1889?	High Prices	Inventory Shortage	Boredom	Unreliable Shipments
+98220	Brands	3	Which of these snack foods is not made by Hostess?	Ho-Hos	Donettes	Ding-Dongs	Oatmeal Creme Pie
+72594	Brands	3	What is the full name of the character who represents "Cap'n Crunch"?	Captain Bob Crunch	Captain George Alexander Crunch III	Captain Crunch	Captain Horatio Magellan Crunch
+494408	Brands	3	Which product is made by Breakstone?	Star Wars Video Games	Lingerie	Cellular Phones	Temp Tee Cream Cheese
+299228	Brands	3	What is the game that ran ads featuring Kate Upton in 2014?	Call of Duty: Advanced Warfare	Dragon Age: Inquisition	Far Cry 4	Game of War: Fire Age
+257914	Brands	3	What company produces "Nutter Butter" cookies?	Keebler	Little Debbie	Mother's	Nabisco
+84417	Brands	3	"Without Us, Some Guys Will Starve" has been which company's ad slogan?	Burger King	Subway	Big Boy	Carl's Jr.
+299267	Brands	3	In what year did the Chevrolet Camaro first come out?	1975	1981	1960	1967
+325084	Brands	3	What company did Frito-Lay merge with in 1965?	Goya Foods	Coca-Cola	Jones Soda Co.	Pepsi-Cola
+355707	Brands	3	Which automaker produced a car called the President?	Kaiser-Frazer	Hudson	Packard	Studebaker
+349599	Brands	3	Who ran the "Super Bowl Blackout" commercial in 2015?	Jeep	Go Daddy	General Electric	Chevrolet
+359478	Brands	3	Where is Google headquarters or the Googleplex located?	Cupertino, CA	San Jose , CA	Seattle, WA	Mountain View, CA
+299468	Brands	3	What car company made the Cressida?	Mazda	Nissan	Kia	Toyota
+299241	Brands	3	What automotive tycoon introduced the Mustang?	John Delorean	Roger Smith	Henry Ford II	Lee Iacocca
+299341	Brands	3	100% Squeezed Sunshine has been which company's ad slogan?	Sunny Delight	Minute Maid	Celestial Seasons	Tropicana
+349587	Brands	3	Where is the worldwide ad agencies BBDO headquarted?	London	Chicago	San Francisco	New York City
+512326	Brands	3	How old did Smokey the Bear turn in 2019?	50	25	30	75
+299404	Brands	3	Who is the founder of the USA Network?	Ivan Sutherland	John Kemeny	Marshall McLuhan	Barry Diller
+349712	Brands	3	"Never Had It, Never Will" has been which company's ad slogan?	Sprite	Snapple	Arizona Ice Tea	7UP
+299214	Brands	3	Who were the founders of Baskin Robbins?	Robin and Nick Baskers	Robin Nichols and Henry Baskerville	Robin and Baskin Tremelo	Burton Baskin and Irvine Robbins
+299234	Brands	3	What was Yahoo.com originally called?	Yahoolo	Guide To The World Wide Web	Jerry's Guide To The World Wide Web	Jerry And David's Guide To The World Wide Web
+87900	Brands	3	What was the first toy to be advertised on television?	Atari	Hula Hoop	Slinky	Mr. Potato Head
+326106	Brands	3	In 2012 which car manufacturer produced cars under the brands Inspire, Freed and Zest?	Opel	BMW	Fiat	Honda
+83953	Brands	3	Who is the founder of "The Huffington Post"?	Claire Huffington	Sally Huffington	Melissa Huffington	Arianna Huffington
+299489	Brands	3	Who is the creative and business force behind the GUESS? brand?	Helmut Lang	Marcel Rochas	Isabel Marant	The Marciano Brothers
+494386	Brands	3	What company makes "Dangerously Dark" tanning lotion?	Australian Gold	Sunsational	Tan Factory	Swedish Beauty
+1337	Brands	3	In 2002, what company acquired PayPal?	Etsy	Google	Amazon	eBay
+256616	Brands	3	Who was the first celebrity spokesperson for the company Priceline?	Theresa Caputo	Kaley Cuoco	Michael Phelps	William Shatner
+525200	Brands	3	Which company was purchased by Berkshire Hathaway and 3G in 2013?	General Mills	Ziploc	Pillsbury	Heinz
+218456	Brands	3	"Unique In All The World" has been which company's ad slogan?	Josta	Spike TV	L'Oreal	Ford
+185	Brands	3	Which company has used the ad slogan "Do You Eat The Red Ones Last?"?	M&M's	Jelly Belly	Jolly Rancher	Smarties
+191041	Brands	3	Who invented the leather bag with the bamboo handle?	Donna Karen	Christian Dior	Luis Vuitton	Guccio Gucci
+283366	Brands	3	Which limited production car was nicknamed the "Corvette Killer"?	'69 Pontiac GTO Judge	'70 Ford Pantera	'68 Mustang 428 Cobra Jet	'67 Shelby Cobra
+525207	Brands	3	Which telecommunications company acquired Bluefish in 2011?	Vivendi	SK Telecom	Comcast	Vodafone
+299331	Brands	3	What was the original name for the potato chip?	Fried Fritters	Chicago Chips	Plantation Pancakes	The Saratoga Chip
+97546	Brands	3	What car would someone call a "Pug"?	Porsche 914	Vw Beetle With Porsche Engine	Plymouth Prowler	Peugeot 504
+324759	Brands	3	Which product has used the ad slogan "What's The Worst That Can Happen"?	Sunny Delight	Pringles	Snapple	Dr Pepper
+299499	Brands	3	Who oversaw the transformation of MTV into a multi-national media empire?	Jan Davidson	Lawrence J. Ellison	Jeffrey P. Bezos	Judy McGrath
+202739	Brands	3	"Nothing Official About It" has been used as an ad slogan by which company?	Heineken	Coca Cola	Snapple	Pepsi
+282017	Brands	3	"Every Bubble's Passed Its Fizzical" has been used as an ad slogan by which product?	Alka-Seltzer	Pepsi	Fresca	Corona
+489846	Brands	3	Which restaurant chain opened its first location in New York City in 1965?	Applebee's	Chili's	The Olive Garden	T.G.I. Friday's
+283007	Brands	3	What was eBay.com originally called?	Internet Auction	Auction Store	Death Bar	AuctionWeb
+283191	Brands	3	Which of the following advertising slogans has been used by Chevron?	Never Scratches	Unboring	The Only Way To Truck	Human Energy
+365283	Brands	3	Mountain Dew: Code Red was introduced in which year?	2005	1999	1985	2001
+299312	Brands	3	Xavier Roberts created what doll?	Barbie	He-Man	Dora the Explorer	Cabbage Patch
+494396	Brands	3	How was the real "Little Debbie" related to the company's founder?	Daughter	Niece	Mother	Granddaughter
+299378	Brands	3	Which toy sold over 50 million times in 2001?	Pokemon Booster Pack	Crayola Crayon 24ct Box	Goooze	Hot Wheels Basic Cars
+56704	Brands	3	What year did Agfa introduce the first fully automatic camera, the Optima?	1839	1936	1888	1959
+299311	Brands	3	"Your Friend in The Digital Age" has been which company's ad slogan?	Infosys	Clean And Clear	Van Dyke Records	Cox Communications
+202737	Brands	3	What Procter & Gamble product got its name from the Bible?	Tide	Dawn	Zest	Ivory Soap
+349576	Brands	3	Who is the celebrity in the Super Bowl Esurance commercial who drives into a sign?	Britney Spears	Derek Jeter	Snoop Dogg	Lindsay Lohan
+299222	Brands	3	What fast-food item was added to the McDonald's menu in 1968?	McRib Sandwich	Chicken McNuggets	Egg McMuffin	Big Mac
+525208	Brands	3	What beer did Spuds MacKenzie promote?	Miller Draft	Michelob	Schlitz	Bud Light
+326123	Brands	3	Which of the following ad slogans has been used by British Satellite Broadcasting?	Screw Yourself	It's Better Here!	Oh, Yeah!	You Watch, We Listen
+299314	Brands	3	What is the name of the bar where "Buffalo Wings" originated?	Flynn's	The Light Bar	The Oyster Bar	The Anchor Bar
+84146	Brands	3	A "Honey Nut Cheerios" commercial once featured Buzz the bee visiting whom?	The Mad Hatter	The Grinch	Oliver Twist	Ebenezer Scrooge
+3622	Brands	3	Who parlayed a string of strip clubs into a publishing empire?	Malcolm Forbes	William Randolph Hearst	Hugh Hefner	Larry Flynt
+193967	Brands	3	Sonny, the "Cocoa Puffs" cereal mascot, is what kind of bird?	Pigeon	Dodo	Parrot	Cuckoo
+299811	Brands	3	Which is the first social networking site to be owned by Google?	Tumblr	Tripod	The Globe	Orkut
+255413	Brands	3	In what year was the Hasselblad camera introduced?	1925	1959	1835	1948
+299841	Brands	3	Which company bought the Huffington Post in 2011?	Yahoo	Google	Facebook	America Online
+43245	Brands	3	What was the original name of Diet Pepsi?	Pepsi Light	Slim Cola	TaB	Patio Diet Cola
+202733	Brands	3	"Homemakers for a Life Time" has been used as an ad slogan by which company?	Meijer	Tropicana	Apple Computer	Singer Electronics
+299381	Brands	3	Which company has roughly 25% stock in Craigslist?	Facebook	Google	Etsy	eBay
+299212	Brands	3	The Edsel car failed terribly, it was a product of which car company?	Chevy	Edsel Car Company	Chrysler	Ford
+186682	Brands	3	What company was once called Quantum Computer Services?	IBM	Intel	Earthlink	AOL
+325179	Brands	3	Name the only state capital that did not have at least one McDonald's restaurant in 2006?	Augusta, Maine	Concord, New Hampshire	Honolulu, Hawaii	Montpelier, Vermont
+299840	Brands	3	In what year did Chevrolet first outsell Ford?	1924	1930	1932	1927
+89974	Brands	3	Which of the following advertising slogans has been used by Worldcom?	Men At Their Best	Keep Walking	Be Inspired	Generation D
+299492	Brands	3	Which is a fragrance by Giorgio Armani?	La Prairie	Variety	Biolage	Sensi
+190935	Brands	3	What car was nicknamed the "Batmobile"?	Pontiac Firebird	BMW 3.0 CSL	Mercedes 560 SLC	Lincoln Futura
+228321	Brands	3	Which company split from General Motors in 1996?	Canon	Automatic Data Processing	Mazda	Electronic Data Systems
+100735	Brands	3	Which designer launched "Intrusion", a fragrance for women?	Christian Dior	Ralph Lauren	Pierre Cardin	Oscar De La Renta
+355713	Brands	3	Which Chevrolet did Ralph Nader proclaim "Unsafe at any Speed"?	Corvette	Chevette	Camaro	Corvair
+326087	Brands	3	What was the first laundry detergent made especially for babies' skin?	Snuggle	Downy	Tide	Dreft
+255054	Brands	3	Which company has used the ad slogan, "Always Something Exciting"?	Sanka	Cadbury	IBM	Foley's
+202735	Brands	3	Which number appeared on Rolling Rock beer products?	22	19	84	33
+299628	Brands	3	"You Do The Math, We Do The Pizza" has been used as an ad slogan by which company?	Dominos	Papa John's	Pizza Plus	Pizza Hut
+299298	Brands	3	"Good Time, Great Taste" has been which company's ad slogan?	Taco Bell	Checkers	Steak And Shake	McDonald's
+299627	Brands	3	What was the original name of the "Kool-Aid"?	Fruit-Aid	Drink-A-Fruit	Flav-O-Fruit	Fruit Smack
+295619	Brands	3	What car company advertised "Drivers wanted"?	Mazda	BMW	Lexus	Volkswagen
+299837	Brands	3	Which company makes "Raisin Bran"?	Kellogg's	General Mills	Procter And Gamble	Post
+100210	Brands	3	Which company acquired Donna Karan in 2001?	Chanel	Gucci	Fendi	Louis Vuitton
+191337	Brands	3	What car company made the Prowler?	Jaguar	Rolls-Royce	Ford	Chrysler
+97542	Brands	3	What snack once used the slogan "Crunch All You Want - We'll Make More" in its advertising?	Fritos	Cheetos	Tostitos	Doritos
+349601	Brands	3	What is a "Red Ryder"?	Wagon	Frisbee	Water Gun	BB Gun
+365209	Brands	3	What car company made the Sebring?	Ford	Chevrolet	Kia	Chrysler
+192410	Brands	3	What year did GMC introduce their own version of the El Camino?	1973	1970	1981	1971
+299203	Brands	3	What was the original name of the Porsche 911?	Porsche 900 Limited	Porsche 959	Porsche 912	Porsche 901
+512343	Brands	3	The U.K. Royal Marines has used which advertising slogan?	It's Frothy Man	Always Better Value	Simply The Best	99.9% Need Not Apply
+525222	Brands	3	Which company merged with United Airlines in 2011?	Frontier	JetBlue	US Airways	Continental
+186667	Brands	3	What car manufacturer makes the Skyhawk?	Mazda	Honda	Nissan	Buick
+299237	Brands	3	What color is the rooster on the Kellogg's "Corn Flakes" box?	Yellow	Purple	Blue	Green
+512350	Brands	3	"Made To Make Your Mouth Water" has been used as an ad slogan by which company?	Tropicana	Nestle	Snapple	Opal Fruits
+215161	Brands	3	In what year was the Nautilus exercise machine first sold?	1982	1920	1955	1970
+299219	Brands	3	Which soft drink is the oldest in the U.S.?	Arc Cola	Coca-Cola	Dad's Root Beer	Dr Pepper
+512264	Brands	3	What was the real name of Johnny Morris, the Philip Morris cigarette bellboy?	Jimmy Morrison	Johnny McDermott	Alfred Nelson	Johnny Roventini
+366572	Brands	3	What kind of car is the Toyota Allion?	5-Door SUV	2-Door Microcar	Mid-Size Pickup Truck	4-Door Sedan
+202738	Brands	3	Which ad slogan has been promoted by Saab?	More Human Interest	Safety Sells	Roll Your Own	Born From Jets
+256602	Brands	3	What beer is known as the "Champagne of Beers"?	Pabst Blue Ribbon	Old Milwaukee	Schlitz	Miller High Life
+282480	Brands	3	Which company owned GEICO, Dairy Queen, and Fruit of the Loom in 2012?	Liberty Mutual	XL Group	The Hartford	Berkshire Hathaway
+194073	Brands	3	Who made the TR8 sports car?	Volkswagen	Porsche	Jaguar	Triumph
+72249	Brands	3	By what name is the Mazda Miata known in Australia?	Mx6	Mazda Bambini	Mazda Midget	Mx5
+194097	Brands	3	Which document management company acquired NewField IT in 2011?	Lexmark	Sharp	Nikon	Xerox
+299358	Brands	3	From which car did Ford steal the name "King of the Road" for their Mustang?	The Chevrolet Impala	The Dodge Dart	The Oldsmobile 442	The Chevrolet Corvette
+349588	Brands	3	Who makes the Altezza automobile?	Honda	Nissan	Lexus	Toyota
+99161	Brands	3	What is the name of Tony the Tiger's daughter?	Tawny	Tammy	Tigra	Antoinette
+326051	Brands	3	Which car company began building Invitations in 2013?	Toyota	Jeep	Fiat	Nissan
+512280	Brands	3	Which year were Toyota's first sold in the US?	1955	1965	1962	1957
+299323	Brands	3	What is the name of the "Dude, you're gettin' a Dell" character?	Michael	Robert	Kevin	Steven
+186772	Brands	3	What scent with a colorful name was a big seller for Dolce & Gabbana?	Grass Green	Christmas Red	Pumpkin Orange	Light Blue
+299213	Brands	3	Which company is the maker of Trident gum?	Hanes	Hoover	Lays	Warner - Lambert
+1260	Brands	3	How much did online advertising increase from 2011 to 2013?	22%	99%	5%	36%
+215238	Brands	3	Which of the following advertising slogans has been used by Johnnie Walker?	Ask For More	Break Through	It's So Simple	Keep Walking
+294800	Brands	3	What year was the game "Trivial Pursuit" created?	1956	1986	1990	1979
+326138	Brands	3	What years were the Corvair made?	1962-1969	1961-1968	1960-1968	1960-1969
+326107	Brands	3	What did Henri Nestle originally manufacture?	Chewing Tobacco	Canned Juice	Popcorn	Baby Food
+299332	Brands	3	In what year was the first "MoonPie" produced?	1925	1950	1900	1917
+251036	Brands	3	"I'm A Secret Lemonade Drinker" has been used as an ad slogan by which company?	Home Depot	Allinsons Bread	AT&T	R. White's
+356993	Brands	3	Originally Schlitz Malt Liquor and Red Bull Malt Liquor were brands of what company?	Anheuser-Busch Brewery	Miller Brewing Company	Pabst Brewing Company	Stroh Brewery Company
+1241	Brands	3	Which of the following advertising slogans has been used by Smarties?	I Am What I Am	The Power Of Dreams	Hellomoto	Wotalotigot!
+215166	Brands	3	Which company has used the ad slogan, "How Much Can You Handle"?	Trustee Savings Bank	National Highway Traffic Safety Administration	Centralr	Bubble Tape
+304014	Brands	3	IMDB.com is a subsidiary of which one these companies?	Yahoo	Google	eBay	Amazon
+299230	Brands	3	Which product was being advertised with the saying, "Mother please...I'd rather do it myself"?	Bayer	Anacin	Tylenol	Excedrin
+299242	Brands	3	Which of the following is a Buick?	Cimarron	Caprice	Catera	Reatta
+251053	Brands	3	M&M's were invented in which year?	1952	1950	1943	1940
+525205	Brands	3	Which department store once sold their own brand of cars?	Woolworth	Macy's	J C Penny's	Sears
+525225	Brands	3	The "Super Ball" was introduced in 1965, who manufactured it?	Nabisco	Milton-Bradley	Hasbro	Wham-O
+299336	Brands	3	"Is This A Great Time Or What?" has been which company's ad slogan?	Chrysler	Jelly Belly	Alka-Seltzer	MCI Communications
+363574	Brands	3	"It's Morning Again In America" has been used as an ad slogan by which company?	EA Sports	Travis Aftershave	Hertz	Reagan For President
+494377	Brands	3	Which automotive company manufactured it's 200 millionth vehicle in 2012?	Audi	Volvo	Volkswagen	Toyota
+215162	Brands	3	What company started producing the "Cabbage Patch Kids"?	Mattel	Acme	Hasbro	Coleco
+325778	Brands	3	The floral design on the "Oreo" cookie consists of how many flowers per side?	8	15	5	12
+299313	Brands	3	What was the 2015 ad for that features Katie Couric and Bryant Gumbel discussing the internet?	Apple	NBC	Facebook	BMW i3
+299479	Brands	3	"Now You're Playing With Power!" has been which company's ad slogan?	Expedia	Apple Computer	Reagan For President	Nintendo
+512328	Brands	3	"Every Time A Good Time" has been which company's ad slogan?	Ford	Thuraya	Subway	McDonald's
+71899	Brands	3	Which toy company invented the game "Chutes and Ladders"?	Fisher-Price	Parker Brothers	Hasbro	Milton Bradley
+299215	Brands	3	What did Hugo Boss rename their classic suit in the 1990's?	Boss Black	Basic Boss	Boss Classic	Boss Hugo Boss
+281771	Brands	3	When and under what name was spray cheese in a can first marketed?	1959, Space Cheese	1972, Easy Cheese	1942, Victory Cheese	1966, Snack Mate
+295600	Brands	3	"With Responsibility to Results" has been which company's ad slogan?	Cadbury	Big Red	Alton Towers	Getsadze & Pateishvili
+299379	Brands	3	The Cracker Barrel is a restaurant chain that started from an "old country store" located where?	Kentucky	Arkansas	Texas	Tennessee
+235383	Brands	3	Which company has used the ad slogan, "We Go Further, You Stay Closer"?	Eastern Air Lines	Mastercard	Malabar Gold	Thuraya
+186663	Brands	3	The Hostess treat "Ding Dongs" were sold under what other name?	Choco Treat	Ring Ding	Chocolate Twinkie	Big Wheels
+88015	Brands	3	What publication uses the slogan "The Daily Diary of the American Dream"?	New York Times	Barron's Report	Business Week	Wall Street Journal
+299301	Brands	3	How much did C. Elmer Doolin pay in 1932 for the corn chip recipe that launched The Frito Company?	$1	$50	$10	$100
+299844	Brands	3	What manufacturer introduced "Pringles" potato chips in 1969?	Frito-Lay	Lay's	Better Made	Procter & Gamble
+281763	Brands	3	Who makes the car model called the Intrigue?	Nissan	Ford	Cadillac	Oldsmobile
+88047	Brands	3	Which product has used the ad slogan "Isn't Life Delicious"?	Dr Pepper	Blow Pops	Snickers	Life Savers
+251033	Brands	3	General Electric is headquartered in what American city?	Philadelphia	Detroit	Chicago	New York
+299205	Brands	3	On the Mazda GLC, the letters GLC stand for what?	It Doesn't Stand For Anything	Gran Lemans Car	Grand Little Car	Great Little Car
+494392	Brands	3	Which of the following advertising slogans has been used by Chrysler?	Get More	Imagine	Brilliant!	Your Next Car
+299197	Brands	3	Which company was the 4th-largest chain of fast food restaurants in 2012?	McDonald's	Wendy's	Subway	Burger King
+3615	Brands	3	Which company has used the ad slogan "It's A Kick In A Glass"?	Vodafone	Bristol-Myers Squibb	Blackglama Great Lakes Mink	Tang
+489796	Brands	3	How much revenue in the third quarter of 2013 did Google make?	$4.9 Billion	$45.9 Billion	$1 Billion	$14.9 Billion
+494381	Brands	3	The 1960's saw London Fog create what coat innovation?	Reversible Coat	Leather Jacket	Waistcoat	Removable Coat Liner
+281765	Brands	3	What fruit or vegetable is NOT one of the "Fruit of the Loom Guys"?	Grapes	Leaf	Apple	Banana
+299629	Brands	3	Who makes the Alero?	Kia	Toyota	Nissan	Oldsmobile
+494414	Brands	3	Calvin Klein first released what famous perfume in 1988?	Diamonds	Musk	White Linen	Eternity
+489707	Brands	3	"Break Out Of The Ordinary" has been which company's ad slogan?	Birdseye	Tropicana	Pepsi	Nestle
+250721	Brands	3	Which of the following brews is nicknamed "The Cream of Manchester"?	Caledonian	Sleeman's Cream Ale	Cooper's Sparkling Ale	Boddingtons
+255451	Brands	3	Under what name is the Toyota Camry marketed in Australia?	Bastion	Union	Fashion	Aurion
+299204	Brands	3	In 2012 which car manufacturer produced cars under the brands Ballade, Stream and Ridgeline?	Ford	Maserati	Mazda	Honda
+299497	Brands	3	What was Instagram first known as when it was launched in 2010?	Instant Pics	Gram	The Gram	Burbn
+321218	Brands	3	Who invented the "DoveBar"?	Reuben Mattus	Chris Nelson	Harry Burt	Leo Stefanos
+349616	Brands	3	Which American chocolate company acquired Brookside Foods in 2011?	Nestle	Cadbury	Swiss Miss	Hershey
+281774	Brands	3	Dairy Queen's Blizzard was originally called by what name?	The Frosty	The Freeze	It Has Always Been Called Blizzard	The Concrete
+355751	Brands	3	Which product has used the ad slogan "One Bowl And You'll Be Ours"?	Corn Puffs	Cheerios	Fruit Loops	Raisin Nut Bran
+194146	Brands	3	In teen pop culture, what is "Diesel"?	A New Movie	A Fast Food Chain	A Car Performance Line	A Clothing Line
+255414	Brands	3	What is the #1 sewing machine manufacturer in the US?	Wesco	Wal-Mart	Sears	Singer
+489847	Brands	3	Who started their company marketing the "Maine Hunting Shoe"?	Eddie Bauer	Kenneth Cole	Abercrombie & Fitch	L.L. Bean
+299239	Brands	3	Who was the first athlete pictured on a "Wheaties" box?	Babe Ruth	Sandy Koufax	Joe Di Maggio	Lou Gehrig
+326072	Brands	3	When were Nabisco's "Barnum's Animal Crackers" and their characteristic box introduced?	1922	1852	1942	1902
+74487	Brands	3	What type of products are Liz Claiborne's "Soul Curve", "Soul Wave" and "Soul Crush"?	Shades Of Foundation	Lipsticks	Eye Shadow Collections	Fragrances
+299232	Brands	3	Which American beer features a horseshoe labeled "Good Luck"?	Hamm's	Falstaff	Stroh's	Olympia
+92777	Brands	3	The McDonald's ad "I'm Lovin It", is taken from where?	Bob Dylan Song	Army Motto	T-Shirt Slogan	Justin Timberlake Song
+512266	Brands	3	De Soto was a subsidiary of what car manufacturer?	Toyota	General Motors	Ford	Chrysler
+299824	Brands	3	Which company produced the Spitfire?	Morgan	Austin-Healey	Mg	Triumph
+299238	Brands	3	Which insurance company sold its stake in AIA Group in 2011 to cover debts?	Allstate	Aviva	Allianz	AIG
+299410	Brands	3	"The Longer Lasting Snack" has been used as an ad slogan by which company?	McDonald's	Burger King	Baby Ruth	Twix
+321254	Brands	3	What company used "The Noid" in their ad campaigns?	Dell Computers	Pizza Hut	Best Buy	Dominoís Pizza
+299838	Brands	3	Philips has used which advertising slogan?	Getting Things Done	Fair And Balanced	Still The One	Sense And Simplicity
+299630	Brands	3	Before starting Wendy's, what fast food franchise did Dave Thomas work for?	Arby's	Burger King	McDonald's	Kentucky Fried Chicken
+216348	Brands	3	Sunlight Flakes eventually became known as what product?	Frosted Flakes	Tide	Corn Flakes	Lux
+345432	Brands	3	Lou Reed's "Walk on the Wild Side" was used in a jingle for what product?	Reebok	Suzuki Jet Ski	Levi's	Honda Motor Scooters
+326124	Brands	3	What are the first names of Dolce and Gabbana?	Tom And Bob	Giorgio And Tony	Mark And William	Domenico And Stefano
+325656	Brands	3	What is the European name of the car known stateside as the Volkswagen Jetta?	Golf Saloon	Octavia	Phaeton	Bora
+254404	Brands	3	LL Cool J was the first official spokesman for what urban clothing line?	Phat Farm	Ecko	Cross Colors	Fubu

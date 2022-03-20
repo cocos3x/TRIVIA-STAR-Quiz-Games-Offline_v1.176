@@ -1,0 +1,28 @@
+Animales	0
+Fútbol	0
+Telenovelas	16
+Comida	0
+Fútbol Americano	15
+Musica Latinoamericana	20
+Marcas	2
+Celebridades Latinoamericanos	0
+Aves	5
+Geografia mundial	12
+Ciudades capitales	19
+Biología	26
+Viajar	33
+Mascotas	40
+Monumentos	47
+Historia mundial	54
+Literatura	61
+Poesía	68
+Computadoras y tecnología	75
+Mitología	82
+Ciencias	89
+Arte	96
+Océanos	103
+Química	110
+U.S. Historia	117
+Tierra	125
+U.S. Geografia	131
+Vino	145

@@ -1,0 +1,489 @@
+189272	Biología	0	¿Qué animal está activo por la noche?	Colibrí	Perro	León	Murciélago
+611FTUX25	Biología	0	¿Dónde encontrarías dos huesos maxilares y dos huesos nasales?	Brazo	Pierna	Cofre	Cara
+189675	Biología	1	¿Cómo llamarías a una unidad náutica de velocidad?	Nautímetro	Guión	Cubo	Nudo
+189493	Biología	0	¿Cómo se llama una pérdida de agua?	Fisión	Descascarado	Hackear	Deshidratación
+0DIF59	Biología	0	¿Qué sistema del cuerpo humano descompone los alimentos?	Sistema cardiovascular	Sistema muscular	Sistema inmunitario	Sistema digestivo
+0DIF53	Biología	0	¿Qué tipo de árbol japonés es pequeño y crece en una maceta?	Roble	Flor de cerezo	Petunia	Bonsai
+611FTUX35	Biología	0	¿Cómo se llama la afección cuando los glóbulos rojos se deforman?	Daltonismo	Diabetes tipo 2	Asma	Anemia falciforme
+611FTUX09	Biología	0	¿Cuál es el nombre común del tercer y último juego de molares que desarrollan la mayoría de las personas?	Chompers	Dientes de bebé	Incisivos	Muelas del juicio
+611FTUX05	Biología	0	¿Los delfines se clasifican en el mismo orden que cuál animal?	Tortugas	Tiburones	Cangrejos	Ballenas
+0DIF44	Biología	0	¿Cuántos huesos hay en el cuerpo humano?	18	555	67	206
+611FTUX24	Biología	0	¿Cómo se llaman los pequeños agujeros en la piel?	Esponjas	Pecas	Puntos	Poros
+99408	Biología	0	¿Qué pierden los árboles al comienzo del clima invernal?	Flores	Ramas	Agua	Hojas
+0DIF49	Biología	0	¿Cómo se conoce la muerte de cada miembro de una especie en particular?	Regeneración	Limpiar	Armagedón	Extinción
+611FTUX11	Biología	0	¿Cuál es el órgano interno más grande del cuerpo humano?	Apéndice	Vesícula biliar	Corazón	Hígado
+611FTUX30	Biología	0	¿Cuáles son los dos tipos de células sanguíneas?	Blanco y claro	Blanco y morado	Rojo y azul	Rojo y blanco
+0DIF54	Biología	0	¿Qué sustancia producen las flores que a veces causa la fiebre del heno?	Suelo	Miel	Hojas	Polen
+611FTUX27	Biología	0	¿Qué animales tienen branquias?	Saltamontes	Perezosos	Lagartos	Peces
+189428	Biología	0	¿Qué parte de una planta produce semillas?	Hojas	Raíces	Ramas	Flor
+611FTUX10	Biología	0	¿En qué criatura marina se encuentran las perlas naturales?	Estrella de mar	Cangrejo ermitaño	Camarón	ostra
+611FTUX17	Biología	0	¿Cuál de los siguientes órganos no se usa durante la digestión?	Intestino delgado	Estómago	Hígado	Pulmones
+611FTUX19	Biología	0	¿Dónde se encuentra la mandíbula?	Brazo	Cráneo	Costillas	Quijada
+611FTUX22	Biología	0	¿Cuál es el nombre anatómico del hueso del muslo?	Costilla	Cráneo	De mano	Fémur
+0DIF46	Biología	0	¿Los animales que comen tanto plantas como otros animales se conocen como qué?	Herbívoros	Carnívoros	Ninguna de las anteriores	Omnívoros
+0DIF52	Biología	0	¿Qué tipo de gas proporcionan los árboles para ayudarnos a respirar?	Helio	Dióxido de carbono	Nitrógeno	Oxígeno
+0DIF43	Biología	0	¿Cuál de los siguientes es un animal de sangre caliente?	Lagartija	Serpiente	Tortuga	Tigre
+611FTUX18	Biología	0	¿Cuál de estos huesos no forma parte del cráneo?	Hueso temporal	Hueso parietal	Hueso frontal	Hueso del húmero
+611FTUX23	Biología	0	¿Cuál no es un sistema del cuerpo humano?	Sistema digestivo	Sistema muscular	Sistema cardiovascular	Sistema de pensamiento
+611FTUX34	Biología	0	¿Qué característica significa moverse de un lugar a otro?	Estático	Estasis	Absorción	Locomoción
+611FTUX01	Biología	0	Estos se componen de ADN y son las instrucciones para la vida:	Venas	Intestinos	Núcleos	Genes
+104000	Biología	0	¿En qué se transforma una oruga?	Rana	Tábano	Escarabajo	Mariposa
+611FTUX32	Biología	0	¿Qué órgano procesa la comida que comemos?	Pulmón	Cerebro	Páncreas	Estómago
+0DIF56	Biología	0	¿Cuál de los siguientes no es un tipo de diente?	Molar	Canino	Incisivo	Retina
+351525	Biología	0	¿El arroz y el trigo son miembros de qué familia de plantas?	Familia Nightshade	Familia de Squash	Familia de leguminosas	Familia de la hierba
+611FTUX08	Biología	0	¿Cuál es el nombre del pigmento que se encuentra en tu piel y cabello que les da color?	Cúrcuma	Vitamina C	Proteína	Melanina
+347650	Biología	0	¿Cuántos cromosomas tiene una célula normal del cuerpo humano?	2	13	100	46
+0DIF51	Biología	0	¿Qué órgano del cuerpo humano que bombea sangre?	Vejiga	Pulmones	Estómago	Corazón
+189519	Biología	0	¿Cuál es la incapacidad para digerir el azúcar predominante de la leche?	Erosión	Intolerancia al gluten	Hipoalérgico	Intolerancia a la lactosa
+189444	Biología	0	¿Cuál es la parte de una planta de la que puede crecer otra planta?	Pistola	Estambre	Polen	Semilla
+611FTUX07	Biología	0	¿Qué da a los glóbulos rojos su color?	CO2	Vitamina B	Fibra	Hemoglobina
+189432	Biología	0	¿Cómo llamarías a un animal con tres partes principales del cuerpo y seis patas?	Micópodo	Felino	Pájaro	Insecto
+527801	Biología	0	¿Un grupo de qué insectos se llama ejército o colonia?	Mosquitos	Abejas	Mariposas	Hormigas
+611FTUX31	Biología	0	¿Cuál de los siguientes NO crece en un árbol?	manzana	Limón	Aguacate	Sandía
+527811	Biología	0	¿Qué insecto se parece a una ramita en una rama, arbusto o árbol?	Zancudo de agua	Libélula	Mantis	Insecto palo
+0DIF41	Biología	0	¿Cómo se llama una sola pieza de ADN enrollado?	Célula	Ameba	Factor Rh	Cromosoma
+189273	Biología	0	¿Cómo llamas al sistema de nombrar cosas?	Señalando datos	Escribiendo	Marcas	Nomenclatura
+349924	Biología	0	¿En qué época del año las hojas de algunos árboles cambian de color y comienzan a caer al suelo?	Verano	Invierno	Primavera	Otoño
+0DIF58	Biología	0	¿Cómo se llama el tubo que lleva la sangre al corazón?	Intestino	Garganta	Pulmón	Vena
+0DIF47	Biología	0	¿Qué causa el resfriado común?	Parásito	Hongo	Prion	Virus
+189541	Biología	0	¿Cuál es el estudio de las interrelaciones de los animales y las plantas con su entorno?	Paleontología	Arqueología	La cría de animales	Ecología
+189518	Biología	0	¿Cuál de los siguientes es un virus?	Faringitis estreptocócica	Clamidia	Micosis	Sarampión
+0DIF45	Biología	0	¿Qué científico famoso introdujo la idea de selección natural?	Nikola Tesla	Isaac Newton	Albert Einstein	Charles Darwin
+0DIF48	Biología	0	¿Con qué se pueden tratar las infecciones bacterianas en humanos?	Vitamina C	Jarabe para la tos	Biotina	Antibióticos
+611FTUX15	Biología	0	¿Cuántos dientes caninos tienen la mayoría de los adultos?	12	0	8	4
+611FTUX26	Biología	0	¿Cuáles son los huesos delgados que protegen los pulmones y corazón?	Carpianos	Mandíbulas	Tarsos	Costillas
+611FTUX21	Biología	0	¿Cómo se llama la máquina que separa la sangre?	Blood Buster 2000	Mutación	Kit de destilación	Centrífugo
+0DIF42	Biología	0	¿La botánica es el estudio de qué?	Sistema solar	Cuerpo humano	Animales	Plantas
+611FTUX02	Biología	0	¿Cuál de estos órganos puede volver a crecer si se extrae parte de él?	Columna vertebral	Brazo	Riñón	Hígado
+0DIF60	Biología	0	¿Cuál de los siguientes no es un grupo sanguíneo?	A +	O-	AB +	K-
+189437	Biología	0	¿Qué animal tiene el cerebro más grande?	Humano	Elefante	Tiburón	Ballena de esperma
+611FTUX14	Biología	0	Ahora extinto, ¿qué tiburón se cree que fue el más grande de la Tierra?	Leviatán	Kraken	Gran blanco	Megalodón
+611FTUX16	Biología	0	¿Qué animal tiene el metabolismo más rápido?	Oso	leopardo	Serpiente	Colibrí
+611FTUX04	Biología	0	¿Qué chorrea en tu boca mientras mastica la comida?	Plasma	sal	Sangre	Saliva
+611FTUX29	Biología	0	¿Dónde se encuentran los carpos en los humanos?	Cofre	Cara	Livianos	Manos
+347818	Biología	0	¿Cuál de estas actividades forma parte del ciclo de vida de una planta?	Muda	Jactancia	Encadenamiento	Brotar
+347820	Biología	0	¿Qué nombre se le da al grupo de animales al que pertenece una mariquita?	Mamíferos	Reptiles	Plantas	Insectos
+611FTUX06	Biología	0	¿Orcinus orca es el nombre científico de qué animal?	Gran tiburón blanco	Delfín	Megalodon	Orca
+611FTUX33	Biología	0	¿Dónde se fabrican los glóbulos rojos?	Vejiga	Páncreas	Livianos	Médula ósea
+611FTUX13	Biología	0	¿Cómo se llama una persona capaz de usar ambas manos con la misma habilidad?	Bípedo	Bilateral	Dos manos	Ambidextro
+611FTUX20	Biología	0	¿Cuál de los siguientes no es un componente de la sangre?	Plasma	Plaquetas	Células blancas de la sangre	Saliva
+611FTUX03	Biología	0	¿Cómo se llama la forma del ADN?	Escalera ondulada	Esfera	Dodecágono	Doble hélice
+0DIF50	Biología	0	¿Un cambio de ADN en un organismo que da como resultado un nuevo rasgo se conoce como qué?	Extinción	Radioactividad	Parásito	Mutación
+183010	Biología	0	¿Cómo se llama la lluvia que se vuelve suficientemente ácida por la contaminación atmosférica?	Nono Rain	Dolor de lluvia	Lluvia sucia	Lluvia ácida
+0DIF57	Biología	0	¿Qué parte del esqueleto humano protege el cerebro?	Cóccix	Fémur	Esternón	Cráneo
+611FTUX12	Biología	0	En biología, ¿qué significa el acrónimo ADN?	Donut Arsenal	Amino Deminucleico	No articular	Ácido desoxirribonucleico
+103999	Biología	0	¿Qué insecto es conocido por su picadura?	Mariposa	Saltamontes	Polilla	abeja
+611FTUX28	Biología	0	¿Cuál es el nombre correcto de la parte de arriba de la rodilla?	Dermis	Bazo	Mamory	Rótula
+0DIF55	Biología	0	¿Qué tipo de sistema hace circular la sangre por el cuerpo?	Sistema límbico	Sistema esquelético	Sistema digestivo	Sistema circulatorio
+349914	Biología	0	¿Cuál de estos lugares es un refugio típico para un mapache?	En una casa	En el bote de basura	En el Océano Pacífico	En un arbol
+217230	Biología	1	¿Cuál es la unidad básica de función y estructura en los organismos vivos?	Cárceles	Centros comerciales	Artículos	Células
+371813	Biología	1	¿Qué especie está emparejada correctamente con su tipo?	Elefante marino del norte - Reptil	Saltamontes - Mamífero	Tortuga marina - Insecto	Búho nival - pájaro
+350673	Biología	1	¿Cuál de las siguientes es una respuesta natural a un cambio de temperatura para un oso negro?	Ocultación	Corriendo	Migración	Hibernación
+369094	Biología	1	¿Cuál de estos mamíferos pone huevos?	Canguro	Zarigüeya	Humano	Ornitorrinco
+368388	Biología	1	¿Cómo se llama el esqueleto exterior de organismos como arañas e insectos?	Desgranador	Endoesqueleto	Exotérmico	Exoesqueleto
+357680	Biología	1	¿En cuál de estos hábitats se encontraría una jirafa?	Oceano	Bosque	Desierto	Pastizales de la sabana
+368365	Biología	1	¿Qué adaptación permite que un organismo se parezca a otro para sobrevivir?	Imitando	Determinación	Exterminio	Mimetismo
+368384	Biología	1	¿Cuál es la razón principal por la que muchas especies están en peligro de extinción?	Enfermedad	Caza	Selección natural	Destrucción del habitát
+350018	Biología	1	¿Cuál de los siguientes alimentos comunes se originó en los trópicos?	Zanahorias	Arándanos	Coles	Plátanos
+350119	Biología	1	¿Cómo se llama un grupo similar de animales que pueden reproducirse entre sí?	Familia	Grupo	Reino	Especies
+357647	Biología	1	¿Qué pasará con los cultivos si no obtienen suficiente agua mientras reciben demasiado calor?	Las plantas prosperarán	Sin efecto	Las plantas se volverán inactivas	Las plantas morirán
+369215	Biología	1	¿Cómo se llama un grupo de cadenas alimentarias que están relacionadas de alguna manera?	Enlaces de comida	Buffet de comida	Nicho	Red alimentaria
+369989	Biología	1	¿Qué planta tiene semillas en el aire?	ciruela	Tomate	Aguacate	Diente de león
+368657	Biología	1	¿Cómo se llama el tubo que lleva los alimentos al estómago?	Sarcófago	Tubular	Intestino	Esófago
+347774	Biología	1	¿Cómo se llaman las patas de un ave rapaz?	Picos	Curvas	Espadas	Garras
+369984	Biología	1	¿Cuál de las siguientes opciones haría un médico para examinar sus huesos?	Mira a través de tu piel	Mira a través de tus ojos	Ponte gafas especiales	Tomar una radiografía
+368344	Biología	1	¿Qué se cree que entierran las ardillas para almacenar alimentos para el invierno?	Tomates	Maíz	Fruta	Bellotas
+366561	Biología	1	¿Cuál de estas es una parte del sistema cardiovascular del cuerpo humano?	Hueso	Bíceps	Hígado	Corazón
+366500	Biología	1	¿Cuál es el nombre del grupo de animales que incluye ácaros, garrapatas y escorpiones?	Insectos	Moluscos	Primates	Arácnidos
+368328	Biología	1	¿Cuál de estos animales podría competir por la misma fuente de alimento que un halcón de cola roja?	Saltamontes	Conejo	Marmota	Serpiente de cascabel
+369098	Biología	1	¿Cuál de estas características permite que un búho vea bien de noche?	Alas silenciosas	Garras grandes	Orejas bien posicionadas	Ojos grandes
+368355	Biología	1	¿Cuál de estos animales a continuación está extinto?	Lobo	Delfín	Orca	Pájaro dodo
+371805	Biología	1	¿Qué adjetivo significa pertenecer o asociado a una flor?	Nocturno	amanecer	Altitud	Floral
+369079	Biología	1	¿Cómo se llama el tiempo esperado que vivirá un organismo?	Una hora	Recuerdo de la muerte	La llamada	Esperanza de vida
+351595	Biología	1	¿En qué hábitat viviría un pez de agua dulce?	El Pacífico	El Atlántico	El Himalaya	Lago Erie
+350539	Biología	1	¿Qué estructuras sostienen las plantas en el suelo?	Tallos	Flores	Hojas	Raíces
+368371	Biología	1	¿Cuál de los siguientes podría comerse una rana?	Roca	Halcón	Manzanas	Mosca
+368308	Biología	1	¿Qué par de especies y tipos de animales es correcto?	Búho - Mamífero	Murciélago - Reptil	Python - pájaro	Salmón - Pez
+347839	Biología	1	¿Cuál de los siguientes animales nace de un huevo fuera del cuerpo de la madre?	Oso	Lobo	León	Tortuga
+189939	Biología	1	¿Cuál es la mejor forma de eliminar los gérmenes de la piel?	Broncearse	Usar productos para el cuidado de la piel	Tomando vitaminas	Lavarse
+351584	Biología	1	¿El cerebro se divide en cuántos lóbulos?	24	1	12	4
+368290	Biología	1	¿Qué sustancia, que se encuentra en los alimentos, ayuda a mover los desechos por el cuerpo?	Melanina	Virus	Bacterias	Fibra
+189453	Biología	1	¿Cuál es el final del ciclo de vida humano?	Nacimiento	Adolescencia	Vejez	Muerte
+10617	Biología	1	¿La definición de "plantas acuáticas de grupo grande" se ajusta mejor a qué término científico?	Fósil	Fecha absoluta	Atmósfera	Algas
+368297	Biología	1	¿Qué vertebrados son de sangre fría y tienen la piel seca y escamosa?	Anfibios	Aves	Mamíferos	Reptiles
+366558	Biología	1	¿Cómo se llama la hoja de un helecho?	Estanque	Rizoide	Manta de Nikki	Fronda
+189509	Biología	1	¿Qué par de especies y tipos de animales es correcto?	Ácaro - Mamífero	Bisonte - Insecto	Hormiga - Arácnido	Arrendajo azul - pájaro
+357638	Biología	1	¿Cuál de estas palabras significa "encontrar un nuevo hogar"?	Recaída	Relajarse	Prosperar	Trasladarse
+370010	Biología	1	¿Cómo se llaman los animales que son cazados por depredadores?	Descomponedores	Órganos	Más fuerte	Presa
+48864	Biología	1	¿Cuál es el nervio que ayuda a transmitir señales de sonido a su cerebro?	Olfativo	Cóclea	Arete	Auditivo
+355069	Biología	1	¿Qué palabra científica significa "agrupar"?	Biología	Monera	Correlación	Clasificar
+351495	Biología	1	¿A través de cuál de estos se comunica un lobo?	Canto	Gritando	Volando	Aullando
+357664	Biología	1	¿Por dónde se toma la mayor parte del oxígeno que entra al cuerpo?	Mano	Brazo	Piernas	Tráquea
+371809	Biología	1	¿Cómo llamamos a un área que un animal defiende de otros animales?	Aterrorizar	Yermo	Deseando Tierra	Territorio
+368354	Biología	1	¿Cuál de estos animales está estrechamente relacionado con una langosta?	Humano	Libélula	Pescado	Cangrejo
+350111	Biología	1	¿Cómo se llama el líquido en la boca que ayuda a ablandar los alimentos?	Sangre	sal	Papilas gustativas	Saliva
+214890	Biología	1	¿Cuál de estos es el orden correcto del ciclo de vida de un pollo?	Pollo, Huevo, Gallo	Gallo, Huevo, Gallina	Pollo, Huevo, Mole	Huevo, Pollito, Gallina
+232730	Biología	1	¿De qué sistema corporal forma parte el corazón humano?	Sistema respiratorio	Sistema urinario	Sistema nervioso	Sistema circulatorio
+350030	Biología	1	¿Qué famoso artista italiano estudió las relaciones entre partes del cuerpo humano?	George Washington Carver	Isaac Newton	Edmund Halley	Leonardo Da Vinci
+189496	Biología	1	¿Qué par de especies y tipos de animales es correcto?	Hormiga - pájaro	Pingüino - pez	Ray - Insecto	Mamut - Mamífero
+357644	Biología	1	¿Qué animal norteamericano se llama erróneamente búfalo?	Mapache	Cabra	Caribú	Bisonte
+368311	Biología	1	¿Cuál es el nombre de la sustancia azucarada que muchos insectos obtienen de las flores?	Miel de maple	Polen	Jarabe de flores	Néctar
+189515	Biología	1	¿Qué forma de comunicación usa un pájaro?	Lenguaje de señas	Escritura	Hablando	Canto
+352055	Biología	1	¿Cuál es la respuesta normal de un conejo cuando ve un zorro?	Comiendo trébol	Beber de un arroyo	Decirle a su madre	Corriendo para esconderse
+351587	Biología	1	¿Cómo se llama el período de crecimiento antes del nacimiento?	Pubertad	Edad adulta	Digestión	Gestación
+347860	Biología	1	¿Qué crece de una bellota?	Rana	Mariposa	Sauce	Roble
+350434	Biología	1	¿Qué usa una cobra real para inmovilizar y matar a su presa?	Agua	Zumo de naranja	Matar miradas	Veneno
+351490	Biología	1	¿Qué par de especies y tipos de animales es correcto?	Sapo - Mamífero	Rata - Insecto	Hormiga - Anfibio	Ácaro - Arácnido
+351508	Biología	1	¿En qué reino estaría un humano?	Planta	Protista	Hongos	Animal
+351570	Biología	1	¿En qué reino está el elefante?	Planta	Hongos	Monera	Animal
+357682	Biología	1	¿Cuál de estos cambia más desde el principio hasta la etapa adulta de su ciclo de vida?	Oso negro	Mapache	Gato	Mariposa
+36694	Biología	1	¿Cuál fue la criatura viviente más grande del siglo XX?	Orca	Tiburón ballena	Elefante	Ballena azul
+369123	Biología	1	¿Qué mamífero marino ha quedado atrapado con frecuencia en las redes de pesca de atún?	Orca	León marino	Morsa	Delfín
+351544	Biología	1	¿Qué parte del cuerpo de un ser humano percibe información luminosa?	Orejas	Nariz	Manos	Ojos
+355092	Biología	1	¿Cómo se llaman los animales que no tienen columna vertebral?	Anfibios	Sin carácter	Reptiles	Invertebrados
+91656	Biología	1	¿La vida animal también se conoce como qué?	Carcinógeno	Reactor	Tornillo	Fauna
+351608	Biología	1	¿Cuántas patas tienen los insectos?	4	3	2	6
+351617	Biología	1	¿En qué hábitat vive el caribú?	Sabana	Desierto	Oceano	Tundra
+351593	Biología	1	¿Cuál es el órgano más grande del cuerpo humano?	Hígado	Livianos	Intestinos	Piel
+181624	Biología	1	¿Cuál de los siguientes está clasificado biológicamente como insecto?	Águila dorada	Pez de colores	Elefante africano	Libélula
+351619	Biología	1	¿Qué grupo de animales es de sangre caliente y tiene pelaje o pelo?	Reptiles	Anfibios	Insectos	Mamíferos
+370017	Biología	1	¿Cuál de estos animales podría usar un arrecife de coral para esconderse y protegerse?	Calamar gigante	Tiburón ballena	Orca	Anguila morena
+371814	Biología	1	¿Cuál de estos animales es de sangre fría?	Arrendajo azul	Humano	Zorro ártico	Caimán
+369245	Biología	1	¿Cuál es otro nombre para el crecimiento de organismos vivos?	Celling	Celular	Atribución	Desarrollo
+189419	Biología	1	¿Qué cubierta corporal tienen los mamíferos que no tienen otros animales?	Plumas	Escamas	Piel	Cabello
+191606	Biología	1	¿Qué usa el erizo de mar para protegerse?	Chorro de agua	Mordisco poderoso	Habilidad de natación rápida	Espinas afiladas
+355085	Biología	1	Además del moco, ¿qué ayuda a la nariz a filtrar los gérmenes y la suciedad?	Sangre	Celúlas de piel	Melanina	Pelos diminutos
+369990	Biología	1	¿Qué tiene un pez león en sus aletas espinosas?	Comida	Tinta	Agua	Veneno
+352060	Biología	1	¿Cuál de estos animales vive en el Ártico?	Pingüino	Elefante	Loro	Oso polar
+351540	Biología	1	¿Cuál de estas es una fuente de energía y combustible renovable?	Carbón	Gas natural	Petróleo	Energía solar
+347806	Biología	1	¿Qué adaptación ha desarrollado una rana para atrapar moscas?	Pies palmeados	Capa gruesa	Talla	Lengua larga y pegajosa
+350542	Biología	1	¿Cuál es un cambio en el entorno que trae una respuesta?	Aguja	Simulación	Smilodon	Estímulo
+369250	Biología	1	¿Cuál de estos no es un insecto?	Abeja	Mantis religiosa	Mariquita	Araña viuda negra
+370034	Biología	1	¿Cuál es el nombre de una sustancia que su cuerpo necesita para tener energía y crecimiento?	Densidad osea	Melanina	Virus	Nutritientes
+181692	Biología	1	¿Cuál de estos animales compite con un león por comida?	Cebra	Jirafa	Elefante	Hiena
+349919	Biología	1	¿Cuál de estos animales tiene su refugio en la espalda?	Serpiente de cascabel	Humano	Gato	Tortuga de caja
+369112	Biología	1	¿Cuál de los siguientes peces puede adaptarse tanto al agua salada como al agua dulce?	Pez puercoespín	Atún	Gran tiburón blanco	Salmón
+92217	Biología	1	¿Qué tipo de criatura vive generalmente en la tierra pero comienza a viviendo en el agua?	Reptil	Pescado	Mamífero	Anfibio
+355086	Biología	1	¿Cuál de los siguientes animales podría comerse una garza?	Tortuga	Tiburón	Ballena	Rana
+347644	Biología	1	¿Qué células llevan mensajes de todas las partes del cuerpo al cerebro?	Células musculares	Celdas de la cárcel	Celulas hepáticas	Células nerviosas
+368383	Biología	1	¿Cuál de las siguientes herramientas usaría una nutria marina para abrir un marisco?	Algas marinas	Tenedor	Cuchara	Roca
+350547	Biología	1	¿Cuál es el nombre para el hueso de la cabeza humana?	Rótula	Fíbula	Bono	Cráneo
+217616	Biología	1	¿Cuál de estas criaturas es un organismo unicelular?	Pollo	Gusano plano	Seta venenosa	Ameba
+350685	Biología	1	¿Cómo se puede llamar a un animal que come bayas y pescado?	Carnívoro	Insectívoro	Herbívoro	Omnívoro
+357661	Biología	1	¿Qué tipo de animal es una tenia?	Mamífero	Material de abono	Comunidad	Parásito
+368353	Biología	1	¿Cómo se llaman los científicos que estudian animales?	Botánicos	Oceanógrafos	Animalogistas	Zoologos
+368368	Biología	1	¿Qué respuesta natural tendría un humano al frío?	Saltar	Hipo	Dormir	Temblar
+347645	Biología	1	¿Qué rayos del sol pueden dañar la piel?	Luz visible	Infrarrojo	naranja	Ultravioleta
+368301	Biología	1	¿Cómo se llama el proceso de aprender a través de errores?	Reflejos	Maravillas del mundo	Molesta	Prueba y error
+350541	Biología	1	¿Dónde se encuentra la serpiente más grande, la anaconda?	Norteamérica	Asia	Antártida	Sudamérica
+189431	Biología	1	¿Cuál es el término científico para un animal que come el tipo de alimentos que comen los humanos?	Carnívoro	Herbívoro	Insectívoro	Omnívoro
+355084	Biología	1	¿Cuál de las siguientes opciones nombra correctamente la capa superior de la selva tropical?	Relámpago	Agua potable	Aéreo	Pabellón
+350672	Biología	1	¿Cuál de estos hábitats alberga una mayor variedad de organismos?	Bosque templado	lago	Desierto	Bosque tropical
+369995	Biología	1	¿Qué gas absorben las plantas que los humanos emiten cuando respiran?	Helio	Hidrógeno	Oxígeno	Dióxido de carbono
+189430	Biología	1	¿Cuál de las siguientes es una señal de que tiene hambre?	Tus ojos parpadean rápidamente	Tus brazos comienzan a agitarse	Te vas a dormir	Tu estómago hace ruidos
+369253	Biología	1	¿Qué animal construye cabañas, presa ríos y tiene grandes dientes delanteros para roer?	Caballo	Canguro	Ballena	Castor
+191585	Biología	1	¿Cuál de las siguientes palabras significa "morir"?	Sobrevivir	Prosperar	En Vivo	Perecer
+371774	Biología	1	¿Cómo se llama la cubierta más externa de los árboles y algunas plantas?	Fauna	Capa de ozono	Cutáneo	Corteza
+370018	Biología	1	¿Cuál de estas partes del cuerpo ingiere alimentos?	Dedo	Brazo	Pie	Boca
+228560	Biología	1	¿Cuál de estos animales está extinto?	Águila calva	Robin	Conejo	Triceratops
+350659	Biología	1	¿Qué ayuda a producir la sustancia de aceite ceroso para la piel y el cabello?	Gladiolo	Grandioso	Melanina	Glándulas de aceite
+369089	Biología	1	¿Cómo se llaman las plantas viscosas que suelen vivir en un estanque?	Lirios	Totora	Caléndulas	Algas
+368306	Biología	1	¿Cómo se llama el lugar donde vive un animal?	Sistema solar	Acuático	Especies	Hábitat
+369069	Biología	1	¿Cómo llamarías a un grupo de organismos que está al borde de la extinción?	Ráfaga máxima	Acueducto	Meteorito	Especie en peligro
+369994	Biología	1	¿Cuál de estos animales es un reptil?	Sapo	León	Tiburón	Serpiente
+91657	Biología	1	¿Cuál de estos sentidos utiliza para saber de qué color es un objeto?	Escuchando	Toque	Gusto	Visión
+350540	Biología	1	¿En qué hábitat podría vivir un animal con un pelaje grueso y cálido?	Desierto	Río	Oceano	Tundra
+368299	Biología	1	¿Cómo se llama la conducta enseñada por los padres u otros adultos de la especie?	Comportamiento heredado	Comportamiento instintivo	Comportamiento nativo	Comportamiento aprendido
+369190	Biología	1	¿Qué sustancia en sus oídos ayuda a mantener alejados los gérmenes y la suciedad?	Mucoso	Tejidos	Sangre	Cerumen
+351510	Biología	1	¿Qué parte de la planta realiza la mayor parte de la fotosíntesis?	Raíz	Vástago	Semilla	Hoja
+350019	Biología	1	¿Cuál de los siguientes es un animal con pezuña?	Libélula	Humano	Murciélago	Caballo
+368387	Biología	1	¿Cuál de los siguientes organismos podría comerse un zorro?	Águila calva	Hiena	Oso grizzly	Campañol de pradera
+368284	Biología	1	¿Cómo se llama un conjunto completo de huesos?	Ecosfera	Injerto de piel	Sistema	Esqueleto
+371800	Biología	1	¿De qué viven los animales que hibernan durante su sueño profundo?	Sangre	Plantas	Nieve	Capas de grasa
+357687	Biología	1	¿Qué tipo de glóbulo ayuda a combatir  gérmenes?	Las células rojas de la sangre	Glóbulos azules	Glóbulos nerviosos	Células blancas de la sangre
+369125	Biología	1	¿Cuál es el orden correcto del ciclo de vida de una mariposa?	Huevo, Pupa, Larva, Adulto	Pupa, Larva, Huevo, Adulto	Huevo, Bebé, Pupa, Adulto	Huevo, Larva, Pupa, Adulto
+351502	Biología	1	¿Cuál es el músculo en forma de sábana en la parte inferior de un pecho humano?	Hinchazón	Esternón	Curtido	Diafragma
+369187	Biología	1	¿Cómo se llaman todos los seres vivos y no vivos de un área?	Fauna	Flora	Población	Ecosistema
+366498	Biología	1	¿Cuál de estos animales de las praderas africanas comparte una fuente de alimento con la cebra?	Hiena	León	Jirafa	Ñu
+369249	Biología	1	¿Cuál es el animal terrestre más grande?	Avestruz	Jirafa	León	Elefante
+369216	Biología	1	¿Cuáles de estos utilizan los organismos para producir energía?	Madera	Toxinas	Agua	Comida
+368329	Biología	1	¿Por qué muchas flores tienen colores brillantes?	Para atraer otras flores	Para atraer humanos	Para mantenerse joven	Para atraer insectos polinizadores
+369093	Biología	1	¿Qué hay en tu lengua que te permite saborear las diferencias en diferentes alimentos?	Probadores de sabor	Espinillas	Colinas	Papilas gustativas
+351523	Biología	1	¿Cuál de estos es un sentido que se sabe que tienen los humanos?	Telepatía	Araña	Sexto	Gusto
+189465	Biología	1	¿Cuál es otro nombre para una rana bebé?	Cachorro	Niño rana	Ranita	Renacuajo
+214891	Biología	1	¿Con qué proceso se hacen más los seres vivos?	Respiración	Transpiración	Fotosíntesis	Reproducción
+369991	Biología	1	¿Cuál de los siguientes está vivo?	corcho	Rock	Virus	Bacterias
+350669	Biología	1	¿Cuál de estas es una planta originaria de Asia?	Radar Doppler	Geógrafo	Asteroides	Cáñamo
+369119	Biología	1	¿Cuál de estas plantas probablemente se encontraría alrededor del borde de un estanque?	Cactus	Árbol de coco	Roble	Totora
+351571	Biología	1	¿Qué transportan los glóbulos rojos por todo el cuerpo?	Enrojecimiento	Electrones	Microscopios	Oxígeno
+369068	Biología	1	¿Cuál es la arteria más grande del cuerpo humano?	Capilar	Corazón	Vena del trombo	Aorta
+369213	Biología	1	¿Cómo se llama una planta muy joven?	Germinador	Terminator	Plantador	Planta de semillero
+191578	Biología	1	¿Cuál de los siguientes es un organismo pequeño que puede enfermar su cuerpo?	Sangre	Melanina	Ácido del estómago	Bacteria
+368350	Biología	1	¿Cómo se llama el proceso de descomposición de los alimentos?	Gimoteo	Sibilancias	Wolfing	Digestión
+369997	Biología	1	¿Cómo se llama un oso joven?	Becerro	Bebé	Cap	Cachorro
+351531	Biología	1	¿Cuál de estas cosas no vive?	Flor	Gato	Almeja	Roca
+347861	Biología	1	¿Qué proteína se encuentra en el cabello y las uñas de los mamíferos?	Zanahorias	Quilates	Queroseno	Bordillo
+85158	Biología	1	¿Cómo se llama la caza ilegal de un animal?	Exterminio	Extirpando	Missiling	Caza furtiva
+368386	Biología	1	¿Cuál de estos animales probablemente se encontraría en un estanque?	Serpiente de mar	Ballena	Tiburón	Tortuga
+181647	Biología	1	¿Cuál de estas plantas crece a partir de un bulbo?	Tomate	Rosa	Girasol	Cebolla
+369096	Biología	1	¿Cuál de estos no es parte de una planta?	Raíz	Hoja	Vástago	Brazo
+351555	Biología	1	¿Cuál de estos proporciona principalmente los alimentos del grupo de las carnes?	Fibra	Calcio	Vitaminas C y D	Proteína y hierro
+352056	Biología	1	¿Cómo se les suele llamar a los grandes gorilas machos debido a la coloración de su cabello?	Pies dorados	Espalda dorada	Manos grandes	Espalda plateada
+181485	Biología	1	¿Cuál de estas es una forma en que los perros se comunican entre sí?	Maullando	Hablando	Lenguaje de señas	Ladrido
+217237	Biología	1	¿Cuál de los siguientes es un insecto?	Bluebird oriental	Oso	Manatí	Grillo
+350662	Biología	1	¿Cómo se llama el macho o la hembra principal de una manada de lobos?	Omega	El perro superior	Aleluyas	Alfa
+370032	Biología	1	¿En qué reino encajaría una seta venenosa?	Monera	Protista	Planta	Hongos
+368338	Biología	1	¿Cuál de estos sentidos usarías para saber qué tan caliente estaba la acera?	Escuchando	Gusto	Oler	Tacto
+75042	Biología	2	¿Cómo huele un insecto?	Los insectos no pueden oler	A través de la nariz	A través de pequeños poros	A través de sus antenas
+368287	Biología	2	¿Qué tipo de tallo de la planta es suave y verde?	Leñoso	Chirriante	Roto	Herbáceo
+350536	Biología	2	¿Qué es el botulismo?	La ciencia y el estudio de la atmósfera	Productos químicos que reducen o previenen la oxidación	Un área de 43,560 pies cuadrados	Tipo de intoxicación alimentaria
+55900	Biología	2	¿Qué animal tiene el cerebro más grande y pesado de todos los animales?	Elefante	Humano	Perro	Ballena de esperma
+181573	Biología	2	¿Qué manjar japonés puede ser mortal si no se prepara correctamente?	Pulpo	Anguila	Pez piedra	Pez globo
+347641	Biología	2	¿Cuántos días dura el embarazo en humanos?	30	120	3000	270
+352231	Biología	2	¿Cómo se llama un grupo de animales de la misma especie que viven y trabajan juntos?	Pandilla	Maravilloso	Rancho	Sociedad
+357084	Biología	2	¿Qué característica podría mostrar que un pájaro podría estar listo para reproducirse?	Pico más largo	Cambios de color de ojos	El pájaro habla	Plumas de colores brillantes
+82879	Biología	2	¿Qué grupo de nutrientes proporciona energía duradera?	Carbohidratos	Proteinas	Calorías	Grasas
+351573	Biología	2	¿Qué sustancia en polvo contiene las células sexuales masculinas de una flor?	Sépalos	Pétalos	Pistilo	Polen
+351507	Biología	2	¿Dónde encontrarías huevos de libélula?	En las hojas de los árboles	Subterráneo	En la Luna	En o cerca del agua
+352599	Biología	2	¿Qué nutriente necesitan las niñas más que los niños cuando están creciendo?	Cobre	Zinc	Proteína	Hierro
+351577	Biología	2	¿Cómo se llama la sangre completa menos las células?	Glóbulos rojos	Plaquetas	Solución salina	Plasma
+357653	Biología	2	¿Cuál de estos es una criatura de aguas profundas?	Anguila morena	Atún	Manta raya	Rape
+232731	Biología	2	¿Qué células del ojo sensibles a la luz detectan colores?	Varillas	Alumnos	Lirios	Conos
+357660	Biología	2	¿Cuál de los siguientes es un orden de reptiles?	Anfibio	Nacido en el agua	Nadando	De cocodrilo
+368656	Biología	2	¿Qué método usan los helechos para reproducirse?	Polen	Piñas	Semillas	Esporas
+46345	Biología	2	¿Qué parte del cerebro es responsable de la visión?	Temporal	Frontal	Parietal	Occipital
+370045	Biología	2	¿Cuál de estos es el rasgo más extraño de un cachorro dálmata?	Nacido negro puro	Duerme con los pies en el aire	Nacido con los ojos abiertos	Nacido blanco puro
+355073	Biología	2	¿Cuál de los siguientes se encuentra en el nivel más bajo de organización ecológica?	Ecosistema	Población	Comunidad	Organismo
+369110	Biología	2	¿Qué tipo de raíces crecen por encima del suelo?	Raíces principales	Raíces voladoras	Raíces de nubes	Raíces aéreas
+40134	Biología	2	¿Cuál es el pliegue de tejido que rodea el cuerpo blando de un molusco?	Bóveda	Fisura	Acuñado	Manto
+369979	Biología	2	¿En qué parte del cuerpo crece el vello más rápido?	Piernas	Cuero cabelludo	Cofre	Cara
+371810	Biología	2	¿Qué controla la sustancia melanina?	Altura	Largo del pelo	Espesor de la piel	Color de la piel
+347883	Biología	2	¿Qué forma de pico permitiría a un pájaro obtener néctar de flores tubulares largas y delgadas?	Corto y rechoncho	Pico grueso	Curvo	Largo y puntiagudo
+355091	Biología	2	¿Qué criatura marina fue probablemente la causa de la leyenda de las sirenas?	Ballena azul	Erizo de mar	Dolar de arena	Manatí
+232714	Biología	2	¿Cuál de los siguientes es el propósito de las espinas de cactus?	Atrae a los animales	Para hacer comida	Para capturar comida	Protege el cactus
+351631	Biología	2	¿Cómo se llaman los espacios entre las células nerviosas?	Lapsos	Colapsa	Carreteras	Sinapsis
+351614	Biología	2	¿Cuál es otro nombre para las partes artificiales del cuerpo?	Mecánica	Gelatinas	Tetas	Prótesis
+357691	Biología	2	¿Cuál de los siguientes no es un artrópodo?	Araña de mar	Springtail	Milpiés	Pitón
+350670	Biología	2	¿Qué forma el límite exterior de una celda y controla el material que entra y sale de la celda?	Constitución celular	Gobierno celular	Núcleo	Membrana celular
+347862	Biología	2	¿Qué tipo de árbol pierde todas sus hojas durante un período inactivo como el invierno?	Hojas perennes	Conífero	Amoroso	Caduco - de hoja Caduca
+371812	Biología	2	¿Cuáles de los siguientes animales viven en grupos grandes para protegerse?	Osos pardos	Zorrillos	Zarigüeyas	Perros de la pradera
+351497	Biología	2	¿Qué tipo de tallo tendría un roble?	Tallo herbáceo	Tallo domesticado	Tallo cojo	Tallo leñoso
+369088	Biología	2	¿Qué sustancia gelatinosa sostiene el núcleo y todas las demás partes de la célula?	Riboplasma	Lisosoma	Cromosoma	Citoplasma
+351622	Biología	2	¿Qué se necesita para producir proteínas?	Carbohidratos	Oxígeno	Carbón	Aminoácidos
+75071	Biología	2	¿Cómo se llama una célula que proporciona energía a otro organismo?	Fisión binaria	Cicloplasma	Amperio	Célula huésped
+368296	Biología	2	¿Cuál de estos animales es de sangre caliente?	Caimán	Serpiente de cascabel	Tortuga de caja del este	Pingüino
+228556	Biología	2	¿Qué parte de la célula contiene instrucciones y determina las características del organismo?	Cronómetro	Tallo cronológico	Lisosoma	Cromosoma
+351589	Biología	2	Históricamente, ¿qué patógeno o enfermedad ha matado a más personas?	SIDA	Peste bubónica	Cólera	Malaria
+217632	Biología	2	¿Qué mamíferos usan una bolsa para continuar el desarrollo de su descendencia una vez que nacen?	Equinodermos	Placentarios	Felinos	Marsupiales
+369083	Biología	2	¿Qué "trampilla" en la tráquea ayuda a mantener alejadas las partículas de comida?	Epicentro	Esófago	Sarcófago	Epiglotis
+370004	Biología	2	¿Cómo se llama el brote de una nueva estructura vegetal?	Alargamiento	Aceleración	Estancamiento	Germinación
+349916	Biología	2	¿Cuál es otro nombre para la porción de la Tierra que sustenta la vida?	Atmósfera	Biología	Bioluminiscencia	Biosfera
+351498	Biología	2	¿Qué enfermedad hereditaria causa que se acumulen grandes cantidades de moco en los pulmones?	Neumonía	Meningitis bacterial	Ántrax	Fibrosis quística
+351542	Biología	2	¿Cómo se llaman las células en forma de hilo único en la epidermis de la raíz?	Hilos raíz	Rooters	Dientes de raíz	Raíz del cabello
+369091	Biología	2	¿Qué animal marino es parásito y se adhiere a los peces para chupar su sangre?	Anguila azul	Peces linterna	Percebe	Lamprea
+370028	Biología	2	¿Cómo se llama una respuesta automática que no involucra al cerebro?	Inocuo	Estúpido	Autostem	Reflejo
+371775	Biología	2	¿Cuál es la etapa en los seres humanos en la que el cuerpo madura físicamente?	Infantil	Gestación	Adultacion	Pubertad
+368312	Biología	2	¿Qué estudia un ornitólogo?	El océano	Amebas	Niños Ornery	Aves
+366499	Biología	2	¿Qué forma el cigoto una vez que comienza la mitosis?	Bebé	Feto	Reino	Embrión
+352235	Biología	2	¿Cómo se llama a una persona que vende y cuida plantas?	Biólogo	Plantador	Graduado	Horticultor
+347901	Biología	2	¿Cómo se llama un período sin crecimiento en una planta?	Gestación	Brotante	Siembra	Inactividad
+351627	Biología	2	¿Qué grupo de organismos tienen cuerpos separados en anillos y tienen un celoma?	Gusanos anillados	Gusanos de enlatado	Gusanos coquetos	Gusanos segmentados
+369969	Biología	2	¿Qué se puede hacer con las partículas de un virus muerto para prevenir la enfermedad causada por ese virus?	Fascinar	Bacteriano	Hongo	Vacuna
+180871	Biología	2	¿Cuál de los siguientes no es un factor de riesgo de hipertensión arterial?	Exceso de peso	Ingesta excesiva de sal	Consumo excesivo de alcohol	Deshidratación
+369065	Biología	2	¿A qué son alérgicas las personas que padecen la enfermedad celíaca?	Legumbres	Chocolate	Polen	Trigo
+369118	Biología	2	¿Qué es un ejemplo de carbohidratos?	Enzimas	Ceras	Proteinas	Azúcares
+351487	Biología	2	¿Cómo se llaman los diminutos sacos de aire en los pulmones?	Tráquea	Vejiga	Alvins	Alvéolos
+232724	Biología	2	¿Qué pájaro se extinguió cuando los colonos llegaron a la isla y soltaron ratas, que mataron a los pájaros?	Los raptores	El pájaro Kookoo	El Kookaburra	El pájaro Dodo
+371777	Biología	2	¿Cómo se llama el sonar natural que usan algunos animales?	Radar	Baliza de localización	Balizamiento	Ecolocalización
+368314	Biología	2	¿Qué parte de la planta lleva agua y nutrientes al resto de la planta?	Hojas	Flor	Cabeza	Vástago
+368310	Biología	2	¿Cómo se llaman los organismos que producen su propio alimento en una cadena alimentaria?	Compositores	Descomponedores	Depredadores	Productores
+369063	Biología	2	¿Qué vitamina necesita los rayos ultravioleta del sol para ser producida?	Vitamina A	Vitamina C	Vitamina K	Vitamina D
+368381	Biología	2	¿Cómo se llama el proceso de unir las células sexuales masculinas y femeninas de una planta?	Siembra	Bioluminiscencia	Vacunación	Polinización
+347838	Biología	2	¿Qué es un homínido?	Libro de texto griego	Parte del intestino	Arbusto floreciente	Un primate que camina erguido
+370024	Biología	2	¿Qué tipo de raíz tiene una zanahoria?	Almidón modificado	Raíz aérea	Rizoide	Raíz principal
+366487	Biología	2	¿Qué palabra significa huevo fertilizado?	Gimnosperma	Fenolénico	Gameto	Cigoto
+217631	Biología	2	¿Cuál de estas plantas es una conífera?	Rosa	Tulipán	Tomate	Pino
+366556	Biología	2	¿Qué sistema de defensa biológica natural protege al cuerpo de las enfermedades y combate los gérmenes?	Animosidad	Patología	Impropiedad	Inmunidad
+369252	Biología	2	¿A qué tipo de tejido afecta el adenovirus?	Tejido Adena Mounds	Añadiendo tejido de habilidad	Tejido Denning	Tejido de adenoides
+355094	Biología	2	¿Qué animal fue confundido con la fuente de la peste bubónica?	Oveja negra	Tarántula negra	Viuda negra	Rata negra
+368352	Biología	2	¿Qué proceso convierte los azúcares en energía e implica respirar oxígeno?	Transpiración	Fotosíntesis	Ciclo del carbono	Respiración
+48636	Biología	2	¿Cómo se llaman las partes del sistema de una criatura viviente?	Extremidades	Tejidos	Células	Órganos
+351590	Biología	2	¿Qué productos produce la fotosíntesis en las plantas?	Dióxido de carbono y oxígeno	Raíz y cerveza	Agua y azucar	Azúcar y oxígeno
+77561	Biología	2	¿Cuál de los siguientes es el grupo más grande directamente debajo de los reinos?	Clase	Especies	Género	Filo
+351552	Biología	2	¿Qué tipo de planta tiene un sistema interno de estructuras tubulares?	Planta Interna	Planta de vacuola	Espora	Planta vascular
+368295	Biología	2	¿Qué parte de la sangre ayuda a la coagulación?	Células blancas de la sangre	Plasma	Las células rojas de la sangre	Plaquetas
+370031	Biología	2	¿Cómo se llama la célula donde se reproduce un virus?	Célula hostil	Celda Hosta	Celda hogareña	Célula huésped
+347836	Biología	2	¿Cuál de estos sistemas corporales ayuda a su cuerpo a mantener su forma y le brinda protección?	Circulatorio	Inmune	Digestión	Esquelético
+368300	Biología	2	¿Qué usan las coníferas para contener semillas?	Frutas	Vegetales	Vainas	Piñas
+369985	Biología	2	¿De qué elemento se componen principalmente las bases del ADN?	Oro	Dirigir	Oxígeno	Nitrógeno
+366559	Biología	2	¿Qué etapa de la reproducción celular durante la mitosis ocurre en último lugar?	Profase	Anafase	Interfase	Telofase
+351568	Biología	2	¿Cuál de estos es parte de una planta de cebolla?	Corazón	Hígado	Estómago	Raíz
+370025	Biología	2	¿Cómo se llaman las estructuras que se encuentran en el citoplasma de las células eucariotas?	Organismos	Órganos	Hebras	Orgánulos
+351527	Biología	2	¿Cómo se llama la cubierta exterior de la raíz de una planta?	Piel de raíz	Diente de raíz	Hincha	Epidermis de la raíz
+357646	Biología	2	¿Qué parte de la flor rodea las partes internas de la flor?	Pedales	Estambre	Ovarios	Pétalos
+368391	Biología	2	¿Cuáles son los diminutos vasos sanguíneos que conectan arterias y venas?	Vinies	Arteriolas	Vacuolas	Capilares
+350661	Biología	2	¿Cómo se llama un área de almacenamiento grande en forma de saco?	Gameto	Cigoto	Katie	Vacuola
+74811	Biología	2	¿Cómo llamamos a las cosas que afectan directamente a todas las actividades de las células?	Efervescente	Aguante	Alvéolos	Estímulos
+369185	Biología	2	¿Cuál de estos animales está estrechamente relacionado con los tiburones?	Branquia azul	Trucha	Pulpo	Manta raya
+369968	Biología	2	¿Cómo se llaman los huesos pequeños que forman la columna vertebral?	Plaquetas	Células de sangre	Yunques	Vértebras
+390211	Biología	2	¿Qué les sucede a los vasos sanguíneos de su piel mientras hace ejercicio?	Ellos estrechan	Ellos no hacen nada	Ellos estallan	Se ensanchan
+351537	Biología	2	¿Cuántas cámaras componen el corazón humano?	1	2	3	4
+351574	Biología	2	¿Qué grupo de nutrientes se usa para ayudar a crecer y reparar las células?	Carbohidratos	Grasas	Melanina	Proteínas
+347900	Biología	2	¿Cuál de estos es parte de la sangre?	Vena	Glóbulos azules	Neuronas	Plaquetas
+390219	Biología	2	¿Qué es un pigmento anaranjado rojizo que se encuentra en frutas, verduras y otras plantas?	Colina	Niacina	Riboflavina	Betacaroteno
+225620	Biología	2	¿En qué parte del cuerpo se produce la sangre?	Músculos	Corazón	Livianos	Huesos
+369191	Biología	2	¿A qué familia pertenecen los delfines, las marsopas y las ballenas?	Primates	Caninos	Felinos	Cetáceos
+368324	Biología	2	¿Cuál es otro nombre para el sistema inmunológico?	Sistema digestivo	Sistema cojeando	Sistema de lapa	Sistema linfático
+351628	Biología	2	¿Cuál de los siguientes no es un orgánulo en una célula animal?	Ribosoma	Retículo endoplásmico	Vacuola	Cloroplasto
+355071	Biología	2	¿Cuál es el nombre científico del trabajo o función que desempeña un organismo en su hábitat?	Célula	Cosecha	Comunidad	Nicho
+76154	Biología	2	¿Qué tejido nervioso transmite señales de luz desde el cristalino del ojo al cerebro?	Óptico	Iris	Alumno	Retina
+357641	Biología	2	¿Qué saco lleno de líquido rodea al embrión humano?	Bolsa de globos	Orbe Sac	Bolsa de telaraña	Saco amniótico
+368367	Biología	2	¿Cómo se llama la capacidad de los seres vivos para producir luz?	Relámpago	Sorprendentes	Impactante	Bioluminiscencia
+370006	Biología	2	¿Cuál de estos es un reino en la clasificación de los seres vivos?	Viral	Eucariota	Mecánico	Hongos
+357656	Biología	2	¿Qué capa de la piel está justo debajo de la superficie?	Epidermis	Melanina	Raíz	Dermis
+368369	Biología	2	¿Cómo se llama cualquier cambio permanente en un gen?	Pedaleo	Mitigación	Litigio	Mutación
+368349	Biología	2	¿Qué dos etiquetas de clasificación se utilizan en el nombre científico de un organismo?	Reino, Phylum	Phylum, Clase	Orden, Especies	Género, especie
+368654	Biología	2	¿Qué proceso usa una estrella de mar para hacer crecer un nuevo organismo cuando se corta en pedazos?	Reiteración	Regular	Emminar	Regeneración
+98923	Biología	2	¿Qué es la endocrinología?	Estudio de lagartos	Estudio de teología	Estudio Bíblico	Estudio de varias glándulas
+357688	Biología	2	¿Cómo se llama la abertura de tu ojo?	Principal	Iris	Pistilo	Pupila
+370023	Biología	2	¿Cómo se llaman las largas hebras de material genético en el núcleo?	Membrana	Mate Nucleico	Encallamiento genético masivo	Cromatina
+347772	Biología	2	¿Cómo llamamos a los dientes con los que trituramos nuestra comida?	Bruto	Órbita elíptica	Pabellón	Dientes planos
+368336	Biología	2	¿Qué acción utiliza un animal para influir o informar a otro animal?	Miedo	Validación	Comunalismo	Comunicación
+347769	Biología	2	¿Cuál es otro nombre para la caja de voz?	Glándulas salivales	Esófago	Ganglios linfáticos	Laringe
+182973	Biología	2	¿Qué vitamina mejora la absorción de calcio de los alimentos?	Vitamina B12	Vitamina A	Vitamina K	Vitamina D
+50395	Biología	2	¿Qué ballena del mar ártico tiene un cuerno largo en la cabeza?	Orca	Jorobado	Beluga	Narval
+369076	Biología	2	¿De qué color es la piel de un oso polar?	Blanco	marrón	Verde	Negro
+357081	Biología	2	¿Qué científicos estudian los insectos?	Ornitólogos	Oceanógrafos	Meteorologos	Entomólogos
+351620	Biología	2	¿En qué grupo de nutrientes está el azúcar?	Cafeína	Grasas	Proteinas	Carbohidratos
+350017	Biología	2	¿Qué tipo de comportamiento se transmite de generación en generación?	Comportamiento normal	Comportamiento maravilloso	Comportamiento pasado	Comportamiento innato
+48362	Biología	2	¿Cuál es la materia que se llama o alguna vez se llamó vida?	Extinto	Extirpado	Biología	Biomasa
+366555	Biología	2	¿Qué sistema ayuda a los animales a intercambiar dióxido de carbono y oxígeno?	Sistema digestivo	Sistema urinario	Sistema linfático	Sistema respiratorio
+85164	Biología	2	¿Cuántos pares de costillas hay en un cuerpo humano típico?	6	8	15	12
+369078	Biología	2	¿Cuál es el período de gestación del elefante africano?	9 meses	3 meses	112 meses	22 meses
+351566	Biología	2	¿Cuáles son los primeros organismos que regresan a un área devastada por un desastre mayor?	Robles	Pinos	Osos	Hierbas y arbustos
+72952	Biología	2	¿Dónde se encuentran las células sexuales femeninas de una flor?	Pétalo	Sépalos	Estambre	Ovario
+355070	Biología	2	¿Qué pasará si pones un tallo de apio en agua de color azul de colorante para alimentos?	Nada	El tallo flotará	El tallo se marchitará	Las venas se volverán azules
+226069	Biología	2	¿Qué órgano filtra la sangre y ayuda a regular los niveles de sal y agua?	Hígado	Vejiga	Estómago	Riñones
+369248	Biología	2	¿Cómo se llama el tiburón más grande?	Gran tiburón blanco	Marrajo	Tiburón de arrecife	Tiburón ballena
+369992	Biología	2	¿Qué término se refiere a la presencia o necesidad de oxígeno?	Microfágico	Anafiláctico	Hermético	Aerobio
+351599	Biología	2	¿Con qué cuentas un árbol para saber cuántos años tiene?	Ramas	Raíz del cabello	Hojas	Anillos
+357078	Biología	2	¿En qué parte del hueso se produce la sangre?	Fisuras	Venas	Arterias	Médula ósea
+369980	Biología	2	¿Cuál de estas estructuras permite que las plantas crezcan incluso en áreas más frías?	Granero	Silo	Acuario	Invernadero
+351563	Biología	2	¿Qué sucede para producir semillas de plantas?	Vacunación	Exterminio	Examen	Fertilización
+355081	Biología	2	¿Qué lleva el código para producir proteínas desde el núcleo hasta el citoplasma?	Ácido desoxirribonucleico	Burbujas de nitrógeno	Óxido de hierro	Ácido ribonucleico
+347770	Biología	2	¿A qué grupo de animales pertenecen los caracoles, babosas y pulpos?	Primates	Arácnidos	Crustáceos	Moluscos
+189490	Biología	2	¿Qué teoría establece que los seres vivos provienen solo de otros seres vivos?	Generación espontánea	Combustión espontánea	Bioquímico	Biogénesis
+13122	Biología	2	¿Qué órgano con forma de caracol en el oído canaliza el sonido hacia el nervio auditivo?	Martillo	Yunque	Concha	Cóclea
+369067	Biología	2	¿Qué palabra significa "lagarto terrible"?	Caimán	De cocodrilo	Saurapod	Dinosaurio
+368288	Biología	2	¿Cuál de estas criaturas vivientes no pertenece al mismo grupo?	Abeja	Mantis religiosa	Mosca doméstica	Escorpión
+355089	Biología	2	¿Qué estudia un micólogo?	Aves	Oceano	Botellas	Hongo
+369087	Biología	2	¿Cuál de estos animales no suele hibernar?	Murciélago	Oso negro	Zorrillo	Venado de cola blanca
+368347	Biología	2	¿De qué está hecho el esqueleto de un tiburón?	Hueso	Médula	Venas	Cartílago
+369982	Biología	2	¿Qué tipo de plantas tiene células tubulares que ayudan a mover el agua a través de la planta?	Plantas variadas	Plantas no vasculares	Plantas carnívoras	Plantas vasculares
+350674	Biología	2	¿Cuál de estas semillas probablemente se llevaría en la piel de un animal?	Semilla de conífera	Semilla de tomate	Semilla de diente de león	Rebaba
+13121	Biología	2	¿Cómo se llama la aleta en el lomo de los peces, algunas ballenas y delfines?	Aleta	Aleta espinal	Aleta pectoral	Aleta dorsal
+180872	Biología	2	¿Cuál es el hueso más largo del cuerpo humano?	Tibia	Cubito	Costilla	Fémur
+347835	Biología	2	¿Qué ocupa el 50-70 por ciento del peso de una ballena?	Cerebro	Aletas	Cola	Grasa de ballena
+351607	Biología	2	¿Qué producen los glóbulos blancos para ayudar a combatir las infecciones?	Antimateria	Pus	Infección	Anticuerpo
+368321	Biología	2	¿Cómo se llama un grupo de células que trabajan juntas y forman un órgano?	Cuestiones	Fisuras	Servilletas	Tejidos
+74643	Biología	3	Aproximadamente, ¿cuánto mide el intestino delgado humano?	2 pies	3 pies	6 pies	18 pies
+74013	Biología	3	¿En qué zona climática se cultiva mejor el café y la mandioca?	Tierra Caliente	Tierra Helada	Tierra Fria	Tierra Templada
+228559	Biología	3	¿Cuántas articulaciones tiene una hormiga en cada pata?	19	Dos	12	Tres
+368382	Biología	3	¿En qué cavidad llena de líquido se desarrollan los órganos en organismos como las lombrices de tierra?	Columna	anillo	Canino	Celom
+225622	Biología	3	¿Qué tipo de planta es una zanahoria?	Perenne	Anual	Annal	Bienal
+351499	Biología	3	¿Cómo se llaman las hojas tiernas de un embrión vegetal?	Hojas bebé	Abrigos de dirección	Fetos	Cotiledones
+350543	Biología	3	¿Qué aberturas en una hoja permiten el intercambio de gases?	Estambres	Polinizadores	Pistilos	Estomas
+369072	Biología	3	¿Cuál de estos no es uno de los cuatro lóbulos de los hemisferios del cerebro?	Temporal	Occipital	Parietal	Lateral
+347857	Biología	3	¿Cuál de estos científicos junto con James Watson ayudó a descubrir la molécula de ADN?	Frane Crock	Dr. Einstein	Frank Johnson	Francis Crick
+226086	Biología	3	Aproximadamente, ¿hasta dónde se puede escuchar el rugido de un león?	50 millas	5 pies	15 millas	5 millas
+60204	Biología	3	¿Durante cuál de las siguientes fases biológicas tiene lugar el "cruce"?	Anafase de la mitosis	Prometafase	Telofase I de la meiosis	Metafase I de la meiosis
+368341	Biología	3	¿Qué parte de un musgo absorbe agua y nutrientes del suelo?	Tallo	Cápsula	David	Rizoide
+70586	Biología	3	¿Qué tan rápido puede ir el halcón peregrino en una inmersión?	15 millas por hora	17,9 millas por hora	100 millas por hora	200 millas por hora
+368317	Biología	3	¿Cuál es la flor única que florece más grande del mundo?	Tulipán	Primavera	Belladona	Rafflesia
+87214	Biología	3	¿Cuál es la dieta principal de los cachalotes?	Otras ballenas	Plancton	Delfines	Calamar
+368285	Biología	3	¿Cuál es la esperanza de vida natural media de un elefante africano?	75 años	10 años	15 años	55 años
+368351	Biología	3	¿Qué plantas con flores producen semillas dentro de las frutas que se forman a partir de las flores?	Flores de Angela	Angina de pecho	Monospermas	Angiospermas
+368303	Biología	3	¿Cuál es el nombre del ácido que se forma cuando la hemoglobina se une a los iones de hidrógeno?	Ácido de hemoglobina	Hidrato de hemoglobina	Ácido de sangre	Ácido hemoglobínico
+44924	Biología	3	¿Qué órgano digestivo envía los nutrientes descompuestos al cuerpo?	Intestino grueso	Hígado	Estómago	Intestino delgado
+357686	Biología	3	¿Cuál de estos es un ejemplo de pez sin mandíbula?	Tiburón	Piraña	Branquia azul	Lamprea
+76862	Biología	3	¿Cómo se llaman los pulmones con los que respiran las tarántulas?	Pulmones pegajosos	Pulmones peludos	Webby Lungs	Pulmones del libro
+357077	Biología	3	¿Cuál es el término para la dependencia de una planta de la duración adecuada del día para florecer?	Neutral	Aceleración	Alargamiento	Fotoperiodismo
+366314	Biología	3	¿Qué enfermedad puede ser sospechosa del hombre del caucho de la India en el carnaval?	Síndrome de fatiga crónica	Sobrecarga de ácido acético	Síndrome de Gerstmann-Streusler	Síndrome de Ehlers-Danlos
+369066	Biología	3	¿Cuál de los aminoácidos es realmente un iminoácido?	Isoleucina	Leucina	Glicina	Prolina
+57189	Biología	3	¿Cuál de estos animales sufre una metamorfosis incompleta?	Mariposa	Escarabajo oscuro	Luciérnaga	Saltamontes
+368320	Biología	3	¿A qué se refiere MHC como en la proteína MHC?	Complejo principal de histamina	Corroborativo de hidrocortisol magnético	Complejo principal bloqueador de histamina	Compatibilidad con histo mayor
+350545	Biología	3	¿Qué tipo de plantas contienen siempre xilema y floema?	Plantas no vasculares	Plantas verdes	Plantas de llenado	Plantas vasculares
+351545	Biología	3	¿Qué son los chitterlings?	El cerebro de una vaca	Los intestinos de una vaca	El cerebro de un cerdo	Los intestinos de un cerdo
+368389	Biología	3	¿Qué causó la hambruna irlandesa de patatas en la década de 1840?	Bombardeo	Insectos	Osos comiendo patatas	Plaga
+232752	Biología	3	Aproximadamente, ¿cuánto pesa la cabeza grande de un elefante marino?	2 libras	11 libras	8 onzas	93 libras
+369254	Biología	3	¿Cuál de los siguientes es el más pequeño?	Glóbulo rojo	Bacteria	Núcleo de un glóbulo rojo	Virus
+368298	Biología	3	¿Dónde se desarrolla el cigoto de una gimnosperma?	En polen	En suelo	Todas estas opciones	En el óvulo
+355090	Biología	3	¿Por qué los helechos deben vivir en ambientes húmedos?	Comer	Para transportar agua a todas las células	Para que los óvulos y los espermatozoides puedan unirse	Para transportar esporas a una nueva ubicación
+368345	Biología	3	¿Cómo se llama la segunda etapa de la metamorfosis incompleta?	Huevo	Crisálida	Adulto	Ninfa
+351575	Biología	3	¿Qué grupo de animales tiene cuerpos huecos y células urticantes?	Sinarianos	Cenas	Ballenas	Cnidarios
+355078	Biología	3	¿La presencia de células clave probablemente sea de qué?	Treponema pallidum	Trichomonas	Candida	Vaginosis bacteriana
+73283	Biología	3	¿Quién es el padre del sistema moderno para nombrar organismos que usa un género y un nombre de especie?	Aristóteles	Sócrates	Isaac Newton	Carolus Linnaeus
+357685	Biología	3	¿Cuál de estas serpientes es una víbora?	Pitón	Boa constrictor	Serpiente de liga	Serpiente de cascabel de madera
+357684	Biología	3	¿Cuál de los siguientes no es uno de los pinos amarillos del sur?	Pino Loblolly	Pino Slash	Pino de hoja larga	Pino abeto
+351576	Biología	3	Aproximadamente, ¿cuántas células tiene un cuerpo humano adulto?	100 millones	100 mil millones	100.000	100 billones
+13119	Biología	3	¿Cuáles son las primeras cuatro fases de la división celular?	Crecer, construir, dividir y compartir	Difusión, transporte activo, ósmosis y mitosis	Ósmosis, meiosis, mitosis y separación	Crecimiento 1, síntesis, crecimiento 2 y mitosis
+352225	Biología	3	¿Qué condición se encuentra específicamente solo en hombres?	Daltonismo	Hipertestosteronismo	Estenosis ureteral	Ginecomastia
+225623	Biología	3	¿Cuál es la función del retículo endoplásmico en una célula?	Paquetes de Proteínas	Descompone las proteínas	Produce Proteínas	Transporta Proteínas
+225618	Biología	3	¿Cuál es la araña conocida más grande del mundo?	Araña cangrejo	Tejedora de orbes	Tarántula	Araña devoradora de pájaros goliat
+351547	Biología	3	¿Dónde ocurre el ciclo de Krebs en humanos?	Citoplasma	Cuerpos de Golgi	Lisosoma	Matriz mitocondrial
+369117	Biología	3	¿En cuál de estos es más probable que se encuentre el botulismo?	Alcohol	Repelente de insectos	Alimentos de origen vegetal	Comida
+82699	Biología	3	¿Qué insecto transmite la enfermedad del sueño?	Mosca de la fruta	Pulga de gato	Mosquito	Mosca tsetse
+368340	Biología	3	¿Qué vitamina se refiere a una familia de compuestos relacionados llamados tocoferoles?	Vitamina K	Vitamina D	Vitamina A	Vitamina e
+232725	Biología	3	¿Cuál es el miembro más grande de la familia de las comadrejas en los Estados Unidos?	Comadreja	Nutria	Castor	Glotón
+351579	Biología	3	¿Cómo se llama la parte pegajosa del pistilo?	Stickma	Dogma	Gaitero	Estigma
+55889	Biología	3	¿Cuál de estos es un ejemplo de angiosperma?	Helecho	Liquen	Pino	Árbol de frutas
+189469	Biología	3	¿Cómo se llama una floración de algas que se produce en agua salada?	Pigmento	Cicloplasma	Toxina	Marea roja
+357643	Biología	3	¿Cuál es otro nombre para una vaca hormiga?	Termita	Mariquita	Mantis religiosa	Áfido
+368380	Biología	3	¿Qué tipo de animal es casi completamente ciego al nacer?	Canguro	Caballo	Conejo	Coala
+225617	Biología	3	¿Qué filo de animales incluye la estrella de mar y el dólar de arena?	Moluscos	Arácnidos	Crustáceos	Equinodermos
+226055	Biología	3	¿Qué opción de respuesta no es una de las condiciones bajo las cuales se producirá un equilibrio de Hardy-Weinberg?	Ningún movimiento neto de individuos	Todos los genes se expresan	La población es grande	Mutaciones causadas por translocación recíproca
+51600	Biología	3	¿Cuáles de los siguientes rasgos humanos se pueden usar, como huellas dactilares, para identificación?	Estilo de pelo	Color de los ojos	Largo del brazo	Vasos sanguíneos oculares
+85165	Biología	3	Los peces toman oxígeno a través de sus branquias; ¿A través de qué absorben oxígeno los insectos?	Fericales	Acial	Oráculos	Espiráculos
+351503	Biología	3	¿Qué parte del cerebro controla el hambre?	Hipocampo	Tronco encefálico	Lobulo parietal	Hipotálamo
+368372	Biología	3	¿Qué conecta los botones florales con el tallo?	Hojas	Raíces	Pelos	Sépalos
+366537	Biología	3	¿Cuántos reinos principales hay en el mundo viviente?	Siete	10	Desconocido	Cinco
+40189	Biología	3	¿Cuántos huesos hay en cada dedo, excepto el pulgar, de una mano humana?	Siete	Cinco	Uno	Tres
+366501	Biología	3	¿Cuál fue el invertebrado dominante de los mares mesozoicos?	Graptolitos	Trilobites	Crinoideos	Amonitas
+351601	Biología	3	¿Cuáles son las células del páncreas que secretan insulina?	Islas nupciales	Islotes de Longhorns	Burbujas pancreáticas	Islotes de Langerhans
+368318	Biología	3	¿Qué glucoproteína es la principal responsable de los brotes recurrentes de influenza?	Gpab30	Gp120	Neuraminidasa	Hemaglutinina
+80897	Biología	3	¿Cuál de estas estructuras cerebrales forma parte del sistema límbico?	Médula	Cuerpo mamilar	Cuerpo calloso	Hipocampo
+351553	Biología	3	¿Cuál de estos animales es cnidario?	Ballena	langosta	Libélula	Medusa
+369081	Biología	3	¿Cuál es el grupo más diverso de gimnospermas?	Moomoolalas	Ginkgoes	Cícadas	Coníferas
+351592	Biología	3	¿Dónde encontrarías las Líneas de Nazca?	Alrededor del Polo Norte	Alrededor del ecuador	En Brasil	Perú
+347649	Biología	3	¿Cómo se llama la superficie superior de la hoja de la planta?	Thermis épico	Termostato	Cambium frondoso	Epidermis superior
+66866	Biología	3	¿Quién estableció el nematodo C. Elegans como organismo experimental?	Joel Rothman, PhD	Mike Levine	Thomas Hunt Morgan	Sydney Brenner
+350675	Biología	3	¿Qué tan lejos puede alcanzar la lengua de un oso hormiguero?	2 pulgadas	6 pulgadas	1 pie	2 pies
+357642	Biología	3	¿En qué zona climática se cultivan plátanos, cacao y arroz?	Tierra Helada	Tierra Templada	Tierra Fria	Tierra Caliente
+351612	Biología	3	¿Qué grupo de alimentos es el más grande?	Carne	Lechería	Dulces	Granos
+357650	Biología	3	¿Cuál de los siguientes usa litio para tratarse?	Sífilis latente	Esquizofrenia paranoide	Tenia	Trastorno maníaco-depresivo
+352242	Biología	3	¿Quién ideó una prueba sencilla para determinar la salud de los recién nacidos?	Marie Curie	María Goeppert Mayer	Jonas Salk	Virginia Apgar
+351050	Biología	3	¿Con qué están conectadas algunas hojas de plantas al tallo?	Cutículas	Xilemas	Raíz del cabello	Pecíolos
+48635	Biología	3	¿Cuál ha sido el aumento de la temperatura del mar tropical durante los últimos 100 años?	.72 de un grado Celsius	0 grados Celsius	1,5 grados Celsius	1 grado Celsius
+355083	Biología	3	¿Cuál de los siguientes es un ejemplo de una planta no vascular?	Cono de pino	Tulipán	Rosa	Musgo
+366554	Biología	3	¿Qué factor de protección solar más bajp debería tener el protector solar que usas?	20	5	10	15
+369085	Biología	3	¿Cuál es el cocodrilo más grande del mundo?	Cocodrilo americano	Caimán	Cocodrilo del Nilo	Cocodrilo de agua salada
+42330	Biología	3	¿Cuántas pulgadas de largo tiene el esófago humano típico?	25	36	5	10
+351624	Biología	3	¿De qué árbol derivó originalmente la aspirina?	Roble	Madera del perro	Ceniza	Sauce
+368322	Biología	3	¿En qué continente se encuentra la tortuga Matamata?	Groenlandia	Norteamérica	Australia	Sudamérica
+368315	Biología	3	¿Qué tipo de lombriz es una lombriz de tierra?	Gusano plano	Gusano redondo	Gusano largo	Gusano segmentado
+368316	Biología	3	¿Cuál de las siguientes era una categoría de plantas organizadoras según Aristóteles?	Flores	Pines	Alto	Arbustos
+357649	Biología	3	¿Qué tipo de reproducción utilizan las células de levadura?	Halitosis	Sprint	Saltar	En ciernes
+351543	Biología	3	¿Cuál de estas plantas captura insectos para obtener los nutrientes necesarios?	Pino blanco del este	Roble	Tulipán	Rocío de sol
+370000	Biología	3	¿Cómo se llaman las plantas que crecen, se reproducen y mueren en una temporada?	Bienales	Perennes	Ennials	Anuales
+351598	Biología	3	La trisomía 21 se conoce popularmente como ¿qué?	Sindrome de Tourette	Síndrome de Margan	Síndrome de Turner	Síndrome de Down
+368304	Biología	3	¿Qué químico producen algunos insectos en el norte para servir como anticongelante natural en el invierno?	Creolita	Etilenglicol	Propanol	Glicerol
+67921	Biología	3	¿Cuántos huesos tiene el cuello de una jirafa?	12	36	82	7
+368319	Biología	3	¿Qué experimento embriológico realizó Hilde Proescholdt?	Experimento Einsteck	La rotación de Schlitz	Clonación de Dolly The Sheep	El injerto organizador de Spemann y Mangold
+189427	Biología	3	¿Cuál de estas definiciones se relaciona con "conchífero"?	Estar hecho de hormigón	Parcialmente compuesto de hierro	Tener cualidades de gasa	Tener o formar una concha
+357083	Biología	3	¿La renina proviene de qué órgano del cuerpo?	Hígado	Vesícula biliar	Páncreas	Riñón
+76023	Biología	3	¿Qué alimento común es en realidad una raíz modificada?	Apio	Tomate	Pimienta	Zanahorias
+44752	Biología	3	¿Cuántas etapas del sueño hay?	12	3	10	5
+368307	Biología	3	¿Cuál es el hueso del antebrazo que corre junto al pulgar?	Hamate	Húmero	Cubito	Radio
+368342	Biología	3	¿Qué grupo tiene la mayor cantidad de organismos en peligro de extinción?	Reptiles	Mamíferos	Aves	Insectos
+357082	Biología	3	¿Cuál de los siguientes imita a una mariposa monarca?	Cola de golondrina de tigre	Polilla gitana	Saltamontes	Virrey
+51624	Biología	3	¿Cuál de los siguientes está hecho de tejido nervioso?	Hígado	Corazón	Estómago	Médula espinal

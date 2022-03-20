@@ -1,0 +1,484 @@
+0DIFETM138	Foreign Films	0	Which of these films does not qualify as a foreign film?	House of Flying Daggers	Run Lola Run	Oldboy	Frozen
+0DIFETM122	Foreign Films	0	From the US perspective, a foreign film is traditionally not made in which of these languages?	German	Japanese	French	English
+0DIFETM132	Foreign Films	0	The foreign film 'Battle Royale' takes place in the fictional future of which of these countries?	Cuba	United States	Canada	Japan
+0DIFETM133	Foreign Films	0	In the German film 'Run Lola Run' main character Lola has 20 minutes to find 100,000 of which of these currencies?	Yen	Pesos	Rupees	Deutschmarks
+0DIFETM125	Foreign Films	0	Which of these is an example of a foreign film?	Toy Story	Star Wars	The Matrix	Seven Samurai
+0DIFETM128	Foreign Films	0	Oscar winner 'Crouching Tiger, Hidden Dragon' is a foreign film from which of these countries?	Germany	Norway	Ireland	Taiwan
+0DIFETM130	Foreign Films	0	In the foreign film 'Oldboy', directed by Park Chan-wook, the primary language spoken is which of these?	German	Norwegian	Spanish	Korean
+0DIFETM124	Foreign Films	0	Which of these directors primarily directs foreign films?	George Lucas	Quentin Tarantino	Steven Spielberg	Bong Joon-ho
+0DIFETM134	Foreign Films	0	In the French film 'Amélie', what city does the main character live in?	Chicago	Berlin	Tokyo	Paris
+0DIFETM126	Foreign Films	0	Which of these films is a foreign film directed by Guillermo del Toro?	Lady and the Tramp	Mean Girls	10 Things I Hate About You	Pan's Labyrinth
+0DIFETM123	Foreign Films	0	Which of these is not a foreign film?	Amélie	Seven Samurai	Yojimbo	Airbud
+0DIFETM139	Foreign Films	0	Which one of these directors comes from South Korea?	Alfred Hitchcock	Tim Burton	Clint Eastwood	Park Chan-wook
+20VE2037	Foreign Films	0	Which of these is a film by the film maker Federico Fellini?	Seven Samurai	Tokyo Story	Parasite	La Dolce Vita
+20VE1987	Foreign Films	0	Which of these films are about war?	Jiro Dreams of Sushi	Force Majeure	Loveless	Battle for Sevastopol
+20VE2061	Foreign Films	0	Amores Perros is a Mexican film originally made in what language?	Norwegian	French	Latin	Spanish
+20VE1997	Foreign Films	0	What documentary film focuses on two vigilante groups who form on the US-Mexican border?	Chariots of the Gods	Battle of Berlin	Fire at Sea	Cartel Land
+20VE1985	Foreign Films	0	Who is the famous actor that is in the 2019 film "Pain and Glory"?	Adam Sandler	Mel Brooks	Ed Ansner	Antonio Banderas
+20VE2009	Foreign Films	0	Complete the title of this Spanish film, "Tie Me Up! Tie Me ___"	Nightly	All Around	Tight!	Down!
+20VE2003	Foreign Films	0	Which film includes sword fighting scenes?	The Motorcycle Diaries	The Lives of Others	Volver	Crouching Tiger, Hidden Dragon
+20VE2035	Foreign Films	0	In what language is the original release of the war film directed by Clint Eastwood, "Letters from Iwo Jima"?	Mandarin	Arabic	Spanish	Japanese
+20VE2059	Foreign Films	0	What genre of film is the Sergio Leone film, "Once Upon a Time in the West"?	Documentary	Comedy	War	Spaghetti Western
+20VE1991	Foreign Films	0	What is the film "Honeyland" about?	Computer Hacking	Bank Robbers	Baking	Bee Keeping
+20VE1983	Foreign Films	0	Which is a 2012 French-language romantic tragedy film?	The Salesman	Rashomon	Persona	Amour
+20VE2031	Foreign Films	0	Aamir Khan is a movie star from what country?	Spain	Columbia	Thailand	India
+20VE2047	Foreign Films	0	Wellywood refers to the film industry based in Wellington of what country?	Spain	Brazil	Canada	New Zealand
+20VE2049	Foreign Films	0	What does the German film 'Nirgendwo in Afrika" translate to in English?	The Lion Sleeps Tonight	Live Long	Nowhere Man	Nowhere in Africa
+20VE2007	Foreign Films	0	Which of these films are about war?	The Birth of Sake	Eat, Drink, Men, Women	A Fantastic Woman	Days of Glory
+20VE2045	Foreign Films	0	The French film title "Ma vie de Courgette" translates in English to what?	Is Paris Burning?	When Marnie Was There	A Cat in Paris	My Life as a Zucchini (Courgette)
+20VE2039	Foreign Films	0	Which of these is a classic 1955 French thriller film?	The Last Metro	Solaris	PK	Les Diaboliques
+20VE2063	Foreign Films	0	Which of these films are about war?	Parasite	Haute Cuisine	Chocolat	Stalingrad
+20VE2033	Foreign Films	0	What country is film maker Federico Fellini from?	Spain	Germany	Russia	Italy
+459843	Foreign Films	1	Which actor played Raimunda, the daughter of Irene, in the 2006 film "Volver"?	Carmen Maura	Salma Hayek	Catherine Zeta-Jones	Penelope Cruz
+459922	Foreign Films	1	What is the name of the main character in the 1959 French film "The 400 Blows"?	Julien	Jean-Pierre	Albert	Antoine
+20VE2069	Foreign Films	1	What film is about a Parisian aristocrat, quadriplegic that hires a young man to be his live-in caretaker?	Coco Before Chanel	Crouching Tiger, Hidden Dragon	Talk to Her	The Intouchables
+20VE2067	Foreign Films	1	What is the title of the 2007 drama film about forged Bank of England pound notes?	Mongol	Beaufort	12	The Counterfeiters
+20VE2017	Foreign Films	1	Who is the Wonder Woman actress that partnerrd with the Israeli Keshet International on a film adaptation of "Borderlife"?	Susan Eisenberg	Lynda Carter	Jane Webb	Gal Gadot
+460010	Foreign Films	1	What does Guido tell Giosue the prize is if he wins the game in the 1997 film "Life is Beautiful"?	A Bicycle	A Puppy	A Trip	A Tank
+20VE1977	Foreign Films	1	What decade was the award winning film "Roma" released?	1960s	1950s	2000s	2010s
+460004	Foreign Films	1	In what country is the 2006 film "Pan's Labyrinth" set?	Italy	England	France	Spain
+20VE1999	Foreign Films	1	What genre of film is the 1991 film "Delicatessen"?	Horror	Western	Documentary	Comedy
+389826	Foreign Films	1	Which 2005 French film with Gerard Depardieu is a remake of Jean Renoir's 1932 classic?	Jade Warrior	Taxidermia	Counter Investigation	Boudu
+460060	Foreign Films	1	Which actor won a Golden Globe for his performance in the 2008 British film "In Bruges"?	Brendan Gleeson	Ralph Fiennes	Mark Donovan	Colin Farrell
+460065	Foreign Films	1	What is special about Oskar's friend Eli in the 2008 film "Let the Right One In"?	She is a Ghost	She is Rich	She is a Genius	She is a Vampire
+460050	Foreign Films	1	What is the main character's name in the 1957 film "Wild Strawberries"?	Dr. Evald Borg	Henrik Akerman	Sten Alman	Dr. Isak Borg
+2T60077	Foreign Films	1	The song "Falling Slowly" by Glen Hansard and Marketa Irglova is from what film?	Begin Again	Sinbg Street	The Swell Season	Once
+459947	Foreign Films	1	In what location was the 1989 film "The Cook, The Thief, His Wife & Her Lover" set?	Paris	New York	Munich	London
+459950	Foreign Films	1	Who is The Cook in the 1989 film "The Cook, The Thief, His Wife & Her Lover"?	Albert	Michael	Mitchel	Richard
+459897	Foreign Films	1	What event ruined the world seen in the 1984 Anime film "Nausicaa Of The Valley Of The Wind"?	Global Warming	An Asteroid Strike	Pollution	Nuclear War
+389855	Foreign Films	1	What world sporting event is the setting for the 2006 Iranian film "Offside"?	Summer Olympics	Boston Marathon	Australian Open	World Cup Qualifying Match
+459854	Foreign Films	1	In which historical period does the 1980 film "The Last Metro" take place?	World War I	Vietnam	The Korean War	World War Ii
+460074	Foreign Films	1	The disappearance of what object is the focus of the 2000 film "Crouching Tiger, Hidden Dragon"?	A Golden Dragon	A Jade Tiger	A Magic Cymbal	A Jade Sword
+460006	Foreign Films	1	Who directed the 1997 film "Life is Beautiful"?	Werner Herzog	Roberto Rossellini	Francois Ozon	Roberto Benigni
+20VE1975	Foreign Films	1	In what decade was Federico Fellini's "8 1/2" first released?	2000s	1990s	1920s	1960s
+460030	Foreign Films	1	What is Oh Dae-su's profession when he is arrested at the beginning of the 2003 film "Oldboy"	Thief	Chef	Priest	Businessman
+459986	Foreign Films	1	Who directed the 1968 film "Once Upon a Time in the West"?	John Ford	Clint Eastwood	Luchino Visconti	Sergio Leone
+0DIFETM135	Foreign Films	1	The foreign film 'House of Flying Daggers' was initially released in which country?	Antarctica	Greenland	France	China
+0DIFETM137	Foreign Films	1	Which one of these directors does not primarily film foreign films?	Park Chan-wook	Kinji Fukasaku	Ingmar Bergman	Michael Bay
+0DIFETM131	Foreign Films	1	The foreign film 'City of God' is set in Rio de Janeiro, and hails from which of these countries?	South Africa	Taiwan	Scotland	Brazil
+0DIFETM127	Foreign Films	1	Which of these films is a foreign film directed by Bong Joon-ho?	Office Space	Sonic the Hedgehog	Jumanji	Okja
+0DIFETM121	Foreign Films	1	The film Parasite was the first movie in a non-english language to win a 'Best Picture' from which of these awards?	Gotham	Tony	Gold Star	Oscar
+0DIFETM129	Foreign Films	1	The film 'Y Tu Mamá También' is a foreign film from which of these countries?	Russia	Japan	Egypt	Mexico
+0DIFETM140	Foreign Films	1	Hindi or Bombay cinema has been given which of these nicknames?	India Film Place	Indafilm	Cineindiaville	Bollywood
+0DIFETM136	Foreign Films	1	In the foreign film 'The Protector', the main character is sent to rescue which one of these unlikely pets?	Cat	Dog	Bird	Elephant
+20VE2023	Foreign Films	1	Who of these began his acting career in United Kingdom based films?	Nicolas Cage	Johnny Depp	Al Pacino	Henry Cavill
+460073	Foreign Films	1	Which actor played Yu Shu Lien in the 2000 film "Crouching Tiger, Hidden Dragon"?	Lucy Liu	Chiaki Kuriyama	Zhang Ziyi	Michelle Yeoh
+460081	Foreign Films	1	In the 2008 film "Departures", what is Daigo Kobayashi's new profession?	Cellist	Travel Agent	Actor	Undertaker
+459836	Foreign Films	1	In what country was the 1987 film "The Last Emperor" set?	France	Turkey	India	China
+459834	Foreign Films	1	What is the name of the Muslim nurse in the 2004 film "Life is a Miracle"?	Jadranka	Nada	Vanesa	Sabaha
+20VE2057	Foreign Films	1	Who is the New Zealand born actor stars in the 2014 film "The Water Diviner"?	Taika Waititi	Lee Tamahori	Mel Gibson	Russell Crowe
+2T60113	Foreign Films	1	Which film is about a dog groomer who sells cocaine on the side?	The Cakemaker	Never Look Away	Girl	Dogman
+459899	Foreign Films	1	What is the name of the Valley's attackers in the 1984 Anime film "Nausicaa Of The Valley Of The Wind"?	Fushigi	Nausicaans	Mehve	Tolmekian
+460069	Foreign Films	1	Which one of Francois Truffaut's films appears in the 2007 film "The Diving Bell and the Butterfly"?	Day for Night	The Last Metro	Love on the Run	The 400 Blows
+460080	Foreign Films	1	In the 2008 film "Departures", what is Daigo Kobayashi's former profession?	Travel Agent	Undertaker	Actor	Cellist
+459801	Foreign Films	1	Who is the legendary director of the 1957 film "Nights of Cabiria"?	Jean-Paul Gautier	Jean-Luc Godard	Ingmar Bergman	Federico Fellini
+459811	Foreign Films	1	Who directed the 1965 French film "Pierrot Le Fou"?	Jean Renoir	Jean-Pierre Cassel	Jean-Claude Batiste	Jean-Luc Godard
+459846	Foreign Films	1	The 2008 film "Ashes of Time (Redux)" takes place in which country?	South Africa	India	Italy	China
+459850	Foreign Films	1	In the 1980 film "The Last Metro", which actor played the theater owner, Bernard Granger?	Jean Poiret	Christian Baltauss	Francois Truffaut	Gerard Depardieu
+20VE2025	Foreign Films	1	Which film is a martial arts epic set in ancient China?	Life is Beautiful	PK	Amelie	Hero
+459898	Foreign Films	1	What is the name of the land's ruler in the 1984 Anime film "Nausicaa Of The Valley Of The Wind"?	Princess Nausicaa	Queen Momoke	Goru	King Jil
+460008	Foreign Films	1	In what country is the 1997 film "Life is Beautiful" set?	Germany	France	Poland	Italy
+460078	Foreign Films	1	What beings appear both in the 1988 film "My Neighbor Totoro" and 2001's "Spirited Away"?	Trolls	Elves	Witches	Soot Sprites
+20VE2073	Foreign Films	1	What is the Indian Bengali language film industry based in the Tollygunge region of India called?	I -Films	Filmlandia	Nollywood	Tollywood
+459998	Foreign Films	1	In what European country is the 2006 film "The Lives of Others" set?	Poland	France	Italy	East Germany
+459928	Foreign Films	1	What profession does Amelie have in the 2001 French film "Amelie"?	Secretary	Singer	Nun	Waitress
+460064	Foreign Films	1	In what country does the 2008 film "Let the Right One In" take place?	England	France	Germany	Sweden
+459832	Foreign Films	1	Who directed the 2004 film "Life is a Miracle"?	Slavko Stimac	Ranko Bozic	Natasa Solak	Emir Kusturica
+460051	Foreign Films	1	Who directed the 1963 film "8 1/2"?	Akira Kurosawa	Jean-Luc Godard	Ingmar Bergman	Federico Fellini
+459833	Foreign Films	1	What is the name of Luka Djuric's son in the 2004 film "Life is a Miracle"?	Veljo	Filipovic	Tomo	Milos
+2T60089	Foreign Films	1	Kristen Stewart plays an American living where in the film "Personal Shopper"?	Moscow	Cairo	Warsaw	Paris
+459810	Foreign Films	1	In which language is the 1972 film "The Discreet Charm of the Bourgeoisie" spoken?	Italian	English	Spanish	French
+459932	Foreign Films	1	Which country opposes the Algerians in the 1966 film "The Battle of Algiers"?	Italy	Spain	United Kingdom	France
+20VE1995	Foreign Films	1	Complete the title of this Saudi Arabian Oscar Contending film, "The Perfect ___" ?	American	Sandwich	Skirt	Candidate
+20VE2001	Foreign Films	1	What Aussie film featured the character Mick Dundee?	Toy Story	Mr. Mom	Die Hard	Crocodile Dundee
+460072	Foreign Films	1	Which actor played Master Li Mu Bai in the 2000 film "Crouching Tiger, Hidden Dragon"?	Jet Li	Sonny Chiba	Kenji Ohba	Chow Yun Fat
+460031	Foreign Films	1	Who directed the 1997 film "Princess Mononoke"?	Akira Kurosawa	Chan-wook Park	Ang Lee	Hayao Miyazaki
+459929	Foreign Films	1	What object is Amelie's father obsessed with in the 2001 French film "Amelie"?	A Television	A Book	A Stove	A Garden Gnome
+20VE2055	Foreign Films	1	What color is the Turtle in the title of the Oscar winner for Best Animated Feature?	Orange	Purple	Pink	Red
+459918	Foreign Films	1	In which country do the title characters live in the 1982 film "Fanny And Alexander"?	Denmark	France	Germany	Sweden
+460024	Foreign Films	1	What is the primary focus of the plot of the 1950 film "Rashomon"?	A Theft	A Bandit Horde Attack	A War	A Rape
+459838	Foreign Films	1	How old was Pu Yi when he became Emperor in the 1987 film "The Last Emperor"?	Eight	13	16	Three
+459926	Foreign Films	1	Who directed the 2001 French film "Amelie"?	Jean Renoir	Jean-Pierre Melville	Francois Truffaut	Jean-Pierre Jeunet
+2T60088	Foreign Films	1	Which film includes French actress Juliette Binoche?	Ricki and the Flash	Mamma Mia!	The Manchurian Candidate	Dan in Real Life
+2T60081	Foreign Films	1	Who directed 2017's "Based on a True Story"?	Barry Jenkins	Eric Khoo	Athina Rachel Tsangari	Roman Polanski
+2T60128	Foreign Films	1	From what country is the 2014 film, "Force Majeure" from?	Portugal	Iran	Norway	Sweden
+20VE2041	Foreign Films	1	What does the 2010 British-Brazilian documentary "Waste Land" focus on?	Dancing	Meat Industry	Video Games	Making Refuse Into Art
+459829	Foreign Films	1	What is the profession of Mattei the 1970 film "The Red Circle"?	Thief	Mob Boss	Priest	Police Superintendent
+459991	Foreign Films	1	Who directed the 2001 Anime film "Spirited Away"?	Noboru Ishiguro	Yoshiyuki Tomino	Osamu Dezaki	Hayao Miyazaki
+20VE2015	Foreign Films	1	In what language was the 2011 comedy-drama "The Intouchables" originally filmed?	Greek	Mandarin	Spanish	French
+389828	Foreign Films	1	Which Oscar-nominated 2006 Italian film featured the struggle with abuse of a woman named Sabina?	The Secret	Invisible Waves	Grave Decisions	Don't Tell
+459976	Foreign Films	1	Who directed the 1985 film "Ran"?	Jean Renoir	Francois Truffaut	Francois Ozon	Akira Kurosawa
+459940	Foreign Films	1	What French town is the home port for the U-Boat in the 1981 film "Das Boot"?	Calais	Paris	Cannes	La Rochelle
+459857	Foreign Films	1	Which actor portrayed the titular character in the 1982 film "Fitzcarraldo"?	Gerard Depardieu	Max Von Sydow	Peter O'toole	Klaus Kinski
+459973	Foreign Films	1	Who sells Gelsomina to Zampano in the 1954 film "La Strada"?	Il Matto	Signor Giraffa	Her Father	Her Mother
+459828	Foreign Films	1	Which criminal activity is the primary focus in the 1970 film "The Red Circle"?	Bank Robbery	Kidnapping	Armored Car Robbery	Jewel Heist
+459808	Foreign Films	1	Who portrayed Don Rafael Acosta in the 1972 film "The Discreet Charm of the Bourgeoisie"?	Paul Frankeur	Jean-Pierre Cassel	Jean-Claude Van Damme	Fernando Rey
+459859	Foreign Films	1	What does Brian Sweeney Fitzgerald wish to build in the 1982 film "Fitzcarraldo"?	A Hospital	A School	A Church	An Opera House
+459824	Foreign Films	1	What is the name of the headmistress of the orphanage in the 2001 film "The Devil's Backbone"?	Lucinda	Maria	Bette	Carmen
+460044	Foreign Films	1	According to King Arthur, what floats in water in the 1975 film "Monty Python and the Holy Grail"?	Wood	Churches	Lead	A Duck
+460068	Foreign Films	1	In the 2007 film "The Diving Bell and the Butterfly", of what magazine was Jean-Do editor-in-chief?	Cosmopolitan	Vogue	Glamour	Elle
+460003	Foreign Films	1	What is the name of the 10-year-old girl in the 2006 film "Pan's Labyrinth"?	Carmen	Ivana	Maribel	Ofelia
+20VE2005	Foreign Films	1	Which of these films are about war?	Samurai Gourmet	The Lives of Others	Tell No One	Das Boot
+4T60127	Foreign Films	1	From what country is the 2014 film, "Leviathan" from?	France	Egypt	Chile	Russia
+460049	Foreign Films	1	What is the profession of Isak Borg in the 1957 film "Wild Strawberries"?	Clown	Soldier	Priest	Doctor
+459806	Foreign Films	1	Who directed the 1972 movie "The Discreet Charm of the Bourgeoisie"?	Jean Renoir	Jean-Luc Godard	Bernardo Bertolucci	Luis Bunuel
+459948	Foreign Films	1	What is the name of the restaurant in the 1989 film "The Cook, The Thief, His Wife & Her Lover"?	Le Chateau Du Nuit	La Traviatta	The Golden Cup	Le Hollandais
+459826	Foreign Films	1	Who wrote and directed the 1970 film "The Red Circle"?	Jean Renoir	Jean-Luc Godard	Jean-Claude Batiste	Jean-Pierre Melville
+2T60115	Foreign Films	1	Which film is about a middle-class family's maid in Mexico City?	Shoplifters	Signal Rock	Girl	Roma
+460071	Foreign Films	1	Who directed the 2000 film "Crouching Tiger, Hidden Dragon"?	Akira Kurosawa	Hayao Miyazaki	Wong Kar-Wai	Ang Lee
+460001	Foreign Films	1	Who directed the 2006 film "Pan's Labyrinth"?	Sergi Lopez	Alex Angulo	Alfonso Arau	Guillermo Del Toro
+459943	Foreign Films	1	What profession does the director of the 1973 French film "Day for Night" portray in the film?	Leading Man	Stuntman	Gaffer	Director
+20VE2019	Foreign Films	1	Who stars in the 1996 Australian biographical drama film based on the life of pianist David Helfgott?	Paul Hogan	Kumail Nanjiani	Antonio Banderas	Geoffrey Rush
+460052	Foreign Films	1	What is Guido Anselmi's profession in the 1963 film "8 1/2"?	Doctor	Accountant	Priest	Director
+389842	Foreign Films	1	For the murder of whom is Daniel Eckmann arrested in the 2007 French film "Counter Investigation"?	Richard Malinowski's Boss	Richard Malinowski's Wife	Richard Malinowski's Partner	Richard Malinowski's Daughter
+459825	Foreign Films	1	In what country is in the 2001 film "The Devil's Backbone" set?	Portugal	Italy	France	Spain
+20VE2043	Foreign Films	1	What is the film "Buena Vista Social Club" about?	French Revolution	College Fraternity	Boy Scouts	Music of Cuba
+2T60119	Foreign Films	1	What film is about an ill-tempered retiree who spends his days enforcing block association rules?	Amour	Son of Saul	In a Better World	A Man Called Ove
+459796	Foreign Films	1	Who directed the 1937 French film "La Grande Illusion"?	Jean Gabin	Pierre Fresnay	Jean-Paul Gautier	Jean Renoir
+459949	Foreign Films	1	At the end of the 1989 film "The Cook, The Thief, His Wife & Her Lover" what does Georgina call Albert?	Liar	Murderer	Cheater	Cannibal
+459842	Foreign Films	1	Who wrote and directed the 2006 film "Volver"?	Robert Rodriguez	Guillermo Del Toro	Quentin Tarentino	Pedro Almodovar
+20VE1993	Foreign Films	1	Many James Bond movies were filmed at Pinewood Studios, where is it located?	Mexico City, Mexico	Paris, France	Moscow, Russia	Buckinghamshire, England
+459951	Foreign Films	1	Who directed the 1954 film "Seven Samurai"?	Toshiro Mifune	Ishiro Honda	Shinobu Hashimoto	Akira Kurosawa
+20VE2011	Foreign Films	1	Where is the Albert R. Broccoli 007 Stage located?	India	Japan	Australia	England
+2T60107	Foreign Films	1	Who plays Ip Man in "Ip Man 4: The Finale"?	Jackie Chan	Jim Liu	Wu Yue	Donnie Yen
+460029	Foreign Films	1	In the beginning of the 2003 film "Oldboy", what object is Oh Dae-su holding?	A Gun	A Letter	A Telephone	A Necktie
+460048	Foreign Films	1	What language is spoken in the 1957 film "Wild Strawberries"?	French	English	Italian	Swedish
+20VE2021	Foreign Films	1	Complete the title of this 2019 Danish erotic drama film, "Queen of ___" ?	Fools	Of It	England	Hearts
+460077	Foreign Films	1	What is the name of Satsuki's younger sister in the 1988 film "My Neighbor Totoro"?	Kanta	Yasuko	Chika	Mei
+460062	Foreign Films	1	What is the name of Colin Farrell's character in the 2008 British film "In Bruges"?	Ken	Harry	Mark	Ray
+459984	Foreign Films	1	Which character is "The Bad" in the 1966 film "The Good, the Bad and the Ugly"?	Tuco	Blondie	Baker	Angel Eyes
+459944	Foreign Films	1	What activity is the center of the plot of the 1973 French film "Day for Night"?	Life In A Hospital	A Jewelry Heist	A Vacation On The Riviera	Making A Movie
+20VE2053	Foreign Films	1	Who is the famous actress that is in the 2019 film "Pain and Glory"?	Jennifer Aniston	Oprah Winfrey	Heather Locklear	Penelope Cruz
+20VE2071	Foreign Films	1	Which one of these films is animated?	Fanny and Alexander	Roma	Pan's Labyrinth	The Wind Rises
+459927	Foreign Films	1	What illness did Amelie's father believe she had in the 2001 French film "Amelie"?	Adhd	Diabetes	Schizophrenia	Heart Defect
+20VE2029	Foreign Films	1	In what country is the Bollywood film industry located?	Vietnam	Canada	Scotland	India
+460076	Foreign Films	1	Who directed the 1988 film "My Neighbor Totoro"?	Akira Kurosawa	Ang Lee	Francois Ozon	Hayao Miyazaki
+20VE2051	Foreign Films	1	What actor played the action hero Mick Dundee in films?	Mel Gibson	Tom Cruise	Henry Cavill	Paul Hogan
+2T60135	Foreign Films	1	From what country is the 2016 film, "Elle" from?	Sweden	Austria	Australia	France
+459981	Foreign Films	1	Who directed the 1966 film "The Good, the Bad and the Ugly"?	John Ford	Clint Eastwood	Luchino Visconti	Sergio Leone
+460070	Foreign Films	1	What is the name of Jean-Do's therapist in the 2007 film "The Diving Bell and the Butterfly"?	Roussin	Betty	Claude	Henriette
+459971	Foreign Films	1	Who directed the 1954 film "La Strada"?	Jean-Luc Godard	Bernardo Bertolucci	Roberto Rossellini	Federico Fellini
+460009	Foreign Films	1	In what location is the 1997 film "Life is Beautiful" set?	A Hospital	A POW Camp	A Factory	A Concentration Camp
+460066	Foreign Films	1	In which genre does the 2008 film "Let the Right One In" belong?	Comedy	Musical	Crime	Horror
+460045	Foreign Films	1	What terrible beast guards the cave in the 1975 film "Monty Python and the Holy Grail"?	A Dragon	A Demon	A Duck	A Rabbit
+459845	Foreign Films	1	In which Spanish city does the character of Raimunda live in the 2006 film "Volver"?	Barcelona	Seville	Valencia	Madrid
+460047	Foreign Films	1	In what country was the 1957 film "Wild Strawberries" filmed?	France	England	Italy	Sweden
+460000	Foreign Films	1	What is Georg Dreyman's profession in the 2006 film "The Lives of Others"?	Stasi Officer	Actor	Theater Owner	Playwright
+460054	Foreign Films	1	What is the name of the movie director portrayed in the 1963 film "8 1/2"?	Federico Fellini	Marcello Mastroianni	Ennio Flaiano	Guido Anselmi
+460057	Foreign Films	1	What are the main characters transporting in the 1953 film "The Wages of Fear"?	Animals	Prisoners	Food	Nitroglycerine
+20VE2065	Foreign Films	1	What is the English translation of the film title "Les Invasions barbares"?	Cut The Chord	The Barbershop	Leve Free	The Barbarian Invasions
+459851	Foreign Films	1	Which actor played the part of Marion Steiner in the 1980 film "The Last Metro"?	Jean Poiret	Andrea Ferreol	Paulette Dubost	Catherine Deneuve
+459841	Foreign Films	1	In what country is the 2006 film "Volver" set?	Australia	France	Japan	Spain
+459855	Foreign Films	1	In what type of building is the 1980 film "The Last Metro" set?	Restaurant	Prison	Hospital	Theater
+459941	Foreign Films	1	Who directed the 1973 French film "Day for Night"?	Jean-Luc Godard	Wim Wenders	Jean-Pierre Jeunet	Francois Truffaut
+459847	Foreign Films	1	Who directed the 2008 film "Ashes of Time (Redux)"?	Sheng Ding	Ang Lee	Daniel Lee	Kar Wai Wong
+20VE2027	Foreign Films	1	Cantonwood refers to the cinema of what location?	Russia	Cuba	Panama	Hong Kong
+4T60091	Foreign Films	1	Who directed the Oscar winning film "Roma"?	Asghar Farhadi	Ang Lee	Pedro Almodovar	Alfonso Cuaron
+460056	Foreign Films	1	Who directed the 1953 film "The Wages of Fear"?	Jean Renoir	Ingmar Bergman	Federico Fellini	Henri-Georges Clouzot
+460063	Foreign Films	1	What is the name of Ray and Ken's boss in the 2008 British film "In Bruges"?	Oliver	Tom	Dick	Harry
+20VE2013	Foreign Films	1	What actor who played the Hulk made his feature film debut in the 1997 Australian comedy, "The Castle"?	Edward Norton	Bryce Johnson	Lou Ferrigno	Eric Bana
+460079	Foreign Films	1	What is the name of Mei's older sister in the 1988 film "My Neighbor Totoro"?	Kanta	Yasuko	Noriko	Satsuki
+20VE1979	Foreign Films	1	Who is the actor who appeared in the Swedish film "White Water Fury" and played Eric in the TV series "True Blood"?	Henry Cavill	Diego Luna	Kumail Nanjiani	Alexander Skarsgard
+20VE1981	Foreign Films	1	What actor is the son of well known poet Harivansh Rai Bachchan?	Clive Revill	Frezie Boosier	Kumail Nanjiani	Amitabh Bachchan
+459856	Foreign Films	1	Who wrote and directed the 1982 film "Fitzcarraldo"?	Klaus Kinski	Brian Sweeney Fitzgerald	Francois Truffaut	Werner Herzog
+460083	Foreign Films	1	Which country produced the 2005 Academy Award-winning film "Tsotsi"?	Germany	France	Italy	South Africa
+460043	Foreign Films	1	Which actor played Sir Lancelot in the 1975 film "Monty Python and the Holy Grail"?	Terry Jones	Michael Palin	Eric Idle	John Cleese
+20VE1989	Foreign Films	1	Complete the title of the 1997 film that grossed over $200 Million, "Life Is ____"?	Tough	A Breeze	A Joke	Beautiful
+460084	Foreign Films	1	Which country produced the 2008 Academy Award-winning film "Departures"?	France	Germany	Austria	Japan
+2T60114	Foreign Films	1	In what decade is the film "Roma" set?	1920s	1940s	1980s	1970s
+460026	Foreign Films	2	Who directed the 2003 film "Oldboy"?	Ang Lee	Wong Kar-Wai	Hayao Miyazaki	Chan-wook Park
+459907	Foreign Films	2	Where does Veronika live in the 1991 French film "The Double Life of Veronique"?	France	Italy	Germany	Poland
+459969	Foreign Films	2	Which film director's style inspired Ramesh Sippy to film the 1975 film "Sholay"?	Ingmar Bergman	Federico Fellini	Werner Herzog	Sergio Leone
+459904	Foreign Films	2	What method do Nicole and Christina use to kill Michel in the 1954 film "Les Diaboliques"?	Stabbing	Poisoning	Shooting	Drowning
+389825	Foreign Films	2	By what nickname is Magistrate Jeanne Charmant-Killman known in the 2006 film "The Comedy of Power"?	The Joker	The Big Meanie	Boss Lady	The Piranha
+460092	Foreign Films	2	The 1994 film "Eat Drink Man Woman" was later remade as what film?	Waiting	The Pianist	L.A. Confidential	Tortilla Soup
+459956	Foreign Films	2	Who directed the 2003 French film "Swimming Pool"?	Jean Renoir	Francois Truffaut	Jean-Pierre Melville	Frantois Ozon
+389813	Foreign Films	2	What does Adolfo want to become in the 2005 film "20 Centimeters"?	A Teacher	President	An Astronaut	A Woman
+459860	Foreign Films	2	In the 1982 film "Fitzcarraldo", Brian Sweeney Fitzgerald is a fan of which opera singer?	Luciano Pavarotti	Nicolo Paganini	Nellie Melba	Enrico Caruso
+459890	Foreign Films	2	What nationality is Leopold Kessler, the main character in the 1991 film "Zentropa"?	German	Hungarian	Dutch	American
+459917	Foreign Films	2	How are the title characters in the 1982 film "Fanny And Alexander" related?	Wife And Husband	Mother And Son	Cousins	Sister And Brother
+459983	Foreign Films	2	Who composed the iconic theme music to the 1966 film "The Good, the Bad and the Ugly"?	Sergio Leone	Aldo Giuffre	Antonio Casale	Ennio Morricone
+2T60131	Foreign Films	2	From what country is the 2018 film, "Shoplifters" from?	Italy	France	Russia	Japan
+459957	Foreign Films	2	In the 2003 French film "Swimming Pool", what is Sarah Morton's profession?	Waitress	Teacher	Detective	Novelist
+2T60083	Foreign Films	2	What film is about a French ballistic missile submarine?	Thirst Street	Declaration of War	French Dolls	The Wolf's Call
+2T60086	Foreign Films	2	Which film includes French actress Juliette Binoche?	It's Complicated	Snowpiercer	Joker	Clouds of Sils Maria
+2T60078	Foreign Films	2	"The Skin I Live In" released in 2011 was directed by?	Eric Khoo	Ang Lee	Roman Polanski	Pedro Almodovar
+459916	Foreign Films	2	Who directed the 1982 film "Fanny And Alexander"?	Federico Fellini	Jean-Luc Godard	Bernardo Bertolucci	Ingmar Bergman
+2T60106	Foreign Films	2	What won the 2019 Hong Kong Film Award for Best Film?	Three Husbands	Still Human	Operation Red Sea	Project Gutenberg
+23IN2995	Foreign Films	2	What film was awarded the Golden Bear at the 2019 Berlin Film Festival?	Taxi	Shoplifters	Head-On	Synonyms
+459903	Foreign Films	2	What is the name of Michel Delassalle's wife in the 1954 film "Les Diaboliques"?	Nicole	Simone	Vera	Christina
+459839	Foreign Films	2	In how many Academy Award categories was the 1987 film "The Last Emperor" nominated?	Four	Seven	Two	Nine
+504860	Foreign Films	2	What film won the Grand Prix at the 2013 Cannes Film Festival?	Only God Forgives	Venus in Fur	The Immigrant	Inside Llewyn Davis
+459995	Foreign Films	2	What Anime film was the first to be nominated for (and win) an Academy Award?	Princess Mononoke	My Neighbor Totoro	The Girl Who Leapt Through Time	Spirited Away
+459885	Foreign Films	2	What is Marion's profession in the 1987 German film "Wings Of Desire"?	Doctor	Secretary	Police Officer	Trapeeze Artist
+2T60102	Foreign Films	2	Which Italian film is about a gang of teenage boys stalk the streets of Naples?	Suspiria	Lucania	The First King	Piranhas
+2T60129	Foreign Films	2	From what country is the 2019 film, "Portrait of a Lady on Fire" from?	Portugal	Italy	Ireland	France
+460036	Foreign Films	2	Who directed the 1965 film "For a Few Dollars More"?	John Ford	Clint Eastwood	Luchino Visconti	Sergio Leone
+459830	Foreign Films	2	What belief does the Police Chief tell Mattei in the 1970 film "The Red Circle"?	Justice Is Always Served	The Innocent Have Nothing To Fear	Where There Is Life, There Is Hope	All Men Are Guilty
+460082	Foreign Films	2	Which country produced the 2007 Academy Award-winning film "The Counterfeiters"?	Poland	Russia	Israel	Austria
+389824	Foreign Films	2	The 2005 movie "American Visa" tells the story of a professor trying to escape from what nation?	Belize	Colombia	Peru	Bolivia
+2T60093	Foreign Films	2	Which film is based on the British novel "Fingersmith"?	Hiroshima Mon Amour	In the Mood for Love	Oldboy	The Handmaiden
+460007	Foreign Films	2	Who portrayed (and won an Oscar for his performance) Guido Orefice in the 1997 film "Life is Beautiful"?	Giorgio Cantarini	Giustino Durano	Horst Buchholz	Roberto Benigni
+2T60134	Foreign Films	2	From what country is the 2016 film, "Divines " from?	Austria	Italy	Russia	France
+460002	Foreign Films	2	Who wrote the 2006 film "Pan's Labyrinth"?	Sergi Lopez	Alex Angulo	Alfonso Arau	Guillermo Del Toro
+2T60118	Foreign Films	2	"Vikram Vedha" is a 2017 Indian film about what?	War	Teen Romance	Hospital	Police Officer
+389820	Foreign Films	2	What do friends Karl and Hans have in common in the 2006 German film "A Friend of Mine"?	Membership In The Same Lodge	The Same Girlfriend	Adjacent Classroom Seats	A Love Of Cars
+460016	Foreign Films	2	Who directed the 1988 film "Cinema Paradiso"?	Werner Herzog	Roberto Rossellini	Jean-Luc Godard	Giuseppe Tornatore
+389830	Foreign Films	2	What was the profession of the title character in the 2006 film "Alatriste"?	Blacksmith	Painter	Farmer	Swordsman
+459962	Foreign Films	2	What country is the setting for the 2009 film "3 Idiots"?	Turkey	Egypt	Japan	India
+460013	Foreign Films	2	What location is the setting in the 2004 film "Downfall"?	A Concentration Camp	A POW Camp	A Hospital	A Bunker
+460090	Foreign Films	2	Who directed the 1994 film "Eat Drink Man Woman"?	Akira Kurosawa	Francois Truffaut	Henri-Georges Clouzot	Ang Lee
+2T60109	Foreign Films	2	In what decade is the 2018 film "Cold War" set?	1990s	2000s	1920s	1950s
+389821	Foreign Films	2	Who is Ana seeking on her European journey in the 2004 Spanish film "Searching for Love"?	Her Estranged Mother	Her Long-Lost Twin	Her Adopted Son	A Teenage Love
+389812	Foreign Films	2	In "7 Virgins", Tano gets a two-day release from reform school to attend what?	His College Graduation	His Mother's Funeral	The Birth Of His Son	His Brother's Wedding
+389831	Foreign Films	2	What job was held by both Jorge and his father in the 2006 film "Dark Blue Almost Black"?	Baker	Mail Clerk	Dogcatcher	Janitor
+389839	Foreign Films	2	In 2005's "Crime Novel", where do "Lebanese", "Dandy" and "Ice" attempt to take over the underworld?	Paris	Alexandria	Los Angeles	Rome
+459884	Foreign Films	2	What is the name of Damiel's angelic friend in the 1987 German film "Wings Of Desire"?	Michael	Gabriel	Elijah	Cassiel
+2T60085	Foreign Films	2	Who plays Madeleine in the Bond film "Spectre"?	Juliette Binoche	Marie-Sohna Conde	Audrey Fleurot	Lea Seydoux
+460042	Foreign Films	2	Which actor played King Arthur in the 1975 film "Monty Python and the Holy Grail"?	John Cleese	Eric Idol	Michael Palin	Graham Chapman
+389814	Foreign Films	2	Which 2005 movie, directed in part by Ridley Scott, John Woo and Spike Lee, was produced for UNICEF?	I Am Legend	Inside Man	A Friend Of Mine	All The Invisible Children
+460035	Foreign Films	2	What type of animal does Ashitaka ride in the 1997 film "Princess Mononoke"?	A Horse	A Wolf	An Eagle	An Elk
+389832	Foreign Films	2	Five cast members of which French film shared the Best Actor Award at the 2006 Cannes Film Festival?	Days Of Thunder	Blades Of Glory	Days Of Wine And Roses	Days Of Glory
+460093	Foreign Films	2	Ang Lee was nominated in the Best Director category at the 2001 Academy Awards for which film?	Eat Drink Man Woman	The Ice Storm	Sense and Sensibility	Crouching Tiger, Hidden Dragon
+389835	Foreign Films	2	What Middle Eastern nation is the setting of Michel Kammoun's 2006 "Falafel"?	Israel	Iran	Iraq	Lebanon
+460053	Foreign Films	2	The 1963 film "8 1/2" was the basis for what Broadway musical?	Chicago	Cabaret	All That Jazz	Nine
+459910	Foreign Films	2	What is Veronique's profession at the beginning of the 1991 French film "The Double Life of Veronique"?	Photographer	Teacher	Secretary	Singer
+2T60110	Foreign Films	2	Which film is about a determined environmental activist?	Capernaum	Burnout	Yellow is Forbidden	Woman at War
+389829	Foreign Films	2	In the 2006 Danish film "Clash of Egos", why does Tonny confront film director Claus Volter?	Tonny Hated The Film's Ending	Tonny Wanted To Be An Actor	Tonny Felt Claus Stole His Idea	Claus' Movie Upset Tonny's Kids
+459913	Foreign Films	2	Who plays the main character, Monsieur Hulot, in the 1967 French film "Playtime"?	Jacques Lagrange	Georges Montant	Georges Faye	Jacques Tati
+459989	Foreign Films	2	Which actor played the role of Cheyenne in the 1968 film "Once Upon a Time in the West"?	Clint Eastwood	Henry Fonda	Eli Wallach	Jason Robards
+2T60080	Foreign Films	2	What film is about a curator of the X-Royal art museum in Stockholm?	In the Mood for Love	Clouds of Sils Maria	Based On A True Story	The Square
+325365	Foreign Films	2	The 2007 movie "The Wind That Shakes The Barley" takes place in Ireland in which year?	1820	1720	1620	1920
+389815	Foreign Films	2	What task does Minister Ivan assign neo-Nazi Adam in the 2005 Danish film "Adam's Apples"?	Planting A Tree	Writing A Novel	Painting A Mural	Baking A Pie
+459977	Foreign Films	2	What Shakespearean play did Akira Kurosawa use as inspiration for the 1985 film "Ran"?	Hamlet	Julius Caesar	Macbeth	King Lear
+460088	Foreign Films	2	Which country produced the 2003 Academy Award-winning film "The Barbarian Invasions"?	Sweden	Japan	The Czech Republic	Canada
+459848	Foreign Films	2	Which actor plays the main character, Ou-yang Feng, in the 2008 film "Ashes of Time (Redux)"?	Sonny Chiba	Chia Hui Liu	Jacky Cheung	Leslie Cheung
+459959	Foreign Films	2	What is the name of the teen girl that comes to stay at the villa in the 2003 film "Swimming Pool"?	Sarah	Charlotte	Emilie	Julie
+460046	Foreign Films	2	Who directed the 1957 film "Wild Strawberries"?	Francois Truffaut	Akira Kurosawa	Federico Fellini	Ingmar Bergman
+459914	Foreign Films	2	Who is Monsieur Hulot looking for in the 1967 French film "Playtime"?	His Wife	His Mistress	A Priest	An American Official
+2T60096	Foreign Films	2	Who stars as Shortsighted Woman in the 2015 dark comedy, "The Lobster"?	Uma Thurman	Gelnn Close	Olivia Colman	Rachel Weisz
+460018	Foreign Films	2	In the 1988 film "Cinema Paradiso", what is Salvatore's profession?	Actor	Theater Owner	Priest	Filmmaker
+459970	Foreign Films	2	What is the name of the former police chief in the 1975 film "Sholay"?	Veeru	Jai	Gabbar	Thakur
+389827	Foreign Films	2	Brothers Jens and Pontus help each other with relationship problems in what 2006 Swedish film?	The Breakup	Lunacy	Blue Swallow	Every Other Week
+460067	Foreign Films	2	Who directed the 2007 film "The Diving Bell and the Butterfly"?	M. Night Shyamalan	Ang Lee	Jean-Dominique Bauby	Julian Schnabel
+460086	Foreign Films	2	What is the name of the protagonist in the 2004 film "The Sea Inside"?	Julia	Jose	Rosa	Ramon
+2T60105	Foreign Films	2	What won the 2018 Hong Kong Film Award for Best Film?	Chasing the Dragon	Shock Wave	Paradox	Our Time Will Come
+2T60112	Foreign Films	2	What sport is the 2018 film "Champions" about?	Rugby	Cricket	Ice Hockey	Basketball
+23IN2997	Foreign Films	2	Who was the 2019 Berlin Film Festival Golden Bear Honorary Award winner?	Hanna Schygulla	Tom Hanks	Meryl Streep	Charlotte Rampling
+2T60132	Foreign Films	2	From what country is the 2017 film, "First They Killed My Father" from?	Austria	Spain	Russia	Cambodia
+459889	Foreign Films	2	Lars von Trier's 1991 film "Zentropa" takes place in what country?	Denmark	France	Sweden	Germany
+459963	Foreign Films	2	In what language is the 2009 film "3 Idiots" filmed?	Japanese	Spanish	French	Hindi
+460089	Foreign Films	2	Which country produced the 2002 Academy Award-winning film "Nowhere in Africa"?	Finland	Mexico	The Netherlands	Germany
+460094	Foreign Films	2	The 1954 film "Gojira" is better known by what title?	Seven Samurai	Life is Beautiful	The Bicycle Thief	Godzilla
+459966	Foreign Films	2	What country is the setting for the 1975 film "Sholay"?	Turkey	Egypt	Japan	India
+459805	Foreign Films	2	Bob Fosse remade the 1957 film "Nights of Cabiria" into which movie?	Cabaret	All That Jazz	Lenny	Sweet Charity
+389816	Foreign Films	2	What is the English title of Ji-woon Kim's 2005 ultra-violent film, which stars Byung-hun Lee?	Jade Warrior	Days Of Glory	Little Red Flowers	A Bittersweet Life
+4T60123	Foreign Films	2	From what country is the 2013 film, "The Great Beauty" from?	France	Portugal	Mexico	Italy
+459872	Foreign Films	2	Which actor plays One in the 1995 film "The City Of Lost Children"?	Gerard Depardieu	Russell Crowe	Gerard Butler	Ron Perlman
+459965	Foreign Films	2	What is Chatur Ramalingam's nickname in the 2009 film "3 Idiots"?	Rancho	Rama	Hari	Silencer
+460027	Foreign Films	2	In what country is the 2003 film "Oldboy" set?	Japan	China	South Vietnam	South Korea
+459870	Foreign Films	2	What is One's profession in the 1995 film "The City Of Lost Children"?	Gunslinger	Detective	Priest	Strongman
+459868	Foreign Films	2	For what reason does Krank kidnap children in the 1995 film "The City Of Lost Children"?	Money	Souls	Laugher	Dreams
+2T60108	Foreign Films	2	In what country is the 2017 film "Village Rockstars" set?	Germany	Canada	Mexico	India
+2T60103	Foreign Films	2	Who formed Mandarin Films Distribution Co. Ltd?	Karl Maka	Johnnie To	Tsui Hark	Raymond Wong Pak-ming
+459967	Foreign Films	2	In what language is the 1975 film "Sholay" filmed?	Japanese	Spanish	Italian	Hindi
+460085	Foreign Films	2	Which film received the 2009 Academy Award for Best Foreign Language Film?	Ajami	The White Ribbon	A Prophet	The Secret in Their Eyes
+389819	Foreign Films	2	Detectives Hei and Bong investigate the Hong Kong murder of Hei's father-in-law in what 2006 film?	Prague	Grave Decisions	Between Living And Dreaming	Confession Of Pain
+2T60087	Foreign Films	2	Which film includes French actress Juliette Binoche?	August: Osage County	Cloud Atlas	Lee Daniels' The Butler	Ghost in the Shell
+23IN2991	Foreign Films	2	What was the opening film at the 2018 Cannes Film Festival?	3 Faces	BlacKkKlansman	The House That Jack Built	Everybody Knows
+459823	Foreign Films	2	What is the name of the ghost in the 2001 film "The Devil's Backbone"?	Carlos	Carmen	Jacinto	Santi
+2T60092	Foreign Films	2	What scary creatures are featured in "Train To Busan"?	Aliens	Vampires	Ghosts	Zombies
+459980	Foreign Films	2	In the 1985 film "Ran", which son warned his father about the danger of his brothers?	Jiro	Taro	Shuri	Saburo
+460038	Foreign Films	2	Which actor played Col. Mortimer in the 1965 film "For a Few Dollars More"?	Henry Fonda	Charles Bronson	Lee Marvin	Lee Van Cleef
+460028	Foreign Films	2	The 2003 film "Oldboy" is a sequel to which film?	Lady Vengeance	A Boy Who Went to Heaven	Thirst	Sympathy for Mr. Vengeance
+2T60117	Foreign Films	2	Which Indian film is about the life of a blind pianist and mysterious events?	Vada Chennai	Khosla Ka Ghosla!	Chupke Chupke	Andhadhun
+389817	Foreign Films	2	Hungarian director Lajos Koltai's 2005 film "Fateless" takes place during what historical event?	The Russian Revolution	World War I	The French Revolution	The Holocaust
+460091	Foreign Films	2	What is Chu's profession in Ang Lee's 1994 film "Eat Drink Man Woman"?	Teacher	Student	Executive	Chef
+4T60119	Foreign Films	2	From what country is the 2012 film, "Amour " from?	Egypt	Mexico	Poland	Austria
+389823	Foreign Films	2	The main action of 2006's "Cold Play" takes place in what type of building?	An Abandoned High School	An Abandoned Tenament	An Abandoned Movie Theater	An Abandoned Ski Lodge
+459818	Foreign Films	2	How many brothers does Rocco have in the 1960 film "Rocco And His Brothers"?	Three	Two	Five	Four
+459972	Foreign Films	2	In which Academy Award category did the 1954 film "La Strada" receive an Oscar?	Best Director	Best Supporting Actor	Best Writing, Best Screenplay - Original	Best Foreign Language Film
+459799	Foreign Films	2	Who wrote the 1937 film "La Grande Illusion with Charles Spaak"?	Jean Gabin	Ingmar Bergman	Jean-Luc Godard	Jean Renoir
+460011	Foreign Films	2	Who directed the 2004 World War II era film "Downfall"?	Roberto Benigni	Roberto Rossellini	Francois Ozon	Oliver Hirschbiegel
+459992	Foreign Films	2	What is the name of the girl that is the central focus of the 2001 Anime film "Spirited Away"?	Aniyaku	Kikuchiyo	Mari	Chihiro
+460034	Foreign Films	2	The success of the 1997 film "Princess Mononoke" led Hayao Miyazaki to create which film?	Kiki's Delivery Service	Castle in the Sky	The Crimson Pig	Spirited Away
+491426	Foreign Films	2	Who is the Irish actress who starred in the British-German action fantasy thriller film, "Hannah"?	Emma Watson	Evanna Lynch	Isabelle Fuhrman	Saoirse Ronan
+459985	Foreign Films	2	Which character is "The Ugly" in the 1966 film "The Good, the Bad and the Ugly"?	Angel Eyes	Blondie	Baker	Tuco
+460012	Foreign Films	2	What historical figure is the primary focus of the 2004 film "Downfall"?	Napoleon Bonaparte	Julius Caesar	Benito Mussolini	Adolf Hitler
+460087	Foreign Films	2	Which country produced the 2004 Academy Award-winning film "The Sea Inside"?	Germany	France	Sweden	Spain
+459958	Foreign Films	2	In the 2003 French film "Swimming Pool", what type of novels does Sarah Morton write?	Romance	Satire	Historical	Mystery
+459883	Foreign Films	2	What is the name of the angelic main character in the 1987 German film "Wings Of Desire"?	Michael	Gabriel	Nathaniel	Damiel
+460023	Foreign Films	2	What is Tajmaru's profession in the 1950 film "Rashomon"?	Samurai	Woodcutter	Priest	Bandit
+460021	Foreign Films	2	Who directed the 1950 film "Rashomon"?	Federico Fellini	Ingmar Bergman	Jean-Luc Godard	Akira Kurosawa
+2T60116	Foreign Films	2	Which film is about Nisha, a daughter of a Pakistani-Norwegian family who is kidnapped?	Take It or Leave It	Night Accident	Eternity	What Will People Say
+459886	Foreign Films	2	Who directed the 1991 film "Zentropa"?	Jean Renoir	Ingmar Bergman	Jean-Luc Godard	Lars Von Trier
+459844	Foreign Films	2	In what Academy Award category did the 2006 film "Volver" receive its only nomination?	Best Director	Best Foreign Language Film	Best Screenplay	Best Actress
+459902	Foreign Films	2	What is Michel Delassalle's profession in the 1954 film "Les Diaboliques"?	Doctor	Police Officer	Priest	School Headmaster
+459964	Foreign Films	2	In the 2009 film "3 Idiots", what is engineering student Farhan's dream job?	Architect	Priest	Pilot	Wildlife Photographer
+394802	Foreign Films	2	Which real-life figure was the main character in the 2004 Italian film "In The Light Of The Sun"?	Dante Alighieri	Federico Fellini	Michelangelo Buonarroti	Pino Pugliese
+459954	Foreign Films	2	In the 1954 film "Seven Samurai" Kambei Shimada masquerades as what profession to rescue a young child?	A Farmer	A Peasant	A Merchant	A Monk
+459861	Foreign Films	2	What illness does Romain learn he has in the 2005 film "Time To Leave"?	Aids	Hypertension	Diabetes	Cancer
+459873	Foreign Films	2	What is the name of the girl who's brother One helps find in the 1995 film "The City Of Lost Children"?	Lune	Yvette	Alicia	Miette
+459819	Foreign Films	2	After Rocco's family moves to Milano, what job does he find the 1960 film "Rocco And His Brothers"?	Boxer	Police Officer	Construction Worker	Dry Cleaner
+459988	Foreign Films	2	Who played the role of Frank in Sergio Leone's 1968 film "Once Upon a Time in the West"?	Charles Bronson	Clint Eastwood	Lee Van Cleef	Henry Fonda
+459955	Foreign Films	2	What payment is offered by the village to the samurai in the 1954 film "Seven Samurai"?	Gold	Land	Horses	Food
+2T60100	Foreign Films	2	Who stars in the 2017 Italian drama film "Fortunata"?	Asia Argento	Violante Placido	Monica Bellucci	Jasmine Trinca
+2T60082	Foreign Films	2	Damien Bonnard played a French soldier in what hit movie?	The Dark Knight Rises	1917	Saving Private Ryan	Dunkirk
+460020	Foreign Films	2	In the 1988 film "Cinema Paradiso", what is the name of Salvatore's projectionist friend?	Marco	Enzo	Giuseppe	Alfredo
+459908	Foreign Films	2	Where does Veronique live in the 1991 French film "The Double Life of Veronique"?	Poland	Italy	Germany	France
+389822	Foreign Films	2	Norwegian Erik Skjoldbjaerg's "An Enemy of the People" was based on a play of the same name by whom?	Arthur Miller	William Shakespeare	Euripides	Henrik Ibsen
+389818	Foreign Films	2	The 2005 German film "About the Looking for and the Finding of Love" retells a story about whom?	Cupid And Psyche	Jason And The Argonauts	Romeo And Juliet	Orpheus And Eurydice
+2T60133	Foreign Films	2	From what country is the 2017 film, "A Fantastic Woman" from?	Italy	Denmark	Russia	Chile
+460075	Foreign Films	2	What was the first foreign language film to earn over $100 million in the United States?	Das Boot	Life is Beautiful	Cinema Paradiso	Crouching Tiger, Hidden Dragon
+460017	Foreign Films	2	In what country is the 1988 film "Cinema Paradiso" set?	Spain	Portugal	Mexico	Italy
+459793	Foreign Films	2	The 1961 film "Yojimbo" was later remade by Sergio Leone as which spaghetti western?	For A Few Dollars More	The Good, The Bad And The Ugly	Once Upon A Time In The West	A Fistful Of Dollars
+2T60130	Foreign Films	2	From what country is the 2019 film, "Pain and Glory" from?	Portugal	Austria	Russia	Spain
+459911	Foreign Films	2	Who directed the 1967 French film "Playtime"?	Henri-Georges Clouzot	Francois Truffaut	Jean-Pierre Melville	Jacques Tati
+460022	Foreign Films	2	Which actor plays the character Tajomaru in the 1950 film "Rashomon"?	Takashi Shimura	Kichijiro Ueda	Akira Kurosawa	Toshiro Mifune
+459821	Foreign Films	2	Who directed the 2001 film "The Devil's Backbone"?	Robert Rodriguez	Antonio Banderas	Antonio Trashorras	Guillermo Del Toro
+459865	Foreign Films	2	What is the name of Romain's grandmother in the 2005 film "Time To Leave"?	Jany	Sophie	Sasha	Laura
+459905	Foreign Films	2	Who owns the school where Michel Delassalle works in the 1954 film "Les Diaboliques"?	Nicole Horner	Michel Delassalle	Alfred Fichet	Christina Delassalle
+459974	Foreign Films	2	What is Zampano's profession in the 1954 film "La Strada"?	Clown	Gangster	Priest	Strongman
+100I239	Foreign Films	2	Which actress won the Actress in a Leading Role Award (film category) at the 2017 Irish Film & Television Awards?	Catherine Walker	Saoirse Ronan	Seana Kerslake	Ruth Negga
+459863	Foreign Films	2	What was the profession of Romain in the 2005 film "Time To Leave"?	Doctor	Journalist	Priest	Photographer
+459807	Foreign Films	2	Who co-wrote the 1972 movie "The Discreet Charm of the Bourgeoisie", along with Luis Bunuel?	Jean-Paul Gautier	Jean-Luc Godard	Jean-Claude Van Damme	Jean-Claude Carriere
+2T60097	Foreign Films	2	Who stars as David in the 2015 dark comedy, "The Lobster"?	Steve Carell	Tom Hanks	Robert De Niro	Colin Farrell
+459840	Foreign Films	2	In how many Academy Award categories did the 1987 film "The Last Emperor" win?	Seven	Four	Two	Nine
+389811	Foreign Films	2	A real-life version of what game was featured in the 2005 film "13 Tzameti"?	Marco Polo	Monopoly	Chess	Russian Roulette
+459960	Foreign Films	2	Although the 2003 film "Swimming Pool" is set in France, where does Sarah Morton normally work?	The United States	Brazil	Canada	England
+2T60084	Foreign Films	2	Which is a road drama film written and directed by Andrea Arnold?	Wasp	Hustlers	American Money	American Honey
+459912	Foreign Films	2	In what city is the 1967 film "Playtime" set?	London	Munich	New York	Paris
+459835	Foreign Films	2	How many Academy Awards was Emir Kusturica's 2004 film "Life is a Miracle" nominated for?	Two	Three	Four	Zero
+460032	Foreign Films	2	What is the name of the cursed character in the 1997 film "Princess Mononoke"?	Mononoke	Yakul	Jigo	Ashitaka
+459882	Foreign Films	2	Which actor played himself in the 1987 German film "Wings Of Desire"?	Dudley Moore	Al Pacino	Robert Redford	Peter Falk
+460041	Foreign Films	2	Who, along with Terry Jones, co-directed the 1975 film "Monty Python and the Holy Grail"?	John Cleese	Eric Idol	Graham Chapman	Terry Gilliam
+459994	Foreign Films	2	What is the name of the young boy that works in the bathhouse in the 2001 Anime film "Spirited Away"?	Chihiro	Sen	Rin	Haku
+459997	Foreign Films	3	In which Academy Award category did the 2006 film "The Lives of Others" receive an Oscar?	Best Set Design	Best Director	Best Cinematography	Best Foreign Language Film
+2T60125	Foreign Films	3	Who directed the 2010 film, "The Concert?	Ruben Ostlund	Emir Kusturica	Maren Ade	Radu Mihaileanu
+459920	Foreign Films	3	How many Academy Awards did the 1982 film "Fanny And Alexander" receive?	Two	Six	Eight	Four
+459953	Foreign Films	3	Which of the samurai in the 1954 film "Seven Samurai" is not technically a samurai?	Heihachi	Kambei	Shichiroji	Kikuchiyo
+459794	Foreign Films	3	Akira Kurosawa directed the 1961 film "Yojimbo". What is the English translation of the word yojimbo?	Gunfighter	Wanderer	Revenge	Bodyguard
+460058	Foreign Films	3	Henri-Georges Clouzot was nominated for the Golden Palm at the 1956 Cannes Film Festival for which film?	Diabolique	The Wages of Fear	Return to Life	The Mystery of Picasso
+459869	Foreign Films	3	Who co-directed the 1995 film "The City Of Lost Children", along with Marc Caro?	Francois Truffaut	Jean-Pierre Melville	Guillermo Del Toro	Jean-Pierre Jeunet
+459827	Foreign Films	3	Who played the character Corey in the 1970 film "The Red Circle"?	Yves Montand	Paul Crauchet	Paul Amiot	Alain Delon
+460039	Foreign Films	3	What is the name of "The Man with No Name" in the 1965 film "For a Few Dollars More"?	El Indio	Joe	Blondie	Monco
+2T60104	Foreign Films	3	What won the 2017 Hong Kong Film Award for Best Film?	Weeds on Fire	Ip Man 3	Soul Mate	Trivisa
+459852	Foreign Films	3	Who directed the 1980 film "The Last Metro"?	Bernardo Bertolucci	Jean-Pierre Melville	Jean-Luc Godard	Francois Truffaut
+459930	Foreign Films	3	Out of the five Academy Award nominations received, how many Oscars did the 2001 film "Amelie" win?	One	Three	Five	Zero
+2T60123	Foreign Films	3	Who directed the 2010 film,, "I Am Love?	Houda Benyamina	Claude Chabrol	Nadine Labaki	Luca Guadagnino
+459878	Foreign Films	3	Which actor portrayed Alexander Joyce in the 1954 film "Journey To Italy"?	Paul Muller	Roberto Rossellini	Vitaliano Brancati	George Sanders
+459935	Foreign Films	3	The 1948 Italian film "The Bicycle Thief" uses which style of film-making?	Film-Noir	New Wave	Pontilism	Neo-Realism
+460095	Foreign Films	3	The 1954 film "Gojira" lost the Japanese Academy Award for Best Picture to what film?	Rashomon	Yojimbo	The Hidden Fortress	Seven Samurai
+389834	Foreign Films	3	What is novelist Dries' "handicap" in the 2007 Belgian film "Ex Drummer"?	He Is Schizophrenic	He Is Deaf	He Has No Arms	He Can't Play Drums
+459939	Foreign Films	3	Who turned down the captain's role in 1981's "Das Boot" so he could appear in the film "Blade Runner"?	Harrison Ford	Edward James Olmos	M. Emmet Walsh	Rutger Hauer
+389841	Foreign Films	3	What three sets of three are featured in the tagline for the 2006 film "Taxidermia"?	Dogs, Cats, Mice	Men, Women, Children	Apples, Oranges, Pears	Stories, Generations, Men
+459915	Foreign Films	3	Which film continued the adventures of Monsieur Hulot after the 1967 film "Playtime"?	M. Hulot's Holiday	Mon Oncle	More Playtime	Trafic
+459968	Foreign Films	3	Who directed the 1975 film "Sholay"?	Rajkumar Hirani	Roberto Rossellini	Javed Akhtar	Ramesh Sippy
+459864	Foreign Films	3	Who played the character Romain in the 2005 film "Time To Leave"?	Daniel Duval	Christian Sengewald	Henri De Lorme	Melvil Poupaud
+4T60115	Foreign Films	3	From what country is the 2011 film, "A Separation" from?	Kuwait	Columbia	Israel	Iran
+459900	Foreign Films	3	A version of the 1984 film "Nausicaa Of The Valley Of The Wind" was released in the U.S. under what name?	On The Wind Of Dreams	Nausicaa Of The Valley	Valley Of The Wind	Warriors Of The Wind
+459925	Foreign Films	3	What was the only Academy Award nomination that the 1959 film "The 400 Blows" received?	Best Foreign Language Film	Best Director	Best Cinematography	Best Writing, Story And Screenplay
+389767	Foreign Films	3	What film won the SACD Screenwriting Award at the 2005 Cannes Film Festival?	Frozen Days	7 Virgins	American Visa	Little Jerusalem
+389840	Foreign Films	3	In the 2006 film "The Minder", who is Ruben responsible for protecting?	The President	A Grammy-Winning Singer	The Pope	The Minister Of Planning
+2T60101	Foreign Films	3	Who directed the 2018 film, "Suspiria"?	Agostino Ferrente	Matteo Rovere	Simone Spada	Luca Guadagnino
+459942	Foreign Films	3	What is the name of the movie being filmed during the 1973 French film "Day for Night"?	Les Quatre-Cents Coups	Pierrot Le Fou	Je Suis Je T'aime	Je Vous Presente Pamela
+2T60124	Foreign Films	3	Who directed the 2010 film,, "The Edge?	Paul Verhoeven	Claude Berri	Alfonso Cuaron	Alexei Uchitel
+460059	Foreign Films	3	In which category did the 1953 film "The Wages of Fear" win at the 1955 BAFTA Film Awards?	Best Achievement in Direction	Best Actor	Best Supporting Actor	Best Film from any Source
+460025	Foreign Films	3	Which film is often credited as the reason the Academy Awards created the category "Best Foreign Film"?	The Seventh Seal	The Nights of Cabiria	La Strada	Rashomon
+459862	Foreign Films	3	Who wrote and directed the 2005 film "Time To Leave"?	Francois Truffaut	Jean-Luc Godard	Jean Renoir	Francois Ozon
+2T60094	Foreign Films	3	Which of these is a 2015 Austrian horror film?	Grand Illusion	Irreversible	Offside	Goodnight Mommy
+460033	Foreign Films	3	The 1997 film "Princess Mononoke" replaced which film as the biggest grossing film of all time in Japan?	Star Wars	Jaws	The Matrix	E.T.: The Extra-Terrestrial
+459881	Foreign Films	3	Which angel-themed film was a remake of the 1987 German film "Wings Of Desire"?	A Life Less Ordinary	Michael	The Preacher's Wife	City Of Angels
+459896	Foreign Films	3	Who was the writer and director of the 1984 Anime film "Nausicaa Of The Valley Of The Wind"?	Noboru Ishiguro	Yoshiyuki Tomino	Osamu Dezaki	Hayao Miyazaki
+459934	Foreign Films	3	Who directed the 1948 Italian film "The Bicycle Thief"?	Federico Fellini	Luchino Visconti	Bernardo Bertolucci	Vittorio De Sica
+2T60095	Foreign Films	3	What film is loosely based on the true story of rally racing driver Carlo Capone?	Sweet Dreams	Forever Young	Perfect Strangers	Italian Race
+459804	Foreign Films	3	Star of the 1957 film "Nights of Cabiria", Giulietta Masina, won the Best Actress award at which event?	Academy Awards	Bafta Awards	Golden Globes	Cannes Film Festival
+2T60121	Foreign Films	3	Who directed the film, "Amour ?	Radu Mihaileanu	Walter Salles	Jaco Van Dormael	Michael Haneke
+460015	Foreign Films	3	The 2004 film "Downfall" was nominated for an Oscar for Best Foreign Language Film; which film won?	Downfall	The Chorus	Yesterday	The Sea Inside
+460040	Foreign Films	3	What is the name of "The Man with No Name" in the 1966 film "The Good, the Bad, and the Ugly"?	Joe	Manco	Tuco	Blondie
+394801	Foreign Films	3	The 2008 French film "The Colonel" was set during what African nation's war for independence?	Ghana	Rwanda	Botswana	Algeria
+459858	Foreign Films	3	In which country is the 1982 film "Fitzcarraldo" set?	Spain	Brazil	Argentina	Peru
+459822	Foreign Films	3	During what historical period is the 2001 film "The Devil's Backbone" set?	World War I	World War II	The Spanish-American War	The Spanish Civil War
+389856	Foreign Films	3	What was the occupation of karaoke-loving Dennis van der Horst in the Dutch film "Nightrun"?	Pizza Deliveryman	Mail Carrier	Mechanic	Taxi Driver
+389850	Foreign Films	3	What 2005 Korean film featured Park Kyeong-Won who moved to Japan to become a pilot?	Days Of Glory	Between Living And Dreaming	A Bittersweet Life	Blue Swallow
+4T60099	Foreign Films	3	From what country is the 2010 film, "Biutiful" from?	Canada	Italy	Japan	Mexico/Spain
+460019	Foreign Films	3	The 1988 film "Cinema Paradiso" was nominated for an Oscar for Best Foreign Language Film; which film won?	What Happened to Santiago	Camille Claudel	Jesus of Montreal	Cinema Paradiso
+459931	Foreign Films	3	Who directed the 1966 film "The Battle of Algiers"?	Luchino Visconti	Roberto Rossellini	Emir Kusturica	Gillo Pontecorvo
+2T60111	Foreign Films	3	Which 2018 film stars Ah-in Yoo, Steven Yeun and Jong-seo Jun?	Never Look Away	Birds of Passage	The Guilty	Burning
+389845	Foreign Films	3	In the 2006 film "Little Red Flowers", Qiang led a rebellion among the members of what?	His Cricket Team	His Church	His Family	His Kindergarten Class
+459803	Foreign Films	3	In what city does the 1957 film "Nights of Cabiria" take place?	London	Paris	Munich	Rome
+459945	Foreign Films	3	Although nominated for Academy Awards in 1975, which Oscar did the 1973 film "Day for Night" win in 1974?	Best Actress In A Supporting Role	Best Director	Best Writing, Original Screenplay	Best Foreign Language Film
+4T60107	Foreign Films	3	From what country is the 2010 film, "The Edge" from?	Switzerland	Vietnam	Japan	Russia
+389843	Foreign Films	3	Which 2006 Spanish coming-of-age film was directed by Antonio Banderas?	Shall We Dance	Blessed By Fire	Paprika	Summer Rain
+459879	Foreign Films	3	Who co-wrote, with Roberto Rossellini, the story and screenplay for the 1954 film "Journey To Italy"?	Anna Proclemer	Paul Muller	Anthony La Penna	Vitaliano Brancati
+459814	Foreign Films	3	Who played the titular character, Ferdinand 'Pierrot' Griffon, in the 1965 French film "Pierrot Le Fou"?	Jean Renoir	Jean-Luc Godard	Jean-Claude Batiste	Jean-Paul Belmondo
+459938	Foreign Films	3	How many Academy Award nominations did the 1981 film "Das Boot" receive?	Four	Two	Eight	Six
+459921	Foreign Films	3	Who directed the 1959 French film "The 400 Blows"?	Jean-Luc Godard	Jean-Pierre Melville	Francois Ozon	Francois Truffaut
+389838	Foreign Films	3	The 2005 French Canadian film "C.R.A.Z.Y." was the story of four brothers, set in which decade?	The 1790's	The 1920's	The 1890's	The 1970's
+459975	Foreign Films	3	Who co-wrote the story for the 1954 film "La Strada", along with Federico Fellini?	Giulietta Masina	Aldo Silvani	Dino De Laurentiis	Tullio Pinelli
+459817	Foreign Films	3	The 1960 film "Rocco And His Brothers" takes place in which country?	France	Great Britain	Spain	Italy
+459809	Foreign Films	3	The film "The Discreet Charm of the Bourgeoisie" won the Best Foreign Language Film award at which event?	Golden Globes	Cannes Film Festival	Bafta Awards	Academy Awards
+459937	Foreign Films	3	The U-Boat models used in the 1981 film "Das Boot" were later re-used in which film?	The Abyss	The Hunt For Red October	Lifeboat	Raiders Of The Lost Ark
+459933	Foreign Films	3	What military conflict was occurring during the events in the 1966 film "The Battle of Algiers"?	Korean War	World War Ii	Spanish Civil War	Vietnam War
+459798	Foreign Films	3	The 1937 French film "La Grande Illusion" starred which actor?	Jean Renoir	Max Von Sydow	Jean-Claude Batiste	Jean Gabin
+389836	Foreign Films	3	In the 2006 German film "Grave Decisions", where does 11-year-old Sebastian believe he is headed?	College	Prison	His Grandmother's House	Purgatory
+460005	Foreign Films	3	The 2006 film "Pan's Labyrinth" was nominated for an Oscar for Best Foreign Language Film; which film won?	Pan's Labyrinth	After The Wedding	Water	The Lives Of Others
+459871	Foreign Films	3	What is One's former profession in the 1995 film "The City Of Lost Children"?	Detective	Priest	Soldier	Whale Hunter
+459887	Foreign Films	3	Which actor does the narration for the 1991 film "Zentropa"?	Gerard Depardieu	Sean Connery	Peter O'toole	Max Von Sydow
+459874	Foreign Films	3	Who directed the 1954 film "Journey To Italy"?	Ingmar Bergman	Federico Fellini	Luchino Visconti	Roberto Rossellini
+459946	Foreign Films	3	Who directed the 1989 film "The Cook, The Thief, His Wife & Her Lover"?	Lars Von Trier	Wim Wenders	Werner Herzog	Peter Greenaway
+459866	Foreign Films	3	In which area is the 1955 film "Pather Panchali" set?	Turkey	Egypt	Saudi Arabia	Bengal
+459800	Foreign Films	3	Which film does Woody Allen refer to as "the finest film ever made"?	Casablanca	The Seventh Seal	Gone With The Wind	La Grande Illusion
+389854	Foreign Films	3	Who was Kyoji having an affair with in "Invisible Waves"?	His Ex-Wife	His English Professor	His Brother's Nanny	His Boss' Wife
+459812	Foreign Films	3	Who wrote the 1965 French film "Pierrot Le Fou"?	Jean-Paul Belmondo	Anna Karina	Graziella Galvani	Jean-Luc Godard
+459979	Foreign Films	3	Akira Kurosawa titled his 1985 film "Ran". What is the English translation of the title?	Glory	Peace	Power	Chaos
+459888	Foreign Films	3	Who was co-writer for the 1991 film "Zentropa", along with Lars von Trier?	Hans Gruber	Udo Kier	Erno Muller	Niels Vorsel
+2T60120	Foreign Films	3	Who directed the film, "The Great Beauty?	Bong Joon-ho	Nikolaj Arcel	Susanne Bier	Paolo Sorrentino
+389849	Foreign Films	3	Which 2005 Japanese film featured demon-slayer Izumo falling in love with demon Tsubaki?	Blessed By Fire	Grave Decisions	Prague	Ashura
+459982	Foreign Films	3	Set in the American West, in what country was the 1966 film "The Good, the Bad and the Ugly" filmed?	Mexico	Italy	Portugal	Spain
+459816	Foreign Films	3	Who directed the 1960 film "Rocco And His Brothers"?	Federico Fellini	Luciano Pavarotti	Renato Salvatori	Luchino Visconti
+4T60103	Foreign Films	3	From what country is the 2010 film, "The Concert" from?	Norway	China	Japan	France
+459797	Foreign Films	3	During what historical period is the 1937 film "La Grande Illusion" set?	The French Revolution	The Napoleonic Wars	The American Civil War	World War I
+23IN2993	Foreign Films	3	What was awarded the Palme d'Or at the 2018 Cannes Film Festival?	BlacKkKlansman	Everybody Knows	The White Ribbon	Shoplifters
+459923	Foreign Films	3	What is the name of Antoine's friend in the 1959 French film "The 400 Blows"?	Julien	Jean-Pierre	Albert	Rene
+460037	Foreign Films	3	In what country was the 1965 film "For a Few Dollars More" filmed?	USA	Italy	Mexico	Spain
+460014	Foreign Films	3	Which actor portrayed Adolf Hitler in the 2004 film "Downfall"?	Bruno Kirby	Ulrich Matthes	Heino Ferch	Bruno Ganz
+459876	Foreign Films	3	What city is the setting for the 1954 film "Journey To Italy"?	Rome	Sicily	Venice	Naples
+394800	Foreign Films	3	In the 2007 Mexican film "Bad Habits", what did Matilde believe she had to do to save the world?	Stop Speaking	Never Sleep	Wander The Desert	Starve Herself
+459961	Foreign Films	3	Who directed the 2009 film "3 Idiots"?	Francois Ozon	Lars Von Trier	Hayao Miyazaki	Rajkumar Hirani
+4T60111	Foreign Films	3	From what country is the 2010 film, "I Am Love" from?	Malta	Cambodia	Japan	Italy
+459853	Foreign Films	3	In what category did the 1980 film "The Last Metro" receive its only Academy Award nomination?	Best Director	Best Screenplay	Best Cinematography	Best Foreign Language Film
+389837	Foreign Films	3	In the 2006 French film "Four Stars", where does Franssou go when she inherits a large sum of money?	New York City	The North Pole	The Amazon Rainforest	The French Riviera
+459813	Foreign Films	3	The 1965 film "Pierrot Le Fou" was directed by Jean-Luc Godard. To what phrase does "Le Fou" translate?	The Just	The Quick	The Loner	The Madman
+459936	Foreign Films	3	Who directed the 1981 film "Das Boot"?	Werner Herzog	Henri-Georges Clouzot	Bernardo Bertolucci	Wolfgang Petersen
+389766	Foreign Films	3	In what country is the 2005 movie "House of Sand", directed by Andrucha Waddington, set?	Portugal	Colombia	Cuba	Brazil
+389768	Foreign Films	3	In what 2005 film does Tomas Stockman leave his TV job to produce bottled water with his brother?	Insomnia	Breaking The Waves	Blue Swallow	An Enemy Of The People
+460055	Foreign Films	3	Out of the four Best Director nominations Fellini received from the Academy Awards, how many did he win?	One	Two	Three	Zero
+459987	Foreign Films	3	Along with Sergio Leone and Dario Argento, who co-wrote the 1968 film "Once Upon a Time in the West"?	Ennio Morricone	Roberto Rossellini	Dino De Laurentiis	Bernardo Bertolucci
+459867	Foreign Films	3	Who directed the 1955 film "Pather Panchali"?	Federico Fellini	Ingmar Bergman	Kanu Bannerjee	Satyajit Ray
+459815	Foreign Films	3	In which location does the 1965 film "Pierrot Le Fou" begin?	Calais	Cannes	Algeria	Paris
+2T60126	Foreign Films	3	Who directed the 2010 film,, "Biutiful?	Celine Sciamma	Houda Benyamina	Pedro Almodovar	Alejandro González Iñárritu
+459820	Foreign Films	3	Rocco is Italian in the film "Rocco And His Brothers"; what nationality is the actor that played him?	British	German	American	French
+459802	Foreign Films	3	What was the profession of the character Cabiria in the 1957 film "Nights of Cabiria"?	Movie Star	Accountant	Singer	Prostitute
+504861	Foreign Films	3	Roman Polanski's "Venus in Fur" was made in which country?	Italy	USA	Netherlands	France
+459909	Foreign Films	3	Irene Jacob won the Best Actress prize for the 1991 film "The Double Life of Veronique" at which event?	Academy Awards	Golden Globes	Vienna Film Festival	Cannes Film Festival
+459880	Foreign Films	3	Who directed the 1987 German film "Wings Of Desire"?	Werner Herzog	Lars Von Trier	Ingmar Bergman	Wim Wenders
+459924	Foreign Films	3	Francois Truffaut received a Best Director award for his 1959 film "The 400 Blows" at which event?	Academy Awards	Golden Globes	Vienna Film Festival	Cannes Film Festival
+2T60122	Foreign Films	3	Who directed the 2011 film,, "A Separation?	Sebastian Lelio	Joseph Vilsmaier	Lulu Wang	Asghar Farhadi
+459875	Foreign Films	3	Who played the character Katherine Joyce in the 1954 film "Journey To Italy"?	Ingmar Bergman	Bette Davis	Lana Turner	Ingrid Bergman
+2T60079	Foreign Films	3	What country is the film "Corpus Christi" from?	Mexico	Italy	South Korea	Poland
+459795	Foreign Films	3	What was the profession of Toshiro Mifune's character in the 1961 film "Yojimbo"?	Gunfighter	Monk	Executioner	Samurai
+459906	Foreign Films	3	Who directed the 1991 French film "The Double Life of Veronique"?	Jean-Pierre Jeunet	Francois Ozon	Jean-Luc Godard	Krzysztof Kieslowski
+459952	Foreign Films	3	Which of the samurai in the 1954 film "Seven Samurai" is the first to die?	Kikuchiyo	Kambei	Shichiroji	Heihachi
+2T60127	Foreign Films	3	Who directed the 2010 film, "In a Better World ?	Alexei Uchitel	Paul Verhoeven	Hirokazu Kore-eda	Susanne Bier
+459791	Foreign Films	3	Who wrote and directed the 1961 film "Yojimbo"?	Toshiro Mifune	Ishiro Honda	Akira Takarada	Akira Kurosawa
+459792	Foreign Films	3	The 1961 film "Yojimbo" starred which actor?	Akira Kurosawa	Akira Takarada	Momoko Kochi	Toshiro Mifune
+459901	Foreign Films	3	Who directed the 1954 French film "Les Diaboliques"?	Jean Renoir	Francois Truffaut	Francois Ozon	Henri-Georges Clouzot
+4T60131	Foreign Films	3	From what country is the 2015 film, "Son of Saul" from?	France	Egypt	Brazil	Hungary
+459978	Foreign Films	3	Although nominated for four Academy Awards, the 1985 film "Ran" only won one Oscar in which category?	Best Art Direction-Set Decoration	Best Cinematography	Best Director	Best Costume Design
+2T60090	Foreign Films	3	Which is a Spanish crime thriller about a businessman framed for the murder of his married lover?	Sweet Dreams	Cloud Atlas	Veronica	The Invisible Guest
+459877	Foreign Films	3	What is the name of Katherine Joyce's husband in the 1954 film "Journey To Italy"?	Brian	John	David	Alexander
+389833	Foreign Films	3	What prominently featured Hong Kong business gave its name to the 2006 film "Dragon Tiger Gate"?	A Nightclub	A Restaurant	A Gallery	A Martial Arts School
+2T60098	Foreign Films	3	Which film is about a 12-year-old from Beirut, who is serving a five-year prison sentence?	Red Road	Persepolis	Bacurau	Capernaum
+459919	Foreign Films	3	How many Academy Award nominations did the 1982 film "Fanny And Alexander" receive?	Eight	Four	Two	Six
+459849	Foreign Films	3	Who wrote the novel that the 2008 film "Ashes of Time (Redux)" was based on?	Kar Wai Wong	Joey Wang	Li Bai	Louis Cha

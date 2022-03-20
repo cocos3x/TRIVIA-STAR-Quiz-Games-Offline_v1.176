@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1597b95ae75a4f4389ae2df955307720
+timeCreated: 1647776328
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "AvenirNext-DemiBold"
+  fontNames:
+  - Avenir Next
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

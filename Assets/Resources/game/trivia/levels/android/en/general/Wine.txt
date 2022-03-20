@@ -1,0 +1,437 @@
+0DIF405	Wine	0	How many bottles come in a case of wine?	Three	Twenty	Eight	Twelve
+0DIF419	Wine	0	The most common type of wine is made from fermenting which of these fruits?	Apricots	Cherries	Blueberries	Grapes
+0DIF403	Wine	0	Which of these is not a region for growing wine?	Napa California	Bordeaux France	Tuscany Italy	Northern Alaska
+0DIF402	Wine	0	Which of these is a red wine?	Chardonnay	Pinot Grigio	Sauvignon Blanc	Merlot
+0DIF416	Wine	0	Wine that has had additional alchohol added is called which of the following?	Emboldened wine	Power wine	Aromatized wine	Fortified wine
+416777	Wine	0	What is the primary characteristic of a dessert wine?	Deep Color	Alcohol Content	Bubbles	Sweetness
+0DIF407	Wine	0	Wine is traditionally aged in which of the following containers?	Buckets	Silos	Tankards	Casks
+0DIF406	Wine	0	What is the name of the bottle size twice as large as a standard bottle?	Goliath	Solomon	Midas	Magnum
+0DIF404	Wine	0	What is the name of the Greek god of wine?	Ares	Zeus	Poseidon	Dionysus
+0DIF418	Wine	0	Which of these can not be fermented into wine?	Grapes	Plums	Cherries	Almonds
+0DIF408	Wine	0	Which type of wine is traditionally recommended alongside Fish?	Dessert	Red	Plum	White
+0DIF411	Wine	0	How many glasses of wine are there in a standard bottle?	Two	Four	Three	Six
+0DIF420	Wine	0	The sparkling wine most commonly used for celebrations and toasts comes from which region of France?	Bordeaux	Lorraine	Provence	Champagne
+0DIF412	Wine	0	What do you call a wine expert that serves patrons?	Boulanger	Wine Master	Sifu	Sommelier
+0DIF415	Wine	0	Which of these terms describes the act of pouring wine between two containers?	Chaptalization	Fermentation	Filtration	Decantation
+0DIF401	Wine	0	Which of the following is a white wine?	Pinot Noir	Cabernet Sauvignon	Merlot	Pinot Grigio
+0DIF414	Wine	0	Which of these is the term used for a wine merchant?	Boulanger	Marchande	Poissonier	Vintner
+416427	Wine	1	In wine-speak, what is the opposite of dry?	Sec	Still	Crisp	Sweet
+489415	Wine	1	With the exception of sparkling wines, a "dry" wine has very little what?	Grapes	Acid	Flavor	Sugar
+489357	Wine	1	Riesling grapes are grown primarily in what country?	Brazil	China	Nepal	Germany
+489375	Wine	1	What is the French term for "dry"?	Still	Limou	Deste	Brut
+416709	Wine	1	What causes champagne to have bubbles?	Bicarbonates	Baking Soda	Calcium	Carbon Dioxide
+489388	Wine	1	What color are the grapes used to make white wine?	White	Pink Or Pale Blue	Red Or Purple	Green Or Yellow
+402615	Wine	1	What term refers to the acid content or acid level of a wine?	Balance	Body	Complexity	Acidity
+489422	Wine	1	What predominant flavor might a "green" wine have?	Sweet	Flowery	Oaky	Tart
+489575	Wine	1	What fortified wine is a key ingredient in martinis?	Marsala	Sherry	Port	Vermouth
+416769	Wine	1	European wines tend to be classified by what criteria?	Age	Grape	Country	Region
+489572	Wine	1	What Italian wine is commonly bottled in squat bottles encased in a straw basket?	Prosecco	Montepulciano	Asti Spumante	Chianti
+489398	Wine	1	Who places the most importance on a wine's vintage?	Wine Shop Owners	College Students	Americans	Wine Connoisseurs
+0DIF409	Wine	1	What do you call the streaks on the side of the glass when drinking wine?	Tracks	Runways	Wings	Legs
+489559	Wine	1	Wine can be generally defined as the fermented juice of what fruit?	Apples	Oranges	Tomatoes	Grapes
+489351	Wine	1	What punch is made with wine and citrus juices?	Triple Sec	Amaretto Sour	Apple Cider	Sangria
+489612	Wine	1	Dry fortified wines are best served as aperitifs to stimulate what?	Conversation	The Economy	Growth	Appetite
+489390	Wine	1	What is the most important wine-making region in France?	Ausbruch	Pinot Noir	Baume	Bordeaux
+489348	Wine	1	Champagne is considered what type of wine?	Table Wine	Fortified Wine	Aperitif	Sparkling Wine
+489420	Wine	1	If there is no cork in your wine bottle, you may be dealing with which of these?	A Pop Off	Some Wadded Paper	A Tin Lid	A Screwcap
+489613	Wine	1	Volatile compounds released from the wine into the air result in what?	Bubbles	Salts	Free Radicals	Aroma
+489435	Wine	1	Which wine is referred to as "blush"?	Red	White	Champagne	Rose
+402651	Wine	1	What is the process by which wine is exposed to air to "relax" the drink?	Harvest	Cultivation	Rise	Aeration
+0DIF413	Wine	1	Which of these is not a French wine?	Merlot	Cabernet Sauvignon	Syrah	Zinfandel
+489406	Wine	1	What term indicates the year in which a wine's grapes were harvested?	Trunk Rings	Quality	Asture	Vintage
+341007	Wine	1	A wine that contains 75%-85% of a predominant grape are called what?	Blended Wine	Fermented	Red	Varietal
+227990	Wine	1	Vin de Table is the French designation for what kind of wine?	Blended Wine	Sparkling Wine	Red Wine	Ordinary Table Wine
+489373	Wine	1	Where is wine typically aged?	A Bowl	A Keg	A Cauldron	A Barrel
+489588	Wine	1	What term is the opposite of "sweet" when referring to wine?	Tart	Sour	Spicy	Dry
+0DIF417	Wine	1	A 'Midas' size bottle of wine contains how many standard bottles?	Seven	Ten	Three	Fourty
+489531	Wine	1	Catholic priests in Argentina planted vineyards next to the monasteries to assure what?	Good Attendance At Mass	An Income Stream	An Interesting Hobby	A Supply Of Sacramental Wine
+489560	Wine	1	What is the most well known product of the Champagne region?	Truffles	Handkerchiefs	Linen	Champagne
+489380	Wine	1	What is the predominant grape in German wine-making?	Pinot Noir	Muller-Thurgau	Silvaner	Riesling
+489458	Wine	1	Port wine takes its name from which Portuguese city?	Douro	Lisbon	Madeira	Oporto
+402630	Wine	1	What term refers to the flavor of the wine in the mouth?	Balance	Nose	Acidity	Palate
+402634	Wine	1	Approximately how many glasses of wine can be made from one cluster of grapes?	10	16	22	1
+489583	Wine	1	In Greek mythology, who is the god of wine?	Mars	Bacchus	Pan	Dionysus
+489470	Wine	1	Generally, what kind of wine is most associated with Italy?	White	Sparkling	Port	Red
+375355	Wine	1	What country set the standards for wine production around the world?	Germany	Italy	Spain	France
+489483	Wine	1	Which state produces 89% of all wine produced in the U.S.?	Michigan	New York	Washington	California
+489434	Wine	1	What does it mean if a wine is "brut"?	It's Sweet	It Has Bold Flavor	It's Dark Red	It's Dry
+489543	Wine	1	What country is home to the Appellation d'Origine Controlee (AOC)?	Germany	USA	Australia	France
+402623	Wine	1	What is another word for a champagne glass?	Horn	Oboe	String	Flute
+402629	Wine	1	In California, what is a wine made from Chardonnay grapes called?	Merlot	Champagne	Riesling	Chardonnay
+416754	Wine	1	What do you call wines that are named for their grape?	Blended Wines	White Wines	Champagnes	Varietal Wines
+489408	Wine	1	The amount of time that a flavor lingers can be described as a wine's what?	Height	Width	Diameter	Length
+489474	Wine	1	What U.S. state produces more wine than any other?	Oregon	New York	Michigan	California
+402656	Wine	1	What is the California region called that is famous for their wine production?	Narda Valley	Natcha Valley	Nally Valley	Napa Valley
+489657	Wine	1	What type of wine is labeled "vin de table" in France?	Sparkling Wine	Rose	Bordeaux	Table Wine
+489581	Wine	1	If the style of wine is "still", what does that mean?	It Has Bubbles	It Is More Than 10 Years Old	It Costs More Than $50 Per Bottle	It Is Not Sparkling
+489580	Wine	1	A "sparkling" wine is generally characterized by what?	Diamonds	Foam	Blueish Color	Carbonation
+489414	Wine	1	What term refers to the wine's aroma?	Body	Texture	Tannin	Bouquet
+489561	Wine	1	If a wine is not clear, what is it?	Citrusy	Chewy	Complex	Cloudy
+0DIF410	Wine	1	What does the vintage date refer to?	The year the wine was bottled	The current year	One year ago	The year the grapes were harvested
+416738	Wine	2	What country's wine regulatory system is called the Denominazione di Origine Controllata (DOC)?	Spain	Portugal	Argentina	Italy
+416728	Wine	2	What country produces Sauternes?	Italy	Hungary	Germany	France
+402628	Wine	2	Wine with hints of dry leaves, forest or mushrooms would be described as what?	Spicy	Floral	Fruity	Earthy
+402620	Wine	2	How much wine is in a magnum?	1 Gallon	2 Liters	100 Ounces	1.5 Liters
+489576	Wine	2	Whose purification process saved the French wine industry and killed active yeast in beer?	Marie Curie	Linus Pauling	Joseph Lister	Louis Pasteur
+489621	Wine	2	What kind of wine is used to produce pink champagne?	White	Red	Blush	Rose
+258970	Wine	2	What is added to wine to create a "fortified wine"?	Tannins	Vitamins	Flavoring	Alcohol
+489372	Wine	2	Which of these is a sweet wine that has been fortified with grape spirits?	Merlot	Puncheon	Champagne	Port
+489611	Wine	2	What is the term for the act of pouring a wine into a special container so that it can breathe?	Uncorking	Fermenting	Acidation	Decanting
+489378	Wine	2	What grape is often simply referred to as "Cab"?	Cabernet Franc	Pinot Noir	Sauvignon Blanc	Cabernet Sauvignon
+489499	Wine	2	About 25% of wine plantings in Germany are what kind of grape?	Cabernet Sauvignon	Pinot Noir	Sauvignon Blanc	Reisling
+402614	Wine	2	What do you call a Champagne made entirely from Chardonnay grapes?	Chardonnay Blanc	Chardonnay Champagne	Champagne Blanc	Blanc De Blanc
+153124	Wine	2	How many gallons of wine do Mexicans drink each year, per person, on average?	1 Gallon	2 Gallons	10 Gallons	Less Than 1/2 Gallon
+218243	Wine	2	Spain is famous for which fortified wine?	Porto	Madeira	Marsala	Sherry
+402654	Wine	2	Almost all wine produced in Germany is what kind?	Red	Sparkling	Dry	White
+489570	Wine	2	Non-European wines tend to be classified by what criteria?	Region	Country	Vintage	Grape
+489630	Wine	2	In following Italian etiquette, what kind of wine would you bring to the host of a party?	Poor Quality	High Quantity	Do Not Bring Wine	Good Vintage
+489518	Wine	2	What is another name for Pinot Grigio?	Pinot Noir	Pino Blanct	Pinot Villa	Pinot Gris
+489640	Wine	2	What country was the #1 per capita consumer of wine in 2014?	Australia	New Zealand	Sweden	France
+402638	Wine	2	What do you call Italian wines that do not have the DOC on their labels?	Sub-Par	Bicenti	Rollo	Vino Da Tavola (Table Wine)
+218187	Wine	2	From what does Vouvray take its name?	The Winery	The Winemaker	A Region In France	The Village Of Vouvray
+402644	Wine	2	A Spanish wine cellar might also be referred to as what?	Bouquet	Brix	Cabana	Bodega
+489425	Wine	2	Which of these is a white varietal?	Cabernet Sauvignon	Pinot Noir	Syrah	Riesling
+489515	Wine	2	What variety of wine is produced by using frozen grapes?	Snow Wine	Icicle Wine	Christmas Wine	Ice Wine
+489484	Wine	2	Why is it wise to decant most commercial brands of wine prior to consuming?	It Is Accepted As Proper Etiquette	It Allows Full Enjoyment Of Color	It Shows Fine Taste	It Allows The Wine To Breathe
+416774	Wine	2	French winemakers do not filter their wines because they feel the particles add to what?	The Wine's Flavor	The Wine's Color	The Wine's Cost	The Wine's Character
+402639	Wine	2	Vanilla and "toast" flavors in Chardonnay are owing to what?	Steel Barrels	The Growing Region's Soil	The Time Of The Grape Harvest	Oak Barrels
+489649	Wine	2	What group founded the wine industry in the state of Rio Grande do Sul in southern Brazil?	French Merchants	Christian Crusaders	Spanish Royalty	Italian Immigrants
+489343	Wine	2	What country is the origin of many of the varietals grown in Chile?	Italy	Germany	Poland	France
+489569	Wine	2	Which of these groups uses wine to celebrate the Eucharist?	MADD	United Nations	The Green Party	Catholic Church
+402655	Wine	2	What term describes wine that runs down the side of a wine glass after swirling or sipping?	Meat	Light	Must	Legs
+489431	Wine	2	Why should the bottle be stored so that the wine touches the cork?	So The Cork Won't Get Stuck	So The Bottle Won't Leak	So The Wine Won't Turn To Vinegar	So That Air Cannot Enter The Bottle
+489523	Wine	2	What is the name of the rose made with Zinfandel grapes?	Beaujolais Noveau	Shiraz	Pinot Villa	White Zinfandel
+402647	Wine	2	What happens when wine stays "on the yeast"?	Champagne	Very Dry Wine	Dessert Wine	Fermentation
+489477	Wine	2	What caused the decline of interest in German wines in the 20th Century?	Blight	Economic Strife	Italian Wines	WWII
+402641	Wine	2	What happens if red wine is served chilled?	It Gets Too Sweet	It Develops A Salty Flavor	It Turns To Vinegar	Tannins Taste Bitter
+489371	Wine	2	A highly collectible wine has a proven track record of what?	Good Color	Name Recognition	Fermentation	Holding Well Over Time
+489386	Wine	2	What scientific phenomenon is responsible for the sugar in grapes?	Hydrology	Gravity	Relativity	Photosynthesis
+489578	Wine	2	The term "barnyard" with reference to wine refers to what?	The Size Of The Winery	A Rural Winery	The Blend Of Grapes	A Spoilage Aroma
+1239	Wine	2	What determines a wine's classification?	Color	Alcohol Content	Grapes Used	A Country's Regulations
+402650	Wine	2	How should an opened bottle of wine be stored?	Lying Flat	At A 45 Degree Angle	Inverted (Upside Down)	Standing Up
+402631	Wine	2	Why is France more known for its wines than Germany or Italy?	More Coastline	More Sunny Days	More Rivers	Diversity Of Climate
+402633	Wine	2	Wines produced outside the traditional European wine regions are referred to as what?	Vintage Wines	Inferior	Blends	New World Wines
+489544	Wine	2	What term refers to the measure of complexity in a wine?	Length	Texture	Balance	Depth
+416679	Wine	2	Sweet varieties of fortified wines are generally served as what?	Aperitifs	Accompaniments For Beef	Accompaniments For Cheese	Dessert Wines
+366432	Wine	2	In the United States, what determines where wine can be purchased?	Federal Law	County Ordinance	City Ordinance	State Law
+489412	Wine	2	In Australia, Syrah is known as what?	Malbec	Barbera	Grenache	Shiraz
+489644	Wine	2	What breakfast food lends its name to a wine taster's professional vocabulary?	Eggy	Cerealish	Omelety	Toasty
+402625	Wine	2	Where in Portugal are the grapes grown that are used to produce Madeira?	Lisbon	Oporto	Douro	Madeira
+416844	Wine	2	What term is used to describe wine that has a smooth taste?	Fresh	Crisp	Broad	Soft
+489370	Wine	2	At what temperature should Pinot Noir be brought to the table?	70 Degrees F	52 Degrees F	68 Degrees F	60 Degrees F
+416796	Wine	2	What is the source of tannin that is found in red wines?	Yeast	Sugar	Sea Salt	Grape Skins
+341006	Wine	2	What gets into a bottle of wine to oxidize it, rendering it undrinkable?	Fungus	Mold	Water	Air
+343509	Wine	2	What is the best way to deal with a broken cork when opening wine?	Remove It With Pliers	Shake The Bottle To Remove It	Break The Bottle Just Below The Neck	Push It Into The Bottle
+402649	Wine	2	Chile is best known for what kind of wine?	Champagne	White	Rose	Red
+489384	Wine	2	Burgundy is the English spelling for what region of France?	Burgundy	Brittany	Alsace	Bourgogne
+489350	Wine	2	In Spain, how long must a white wine be aged to qualify for the "crianza" designation?	2 Years	3 Years	4 Years	1 Year
+489516	Wine	2	Grappa is a type of what?	Sherry	Champagne	Port	Brandy
+402657	Wine	2	What word describes the act of maintaining grape vines and canopies?	Fixing	Slashing	Grating	Pruning
+489568	Wine	2	We will sell no wine before its time was what wine company's slogan?	Guinness'	Gallo's	Jack Daniels'	Paul Masson's
+489556	Wine	2	A wine that is easy to enjoy can be described as what?	Friendly	Responsible	Considerate	Approachable
+54281	Wine	2	Wine with hints of berries, cherries or apples would be described as what?	Spicy	Earthy	Floral	Fruity
+416788	Wine	2	Methode champenoise is a process used to make what kind of wine?	Port	Red Wine	Rose	Champagne
+294677	Wine	2	What is the term for the taste of a white wine with a too-high acid level?	Biting	Soft	Crisp	Coarse
+416691	Wine	2	In the wine world, what is a "bung"?	A Bottle	A Bottle Label	A Corkscrew	A Cork
+489376	Wine	2	The German wine region is primarily located along which river?	Danube	Oder	Meuse	Rhine
+489624	Wine	2	At what temperature does Pinot Noir reach its full bouquet?	52 Degrees F	72 Degrees F	48 Degrees F	65 Degrees F
+402619	Wine	2	What wine is used to make Chicken Marsala?	Madeira	Sherry	Port	Marsala
+416760	Wine	2	What color is White Zinfandel?	Red	White	Pale Yellow	Pink
+489421	Wine	2	What is the term for how white wines with a high acid level taste?	Still	Soft	Brut	Crisp
+416585	Wine	2	In France, how are wines named?	For The Grapes Used	For The Name Of The Winery	For The Finished Wine's Color	For The Vineyard's Locale/Region
+402659	Wine	2	What is the term for how white wines with a low acid level taste?	Still	Brut	Crisp	Soft
+489565	Wine	2	A wine's "vintage" refers to the year of what?	The Vines Were Planted	The Wine Was Bottled	The Wine Was Corked	The Grapes Were Grown
+489610	Wine	2	What is a science dedicated to wine and wine making called?	Psychology	Obology	Vinology	Oenology
+489631	Wine	2	What term refers to the impression of the wine's size and weight?	Balance	Bouquet	Nose	Body
+489340	Wine	2	Cabernet sauvignon is known as the king of red grapes; which varietal is known as the queen?	Barbera	Tempranillo	Zinfandel	Pinot Noir
+489354	Wine	2	What turns wine to vinegar?	Yeast	Salt	Sugar	Oxygen
+402632	Wine	2	What is another word for burnt wine?	Vodka	Rum	Tequila	Brandy
+489651	Wine	2	What is the source of the color that makes wine red?	Red Dye #4	Beets	Carmine	Grape Skins
+402636	Wine	2	What Biblical figure planted a vineyard and made wine?	Adam	Eve	Cain	Noah
+489635	Wine	2	What is the term for a wine expert that works in a fine restaurant?	Spatlese	Spumante	Stelvin	Sommelier
+402658	Wine	2	What gives red wine its character?	Sugar	Alcohol	Color	Tannin
+489359	Wine	2	Which region of Italy is the home of Chianti?	Veneto	Sicily	Sardinia	Tuscany
+489658	Wine	2	What is a wine bottle that holds 1.5 litres of wine known as?	Sterling	Mead	Flask	Magnum
+489377	Wine	2	Wine with hints of honeysuckle or violets would be described as what?	Sweet	Earthy	Spicy	Floral
+489582	Wine	2	What famous wine-producing region lies between Napa Valley and the Pacific Ocean?	San Francisco	Oakland	Berkley	Sonoma
+489365	Wine	2	What is the name for a small storeroom for storing foods or wines?	Mudroom	Kitchen	Attic	Pantry
+402642	Wine	2	What kind of grapes produce the world's best wines?	Gallant	Generous	Chivalrous	Noble
+489381	Wine	2	What is a blotchy skin reaction that some people get as a reaction to tannins?	Wine Rash	Wine Bloom	Wine Frost	Wine Blush
+489449	Wine	2	What grapes are native to Australia?	Sauvignon Blanc	Chardonnay	Cabernet Sauvignon	None
+416767	Wine	2	What is left in your mouth after swallowing wine?	Oenology	Tannins	Vinegar	Aftertaste
+489567	Wine	2	What is grape juice that has not been fermented?	Cant	Dust	Lust	Must
+416821	Wine	2	Alsace produces white wines using grapes commonly used in what other country's wines?	Italy	Spain	Switzerland	Germany
+341005	Wine	2	On a typical bottle of French wine, what do the letters "A.O.C." stand for?	Appreciation Of Chablis	Appellation Of Country	Authorized Original Controlee	Appellation D'origine Controlee
+489369	Wine	2	Where is all Champagne (capital "C") made?	Anywhere In France	Anywhere In The South Of France	Anywhere In North Of Paris	Champagne Region Of France
+98752	Wine	2	What term specifically describes the cultivation of grapes?	Volatile Culture	Horticulture	Nomenclature	Viticulture
+489498	Wine	3	From what does Chablis take its name?	A French Winemaker	The Type Of Grape Used	A French Castle	A French Village
+489549	Wine	3	India's wine grape harvest season takes place during which months?	May Through July	February Through September	June Through August	January Through March
+14225	Wine	3	A mineral flavor in a wine usually indicates the presence of what in the vineyard's soil?	Iron	Clay	Salts	Limestone
+489487	Wine	3	What is considered the queen of Sauternes?	Trockenbeerenauslese	Tokay	Vin Santo	Chateau d'Yquem
+416651	Wine	3	What do you call the traditional straw casing of a Chianti bottle?	A Stracca	A Rattano	A Bicento	A Fiasco
+489620	Wine	3	Which German wine region serves wine in 1/2-liter glasses called "Schoppen"?	Ahr	Baden	Mosel	Pfalz
+489465	Wine	3	What Italian wine is produced between Florence and Siena, the traditional heart of this wine?	Barolo	Lambrusco	Moscato	Chianti Classico
+489424	Wine	3	The "Grand Cru" system for classification of Bordeaux wine was published in which year?	1789, During The French Revolution	1914, At The Start Of WWI	1804, For Napoleon's Coronation	1855, For The Great Exhibition
+489596	Wine	3	How many liters are contained in a nebuchadnezzar?	12	11	16	15
+489539	Wine	3	In what type of container were the first traces of wine found in China?	Lidded Bronze Vessels	Clay Basins	Wooden Barrels	Pottery Jars
+489363	Wine	3	What winery, started in the 1930's by brothers Ernest and Julio, is based in Sonoma?	Korbel	St. Francis	Selby	Gallo
+489591	Wine	3	What kind of grape is most commonly used to make Swiss wine?	Sauvignon Blanc	Pinot Noir	Cabernet Sauvignon	Chasselas
+489473	Wine	3	What is the middle initial of Robert Parker, the author of "Wine Advocate"?	P	D	H	M
+402617	Wine	3	From which species do most major wine grapes come?	Vitis Labrusca	Vitis Labrusca/Vinifera Hybrid	Vitis Rotundifolia	Vitis Vinifera
+489410	Wine	3	Which word refers to the leaves on a grape vine?	Rooftop	Arms	Glass Ceiling	Canopy
+489645	Wine	3	What was the original source of the yeast required to make wine?	Bread	Mushrooms	Chamomile Leaves	Fungus On The Grape Skins
+489502	Wine	3	What term best describes Cabernet Sauvignon?	Medium Bodied	Light Bodied	Thin	Full Bodied
+489361	Wine	3	What kind of grapes are used to make Montrachet?	Chenin Blanc	Riesling	Cabernet Sauvignon	Chardonnay
+416686	Wine	3	Whose mother is credited with the creation of the Manhattan, a cocktail of sweet vermouth and whiskey?	Barack Obama	Napoleon	Rudy Giuliani	Winston Churchill
+489511	Wine	3	The Loire Valley is best known for what kind of wine?	Red	Champagne	Merlot	White
+489447	Wine	3	What causes banana flavors in wine?	Bananas	Hydrogen Sulfide	Jostling	Yeast Metabolism
+489469	Wine	3	What area of France is home to the Grenache grape?	Burgundy	Brittany	Alsace	The Rhone Valley
+489489	Wine	3	What is the second most widely planted white varietal in France?	Chardonnay	Pinot Grigio	Semillon	Sauvignon Blanc
+98750	Wine	3	Vin Doux Naturel is always offered as what?	An Aperitif	An Accompaniments For Beef	An Accompaniments For Cheese	A Dessert Wine
+58549	Wine	3	In what decade did Argentina begin exporting its wines?	1890's	1950's	1980's	1990's
+489403	Wine	3	What wine do most Americans associate with Italian-American restaurants?	Barolo	Lambrusco	Moscato	Chianti
+16065	Wine	3	What year was the first wine produced in Brazil?	1651	1751	1851	1551
+489407	Wine	3	How many regular-sized bottles of wine are contained in a magnum?	6	2.5	3	2
+489589	Wine	3	What step in methode champenoise results in the carbonation of champagne?	First Fermentation	Initial Pressing	Fortification	Second Fermentation
+416753	Wine	3	Most wine production in China is devoted to which varieties of wine?	Nihonshu Wine	Merlot	Chardonnay	Table Wines
+489563	Wine	3	What country produces Moscatel?	Switzerland	Australia	Germany	Portugal
+489492	Wine	3	Which wine-related term best describes Savignon Blanc?	Dry	Medium Dry	Sweet	Very Dry
+489486	Wine	3	In 1865, what did Mariani wine contain?	Chocolate	Morphine	Hashish	Cocaine
+489379	Wine	3	Though present in all, the acid level is most important in which wines?	Red	Blush	Fortified	White
+416597	Wine	3	What is the Indian wine known as "kallu" made from?	Red Grapes	Rice	Green Grapes	Palm Tree Sap
+489476	Wine	3	What do winemakers call the shape of the bottle used for Cabernet?	Slope-Shouldered	Narrow Neck	Long-Necked	High-Shouldered
+489391	Wine	3	In medieval Europe, where did French monks age wine?	In The Monastery	In The Cellar Of The Church	In The Church Bell Tower	In Caves
+416804	Wine	3	What term best describes Malbec?	Light Bodied	Full Bodied	Thin	Medium Bodied
+54277	Wine	3	Gewurztraminer grapes are grown most famously in what region of France?	Brittany	Centre	Limousin	Alsace
+489601	Wine	3	What Argentine province is the country's center of grape production?	Santa Cruz	Jujuy	Tierra Del Fuego	Mendoza
+489637	Wine	3	Approximately how many wines qualify for Italy's DOCG designation?	Over 300	Only 13	About 83	Over 30
+489459	Wine	3	What kind of wine is named for the village of Soave in Veneto?	Port	Sherry	Sparkling	White
+416701	Wine	3	What is the most famous winegrowing region covered by AOC rules?	Bordeaux	Bourgogne	Hermitage	Chateauneuf-du-Pape
+489550	Wine	3	When wines are served at "room temperature", to what room does this refer?	The Dining Room	The Kitchen	The Tasting Room	The Coolest Room In The House
+54279	Wine	3	When a bottle of wine is opened, what determines how long, if at all, it should be aerated?	The Aroma	The Vintage	The Color	The Taste
+416595	Wine	3	What is the name of China's oldest winery?	Shanxi Grace	Tasya	Huadong	Changyu
+489584	Wine	3	What country's grapes have the longest "hang-time" in the world?	France	Chile	Australia	Argentina
+416806	Wine	3	What is the most famous wine-producing region within Japan?	Okinawa Valley	Rural Shochu Region	Nihonshu Wine Region	Yamanashi Prefecture
+489648	Wine	3	Half of Mexico's vineyards are located in which region?	Aguascalientes	Queretaro	Baja	Sonora
+489402	Wine	3	Because of its subtle personality, what is the leading white wine grape?	Riesling	Chenin Blanc	Sauvignon Blanc	Chardonnay
+489608	Wine	3	Which of Germany's wines are the most legendary?	Red Wines	Sparkling Wines	Dry Wines	Dessert Wines
+416658	Wine	3	What is the best known American producer of Soave?	Gallo	Mondavi	Jackson Wine Estates	Bolla
+402621	Wine	3	Which of these is a fortified wine?	Cabernet Sauvignon	Pinot Noir	Sauterne	Marsala
+489463	Wine	3	What is the oldest wine-making region in the Americas?	Central America Region	Pacific Coastal Region	North American Region	Mexican Region
+416698	Wine	3	Why is white wine chilled before serving?	To Make It Richer	To Reduce The Alcohol Content	To Enhance The Alcohol Content	To Soften The Acidity
+489495	Wine	3	Which wine-related term best describes Pinot Blanc?	Very Dry	Medium Dry	Sweet	Dry
+489426	Wine	3	Of the millions of bottles of Chianti produced in Italy each year, how much of it is Chianti Classico?	10%	50%	90%	33%
+489639	Wine	3	All Champagne (capital "C") must be made by what process?	Charmat	Liquere De Tirage	D'Eloise Champagne	Methode Champenoise
+489401	Wine	3	What kind of wine is used to make Italian zabaglione?	Sherry	Port	Zinfandel	Marsala (Sweet)
+489396	Wine	3	China's vast vineyards total what percentage of the world's total?	4%	11%	18%	6%
+489647	Wine	3	What word describes a young and instantly drinkable wine?	Still	Brut	Mead	Nouveau
+489542	Wine	3	Tempranillo is indigenous to what country?	Italy	Portugal	France	Spain
+416837	Wine	3	What are the only countries that haven't suffered the devastating phylloxera (root louse)?	Argentina, Chile, Galapagos Islands	USA, Mexico, Canada	France, Germany, Spain	Argentina, Chile, Canary Islands
+489632	Wine	3	What is rated by the Bordeaux's cru classification system?	Wines	Winemakers	Individual Vintages	Vineyards
+282661	Wine	3	Why do most all of the Loire Valley wines lack oaky overtones?	Sugar Masks The Oak Flavors	Barrels Are Made Of Walnut	The Wine Is Aged In Glass Bottles	The Wine Is Aged In Steel Tanks
+489393	Wine	3	What do winemakers call the shape of the bottle used for Merlot?	Narrow Neck	Slope-Shouldered	Long-Necked	High-Shouldered
+489337	Wine	3	Burgundy is famous for what two grape varietals?	Chablis And Montrachet	Cabernet And Chardonnay	Chardonnay And Merlot	Pinot Noir And Chardonnay
+218198	Wine	3	A red wine made from gamay grapes grown in the Lyon region of France is called what?	Moselle	Amontillado	Bock	Beaujolais
+17100	Wine	3	What country is the largest wine producer in the Southern Hemisphere?	Australia	Brazil	Africa	Argentina
+416765	Wine	3	What is Chenin Blanc's signature?	Sweetness	Fruitiness	Dryness	Acidity
+416146	Wine	3	What term best describes Nebbiolo?	Light Bodied	Medium Bodied	Thin	Full Bodied
+489604	Wine	3	What is usually used to fortify a wine?	Port	Marsala	Sharry	Brandy
+489367	Wine	3	Wine will spoil if exposed to which of these?	Glass	Cold	Metal	Light
+489468	Wine	3	How many standard bottles of wine are contained in a nebuchadnezzar?	14	15	9	20
+489500	Wine	3	What term is used to describe wine that is flavor intensive?	Crisp	Dry	Soft	Broad
+489442	Wine	3	What wine is produced from red Sangiovese and Canaiolo grapes grown in Tuscany?	Barolo	Lambrusco	Moscato	Chianti
+489462	Wine	3	Which winery produced more wine than any other in 2005?	Riunite	Antinori	Concha Y Toro	Gallo Wines
+489628	Wine	3	A methuselah is equal to how many standard bottles of wine (red or white)?	7	6	6.5	8
+489655	Wine	3	Moderately sweet sparkling wines are called what?	Semi-Sec	Uni-Sec	Bruni-Sec	Demi-Sec
+415497	Wine	3	What is the most famous white wine made in Italy?	Riesling	Chianti	Zinfandel	Soave
+489617	Wine	3	What kind of grapes are used to make White Burgundy from the Cote de Beaune?	Cabernet Sauvignon	Chenin Blanc	Riesling	Chardonnay
+489336	Wine	3	The designation "Premier Cru Superieur" was created for which Sauternes wine?	Chateau Latour	Yarra Yering	Escarpment Winery	Chateau D'Yquem
+416598	Wine	3	Under French law, how many grades of wine are there?	5	6	8	3
+489347	Wine	3	What kind of wine is usually presented in a tall, slender bottle that is either green or brown?	Pinot Meunier	Pinot Noir	Cabernet Sauvignon	Riesling
+489472	Wine	3	What do winemakers call the shape of the bottle used for French Beaujolais?	High-Shouldered	Long-Necked	Narrow Neck	Slope-Shouldered
+402646	Wine	3	What is the translation of "Gewurztraminer"?	Long Life Wine	Good Brut Wine	Tradition Wine	Spicy Grape From Tramin
+489659	Wine	3	Which of the following vineyards can be found in Sonoma County?	Rutherford	Howell Mountain	Monterey	Chalk Hill
+489545	Wine	3	The white wine produced in Chateauneuf-du-Pape is a full-bodied alternative to what popular wine?	Pinot Gris	Zinfandel	Riesling	Chardonnay
+489461	Wine	3	What is the name of the part of the grape vine that is left from year to year?	Tail End	Stalk	Leaves	Cordon
+489607	Wine	3	Today, Grenache is most associated as a blending grape with what wines?	Zinfandels	Merlots	Muscadets	Cotes Du Rhone Wines
+489548	Wine	3	What is a French word that is used to describe a sweet wine?	Bouche	Pomme	Autobus	Doux
+489438	Wine	3	What is the designation for the highest-quality Spanish wines?	DOCA	DO	VCPRD	DO De Pago
+489503	Wine	3	According to legend, where did Japanese wine production begin?	Hokkaido	Kosyu	Tasaki	Yamanashi
+416779	Wine	3	When winemakers refer to "balance", what is balanced in the wine?	Sugar & Yeast	Sweetness & Dryness	Fruitiness & Depth	Acidity & Tannin
+489455	Wine	3	What region of Spain became world famous for its Bordeaux wines in the 19th century?	Jerez	Ribera Del Duero	Southern Valdepenas	Rioja
+489634	Wine	3	Though it produces several types, Argentina is renowned for what type of wine?	Sparkling	Chenin Blanc	Champagne	Red
+489629	Wine	3	The popular Chinese brand, China Great Wall Wine Co., Ltd., was founded in what year?	1984	1980	1975	1983
+489577	Wine	3	What is Chenin Blanc called in South Africa?	Chenin Blanc	Loire Blanc	Riesling	Steen
+349501	Wine	3	What organization developed regulations to establish the American Viticultural Areas (AVA)?	FDA	California Department Of Health	West Coast Wine Growers Assn.	BATF
+489338	Wine	3	What kind of grapes are used to make Meursault?	Cabernet Sauvignon	Zinfandel	Champagne Grapes	Chardonnay
+489643	Wine	3	Charmat is a process used to make what?	Port	Sherry	Chablis	Sparkling Wines
+416811	Wine	3	What kind of wine is Tuscan's Vin Santo?	Champagne	Port	Sherry	Dessert Wine
+281539	Wine	3	Chilean wineries are commonly referred to as what?	Casas	Mercados	Villas	Bodegas
+416674	Wine	3	Spain's Rioja region is best known for producing which type of wine?	White	Riesling	Chardonnay	Red
+489514	Wine	3	What grape is used to make most red Burgundies?	Cabernet Sauvignon	Cabernet Franc	Merlot	Pinot Noir
+489433	Wine	3	Liquere de tirage is used in the making of what kind of wine?	Port	Chablis	Sherry	Sparkling Wines
+55003	Wine	3	Young, undeveloped wines may be referred to as what?	Open	Down	Clothed	Closed
+489416	Wine	3	What region in Italy is the home to Prosecco sparkling wine?	Piedmont	Umbria	Abruzzo	Veneto
+489453	Wine	3	Germany has designated how many quality wine regions?	15	17	19	13
+415532	Wine	3	In the world of wine, what is the common term for "Botrytis cinerea"?	Skunk	De Visso	Fungus	Noble Rot
+416662	Wine	3	Beaujolais wine is produced in which French wine region?	Alsace	Loire Valley	Savoie	Burgundy
+489619	Wine	3	What is a white wine blended from two different kinds of grapes called?	Zinfandel	Spritzer	Bock	Edelzwicker
+489349	Wine	3	New World wines tend to be classified by what criteria?	Region	Quality	Age	Grape
+402622	Wine	3	From what does Madeira take its name?	A City In Spain	A Region of Italy	A Region In France	A Portuguese-Owned Island
+489466	Wine	3	Ancient Chinese began to grow grapes and make wines during what dynasty?	Tang	Ming	Yuan	Han
+299560	Wine	3	A Spanish Gran Reservas wine is how many years old?	Ten	Two	Twenty	Five
+489519	Wine	3	In what region of Italy is Chianti produced?	Piedmont	Veneto	Latium	Tuscany
+489445	Wine	3	What is the main red wine grape of the Rioja region of Spain?	Mourisco	Mazuelo	Graciano	Tempranillo
+416682	Wine	3	What 1990's Bordeaux vintage has been compared to the best vintages of all time?	1994	1993	1997	1995
+489526	Wine	3	Which of the following wine producers are not a famous Port house?	Graham	Fonseca	Dow's	Antinori
+489587	Wine	3	In which Japanese climate zone does most wine grape growing occur?	Equatorial	Semi-Arid	Mediterranean	Monsoonal
+218235	Wine	3	Which of these is a fortified wine?	Chardonnay	Chablis	Sauvignon Blanc	Sherry
+489541	Wine	3	What is the rule of thumb regarding how many glasses of Champagne are in one bottle?	Five	Ten	Eight	Six
+416601	Wine	3	What kind of wine is Vernaccia?	Sparkling	Sherry	Red	White
+489451	Wine	3	What famous wine is produced in the northwestern zone of Piedmont in Italy?	Chianti	Soave	Valpolicella	Barolo
+489507	Wine	3	What might a red wine lose if allowed to become too warm?	Alcohol Content	Aroma	Color	Fruitiness
+416846	Wine	3	What term best describes Pinot Noir?	Light Bodied	Full Bodied	Brut	Medium Bodied
+489345	Wine	3	What kind of wine is made with the Melon De Bourgogne varietal?	Cabernet Sauvignon	Sherry	Syrah	Muscadet
+489555	Wine	3	When the Grand Cru Classe system was published, how many wines were Premier Cru?	Twenty-One	None	Two Hundred And Twelve	Four
+489355	Wine	3	Wines serves "chambre" are served at what temperature?	46 Degrees F	Body Temperature	Chilled	Room Temperature
+489602	Wine	3	In Italy, what is the minimum amount of time all Barolos are aged?	Six Months	One Year	Five Years	Two Years
+489446	Wine	3	What is the average age of a French oak tree harvested to make wine barrels?	17 Years	70 Years	7 Years	170 Years
+489353	Wine	3	What grapes are used to make White Zinfandel?	White Zinfandel	Blush Zinfandel	Champagne Grapes	Red Zinfandel
+402637	Wine	3	Which region in Italy is home to the Montepulciano grape?	Lombardy	Umbria	Sicily	Abruzzo
+54253	Wine	3	What term is used to describe wine that is a little tart?	Dry	Soft	Broad	Crisp
+489450	Wine	3	What is often considered "a poor man's Chardonnay"?	Sauvignon Blanc	Muscadet	Pinot Gris	Pinot Blanc
+402648	Wine	3	Used for wine clarification, bentonite is a type of what?	Coal	Sugar	Honey	Clay
+489627	Wine	3	What is the name of the Spanish sparkling wine originating in the Catalonia region?	Cana	Caba	Cova	Cava
+416801	Wine	3	The largest Chinese vineyard is on the same latitude as which other wine-producing region?	America's Southern California	Northern Italy	Southern Brazil	South Of France
+489399	Wine	3	Which of these is a fortified wine?	Chardonnay	Sauterne	Tokay	Port
+218211	Wine	3	Ruby, "tawny," and "vintage" are all styple of what kind of wine?	Champagne	Madeira	Chablis	Port
+489586	Wine	3	Which region in Italy is home to the Negroamaro grape?	Liguria	Friuli-Venezia Giulia	Calabria	Puglia
+489441	Wine	3	What word describes the size of the bubbles in a glass of wine?	Bianco	Legs	Lees	Bead
+489626	Wine	3	What is the name of the city where the earliest wine was found in China?	Beijing	Xian	Canton	Jiahu
+489452	Wine	3	What country is noted for Madeira?	Italy	Spain	Greece	Portugal
+416689	Wine	3	What kind of grape is used to create Argentina's best wines?	Chardonnay	Lambrusco	Riesling	Malbec
+489524	Wine	3	What part of New Zealand is noted for its Cabernet Sauvignon grapes?	South Island	Otago	Tasman	North Island
+489609	Wine	3	Which region of Italy is the Nero d'Avola grape variety native to?	Umbria	Piedmont	Lombardy	Sicily
+489656	Wine	3	The Grenache varietal has it roots in what country?	France	Germany	Italy	Spain
+489358	Wine	3	Which wine-related term best describes Pinot Gris?	Dry	Medium Dry	Sweet	Very Dry
+54283	Wine	3	What is Italy's most famous fortified wine?	Sherry	Madeira	Vin Doux	Marsala
+54280	Wine	3	Napa Gamay is a clone of what red varietal?	Cabernet Sauvignon	Merlot	Zinfandel	Pinot Noir
+489509	Wine	3	What famous Rhone appellation resides in the Southern Rhone Valley?	Cote Rotie	Hermitage	Pauillac	Chateauneuf Du Pape
+489409	Wine	3	Where is "boutique" vini da tavola, made from French grapes, primarily produced?	Alsace	Brittany	Normandy	Tuscany
+489599	Wine	3	What country produces Vin Santo?	Spain	Portugal	Germany	Italy
+489653	Wine	3	What is the portion of wine that evaporates during the aging process called?	The Devil's Share	The Roman Share	The French Share	The Angel's Share
+489485	Wine	3	What Italian wine is associated with straw-wrapped bottles?	Barolo	Sangiovese	Lambrusco	Chianti
+489400	Wine	3	Where do the majority of Mexican wines come from?	Santo Tomas Valley	La Laguna Valley	Guadalupe Valley	Baja Peninsula
+489356	Wine	3	Which grape variety is considered the pride of Tuscany?	Dolcetto	Moscato	Montepulciano	Sangiovese
+489454	Wine	3	Which wine region is located in the Mexican states of Coahuila and Durango?	Zacatecas	Baja	Queretaro	Laguna
+489430	Wine	3	What is Chile's largest winery?	Cantena	Los Vascos	Casa Lapostolle	Concha Y Toro
+489392	Wine	3	Dry varieties of fortified wines are generally served as what?	Dessert Wines	Accompaniments For Beef	Accompaniments For Cheese	Aperitifs
+416839	Wine	3	In what region is most wine in Brazil produced?	Sao Paulo	Santa Catarina	Minas Gerais	Rio Grande Do Sul
+402624	Wine	3	Which of the following U.S. wineries is located in Oregon?	L'ecole No. 41	Leonetti Cellars	Chateau Ste. Michelle	Ponzi
+416638	Wine	3	What corporation owns America's Mondavi Wines?	Brown-Forman Corporation	Beringer Blass	The Wine Group	Constellation Brands
+489538	Wine	3	For what flavors are Alsace's Tokay Pinot Gris wines noted?	Pear & Fig	Cherry & Apple	Blackberry & Date	Peach & Banana
+489490	Wine	3	What dominates each of the winemaking zones in Italy?	A Vineyard	An Established Winemaker	A Particular Process	A Specific Varietal
+489395	Wine	3	What kind of noted wines come from Bordeaux in France?	Light Bodied, Sweet Whites	Full Bodied, Dry Whites	Light Bodied, Dry Reds	Full Bodied, Dry Reds
+54259	Wine	3	What is it in red wine that can trigger headaches in those prone to migraines?	Alcohol	Sulfer Dioxide	Yeast	Tannins
+489540	Wine	3	So as not to confuse it with French Gamays, what is the Gamay varietal called in California?	West Coast Gamay	California Gamay	Pinot Noir	Napa Gamay
+489501	Wine	3	In wine-speak, what is the opposite of sweet?	Sec	Still	Crisp	Dry
+489536	Wine	3	Which two regions of France are famous for their Grand Cru vineyards?	Burgundy And Loire	Alsace And Cotes De Rhone	Loire And Cotes De Rhone	Alsace And Burgundy
+48911360	Wine	3	Cooking wines almost always contain a high quantity of what mineral?	Zinc	Magnesium	Iron	Salt
+489615	Wine	3	Alsatian wines have a style and character that, instead of French, is more what?	Italian	Spanish	Swiss	German
+416631	Wine	3	Approximately how many calories are in a 6-ounce glass or wine (red or white)?	260	410	90	180
+489419	Wine	3	A jeroboam is equivalent to how many bottles of champagne?	3	2.5	1.5	2
+489616	Wine	3	In what country did Argentina's famous Malbec grapes originate?	Italy	Spain	Germany	France
+489394	Wine	3	Which prime time drama was centered around a wine growing family?	Dallas	Dynasty	Knots Landing	Falcon Crest
+402643	Wine	3	What country produces Tokay wines?	Italy	Spain	Germany	Hungary
+489497	Wine	3	Most Sauvignon Blancs have what two qualities?	Sweet & Crisp	Tart & Flinty	Bold & Fruity	Dry & Unoaked
+489529	Wine	3	If a Champagne is "sec", what does that mean?	It's Dry	It's Bubbly	It's Pink	It's Sweet
+489614	Wine	3	Who planted the first vineyards in Argentina in the 16th Century?	German Settlers	Local Farmers	French Settlers	Spanish Settlers
+489533	Wine	3	What is the capacity of a rehoboam?	2.5 Liters	3.0 Liters	4.0 Liters	4.5 Liters
+489552	Wine	3	What famous U.S. winery resides in Sonoma County, California?	Beringer	Chateau Montelena	Robert Mondavi	Chateau St. Jean
+489368	Wine	3	What region in Italy is home to Asti Spumante sparkling wine?	Lombardy	Umbria	Veneto	Piedmont
+489638	Wine	3	What is the popular Japanese Umeshu Wine flavored with?	Sweet potatoes And sugar cane	Corn	Wheat And Sweet Peach	Japanese plums
+402635	Wine	3	How is the grape juice still extracted today for the best port wines?	Cold Pressing	Oak Crushing	Maceration	Foot Treading
+489417	Wine	3	What do you call the traditional wine of Greece?	Merlot	Grapa	Ouzo	Retsina
+489464	Wine	3	Grapes are left on the vine and harvested late to create what kind of wine?	Dry Wines	Port	Champagne	Dessert Wines
+416785	Wine	3	What kind of grapes are used to make French Chablis?	Cabernet Sauvignon	Chenin Blanc	Sauvignon Blanc	Chardonnay
+489652	Wine	3	What does it mean if a wine is described as "alcooleux"?	From The Country Of Algiers	Non Alcoholic	Served Chilled	Containing Overwhelming Alcoholic Content
+416719	Wine	3	How long has a Barolo marked "riserva" been aged?	Two Years	Four Years	At Least One Year	More Than Five Years
+402627	Wine	3	Which wine is released annually on the third Thursday in November?	Bock	Zinfandel	Burgundy	Beaujolais Nouveau
+489341	Wine	3	What is the wine center of the Veneto region of Italy?	Rome	Florence	Siena	Verona
+416195	Wine	3	A jeroboam is equivalent to how many bottles of red wine?	3	2	3.5	4
+416684	Wine	3	What grape do experts feel is responsible for Argentina's best wines?	Barbera	Nebbiolo	Pinot Noir	Malbec
+489387	Wine	3	Who owns the majority of wineries producing fine wines in Brazil?	American Import Export Companies	French Operated Wineries	German Immigrant Communities	95% Family Owned
+489508	Wine	3	What wine-making region has been a sticking point between the French and Germans for centuries?	Brittany	Centre	Limousin	Alsace
+489475	Wine	3	What is the acronym for the regulatory system in Italy that sets the standards for winemaking?	AOC	VOC	COV	DOC
+416656	Wine	3	How are Alsatian wines named?	For The Region	For The Vineyard	For The Winemaker	For The Varietal
+54249	Wine	3	In 1978, Walter Schug was the winemaker at what winery?	Beringer	Chateau Montelena	Matanzas Creek	Joseph Phelps
+489335	Wine	3	Italy's Bertani and Bolla are two major producers of what wine?	Lambrusco	Chianti	Corvina	Valpolicella
+489623	Wine	3	How many regular bottles of wine (red or white) are contained in a rehoboam?	5	5.5	4.5	6
+489535	Wine	3	Riesling grapes ripen best in vineyards facing which direction?	East	North	West	South
+489479	Wine	3	What term best describes Merlot?	Light Bodied	Full Bodied	Crisp	Medium Bodied
+489352	Wine	3	What term best describes Syrah?	Light Bodied	Medium Bodied	Tart	Full Bodied
+416592	Wine	3	In the mid-1990's, from what three countries did the United States imported most of the wine?	Spain, Germany And Austria	France, Italy And Australia	Germany, France And Australia	Italy, France And Chile
+54286	Wine	3	Which of the following is not part of the common lingo used in describing a wine?	Barn Yard	Cat's Pee	Buttery	Funny
+489448	Wine	3	What term is used to describe a red wine that is high in tannin?	Crisp	Brut	Oaky	Firm
+306102	Wine	3	What grape is the basis for France's famous Vouvray and Anjou wines?	Chardonnay	Pinot Noir	Pinot Gris	Chenin Blanc
+402618	Wine	3	In what Def Leppard song do they say "I tasted mud and I tasted wine"?	Turn To Dust	Scar	Long, Long Way To Go	Demolition Man
+416832	Wine	3	Which Mexican winery is not part of "The Big Three"?	Vinos L.A. Cetto	Vinos Pedro Domecq	Bodegas De Santo Tomas	Casa De Piedra
+489364	Wine	3	What is very dry Madeira called?	Port	Cao	Duomi	Malmsey
+489432	Wine	3	The total worldwide production of wine in 2004 was how many thousand tons?	50	140	280	370
+489457	Wine	3	What is the only French wine typically consumed in the same year as its vintage?	Champagne	Chablis	Montrachet	Beaujolais Nouveau
+54264	Wine	3	From what country was the first wine imported into China?	United States	England	India	France
+402613	Wine	3	Why does Gewurztramine have a higher alcohol content than Chardonnay?	Alcohol Is Added	Sugar Is Added	Yeast Is Added	The Grapes Stay Longer On The Vine
+489636	Wine	3	What is another name for Elswein?	Sauterne	Chablis	Tokay	Ice Wine
+489493	Wine	3	Which term best describes Riesling?	Dry	Very Dry	Sweet	Medium Dry
+489654	Wine	3	In what is most Sauvignon Blanc fermented?	Aged Oak Barrels	New Oak Barrels	Glass Bottles	Steel Vats
+218210	Wine	3	Which red wine varietal is nicknamed the "King of Grapes"?	Merlot	Shiraz	Pinot Noir	Cabernet Sauvignon
+489525	Wine	3	What helps tone down the sweetness of a wine?	Bringing It To Room Temperature	Allowing The Hands To Warm The Glass	Letting It Breath	Chilling It
+489494	Wine	3	How many cases of wine did India export in 2006?	200,000 Cases	450,000 Cases	10,000 Cases	60,000 Cases
+489471	Wine	3	Which wine-growing region in France borders Germany?	Bordeaux	Cotes De Rhone	Savoie	Alsace
+54256	Wine	3	Carbonic Maceration is the primary way to produce what wine?	Amarone	Champagne	Napa Valley Cabernet Sauvignon	Beaujolais Nouveau
+489346	Wine	3	How much more wine does Argentina produce than Chile?	Three Times More	Ten Times More	Production Is Equal	Five Times More
+489382	Wine	3	The grape varietal Tempranillo made what wine producing country famous?	Chile	Germany	Italy	Spain
+489444	Wine	3	Sherry was originally produced in what region of Spain?	Catalonia	Aragon	Madrid	Andalusia
+98751	Wine	3	How many U.S. winemaking districts are designated by the AVA under U.S. law?	542	19	52	187
+489622	Wine	3	What do winemakers call dessert wines produced in the U.S.?	Tokays	Dessert Wines	Port	Late Harvest
+489488	Wine	3	The methode champenoise requires that wine ferment slowly in the bottle for at least how long?	One Month	Six Months	Two Years	One Year
+402616	Wine	3	What do you call an inexpensive cork-finished California varietal wine in a 1.5 liter bottle?	Jug	Magnum	Bolla	Fighting Varietal
+489566	Wine	3	Burgundy is best known for what kind of wines?	Red	White	Champagne	Red & White
+489574	Wine	3	What term best describes Cabernet Franc?	Light Bodied	Medium Bodied	Thin	Full Bodied
+489480	Wine	3	What does "Comun" mean when seen on a bottle of Brazilian wine?	Table Wine	Dry Wine	High Alcohol Wine	Wine From Hybrid Vines
+14226	Wine	3	What term is used to describe a red wine that is low in tannin?	Still	Broad	Mild	Soft
+489478	Wine	3	For what is the Nebbiolo grape named?	Late Summer Rains	The Vineyard Where It Originated	Surrounding Mountains	A Fog That Aids Its Ripening
+416766	Wine	3	What can be said about the grapes used in vintage Champagne?	They Were All Red Varietals	They Were All White Varietals	They Are Mixed Red & White	They're All Produced The Same Year
+54276	Wine	3	Throughout the 1990's, what famous wine's new release price was the most expensive in wine history?	Marc Colin Montrachet	Screaming Eagle Napa	Chateau Margaux Margaux	Domaine De La Romanee-Conti Romanee-Conti
+416786	Wine	3	What did Santiago del Estero first bring to Argentina in 1557?	Smallpox	Cork	Yeast	Grape Vine Cuttings
+489605	Wine	3	Which is the largest wine-growing region in Germany by area?	Palatinate	Baden	Wurttemberg	Rheinhessen
+489429	Wine	3	In "methode champenoise", how many times is the wine fermented?	Three Times	Once	Four Times	Twice
+489491	Wine	3	What country is South America's greatest grape producer?	Brazil	Venezuela	Chile	Argentina
+416664	Wine	3	What is a pale style of sherry that is consumed shortly after bottling?	Florid	Free Run	Pinot Noir	Fino
+489482	Wine	3	In which Australian wine region is the winery "Poets Corner" located?	Margaret River	Rutherglen	Barossa Valley	Mudgee
+489405	Wine	3	In 1998, what foreign winery became the largest importer of wine to the U.S.?	Italy's Antinori	France's Riunite	California's E&J Gallo	Chile's Concha Y Toro
+489456	Wine	3	What is the largest bottle of champagne called?	Magnum	Largesse	Pontiff	Nebuchadnezzar
+489597	Wine	3	How many distinct grape-growing areas are contained in Argentina's Mendoza province?	16	2	13	4
+416676	Wine	3	What is the most widely planted red grape in California?	Gamay	Pinot Noir	Cabernet Sauvignon	Zinfandel
+489564	Wine	3	What do you call the foil or plastic that covers the top of most wine bottles?	Cap	Linoise	Buffer	Capsule
+54268	Wine	3	Which U.S. best-selling wine is often referred to as "over-oaked" and "not food-friendly"?	Merlot	Cabernet Sauvignon	Pinot Noir	Chardonnay
+416757	Wine	3	What country is the origin of many of the varietals grown in Argentina?	France	USA	Germany	Italy
+54261	Wine	3	What is the U.S. system for classifying wines?	WVA	VCC	ABC	AVA
+489366	Wine	3	When is grappa traditionally enjoyed?	With Brunch	As An Aperitif	With Fish	After Dinner
+489537	Wine	3	What is the source of the intentional flavor elements in wine?	The Grapes	The Soil	The Added Flavorings	The Oak Casks
+489633	Wine	3	What is the most widely planted white varietal in France?	Pinot Blanc	Semillon	Pinot Gris	Chardonnay
+489404	Wine	3	Who is the major consumers of wine in India?	Middle Age Males	Married Women	Elder Men	Young Professionals
+489592	Wine	3	What Italian winemaking region is home to the Nebbiolo grape?	Latium	Tuscany	Veneto	Piedmont
+489527	Wine	3	In Spain, how long must a red wine be aged to qualify for the "crianza" designation?	1 Year	3 Years	4 Years	2 Years
+489585	Wine	3	What kind of grapes are used to produce the best of Germany's renowned dessert wines?	Sauvignon Blanc	Rulander	Cabernet Sauvignon	Reisling
+489646	Wine	3	How is the Grenache grape best described?	Delicate	Oaky	Figgy	Spicy
+489506	Wine	3	What is added to wine today to control the growth of natural bacteria from grape skins?	Sugar	Carbon Dioxide	Anti-Fungals	Sulfur Dioxide
+489517	Wine	3	What natural agricultural factors limit grape harvests in the Zacatecas region of Mexico?	Acidic Coastal Environment	Sparsely Oxidized High Altitude	Non-Indigenous Grape Genus Harvest	Very Low Annual Rainfall
+489460	Wine	3	What is very sweet Madeira called?	Celli	Port	Sherry	Rainwater
+489374	Wine	3	On "Northern Exposure", what priceless wine did Shelly break and replace with Eve's help?	1919 Latour	1924 Latour	1932 Latour	1929 Latour
+489481	Wine	3	What varietal is used to make Portugal's Barca Velha?	Silvaner	Rulander	Chenin Blanc	Tinta Roriz
+489411	Wine	3	In what region of France are Sauternes produced?	Normandy	Alsace	Brittany	Bordeaux
+402653	Wine	3	Which of these is a fortified wine?	Tokay	Pinot Noir	Pinot Gris	Madeira
+416703	Wine	3	What country is known for sherry?	Italy	France	Portugal	Spain
+489413	Wine	3	Which New York hotel boasts a suite with a 2000-bottle wine cellar?	Waldorf-Astoria	Morgan's	Hudson	Plaza
+489532	Wine	3	Who is the Roman god of wine?	Apollo	Zeus	Mars	Bacchus

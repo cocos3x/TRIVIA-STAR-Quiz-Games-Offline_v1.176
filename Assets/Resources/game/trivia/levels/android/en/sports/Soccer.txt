@@ -1,0 +1,916 @@
+477042	Soccer	0	Which soccer term is defined as "any player on the team that has possession of the ball"?	Goalmouth	Save	Clear	Attacker
+151968	Soccer	0	Which soccer term is defined as "a team that plays in a league"?	Trailing	Beat	Charge	Club
+151960	Soccer	0	Which soccer term is defined as "the team that has possession of the ball"?	Goalmouth	Marking	Net	Attacking Team
+0DIFSP223	Soccer	0	The targets at the end of each side of the field are known as what?	Basket	Endzone	Bank	Goal
+151974	Soccer	0	This soccer term is defined as "a kick awarded to a player for a foul committed by the opposition"?	Club	Attacker	Cap	Free Kick
+288730	Soccer	0	What is the nickname of the French national soccer team?	Footkickers	The French Kissers	Socceroos	Les Bleus
+96820	Soccer	0	What is the name of the top soccer league in Germany?	Sour Sox	Germanliga	Deutsch Boot	Bundesliga
+0DIFSP302	Soccer	0	How many teams are invited to participate in the World Cup?	600	76	3	32
+6E7036	Soccer	0	What color card in soccer means dismissal by a referee?	White	Blue	Green	Red
+0DIFSP319	Soccer	0	Choose the famous World Cup player:	H.P. Lovecraft	Dwayne Johnson	Peyton Manning	Pele
+0DIFSP229	Soccer	0	Every four years, which of these soccer events is played?	Stanley Cup	Super Bowl	Footies Championship	World Cup
+6E7024	Soccer	0	Of the 34 matches in the MLS Regular Season, how many are played away for a club?	29	12	15	17
+0DIFSP309	Soccer	0	Which country has won the most World Cups?	Canada	Egypt	North Korea	Brazil
+0DIFSP312	Soccer	0	Ronaldo, the second-highest goal scorer in World Cup history, played for what country?	Bulgaria	Pakistan	Morocco	Brazil
+151962	Soccer	0	Which soccer term is defined as "a type of kick that gives the ball a curved trajectory"?	Cap	Net	Striker	Banana Kick
+0DIFSP316	Soccer	0	A World Cup group with a lot of strong teams in it is often referred to the Group of....	Easy Pickings	Life	Fun	Death
+151969	Soccer	0	Which soccer term is defined as "the ricochet of a ball after it hits a player"?	Charge	Football	Back Header	Deflection
+0DIFSP221	Soccer	0	Soccer is the world's most popular what?	Dish	Artist	Board game	Sport
+6E7038	Soccer	0	Which MLS team plays home games in Chicago's Soldier Field?	Dodgers	Lakers	Red Bulls	Fire FC
+6E7018	Soccer	0	In soccer, when the ball leaves the field by the defense what kick is given?	Overhead Kick	Long Ball Kick	Free Kick	Corner Kick
+6E7012	Soccer	0	In soccer each team can have a minimum of how many players?	3 Players	22 Players	7 Players	11 Players
+6E7042	Soccer	0	How many panels are on a regulation soccer ball?	458 Panels	110 Panels	5 Panels	32 Panels
+0DIFSP313	Soccer	0	Which of these countries has NEVER been to the World Cup?	Brazil	Germany	England	Luxembourg
+0DIFSP236	Soccer	0	What happens when the referee shows a player the red card?	They lose their job	Their mother is called	They enter detention after the match	They are sent off the field
+0DIFSP224	Soccer	0	In many places in the world, which word is used instead of soccer?	Touchball	Kickball	Goalball	Football
+6E7044	Soccer	0	Which of these balls is bigger than a soccer ball?	Tennis Ball	Golf Ball	Cricket Ball	Basketball
+151963	Soccer	0	Which soccer term is defined as "to get the ball past an opponent by dribbling or shooting"?	Draw	Flick Header	Pitch	Beat
+151970	Soccer	0	What happens when a soccer game ends with a tied score?	Replay Game	Doesn’t Count	Lost Game For Both	Draw
+0DIFSP317	Soccer	0	If you wanted to visit a country that's hosted the World Cup, which country would you NOT go to?	Brazil	South Africa	Germany	China
+0DIFSP235	Soccer	0	How long is a professional soccer match?	10 minutes	3 hours	25 minutes	90 minutes
+0DIFSP222	Soccer	0	A soccer field is traditionally what shape?	Circle	Oval	Diamond	Rectangle
+0DIFSP226	Soccer	0	Which is the primary body part used to strike the ball?	Hips	Stomach	Chest	Feet
+151966	Soccer	0	Which soccer term is defined as "to run into an opponent"?	Goalmouth	Penalty Spot	Deflection	Charge
+151973	Soccer	0	This soccer term is defined as "name for soccer everywhere except in the US"?	Clear	Center	Yellow Card	Football
+6E7004	Soccer	0	DaMarcus Beasley was born in what country?	China	Japan	Mexico	USA
+0DIFSP240	Soccer	0	When one player kicks the ball directly to another player on their team, what is it called?	Lefty	Teamball	Friendship	Pass
+151967	Soccer	0	What soccer term is defined as "to kick the ball away from one's goal"?	Pitch	Save	Striker	Clear
+0DIFSP308	Soccer	0	The World Cup occurs every 4 years like what other sporting event?	The Super Bowl	Wrestlemania	The World Series	The Olympics
+0DIFSP318	Soccer	0	The next World Cup is taking place in 2022. When will the next World Cup afterwards be taking place?	2044	2023	2122	2026
+151987	Soccer	0	Which soccer term is defined as "running behind another player"?	Salking	Clearing	Capping	Trailing
+6E7028	Soccer	0	How many points does a club get for a tie in the MLS?	4 Points	3 Points	2 Points	1 Point
+0DIFSP230	Soccer	0	Which of these pieces of equipment is required to play a soccer game?	Helmet	Rollerskates	Chest guard	Shinguards
+0DIFSP239	Soccer	0	In soccer, a goal is worth how many points?	0	2	3	1
+0DIFSP234	Soccer	0	A standard soccer ball is which of these colors?	Yellow and Blue	Orange and Purple	Brown	Black and White
+0DIFSP238	Soccer	0	The person in charge of ensuring the rules are followed, and giving fouls is called what?	Judge	Umpire	Detective	Referee
+0DIFSP301	Soccer	0	Which sport is played during the World Cup?	Baseball	Quiddich	Basketball	Soccer
+0DIFSP305	Soccer	0	How many games need to be played to win the World Cup?	23	19	40	7
+0DIFSP237	Soccer	0	When the ball leaves the field to the side, one team performs which of these to return the ball to play?	Drop-in	Return ball	Sidewinder	Throw-in
+6E7000	Soccer	0	Giuseppe Meazza is from which country?	Brazil	USA	Germany	Italy
+0DIFSP231	Soccer	0	Which of these soccer positions generally runs the least?	Forward	Midfield	Defense	Goalkeeper
+0DIFSP311	Soccer	0	The loud horns known as "vuvuzelas" became a factor in what country's World Cup?	England	The United States	Uruguay	South Africa
+6E7002	Soccer	0	Alfredo Di Stefano played for which team?	FC Lokomotive Leipzig	Hertha BSC	Hamburger SV	Real Madrid
+6E7016	Soccer	0	On a throw-in during a soccer game here must the player have his hands while throwing the ball?	Knee High	Chest Level	On His Side	Over His Head
+151964	Soccer	0	Which soccer term is defined as "a recognition earned by a player for each appearance in an international game"?	Attacker	Marking	Match	Cap
+0DIFSP303	Soccer	0	Which organization is responsible for setting up the World Cup?	ESPN	NCAA	NASA	FIFA
+478115	Soccer	0	Which of the following is not a professional soccer player?	Diego Maradona	Zinedine Zidane	David Beckham	Stephen Curry
+0DIFSP320	Soccer	0	When did the first Women's World Cup take place?	1800	2020	1999	1970
+6E7032	Soccer	0	How many yards long is an official MLS playing field?	225 Yards	300 Yards	30 Yards	110 Yards
+0DIFSP314	Soccer	0	The first World Cup was played in Uruguay in what year?	1650	2010	1999	1930
+6E7020	Soccer	0	In soccer, when the ball leaves the field by the offense what kick is given?	Circle Kick	Half Court Kick	Knee Kick	Goal Kick
+0DIFSP228	Soccer	0	The player who defends the net from being scored on is called what?	Ball stopper	Double defense	Georgie	Goalkeeper
+0DIFSP227	Soccer	0	How many players on field is the maximum for a traditional soccer team?	3	20	6	11
+0DIFSP307	Soccer	0	Which of these countries has NEVER won the Men's World Cup?	Brazil	Germany	Italy	United States
+0DIFSP233	Soccer	0	Which of these is a card color the referee can display for a foul?	Brown	Black	Purple	Yellow
+0DIFSP304	Soccer	0	The World Cup is played every how many years?	7	9	13	4
+6E7006	Soccer	0	Who made his professional debut in 2006 at the age of 16 with the New York Red Bulls?	David Beckham	Dwayne Johnson	Kevin Bacon	Jozy Altidore
+151971	Soccer	0	Which soccer term describes "a player who advances the ball while controlling it with his feet"?	Hacking	Net	Goalmouth	Dribbler
+0DIFSP306	Soccer	0	How are teams organized in the World Cup?	All teams shuffled randomly	Into Regions	Tournament seeding	Into Groups
+6E7026	Soccer	0	How many points does a club get for a loss in the MLS?	3 Points	2 Points	1 Point	0 Points
+6E7010	Soccer	0	How long is halftime in a soccer match?	49 Minutes	4 Minutes	1 Hour	15 Minutes
+0DIFSP315	Soccer	0	Despite having never won the Men's World Cup, what country has won the most Women's World Cups?	Brazil	England	Germany	The United States
+533816	Soccer	1	With which club did Diego Maradona make his professional soccer debut?	Napoli	Barcelona	Sevilla	Argentinos Juniors
+533825	Soccer	1	What position does soccer player Ronaldo play?	Midfielder	Defender	Goalkeeper	Forward
+77J1022	Soccer	1	Who did Lionel Messi play for in the 2018–19 UEFA Champions League tournament?	Roma	Lyon	Liverpool	Barcelona
+282549	Soccer	1	What are the color of the home kit for Spanish football club, Real Madrid?	All Blue	Black And Yellow	Yellow and Red	All White
+524011	Soccer	1	Premier League club Liverpool is also known by which nickname?	The Swans	The Tigers	The Red Devils	The Reds
+0DIFSP225	Soccer	1	The goalkeepers in soccer are the only players able to touch the ball with which of these?	Legs	Head	Shoulders	Hands
+530774	Soccer	1	In soccer, what is the name of the Mark located inside the Center Circle?	Sideline	Goal Area	Corner Arc	Center Mark
+3F67814	Soccer	1	What is the name of the Major League Soccer club that is based in Vancouver?	Fire	Revolution	Galaxy	Whitecaps
+77J1075	Soccer	1	Brazilian set piece specialist and Real Madrid stalwart Roberto Carlos plays at which position?	Sweeper	Right Sided Midfielder	Striker	Left Wing Back
+477040	Soccer	1	Premier League club Sunderland is also known by which nickname?	The Villans	The Tigers	The Red Devils	The Black Cats
+3F67802	Soccer	1	Who suffered his first ever home league defeat as Chelsea manager in the 2013-14 Premier League?	ArsËne Wenger	Manuel Pellegrini	Alan Pardew	Jose Mourinho
+524049	Soccer	1	What country was soccer great Ronaldo born in?	Argentina	Bulgaria	France	Portugal
+77J1159	Soccer	1	Which manager lost his sixth of seven major UEFA finals in 2018?	Luis Enrique	Alex Ferguson	Zinedine Zidane	Jurgen Klopp
+461530	Soccer	1	Who scored the so-called "Hand of God" goal in the World Cup of 1986?	Batistuta	Sanchez	Figo	Maradona
+88P1067	Soccer	1	What is the name of the Major League Soccer club that is based in New York?	Revolution	Sounders	Fire	Red Bulls
+3F67805	Soccer	1	Who famously appeared in a 2004 MLS game at the tender age of 14?	Michael Bradley	Maurice Edu	Tim Howard	Freddy Adu
+506888	Soccer	1	What years did Ronaldinho play with Barcelona?	2008-2010	2001-2003	2010-2012	2003-2008
+5SC80518	Soccer	1	Who was named Chelsea manager in June 2013?	Silvino Louro	Andre Schurrle	Bruce Buck	Jose Mourinho
+5SC80254	Soccer	1	What is the name of the Major League Soccer club that is based in Seattle?	Fire	Revolution	Rapids	Sounders
+524052	Soccer	1	Who is known as the "King of Soccer"?	Roberto Baggio	Romario	Diego Maradona	Pele
+151959	Soccer	1	Premier League club Chelsea is also known by which nickname?	The Baggies	The Tigers	The Bluebirds	The Blues
+533821	Soccer	1	Which is the name of the Manchester United soccer team?	The Red Scorpions	The Black Vipers	The Red Gunners	The Red Devils
+533804	Soccer	1	Premier League club Manchester City is also known by which nickname?	The Gunners	The Villans	The†Cottagers	The Citizens
+478093	Soccer	1	What country was soccer's Diego Maradona born in?	Brazil	Chile	Peru	Argentina
+45L0919	Soccer	1	Why were no FIFA World Cup competitions held during the 1940s?	Team Disputes	Salary Negotiations Stalemate	FIFA Management Problems	WWII
+477033	Soccer	1	Premier League club Southampton is also known by which nickname?	The Baggies	Spurs / Lilywhites	The Swans	The Saints
+77J1027	Soccer	1	What club did Jurgen Klopp coach in 2018-19?	Porto	Real Madrid	Juventus	Liverpool
+326196	Soccer	1	Premier League club Fulham is also known by which nickname?	The Citizens	The Toffees	The Potters	The†Cottagers
+523996	Soccer	1	Premier League club Swansea City is also known by which nickname?	The Eagles	The Bluebirds	The Canaries	The Swans
+77J1219	Soccer	1	What is Real Madrid best known as in the soccer world?	Los Mejores	Los Campeones	Las Chivas	Los Galacticos
+78079	Soccer	1	Which two players won the FIFA Player of the Century Award?	Hamilton And Luis Figo	Tiger And Tony Hawk	Kevin And Zinedine Zidane	Pele And Diego Maradona
+0DIFSP232	Soccer	1	How is a soccer game started?	Punt	First pitch	Throw in	Kick off
+6E7014	Soccer	1	Who is the only payer allowed to use his hands in soccer?	Right Wing	Defender	Captain	Goalie
+477045	Soccer	1	Premier League club Manchester United is also known by which nickname?	The Tigers	The Black Cats	The Reds	The Red Devils
+78P1041	Soccer	1	Gareth Southgate is 2020 head coach of which national team?	Belarus	Bulgaria	Montenegro	England
+5SC80441	Soccer	1	Which team does Timo Werner play for in the 2019-2020 UEFA Champions League?	Lyon	Club Brugge	Juventus	RB Leipzig
+6E7030	Soccer	1	What do players get in the MLS if the WetBulb Globe Temperature (WBGT) is 82 degrees F or higher?	Short shorts	Hand Fans	Ice Pops	Cooling Breaks
+77J1156	Soccer	1	Who took Manchester United's #7 after David Beckham transferred to Real Madrid?	Wayne Rooney	Ji-sung Park	Nemanja Vidic	Cristiano Ronaldo
+5SC80408	Soccer	1	What club did Zinedine Zidane manage in 2017 and 2018?	AS Roma	Manchester	Juventus	Real Madrid
+533822	Soccer	1	Which of these Premier League clubs was a founding member?	Swansea City	Wolverhampton Wanderers	Fulham	Manchester City
+77J1207	Soccer	1	What association was ranked #1 for the 2018–19 UEFA Champions League?	France 	Austria 	Germany	Spain
+524054	Soccer	1	Which city is home to the first Canadian MLS team?	Calgary	Saskatchewan	Vancouver	Toronto
+478141	Soccer	1	Premier League club Everton is also known by which nickname?	The Citizens	Spurs / Lilywhites	The Potters	The Toffees
+293310	Soccer	1	What is the governing body for soccer in England?	FIFA	UK Football Alliance	Premier League	Football Association
+81X670	Soccer	1	Who was the top scorer of the 2018–19 UEFA Champions League tournament?	E. Haland	K. Coman	Rodrigo	L. Messi
+77J1007	Soccer	1	Which association had 4 teams in the 2018–19 UEFA Champions League?	Portugal	Russia	France 	England 
+461470	Soccer	1	What is the FIFA code for England?	EGD	EUK	ELD	ENG
+5SC80430	Soccer	1	Zlatko Dalic is 2020 head coach of which national team?	Czech Republic	Germany	Finland	Croatia 
+292030	Soccer	1	Premier League club Newcastle United is also known by which nickname?	The Eagles	The Bluebirds	The Canaries	The Magpies
+88P1073	Soccer	1	What is the name of the Major League Soccer club that is based in Salt Lake City?	Sporting Salt Lake	Club Salt Lake	Salt Lake United	Real Salt Lake
+77J1108	Soccer	1	Who did David Neres play for in the 2018–19 UEFA Champions League tournament?	Liverpool	Juventus	Lyon	Ajax
+6E7022	Soccer	1	Of the 34 matches in the MLS Regular Season, how many are played at home for a club?	5	34	22	17
+6E7034	Soccer	1	What color card in soccer means caution?	Blue	Green	Red	Yellow
+6E7008	Soccer	1	How is a soccer game broken up?	Quarters	Thirds	No Breaks	Halves
+288262	Soccer	1	Who won the 2006 World Cup Golden Ball?	Miroslav Klose	Luis Figo	Thierry Henry	Zinedine Zidane
+533819	Soccer	1	What term is used to describe when a soccer player uses his head to direct the ball backwards?	Trailing	Volley	Cap	Back Header
+81X674	Soccer	1	What is the name of the Major League Soccer club that is based in San Jose?	Hurricanes	Rapids	Revolution	Earthquakes
+461499	Soccer	1	What is the name of the award bestowed on the top scorer in the World Cup?	Big Foot	Best Boot	Gold Toe	Golden Boot
+461443	Soccer	1	What award is given to the top goal scorer at the World Cup?	Lev Yashin Award	Golden Ball	Jules Rimet Cup	Golden Shoe
+461222	Soccer	1	What is the FIFA code for Argentina?	ART	GAU	ASA	ARG
+77J1249	Soccer	1	Who did Cristiano Ronaldo play for in the 2018–19 UEFA Champions League tournament?	Bayern Munich	Real Madrid	Roma	Juventus
+533823	Soccer	1	The cord draped over the frame of a soccer goal is called what?	Back Header	Yellow Card	Dribbler	Net
+5SC80375	Soccer	1	Who won the MLS MVP award in the 2009 season?	Edson Buddle	David Beckham	Chris Rolfe	Landon Donovan
+77J1192	Soccer	1	What is the name of the Major League Soccer club that is based in Houston?	Galaxy	Real Houston	Rapids	Dynamo
+478091	Soccer	1	What youth soccer club did Landon Donovan play for?	Blackburn Rovers	Heerenveen	Newcastle United	Bayer Leverkusen
+461386	Soccer	1	Who scored the only goal for France in the 2006 World Cup final?	Willy Sagnol	Thierry Henry	Frank Ribery	Zinedine Zidane
+289263	Soccer	1	What is the FIFA code for Bulgaria?	BUG	BLG	BGR	BUL
+6E7040	Soccer	1	Which year is a FIFA World Cup year?	2019	2021	2020	2022
+77J1258	Soccer	1	Landon Donovan played for which MLS team in the 2011 season?	Chicago Fire	Columbus Crew	DC United	LA Galaxy
+461277	Soccer	1	Who was named best player of the 2014 FIFA World Cup?	Enner Valencia	Neymar	Mats Hummels	Lionel Messi
+0DIFSP310	Soccer	1	Where is the 2022 World Cup taking place?	The United States	Antarctica	Hawaii	Qatar
+3F67811	Soccer	2	What is the name of the Major League Soccer club that is based in Philadelphia?	76ers	Eagles	Phillies	Union
+77J1243	Soccer	2	In 2014, Clint Dempsey left the English Premier League to join what MLS club?	New York Red Bulls	Real Salt Lake	Chivas USA	Seattle Sounders
+77J1045	Soccer	2	What association was ranked #1 for the 2017–18 UEFA Champions League?	Russia	Portugal	Ukraine	Spain
+3F67820	Soccer	2	What is the name of the Major League Soccer club that is based in Dallas?	Sporting Dallas	Real Dallas	Dallas United	FC Dallas
+88P1063	Soccer	2	What is the name of the Major League Soccer club that is based in Toronto?	Sporting Toronto	Real Toronto	Toronto United	Toronto FC
+77J1177	Soccer	2	Before Sporting Kansas City changed names in 2010, they were known by what nickname?	Panthers	Pioneers	Warriors	Wizards
+186945	Soccer	2	What country hosted the 1990 World Cup?	Mexico	Spain	Greece	Italy
+530802	Soccer	2	Who did Liverpool defeat in the Round of 16 in the 2018–19 UEFA Champions League tournament?	Manchester	Juventus	Schalke 04	Bayern Munich
+88P1065	Soccer	2	What is the name of the Major League Soccer club that is based in Carson, California?	Galaxy	Fire	Carson United	Chivas USA
+77J1002	Soccer	2	Which club did not advance to Round of 16 for the 2019-2020 UEFA Championship?	RB Leipzig	Juventus	Napoli	Olympiacos
+5SC80353	Soccer	2	Which of these teams did Not make it to the knockout round of Euro 2016?	Slovakia	Belgium	Poland	Austria
+77J1126	Soccer	2	What inaugural coach of Seattle Sounders FC was still in charge in 2015?	Bart Wiley	Joe Roth	Garth Lagerwey	Sigi Schmid
+64972	Soccer	2	Who was sent off in the 110th minute of the 2006 World Cup final?	Frank Barthez	Andrea Pirlo	Thierry Henry	Zinedine Zidane
+5SC80331	Soccer	2	Who sang the UEFA Champions League Anthem for the 2017 final?	Ed Sheeran	Adele	Madonna	Andrea Bocelli
+292032	Soccer	2	When was the first time the World Cup was not held in Europe or the Americas?	1962	1934	1990	2002
+3F67817	Soccer	2	What year did Chelsea finish in 1st place in the Premier League?	2007	2011	1999	2006
+77J1117	Soccer	2	In 2015, how many teams competed in the MLS Cup Playoffs?	8	24	4	12
+81X673	Soccer	2	What number was Gareth Bale assigned at Madrid when he joined the club in 2013?	13	15	7	11
+96821	Soccer	2	Who was champion of the 2018 FIFA World Cup?	Italy	Russia	Cameroon	France
+461306	Soccer	2	Which country did not qualify for the 2018 FIFA World Cup?	Saudi Arabia	Australia	Morocco	Canada
+88P1072	Soccer	2	The MLS is a member of what continent-wide confederation?	AFC	UEFA	CSF	CONCACAF
+78P1061	Soccer	2	Who performed the UEFA Champions League Anthem for the 2018 final?	Pentatonix	Sean Paul	Coldplay	2Cellos
+461482	Soccer	2	Which two countries were barred from the 1950 World cup?	France & Germany	Germany & Spain	Japan & China	Japan & Germany
+461390	Soccer	2	Which World Cup, at the time, was the highest-attended single sport event in U.S. history?	1960	1982	1986	1994
+5SC80529	Soccer	2	What team won its fifth MLS Cup in 2014?	D.C. United	New York City FC	Chicago Fire	LA Galaxy
+506899	Soccer	2	Which player is Manchester City's top goal scorer in the 2013-14 Premier League, scoring 20 goals?	alvaro Negredo	Sergio Aguero	Edin Dzeko	Yaya Toure
+77J1195	Soccer	2	Which Croatian International won a move from Real Madrid to Arsenal in the summer of 1999?	Alen Boksic	Igor Stimac	Dario Simic	Davor Suker
+186948	Soccer	2	What LA Galaxy star won the 2014 MLS MVP award?	Marco Etcheverry	Preki	Amado Guevara	Robbie Keane
+5SC80364	Soccer	2	Who has been named Chelsea's Player of the Year three different times?	Juan Mata	Didier Drogba	John Terry	Frank Lampard
+461424	Soccer	2	Where was the first World Cup held?	France	England	Germany	Uruguay
+45L0903	Soccer	2	Which nation hosted and won the inaugural World Cup?	Brazil	England	Italy	Uruguay
+528568	Soccer	2	Which LA Galaxy player has the record for most career goals?	David Beckham	Alexi Lalas	Cobi Jones	Landon Donovan
+506832	Soccer	2	Who became Real Madrid's shirt partner in 2013?	Siemens	Zanussi	Qatar Foundation	Fly Emirates
+78P1081	Soccer	2	What are the team colors of the Montreal Impact?	Green and Red	Black and Gold	Grey and Yellow	White and Blue
+5SC80540	Soccer	2	Who suffered a dislocated shoulder in the 2018 UEFA Champions League final?	Dejan Lovren	Dani Carvajal	James Milner	Mohamed Salah
+186906	Soccer	2	What player got three yellow cards in one match during the 2006 World Cup?	Ronaldo	Wayne Rooney	Luis Figo	Josip Simunic
+45L0914	Soccer	2	What English player resigned his captaincy following the team's exit from the 2006 World Cup?	Michael Owen	Wayne Rooney	Paul Gerard	David Beckham
+3F67823	Soccer	2	What nickname for Vancouver Whitecaps FC comes from their color scheme?	Green and Black	Red and Yellow	Brown and Grey	Blue and White
+77J1081	Soccer	2	What is the name of the 2012 expansion soccer club that is based in Montreal?	Canucks	Grizzlies	Whitecaps	Impact
+288672	Soccer	2	Brazilian legend Pele made his World Cup debut in what country?	Chile	United States	Mexico	Sweden
+523988	Soccer	2	Who won the 2019 Best MLS Player ESPY Award?	Sebastian Giovinco	Nemanja Nikolic	Josef Martínez	Zlatan Ibrahimovic
+461441	Soccer	2	Who headbutted Marco Materazzi in the chest in the 2006 World Cup?	Ronaldo	Ronaldinho	Beckham	Zidane
+5SC80419	Soccer	2	Who is the first European side to win 3 consecutive major tournaments, Euro 2008, 2010 World Cup and Euro 2012?	Russia	Serbia	England	Spain
+5SC80551	Soccer	2	Where was the UEFA Euro 2012 Final held?	Moscow	Madrid	Liverpool	Kiev
+77J1012	Soccer	2	Which club did NOT advance to the Knockout stage in 2018–19 UEFA Champions League tournament?	Porto	Lyon	Roma	Club Brugge
+78P0941	Soccer	2	How many goals did Tottenham Hotspur score in the final of the 2018–19 UEFA Champions League tournament?	Seven	One	Six	Zero
+477056	Soccer	2	Premier League club Cardiff City is also known by which nickname?	The Magpies	The Eagles	The Blues	The Bluebirds
+77J1252	Soccer	2	What award did Tesho Akindele win for the 2014 MLS season?	MVP	Goalkeeper of the Year	Golden Boot	Rookie of the Year
+5SC80265	Soccer	2	Where did Gareth Bale transfer from to join Real Madrid in 2013?	Manchester United	Lyon	Barcelona	Tottenham
+88P1068	Soccer	2	What U.S. soccer star joined Toronto FC in 2015?	Chad Barrett	Danny Dichio	Jermain Defoe	Jozy Altidore
+461657	Soccer	2	Which country did not qualify for the 2018 FIFA World Cup?	Iran	England	Serbia	USA
+43375	Soccer	2	Which Italian managed Manchester City from 2009 to 2013?	Sven-Gˆran Eriksson	Mark Hughes	Manuel Pellegrini†	Roberto Mancini
+461469	Soccer	2	What is the only nation that has participated in every World Cup through 2010?	USA	Ireland	England	Brazil
+289262	Soccer	2	Who won the 2018 Best MLS Player ESPY Award?	Ike Opara	Aaron Long	Tim Melia	Nemanja Nikolic
+77J1102	Soccer	2	What Italian won the MLS Golden Boot in 2015?	Taylor Twellman	Jeff Cunningham	Dwayne De Rosario	Sebastian Giovinco
+10835	Soccer	2	What club did retired footballer Zinedine Zidane play for during the 1997-98 season?	Cannes	Real Madrid	Girondins Bordeaux	Juventus
+5SC80320	Soccer	2	Every year, the MLS team with the best record gets what award?	MLS Cup	Homegrown Cup	Landon Donovan Award	Supporters' Shield
+461428	Soccer	2	Who won the Silver Ball award for the 2018 FIFA World Cup?	Jesse Lingard	Antoine Griezmann	Antoine Griezmann	Eden Hazard
+461641	Soccer	2	How old was David Beckham when he debuted with Manchester United?	20	13	22	17
+77J1096	Soccer	2	What is the name of the Major League Soccer club that is based in Colorado?	Galaxy	Broncos	Revolution	Rapids
+77J1135	Soccer	2	Going into 2015, the southernmost MLS team was in what U.S. city?	FC Dallas	Houston Dynamo	San Jose Earthquakes	Orlando City SC
+533793	Soccer	2	Premier League club Hull City is also known by which nickname?	The Red Devils	Spurs / Lilywhites	The Black Cats	The Tigers
+81X676	Soccer	2	How many players scored more than four goals at Euro 2016?	Four	Two	Zero	One
+88P1069	Soccer	2	Between 2007 and 2012, the MLS got three new teams based in what country?	Mexico	Cuba	Jamaica	Canada
+88P1064	Soccer	2	Which Real Madrid Manager served for 604 matches?	Jose Villalonga	Leo Beenhakker	Manuel Fleitas	Miguel Munoz
+77J1228	Soccer	2	Who won the UEFA Euro 2016?	Wales	Croatia	France	Portugal
+478120	Soccer	2	Who kicked the winning penalty shootout goal to put Australia in the World Cup?	Bruce Arena	Meme Durakovic	Harry Kewell	John Aloisi
+77J1123	Soccer	2	Where is the owner of the Chelsea Football Club from?	USA	Ireland	Saudi Arabia	Russia
+461321	Soccer	2	After winning the 1998 World Cup, how many World Cup championships did France have?	4	3	2	1
+533812	Soccer	2	Which football manager, known as "the Engineer", became Manchester City's manager in 2013?	Joe Mercer	Tony Book	Roberto Mancini	Manuel Pellegrini†
+45L0907	Soccer	2	Where was the 2006 World Cup final played?	Hamburg	Munich	Stuttgart	Berlin
+45L0915	Soccer	2	What was the nickname of German midfielder-turned-defender Franz Beckenbauer?	Der Bingle	The Beck	BB	Der Kaiser
+77J1141	Soccer	2	Where was the final played of the 2018–19 UEFA Champions League tournament?	Berlin	Liverpool	London	Madrid
+477034	Soccer	2	Which Everton goalkeeper kept 15 clean sheets in the 2013-14 Premier League?	Joel Robles	Jindrich Stanek	Mason Springthorpe	Tim Howard
+461319	Soccer	2	What year is generally regarded as the year World Cup "went global"?	1966	1988	1970	1962
+524060	Soccer	2	What North American Soccer League team did German great Franz Beckenbauer play for?	Washington Diplomats	Atlanta Chiefs	Tampa Bay Rowdies	New York Cosmos
+45L0912	Soccer	2	Where was the 2018 World Cup held?	France	Spain	India	Russia
+461417	Soccer	2	What nation was selected to host the World Cup in 2010?	England	United States	Germany	South Africa
+461347	Soccer	2	The fastest goal scored in a FIFA World Cup was 11 seconds, who scored it?	Ernst Lehner	Bryan Robson	Pele	Hakan Sukur
+461263	Soccer	2	Who defeated Sweden in the Quarter-finals of the 2018 FIFA World Cup Tournament?	Portugal	Spain	Croatia	England
+524059	Soccer	2	Premier League club Stoke City is also known by which nickname?	The Gunners	The Baggies	The Hammers	The Potters
+530860	Soccer	2	What soccer club did Landon Donovan sign with in 2005?	San Jose Earthquakes	Chicago Fire	Kansas City Wizards	Los Angeles Galaxy
+461464	Soccer	2	The Lev Yashin Award is given to the World Cup's most outstanding what?	Coach	Defender	Striker	Goalkeeper
+5SC80386	Soccer	2	Who was awarded the Golden Boot for the UEFA Euro 2016?	Toni Kroos	Joe Allen	C. Ronaldo	A. Griezmann
+326480	Soccer	2	What Portugal goalkeeper saved three penalties in the shootout to carry his side to victory over England in the 2006 World Cup?	Lehman	Barthez	Keller	Ricardo
+523989	Soccer	2	Which player is Manchester City's top goal scorer in their 2013-14 season, scoring a total of 28 goals?	Edin Dzeko	Yaya Toure	alvaro Negredo	Sergio Aguero
+461215	Soccer	2	What team received "world champion"-inscribed gold watches BEFORE the final game in 1950?	Brazil	Sweden	England	Uruguay
+77J1105	Soccer	2	What soccer legend made seven MLS Best XI teams during his career?	Eddie Pope	Preki	Jimmy Conrad	Landon Donovan
+461461	Soccer	2	What team had the most yellow cards at the 2006 World Cup?	France	United States	Brazil	Portugal
+533789	Soccer	2	Premier League club Aston Villa is also known by which nickname?	The Blues	The Citizens	The Tigers	The Villans
+73044	Soccer	2	Which of the following players played on the French National team in the 2006 World Cup?	Cristiano Ronaldo	David Beckham	Miroslav Klose	Zinedine Zidane
+288694	Soccer	2	David Beckham, Zinedine Zidane, Ronaldo and Luis Figo played together for what club during the three years before the 2006 World Cup?	Juventus	Atletico Madrid	Manchester United	Real Madrid
+78P0981	Soccer	2	What is the name of the Major League Soccer club that is based in Kansas City?	Real Kansas City	Royals	Kansas City United	Sporting Kansas City
+3F67808	Soccer	2	Going into 2015, what was the only team beside the LA Galaxy with more than 2 MLS Cup wins?	Colorado Rapids	Chicago Fire	Houston Dynamo	D.C. United
+45L0900	Soccer	2	Who defeated Brazil in the Quarter-finals of the 2018 FIFA World Cup Tournament?	Denmark	Russia	Switzerland	Belgium
+5SC80452	Soccer	2	What team won the MLS Supporters' Shield in 2013 and 2015?	Seattle Sounders FC	Columbus Crew	San Jose Earthquakes	New York Red Bulls
+289280	Soccer	2	In what year did the press declare "the death of English football" after England's defeat by the USA?	1954	1982	1958	1950
+477036	Soccer	2	Premier League club Crystal Palace is also known by which nickname?	The Swans	The Blues	The Bluebirds	The Eagles
+5SC80463	Soccer	2	Whose Barcelona debut was against Real Madrid in the 2012 Supercopa de Espana as a substitute?	Montoya	Ibrahim Afellay	Xavier Hernandez Creus	Alex Song
+506835	Soccer	2	The 2012 MLS MVP Award went to what San Jose star?	Taylor Twellman	Carlos Valderrama	Guillermo Schelotto	Chris Wondolowski
+5SC80243	Soccer	2	David Luiz came to Chelsea in January 2011, where is he from?	Spain	Panama	Mexico	Brazil
+506898	Soccer	2	Which MLS team has the most championships as of 2019?	DC United	Atlanta United FC	Toronto FC	Los Angeles Galaxy
+77J1171	Soccer	2	In 2015, New York City FC played its home games at what non-soccer-specific stadium?	Citi Field	MetLife Stadium	Madison Square Garden	Yankee Stadium
+77J1054	Soccer	2	Gareth Bale played for which team in the UEFA Euro 2016?	Sweden	Portugal	England	Wales
+407042	Soccer	2	By what nickname is French midfielder Zinedine Zidane known?	Zed	Zorro	ZZ Top	Zizou
+288217	Soccer	2	What was the nickname of the always black-clad Russian goalie Lev Yashin?	The Bear	The Dynamo	The Wizard	Black Spider
+478053	Soccer	2	What Bundesliga club is nicknamed "The Billy Goats" after the club's mascot?	Borussia Dortmund	Hamburger SV	Bayern Leverkusen	1. FC Koln
+78P0961	Soccer	2	What is the name of the Major League Soccer club that is based in New England?	Rapids	Sounders	Galaxy	Revolution
+81X672	Soccer	2	Who is captain of the 2014 Real Madrid squad?	Sami Khedira	Gareth Bale	Xabi Alonso	Iker Casillas
+533800	Soccer	2	Who did Barcelona defeat in the Round of 16 in the 2018–19 UEFA Champions League tournament?	Porto	Ajax	Real Madrid	Lyon
+530776	Soccer	2	Where did Zinedine Zidane transfer from to join Real Madrid in 2001?	Barcelona	Lyon	Internazionale	Juventus
+67668	Soccer	2	How many goals did Neymar score during the 2014 FIFA World Cup?	6 Goals	2 Goals	1 Goal	4 Goals
+288257	Soccer	2	How many times has John O'Brien played on a World Cup soccer team?	4	3	6	2
+477060	Soccer	2	Which goalkeeper kept a total of 21 clean sheets for Chelsea's 2013-14 season?	Jamal Blackman	Henrique Hilario	Mark Schwarzer	Petr Cech
+326806	Soccer	2	Premier League club Norwich City is also known by which nickname?	The Eagles	The Bluebirds	The Canaries	The Canaries
+88P1070	Soccer	2	What is the name of the Major League Soccer club that is based in Portland?	Wild	Fire	Sounders	Timbers
+65868	Soccer	3	At which World Cup did former Brazilian team star Pele make his debut as the new pitchman for Pepsi?	1966	1978	1982	1974
+284813	Soccer	3	Sporting Kansas City won the 2013 MLS Cup Final in a penalty shootout against what opponent?	Houston Dynamo	New England Revolution	Colorado Rapids	Real Salt Lake
+533814	Soccer	3	Which player was awarded the PFA Young Player of the Year for the 2010-11 season?	Ashley Young	Kyle Walker	James Milner	Jack Wilshere
+288268	Soccer	3	What was the name of the mustachioed, sombrero-wearing jalapeno pepper mascot of the 1986 World Cup?	Taco	Paco	Caliente!	Pique
+43454	Soccer	3	How many teams played in Major League Soccer in the 2011 season?	30	12	24	18
+461474	Soccer	3	How many nations qualified to play at the 2018 FIFA World Cup?	55	44	28	32
+461644	Soccer	3	Who scored Holland's winning goal against Argentina in the 1998 world cup quarter final?	Marc Overmars	Patrick Kluivert	Ronald De Boer	Dennis Bergkamp
+533858	Soccer	3	In the 2013-14 Premier League season, how many managers leave a club before the final day?	8	9	11	10
+478092	Soccer	3	Which Manchester City players are the top goal scorers of the 2013-14 Football League Cup?	Yaya Toure, Jes˙s Navas	Jes˙s Navas, alvaro Negredo	Edin Dzeko, Yaya Toure	alvaro Negredo, Edin Dzeko
+461294	Soccer	3	How many cards did Diego Maradona receive in his four World Cup appearances?	33	10	14	21
+461431	Soccer	3	In what is considered one of the most notable events of the 1990 World Cup, what team emerged?	Bangladesh	Uganda	Nepal	Cameroon
+461566	Soccer	3	At the 2006 World Cup in Germany, all four semi-finalists were European nations; when and where is the last time that happened?	1990 In Italy	1994 In The United States	1958 In Sweden	1982 In Spain
+1MU1527	Soccer	3	Which of these star athletes was born in Dakar, Senegal?	Zinedine Zidane	Robinho	Thierry Henry	Patrick Vieira
+326846	Soccer	3	Against whom did Pele score his first World Cup goal?	England	Spain	Brazil	Wales
+461433	Soccer	3	Between 1934-2010, how many World Cup appearances has Spain made?	10	19	8	13
+461355	Soccer	3	How many of Brazil's World Cup teams included Pele?	5	2	1	4
+461262	Soccer	3	Which was the first African side ever to play in a World Cup?	Cameroon	Zaire	Algeria	Egypt
+229581	Soccer	3	Who was the Chelsea manager from June 2009 to May 2011?	Luiz Felipe Scolari	Avram Grant	Jose Mourinho	Carlo Ancelotti
+2554	Soccer	3	Who was named U.S. Soccer Male Athlete of the Year in 2003?	Brad Friedel	Kasey Keller	Earnie Stewart	Landon Donovan
+506931	Soccer	3	In 2013, what MLS club was declared to be the most valuable in the league by Forbes?	New York Red Bulls	D.C. United	LA Galaxy	Seattle Sounders FC
+461363	Soccer	3	What player on Mexico's 2006 World Cup squad was born in Brazil?	Cafu	Sanchez	Borgetti	Zinha
+267422	Soccer	3	Who scored 183 goals in total for Liverpool?	Evan Berger	Danny Vukovic	Jacob Burns	Robbie Fowler
+461414	Soccer	3	West Germany played Holland for the World Cup championship in what year?	1970	1962	1966	1974
+461377	Soccer	3	When Brazil won in 2002, it then boasted a total of how many World Cup championships?	6	4	7	5
+533871	Soccer	3	Who was European Footballer of the Year in 2001?	Ronaldo	Luis Figo	Nicolas Anelka	Michael Owen
+326231	Soccer	3	Which team finished in Third place in the 1954 World Cup?	Uruguay	Brazil	Switzerland	Austria
+73454	Soccer	3	What famous Hungarian player was known as the "Galloping Major"?	Josef Bozsik	Freddie Fitzwalla	David Justino	Ferenc Puskas
+282551	Soccer	3	What year is the 16th UEFA European Championship?	2008	2024	2016	2020
+45L0927	Soccer	3	In what year did Johan Cruyff make his only World Cup appearance?	1966	1970	1982	1974
+215089	Soccer	3	Who was the top goal scorer in the 1966 Football World Cup?	Pele	Geoff Hurst	Jimmy Greaves	Eusebio
+461624	Soccer	3	Who started as goalie for the U.S. in the 1990 and 1994 World Cups?	Brad Friedl	Alexi Lalas	Casey Keller	Tony Meola
+506893	Soccer	3	Which soccer player is nicknamed the "Czech Cannon"?	Luis Figo	Raul Gonzalez Blanco	Trifon Ivanov	Pavel Nedved
+506891	Soccer	3	How many teams are there in the Turkish Super Lig?	10	14	16	18
+327071	Soccer	3	What was the seating capacity of Estadio Monumental, the main venue for the 1979 World Cup?	45,000	38,000	350,000	76,000
+73456	Soccer	3	What Italy player was shown the red card and suspended four games for giving American Brian McBride an elbow to the face during the first round of the 2006 World Cup?	Andrea Pirlo	Gianluca Zambrotta	Alessandro Del Piero	Daniele De Rossi
+506819	Soccer	3	What symbol appears on the logo for the Montreal Impact?	Crossed Swords	Dove	French Flag	Fleur-de-lis
+288666	Soccer	3	How many miles from Rio de Janeiro was the 1950 England-USA game held?	12	50	100	350
+461456	Soccer	3	What Argentina coach resigned after his side was eliminated by host Germany from the 2006 World Cup?	Peter Scolari	Diego Maradona	Sven-Goren Erikson	Jose Pekerman
+326809	Soccer	3	Which players are the co-recipients of the Golden Boot award for the 2010-11 Premier League season?	Didier Drogba, Robin van Persie	Dimitar Berbatov, Didier Drogba	Robin van Persie, Carlos Tevez	Dimitar Berbatov, Carlos Tevez
+533845	Soccer	3	Going into 2015, what Canadian was Toronto FC's all-time leading goal scorer?	Chad Barrett	Ryan Johnson	Jim Brennan	Dwayne De Rosario
+461167	Soccer	3	What injury forced Thiago Alcantara to miss the 2014 FIFA World Cup?	Neck Injury	Torn Achilles Tendon	Broken Wrist	Knee Injury
+461535	Soccer	3	A public poll bestowed the FIFA "Most Entertaining Team" award on Portugal for which World Cup?	2000	1994	1986	2006
+461550	Soccer	3	Who refereed the 1974 World Cup Final?	Clive Thomas	David Elleray	Neil Barry	Jack Taylor
+461349	Soccer	3	Who were runner-ups of the 2018 FIFA World Cup?	Columbia	Denmark	Poland	Croatia
+65098	Soccer	3	When was the first World Cup in which anthems were not played by live bands but by recordings?	1994	1724	1962	1982
+282550	Soccer	3	In 2015, the Montreal Impact played their home games in what stadium?	Sporting Park	BMO Field	Mapfre Stadium	Saputo Stadium
+45L0902	Soccer	3	What nation hosted the 2006 World Cup in soccer?	Poland	United States	France	Germany
+151981	Soccer	3	What club won the 1992, 2006, 2009, 2011, 2015 UEFA Champions League tournament?	Marseille	Liverpool	Milan	Barcelona
+326746	Soccer	3	What team did the German National Team lose to in a replay at the 1938 World Cup in France?	Austria	France	USA	Switzerland
+88P1066	Soccer	3	Which team won the MLS Cup in 2010?	Houston Dynamo	NY Red Bulls	DC United	Colorado Rapids
+461558	Soccer	3	When did FIFA drop its policy of rotating World Cup hosting among the confederations?	2000	1994	1986	2007
+461348	Soccer	3	Who was Argentina's national team coach for the World Cup in 1998?	Diego Maradona	Claudio Reyna	Mario Kempes	Daniel Passarella
+530772	Soccer	3	Which Scottish team is nicknamed "The Wasps"?	Forfar	Berwick Rangers	Hibernian	Alloa Athletic
+461533	Soccer	3	What was the nickname of France's powerful 80s trio of Michel Platini, Alain Giresse and Jean Tigana?	The Bleu Crew	Les Magnifique	Trois!	The Three Musketeers
+461539	Soccer	3	In what year did Germany's Oliver Kahn take home the FIFA World Cup Golden Ball trophy?	1998	1990	1982	2002
+530781	Soccer	3	Which player won the Golden Boot for scoring 30 goals in the 2011-12 Premier League?	Carlos Tevez	Didier Drogba	Luis Suarez	Robin van Persie
+533813	Soccer	3	What group was Barcelona part of in the 2018–19 UEFA Champions League tournament?	Group A	Group C	Group E	Group B
+461429	Soccer	3	What year was the World Cup in Spain?	1986	1990	1994	1982
+530778	Soccer	3	What professional team did American soccer player Eddie Johnson first play with?	Kansas City Wizards	New England Revolution	Chicago Fire	FC Dallas
+523993	Soccer	3	Where was the first European Nations' Cup Final held?	Moscow	Bern	London	Paris
+461402	Soccer	3	Who missed a penalty in the shootout of the 2006 World Cup final, ultimately allowing Italy to win?	Zinedine Zidane	Lilian Thuram	Willy Sagnol	David Trezeguet
+506918	Soccer	3	Which MLS team won 18 games in the 2019 MLS season?	D.C. United	New England Revolution	Orlando City SC	New York City FC
+533791	Soccer	3	Who knocked Germany out of the UEFA Euro 2016 tournament?	Greece	Italy	Portugal	France
+478277	Soccer	3	What team automatically qualifies for the World Cup each year?	The Defending Champ	Brazil	USA	The Host
+461537	Soccer	3	In what year did West Germany host the World Cup?	1976	1980	1970	1974
+533815	Soccer	3	The 2014 MLS Goalkeeper of the Year Award went to what D.C. United netminder?	Mark Dodd	Brad Friedel	Zach Thornton	Bill Hamid
+100178	Soccer	3	Trinidad and Tobago backup goalkeeper signed with what club following his surprising performance at the 2006 World Cup?	West Ham United	Manchester United	New York Red Bulls	FC Dallas
+533831	Soccer	3	What France Ligue 2 football club's badge has a goat standing on a ball with a blue background?	Club Libertad	Tours FC	Valencia	Chamois Niortais
+461642	Soccer	3	England, Scotland, Wales and Northern Ireland all qualified for which World Cup?	1950	1954	1966	1958
+326197	Soccer	3	Erik Hamren was the manager of which squad during the UEFA Euro 2012?	Germany	Czech Republic	Luxembourg	Sweden
+461413	Soccer	3	FIFA Fair Play Trophy-winning teams receive soccer equipment for youth development valued at how much?	$5000	$10,000	$20,000	$50,000
+478126	Soccer	3	In soccer, an "Olympic Goal" is a scored shot taken from the?	Penalty Arc	Center Area	Penalty Area	Corner Area
+68328	Soccer	3	Against which team did former Real Madrid star Hugo Sanchez miss a penalty kick in the last minute of play during a 1986 World Cup game?	Iraq	Netherlands	Belgium	Paraguay
+326649	Soccer	3	How old was Pele when he played in the 1958 World Cup?	14	21	25	17
+461560	Soccer	3	Who scored the only goal for the United States in the 2006 World Cup?	Landon Donovan	Demarcus Beasley	Brian McBride	Clint Dempsey
+288221	Soccer	3	Who scored the winning goal in the 1999 Women's World Cup final?	Julie Foudy	Michelle Akers	Mia Hamm	Brandi Chastain
+288654	Soccer	3	What was the average salary for MLS players in 2015?	$483,000	$83,000	$683,000	$283,000
+461231	Soccer	3	Who was Chile's top scorer in the 1962 World Cup?	Domingo Sante	Valentin Ivanov	Vava	Leonel Sanchez
+326805	Soccer	3	The U.S. Open Cup annual soccer tournament was originally called what?	American Football Cup	National Football Association Cup	United Soccer Championship	National Challenge Cup
+478143	Soccer	3	Who was elected to the English Football Hall of Fame in 2004?	Clem Stephenson	Gordon Banks	David Beckham	Roy Keane
+478099	Soccer	3	Where is the Real Madrid striker Karim Benzema originally from?	Spain	Kuwait	Egypt	France
+506890	Soccer	3	What are the home kit colors for Spanish football club, Barcelona?	White And Red	Black And Yellow	Green And Blue	Blue And Red
+288931	Soccer	3	In what year did the first sub-Saharan team, Zaire, qualify for World Cup competition?	1988	2002	1968	1974
+326769	Soccer	3	Which company created Jabulani, the match ball for the 2010 World Cup?	Nike	Wilson	Quattro	Adidas
+461563	Soccer	3	How old was Francesco Totti when he retired in 2007, one year after Italy won the Cup?	24	36	21	30
+506911	Soccer	3	Who won the very first UEFA European Championship (European Nations' Cup)?	France	Portugal	Yugoslavia	Soviet Union
+461411	Soccer	3	In what year did Japan and South Korea share World Cup hosting responsibilities?	2006	1994	1986	2002
+524050	Soccer	3	What position did Chelsea finish in the Premier League in 2013?	2nd	6th	4th	3rd
+66422	Soccer	3	On a scale of 1-10, how did FIFA rate the readiness of 2010 World Cup host South Africa in March 2010?	5	3	2	9
+461418	Soccer	3	Who coached the squad from South Africa in the 1998 World Cup?	Jean Vincent	Zeze Moreira	Francisco Maturana	Philippe Troussier
+215917	Soccer	3	Who defeated Belgium in the Semi-finals of the 2018 FIFA World Cup Tournament?	Argentina	Italy	Colombia	France
+285542	Soccer	3	Who scored 209 goals for Chelsea during his career with them?	Peter Bonetti	Peter Osgood	Didier Drogba	Frank Lampard
+288655	Soccer	3	Who finished fourth in the men's soccer tournament at the 2004 Olympics in Athens?	Argentina	United States	Italy	Iraq
+508990	Soccer	3	Who gets a medal along with the FIFA World Cup Fair Play trophy?	Goalie	Coach	Captain	Every Player
+533838	Soccer	3	Which players from Chelsea were chosen to be in the Premier League Team of the Year 2014?	Branislav Ivanovic, Samuel Eto'o, Eden Hazard	Petr Cech, John Terry, Gary Cahill	Petr Cech, Samuel Eto'o, Branislav Ivanovi?	Petr Cech, Gary Cahill, Eden Hazard
+461771	Soccer	3	Hristo Stoichkov and Oleg Salenko each scored how many goals in the 1994 World Cup?	3	19	12	7
+289287	Soccer	3	Prior to 2006, who was the last player to score a hat trick in a World Cup match?	Ronaldo	Luis Figo	David Beckham	Pauleta
+461242	Soccer	3	Which country beat the U.S. in the final round of CONCACAF 1998 World Cup Qualifying?	El Salvador	Jamaica	Mexico	Costa Rica
+533862	Soccer	3	In what years did FC Barcelona won the European Champions League?	1995 And 2005	1993 And 2005	1964 And 1994	1992 And 2006
+533790	Soccer	3	What number did James Milner wear for Liverpool in the 2018-19?	#33	#5	#17	#7
+288281	Soccer	3	What 1954 World Cup team arrived in Switzerland with a 31-game winning streak and Olympic Gold?	Chile	England	Brazil	Hungary
+326628	Soccer	3	How many goals did Alan Shearer score in his Newcastle United Career?	210	240	190	206
+461169	Soccer	3	Who scored France's two winning goals against Croatia in the 1998 World Cup semifinal?	Youri Djorkaeff	Thierry Henry	Zinedine Zidane	Lilian Thuram
+530770	Soccer	3	MLS player Camilo Sanvezzo was born in what country?	Argentina	Spain	Portugal	Brazil
+533803	Soccer	3	Which of these players was not included in the dream roster of Real Madrid in the 100th anniversary?	Hugo Sanchez	Raul	Alfredo Di Stefano	Luis Figo
+506833	Soccer	3	In what round did Belgium lose in the UEFA Euro 2016?	Finals	Round of 16	Semi-finals	Quarter-finals
+461446	Soccer	3	What does WAGS, thought to have been England's undoing at the 2006 World Cup, stand for?	Women Against German Soccer	White And Green Kits	Wish Against Germany Slogan	Wives And Girlfriends
+461183	Soccer	3	Who won the first Best Young Player Award in a World Cup?	Pele	Ronaldinho	Christiano Ronaldo	Lukas Podolski
+506820	Soccer	3	Which players from Manchester City were chosen to be in the Premier League Team of the Year 2014?	Yaya Toure, David Silva	Yaya Toure, Edin Dzeko	Yaya Toure, Sergio Aguero	Yaya Toure, Vincent Kompany
+77J1039	Soccer	3	How many more points did Manchester United finish with compared to Chelsea for 2012-13?	2 Points	29 Points	11 Points	14 Points
+326236	Soccer	3	Who was the first American player to score in each of his first four National appearances?	Brian McBride	Shavar Thomas	Chris Albright	Eddie Johnson
+45L0925	Soccer	3	Johan Cruyff retired from the game the evening before the start of which World Cup?	1970	1974	1986	1978
+288719	Soccer	3	Which of these World Cup years did Sandor Koscos win a Golden Shoe Award?	1962	1950	1938	1954
+461548	Soccer	3	Which World Cup did Davor Suker score six goals?	2006	1982	1978	1998
+461475	Soccer	3	Which country failed to qualify in both 1974 and 1978?	Mexico	Iran	Tunisia	England
+528591	Soccer	3	What name is soccer's Predrag Radosavljevic better known by?	Rado	Predo	Redrad	Preki
+461311	Soccer	3	Which country took its second World Cup title in Mexico in 1986?	England	Austria	Chile	Argentina
+523995	Soccer	3	Which association had 2 teams in the 2018–19 UEFA Champions League?	Croatia	Romania	Poland 	Switzerland
+288693	Soccer	3	After Germany won in 1974, what was its total number of World Cup championships?	1	4	3	2
+523997	Soccer	3	What team won the first two MLS Cups, in 1996 and 1997?	Chicago Fire	New England Revolution	Columbus Crew	D.C. United
+506895	Soccer	3	Who did Gareth Bale score his first goal against for Real Madrid?	Galatasaray	Copenhagen	Southampton	Villarreal CF
+186612	Soccer	3	In the 1990 World Cup Final winner Germany's jersey was predominately what color?	Yellow	Red	White	Green
+533873	Soccer	3	What was the first MLS team to get a soccer-specific stadium?	San Jose Earthquakes	LA Galaxy	Houston Dynamo	Columbus Crew
+528589	Soccer	3	How old was Gabor Kiraly when he took the field at UEFA Euro 2016?	50 Years Old	17 Years Old	44 Years Old	40 Years Old
+291854	Soccer	3	Which team eliminated Argentina in the 1934 World Cup?	Austria	Italy	Czechoslovakia	Sweden
+461545	Soccer	3	Who scored the last goal of the 1994 World Cup?	Roberto Baggio	Romario	Hristo Stoitchkov	Kennet Andersson
+288215	Soccer	3	How many goals did France score during the World Cup 2018?	1	7`	5	14
+2475	Soccer	3	Which team knocked the hosts, Italy, out of the 1990 World Cup?	England	West Germany	Brazil	Argentina
+530861	Soccer	3	How much prize money was distributed to the teams contesting in UEFA Euro 2016?	€30 Million	€3 Million	€701 Million	€301 Million
+530780	Soccer	3	Who was named U.S. Soccer Male Athlete of the Year in 2019?	Josh Sargent	Sean Johnso	Ethan Horvath	Christian Pulisic
+284812	Soccer	3	What joint venture was launched by the MLS and Adidas to promote youth soccer?	Generation Soccer	Generation Football	Generation Play	Generation Adidas
+78P1021	Soccer	3	In which year was Major League Soccer founded?	1970	2005	1984	1993
+96794	Soccer	3	In which year did Toronto FC, MLS' first team outside of the United States, begin play?	2005	2004	2003	2006
+45L0913	Soccer	3	Which Italian player has the distinction of having scored in three different World Cups?	Franco Baresi	Macro Tardelli	Demetrio Albertini	Roberto Baggio
+461477	Soccer	3	What was Portugal's best finish at the World Cup as of 2019?	Fourth	Quarterfinals	Champion	Third
+461439	Soccer	3	Due to a sudden change in venue, how many fans saw the Czechs beat Yugoslavia in the 1962 semifinal?	100,000	48,000	66,000	6000
+461338	Soccer	3	Which country took home the trophy for the 1998 World Cup in France?	Brazil	England	USA	France
+326926	Soccer	3	How much did Italy spend to repair, renovate and improve its 12 venues for the 1990 World Cup?	$22M	$79.6M	$112M	$935M
+287915	Soccer	3	Who hosted the 1976 UEFA European Football Championship?	Ireland	Portugal	France	Yugoslavia
+477037	Soccer	3	Who was the winning manager of the 2015 UEFA Champions League final?	Carlo Ancelotti 	Pep Guardiola	Jurgen Klopp	Luis Enrique
+461572	Soccer	3	Who were the goalkeepers for Belgium, West Germany and Argentina in the 1986 World Cup in Mexico?	Preud'homme, Schumaher, Pumpido	Preud'homme, Illgner, Pumpido	Pfaff, Schumaher, Goycoechea	Pfaff, Schumaher, Pumpido
+461214	Soccer	3	How many goals did Ademir score for Brazil in the 1950 game against Sweden?	6	5	2	4
+50060	Soccer	3	Who scored the final goal in the 1998 World Cup Final?	Thiery Henry	Patrick Viera	Ronaldo	Emmanual Petit
+533792	Soccer	3	Who won Chelsea player of the year for both 2012 and 2013?	Petr Cech	Didier Drogba	John Terry	Juan Mata
+88P1062	Soccer	3	The MLS season begins every year in what month?	May	August	December	March
+478117	Soccer	3	Who from FC Barcelona won the Euro 2012 Player of the Tournament?	Alex Song	Xavi Hernandez	Carles Puyol	Andres Iniesta
+186941	Soccer	3	What was the nickname fans gave the pony-tailed Roberto Baggio?	Il Cavallo	Il Roby	Il Primo	Il Codino
+288264	Soccer	3	What was the most team goals scored in a single game in the 1982 World Cup?	14	5	8	10
+326768	Soccer	3	Who was named U.S. Soccer Male Athlete of the Year in 2014?	Clint Dempsey	Tim Howard	Kasey Keller	Tim Howard
+288189	Soccer	3	How many goals did France give up during the World Cup 2018?	0	2	22	6
+66425	Soccer	3	Who was the first player to play in five World Cups?	Dino Zoff	Pele	Lothar Mattheus	Ricardo Carvajal
+461570	Soccer	3	How many World Cup championships has Michelle Akers won?	Three	None	Six	Two
+288651	Soccer	3	Which Scottish team plays at Cliftonhill Park?	Stenhousemuir	East Stirling	Brechin City	Albion Rovers
+288652	Soccer	3	What is the title of the Phil Ball book about the history of Real Madrid?	Goal! 2: Living the Dream	Ciudad Real Madrid	The Best Is Yet To Come	White Storm:100 years of Real Madrid
+2316	Soccer	3	Who was the Czech goalie blamed for the loss against Brazil in the 1962 final game?	Adolf Scherer	Josef Masopust	Henric Mannheim	Viliam Schroijf
+530866	Soccer	3	What is Stade Rennais' nickname, in reference to their home colors?	The Black And Blues	The Royal Purples	The Reds	The Red And Blacks
+45L0901	Soccer	3	How many people crammed into Wembley Stadium to watch the 1966 final?	188,000	50,000	16,000	98,000
+288276	Soccer	3	When Trinidad and Tobago goalkeeper Kelvin Jack went down injured just minutes before the team's opening match in the 2006 World Cup, who took his place?	Clayton Ince	Atiba Charles	Russel Latapy	Shaka Hislop
+533836	Soccer	3	Going into the 2015 season, who was the only active MLS player with over 100 assists?	Kenny Cooper	Kei Kamara	Conor Casey	Brad Davis
+461329	Soccer	3	Marco Meterazzi scored on a header in the what minute of the 1-1 draw in the 2006 World Cup final?	21st	12th	3rd	19th
+461258	Soccer	3	How many games were played in the course of the 1994 World Cup?	32	128	24	64
+96807	Soccer	3	How many World Cup tournaments has soccer player Chris Albright played in?	3	2	5	1
+506921	Soccer	3	Andre Blake was drafted first overall in the 2014 MLS SuperDraft, by what team?	D.C. United	Montreal Impact	FC Dallas	Philadelphia Union
+288195	Soccer	3	In what year did Haiti end Italy's record 19 game shutout streak?	1966	2002	1954	1974
+289269	Soccer	3	What year was the French World Cup team nicknamed "Black, Blanc, Beur" due to its multi-racial makeup?	1988	1990	1982	1998
+524020	Soccer	3	How many goals in total were scored at the UEFA Euro 2016 tournament?	99 Goals	354 Goals	55 Goals	108 Goals
+326762	Soccer	3	How many goals did Gary Cahill score for Chelsea in the 2012-13 season?	12	1	18	6
+533865	Soccer	3	What are the home kit colors for French football club, Toulouse?	White And Green	All Black	Red And Yellow	Purple And White
+461532	Soccer	3	In what stadium was the 2018 FIFA World Cup Final played?	Fisht Olympic Stadium	Central Stadium	Krestovsky Stadium	Luzhniki Stadium
+289295	Soccer	3	What club team was most represented in the 2006 World Cup final?	Chelsea	Manchester United	Real Madrid	Juventus
+506914	Soccer	3	What Bundesliga football club's badge has a single red bird inside a black and red circle?	Tours FC	Cobresal	Deportes Iquique	Eintracht Frankfurt
+289253	Soccer	3	What was the name of the 1978 World Cup mascot?	Jalapeno	Bueno	El Nino	Gauchito
+461404	Soccer	3	How many total World Cup championships did Brazil have after winning in 1970?	2	6	1	3
+533841	Soccer	3	What Bundesliga football club's badge has a castle in a red circle and the year 1910?	Barcelona FC	Colo-Colo	Espanyol	St. Pauli
+66436	Soccer	3	As a last minute replacement on the 1958 French team, what did striker Just Fontaine forget to pack?	Passport	Toothbrush	French-Swedish Dictionary	Soccer Shoes
+326226	Soccer	3	What Canadian coach won MLS Coach of the Year in 2012?	Steve Nicol	Bruce Arena	Caleb Porter	Frank Yallop
+461361	Soccer	3	What country minted a coin as the first official World Cup souvenir?	Germany	Brazil	USA	Switzerland
+524016	Soccer	3	What number uniform does Karim Benzema wear for Real Madrid?	12	19	6	9
+523981	Soccer	3	Who knocked Switzerland out of the UEFA Euro 2016 tournament?	Belgium	France	Germany	Poland
+96822	Soccer	3	Italy bested West Germany to win its third World Cup title in what year?	1988	1992	1984	1982
+461540	Soccer	3	Who coached the squad from Iraq in the 1986 World Cup?	Jean Vincent	Zeze Moreira	Helenio Herrera	Evaristo de Macedo
+506894	Soccer	3	The 2009-10 champions Chelsea lost to which team in the fourth round of the 2010-11 FA Cup?	Stoke City	Manchester City	Reading	Everton
+288284	Soccer	3	How did Italy finish when it hosted the 1990 World Cup?	Second	First	Sixth	Third
+533843	Soccer	3	Toronto FC competes against what rival for the Trillium Cup?	Seattle Sounders FC	Philadelphia Union	Real Salt Lake	Columbus Crew
+533787	Soccer	3	How many goals did Chelsea score in the 2012-13 season in the Premier League?	66	45	88	75
+478148	Soccer	3	In 2014, what Nigerian star won MLS Goal of the Year?	Patrick Ianni	Darlington Nagbe	Camilo Sanvezzo	Obafemi Martins
+461639	Soccer	3	How many goals did Just Fontaine score in the 1958 World Cup games?	22	9	5	13
+461213	Soccer	3	Which national team has lost most World Cup matches in penalty shootouts, up to France '98?	Romania	Mexico	England	Italy
+96816	Soccer	3	In what year was the qualification draw for the 2010 World Cup?	2009	2004	2000	2007
+288715	Soccer	3	Who missed the first penalty kick for Mexico in the shootout against Bulgaria in the 1994 World Cup?	Cuauhtemoc Blanco	Claudio Suarez	Luis Hernandez	Alberto Garcia Aspe
+97074	Soccer	3	On the USA team, who scored the most goals in the 1994 World Cup?	Oleg Salenko And Romario	Romario And Bebeto	Gabriel Batistuta And Martin Dhalin	Hristo Stoichkov And Oleg Salenko
+288201	Soccer	3	When Argentina won the 1986 World Cup, how many World Cup titles had they won before?	0	2	4	1
+461617	Soccer	3	How many goals were scored in the 2018 FIFA World Cup Tournament?	69 Goals	269 Goals	369 Goals	169 Goals
+461378	Soccer	3	How many matches were played in the 1962 World Cup in Chile?	64	48	16	32
+62329	Soccer	3	How many times has Real Madrid won the La Liga title five years in a row?	Once	Four Times	Never	Twice
+506907	Soccer	3	What famous soccer player was born with the surname Luis Nazario de Lima?	Freddy Adu	Pele	David Beckham	Ronaldo
+506889	Soccer	3	Who got the UEFA Euro 1984 Golden Boot award?	Nene	Frank Arnesen	Soren Lerby	Michel Platini
+186942	Soccer	3	In what year did Brazil win all 12 World Cup matches, score 42 goals and give up only 8?	1974	1986	1982	1970
+45L0908	Soccer	3	What country won the Fair play award at the 2014 FIFA World Cup?	Switzerland	Belgium	Portugal	Colombia
+533851	Soccer	3	What is the American club that Franz Beckenbauer played with for four seasons?	D.C. United	Philadelphia Union	LA Galaxy	New York Cosmos
+478289	Soccer	3	Who kicked the winner to give Real Madrid a 3-2 victory over Valencia on the 22nd of Dec 2014?	Sergio Ramos	Cristiano Ronaldo	Gareth Bale	Jese
+461285	Soccer	3	Who promised to run naked through the streets of Buenos Aires if Argentina wins the World Cup 2010?	David Beckham	Victoria Beckham	Ronaldo	Diego Maradona
+533863	Soccer	3	Which MLS team won 18 games in the 2019 MLS season?	Philadelphia Union	FC Cincinnati	Montreal Impact	Atlanta United FC
+288184	Soccer	3	During qualification for the 2006 World Cup, what team was unbeaten at home but won only once on the road?	United States	Brazil	Japan	Ecuador
+45L0906	Soccer	3	In addition to Top Scorer, what distinction did Italy's Salvatore Schillaci receive at the 1990 World Cup?	Most Congenial	Most Red Cards	Most Assists	Best Player
+506828	Soccer	3	What are the colors of the home kit for Spanish football club, Eibar?	Black And White	Yellow and Red	Green And White	Blue And Red
+506930	Soccer	3	U.S. Soccer Hall of Fame member Fernando Clavijo died in which month of 2019?	January	March	April	February
+326936	Soccer	3	Who is the coach of the 2019 MLS Chicago Fire SC?	Sigi Schmid	Dominic Kinnear	Bob Bradly	Veljko Paunovic
+477055	Soccer	3	Who was chosen goalkeeper for the men's Soccer America College Team of the Century?	Mark Dodd	Zach Thornton	Tony Meola	Brad Friedel
+530859	Soccer	3	The 2014 MLS Goalkeeper of the Year Award went to what Portland Timbers netminder?	Joe Cannon	Troy Perkins	Jon Busch	Donovan Ricketts
+461371	Soccer	3	What traditional attire did referees wear for the last time at the 1990 World Cup?	Lanyards & Whistles	Shorts	Cowboy Hats	Black Jerseys
+523985	Soccer	3	The 2015 MLS All-Star Game pitted the MLS All-Stars against what English club?	Chelsea	Manchester United	Everton	Tottenham Hotspur
+533802	Soccer	3	What Costa Rican star won the MLS Comeback Player of the Year Award in 2014?	Jeff Agoos	Peter Vermes	Robin Fraser	Rodney Wallace
+67667	Soccer	3	Who is the first Israeli player to score a goal in the World Cup?	Eyal Berkovich	Giora Shpigel	Ronny Rozenthall	Mordechay Shpigler
+1MU1521	Soccer	3	Who was the first MLS player to appear in 400 games?	Doug Logan	Don Garber	Justin Mapp	Kevin Hartman
+461398	Soccer	3	How many goals did Saudi Arabia score in the World Cup 2002?	3	2	1	0
+68326	Soccer	3	For the 2006 World Cup ESPN and ABC named Dave O'Brien its lead commentator; O'Brien is better known as the voice of what team?	Columbus Crew	Green Bay Packers	L.A. Galaxy	Florida Marlins
+461445	Soccer	3	David Sukor, winner of the 1994 World Cup Golden Shoe Award, played for which team?	China	England	Greece	Croatia
+461442	Soccer	3	What year did Hungary lose in the World Cup Final?	1960	1994	1998	1954
+288267	Soccer	3	Who was the assistant coach for Colombia at the 1998 World Cup in France?	Bora Milutinovic	Carlos Bianchi	Maturana	Hernan Dario Gomez
+43367	Soccer	3	Which player won the Golden Boot for scoring 26 goals in the 2012-13 Premier League?	Carlos Tevez	Didier Drogba	Luis Suarez	Robin van Persie
+523987	Soccer	3	The official mascot of Vancouver Whitecaps FC is what type of animal?	Bear	Lizard	Fish	Bird
+506837	Soccer	3	Who was named U.S. Soccer Male Athlete of the Year in 2016?	Landon Donovan	Tim Weah	Weston McKennie	Jozy Altidore
+57720	Soccer	3	How old was Costa Rica's Ronald Gonzalez Brenes, the youngest player in the 1990 World Cup?	15	16	23	19
+461460	Soccer	3	Which of England's players was expelled from the team's quarterfinal match against Portugal in the 2006 World Cup?	Michael Owen	David Beckham	Paul Gerard	Wayne Rooney
+524024	Soccer	3	The 2011-12 champions Chelsea lost to which team in the semi-finals of the 2012-13 FA Cup?	Millwall	Manchester United	Wigan Athletic	Manchester City
+524057	Soccer	3	What country hosted the 1988 UEFA European Football Championship?	Sweden	Denmark	Czechoslovakia	West Germany
+461440	Soccer	3	What international company debuted as a sponsor at the 1978 World Cup in Argentina?	McDonalds	Marlboro	Taco Bell	Coca-Cola
+289284	Soccer	3	How many goals were scored in the 32 games of the 1966 World Cup?	66	110	89	89
+326616	Soccer	3	England's 2-2 draw with Sweden in the opening round of the 2006 World Cup marked how many consecutive matches against Sweden without a win for England?	20	4	1	12
+288199	Soccer	3	Who is the former Manchester United player that starred in Nike's "Joga Bonito" commercial campaign that ran in 2006, in anticipation of the World Cup?	David Beckham	George Best	Phil Neville	Eric Cantona
+288342	Soccer	3	Rivaldo and Miroslav Klose both scored 5 goals in which World Cup?	2006	1998	1994	2002
+461455	Soccer	3	What year did Miroslav Klose score 5 times in the World Cup?	1994	1978	1990	2002
+533826	Soccer	3	What year was Branislav Ivanovi signed to Chelsea?	2010	2000	2005	2008
+533853	Soccer	3	How many teams qualified for the UEFA Euro 1976?	Sixteen	Eight	Ten	Four
+530775	Soccer	3	What are the home kit colors for French football club, Laval?	Red And Blue	All White	Green And White	Orange and Black
+288710	Soccer	3	Who was the first winner of the MLS Humanitarian of the Year Award?	Abdul Thompson Conteh	Tim Howard	Steve Jolley	Eddie Pope
+533860	Soccer	3	In September 2013, against what club did Pedro score a hat-trick?	Atletico Madrid	Sevilla	Real Madrid	Rayo Vallecano
+288723	Soccer	3	Who was honored by FIFA as the best player in the 1998 World Cup?	David Beckham	Fabien Barthez	Roberto Carlos	Ronaldo
+326245	Soccer	3	In Ronaldo's 37 appearances for FC Barcelona, how many goals did he score?	16 Goals	12 Goals	60 Goals	34 Goals
+506917	Soccer	3	What number uniform does center-back for Barcelona Gerard Pique wear?	13	2	9	3
+2223	Soccer	3	After winning in 1990, how many World Cup championships did Germany hold?	1	4	5	3
+100183	Soccer	3	How long did it take Turkey's Hakan Sukur to score the fastest goal in World Cup history in 2002?	2.5 minutes	11 minutes	48 seconds	11 seconds
+524021	Soccer	3	Who from FC Barcelona won the La Liga Spanish Player of the Year in 2009?	Martin Montoya	Lionel Messi	Cristian Tello	Andres Iniesta
+533852	Soccer	3	As of 2015, what Brazilian was the only player to score 30 goals for Vancouver Whitecaps FC?	Pedro	Ronaldo	Fredrico	Camilo
+186943	Soccer	3	What was the cumulative number of cards Zidane received in his three World Cup appearances?	3	17	9	12
+461226	Soccer	3	In what year did East Germany player Jurgen Sparwasser score his only World Cup goal?	1982	1996	1966	1974
+57725	Soccer	3	When was FIFA's Yashin Award, which goes to the best World Cup goalkeeper, first awarded?	1990	1996	2002	1994
+461357	Soccer	3	How many goals did Geoff Hurst score in the 1966 World Cup Final?	6	8	5	3
+524008	Soccer	3	What are the home kit colors for French football club, Marseille?	Blue And White	Blue And Red	Black And White	All White
+461451	Soccer	3	What year did Just Fontaine score 13 times in the World Cup?	1986	2006	2002	1958
+461471	Soccer	3	How much does the World Cup trophy, which is made of solid gold and malachite, weigh?	2 Pounds	5 Pounds	24 Pounds	11 Pounds
+461415	Soccer	3	How many goals did Poland's Grzegorz Lato score in 1974 to become that World Cup's high scorer?	17	14	11	7
+478042	Soccer	3	Which player is Chelsea's top goal scorer in their 2011-12 season, scoring a total of 16 goals?	Ramires	Daniel Sturridge	Didier Drogba	Frank Lampard
+288333	Soccer	3	How many players did the United States have on the field toward the end of its draw with Italy in the 2006 World Cup?	10	11	12	9
+506897	Soccer	3	Which was the only German team to win the UEFA Champions League in the 1990's?	Bayern Munchen	Bayer Leverkusen	Werder Bremen	Borussia Dortmund
+506901	Soccer	3	Who won the 2017 Best MLS Player ESPY Award?	Wayne Rooney	Josef Martínez	Diego Valeri	David Villa
+461397	Soccer	3	Where was the 1970 World Cup final played?	Paris	Berlin	London	Mexico City
+461256	Soccer	3	Who was the only player to score in every World Cup in the 1990's?	Diego Simeone	Romario	Lutharr Matheus	Roberto Baggio
+461255	Soccer	3	What year did Turkey win third place in the World Cup?	2006	1954	1986	2002
+524053	Soccer	3	Michal Bilek was the manager of which team during the UEFA Euro 2012?	Portugal	Italy	Germany	Czech Republic
+461448	Soccer	3	Which team battled Chile in the 1962 World Cup game known as the "Battle of Santiago"?	France	USA	Hungary	Italy
+477032	Soccer	3	What city hosted the 2015–16 UEFA Champions League finals?	Glasgow	London	Athens	Milan
+506920	Soccer	3	What CONMEBOL football club's badge has two oars and an anchor with Sao Paulo's flag?	Barcelona FC	Tours FC	Le Havre AC	Corinthians
+461367	Soccer	3	How many goals were scored in the 32 matches of the 1970 World Cup?	114	80	68	95
+523959	Soccer	3	In what round did Italy lose in the UEFA Euro 2016?	Finals	Round of 16	Semi-finals	Quarter-finals
+461450	Soccer	3	What England player went down with a knee injury less than a minute into the game against Sweden in the first round of the 2006 World Cup?	Theo Walcott	David Beckham	Tim Crouch	Michael Owen
+75934	Soccer	3	How many clean sheets did Italy, with the most, have in the 1990 World Cup?	11	2	3	5
+533818	Soccer	3	Who is the 2017–18 UEFA Champions League runner-up to the champions?	Chelsea	Basel	Porto	Liverpool
+523984	Soccer	3	Which English Football Club was Elton John once a Chairman of?	Queens Park Rangers	Charlton Athtletic	Tottenham Hotspur	Watford
+478150	Soccer	3	Which English Football Club was originally known as 'Small Heath Alliance'?	Liverpool	Everton	Derby County	Birmingham City
+289268	Soccer	3	What country won the Fair play award at the 2018 FIFA World Cup?	Russia	Switzerland	England	Spain
+50070	Soccer	3	What two Argentine goalkeepers played in the 1990 World Cup in Italy?	Burgos And Pumpido	Islas And Goycoechea	Pumpido And Islas	Pumpido And Goycoechea
+461449	Soccer	3	What South African-born model/movie star was the guest presenter at the draw for the 2010 World Cup?	Cokey Falkow	Thuli Sithole	Candice Derman	Charlize Theron
+461623	Soccer	3	In what year did FIFA first allow 23-member teams to play in the World Cup?	1994	1962	1970	2002
+461425	Soccer	3	Which Dutch player spit in Rudi Villers face during a World Cup game during the Mondiale in 1990?	Ruud Gullit	Danny Blind	Marco Van Basten	Frank Rijkaard
+478048	Soccer	3	What France Ligue 1 football club's badge has the Eiffel tower in red?	Corinthians	Banfield	St. Pauli	Paris Saint-Germain
+288192	Soccer	3	What color was Naranjito, the kilt-wearing, fruit-inspired mascot of the 1982 World Cup?	Red	White	Blue	Orange
+461457	Soccer	3	Who was the leading scorer in the 2006 World Cup?	Ronaldo	Ronaldinho	Thierry Henry	Miroslav Klose
+533875	Soccer	3	Going into 2015, what MLS team had won 2 MLS Cups but never won a Supporters' Shield?	Real Salt Lake	D.C. United	LA Galaxy	Houston Dynamo
+533856	Soccer	3	From 2009 to 2014, the MLS Cup Final was broadcast on what channel?	NBC	CBS	ABC	ESPN
+64969	Soccer	3	Who scored the first goal of the 2006 World Cup?	Torsten Frings	Paulo Wanchope	Miroslav Klose	Philipp Lahm
+506915	Soccer	3	What Seattle defender won MLS Defender of the Year in 2014?	John Doyle	Michael Parkhurst	Jamison Olave	Chad Marshall
+533866	Soccer	3	What are the home kit colors for Bolivian football club, The Strongest?	Red And Yellow	Black And Green	Black And Red	Black And Yellow
+461432	Soccer	3	Who knocked out Portugal in the Round of 16 at the 2018 FIFA World Cup?	Portugal	Australia	Iran	Uruguay
+45L0910	Soccer	3	In what year did the World Cup opening ceremonies include "human origami"?	1966	1970	1950	2002
+533837	Soccer	3	What soccer-specific stadium was built for Toronto FC in 2007?	Exhibition Stadium	Brooks Stadium	Rogers Field	BMO Field
+461481	Soccer	3	For the second time in World Cup history, what did all the 1990 final four teams have?	Pro Players	Serious Injuries	A Common Language	Previous World Cup Championships
+100180	Soccer	3	In which year did England, Scotland, Wales and Northern Ireland first attempt to qualify for the World Cup?	1934	1954	1938	1950
+5SC80485	Soccer	3	How many appearances did Petr Cech make for Chelsea in the 2012-13 season?	42	15	21	63
+461324	Soccer	3	Who was voted Italian Footballer of the Year in 2007 and 2004?	Marcello Lippi	Alessandro Nesta	Cristian Zaccardo	Francesco Totti
+288265	Soccer	3	What year did Germany win the World Cup held in Switzerland?	1950	1958	1960	1954
+528567	Soccer	3	Who became the manager of Manchester United in the 2013-14 season, taking over from Sir Alex Ferguson?	Ryan Giggs	Louis van Gaal	Ron Atkinson	David Moyes
+91522	Soccer	3	Where was the 1962 World Cup held?	Uruguay	Brazil	Argentina	Chile
+461387	Soccer	3	Who scored the only goal in the 1990 World Cup final game?	Jurgen Klinsmann	Lothar Mathaus	Rudolph Voeller	Andreas Brehme
+533827	Soccer	3	Who became the highest paid Premier League player upon signing a 2008 contract with Chelsea?	John Terry	Joe Cole	Dennis Wise	Frank Lampard
+523992	Soccer	3	Who was the first Mexican footballer to play in the Premiership?	Manuel Sanchez	Hugo Sanchez	Rafael Marquez	Jared Borgetti
+461778	Soccer	3	What was the total attendance of the 1974 World Cup games?	1,000,899	899,889	66,000	1,774,022
+461564	Soccer	3	Who scored the only goal for Northern Ireland vs. Spain in the 1982 World Cup meeting?	George Best	Norman Whiteside	Sammy Mcillroy	Gerry Armstrong
+461591	Soccer	3	What nation took second place in the 1958 World Cup in Sweden?	Scotland	Wales	Brazil	Sweden
+288298	Soccer	3	How many Americans were named to the 2006 World Cup All-Star team?	1	3	6	0
+461531	Soccer	3	In what year did the Eastern Bloc nations refuse to participate in the World Cup?	1954	2002	1958	1950
+77J1174	Soccer	3	The 2014 MLS Golden Boot went to what New York Red Bulls star?	Landon Donovan	Luciano Emilio	Alex Chacon	Bradley Wright-Phillips
+461336	Soccer	3	What did the Scottish team reportedly read to prepare for the 1954 World Cup in Switzerland?	Frommer's Guide	World Book Encyclopedia	Swiss Newspapers	Heidi
+327060	Soccer	3	Who coached the squad from Italy in the 1966 World Cup?	Bo Johansson	Georg Buschner	Enzo Bearzot	Edmondo Fabbri
+461421	Soccer	3	A match ball called Jabulani, which means "to celebrate" in Zulu, was created for which World Cup?	2002	1994	1990	2010
+77J1213	Soccer	3	Who was the first MLS goaltender to record 120 shutouts?	Brad Davis	Jaime Moreno	Andy Williams	Nick Rimando
+461325	Soccer	3	How many goals did Diego Maradona score in the 1990 World Cup?	One	Two	Three	Zero
+461426	Soccer	3	Which country was the first to host two World Cups?	Italy	Brazil	France	Mexico
+461400	Soccer	3	The Netherlands placed second in which World Cup?	1970	1990	1968	1974
+96795	Soccer	3	What was the score of the 1954 World Cup Final between West Germany and Hungary?	1-0	4-0	5-2	3-2
+288269	Soccer	3	How many goals did Chile score in the 1962 "Battle of Santiago"?	0	6	1	2
+523999	Soccer	3	What was the name of the MISL franchise based in Kansas City?	Cosmos	Wiz	Chieftains	Comets
+288704	Soccer	3	How many international goals did soccer's Mia Hamm have when she retired?	206	179	123	158
+100176	Soccer	3	When did FIFA announce the venues for the 2010 World Cup in South Africa?	1994	1998	2000	2006
+524047	Soccer	3	What year did Fabio Cannavaro win the Ballon d'Or while playing for Real Madrid?	2003	2002	2012	2006
+100174	Soccer	3	Whose game winning goal in the final World Cup qualifying match pushed the U.S. into 1990's World Cup?	Roy Lassiter	Thomas Leyendecker	Cobi Jones	Paul Caliguri
+461284	Soccer	3	In what year did the U.S. host the World Cup?	2002	1998	1990	1994
+461286	Soccer	3	Where was 1958 World Cup French forward, Just Fontaine, born?	Paris	Liberia	Cincinnati	Morocco
+66426	Soccer	3	How many World Cup tournaments has DaMarcus Beasley played in?	1	0	3	2
+251581	Soccer	3	What country hosted the UEFA Euro 2004?	Spain	Greece	Italy	Portugal
+461459	Soccer	3	What two teams ranked in the top five of FIFA's world rankings failed to advance past the first round of the 2006 World Cup?	United States And Togo	Czech Republic And Paraguay	Paraguay And Costa Rica	United States And Czech Republic
+407041	Soccer	3	Which team has held the F.A Cup for the longest in succession?	Southampton	Blackburn Rovers	Queens Park Rangers	Portsmouth
+461292	Soccer	3	Who were runner-ups of the 2014 FIFA World Cup?	Portugal	Colombia	Spain	Argentina
+506824	Soccer	3	Where did Chelsea win their first European Cup Winners Cup?	London	Zurich	Milan	Athens
+43361	Soccer	3	Which of the following countries has never won the World Cup?	Italy	England	Argentina	Netherlands
+506909	Soccer	3	Real Madrid beat which MLS team 4-1 in the 2011 World Football Challenge?	Chicago Fire	Houston Dynamo	FC Dallas	LA Galaxy
+533859	Soccer	3	When did The Strongest of Bolivia adopt their yellow and black striped kit?	After Winning Copa Aerosur	Before Playing Copa Libertadores	In 2015	Upon Foundation in 1908
+326845	Soccer	3	In 2015, what company sponsored the MLS' Golden Boot award?	Nissan	Toyota	Kia	Audi
+288337	Soccer	3	Which of these teams did France lose to in the opening game of the 2002 World Cup?	Uruguay	Brazil	Germany	Senegal
+524061	Soccer	3	Who was awarded the Bronze Boot for the UEFA Euro 2016?	G. McAuley	Y. Carrasco	J.Vardy	O. Giroud
+288324	Soccer	3	How many matches did Brian McBride start for the U.S. in the 2002 World Cup?	Four	Three	Two	Five
+530771	Soccer	3	Which English football club were the first to install an artificial pitch?	Chelsea	Liverpool	Leeds United	Queens Park Rangers
+506929	Soccer	3	Who became the new captain of Toronto FC in 2015?	Darren O'Dea	Torsten Frings	Maicon Santos	Michael Bradley
+461615	Soccer	3	For which World Cup was the stolen trophy recovered by a dog named Pickles?	1970	1980	1974	1966
+523934	Soccer	3	The 2018–19 UEFA Champions League marked what season of the tournament?	12th	100th	55th	64th
+524051	Soccer	3	What season did Real Madrid win the European Cup from the UEFA Champions League?	2004-05	2010-11	2006-07	2001˚02
+461317	Soccer	3	Whose goal against England in 1986's World Cup was voted the Goal of the Century?	Michael Owen	Roberto Baggio	Pele	Diego Maradona
+533864	Soccer	3	Which player was awarded the PFA Players' Player of the Year for the 2010-11 season?	Nemanja Vidic	Samir Nasri	Charlie Adam	Gareth Bale
+100181	Soccer	3	Who scored the most goals at the 1998 World Cup?	Ronaldo	Thierry Henry	Christian Vieri	Davor Suker
+524000	Soccer	3	The MLS uses a slot system that allows a total of how many international players in the league?	120	80	40	160
+461240	Soccer	3	Who is the only England player to score for England in three different World Cups?	Bobby Charlton	Alan Shearer	Michael Owen	David Beckham
+461447	Soccer	3	Which national team reached the quarter-finals of the 1990 World Cup?	Northern Ireland	Belgium	Algeria	Cameroon
+533868	Soccer	3	How many goals did Mia Hamm score to break the all-time international goal record?	129	100	165	108
+45L0904	Soccer	3	What two teams have met seven times in the World Cup?	Brazil And Italy	Germany And England	Argentina And Italy	Brazil And Sweden
+461614	Soccer	3	Who was the only England player named to the 2006 World Cup all-star team?	Peter Crouch	Wayne Rooney	David Beckham	John Terry
+45L0917	Soccer	3	Who scored in overtime to lift Argentina over Mexico in the second round of the 2006 World Cup?	Esteban Cambiasso	Julio Cruz	Hernan Crespo	Maxi Rodriguez
+533805	Soccer	3	Which of these clubs made it to 2019-20 UEFA Champions League group stage?	Piast	Valetta	Celtic	Benfica
+289261	Soccer	3	The Dutch team pioneered "Total Football" during which World Cup?	1982	1978	1966	1974
+88089	Soccer	3	What 1992 European Champions surprisingly failed to qualify for the 1994 World Cup?	Italy	Germany	England	Denmark
+533842	Soccer	3	What club did Real Madrid shut out in their first match of 2014?	Valencia	Almeria	Athletic Bilbao	Celta Vigo
+289243	Soccer	3	In what year did Chile qualify by default when the Soviets refused to play in Pinochet Stadium?	1988	1964	2002	1974
+530864	Soccer	3	Who was named U.S. Soccer Male Athlete of the Year in 2013?	Oguchi Onyewu	Alex Mendez	DaMarcus Beasley	Jozy Altidore
+506817	Soccer	3	What number did Van de Beek wear for Ajaz in the 2018-19?	#9	#12	#21	#6
+461487	Soccer	3	Who scored the lone goal for England in its 1-0 second-round match against Ecuador in the 2006 World Cup?	Michael Owen	Wayne Rooney	Tim Crouch	David Beckham
+478090	Soccer	3	During the 2012-13 Premiere League season, how many times did the first place changed hands?	Nine Times	15 Times	25 Times	Four Times
+523986	Soccer	3	Which team in 2013-14 is the second Premier League team to be bottom at Christmas and avoid relegation?	Hull City	West Ham United	West Bromwich Albion	Sunderland
+533861	Soccer	3	Which team defeated Chelsea in the fifth round of the 2013-14 Football League Cup?	Everton	Arsenal	Manchester City	Sunderland†
+533817	Soccer	3	What year did Atletico Madrid play Real Madrid in the UEFA Champions League final?	2000	2018	2011	2016
+461444	Soccer	3	Who defeated Cameroon in the quarterfinals in the 1990 World Cup?	Colombia	Italy	Germany	England
+524056	Soccer	3	What year did Carlo Ancelotti became the manager of Real Madrid?	2012	2000	2010	2013
+461257	Soccer	3	Whose goal against Russia assured Bulgaria a spot in the 1998 World Cup?	Gosho Ginchev	Anatoli Nankov	Luboslav Penev	Trifon Ivanov
+151961	Soccer	3	Which of these teams did Not advance to the knockout round of Euro 2012?	Portugal	Czech Republic	Germany	Russia
+530783	Soccer	3	The 2009-10 champions Chelsea finished the 2010-11 Premier League in what place?	Fourth	First	Third	Second
+533839	Soccer	3	Toronto FC first made the MLS playoffs in what year?	2013	2011	2009	2015
+461312	Soccer	3	After winning in 1994, Brazil boasted how many World Cup titles?	6	7	8	4
+57722	Soccer	3	Why did Turkey have to withdraw from the 1950 FIFA World Cup?	Civil War	Swine Flu	Terrorism	Financial Problems
+96819	Soccer	3	Who coached the squad from East Germany in the 1974 World Cup?	Francisco Maturana	Dawson Walker	Walter Nausch	Georg Buschner
+1MU1529	Soccer	3	Which team won the MLS Cup in the 2009 season?	Sporting KC	FC Dallas	Chivas USA	Real Salt Lake
+461498	Soccer	3	In what year did David Beckham first play in a World Cup?	1990	1988	1984	1998
+77J1042	Soccer	3	What team won the MLS Fair Play Award in 2018?	San Jose Earthquakes	New England Revolution	Portland Timbers	Los Angeles FC
+326615	Soccer	3	What team did Mia Hamm play for in college?	University Of Massachusetts	Notre Dame	University Of Central Florida	University Of North Carolina
+186614	Soccer	3	Who is the leading scorer of Mexico in World Cups?	Hugo Sanchez	Cuauhtemoc Blanco	Enrique Borja	Luis Hernandez
+96799	Soccer	3	Who won the first World Cup of soccer, in 1930?	England	Italy	Nigeria	Uruguay
+461434	Soccer	3	In what year did Brazil earn the right to keep the World Cup trophy permanently?	1970	1974	1988	1962
+461161	Soccer	3	Who was the top goal scorer during the 1978 World Cup?	Cubillas	Rensenbrink	Lato	Kempes
+288319	Soccer	3	What was the name of the starting goalkeeper for Portugal in the World Cup 2002?	Beto	Pauleta	Luis Figo	Victor Baia
+326678	Soccer	3	What was Hungary's goal average per game in the 1962 World Cup?	2.87	6	3.55	4
+461565	Soccer	3	Which country was tapped to host the 1978 World Cup?	Poland	The Netherlands	Finland	Argentina
+50071	Soccer	3	With 6 goals, Italy's Paolo Rossi was World Cup's high scorer in what year?	1988	1992	1996	1982
+461638	Soccer	3	How old was England's Peter Shilton, the oldest player in the 1990 World Cup?	52	34	38	40
+461388	Soccer	3	Peter Shilton wore which company's gloves for England in the 1990 World Cup Finals?	Adidas	Sondico	ReUSCh	Uhlsport
+506840	Soccer	3	What Vancouver Whitecaps player won MLS Newcomer of the Year Award in 2014?	Diego Valeri	Mauro Rosales	Darren Huckerby	Pedro Morales
+533794	Soccer	3	How many first-team matches from 1994 to 2010 has Raul appeared in for Real Madrid?	441	7478	941	741
+461435	Soccer	3	In what year were World Cup hosting responsibilities shared for the first time by two nations?	1962	1954	1986	2002
+533810	Soccer	3	When was Women's Soccer first included as a full-medal event?	1972	1988	2000	1996
+506912	Soccer	3	Which Chelsea player is the first player to score in four FA Cup Finals?	Juan Mata	Daniel Sturridge	Fernando Torres	Didier Drogba
+461534	Soccer	3	Who scored twice in the third-place match at the 2006 World Cup?	Miroslav Klose	Christiano Ronaldo	Luis Figo	Bastian Schweinsteiger
+43857	Soccer	3	In which World Cup did Zinedine Zidane get a red-card expulsion and two-game suspension?	1990	1960	1986	1998
+186959	Soccer	3	What club won the first National Challenge Cup in 1914?	Fall River FC	Bethlehem Steel	Brooklyn Celtics	Brooklyn Field Club
+45L0920	Soccer	3	What year did Diego Maradona captained Argentina to the World Cup?	1966	1970	1978	1990
+506910	Soccer	3	Which club made the semi-finals in the 2017–18 UEFA Champions League tournament?	Sevilla	Chelsea	Barcelona	Roma
+461234	Soccer	3	How did 1950 U.S. star Joe Gaetjens support himself while a student at Columbia University?	Family Wealth	Training Dogs	Telemarketing	Washing Dishes
+461588	Soccer	3	The Dutch team scored 15 goals in 7 World Cup matches in what year?	1966	2002	1954	1974
+96823	Soccer	3	Who did the Republic of Ireland beat in a playoff to qualify for the 2002 World cup?	UAE	Pakistan	Iraq	Iran
+528580	Soccer	3	Who finished 1st, 2nd and 3rd in that order, in the CONCACAF 2002 World Cup eliminatories?	Mexico, USA, Costa Rica	USA, Mexico, Costa Rica	Costa Rica, USA, Mexico	Costa Rica, Mexico, USA
+533867	Soccer	3	Who was the first American player to captain a soccer team in Europe?	Landon Donovan	Chad Deering	Brian McBride	Claudio Reyna
+73045	Soccer	3	Which teams played against each other in three successive Quarter Finals of the 1954, 1958 and 1962 World Cups?	Brazil And England	Brazil And Hungary	Italy And Argentina	West Germany And Yugoslavia
+461375	Soccer	3	Which country hosted the 1962 World Cup?	France	Yugoslavia	Canada	Chile
+478111	Soccer	3	What club was Cesc Fabregas a member of just prior to joining FC Barcelona?	Tottenham	Manchester United	Valencia CF	Arsenal F.C.
+533844	Soccer	3	The Red Patch Boys and U-Sector are supporters' groups for what MLS team?	Montreal Impact	Vancouver Whitecaps	Chicago Fire	Toronto FC
+461403	Soccer	3	Win In Africa With Africa is the theme of which World Cup?	2002	1990	1962	2010
+45L0916	Soccer	3	When was the Women's World Cup first held?	1977	1999	1934	1991
+461334	Soccer	3	In what year did the first World Cup mascot debut?	1950	1974	1982	1966
+186944	Soccer	3	Which player missed Italy's last penalty in the 1994 World Cup Final against Brazil?	Paulo Maldini	Alesandro Costacurta	Gianfranco Zola	Roberto Baggio
+253940	Soccer	3	What coach was fired by the New York Red Bulls in June 2006?	Bruce Arena	Alexi Lalas	Richie Williams	Mo Johnston
+461458	Soccer	3	Who won the 1974 World Cup, hosted by West Germany?	Brazil	Argentina	Switzerland	West Germany
+293311	Soccer	3	What is the name of the Japanese national team goalkeeper who impressed critics in the 1998 World Cup?	Takashi Fukunishi	Hidetoshi Nakata	Yasuyuki Moriyama	Yoshikatsu Kawaguchi
+2485	Soccer	3	Which of these Chelsea FC managers held the manager's job longest for the club?	Guus Hiddink	David Webb	Avram Grant	Claudio Ranieri
+45L0929	Soccer	3	In which World Cup did Maradona score what would become known as the "Goal of the Century"?	1998	1974	1994	1986
+10834	Soccer	3	When was the first season for Major League Soccer?	1990	2000	2005	1996
+5SC80397	Soccer	3	In 2018, each MLS team played how many regular season games?	45	23	12	34
+326941	Soccer	3	The U.S. Open Cup annual soccer tournament bears the name of what influential sports promoter?	Art Model	Mark Cuban	Howard Cosel	Lamar Hunt
+461373	Soccer	3	The 1990 World Cup in Italy featured how many venues?	6	4	17	12
+461427	Soccer	3	Who was the host country for the 2014 FIFA World Cup?	Switzerland	Italy	Mexico	Brazil
+215088	Soccer	3	Who did Senegal beat in 2002 to qualify for the first time for the World Cup?	Egypt	Algeria	Namibia	Morocco
+506829	Soccer	3	What country was the referee for the Euro 2016 final from?	Portugal	Italy	Germany	England
+461370	Soccer	3	How many host cities were involved in the 1962 World Cup?	1	2	10	4
+289259	Soccer	3	How many goals did Zinedine Zidane score in the 2006 World Cup?	2	8	11	3
+533857	Soccer	3	Who in English football had the nickname of "The Romford Pele"?	Peter Osgood	Ray Wilkins	John Radford	Ray Parlour
+461538	Soccer	3	Who won third place in the 1994 FIFA World Cup?	Croatia	Bulgaria	Romania	Sweden
+478116	Soccer	3	Who was the U.S. Soccer Athlete of the Year in 2002?	Landon Donovan	Earnie Stewart	Kasey Keller	Brad Friedel
+533830	Soccer	3	What year did Midfielder Sami Khedira join Real Madrid?	2011	2013	1999	2010
+478257	Soccer	3	What player stood in for the injured Pele in the 1962 final game?	Vava	Rivaldo	Garrincha	Amarildo
+533799	Soccer	3	Where did the 2013 UEFA Europa League Final between Chelsea and Benfica take place?	Arena Nationala, Bucharest	Aviva Stadium, Dublin	City of Manchester Stadium	Amsterdam Arena
+186613	Soccer	3	By last name, which players earned awards for the "Most Beautiful Goals" in the 1986 World Cup?	Zico And Platini	Maradona And Lineker	Sanchez And Butrague-O	Negrete And Maradona
+523980	Soccer	3	How many matches were played at UEFA Euro 1992?	88	16	32	15
+461369	Soccer	3	How many goals did France score during the 1958 World Cup competition?	16	12	33	23
+288273	Soccer	3	In 1962, what label was FIFA using for the World Cup team groupings?	Buckets	Ports	Ells	Pots
+43491	Soccer	3	What is the club whose players scored the most goals in the 2002 World Cup?	Juventus	Bayer Leverkusen	Real Madrid	Inter Milan
+288690	Soccer	3	In the 2006 World Cup, who scored in their own goal against Paraguay in its 1-0 loss to England?	Justo Villar	Carlos Paredes	Aldo Bobadilla	Carlos Gamarra
+530784	Soccer	3	What team lost in the MLS Cup Final in 2011 and 2012?	Columbus Crew	LA Galaxy	Real Salt Lake	Houston Dynamo
+293308	Soccer	3	What French soccer team did Ronaldinho play for between 2001-2003?	RC Lens	Olympique Lyonnais	Olympique de Marseille	Paris St. Germain F.C.
+461779	Soccer	3	In what year did Sweden host the World Cup?	1956	1950	1954	1958
+478045	Soccer	3	How many goals did Marco van Basten score in the UEFA Euro 1988?	Six	Ten	Seven	Five
+461643	Soccer	3	Other than Geoff Hurst who scored the other England goal in the 1966 World Cup Final?	Bobby Charlton	Alan Ball	Bobby Moore	Martin Peters
+533870	Soccer	3	How many goals did the United States score in the 2004 Olympics?	10	4	1	0
+461295	Soccer	3	Who won the 1966 World Cup?	France	Scotland	West Germany	England
+461186	Soccer	3	Where did Turkey finish in the 2002 FIFA World Cup?	2nd Place	1st Place	Last	3rd Place
+461454	Soccer	3	How many goals did West Germany score in six games during the 1954 World Cup?	16	33	19	25
+461667	Soccer	3	Why did the NY Times bury the story about the USA's victory against England in a 1950 World Cup game?	Soccer Was Of No Interest	It Was A Busy Newsday	The Reporter Was Not Well-Known	The Editors Thought It Was A Hoax
+478256	Soccer	3	In their final 1994 World Cup Qualifier, England (who failed to qualify) conceded a goal 9 seconds into the game. What country scored this goal?	Estonia	Italy	Poland	San Marino
+461620	Soccer	3	How many goals did Brazil's top scoring Ronaldo rack up in the 2002 World Cup games?	11	13	12	8
+326241	Soccer	3	When did Manchester United first win the former First Division (now Premier League)?	1903-1904	1910-1911	1951-1952	1907-1908
+533801	Soccer	3	How many red cards did Juventus get in the 2017 UEFA Champions League Final?	Four	Five	Zero	One
+530782	Soccer	3	Who defeated Real Madrid in the Copa del Rey tournament in 2002?	Valencia	Barcelona	Valladolid	Deportivo La Coru-A
+461283	Soccer	3	Zakumi, a green and gold lion, is the mascot for which FIFA World Cup?	2002	1994	1998	2010
+461453	Soccer	3	Who scored 6 goals during the 2018 FIFA World Cup?	Eden Hazard	Cristiano Ronaldo	Jesse Lingard	Harry Kane
+524046	Soccer	3	Who was Real Madrid's "Blond Arrow" of the 1950's and 1960's?	Kubala	Puskas	Gento	Di Stefano
+461436	Soccer	3	Which of these countries qualified for their first World Cup in 2002?	Turkey	Japan	Costa Rica	Ecuador
+287920	Soccer	3	Which soccer player scored the first hat-trick in the 2002 World Cup?	Ronaldo	Pauletta	Michael Ballack	Miroslav Klose
+530773	Soccer	3	Who won the MLS MVP award in the 2010 season?	Edson Buddle	Landon Donovan	Donovan Ricketts	David Ferreira
+45L0909	Soccer	3	Which South American country was the first one to win a World Cup?	Colombia	Brazil	Argentina	Uruguay
+506825	Soccer	3	What year did Real Madrid rename their stadium in honor of then President Santiago Bernabeu?	1965	1981	1961	1955
+461452	Soccer	3	What was FIFA's primary concern when considering the U.S. to host the 1994 World Cup?	Gas Prices	Sponsorships	Sufficient Lodging	A Lack Of American Fans
+528590	Soccer	3	What was Italy's hatchet man Claudio Gentile nicknamed?	The Stallion	The Bullet	The Man	The Beast
+461406	Soccer	3	Who lost to Israel in the 1994 World Cup qualification?	Hungary	Denmark	Poland	France
+506924	Soccer	3	What year did Chelsea FC reach the 100 year milestone?	2000	1988	2010	2005
+461561	Soccer	3	When traveling to Brazil for the 1950 World Cup, Italy insisted on what form of transport?	A Train	Private Jets	Limousines	An Ocean Liner
+289264	Soccer	3	Which player scored the fastest goal in the 1982 World Cup?	Paulo Rossi	Michel Platini	Diego Maradona	Bryan Robson
+461420	Soccer	3	What was the only team in Group H in the 1998 World Cup that had previous World Cup Finals experience?	England	Mexico	Japan	Argentina
+461270	Soccer	3	Who coached the squad from Italy in the 1978 World Cup?	Henri Michel	Flavio Costa	George Raynor	Enzo Bearzot
+533778	Soccer	3	Where was the final played of the 2017–18 UEFA Champions League tournament?	Zurich	Paris	Moscow	Kiev
+67685	Soccer	3	Geoff Hurst scored 3 of England's 4 goals in the 1966 World Cup Final. Who scored the other?	Jimmy Greaves	Bobby Moore	Bobby Charlton	Martin Peters
+477046	Soccer	3	Who eliminated Chelsea from FA Cup in 2014?	Liverpool	Cardiff City	Everton	Manchester City
+506838	Soccer	3	What are the colors of the home kit for Spanish football club, Valencia?	All Blue	Blue And Red	All Yellow	Black And White
+528584	Soccer	3	Who coached the squad from France in the 1978 World Cup?	Guy Thys	Alf Ramsey	Adolfo Pedernera	Michel Hidalgo
+524007	Soccer	3	Madrid's Alfredo Di Stefano was first to win the Pichichi award how many times in a row?	Seven Times	Eight Times	Ten Times	Four Times
+293307	Soccer	3	Neymar scored his first goal in a Barcelona shirt against what national team?	Japan	Philippines	South Africa	Thailand
+326788	Soccer	3	Which La Liga football club's badge has a ball and a red x on a white flag with a blue stripe?	Tours FC	Barcelona FC	Borussia Dortmund	Eibar SD
+100177	Soccer	3	How many of the new stadia were built for the 2010 World Cup in South Africa?	10	2	0	5
+461569	Soccer	3	Which player scored most goals in a single World Cup match?	Paolo Rossi	Emilio Butragueno	Jurgen Klinsmann	Oleg Salenko
+1MU1523	Soccer	3	Which MLS team won its first MLS Cup in 2013?	Real Salt Lake	Columbus Crew	Tampa Bay Mutiny	Sporting Kansas City
+530779	Soccer	3	Which player was awarded the FWA Footballer of the Year for the 2010-11 season?	Charlie Adam	Carlos Tevez	Nemanja Vidic	Scott Parker
+523983	Soccer	3	In what round did Poland lose in the UEFA Euro 2016?	Finals	Round of 16	Semi-finals	Quarter-finals
+461247	Soccer	3	What record was broken at the 2006 World Cup even before the semi-finals had been played?	Lowest Goals-Per-Game Average	Most Goals Scored	Most Injuries	Most Yellow Cards
+478100	Soccer	3	Who scored the first goal at Wembley Stadium?	Dixie Dean	George Best	Alf Common	David Jack Of Bolton Wanderers
+461619	Soccer	3	Which of these players has scored the most goals in a single World Cup?	Gerd Muller	Pele	Sandor Koksis	Just Fontaine
+523998	Soccer	3	What player won his third MLS Fair Play Award in 2014?	Logan Pause	Darlington Nagbe	Chris Klein	Michael Parkhurst
+523994	Soccer	3	What city hosted the 2016–17 UEFA Champions League finals?	London	Rome	Madrid	Cardiff 
+326485	Soccer	3	What year did Lufs Figo win the Ballon d'Or while playing for Real Madrid?	2003	2008	1995	2000
+87175	Soccer	3	Which of these years did Brazil lose to France in the World Cup final?	1954	1958	1966	1998
+524055	Soccer	3	Who did Chelsea beat in the final of the 2010 FA Cup?	Liverpool	Manchester City	Wigan Athletic	Portsmouth
+461640	Soccer	3	Which goalkeeper captained his country to World Cup success in 1982?	Carlos	Gordon Banks	Harold Schumacher	Dino Zoff
+45L0911	Soccer	3	In what year were replaceable cleats credited for West Germany's win against Hungary in a downpour?	1956	1958	1950	1954
+461380	Soccer	3	Who scored a hat trick against Poland in the 1986 World Cup?	Diego Maradona	Careca	Carl Heinz Rumminige	Gary Lineker
+461328	Soccer	3	Which national side won the 1986 World Cup?	Italy	West Germany	Brazil	Argentina
+461331	Soccer	3	What soccer player, considered one of the best to ever play the game, never played in a World Cup?	Bobby Charlton	Franz Beckenbauer	Pele	George Best
+289254	Soccer	3	The 2018 FIFA World Cup was what edition of the FIFA World Cup?	210th	10th	100th	21st
+461290	Soccer	3	Who is the owner of the game transmission rights for the 2002 and 2006 World Cups?	RAI	Telefonica	CBS	DirecTV
+461346	Soccer	3	The Miracle On The Grass refers to what country's 1-0 win over England in the 1950 World Cup?	Chile	Costa Rica	Ireland	U.S.
+45L0905	Soccer	3	In what year did Brazil unveil Pele at the World Cup?	1950	1954	1956	1958
+461296	Soccer	3	What year did Pierre Pibarot coach the squad from France?	1962	1974	1982	1954
+461246	Soccer	3	Who took second place in the 1999 Women's World Cup?	Cameroon	Norway	United States	China
+533806	Soccer	3	Who was the Man of the Match winner for the 2016 UEFA Champions League Final?	Filipe Luis	Pepe	Jan Oblak	Sergio Ramos
+2264	Soccer	3	Who won the 2018 CONCACAF Champions League?	Cruz Azul	Club Atlas	FC Barcelona	CD Guadalajara
+461323	Soccer	3	Which country's national team shocked the world by defeating Italy in the 1966 World Cup?	Cote D' Ivoire	New Zealand	Finland	North Korea
+533874	Soccer	3	On what A-League soccer team did U.S. National Team players Brian McBride and Tony Sanneh play together?	New York Cosmos	Rochester Rhinos	Indiana Blast	Milwaukee Rampage
+506919	Soccer	3	What are the home kit colors for German football club, Eintracht Frankfurt?	Black And White	All Red	All Blue	Black And Red
+461239	Soccer	3	Who knocked out Mexico in the Round of 16 at the 2018 FIFA World Cup?	Argentina	Serbia	France	Brazil
+461178	Soccer	3	How many venues were there for the 2002 World Cup?	12	33	11	20
+77J1072	Soccer	3	What club did Rafael Marquez first join in 2003?	Atlas	Monaco	Real Madrid	Barcelona
+477039	Soccer	3	Who is a vice-captain along with Pepe of the 2014 Real Madrid squad?	Casemiro	Diego Lopez	Gareth Bale	Sergio Ramos
+461405	Soccer	3	Which World Cup was the first to be televised?	1962	1974	1970	1954
+288277	Soccer	3	Who knocked out the U.S. in Round 16 of the 1994 World Cup?	England	Italy	Valley Stream North	Brazil
+461236	Soccer	3	Who scored Italy's only goal in the 2006 World Cup final?	Luca Toni	Danielle De Rossi	Andrea Pirlo	Marco Meterazzi
+477041	Soccer	3	What year did Chelsea finish with 95 points in the Premier League?	2013	2010	2001	2005
+506928	Soccer	3	How many goals did Cristiano Ronaldo score in the 2017–18 UEFA Champions League tournament?	10 Goals	19 Goals	18 Goals	15 Goals
+2313	Soccer	3	Which country won Group E during the first stage of the U.S. 1994 World Cup?	Norway	Ireland	Italy	Mexico
+524058	Soccer	3	What does Eva Carneiro do for the Chelsea FC in 2013-14?	Match Analyst	Technical Director	Assistant Managers	First Team Doctor
+477043	Soccer	3	What does Christophe Lollichon do for the Chelsea FC in 2013-14?	First Team Doctor	Chief Executive	Senior Opposition Scout	Goalkeeper Coach
+528564	Soccer	3	How many goals did Diego Maradona score in the 1986 World Cup?	7	1	11	5
+287899	Soccer	3	What nickname was soccer's Mia Hamm given by her peers in college?	Striker	Lightening	Golden Foot	Jordan
+288734	Soccer	3	Who was the first player to score in all of his country's matches resulting in a World Cup win?	Bobby Charlton	Diego Maradona	Franz Beckenbauer	Jairzinho
+461365	Soccer	3	How many fans attended the 1982 World Cup matches in Spain?	1,110,112	5,588,257	789,155	2,109,723
+326195	Soccer	3	Which Soccer Club won the MLS Cup 2018?	Los Angeles FC	Columbus Crew SC	Chicago Fire	Atlanta United FC
+77090	Soccer	3	What 2002 Golden Ball winner was not named to his country's starting 11 for the 2006 World Cup?	Ronaldo	Brian McBride	Roberto Borgetti	Oliver Kahn
+2315	Soccer	3	How many of the ten 2010 World Cup stadia feature an indoor field?	0	5	6	1
+289286	Soccer	3	When was the first World Cup in which teams from all 6 continental confederations participated?	2002	2006	1994	1982
+533872	Soccer	3	Which La Liga football club's badge has the letters RVM and a red arrow?	Corinthians	Espanyol	Carabobo Futbol Club	Rayo Vallecano
+506935	Soccer	3	What city is home to MLS' headquarters?	Los Angeles	Chicago	Houston	New York City
+461352	Soccer	3	Who scored the overtime "golden goal" to give France a 1-0 win over Paraguay in the round of 16 in the 1998 World Cup?	David Trezeguet	Zinedene Zidane	Thierry Henry	Laurent Blanc
+506913	Soccer	3	How many goals did Ronaldo score in 2011, to set a Real Madrid highest goal scorer in a season record?	48 Goals	73 Goals	59 Goals	53 Goals
+533855	Soccer	3	What WUSA team did Mia Hamm play for?	Carolina Courage	Philadelphia Charge	Atlanta Beat	Washington Freedom
+461320	Soccer	3	Which country was the first host nation to win the World Cup since Argentina in 1978?	England	Germany	Mexico	France
+461248	Soccer	3	How old was Roger Milla when he appeared in the 1994 World Cup?	65	21	30	42
+288697	Soccer	3	In what year did Hungary set the record for the most goals (27) scored in a single World Cup?	1958	1950	1966	1954
+461389	Soccer	3	Who scored for France to send defending champions Brazil packing in the quarterfinals of the 2006 World Cup?	Frank Ribery	Zinedene Zidane	Claude Makelele	Theirry Henry
+96808	Soccer	3	What landmark goal did Sweden's Marcus Allback score in the 2006 World Cup game against England?	100th	50th	500th	2000th
+461562	Soccer	3	How many World Cups has Mia Hamm played in?	Three	Seven	One	Four
+530862	Soccer	3	What was the first U.S. professional soccer team that Claudio Reyna was a member?	D.C. United	Chicago Fire	Kansas City Wizards	Red Bull New York
+461536	Soccer	3	Between 1950 and 1958, how many consecutive losses did Mexico suffer in World Cup play?	14	3	4	9
+288668	Soccer	3	What country won their 4th FIFA World Cup title in 2014?	Italy	Sweden	Brazil	Germany
+288196	Soccer	3	What year did Italy win its 4th World Cup title?	2002	1998	1982	2006
+533788	Soccer	3	What number uniform does Eden Hazard wear for the 2013 Chelsea FC?	11	2	32	17
+50061	Soccer	3	In 1934 which African side were the first to represent rhat continent at the World Cup?	Tunisia	Morocco	Israel	Egypt
+45L0918	Soccer	3	Who scored France's only goal in its 1-0 win over Portugal in the semifinal of the 2006 World Cup?	Thierry Henry	Frank Ribery	Fabian Barthez	Zinadine Zidane
+250945	Soccer	3	In what year did AC Milan buy Andriy Shevchenko from Dynamo Kiev?	2001	1998	2002	1999
+64964	Soccer	3	Who were the winners of the First Football World Cup in 1930?	Brazil	Chile	Mexico	Uruguay
+506936	Soccer	3	Who scored the lone goal in the Lamar Hunt U.S. Open final in 2005?	Todd Dunivant	Brian McBride	Pando Ramirez	Hercules Gomez
+506916	Soccer	3	What New England defender won MLS Defender of the Year in 2014?	Bobby Boswell	Matt Besler	Jimmy Conrad	Jose Goncalves
+461462	Soccer	3	What was the last year the World Cup used the "final pool" format?	1954	1958	1956	1950
+461412	Soccer	3	Which country hosted the 13th World Cup in 1986?	Peru	Austria	Wales	Mexico
+461749	Soccer	3	Which was the first national side to beat Uruguay in a World Cup?	Italy	Austria	West Germany	Hungary
+461665	Soccer	3	How many players did Brazil have on the 2006 World Cup All-Star team?	2	5	11	1
+461568	Soccer	3	What did Uruguay's Juan Hohberg do after scoring a second goal against Hungary in 1954?	He Tore Off His Shirt	He Did The "Chicken Dance"	He Signed Autographs	He Fainted
+478149	Soccer	3	What CONMEBOL football club's badge is black and white with wings?	Cobresal	O'Higgins	Real Sociedad	Club Libertad
+288256	Soccer	3	In how many Soccer World Cups has Claudio Reyna participated?	Three	Five	One	Four
+506896	Soccer	3	Which player scored the extra-time winner for Arsenal in the 2014 FA Cup Final?	Mesut ÷zil	Lukas Podolski	Olivier Giroud	Aaron Ramsey
+523990	Soccer	3	How many goals did Robert Lewandowski score in the 2018–19 UEFA Champions League tournament?	1 Goal	0 Goals	12 Goals	8 Goals
+506900	Soccer	3	Between 2008 and 2013, the jerseys of D.C. United were sponsored by what car company?	Honda	Toyota	Chevrolet	Volkswagen
+461430	Soccer	3	What number did Tip and Tap, the 1974 World Cup mascots, wear on their jerseys?	1	46	00	74
+506816	Soccer	3	Which club made the semi-finals in the 2018–19 UEFA Champions League tournament?	Juventus	Lyon	Porto	Ajax
+288293	Soccer	3	Italy got its first goal against Germany in the 2006 World Cup semifinals after how many minutes of goalless play?	1	91	110	119
+461467	Soccer	3	What year was Pele's final World Cup appearance?	1966	1982	1978	1970
+461409	Soccer	3	Which of these teams placed third in the World Cup 2002?	Germany	South Korea	Brazil	Turkey
+533847	Soccer	3	What was the final score of the Real Madrid vs. Real Sociedad match Nov 9, 2013?	8-7 Real Madrid Wins	2-1 Real Madrid Wins	9-2 Real Madrid Wins	5-1 Real Madrid Wins
+461265	Soccer	3	For the first time in World Cup history, what determined the outcome of the 1994 final?	Fans	Referees	Ticket Sales	Penalties
+533786	Soccer	3	How many goals did Frank Lampard have for Chelsea in the 2010-11 season?	27 Goals	6 Goals	19 Goals	13 Goals
+506834	Soccer	3	In what year were the LA Galaxy founded?	2005	1985	2000	1995
+477054	Soccer	3	Who was named U.S. Soccer Male Athlete of the Year in 2018?	Michael Bradley	Carlos Vela	Kevin Silva	Zack Steffen
+288699	Soccer	3	The FIFA award for "Most Entertaining Team" went to France after which World Cup?	2002	1994	1986	1998
+461376	Soccer	3	Which country hosted the 1982 World Cup?	Bermuda	Canada	Austria	Spain
+523991	Soccer	3	What year was the MLS founded?	1997	2001	2005	1993
+461179	Soccer	3	France, Spain and Hungary qualified in 1978, the first time for all three since what year?	1958	1950	1970	1966
+477059	Soccer	3	What year did Gerard Pique's first stint in his Youth Career with Barcelona end?	2001	1998	2006	2004
+533869	Soccer	3	Who was named U.S. Soccer Male Athlete of the Year in 2012?	Kasey Keller	Freddy Adu	Eddie Pope	Clint Dempsey
+533824	Soccer	3	What group was Real Madrid part of in the 2018–19 UEFA Champions League tournament?	Group E	Group D	Group F	Group G
+530863	Soccer	3	Which LA Galaxy player set a career record for most assists?	Landon Donovan	David Beckham	Bruce Arena	Cobi Jones
+533840	Soccer	3	How many appearances did Diego Maradona make as member of Barcelona?	166	99	242	36
+523982	Soccer	3	Who was named U.S. Soccer Male Athlete of the Year in 2015?	Tim Howard	Tab Ramos	Eric Wynalda	Michael Bradley
+461485	Soccer	3	Who won the Golden Boot in the 1998 World Cup in France?	Rivaldo	Gabriel Batistuta	Christian Vieri	Davor Suker
+96818	Soccer	3	For which World Cup did Iraq play all qualifying matches on neutral ground due to the Iran-Iraq war?	1982	1962	1990	1986
+506933	Soccer	3	Which La Liga football club's badge has a bear and stars?	Corinthians	Barcelona FC	Bayern Leverkusen	Atletico Madrid
+477038	Soccer	3	Who performed in the opening ceremony prior to the 2016 UEFA Champions League Final match?	Hozier	Adele	Snoop Dogg	Alicia Keys
+506831	Soccer	3	Which is the oldest professional English football (soccer) club south of the River Trent?	Swindon	Oxford	Wales	Reading
+73455	Soccer	3	What was the only African nation to advance past the first round of the 2006 World Cup?	Nigeria	Ivory Coast	Togo	Ghana
+506822	Soccer	3	Which team defeated Chelsea in the fifth round of the 2013-14 FA Cup?	Sunderland†	Everton	Arsenal	Manchester City
+533846	Soccer	3	Against who did Real Madrid have to battle back to earn a draw in a December 2014 match?	Osasuna	Malaga	Getafe	Osasuna
+87697	Soccer	3	In what year did the host country have venues in Guadalajara, Mexico City, Leon, Puebla and Tolouca?	1988	1954	2002	1970
+56334	Soccer	3	Which country hosted the 1958 World Cup?	Switzerland	Argentina	Chile	Sweden
+45L0923	Soccer	3	What was the name of the 1990 mascot, a tri-colored stick figure with a soccer ball for a head?	Roma	Vicenza	Bob	Ciao
+87698	Soccer	3	Who is the only player to score the last goal of a World Cup and the first goal of the next World Cup?	Pele	Paolo Rossi	Garrincha	Alessandro Altobelli
+289249	Soccer	3	Which was the only World Cup of the 20th century to end in a penalty shoot-out?	1998	1990	1986	1994
+533854	Soccer	3	Which MLS club won its first Supporters' Shield in 2014?	Miami Fusion	Colorado Rapids	San Jose Earthquakes	Seattle Sounders
+461332	Soccer	3	How many goals did Italy score against West Germany's 1 in the 1982 World Cup final?	6	4	2	3
+293309	Soccer	3	The MLS salary cap for the 2016 season was about how much per team?	$5.5 million	$1.5 million	$7.5 million	$3.5 million
+477058	Soccer	3	What home stadium of the Montreal Impact is named for its the family company of its founder?	Avaya Stadium	Mapfre Stadium	Rio Tinto Stadium	Saputo Stadium
+530777	Soccer	3	What are the home kit colors for French football club, Metz?	Red and Black	Yellow And Blue	Blue And Yellow	Red And White
+326789	Soccer	3	Which MLS team won only 8 games in the 2019 MLS season?	Colorado Rapids	Montreal Impact	Sporting Kansas City	Vancouver Whitecaps FC
+97062	Soccer	3	Who finished in third place in the 2014 FIFA World Cup?	Belgium	Portugal	Argentina	Netherlands
+506908	Soccer	3	For the 2015, season, the Seattle Sounders' uniforms were sponsored by what video game console?	PlayStation	Wii	Nvidia Shield	Xbox
+288266	Soccer	3	Which was the first African team to win a World Cup match?	Cameroon	Nigeria	Morocco	Tunisia
+289255	Soccer	3	At what World Cup were yellow/red cards first used?	1958	1982	1966	1970
+43381	Soccer	3	How long did it take for Australia to score its three goals in its 3-1 win over Japan in the 2006 World Cup?	Fifteen Minutes	Four Minutes	Nineteen Minutes	Eight Minutes
+461308	Soccer	3	Who coached the squad from USA in the 1990 World Cup?	Guy Thys	Philippe Troussier	Peter Doherty	Bob Gansler
+506818	Soccer	3	Who was named Young Player of the Tournament at the UEFA Euro 2016?	Nolito	Sam Vokes	Eder	Renato Sanches
+461350	Soccer	3	How many teams participated in the 1982 World Cup?	16	32	28	24
+477048	Soccer	3	Which one of these former Chelsea managers is from England?	Avram Grant	Carlo Ancelotti	Guus Hiddink	Ray Wilkins
+477035	Soccer	3	Who of these is part of the UEFA Euro 2020 qualifying Group F?	Croatia 	Hungary	Wales	Spain
+186946	Soccer	3	Who did France defeat in the Quarter-finals of the 2018 FIFA World Cup Tournament?	Poland	Mexico	USA	Uruguay
+524048	Soccer	3	What city hosted the 2014–15 UEFA Champions League finals?	Amsterdam	Madrid	Liverpool	Lisbon
+66424	Soccer	3	Who scored the own-goal against the United States in its 3-2 win over Portugal in the 2002 World Cup?	Eddie Pope	Frankie Hejduk	Landon Donovan	Jeff Agoos
+64967	Soccer	3	In what year did the World Cup expand to feature 24 teams, 8 more than the previous tournament?	1988	1986	1992	1982
+506836	Soccer	3	Which footballer wrote an autobiography titled "A Goal in the Sky"?	David Beckham	Gary Neville	Cristiano Ronaldo	Roberto Baggio
+477047	Soccer	3	Prior to the 2018–19 UEFA Champions League final when was the last all English final?	1958	1988	2014	2008
+461216	Soccer	3	In what year did host Argentina suddenly introduce color TV to the nation just prior to the World Cup?	1970	1954	1998	1978
+530865	Soccer	3	Who is the coach of 2019 MLS Atlanta United FC?	Marc Overmars	Peter Vermes	Steve Nicol	Frank de Boer
+461528	Soccer	3	How many goals did Korea score in the third place match in the 2002 World Cup?	0	7	1	2
+461344	Soccer	3	Who is the only man to raise the world Cup trophy as both a captain and a manager?	Diego Maradona	Pele	Carlos Alberto	Franz Beckenbauer
+461514	Soccer	3	Which appointed host country for the 1986 World Cup resigned in 1982, citing economic troubles?	Uruguay	Bolivia	S. Korea	Columbia
+327495	Soccer	3	What team did Chile beat 1-0 to finish third in the 1962 World Cup?	France	England	Sweden	Yugoslavia
+461253	Soccer	3	In the World Cup 1994 quarterfinal between Germany and Bulgaria, who scored the second goal for Bulgaria?	Emil Kostadinov	Lubo Penev	Hristo Stoitchkov	Yordan Letchkov
+461549	Soccer	3	How long was Jose Chilavert suspended after spitting on Roberto Carlos at the 2002 World Cup?	4 Games	3 Games	5 Games	2 Games
+67764	Soccer	3	Where was the 2006 World Cup third-place match contested?	Berlin	Munich	Dortmund	Stuttgart
+461385	Soccer	3	To thwart intentional time-wasting during the game, what rule did FIFA introduce in 1994?	Attack Rule	Clock Limits	Call-Out Rule	Back-Pass Rule
+506830	Soccer	3	Who scored his first goal in six weeks as Real Madrid beat Real Betis in January 2014?	Cristiano Ronaldo	Karim Benzema	Luka Modric	Gareth Bale
+288186	Soccer	3	What did McDonald's print on its take-out bags to celebrate the 1994 World Cup?	Pele	Team USA	Min-Bios of Famous Players	World Flags
+43360	Soccer	3	Corinthians have what on their crest to represent the club's success in nautical sports?	The Ocean	A Boat	A Fish	An Anchor and Oars
+461291	Soccer	3	To what does Francesco Totti donate most of the proceeds of his book, "Totti Jokes"?	Totti's Tots Youth Football	His Ex-Wife	Missionaries	UNICEF
+461362	Soccer	3	What odds did bookmakers give for Cameroon to win the 1990 World Cup?	10 to 1	52 to 1	100 to 1	500 to 1
+50069	Soccer	3	What U.S. National soccer team star fractured his skull during a 1-0 loss to Brazil at the 1994 World Cup?	John Harkes	Tony Meola	Thomas Dooley	Tab Ramos
+326232	Soccer	3	What France Ligue 2 football club's badge has three towers and "turonorum civitas libera"?	Corinthians	Paris Saint-Germain	Villarreal	Tours FC
+477071	Soccer	3	Who was named U.S. Soccer Male Athlete of the Year in 2017?	Benny Feilhaber	Clint Dempsey	Tim Ream	Christian Pulisic
+477053	Soccer	3	What is the nationality of the manager that won the 2010-11 Premier League Manager of the season?	French	Welsh	English	Scottish
+506892	Soccer	3	In what sport does Mark Cavendish compete?	Sheffield United†	Sunderland	Hull City†	Wigan Athletic
+478139	Soccer	3	Who was "pichichi" (top soccer scorer) in 2006 at Spanish La Liga?	Ronaldo	Ronaldinho	David Villa	Samuel Eto'o
+287922	Soccer	3	How many British nations qualified for the 1958 World Cup?	3	0	1	4
+506827	Soccer	3	What defender won England Player of the Year in 2010?	Micah Richards	Michael Dawson	Rio Ferdinand	Ashley Cole
+96801	Soccer	3	Who won the World Cup of soccer in 1994?	Argentina	Germany	Italy	Brazil
+461330	Soccer	3	Who coached the American soccer team in the 1998 World Cup?	Juergen Klinsman	Bruce Arena	Peter Scolari	Steve Sampson
+461305	Soccer	3	What year did Rivaldo score 5 times in the World Cup?	1986	2006	1982	2002
+288677	Soccer	3	Croatia, Jamaica, Japan and South Africa all qualified for first time for the World Cup in what year?	1990	1982	1986	1998
+506823	Soccer	3	Which of these teams did Not advance to the knockout round of Euro 2012?	Greece	England	Italy	Sweden
+77J1225	Soccer	3	How many Facebook fans did Cristiano Ronaldo reach in 2011?	10 Million	112 Million	3 Million	35 Million
+477031	Soccer	3	Which of these associations was ranked higher for the 2018–19 UEFA Champions League?	Israel	Turkey	Belgium	Italy
+461468	Soccer	3	In which World Cup was every region represented for the first time?	1978	1994	1998	1982
+267423	Soccer	3	How much did FC Barcelona pay out to Santos for Neymar?	6.2 Million Euros	106.2 Million Euros	46.2 Million Euros	86.2 Million Euros
+75933	Soccer	3	How many goals did Hungary score against South Korea in 1954 in one World Cup game?	6	5	13	9
+326611	Soccer	3	What years did Frank Lampard win the Chelsea Player of the Year award?	2001, 2002	2008, 2010	2006, 2007, 2008	2004, 2005, 2009
+506821	Soccer	3	In 2013 Marko Marin left Chelsea to go on loan to what club?	Granada	Real Madrid	FC Barcelona	Sevilla FC
+533820	Soccer	3	Which MLS team was coached by 2019 MLS season?	Greg Vanney	Bob Bradley	Caleb Porter	Brian Schmetzer
+43369	Soccer	3	The infamous "Zidane Headbutt" happened in which FIFA World Cup?	2000	1994	1998	2006
+528570	Soccer	3	How far did Turkey make it in the 1954 World Cup?	Quarterfinals	Semifinals	Finals	Round One
+533798	Soccer	3	Which of these associations was ranked higher for the 2018–19 UEFA Champions League?	Gibraltar	Serbia	Scotland	Netherlands
+461463	Soccer	3	In what World Cup year was the Zaire goalkeeper replaced after allowing 3 goals in just 22 minutes?	1988	1972	1970	1974
+461374	Soccer	3	Who was named best player of the 1982 World Cup, having returned to the game after a two-year ban?	Claudio Gentile	Dante Marello	Enzo Bearzot	Paolo Rossi
+461399	Soccer	3	What was the official name of the World Cup trophy awarded by FIFA from 1930 - 1970?	FIFA Award	World Gold Cup	World Cup Trophy	Jules Rimet Trophy
+477057	Soccer	3	Who became the manager of Manchester United for the 2014-15 season?	Ryan Giggs	Ron Atkinson	David Moyes	Louis van Gaal
+64970	Soccer	3	How many African nations qualified for the 2006 World Cup?	Four	Three	Zero	Five
+461512	Soccer	3	What was the name of the red, white and blue-clad dog that served as mascot of the 1994 World Cup?	Pat The Patriot	Boots	Kit	Stryker
+76766	Soccer	3	In the 2006 World Cup, if an opening-round game was tied after 90 minutes, how was the outcome decided?	It Went To A Penalty Shootout	Thirty Minutes Of Overtime, Then A Penalty Shootout	Golden-Goal Overtime	It Was Left As A Draw
+461527	Soccer	3	How many venues hosted games in the 1982 World Cup?	8	10	6	14
+461401	Soccer	3	Which country won the 1990 World Cup in Rome?	Italy	France	Chile	Germany
+524039	Soccer	3	Before 2014, the MLS' Most Valuable Player Award was named for what kind of company?	Footwear	Beverage	Retail	Automotive
+194430	Soccer	3	How many World Cup teams has soccer player Eddie Pope been on?	6	2	1	3
+477044	Soccer	3	Who performed in the opening ceremony prior to the 2017 UEFA Champions League Final match?	Mark Ronson	Daft Punk	Sam Smith	Black Eyed Peas
+61190	Soccer	3	Which World Cup saw a player dismissed from the final game for the very first time?	1986	1994	1982	1990

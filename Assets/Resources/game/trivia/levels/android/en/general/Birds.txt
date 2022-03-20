@@ -1,0 +1,449 @@
+FTUXPIC197	Birds	0	What is this tiny bird called?	Robin	Finch	Ostrich	Hummingbird
+FTUXPIC190	Birds	0	What is this long-necked bird called?	Blue Jay	Condor	Hawk	Pelican
+FTUXPIC200	Birds	0	What is this common water bird called?	Swan	Penguin	Shoebill	Duck
+FTUXPIC201	Birds	0	What is this honking bird called?	Condor	Toucan	Canary	Goose
+611FTUX38	Birds	0	Which of these birds is usually all black?	Hummingbird	Owl	Duck	Raven
+0DIF80	Birds	0	When are owls most active?	In the morning	Only in summer	During the afternoon	At night
+611FTUX36	Birds	0	Which of the following is NOT in a typical diet of a bird?	Seeds	Nuts	Vegetables	Onions
+0DIF74	Birds	0	What do male owls do to attract female owls?	Flex	Dance	Collect mice	Hoot
+FTUXPIC189	Birds	0	What is this common beach bird?	Pelican	Crow	Duck	Seagull
+FTUXPIC194	Birds	0	What is this pink bird?	Woodpecker	Emu	Cardinal	Flamingo
+FTUXPIC199	Birds	0	What is this common neighborhood bird?	Blue Jay	Cardinal	Robin	Crow
+0DIF62	Birds	0	What are baby hens called?	Pups	Kittens	Kids	Chicks
+0DIF69	Birds	0	Where do hens normally sleep?	Garden	Basement	Stable	Coop
+0DIF61	Birds	0	Which black and white bird can swim but cannot fly?	Hummingbird	Pigeon	Dodo	Penguin
+FTUXPIC184	Birds	0	What is this scavenger bird?	Swan	Duck	Seagull	Vulture
+611FTUX39	Birds	0	Which of the following is not part of a bird's anatomy?	Beak	Crown	Mandible	Fins
+FTUXPIC196	Birds	0	What is this bird that eats from trees called?	Toucan	Swan	Condor	Woodpecker
+FTUXPIC191	Birds	0	What is this flightless bird?	Emu	Cardinal	Dodo	Ostrich
+FTUXPIC192	Birds	0	What is this common city dwelling bird?	Parakeet	Vulture	Canary	Pigeon
+FTUXPIC186	Birds	0	What is this bird that can repeat sounds?	Canary	Sparrow	Finch	Parrot
+0DIF75	Birds	0	Which bird cannot fly?	Stork	Cardinal	Dove	Emu
+0DIF76	Birds	0	Birds of prey are described as having what type of beak?	Polished	Fuzzy	Invisible	Hooked
+0DIF70	Birds	0	What are the sharp structures located on the ends of carnivorous bird's legs called?	Razers	Hook feets	Black nails	Talons
+0DIF64	Birds	0	Which bird eats bones?	Dove	Pigeon	Hummingbird	Vulture
+0DIF78	Birds	0	When do swans usually mate?	Every day	Never, they're extinct	Winter	Spring
+FTUXPIC195	Birds	0	What is this common barn bird called?	Vulture	Parrot	Penguin	Owl
+0DIF73	Birds	0	In what country do you find the kiwi?	Mexico	United States	Antarctica	New Zealand
+FTUXPIC182	Birds	0	What is this bird that can mimick hawk calls?	Sparrow	Chickadee	Dove	Blue Jay
+0DIF66	Birds	0	The Northern Spotted Owl is a what?	Omnivore	Herbivore	Scavenger	Carnivore
+611FTUX37	Birds	0	Which of these birds is extinct?	Snowy Owl	Cardinal	Raven	Dodo
+FTUXPIC193	Birds	0	What is this bird named after footwear?	Ibis	Macaw	Cockatoo	Shoebill
+0DIF65	Birds	0	Which bird can fly backwards?	Falcon	Penguin	Chicken	Hummingbird
+0DIF63	Birds	0	What does it mean when a bird is moulting?	It's sleeping	It's hungry	It's about to lay eggs	It's losing feathers
+FTUXPIC198	Birds	0	What is this bird that is a symbol of peace?	Woodpecker	Hawk	Duck	Dove
+FTUXPIC188	Birds	0	What is this tropical bird?	Eagle	Finch	Goose	Toucan
+0DIF79	Birds	0	How often do hens lay eggs?	Every 10 days	Once a month	Every 7 minutes	Every day
+611FTUX41	Birds	0	Which of the following is a bird of prey?	Pigeon	Finch	Hummingbird	Hawk
+FTUXPIC185	Birds	0	What is this flightless bird?	Dodo	Parakeet	Parrot	Penguin
+FTUXPIC187	Birds	0	What is this bird, featured in Edgar Allan Poe's poem?	Toucan	Dove	Chickadee	Raven
+FTUXPIC202	Birds	0	What is this "baby delivering" bird called?	Cockatoo	Hawk	Sparrow	Stork
+0DIF77	Birds	0	What do owls eat?	Mice	Rats	Rabbits	All of the these
+FTUXPIC181	Birds	0	What is this National Bird of the USA?	Robin	Blue Jay	Crow	Eagle
+0DIF68	Birds	1	About how many species of birds are there in the world?	800	1,700	100	10,000
+611FTUX40	Birds	1	Which of the following is true about a Hummingbird?	Their lifespan is about one month	They can go weeks without eating	They can eat fish 2x their size	They can fly backwards
+0DIF72	Birds	1	Which is the only continent where owls are not found?	South America	North America	Asia	Antarctica
+1B40159	Birds	1	Which of the following is not a type of bird?	Common Raven	Blue Jay	Pelican	Blue Tang
+1B40153	Birds	1	What small wingless jumping insect feeds on the blood of mammals and birds?	Fly	Mosquito	Aphid	Flea
+1B40097	Birds	1	What is the largest living bird in the world?	Trumpeter Swan	Flamingo	Great Blue Heron	Ostrich
+1B40039	Birds	1	What keeps a duck dry even though it spends almost all its time in the water?	Nest	Bill	Skin Thickness	Feathers
+1B40099	Birds	1	Which bird is the mascot for "Cocoa Puffs"?	Rodney the Robin	Toucan Sam	Polly the Penguin	Sonny The Cuckoo Bird
+1B40123	Birds	1	What small birds are the only birds that can fly backwards?	Eagles	Albatrosses	Condors	Hummingbirds
+1B40193	Birds	1	Which birds can fly at over 100 miles per hour?	Ostrich	Penguin	Turkey	Falcon
+281602	Birds	1	Which species can be described as a farm chicken?	Hamster	Turkey	Quail	Rhode Island Red
+1B40069	Birds	1	What is a 9 letter word meaning "a game bird with a plump body and brownish feathers"?	Expensive	Bountiful	Piggyback	Partridge
+1B40077	Birds	1	Which of the following is a common bird in North America?	Coyote	Ostrich	Earwig	American Crow
+1B40201	Birds	1	What seabird is characterized by a long beak and a large throat pouch?	Penguin	Gull	Booby	Pelican
+1B40165	Birds	1	In the northern hemisphere, birds often migrate which direction in the autumn?	North	East	Northwest	South
+1B40129	Birds	1	What is the state bird of Arizona?	Eastern Goldfinch	Western Meadowlark	Baltimore Oriole	Cactus Wren
+1B40119	Birds	1	What is the largest bird in the world?	Eagle	Condor	Emu	Ostrich
+1B40043	Birds	1	What is a seven-letter word meaning "a bird with a long bill"?	Ammonia	Scarlet	Afflict	Pelican
+1B40021	Birds	1	Which species is a bird that swims very well but cannot fly?	Sparrow	Gull	Owl	Penguin
+1B40179	Birds	1	What seabird's stance and coloring closely resembles a penguin?	Pelican	Gull	Albatross	Murre
+181091	Birds	1	Which of these birds are the smallest?	Hawk	Swan	Ostrich	Hummingbird
+1B40163	Birds	1	Which of the following is a bird of prey?	Sparrow	Robin	Hummingbird	Hawk
+45L0659	Birds	1	Which of these is a bird of prey?	Blue Jay	American Crow	Cardinal	Peregrine Falcon
+1B40059	Birds	1	What animal is a large flightless Australian bird?	Badger	Cougar	Seal	Emu
+1B40023	Birds	1	What would you call a small, colorful, brush-tongued parrot from Australia?	Dromedary	Muskrat	Hares	Rainbow Lorikeet
+1B40017	Birds	1	Which species is described as "magnificent birds from India"?	Dragonfly	Yellow Jacket	River Otter	Peafowl
+1B40057	Birds	1	Which of these is the largest bird on a farm?	Hen	Rooster	Duck	Turkey
+1B40103	Birds	1	What animal is a large bird from the islands of Australia, Tasmania, and New Guinea?	Muskrat	Bobcat	Kangaroo Rat	Kookaburra
+1B40187	Birds	1	In which biological class do birds belong?	Mammal	Reptile	Amphibian	Aves
+1B40041	Birds	1	Although birds usually live in trees, which kind can be found thriving in cities around the world?	Grouse	Eagle	Chickadee	Pigeon
+1B40217	Birds	1	What pink bird will you often see posing, sometimes standing on just one leg?	Robin	Ostrich	Eagle	Flamingo
+1B40013	Birds	1	Which species is a large bird with a bald head?	Lark	Gazelle	Dromedary	Vulture
+1B40025	Birds	1	What bird, a fast runner, rarely flies?	Hummingbird	Albatross	Herring Gull	Roadrunner
+1B40009	Birds	1	Which animal has a large tuft of feathers on its head?	Camel	Cat	Iguana	Umbrellabird
+FTUXPIC183	Birds	1	What is this common red bird?	Raven	Eagle	Vulture	Cardinal
+1B40091	Birds	1	Unlike most birds, penguins cannot do what?	Swim	Drink Water	Lay Eggs	Fly
+1B40011	Birds	1	Which of these species is a North American bird that can mimic the songs of many other birds?	Hares	Frog	Gnu	Mockingbird
+228256	Birds	1	Which of the following is the best habitat for a duck?	Grassland	Mountain Top	Space	Pond
+1B40055	Birds	1	What animal is a water bird that is often raised on farms?	Frog	Salmon	Tarantula	Duck
+1B40031	Birds	1	Which of these is a North American raptor or bird of prey?	Howler	Chicken	Sparrow	Red-Tailed Hawk
+1B40019	Birds	1	What sea bird lives in the Arctic?	Pelican	Hyacinth Macaw	Ostrich	Puffin
+1B40027	Birds	1	Which species is a brightly-colored songbird?	Gorilla	Northern Elephant Seal	Toad	Western Meadowlark
+1B40107	Birds	1	Which animal is a large bird of prey?	Wolverine	Black Bear	Red Panda	Golden Eagle
+1B40051	Birds	1	What is the bottom side of the wing on a bird called?	Innerwing	Below Wing	Bottomwing	Underwing
+1B40029	Birds	1	What would you call a black and orange bird that eats fruit and nectar?	Bison	Hatchetfish	Rabbit	Oriole
+1B40093	Birds	1	What feature makes it easier for birds to fly?	Scaly Feet	Compound Eyes	Colorful Plumage	Hollow Bones
+233767	Birds	1	Which of these could be used to identify birds?	ESP	Constellations	Myths	Field Guide
+1B40189	Birds	1	A fish-eating bird with a huge pouched bill is known as what?	Blowfish	Dingo	Okapi	Brown Pelican
+1B40151	Birds	1	Which of the following is not a type of bird?	American Goldfinch	Wood Thrush	Cardinal	Northern Pike
+1B40121	Birds	1	Which of these birds is an excellent mimic of the human voice and other sounds?	Emperor Penguin	Dove	Nene	African Gray Parrot
+1B40035	Birds	1	What is the largest bird that cannot fly, but runs very quickly?	Hummingbird	Penguin	Quail	Ostrich
+1B40085	Birds	1	What is the state bird of Maryland?	Kukui	Great Carolina Wren	Mockingbird	Baltimore Oriole
+1B40175	Birds	1	Which of the following is not a type of bird?	Common Loon	House Sparrow	Red-tailed Hawk	Gila Monster
+1B40203	Birds	1	What animal is a pink bird that eats with its head upside down?	Gila Monster	Ostrich	Beetles	Flamingo
+502941	Birds	1	Which bird represents rebirth from the ashes?	Raven	Blackbird	Owl	Phoenix
+1B40067	Birds	1	What seabird with a colorful beak is often called "sea parrot" or "clown of the sea"?	Penguin	Pelican	Albatross	Puffin
+1B40079	Birds	1	Which of the following is not a type of bird?	Bald Eagle	Peregrine Falcon	European Robin	Green Anole
+1B40015	Birds	1	What rainforest bird is renowned for its huge, colorful beak?	Sea Otter	Harlequin Bug	Scorpion	Toucan
+1B40063	Birds	1	What is the body covering of birds called?	Wrinkles	Hair	Leather	Feathers
+1B40161	Birds	1	What is a seven-letter word meaning "body covering of birds"?	Extinct	Keratin	Mineral	Feather
+1B40213	Birds	1	What bird lives in Antarctica?	Woodpecker	Ostrich	Sparrow	Penguin
+1B40167	Birds	1	Which of these is a flightless bird from South America?	Sheep	Lion	Lanternfish	Rhea
+1B40105	Birds	1	What animal is a wading bird with long legs and a long neck?	Elephant	Baboon	Cougar	Large Crane
+1B40113	Birds	1	What would you call a large wading bird?	Vampire Bat	Orangutan	Electric Eel	Great Egret
+1B40095	Birds	1	What is the state bird of Hawaii?	Western Meadowlark	Cardinal	Eastern Brown Pelican	Nene And Kukui
+181070	Birds	1	What type of bird has a species whose common name starts with "Canada"?	Robins	Flamingos	Ostrich	Geese
+1B40215	Birds	1	Which of these is a small black and white bird from North America?	Dragonfly	Zebra	Penguin	Downy Woodpecker
+1B40033	Birds	1	What perches on large mammals in southern Africa?	Panda	Harlequin Bug	Mite	Redbilled Oxpecker
+1B40061	Birds	1	What animal is a large bird of prey from North and South America?	Lake Trout	Vinegarroon	Gorilla	Great Horned Owl
+1B40117	Birds	1	Which of these birds is extinct?	Bird Of Paradise	Catbird	Quail	Dodo
+1B40155	Birds	1	What is the name of the tiny bird that sips flower nectar?	Magpie	Parakeet	Sparrow	Hummingbird
+228251	Birds	1	A long-tailed songbird with a red crown is called what?	Quail	Hummingbird	Dove	American Tree Sparrow
+1B40169	Birds	1	What animal is a small seed-eating bird from North America?	Blowfish	Loris	Crow	American Goldfinch
+1B40111	Birds	1	What is a 9 letter word meaning "a young bird"?	Chameleon	Delineate	Pentagram	Fledgling
+1B40073	Birds	1	Which birds are left in the care of Jim Carrey in a 2011 family comedy?	Ravens	Ostriches	Parrots	Penguins
+1B40087	Birds	1	Which bird can't walk?	Finch	Pigeon	Parrot	Hummingbird
+1B40185	Birds	1	Which species best matches this description, "small songbird that sings beautiful, complex songs, often at night"?	Sheep	Zorro	Newt	Nightingale
+1B40131	Birds	1	What is the common name of the bird Tragopan temminckii?	Stygian Owl	Taliabu Masked Owl	Fiordland Penguin	Temminck's Tragopan
+181066	Birds	1	Which species best matches this description, "intelligent, talkative bird"?	Emu	Pelican	Finch	Parrot
+1B40053	Birds	1	What is the study of birds called?	Wingology	Capthiology	Bithology	Ornithology
+1B40173	Birds	1	What is a black and white flightless seabird of the southern hemisphere?	Shearwater	Murre	Pelican	Penguin
+181077	Birds	1	Which type of building is designed to keep birds?	Conservatory	Stable	Barracks	Aviary
+1B40037	Birds	2	Which of these are large birds that nest on the ground?	Zorro	Mite	Dingo	Turkey
+1B40127	Birds	2	What is the state bird of New Mexico?	Western Meadowlark	Baltimore Oriole	Chickadee	Roadrunner
+181108	Birds	2	What is the state bird of Rhode Island?	Cardinal	Yellowhammer	Eastern Brown Pelican	Rhode Island Red
+483763	Birds	2	What allows some birds such as chickens to digest hard materials such as seeds?	Grime	Buzz Saw	Spleen	Gizzard
+1B40147	Birds	2	Murres, puffins and guillemots are all types of what seabird that has short wings?	Penguin	Pelican	Albatross	Auk
+181073	Birds	2	Scientists believe that the earliest birds are descended from what animal group?	Mammals	Snails	Cycads	Reptiles
+181088	Birds	2	What is the state bird and state tree of South Carolina?	Chickadee And American Elm	Robin And White Pine	Western Meadowlark And Douglas Fir	Great Carolina Wren And Sabal Palmetto
+181107	Birds	2	What dinosaur is consider the first true bird?	T-Rex	Triceratops	Diplodocus	Archaeopteryx
+411654	Birds	2	What are tufts of feathers on the head of the bird called?	Tiara	Flange	Flume	Crest
+228407	Birds	2	The feathers of a bird are specialized versions of what animal feature?	Arms	Fingers	Antennae	Scales
+349921	Birds	2	What body part would reveal much about a bird’s food and lifestyle?	Limb	Feather	Wing	Bill
+149352	Birds	2	What is the common name of the bird Columba trocaz?	Trocaz Guan	Columbiabird	Red-Knobbed Imperial Pigeon	Trocaz Pigeon
+483796	Birds	2	What is the common name of the bird Lophura hoogerwerfi?	Lophura Dove	Plain-Breasted Ground-Dove	Taliabu Masked Owl	Hoogerwerf'S Pheasant
+309643	Birds	2	What U.S. state nicknamed the "Green Mountain State" has the hermit thrush as its state bird?	New York	Minnesota	Missouri	Vermont
+1B40143	Birds	2	In the "Book of Genesis", what was the first bird sent out from Noah's Ark?	Dove	Gull	Eagle	Raven
+1P0012	Birds	2	What is the upper surface of the bird's back and wings covered with shorter feathers?	Down	Median	Crest	Mantle
+411643	Birds	2	Which of these is the fastest bird?	Eagle	Hawk	Hummingbird	Spine-Tailed Swift
+1B40137	Birds	2	What animal is a large North American bird that honks?	Hummingbird	Loon	Nuthatch	Canada Goose
+1P0066	Birds	2	On a bird, what is the ventral part of the neck under the bill called?	Outer Neck	Adams Frontal	Gape	Jugulum
+218295	Birds	2	What is the lateral area posterior to the side of the bird’s body that extends back to the base of the tail?	Pinion	Torso	Flange	Flank
+1B40207	Birds	2	An 1866 Edouard Manet painting is of a woman and what brightly-colored bird?	A Vulture	A Flamingo	A Dove	A Parrot
+181046	Birds	2	What state bird might land in the state tree of Oregon, the Douglas Fir?	Eastern Goldfinch	Great Carolina Wren	Hermit Thrush	Western Meadowlark
+181067	Birds	2	What U.S. state nicknamed "Badger State" has the Robin as its state bird?	West Virginia	New Hampshire	Montana	Wisconsin
+181057	Birds	2	What is an adult male turkey called?	Jenny	Jake	Jerk	Gobbler
+1B40195	Birds	2	What kind of bird has an eye bigger than its brain?	Hummingbird	Eagle	Vulture	Ostrich
+527704	Birds	2	What is the common name of the bird Tigrisoma fasciatum?	Tawny Owl	Great Grey Owl	White-Fronted Ground-Dove	Fasciated Tiger Heron
+1B40145	Birds	2	What animal is a medium-sized shorebird?	Cricket	Black Bear Hamster	Harvestman	American Golden Plover
+181093	Birds	2	What is the common name of the bird Mitu salvini?	Mitu Fruit-Dove	Crimson-Headed Partridge	Blue Ground-Dove	Salvin's Curassow
+1P0150	Birds	2	Also called the occiput, what is the back portion of a bird's crown?	Back	Rearhead	Hornhead	Hindhead
+1B40083	Birds	2	What seabird is named for its presumed lack of intelligence?	Penguin	Pelican	Albatross	Booby
+527818	Birds	2	What is the common name of the bird Jabiru mycteria?	Mycteriabird	Mockingbird	Jab Jab	Jabiru
+103075	Birds	2	What is the dorsal part of the bird between the base of the wings from the neck to the tail?	Torso	Body	Chest	Back
+302240	Birds	2	What is located between the lore, eye, auricular and the lower mandible of a bird?	Chin	Crest	Cloaca	Cheek
+103091	Birds	2	What are feathers of a contrasting color found on the throat of a bird called?	Neck Patch	Throat Crest	Neck Spot	Throat patch
+103078	Birds	2	What are the paired contour feathers on top of the head of a bird?	Antlers	Bowlers	Spikes	Horns
+1B40191	Birds	2	What is the common name of the bird Argusianus argus?	Great Grey Owl	Moheli Scops Owl	Yellow-Eyed Penguin	Great Argus
+531194	Birds	2	What is the area of contrasting color on the breast of the bird?	Breast Space	Breast Splash	Breast Patch	Breast spot
+376283	Birds	2	Which species best matches this description, "colorful rainforest bird with very long tail feathers"?	Quail	Hawk	Dromedary	Quetzal
+1B40071	Birds	2	Which bird eats with its head upside down?	Robin	Penguin	Vulture	Flamingo
+328166	Birds	2	What U.S. state nicknamed "Beaver State" has the Western Meadowlark as its state bird?	Alaska	Rhode Island	Michigan	Oregon
+527705	Birds	2	On birds what is similar to the upper part of the human neck, located at the back of the crown?	Throat	Forehead	Wattle	Collar
+1B40209	Birds	2	What is the common name of the bird Tetraogallus caucasicus?	Crested Owl	Boat-Billed Heron	Humboldt Penguin	Caucasian Snowcock
+1B40199	Birds	2	What term, usually reserved for birds, is used for a group of camels?	Herd	Flight	Drove	Flock
+1P0093	Birds	2	What are contrasting colored stripes on the bird's flank?	Flank Line	Flank Spot	Flank Patch	Flank stripe
+181102	Birds	2	What is an adult female turkey called?	Farrah	Jenny	Chick	Hen
+1B40045	Birds	2	What type of seabird is distinguished by its very long, narrow wings?	Penguin	Gull	Auk	Albatross
+1B40065	Birds	2	Capable of diving at speeds of up to 200 mph, what is the fastest-flying bird in the world?	Bald Eagle	Kingfisher	Albatross	Peregrine Falcon
+1P0105	Birds	2	What is the cutting edge of the lower mandible on a bird?	Upper mandibular tomia	Center mandibular tomia	Lower Bill Tomia	Lower mandibular tomia
+525347	Birds	2	Which of the following is not a terrestrial bird?	Bustard	Ostrich	Secretary Bird	Steppe Eagle
+1B40205	Birds	2	What bird did Benjamin Franklin prefer as a symbol of the United States?	Chicken Hawk	Ostrich	Tweety Bird	Turkey
+450363	Birds	2	What are a group of secondary feathers located closest to the bird's body?	Inner Doubles	Inner Scales	Inner Plumage	Inner secondaries
+103076	Birds	2	What is the top part of the birds head called?	Hat	Crest	Plume	Crown
+181082	Birds	2	What is the state bird and state tree of Colorado?	Cardinal And Buckeye	Cardinal And Tulip Tree	Mockingbird And Pecan	Lark Bunting And Colorado Blue Spruce
+1B40135	Birds	2	What is the common name of the bird Syrmaticus ellioti?	Humboldt Penguin	Black-Fronted Wood Quail	Common Quail	Elliot'S Pheasant
+181084	Birds	2	What is the common name of the bird Hylocharis xantusii?	Lesser Adjutant	Cheer Pheasant	Togian Boobook	Xantus'S Hummingbird
+1P0228	Birds	2	What is the state bird and state tree of Louisiana?	Baltimore Oriole And White Oak	Ring-Necked Pheasant And Black Hills Spruce	Rhode Island Red And Red Maple	Eastern Brown Pelican And Bald Cypress
+347936	Birds	2	What is the common name of the bird Cypseloides rothschildi?	Sparkling-Tailed Woodstar	Eurasian Spoonbill	Willow Ptarmigan	Rothschild'S Swift
+181097	Birds	2	On a bird, what is the area of the face just below the bill called?	Gorget	Pileum	Notch	Chin
+1B40047	Birds	2	The last known member of what bird species died in 1914?	Dodo	Emperor Penguin	Sooty Tern	Passenger Pigeon
+189426	Birds	2	To which family does the roadrunner belong?	Partridge	Turkey	Warthog	Cuckoo
+1B40125	Birds	2	What color is the male cardinal bird?	Orange	Blue	Green	Red
+1P0024	Birds	2	When a bird in flight holds its wings such that they appear to form a “V” shape what are they called?	Flying V	Syrinx	Torpor	Dihedral
+502963	Birds	2	What U.S. state nicknamed "Mount Rushmore State" has the Ring-necked Pheasant as its state bird?	Florida	Montana	Maine	South Dakota
+527706	Birds	2	What is the area between the flanks on each side of a bird?	Beak	Leg	Horns	Belly
+1P0087	Birds	2	Also called the supercilicum or superciliary, what is the arch of feathers over each eye of a bird?	Eye Mane	Eye Plumage	Eyelash	Eyebrow
+328167	Birds	2	What is the upper front part of a bird called?	Head	Nose	Face	Breast
+1B40181	Birds	2	Which animal is a small songbird from North America?	Porcupine	Wolverine	Jaeger	Junco
+302239	Birds	2	What part of a goose would keep it from perching in a tree?	Its Weight	Its Long Neck	Its Wing Shape	Its Webbed Feet
+233771	Birds	2	A plump bird with a forward-facing head plume is known as what?	Kildeer	Starling	Mourning Dove	Quail
+181100	Birds	2	Which species best matches this description, "type of grouse that live in North American grasslands"?	Coyote	Hyena	Quail	Prairie Chicken
+181055	Birds	2	What is the circle around the eye of a bird, formed of feathers, that are a different color from the rest of the face?	Eye Patch	Eye Round	Eye Space	Eye Ring
+1B40157	Birds	2	The Nigerian coat of arms features what bird mounted on a black shield?	Dove	Owl	Hummingbird	Eagle
+1B40081	Birds	2	What seabird, which is also called man-of-war bird, has a tail that is deeply forked?	Penguin	Gull	Pelican	Frigatebird
+1B40109	Birds	2	What is the common name for a bird's Y-shaped collarbone?	Gullet	Wing	Neckbone	Wishbone
+181099	Birds	2	What U.S. state nicknamed "Tar Heel State" has the cardinal as its state bird?	Oklahoma	Oregon	Arkansas	North Carolina
+181363	Birds	2	What is also called the belly or the ventral part of the bird?	Gizzard	Talon	Rib Cage	Abdomen
+103080	Birds	2	What are the line of feathers just in front of and behind the eyes of a bird?	Eye Spot	Eye Stripe	Eye Fitting	Eye line
+181044	Birds	2	What do many types of birds, such as geese, do just before it begins to get colder?	Imitate	Hibernate	Mate	Migrate
+1B40183	Birds	2	What is the common name of the bird Tyto manusi?	Mikado Pheasant	Siau Scops Owl	Hazel Grouse	Manus Masked Owl
+1P0165	Birds	3	Louisiana's state nickname includes which type of bird?	Seagull	Blue Jay	Chicken Hawk	Pelican
+533462	Birds	3	What is the common name of the bird Columbina cyanopis?	Colima Pygmy Owl	Dusky Megapode	Rapa Fruit-Dove	Blue-Eyed Ground-Dove
+369120	Birds	3	What are the bird's short feathers overlying the median secondary coverts on the top of the wing?	Inner Secondary Coverts	Primary Secondary Coverts	Outer Secondary Coverts	Lesser secondary coverts
+520116	Birds	3	Which bird from Roman tales fed on human blood?	Strident	Striker	Streak	Strix
+398805	Birds	3	What is the common name of the bird Aptenodytes forsteri?	Chinese Monal	Biak Scops Owl	Ring-Necked Francolin	Emperor Penguin
+364611	Birds	3	What is the common name of the bird Ciconia stormi?	Salvadori'S Pheasant	Tamaulipas Pygmy Owl	Chestnut-Backed Owlet	Storm'S Stork
+81997	Birds	3	What is the common name of the bird Amazilia viridifrons?	Red-Naped Fruit-Dove	Blue-Headed Quail-Dove	Bare-Throated Tiger Heron	Green-Fronted Hummingbird
+349776	Birds	3	What is the common name of the bird Otus scops?	Tamaulipas Pygmy Owl	Red-Throated Piping Guan	Red Junglefowl/Chicken	Eurasian Scops Owl
+45L0409	Birds	3	When was the Cockapoo Club of America founded?	1977	1985	1990	1999
+1P0078	Birds	3	What type of bird is often given at weddings in Asian culture to symbolize fidelity?	Eagle	Dove	Pigeon	Duck
+411622	Birds	3	What is the uppermost central ridge of the upper mandible on a bird called?	Spur	Covey	Rosette	Culmen
+181045	Birds	3	On a bird, what is essential for low speed flight and aid in coordinated landing and take-off?	Carpal Quills	Nare Quills	Temporal Quills	Alular quills
+1P0039	Birds	3	On birds, what is the area below the eye and bill on the sides of the chin that stretches downwards?	Cheek Stripe	Side Stripe	Mandibular Stripe	Malar stripe
+181048	Birds	3	What is the state bird of Idaho?	Eastern Goldfinch	California Valley Quail	Cardinal	Mountain Bluebird
+411636	Birds	3	What is the bird's inner corner of the eye called?	Nares	Eye Notch	Fovea	Nasal canthus
+1P0135	Birds	3	What is the common name of the bird Plegadis ridgwayi?	Minahassa Masked Owl	New Britain Bronzewing	Black Grouse	Puna Ibis
+1P0081	Birds	3	What are the bands of contrasting color located just before the tip of the tail on a bird?	Schleem Band	End Band	Innertube Band	Subterminal band
+251478	Birds	3	What is the third set of flight feathers located closest to the body of a bird?	Fringe	Wisps	Gnathotheca	Tertiaries
+181092	Birds	3	What is the state bird and state tree of North Dakota?	Lark Bunting And Colorado Blue Spruce	Cardinal And Tulip Tree	Nene And Kukui - Candlenut	Western Meadowlark And American Elm
+48634	Birds	3	Which of these is not used as a name for the Cockapoo?	Spoodle	Cockerpoo	Cockapoo	Cockerdoodle
+181062	Birds	3	What is the common name of the bird Thalurania ridgwayi?	Long-Tailed Sabrewing	Vanuatu Megapode	Grenada Dove	Mexican Woodnymph
+228405	Birds	3	What is the prong-like projection from the bill on the posterior side on a bird?	Mandibular Ruff	Mandibular Hyoid	Mandibular Keel	Mandibular ramus
+533459	Birds	3	What is the common name of the bird Ducula bakeri?	Red-Legged Partridge	Polynesian Ground-Dove	Blue-Headed Quail-Dove	Vanuatu Imperial Pigeon
+181109	Birds	3	What is the common name of the bird Afropavo congensis?	Goliath Imperial Pigeon	Chestnut-Headed Partridge	Boat-Billed Heron	Congo Peafowl
+98543	Birds	3	What is the common name of the bird Columbina minuta?	Karthala Scops Owl	Albertine Owlet	Black-And-White Owl	Plain-Breasted Ground-Dove
+145942	Birds	3	What are the state bird and the state tree of Iowa?	Lark Bunting And Blue Spruce	Cardinal And Buckeye	Willow Ptarmigan And Sitka Spruce	Eastern Goldfinch And Oak
+351548	Birds	3	A group of which people sparked the First Jewish-Roman War by sacrificing birds near a synagogue?	Romans	Christians	Russians	Greeks
+282611	Birds	3	Also called the operculum, what is a smooth and featherless patch of skin on a bird located where the beak attaches to the forehead?	Sentinel	Care	Pellet	Cere
+514199	Birds	3	What is the common name of the bird Tigrisoma mexicanum?	Blue Ground-Dove	Eurasian Collared Dove	Black-Fronted Wood Quail	Bare-Throated Tiger Heron
+1P0111	Birds	3	What is the stripe along the very top part of the bird's head through the crown?	Center Stripe	Middle Line	Median Stripe	Median line
+83899	Birds	3	What is the common name of the bird Streptopelia decaocto?	Pacific Screech Owl	Marquesan Imperial Pigeon	Stygian Owl	Eurasian Collared Dove
+103071	Birds	3	What are the short and stiff feathers near the bill of a bird called?	Short Bristles	Bill Bristles	Head Bristles	Rictal bristles
+181063	Birds	3	What is the common name of the bird Apus pallidus?	White-Faced Ibis	White-Faced Quail-Dove	Short-Eared Owl	Pallid Swift
+363025	Birds	3	What is the common name of the bird Meleagris ocellata?	Christmas Boobook	Djibouti Francolin	Goliath Imperial Pigeon	Ocellated Turkey
+296633	Birds	3	What is the state bird and state tree of Alaska?	Mockingbird And Pine	Scissor-Tailed Flycatcher And Redbud	Hermit Thrush And Sugar Maple	Willow Ptarmigan And Sitka Spruce
+181086	Birds	3	What is the common name of the bird Gallicolumba sanctaecrucis?	Whistling Fruit-Dove	Moheli Scops Owl	Eurasian Bittern	Santa Cruz Ground-Dove
+368305	Birds	3	What is the common name of the bird Metallura iracunda?	Greater Adjutant	Western Capercaillie	Lilac-Crowned Fruit-Dove	Perija Metaltail
+181058	Birds	3	What bird is the official state bird of more states than any other?	Robin	Mockingbird	Goldfinch	Cardinal
+1P0009	Birds	3	What is the common name of the bird Oreotrochilus adela?	Mexican Sheartail	Chestnut-Backed Owlet	Helmeted Curassow	Wedge-Tailed Hillstar
+415172	Birds	3	What is the common name of the bird Columba bollii?	Red-Knobbed Curassow	Galapagos Penguin	Caribbean Dove	Bolle'S Pigeon
+45L0209	Birds	3	What is a contrasting line between the eye and the bill of a bird?	Sublateral Line	Undereye Line	Lash Line	Supraloral line
+45L0359	Birds	3	What is the common name of the bird Penelope ochrogaster?	Bearded Screech Owl	Satyr Tragopan	Horned Curassow	Chestnut-Bellied Guan
+181094	Birds	3	What is the state bird of Mississippi?	Chickadee	Cardinal	Rhode Island Red	Mockingbird
+1P0156	Birds	3	What is the common name of the bird Calothorax pulcher?	Plain-Capped Starthroat	Usambara Eagle-Owl	Chinstrap Penguin	Beautiful Sheartail
+1P0222	Birds	3	What is the lower most ridge on the lower mandible on a bird called?	Glean	Mantle	Natal	Gonys
+503670	Birds	3	What is the common name of the bird Heliomaster longirostris?	São Tomé Olive Pigeon	Black-Bellied Sandgrouse	Great Argus	Long-Billed Starthroat
+1P0096	Birds	3	What is the common name of the bird Atthis heloisa?	Cinnabar Boobook	Striated Heron	Congo Peacock	Bumblebee Hummingbird
+1P0057	Birds	3	What are the state bird and state tree of Wisconsin?	Cactus Wren And Palo Verde	Lark Bunting And Colorado Spruce	Western Meadowlark And Cottonwood	Robin And Sugar Maple
+365554	Birds	3	What bird did God send to feed the Israelites in the desert in Exodus 16:13?	Eagles	Sparrows	Pigeons	Quail
+181098	Birds	3	Which Australian bird can mimic the sound of almost anything?	Currawong	Eastern Warbler	Tawny Frogmouth	Lyrebird
+483882	Birds	3	What is the common name of the bird Pygoscelis papua?	Baudo Guan	Golden Masked Owl	Satyr Tragopan	Gentoo Penguin
+527710	Birds	3	What is the common name of the bird Lampornis amethystinus?	Green-Throated Mountaingem	Blakiston'S Fish Owl	Wattled Curassow	Amethyst-Throated Mountaingem
+103099	Birds	3	What is the common name of the bird Gorsachius goisagi?	Boreal Owl	Stygian Owl	Eurasian Spoonbill	Japanese Night Heron
+450155	Birds	3	What is the average life span of a Cockapoo?	15-20	10-May	20-25	10-15 Years
+1P0069	Birds	3	What is the state bird of Utah?	Buzzard	Golden Eagle	Spotted Owl	California Seagull
+103098	Birds	3	What is the common name of the bird Streptoprocne semicollaris?	Rufous-Bellied Chachalaca	Long-Tailed Mountain Pigeon	Striped Owl	White-Naped Swift
+103082	Birds	3	What is the common name of the bird Ducula pickeringii?	Unspotted Saw-Whet Owl	Palau Ground-Dove	Great Grey Owl	Grey Imperial Pigeon
+1P0027	Birds	3	A fan-tailed raven is about the same size as what other bird?	Common Rook	Peregrine Falcon	Barn Swallow	Carrion Crow
+282854	Birds	3	What is the common name of the bird Strix virgata?	Yellow Bittern	Common Quail	Short-Billed Pigeon	Mottled Owl
+268146	Birds	3	What is the outer corner of a bird's eye closest to the ear called?	Eye Edge	Temporal Corner	Eye Shaft	Temporal canthus
+1P0201	Birds	3	On a bird, what is the area between the chin and the foreneck called?	Tarsus Space	Throat	Flit Region	Gular region
+45L0309	Birds	3	What bird is on the Illinois State flag?	A Swan	A Blue Jay	An American Golden Eagle	An American Bald Eagle
+1P0225	Birds	3	What is the state bird of Florida?	Common Loon	Eastern Goldfinch	Scissor-Tailed Flycatcher	Mockingbird
+103096	Birds	3	Which birds make two lines opposite each other and then go through a series of ritualistic and elaborate dance steps?	Jabiru	Spur-Wnged Plovers	Cape Barren Geese	Brolgas
+233778	Birds	3	What type of bird is on the album cover of Stevie Nicks' "Bella Donna"?	Bald Eagle	Dove	Pigeon	Cockatoo
+181061	Birds	3	What is the common name of the North American bird Strix occidentalis?	Grey Heron	Grey Imperial Pigeon	African Jacana	Spotted Owl
+103068	Birds	3	Except for the rump, the plumage of an African Sacred Ibis is all what color?	Red	Pink	Blue	White
+1P0072	Birds	3	What is the state bird and state tree of New York?	Mockingbird And Pine	Western Meadowlark And American Elm	Common Loon And Red Pine	Bluebird And Sugar Maple
+390297	Birds	3	What term is used to describe copulation between birds?	Barbuling	Fovea Flight	Dimorphic	Cloacal kiss
+181052	Birds	3	What is the common name of the bird Thaumatibis gigantea?	Grey-Fronted Quail-Dove	Colima Pygmy Owl	Trinidad Piping Guan	Giant Ibis
+181111	Birds	3	What are smaller feathers covering the quill of each flight feather on a bird?	Vent Quills	Calamus	Altricial Coverts	Alular quill coverts
+282218	Birds	3	What is the common name of the bird Dendrortyx macroura?	Purple-Winged Ground-Dove	Hazel Grouse	White-Faced Quail-Dove	Long-Tailed Wood Partridge
+1P0153	Birds	3	What is the common name of the bird Amazilia cyanocephala?	Tolima Dove	Little Sumba Hawk-Owl	Pinnated Bittern	Azure-Crowned Hummingbird
+1P0063	Birds	3	What is the third eyelid of the bird that can be closed for protection?	Third Membrane	Eye Lore	Eye Corpuscle	Nictitating membrane
+90110	Birds	3	Which country's flag was adopted in 1871 and features the quetzal bird, a symbol of liberty?	Panama	Cuba	Honduras	Guatemala
+1P0207	Birds	3	What is the common name of the bird Tachymarptis melba?	White-Breasted Guineafowl	Balsas Screech Owl	Common Wood Pigeon	Alpine Swift
+103061	Birds	3	What is the common name of the bird Platalea minor?	Long-Whiskered Owlet	Ring-Necked Francolin	Southern Crowned Pigeon	Black-Faced Spoonbill
+1P0168	Birds	3	What is the common name of the bird Campylopterus hemileucurus?	Moluccan Megapode	Maroon-Chested Ground-Dove	Highland Guan	Violet Sabrewing
+181308	Birds	3	What U.S. state nicknamed "Yellowhammer State" has the Yellowhammer as its state bird?	Oklahoma	Texas	Hawaii	Alabama
+1P0084	Birds	3	What is the common name of the bird Pseudibis davisoni?	Mindoro Bleeding-Heart	Crested Owl	Vanuatu Megapode	White-Shouldered Ibis
+103100	Birds	3	What is the state bird and state tree of Virginia?	Cardinal And Tulip Tree	Robin And White Pine	Rhode Island Red And Red Maple	Cardinal And Dogwood
+181334	Birds	3	Which bird got its name from two tufts of feathers on the top of is head?	Crown Tufted Owl	Emperor Owl	Derby Hat Owl	Great Horned Owl
+1P0030	Birds	3	What is the common name of the bird Cercibis oxycerca?	Congo Bay Owl	Taliabu Masked Owl	Pink Pigeon	Sharp-Tailed Ibis
+103057	Birds	3	What is the brightly colored area on the wing (secondaries of the wing) on several duck species?	Plumbus	Kuchino	Scorsum	Speculum
+1B40049	Birds	3	What is the state bird and state tree of Maine?	Willow Goldfinch And Western Hemlock	Western Meadowlark And Ponderosa Pine	Lark Bunting And Colorado Blue Spruce	Chickadee And White Pine
+1P0120	Birds	3	What is the common name of the bird Coeligena prunellei?	Little Woodstar	Himalayan Quail	Giant Scops Owl	Black Inca
+103079	Birds	3	What is the common name of the bird Egretta eulophotes?	Tuxtla Quail-Dove	Dusky Megapode	Greater Prairie Chicken	Chinese Egret
+1P0090	Birds	3	What are a group of feathers closest to the bird's body on the wing of the bird?	Inner Flights	Inner Downs	Inner Firsts	Inner primaries
+447413	Birds	3	What is the common name of the bird Campylopterus curvipennis?	Negros Fruit-Dove	Ochre-Bellied Dove	Blue-Eyed Ground-Dove	Wedge-Tailed Sabrewing
+1P0147	Birds	3	On a bird, what is the contrasting stripe at the tip of the tail?	Feather Band	Feather Stripe	Downy Stripe	Terminal band
+402266	Birds	3	What is the common name of the bird Campylopterus rufus?	Australasian Bittern	Black Grouse	Macaroni Penguin	Rufous Sabrewing
+1B40149	Birds	3	Which bird shares its name with a cricket event?	Pigeon	Goose	Lark	Duck
+181087	Birds	3	What is the state bird and state tree of Kentucky?	Yellowhammer And Southern Longleaf Pine	Robin And White Oak	Mockingbird And Magnolia	Cardinal And Tulip Tree
+1P0021	Birds	3	What is the small iridescent patch on the throat of a hummingbird?	Passerine	Sternum	Gape	Gorget
+103092	Birds	3	Bird friendly coffee means what as it relates to the environment?	Co-Operative	Carotene	Green Pigment	Smithsonian Program
+103094	Birds	3	What species of flightless bird is endemic to the island of Calayan in northern Philippines?	Calayan Crake	Calayan Gallinule	Calayan Coot	Calayan Rail
+228404	Birds	3	What is the common name of the bird Penelopina nigra?	Central American Pygmy Owl	Caspian Snowcock	Polynesian Ground-Dove	Highland Guan
+181071	Birds	3	What is the common name of the bird Bonasa sewerzowi?	Black-Bellied Sandgrouse	Ruddy Quail-Dove	Moheli Scops Owl	Chinese Grouse
+1P0216	Birds	3	What is the common name of the bird Gorsachius melanolophus?	Negros Bleeding-Heart	Mrs. Hume'S Pheasant	Enggano Scops Owl	Malayan Night Heron
+181106	Birds	3	Which bird has been spotted on the slopes of Mount Everest, five miles above sea level?	Sparrow	Starling	Robin	Crow
+1P0108	Birds	3	What are the soft, loose-webbed feathers on the side of the bird's head below and behind the eyes?	Ear Spot	Ear Crest	Ear Down	Ear patch
+103097	Birds	3	What is the common name of the bird Pulsatrix perspicillata?	Mrs. Hume'S Pheasant	Anjouan Scops Owl	Djibouti Francolin	Spectacled Owl
+503002	Birds	3	What is the common name of the bird Treron pembaensis?	Timor Imperial Pigeon	Siau Scops Owl	Little Sumba Hawk-Owl	Pemba Green Pigeon
+1P0183	Birds	3	What is the common name of the bird Atthis ellioti?	Milky Stork	Eurasian Bittern	Stock Dove	Wine-Throated Hummingbird
+282220	Birds	3	What is the common name of the bird Ducula carola?	Grey Partridge	Horned Curassow	Black-Fronted Piping Guan	Spotted Imperial Pigeon
+265559	Birds	3	What is the common name of the bird Arborophila cambodiana?	Germain'S Peacock-Pheasant	Powerful Owl	Tamaulipas Pygmy Owl	Chestnut-Headed Partridge
+411270	Birds	3	What are a bird's principal feathers that make up the tail called?	Pterylaes	Rachis	Semiplume	Rectrices
+82954	Birds	3	What is the common name of the bird Ortalis leucogastra?	Partridge Pigeon	Cloud-Forest Pygmy Owl	Central American Pygmy Owl	White-Bellied Chachalaca
+181060	Birds	3	What is the common name of the bird Ardea insignis?	Bornean Peacock-Pheasant	Central American Pygmy Owl	Himalayan Quail	White-Bellied Heron
+103103	Birds	3	In general, which features of a Cockapoo resemble those of a Cocker Spaniel?	Coat And Face	Coat And Ears	Face	Ears
+1P0144	Birds	3	What is the base of the bird's bill where the mandibles join called?	Tertiaries	Vanules	Nidicolous	Rictus
+483862	Birds	3	What are the state bird and state tree of Tennessee?	Eastern Goldfinch And Red Oak	Cardinal And Buckeye	Yellowhammer And Southern Longleaf Pine	Mockingbird And Tulip Tree
+483024	Birds	3	What is the common name of the bird Patagioenas caribaea?	Sumba Green Pigeon	Anjouan Scops Owl	Striated Heron	Ring-Tailed Pigeon
+103070	Birds	3	What is the sac located on the bird's neck that is inflatable and is only visible in males during courtship displays?	Cloaca	Speculum	Neck Fossa	Neck patch
+1P0189	Birds	3	What are the rounded areas on the bird’s face covered with feathers which are also called facial discs?	Bill	Crop	Eyes	Ears
+149348	Birds	3	What is the state bird and state tree of Utah?	Cardinal And Tulip Tree	Cardinal And Pine	Ruffed Grouse And Eastern Hemlock	California Seagull And Blue Spruce
+45L0809	Birds	3	What is the state bird and state tree of Kansas?	Mockingbird And Pecan	Eastern Goldfinch And Oak	Willow Ptarmigan And Sitka Spruce	Western Meadowlark And Cottonwood
+103063	Birds	3	What is the state bird and state tree of West Virginia?	Mountain Bluebird And Single-Leaf Pinon	Eastern Goldfinch And Red Oak	Scissor-Tailed Flycatcher And Redbud	Cardinal And Sugar Maple
+401783	Birds	3	What is the common name of the bird Ciconia boyciana?	Rock Dove	Satyr Tragopan	Finsch'S Imperial Pigeon	Oriental Stork
+527709	Birds	3	What is the state bird and state tree of Connecticut?	Cardinal And Tulip Tree	Hermit Thrush And Sugar Maple	Scissor-Tailed Flycatcher And Redbud	Robin And White Oak
+282227	Birds	3	What is the common name of the bird Goura cristata?	Rock Ptarmigan	Rapa Fruit-Dove	Tooth-Billed Pigeon	Western Crowned Pigeon
+181343	Birds	3	What are the state bird and state tree of Wyoming?	Rhode Island Red And Red Maple	Cardinal And White Oak	Lark Bunting And Blue Spruce	Western Meadowlark And Cottonwood
+96277	Birds	3	What is the national bird of Iraq?	Hoopoe	Green Pheasant	Goldcrest	Chukar Partridge
+1P0051	Birds	3	What is the common name of the bird Phaethornis longirostris?	Waigeo Brushturkey	Tooth-Billed Pigeon	Spotted Owl	Long-Billed Hermit
+1P0054	Birds	3	What is also called the jugulum or throat patch and located on the front of a bird's neck?	Frontneck	Forwardneck	Midneck	Foreneck
+1P0162	Birds	3	What is located on a bird's wing, and collectively called remiges?	Landing Feathers	Filoplume	Air Wings	Flight feathers
+251423	Birds	3	What is the common name of the bird Megapodius pritchardii?	White Eared Pheasant	Straw-Necked Ibis	Caspian Snowcock	Tongan Megapode
+45L0059	Birds	3	What is the common name of the bird Cynanthus sordidus?	São Tomé Green Pigeon	Socorro Dove	Hoogerwerf'S Pheasant	Dusky Hummingbird
+369342	Birds	3	What is the common name of the bird Eudyptes schlegeli?	Tacarcuna Wood Quail	Shelley'S Eagle-Owl	Mrs. Hume'S Pheasant	Royal Penguin
+282222	Birds	3	What is the common name of the bird Syrmaticus reevesii?	Crestless Fireback	Northern Rockhopper Penguin	Red-Throated Piping Guan	Reeves'S Pheasant
+520750	Birds	3	What is a male turkey less than a year old called?	Poults	Gobbler	Yougin	Jake
+1P0042	Birds	3	What is the common name of the bird Apus apus?	Black Bittern	Bearded Screech Owl	Mourning Dove	Common Swift
+527708	Birds	3	What are the state bird and state tree of Georgia?	Ring-Necked Pheasant And Black Hills Spruce	Cardinal And Tulip Tree	Eastern Goldfinch And Oak	Brown Thrasher And Live Oak
+1P0195	Birds	3	What is the common name of the bird Amazilia tzacatl?	Chestnut Wood Quail	Blue Ground-Dove	Elliot'S Pheasant	Rufous-Tailed Hummingbird
+181065	Birds	3	In the first "Book of Kings", which birds brings food to Elijah during a great drought?	Doves	Pigeons	Gulls	Ravens
+1P0180	Birds	3	What is the common name of the bird Lamprolaima rhami?	Chimney Swift	Greater Prairie Chicken	Forest Owlet	Garnet-Throated Hummingbird
+363856	Birds	3	What is the state bird of Oklahoma?	Robin	Baltimore Oriole	Mockingbird	Scissor-Tailed Flycatcher
+181069	Birds	3	What is the state bird and state tree of Illinois?	Western Meadowlark And American Elm	Purple Finch And White Birch	Rhode Island Red And Red Maple	Cardinal And White Oak
+103101	Birds	3	What is the common name of the bird Eudyptes chrysocome?	Middle American Screech Owl	Little Egret	Long-Eared Owl	Southern Rockhopper Penguin
+1P0018	Birds	3	What distinctive trait allows this bird to easily gather food?	Sharp Talons	Large Feathers	Nice Personality	Beak Pouch
+1P0123	Birds	3	What is a female turkey called?	Babe	Gibbler	Hen	Chick
+103087	Birds	3	What is the common name of the bird Gallicolumba hoedtii?	Azuero Dove	Black-Fronted Wood Quail	Cheer Pheasant	Wetar Ground-Dove
+233774	Birds	3	What is the common name of the bird Ardea humbloti?	Little Owl	Long-Eared Owl	Blakiston'S Fish Owl	Humblot'S Heron
+1P0033	Birds	3	What is the area where the bill extends onto the forehead of the bird and often brightly colored?	Color Shield	High Shield	Bill Shield	Frontal shield
+45L0759	Birds	3	In "Game of Thrones", Bran has recurring visions of what bird with three eyes?	Eagle	Hawk	Cardinal	Raven
+103088	Birds	3	What is the common name of the bird Callipepla douglasii?	Yellowish Imperial Pigeon	Sula Megapode	Balsas Screech Owl	Elegant Quail
+181059	Birds	3	On birds, what is the hinge where the mandibles meet?	Wattle	Casque	Apteria	Commissure
+1P0048	Birds	3	What is the common name of the bird Phaethornis striigularis?	Banded Quail	Caribbean Dove	Chestnut-Bellied Guan	Stripe-Throated Hermit
+233733	Birds	3	What is the common name of the bird Heliothryx barroti?	Crested Guan	Large Green Pigeon	Magellanic Penguin	Purple-Crowned Fairy
+282221	Birds	3	What is the common name of the bird Columba torringtoniae?	Harwood'S Francolin	Chestnut-Breasted Partridge	Mikado Pheasant	Sri Lanka Wood Pigeon
+103074	Birds	3	When do ducks usually lay their eggs?	Winter	Dusk	August	Early Morning
+103064	Birds	3	How many times a second can a Hummingbird beat its wings?	20 Times	40 Times	250 Times	90 Times
+502939	Birds	3	What is only found in male birds and consists of a colored area over the eye?	Bower	Patch	Crop	Comb
+526483	Birds	3	What is the common name of the bird Nipponia nippon?	Sulu Bleeding-Heart	Black-And-White Owl	Sclater'S Monal	Crested Ibis
+1P0129	Birds	3	What are a bird's elongated feathers projecting from the upper body area, generally the neck or head?	Plumage	Wisps	Precocial	Pinnae
+282223	Birds	3	What is the common name of the bird Odontophorus guttatus?	Mariana Fruit-Dove	Mount Cameroon Francolin	Black-Bellied Sandgrouse	Spotted Wood Quail
+45L0509	Birds	3	What is the common name of the bird Asio flammeus?	Black-And-White Owl	New Britain Bronzewing	Galapagos Penguin	Short-Eared Owl
+1P0045	Birds	3	What is the common name of the bird Apus unicolor?	Koepcke'S Hermit	Pacific Reef Heron	Northern Hawk-Owl	Plain Swift
+181085	Birds	3	What is the state bird and state tree of Minnesota?	Bluebird And Sugar Maple	Scissor-Tailed Flycatcher And Redbud	Ring-Necked Pheasant And Black Hills Spruce	Common Loon And Red Pine
+103095	Birds	3	What is the common name of the bird Streptoprocne zonaris?	Tawitawi Brown Dove	Purple Heron	Spectacled Owl	White-Collared Swift
+103067	Birds	3	What is the common name of the bird Chlorostilbon auriceps?	Tongan Ground-Dove	Black-Fronted Piping Guan	Chinese Grouse	Golden-Crowned Emerald
+45L0009	Birds	3	What is the common name of the bird Abeillia abeillei?	White-Necked Jacobin	Rock Partridge	Javan Scops Owl	Emerald-Chinned Hummingbird
+405662	Birds	3	What type of bird whose habitat is on the open ocean rather than in a coastal region or on inland bodies of water?	Piscivire	Vireo	Sibiac	Pelagic
+103066	Birds	3	Which common bird is the largest of the North American thrushes?	Rufous-Backed Robin	Subaru Robin	Rockin' Robin	American Robin
+350021	Birds	3	What is the state bird of Texas?	Nene And Kukui	Common	Chickadee	Mockingbird
+45H8899	Birds	3	Which category would a Cockapoo that weighs 13 to 18 pound be classified into?	Teacup Toy	Toy	Maxi	Miniature/Mini
+1B40177	Birds	3	What birds return to San Juan Capistrano shortly before spring begins each year?	Eagles	Cardinals	Robins	Swallows
+1P0141	Birds	3	What are short feathers in the area where the bird’s back and wings join?	Shoulders	Notches	Gulars	Scapulars
+48307	Birds	3	What is the common name of the bird Lophotibis cristata?	White-Browed Guan	Red-Throated Piping Guan	Western Capercaillie	Madagascar Ibis
+1P0219	Birds	3	What is the common name of the bird Heliangelus regalis?	Neblina Metaltail	Trinidad Piping Guan	Green Peafowl	Royal Sunangel
+251528	Birds	3	What is the common name of the bird Polyplectron napoleonis?	Spot-Breasted Ibis	Cauca Guan	Cloven-Feathered Dove	Palawan Peacock-Pheasant
+481883	Birds	3	What is the common name of the bird Spheniscus magellanicus?	Purple Heron	Southern Rockhopper Penguin	Anjouan Scops Owl	Magellanic Penguin
+1P0213	Birds	3	What town in Pampanga, Philippines, is home to a 32,000-ha swamp that is a sanctuary for migratory birds?	Mexico	Porac	Macabebe	Candaba
+103104	Birds	3	What is the common name of the bird Polyplectron inopinatum?	Black Partridge	Erect-Crested Penguin	Maleo	Mountain Peacock-Pheasant
+45L0259	Birds	3	What is the common name of the bird Hylonympha macrocerca?	White-Fronted Swift	White-Fronted Ground-Dove	Hainan Peacock-Pheasant	Scissor-Tailed Hummingbird
+1P0177	Birds	3	What are the state bird and state tree of Washington?	Cardinal And Buckeye	Eastern Brown Pelican And Bald Cypress	Mountain Bluebird And Western White Pine	Willow Goldfinch And Western Hemlock
+181083	Birds	3	What is the state bird of Arkansas?	Blue Hen Chicken	Great Carolina Wren	Baltimore Oriole	Mockingbird
+218441	Birds	3	What is the common name of the bird Glaucidium passerinum?	Hainan Partridge	Yellow-Eyed Penguin	Long-Tailed Mountain Pigeon	Eurasian Pygmy Owl
+502959	Birds	3	What is the common name of the bird Francolinus nahani?	Pied Cuckoo-Dove	Tanimbar Megapode	Grey Heron	Nahan'S Partridge
+398804	Birds	3	What is the common name of the bird Ardeola idae?	Orange-Footed Scrubfowl	Mikado Pheasant	Usambara Eagle-Owl	Malagasy Pond Heron
+103105	Birds	3	What is the common name of the bird Gorsachius magnificus?	Rufous-Headed Chachalaca	Fulvous Owl	Pacific Reef Heron	White-Eared Night Heron
+103065	Birds	3	What is the common name of the bird Amazilia candida?	Manipur Bush Quail	Grey Heron	Manus Masked Owl	White-Bellied Emerald
+1P0210	Birds	3	What is the national bird of Sudan?	Scarlet Ibis	African Fish Eagle	Troupial	Secretary Bird
+103072	Birds	3	What is the state bird and state tree of Alabama?	Cardinal And White Oak	Mockingbird And Tulip Tree	California Valley Quail And Coast Redwood	Yellowhammer And Southern Longleaf Pine
+527707	Birds	3	In 2018, how many Major League Baseball team's logos were represented by a bird?	4 Teams	10 Teams	0 Teams	3 Teams
+368374	Birds	3	What are soft webbed feathers on the side of the bird's head?	Altricial	Lek	Wattle	Auricular
+1P0186	Birds	3	What is the depression in which the bird’s nostril is located?	Nasal Canula	Nasal Space	Nasal Pellet	Nasal fossa
+103069	Birds	3	What state bird of New Jersey might you spot in the state tree, the red oak?	Western Meadowlark	Yellowhammer	Bluebird	Eastern Goldfinch
+82107	Birds	3	What is the common name of the bird Columba palumbus?	Greater Prairie Chicken	Scaled Pigeon	Cauca Guan	Common Wood Pigeon
+1P0060	Birds	3	What is the common name of the bird Phaeochroa cuvierii?	Malagasy Sacred Ibis	Gorgeted Wood Quail	Serendib Scops Owl	Scaly-Breasted Hummingbird
+1P0192	Birds	3	What is the part of the leg between the knee and the foot of the bird, similar to the lower leg in humans?	Fibula	Precocial	Knee	Tarsus
+103058	Birds	3	What is the state bird of Deleware?	Cactus Wren	Robin	Western Meadowlark	Blue Hen Chicken
+1P0132	Birds	3	What is the common name of the bird Geronticus calvus?	Adélie Penguin	Maleo	Chukar Partridge	Southern Bald Ibis
+1P0171	Birds	3	What is the state bird and state tree of North Carolina?	Hermit Thrush And Sugar Maple	Eastern Goldfinch And Oak	California Seagull And Blue Spruce	Cardinal And Pine
+45L0609	Birds	3	What is the common name of the bird Columba argentina?	Yellow-Eyed Pigeon	Horned Guan	Purple Heron	Silvery Pigeon
+45L0109	Birds	3	What bird is shown flying over New York City at the end of "The Other Guys"?	Eagle	Blue Jay	Albatross	Peacock
+103059	Birds	3	What is the common name of the bird Panyptila sanctihieronymi?	São Tomé Ibis	Chukar Partridge	Eurasian Eagle-Owl	Great Swallow-Tailed Swift
+103056	Birds	3	What is the common name of the bird Colinus nigrogularis?	Spectacled Imperial Pigeon	Black-Crowned Night Heron	Colima Pygmy Owl	Yucatan Bobwhite
+181080	Birds	3	What is the state bird of Vermont?	Eastern Brown Pelican	Mockingbird	Willow Ptarmigan	Hermit Thrush
+181047	Birds	3	What bird, often depicted on ancient Athenian currency, now graces the Greek 1-Euro coin?	Eagle	Falcon	Kite	Owl
+103085	Birds	3	What is the common name of the bird Ortalis poliocephala?	Grey-Chested Dove	Swamp Francolin	Bearded Screech Owl	West Mexican Chachalaca
+527711	Birds	3	What is the state bird of Massachusetts?	Willow Goldfinch	Hermit Thrush	California Quail	Chickadee
+483883	Birds	3	What is the common name of the bird Bubulcus ibis?	Micronesian Megapode	Fiordland Penguin	Ochre-Bellied Dove	Cattle Egret
+1P0099	Birds	3	How long is an ostrich's intestinal tract?	120 Feet	8 Feet	246 Feet	45 Feet
+1B40139	Birds	3	What is a female turkey less than one year old called?	Fennel	Farrah	Chick	Jenny
+1P0036	Birds	3	What is the combination of the eye ring and supraloral line on a bird called?	Speculum	Eye Speck	Cornea Ring	Spectacle
+45L0459	Birds	3	Where did the Cockapoo originate?	England	Ireland	Spain	United States
+1P0117	Birds	3	What is the common name of the bird Doricha enicura?	Forest Bittern	Pink Pigeon	Zenaida Dove	Slender Sheartail
+1P0114	Birds	3	What bird lays blue-colored eggs?	The State Bird Of Ohio	The Bird In Edgar Allan Poe's Poem	The Bird That Stands On One Leg	The Bird That Symbolizes Spring
+1P0015	Birds	3	What is the common name of the bird Eupherusa eximia?	Siamese Fireback	Red-Knobbed Imperial Pigeon	European Turtle Dove	Stripe-Tailed Hummingbird
+103086	Birds	3	The distance endurance record for a bird is thought to be held by the Arctic tern which migrates to the Antarctic and back in about 20 weeks. How far does it travel?	2,000 To 4,000 Miles	12,000 To 15,000 Miles	10,000 To 12,000 Miles	20,000 To 22,000 Miles
+103073	Birds	3	What is the common name of the bird Amazilia rutila?	Pale-Vented Pigeon	Cloven-Feathered Dove	Temminck'S Tragopan	Cinnamon Hummingbird
+1B40089	Birds	3	What is the state bird of South Dakota?	Robin	Cactus Wren	Scissor-Tailed	Ring-Necked Pheasant
+103102	Birds	3	Approximately when did the Cockapoo become popular in the United States?	The 1980's	The 1990's	The 1960's	The 1970's
+384737	Birds	3	What is the common name of the bird Columba pallidiceps?	Plain Chachalaca	Common Pheasant	Large Green Pigeon	Yellow-Legged Pigeon
+282225	Birds	3	What is the fringe of feather growth on the neck of a male bird used in courtship displays called?	Gruff	Fringe	Flitt	Ruff
+228403	Birds	3	What is the common name of the bird Collocalia francica?	Cozumel Emerald	Sclater'S Monal	Sichuan Partridge	Mascarene Swiftlet
+527703	Birds	3	Which red-breasted animal is the state bird of Connecticut, Michigan and Wisconsin?	Cardinal	Hummingbird	Red-Breasted Merganser	Robin
+45L0559	Birds	3	What is the common name of the bird Pseudoscops clamator?	Fulvous Owl	Maleo	Common Pheasant	Striped Owl
+1P0138	Birds	3	What type of bird was found dead on a road near Boulia, Queensland, in 1990 many years after it was thought to be extinct?	The Black-Throated Honeyeater	The Giant Emu	The Dwarf Emu	The Nocturnal Parrot
+411581	Birds	3	What is the state bird and state tree of Indiana?	Chickadee And White Pine	Blue Hen Chicken And American Holly	Robin And Sugar Maple	Cardinal And Tulip Tree
+288530	Birds	3	What are a bird's large, conspicuous, showy feathers called?	Flumes	Crests	Coats	Plumes
+411582	Birds	3	What type of bird strikes terror into the hearts of the characters in the movie "10,000 BC"?	Chicken	Owl	Flamingo	Ostrich
+233763	Birds	3	What is the small joint on the bird’s wing?	Aerie	Clutch	Bowler	Alula
+349754	Birds	3	How fast can an ostrich run?	22 Mph	66 Mph	75 Mph	45 Mph
+45H8881	Birds	3	What is the common name of the bird Columba pollenii?	Great Curassow	Snares Penguin	Dusky Megapode	Comoros Olive Pigeon
+284818	Birds	3	What is the common name of the bird Egretta vinaceigula?	Alagoas Curassow	Caspian Snowcock	Rock Partridge	Slaty Egret
+1P0102	Birds	3	What is the common name of the bird Eupherusa poliocerca?	Singing Quail	Short-Billed Pigeon	Eurasian Scops Owl	White-Tailed Hummingbird
+397460	Birds	3	What is the common name of the bird Streptopelia turtur?	Balsas Screech Owl	Ring-Necked Francolin	Scaled Pigeon	European Turtle Dove
+103062	Birds	3	Why is the lyrebird's breeding season during the rainy, cool winters of Australia?	It Is Not Too Hot For The New-Born Chick	None Of These Reasons	Lrebirds Require A Lot Of Water And There Is Plenty Of Water To Drink	There Is Plenty Of Insect Food Available At This Time Of Year
+228369	Birds	3	What is the common name of the bird Streptoprocne rutila?	Buffy-Crowned Wood Partridge	Goliath Imperial Pigeon	Caucasian Snowcock	Chestnut-Collared Swift
+1P0075	Birds	3	What is the common name of the bird Amazilia cyanura?	Lesser Swallow-Tailed Swift	Southern Crowned Pigeon	Vietnamese Pheasant	Blue-Tailed Hummingbird
+483744	Birds	3	What is the state bird of Missouri?	Roadrunner	Hermit Thrush	Common Loon	Bluebird
+350847	Birds	3	What are the feathers in a triangular area on the underside of a bird between its vent and the base of its tail feathers?	Down	Hallux	Rachis	Crissum
+490685	Birds	3	A blue-and-green-throated species of what bird was discovered in a Columbian cloud forest?	Pigeon	Eagle	Parrot	Hummingbird
+45L0709	Birds	3	In "A Christmas Story", what kind of bird does the narrator call "Chinese Turkey"?	Goose	Chicken	Turke	Duck
+81996	Birds	3	What is the common name of the bird Tetrao mlokosiewiczi?	Blue-Knobbed Curassow	Humboldt Penguin	Maroon-Chested Ground-Dove	Caucasian Grouse
+103089	Birds	3	What are the primary feathers on the wing farthest from the body?	First primaries	Anterior primaries	Interior primaries	Outer primaries
+312254	Birds	3	What is the common name of the bird Bubo scandiaca?	Gunnison Grouse	Mindoro Imperial Pigeon	Fulvous Owl	Snowy Owl
+282224	Birds	3	What is the common name of the bird Columba punicea?	Malleefowl	Scaled Pigeon	Socorro Dove	Pale-Capped Pigeon
+181056	Birds	3	What is located between the body and the wing of the bird and also called the wingpit?	Armpit	Barrier Space	Under Wing	Axillary
+45L0159	Birds	3	What is the common name of the bird Lophornis helenae?	Green Violetear	Enggano Scops Owl	Chestnut-Bellied Imperial Pigeon	Black-Crested Coquette
+1P0126	Birds	3	What is the common name of the bird Hylocharis eliciae?	White-Rumped Swiftlet	Finsch'S Imperial Pigeon	Lesser Prairie Chicken	Blue-Throated Sapphire
+1P0198	Birds	3	What European bird was imported to America by the administration of Franklin Pierce in hopes of ridding Brooklyn, New York, of a plague of canker worms that was infesting the trees?	The Barn Swallow	The Starling	The Lark Bunting	The English Sparrow
+483947	Birds	3	What is the common name of the bird Geotrygon montana?	Yellow-Knobbed Curassow	African Penguin	Crested Owl	Ruddy Quail-Dove
+81995	Birds	3	Which Australian bird builds a nest shaped like a wine glass?	The Kookaburra	The Olive-Backed Oriole	The White-Tailed Kingfisher	The Rufous Fantail

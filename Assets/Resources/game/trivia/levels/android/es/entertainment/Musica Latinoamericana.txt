@@ -1,0 +1,100 @@
+FTUXLA101	Musica Latinoamericana	0	¿Cuál es el primer álbum grabado de Luis Miguel?	Fiebre de honor	Una luna	¡México por siempre!	Un Sol
+FTUXLA102	Musica Latinoamericana	0	¿Con cuál de estos cantantes Luis Miguel hizo un dúo?	Enrique Iglesias	Ricky Martin	John Lennon	Michael Jackson
+FTUXLA103	Musica Latinoamericana	0	¿Quién grabó la famosa versión latina de "New York, New York"?	Enrique Iglesias	Lele Pons	Luis Miguel	José José
+FTUXLA104	Musica Latinoamericana	0	¿Cuál de estos cantantes tuvo un problema en las cuerdas vocales por el que se retiró?	Marco Antonio Solis	Camilo Sesto	Juan Gabriel	José José
+FTUXLA105	Musica Latinoamericana	0	¿Dónde nació Violeta Parra?	Ecuador	Perú	España	Chile
+FTUXLA106	Musica Latinoamericana	0	¿En qué grupo cantaba Camilo Sesto antes de ser solista?	Maná	Soda Stereo	Mecano	Los Dayson
+FTUXLA107	Musica Latinoamericana	0	¿De dónde es Ricardo Arjona?	México	Honduras	Argentina	Guatemala
+FTUXLA108	Musica Latinoamericana	0	¿Quién canta la canción "Fuiste tú"?	José José	Ricardo Montaner	Carlos Gardel	Ricardo Arjona
+FTUXLA109	Musica Latinoamericana	0	¿Cuál de estos cantantes fue parte de "Los tres tenores"?	José José	Nino Bravo	Sandro	Plácido Domingo
+FTUXLA110	Musica Latinoamericana	0	¿En cuál de estas películas participó Plácido Domingo?	El fantasma de la Ópera	Los miserables	Harry Potter	Una chihuahua de Beverrly Hills
+FTUXLA111	Musica Latinoamericana	0	¿De qué ciudad viene Shakira?	Ciudad de México	Buenos Aires	Lima	Barrnaquilla
+FTUXLA112	Musica Latinoamericana	0	¿Quién es el esposo de Shakira?	Chicharito	Ricardo Arjona	Maluma	Gerard Piqué
+FTUXLA113	Musica Latinoamericana	0	¿Dónde nació Chavela Vargas?	Argentina	Chile	Perú	Costa Rica
+FTUXLA114	Musica Latinoamericana	0	¿Con qué artista tuvo un amorío Chavela Vargas?	María Izquierdo	Alfaro Siqueiros	Remedios Varo	Frida Kahlo
+FTUXLA115	Musica Latinoamericana	0	¿A quién se le conoce como "El divo de Juárez"?	Joan Sebastian	Marco Antonio Solis	José José	Juan Gabriel
+FTUXLA116	Musica Latinoamericana	0	¿Cuál era el antiguo nombre artístico de Juan Gabriel?	Alan el Sol	Esteban Dunas	Gallo de Luna	Adán Luna
+FTUXLA117	Musica Latinoamericana	0	¿Qué película usa sólo la música de Juan Gabriel como banda sonora?	Amarte duele	Nubles flotantes	Norteado	¿Qué le dijiste a Dios?
+FTUXLA118	Musica Latinoamericana	0	¿Qué canción fue popularmente cantada por Coti, Julieta Venegas y Paulina Rubio?	La chica dorada	Me voy	Limón y sal	Nada fue un error
+FTUXLA119	Musica Latinoamericana	0	¿Cuál de estas canciones cantan Shakira y Alejandro Sanz?	La bicicleta	Suerte	Chantaje	Tortura
+FTUXLA120	Musica Latinoamericana	0	¿Cuál canción cantó Shakira para el mundial 2010?	Try Everything	Hips don't lie	Suerte	Waka Waka (Esto es Africa)
+FTUXLA121	Musica Latinoamericana	0	¿En qué grupo juvenil cantó Thalía?	Mecano	Vaselina	Parchis	Timbiriche
+FTUXLA122	Musica Latinoamericana	0	¿Quién es el esposo de Thalía?	Derek Jeter	Fernando Colunga	Eduardo Capetillo	Tommy Mottola
+FTUXLA123	Musica Latinoamericana	0	¿Cuál de estos cantantes NO es de Puerto Rico?	Rene Residente	Bad Bunny	Luis Fonsi	J Balvin
+FTUXLA124	Musica Latinoamericana	0	¿Con cuál de estos cantantes Luis Fonsi hizo un dúo?	J Balvin	Luis Miguel	Ozuna	Daddy Yankee
+FTUXLA125	Musica Latinoamericana	0	¿Quién es la sobrina política de Chayanne?	Hannah Stocking	Amanda Cerny	AzzyLand	Lele Pons
+FTUXLA126	Musica Latinoamericana	0	¿En qué telenovela juvenil actuó Ninel Conde?	Muchachitas  	Aventuras en el tiempo	Amigas y rivales	Rebelde
+FTUXLA127	Musica Latinoamericana	0	¿Quién es el ex esposo de Jennifer López?	Ricky Martin	Pitbull	Ojani Noa	Marc Anthony
+FTUXLA128	Musica Latinoamericana	0	¿A quién se le conoce como "Mr. Worlwide"?	Romeo Santos	Sean Paul	Flo Rida	Pitbull
+FTUXLA129	Musica Latinoamericana	0	¿Quién es "El Buki"?	Carlos Vives	Chayanne	Luis Fonsi	Marco Antonio Solis
+FTUXLA130	Musica Latinoamericana	0	¿A quién se le conoce como "El principe de la canción"?	Juan Gabriel	Michael Jackson	Luis Miguel	José José
+FTUXLA131	Musica Latinoamericana	0	¿Quién canta el soundtrack de "Amarte duele"?	Belinda	Danna Paola	Thalía	Ximena Sariñana
+FTUXLA132	Musica Latinoamericana	0	¿Cuál canción de Luis Miguel es un cover latino de "Jakson Five"?	Si tú te atreves	Alguien como tú	Cuando calienta el sol	Será que no me amas
+FTUXLA133	Musica Latinoamericana	0	¿A qué cantante menciona Natalia Lafourcada en una de sus canciones?	Juan Gabriel	Julieta Venegas	Ximena Sariñana	Gael García
+FTUXLA134	Musica Latinoamericana	0	¿Qué canción es interpretada por Ana Torroja y Aleks Syntek?	Intocable	La puerta del sol	Cuando no estás	Duele el amor
+FTUXLA135	Musica Latinoamericana	0	¿Cuál de estos cantantes no es Argentino?	Fito Páez	Andrés Calamaro	Charly García	Gael García
+FTUXLA136	Musica Latinoamericana	0	¿Quién era el cantante de Soda Stereo?	Charly García	Oscar Moro	Luis Alberto Spinetta	Gustavo Cerati
+FTUXLA137	Musica Latinoamericana	0	¿Dónde nació Joaquín Sabina?	Argentina	Uruguay	Chile	España
+FTUXLA138	Musica Latinoamericana	0	¿Quién es el cantante de "Cisne cuello negro"?	Camilo Sesto	Luis Miguel	Nino Bravo	Basilio
+FTUXLA139	Musica Latinoamericana	0	¿Quién es el compositor de "Adoro"?	Los Panchos	Vikki Carr	Chavela Vargas	Armando Manzanero
+FTUXLA140	Musica Latinoamericana	0	¿En cuál de estas películas no participó Ximena Sariñana?	Niñas mal	Amarte duele	Los fabulosos 7	Amores perros
+FTUXLA141	Musica Latinoamericana	0	¿De dónde es Mon Laferte?	México	Francia	Argentina	Chile
+FTUXLA142	Musica Latinoamericana	0	¿Quién es el ex esposo de Julieta Venegas?	Francisco Molina	Ángel Parra	Roberto Lindl	Álvaro Henríquez
+FTUXLA143	Musica Latinoamericana	0	¿En qué grupo cantaban Thalía y Paulina Rubio?	Mecano	Las flans	Parchis	Timbiriche
+FTUXLA144	Musica Latinoamericana	0	¿Qué grupo cantaba "No controles" y "Las mil y una noches"?	Mecano	Pandora	Las Ketchup	Las Flans
+FTUXLA145	Musica Latinoamericana	0	¿Qué canción popular de "Las Ketchup" se recuerda por su baile?	A quién le importa	Las mil y una noches	Ven a cantar	Aserejé
+FTUXLA146	Musica Latinoamericana	0	¿Con quién estuvo casada Lucero?	Luis Miguel	Ángel Parra	Roberto Lindl	Manuel Mijares
+FTUXLA147	Musica Latinoamericana	0	¿En qué película participaron Luis Miguel y Lucero?	Delincuente	Rewind	Paraíso	Fiebre de amor
+FTUXLA148	Musica Latinoamericana	0	¿Dónde nació Silvio Rodríguez? 	Argentina	Chile	México	Cuba
+FTUXLA149	Musica Latinoamericana	0	¿Quién es el cantante de "Así se siente México"?	Chavela Vargas	Lucero	Silvia Ramos	Luis Miguel
+FTUXLA150	Musica Latinoamericana	0	¿Quién es el cantante de "Tú de qué vas"?	Chayanne	Ricardo Arjona	Ricardo Montaner	Franco de Vita
+FTUXLA151	Musica Latinoamericana	0	¿Como se llama la madre de Alejandra Guzmán?	Ana Torroja	Glora Trevi	Lucero	Silvia Pinal
+FTUXLA152	Musica Latinoamericana	0	¿Quién es el padre de Cristian Castro?	Héctor Lechuga	Xavier López "Chabelo"	Sergio Corona	Manuel "El loco" Valdés
+FTUXLA153	Musica Latinoamericana	0	¿Dónde nació Maluma?	Venezuela	México	Estados Unidos	Colombia
+FTUXLA154	Musica Latinoamericana	0	¿Quién es el hermano de jenny rivera?	Xavier Ortiz	Chalino Sánchez	Christian Nodal	Lupillo Rivera
+FTUXLA155	Musica Latinoamericana	0	¿Cuál de estos cantantes no nació en Colombia?	Maluma	Shakira	J Balvin	Bad Bunny
+FTUXLA156	Musica Latinoamericana	0	¿Qué cantante sacó un disco donde cada canción tenía por nombre un color?	Farruko	Karol G	Ozuna	J Balvin
+FTUXLA157	Musica Latinoamericana	0	¿Qué canción fue una colaboración de Karol G y Nicki Minaj?	Con altura	A ella	Super Bass	Tusa
+FTUXLA158	Musica Latinoamericana	0	¿Cuál de estos cantantes no canta en la canción "Runaway"?	Sebastián Yatra	Jonas Brothers	Natti Natasha	Demi Lovato
+FTUXLA159	Musica Latinoamericana	0	¿Dónde nació Manu Chao?	Guyana Francesa	Canadá	Honduras	Francia
+FTUXLA160	Musica Latinoamericana	0	¿Quién hizo el cover latino de la canción "Teenage superstar"?	Rosalía	Karol G	Danna Paola	Belinda
+FTUXLA161	Musica Latinoamericana	0	¿Qué canción interpreta Belinda en la película "Las Cheetah Girls 2"	Strut	It's over	Amigas cheetah	A la nanita nana
+FTUXLA162	Musica Latinoamericana	0	¿Qué género musical mexicano está compuesto por un ensamble con instrumentos de viento?	Norteña	Cumbia	Pop	Banda de viento
+FTUXLA163	Musica Latinoamericana	0	¿Qué instrumento musical se usa en la música Norteña?	Flauta transversal	Castañuelas	Triángulo de metal	Acordeón
+FTUXLA164	Musica Latinoamericana	0	¿De dónde viene la música del género "Norteña"?	Sur de Panamá	Centro América	Brasil	Norte de México
+FTUXLA165	Musica Latinoamericana	0	¿Qué género musical cuenta una historia en forma de canción?	Orquesta	Tango	Hip-hop	Corrido 
+FTUXLA166	Musica Latinoamericana	0	¿De dónde viene el Tango?	Colombia	Uruguay	Panamá	Argentina
+FTUXLA167	Musica Latinoamericana	0	¿Cuál de estos géneros musicales no está hecho para ser bailado?	Tango	Cumbia	Reguetón	Orquesta
+FTUXLA168	Musica Latinoamericana	0	¿Qué géneros inspiraron al género músical "Salsa"?	Bachata y Cumbia	Tango y Norteña	Reguetón y Cumbia	Jazz y son cubano
+FTUXLA169	Musica Latinoamericana	0	¿De dónde viene el Mariachi?	Bolivia	Ecuador	Perú	México
+FTUXLA170	Musica Latinoamericana	0	¿De qué Estado de México viene el "Pasito duranguense"?	Jalisco	Sucre	Buenos Aires	Durango
+FTUXLA171	Musica Latinoamericana	0	¿De dónde viene la música "Tex-mex"?	California	San José	Puerto Rico	Texas
+FTUXLA172	Musica Latinoamericana	0	¿De dónde viene la Bachata?	Chile	Francia	Estados Unidos	República Dominicana
+FTUXLA173	Musica Latinoamericana	0	¿De dónde es el papá de Luis Miguel?	México	Puerto Rico	Argentina	España
+FTUXLA174	Musica Latinoamericana	0	¿Quién el papá de Luis Miguel?	Luis Miguel padre	Luis Ángel 	José José	Luisito Rey
+FTUXLA175	Musica Latinoamericana	0	¿Quién interpreta a Luis Miguel en la serie autobiográfica de Netflix?	Juanpa Zurita	Fernando Martínez	Gabriel Luna	Diego Boneta
+FTUXLA176	Musica Latinoamericana	0	¿Quién es el cantante de Zoé?	Diego Luna	Enrique Bunbury	Diego Boneta	León Larregui
+FTUXLA177	Musica Latinoamericana	0	¿Qué banda mexicana es autora de la canción "Afuera"?	Jaguares	Alison	Zoé	Caifanes
+FTUXLA178	Musica Latinoamericana	0	¿De dónde viene la Samba?	Argentina	Cuba	Guatemala	Brasil
+FTUXLA179	Musica Latinoamericana	0	¿De dónde vienen las raíces de la Samba?	Europa	Asia	Canadá	África
+FTUXLA180	Musica Latinoamericana	0	¿Qué géneros musicales inspiraron al Bossa nova?	Rock y clásica	Orquesta y reguetón	Cumbia y Norteña	Jazz y Samba
+FTUXLA181	Musica Latinoamericana	0	¿De dónde es Wendy Sulca?	Bolivia	Chile	Ecuador	Perú
+FTUXLA182	Musica Latinoamericana	0	¿De dónde es La Tigresa del Oriente?	Argentina	México	Guatemala	Perú
+FTUXLA183	Musica Latinoamericana	0	¿Qué profesión tiene Niurka Marcos?	Cocinera	Académica	Plomera	Vedette
+FTUXLA184	Musica Latinoamericana	0	¿Quién es la cantante de "Amor prohibido"?	Niurka	Wendy Sulca	Ninel Conde	Selena Quintanilla
+FTUXLA185	Musica Latinoamericana	0	¿En qué grupo canta el hermano de Selena Quintanilla?	Los plebes	Guns n Roses	Los beatles	Kumbia Kings
+FTUXLA186	Musica Latinoamericana	0	¿Qué tipo de música cantaba Selena Quintanilla?	Reguetón	Pop	Rock	Cumbia
+FTUXLA187	Musica Latinoamericana	0	¿Qué género musical cantaba Joan Sebastian?	Cumbia	Metal	Clásica	Regional mexicana
+FTUXLA188	Musica Latinoamericana	0	¿Quién era la esposa de Joan Sebastian?	Niurka Marcos	Ana Gabriel	Lucero	Maribel Guardia
+FTUXLA189	Musica Latinoamericana	0	¿Quién es el cantante ecuatoriano más escuchado en Spotify?	Maluma	Shakira	Mon Laferte	Julio Jaramillo
+FTUXLA190	Musica Latinoamericana	0	¿Qué canción fue una colaboración de Shakira y Maluma?	Luna	Tu falta de querer	Ciega, Sorda y Muda	Chantaje
+FTUXLA191	Musica Latinoamericana	0	¿De dónde viene el Reguetón?	De Jamaica	De Argentina	De Uruguay	De Puerto Rico
+FTUXLA192	Musica Latinoamericana	0	¿Qué es el Dembow?	Un platillo	Una película	Un cantante	Un género musical
+FTUXLA193	Musica Latinoamericana	0	¿Qué es la Cumbia?	Música Clásica	Un postre	Un país	Música para bailar
+FTUXLA194	Musica Latinoamericana	0	¿De dónde es la Cumbia?	Uruguay	Rusia	Australia	Colombia
+FTUXLA195	Musica Latinoamericana	0	¿Cuál de estos cantantes hace música de Cumbia?	Maluma	Brittney Spears	Ximena Sariñana	Selena Quintanilla
+FTUXLA196	Musica Latinoamericana	0	¿A cuál de estos compositores le hizo un homenaje Natalia Lafourcade?	Maluma	Enrique Peña Nieto	Shakira	Agustín Lara
+FTUXLA197	Musica Latinoamericana	0	¿Cuál de estas cantantes está casada con un político?	Lele Pons	Ana Gabriel	Shakira	Anahí
+FTUXLA198	Musica Latinoamericana	0	¿De dónde es Natti Natasha?	México	Puerto Rico	Uruguay	República Dominicana
+FTUXLA199	Musica Latinoamericana	0	¿Quién es la hija de Silvia Pinal?	Glora Trevi	Thalía	Camila Sodi	Alejandra Guzmán
+FTUXLA200	Musica Latinoamericana	0	¿De dónde es Sergio Denis?	México	Uruguay	Puerto Rico	Argentina

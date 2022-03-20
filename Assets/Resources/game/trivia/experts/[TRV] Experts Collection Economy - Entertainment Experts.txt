@@ -1,0 +1,24 @@
+Makeup Artist	Rare	15	5	Movies 10s	5	3	Plays & Musicals	3	1	TV 90s	3	1	Awards	3		Foreign Films	1						0	0	0	0	0	0	0	5	0	3	0	3	0	3	0	0	0	0	0	0	0	0	0	1
+Beat Maker	Uncommon	12	3	Hip Hop	5	2	Pop Music	4	1	Music 10s	1		Music R&B	2									0	0	0	4	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	5	0	0	0
+Paparazzi	Epic	18	7	Celebrities	5	4	TV 10s	3	2	Music 10s	3		Movies 10s	3	1	Awards	2		TV 00s	2			0	0	5	0	0	3	3	3	0	0	0	0	0	2	0	0	0	0	0	0	0	0	2	0
+Tabloid Editor	Uncommon	12	3	TV 10s	5	2	Celebrities	1		Reality TV	4	1	Sitcoms	2									0	0	1	0	0	5	0	0	4	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+Fan Fic Author	Uncommon	12	3	Animated Movies	5	2	Disney	4	1	Video Games	2		TV 00s	1									5	4	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0
+Club Owner	Uncommon	12	3	Music 10s	5	2	Pop Music	3	1	Music R&B	1		Hip Hop	3									0	0	0	3	0	0	5	0	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	0
+Comedian	Common	9	1	TV 90s	5	1	Plays & Musicals	1		Sitcoms	3												0	0	0	0	0	0	0	0	0	1	0	5	3	0	0	0	0	0	0	0	0	0	0	0
+Film Critic	Epic	18	7	Foreign Films	5	4	Animated Movies	2		Movies 90s	4	2	Movies 10s	2		Movies 00s	3	1	Action Movies	2			2	0	0	0	4	0	0	2	0	0	0	0	0	0	0	0	0	0	0	3	0	2	0	5
+Showrunner	Rare	15	5	Sitcoms	5	3	Celebrities	2		TV 10s	4	1	Reality TV	3	1	Awards	1						0	0	2	0	0	4	0	0	3	0	0	0	5	1	0	0	0	0	0	0	0	0	0	0
+Stage Director	Common	9	1	Plays & Musicals	5	1	Music 00s	4															0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	4	0	0	0	0	0	0
+Heartthrob	Rare	15	5	Action Movies	5	3	Disney	3		Movies 10s	4	1	Foreign Films	3	1								0	3	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	3
+Influencer	Common	9	1	Reality TV	5	1	TV 10s	2		Hip Hop	2												0	0	0	0	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+Heiress	Common	9	1	Awards	5	1	Celebrities	4															0	0	4	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0
+Pop Star	Common	9	1	Pop Music	5	1	Country Music	2		Music 10s	2												0	0	0	5	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+Annual Pass Holder	Common	9	1	Disney	5	1	Animated Movies	3		Movies 00s	1												3	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Memorabilia Collector	Epic	18	7	Movies 90s	5	4	Animated Movies	4	2	TV 90s	2		Rock Music	1		Video Games	3	1	Music 90s	3			4	0	0	0	5	0	0	0	0	0	0	2	0	0	1	3	0	0	3	0	0	0	0	0
+Cowboy	Uncommon	12	3	Country Music	5	2	TV 00s	4	1	Action Movies	3												0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	3	4	0
+Lead Guitarist	Common	9	1	Rock Music	5	1	Music 00s	3		Pop Music	1												0	0	0	1	0	0	0	0	0	0	0	0	0	0	5	0	0	3	0	0	0	0	0	0
+Blogger	Epic	18	7	Movies 00s	5	4	Movies 90s	3		Video Games	4	1	Action Movies	4	2	Disney	2						0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	4	0	0	0	5	0	4	0	0
+Twitch Streamer	Common	9	1	Video Games	5	1	Reality TV	2		Foreign Films	2												0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	5	0	0	0	0	0	0	0	2
+Mashup Producer	Rare	15	5	Music 90s	5	3	Rock Music	2		Country Music	3	1	Music R&B	4	1	Hip Hop	1						0	0	0	0	0	0	0	0	0	0	3	0	0	0	2	0	4	0	5	0	1	0	0	0
+Screenwriter	Rare	15	3	TV 00s	5	3	Movies 90s	1		TV 90s	1		Sitcoms	4		Movies 00s	4						0	0	0	0	1	0	0	0	0	0	0	1	4	0	0	0	0	0	0	4	0	0	5	0
+Choreographer	Uncommon	12	3	Music R&B	5	2	Plays & Musicals	4	1	Music 00s	2		Music 90s	1									0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	5	2	1	0	0	0	0	0
+Girl Group	Rare	15	3	Music 00s	5	1	Country Music	4	1	Rock Music	4	1	Music 90s	2									0	0	0	0	0	0	0	0	0	0	4	0	0	0	4	0	0	5	2	0	0	0	0	0

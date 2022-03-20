@@ -1,0 +1,946 @@
+FTUX85	Football	0	What color is a standard football?	Red	Pink	Green	Brown
+45EE028	Football	0	Which team has a horseshoe as their team logo?	Cincinnati Bengals	Baltimore Ravens	Chicago Bears	Indianapolis Colts
+FTUX103	Football	0	Tom Brady was part of which football team?	Denver Broncos	Pittsburgh Steelers	Cleveland Browns	New England Patriots
+FTUX91	Football	0	How many points does a team get for a touchdown in American football?	1	0	13	6
+0DIFSP270	Football	0	Which team won the first Super Bowl?	Golden State Warriors	Detroit Lions	New York Yankees	Green Bay Packers
+0DIFSP136	Football	0	The NFL is divided into what two conferences?	East and West	NL and AL	North and South	NFC and AFC
+45EE109	Football	0	Which is an actual NFL team from Michigan?	Detroit Angries	Detroit Zebras	Detroit Owls	Detroit Lions
+0DIFSP134	Football	0	Which team has an orange helmet?	Green Bay Packers	Las Vegas Raiders	Pittsburgh Steelers	Cleveland Browns
+FTUX95	Football	0	Which of the following is not a football team?	Denver Broncos	Baltimore Ravens	Chicago Bears	Denver Nuggets
+45EE031	Football	0	Which of these NFL players was named as an MVP of the Super Bowl?	Barry Bonds	Kevin Durant	Trent Green	John Elway
+45EE073	Football	0	What network has Chris Berman covered the NFL for?	HBO	Netflix	BBC	ESPN
+6998D92	Football	0	Who was the head coach of the 2019 Seattle Seahawks?	Bill Parcells	Mike Groh	Ken Norton Jr.	Pete Carroll
+FTUXPIC338	Football	0	Who is this Super Bowl winning legend?	Eli Manning	Joe Montana	Nick Foles	Peyton Manning
+45EE067	Football	0	Which position did Dan Marino play in the NFL?	Safety	Pitcher	Middle Linebacker	Quarterback
+45EE118	Football	0	Which of these team is located in Jacksonville, Florida?	Jets	Steelers	Colts	Jaguars
+272287	Football	0	If Super Bowl I was played on January 15, 1967, when was Super Bowl XVIII played?	January 14, 1973	January 25, 1981	January 28, 1996	January 22, 1984
+45EE085	Football	0	Which athlete is well known NFL quarterback?	James Jones	LeBron James	Stephen Curry	Cam Newton
+0DIFSP265	Football	0	What is the name of the trophy for the winner of the Super Bowl?	The Football Glory	The Golden Ball	The Shiny Trophy	The Vince Lombardi Trophy
+518785	Football	0	Which football term is defined as "when a player throws the ball at the ground to celebrate"?	Backs	Safety	Bomb	Spike
+0DIFSP271	Football	0	Which of the following teams has never participated in the Super Bowl?	New England Patriots	San Francisco 49ers	Green Bay Packers	Cleveland Browns
+271180	Football	0	If Super Bowl I was played on January 15, 1967, then when was Super Bowl XVII played?	January 28, 1901	January 22, 1989	January 20, 1985	January 30, 1983
+FTUXPIC337	Football	0	Who is this Seahawk-turned-49er?	Marshawn Lynch	Russell Wilson	Frank Gore	Richard Sherman
+0DIFSP139	Football	0	Kickers normally belong to which part of the roster?	Offense	Coaching	Defense	Special Teams
+0DIFSP274	Football	0	Where was the 2016 Super Bowl held?	London, England	Paris, France	Little Rock, AK	San Francisco, CA
+45EE076	Football	0	What 2020 NFL team does Jerry Jones own?	San Jose Sharks	Cincinnati Bengals	Seattle Bears	Dallas Cowboys
+FTUX101	Football	0	Which team's color scheme is green and gold?	New England Patriots	San Francisco 49ers	Dallas Cowboys	Green Bay Packers
+199033	Football	0	If Super Bowl I was played on January 15, 1967, then when was Super Bowl XXIX played?	January 15, 1967	January 15, 1978	January 20, 1985	January 29, 1995
+0DIFSP129	Football	0	A player does what to make a field goal?	Catches the ball	Throws the ball really far	Runs to the end of the field	Kicks the ball through uprights
+45EE010	Football	0	What is the most watched NFL football game every year?	Pro Bowl	Opening Game	Pats vs Dolphins	Super Bowl
+FTUX104	Football	0	Which football team won the very first Super Bowl?	Los Angeles Dodgers	Golden State Warriors	New York Yankees	Green Bay Packers
+45EE100	Football	0	What is an important job of the center position?	Wave to fans	Refill Water Jugs	Coach team	Pass Ball to Quarterback
+45EE106	Football	0	Which is an actual NFL team from Colorado?	Denver Bulls	Denver Ponies	Denver Mustangs	Denver Broncos
+FTUX97	Football	0	What is the full name of the football team from Buffalo?	Buffalo Buffalo	Buffalo Cats	Buffalo Steelers	Buffalo Bills
+0DIFSP267	Football	0	The Super Bowl is the most watched sporting event in the world after which event?	Masters	Stanley Cup	March Madness	Soccer Champions League Final
+FTUX90	Football	0	Which player on the football team usually throws the ball?	Hitter	Kicker	Doubleback	Quarterback
+189S819	Football	0	The space on the football field where a touchdown is scored is called what?	Downzone	Ultra Zone	Scoring Quarter	End Zone
+0DIFSP280	Football	0	Which of the following celebrities has not done a Super Bowl Halftime Show?	Lady Gaga	Justin Timberlake	Katy Perry	Barack Obama
+518784	Football	0	What position did Joe Namath play?	DB	DE	WR	QB
+FTUXPIC339	Football	0	Who is this arguably GOAT quarterback?	Brett Favre	Tom Brady	Steve Young	Joe Montana
+518792	Football	0	In football, a field goal is worth how many points?	Six	Two	Four	Three
+0DIFSP128	Football	0	Choose the pro football player:	Babe Ruth	George Foreman	Patrick Ewing	Brett Favre
+45EE013	Football	0	Which of these athletes was an NFL running back?	Joe Montana	Tom Brady	Mike Tyson	Emmitt Smith
+0DIFSP266	Football	0	Which player has won the Super Bowl MVP three times?	Dan Marinara	Michael Jordan	Aaron Rodgers	Joe Montana
+0DIFSP125	Football	0	Which of the following movies primarily involved football?	A League of Their Own	Hoosiers	Baseketball	Remember The Titans
+45EE034	Football	0	What team did NFL Hall of Famer Jim Brown play for in the NFL?	Arizona Cardinals	Houston Texans	Baltimore Ravens	Cleveland Browns
+45EE091	Football	0	When does clock stops in football?	On A Lateral	During a Tackle	During A Pass	On A Penalty
+45EE001	Football	0	What position did Joe Montana play in the NFL?	Safety	Defensive End	Wide Receiver	Quarterback
+FTUXPIC333	Football	0	What is this kicker doing?	Attempting a hail mary	Placing	Rushing	Punting
+FTUX98	Football	0	Which is the following is not a football team?	Minnesota Vikings	New York Giants	New England Patriots	Orlando Magic
+45EE070	Football	0	Who was nicknamed "The Minister of Defense" and played for the Green Bay Packers?	David Ortiz	Tom Brady	Brian Piccolo	Reggie White
+45EE007	Football	0	Who hikes the ball to the quarterback?	Punter	Linebacker	Quarterback	Center
+45EE079	Football	0	Which NFL city's team is named after a bird?	New York	Minnesota	Miami	Baltimore
+45EE037	Football	0	Which of these is not a real football team?	Green Bay Packers	New York Giants	Philadelphia Eagles	California Shells
+0DIFSP275	Football	0	Which team lost the first ever Super Bowl?	Cleveland Browns	Detroit Lions	Oakland Raiders	Kansas City Chiefs
+0DIFSP268	Football	0	What company pays the MVP of the Super Bowl every year to sponsor their business?	Tesla	Goodyear	HBO	Disney
+FTUXPIC336	Football	0	This logo belongs to which team?	Dallas Stars	Pittsburgh Steelers	Vegas Raiders	Dallas Cowboys
+45EE097	Football	0	Which is a piece of equipment the referee has in a NFL game?	iPhone	Trumpet	Pole	Whistle
+199010	Football	0	If Super Bowl I was played on January 15, 1967, then when was Super Bowl XXXIII played?	January 30, 2000	January 14, 1973	January 30, 1983	January 31, 1999
+189S821	Football	0	How is the first possession of an NFL football game decided?	Jump Ball	Shootout	Odds-Or-Evens	Coin Flip
+FTUX88	Football	0	What is it called when a player drops the ball?	Oopsie	Dropper	Foul	Fumble
+0DIFSP127	Football	0	A safety is worth how many points?	3	7	1	2
+35499	Football	0	If Super Bowl I was played on January 15, 1967, then when was Super Bowl XI played?	January 30, 1994	January 30, 1983	January 20, 1985	January 9, 1977
+FTUX94	Football	0	What is the full name for the team from Indianapolis?	Indianapolis Lakers	Indianapolis Dodgers	Indianapolis Warriors	Indianapolis Colts
+0DIFSP263	Football	0	Which sport is played during the Super Bowl?	Soccer	Basketball	Baseball	American Football
+0DIFSP126	Football	0	This person often delivers the ball to the Quarterback to start play:	Coach	Linebacker	Receiver	Center
+45EE019	Football	0	Which of these NFL franchises play home games in Florida?	Eagles	Panthers	Jets	Dolphins
+FTUXPIC332	Football	0	Field goal kickers aim to kick the ball between what?	Goal posts	Foul poles	Spurs	Uprights
+FTUXPIC335	Football	0	Which team's logo is this?	New York Giants	Georgia Bulldogs	Cleveland Browns	Green Bay Packers
+45EE004	Football	0	Which of these is a position on offense in football?	Cornerback	Middle Linebacker	Safety	Tight End
+FTUX100	Football	0	What is the full name of the football team from Pittsburgh?	Pittsburgh Squirrels	Pittsburgh Cowboys	Pittsburgh Sharks	Pittsburgh Steelers
+0DIFSP273	Football	0	Who was Vince Lombardi?	A new referee for the Superbowl	A famous jeweler	A uniform company	First Super Bowl-winning coach
+FTUXPIC340	Football	0	Who is this GOAT receiver (on the right)?	Randy Moss	Deion Sanders	Terrell Owens	Jerry Rice
+FTUX99	Football	0	Who usually catches the ball on a football team?	The tallest person	Quarterback	Doubleback	Wide receiver
+0DIFSP121	Football	0	How many downs does the offense have to score or advance?	1	6	10	4
+8220	Football	0	If Super Bowl I was played on January 15, 1967, then when was Super Bowl XXXIV played?	January 12, 1969	January 26, 1986	January 22, 1984	January 30, 2000
+491424	Football	0	Who was the head coach of the 2019 New England Patriots?	Bruce Beal	Eric Bieniemy	Dean Pees	Bill Belichick
+45EE025	Football	0	What city are the NFL's Texans based out of?	Loveland	Laredo	Los Angeles	Houston
+FTUXPIC331	Football	0	Who is this former Patriots great?	Teddy Bruschi	Tim Tebow	Doug Flutie	Tom Brady
+382880	Football	0	If Super Bowl I was played on January 15, 1967, then when was Super Bowl XXIV played?	January 30, 2000	January 22, 1984	January 28, 1901	January 28, 1990
+0DIFSP122	Football	0	Which is not a type of football play?	Pass	Rush	Field Goal	Steal
+19SU2018	Football	0	If Super Bowl I was played on January 15, 1967, then when was Super Bowl VII played?	January 22, 1989	January 30, 1983	January 22, 1984	January 14, 1973
+45EE022	Football	0	Which of these NFL franchises play home games in Florida?	Bengals	Seahawks	Rams	Buccaneers
+45EE055	Football	0	Which of these is a term used in football?	Pick and roll	Bucket	Walk	Tackling
+45EE094	Football	0	When a NFL ref puts his hands on his hips what is the call?	Facemask	Dancing In End Zone	Holding	Offsides
+FTUX96	Football	0	Which of the following is not a position in Football?	Fullback	Halfback	Quarterback	Keeper
+199825	Football	0	What is the official term for a catch made by an offensive player in football?	Allowance	Fumble	Safety	Reception
+7W2597	Football	0	In football, a touchdown is worth how many points?	Five	Ten	Three	Six
+0DIFSP272	Football	0	What company makes the Super Bowl trophy?	Jared	Hasbro	Dove	Tiffany & Co
+0DIFSP130	Football	0	What is the NFL's championship game called?	The Finals	March Madness	World Series	Super Bowl
+45EE058	Football	0	Which team has been led by coach Bill Belichick in 2015, 2016 and 2017?	Los Angeles Lakers	Baltimore Ravens	New York Mets	New England Patriots
+0DIFSP135	Football	0	What does NFL stand for?	No Fun League	New Football League	Night Football Live	National Football League
+FTUX89	Football	0	Where on the field is a touchdown scored?	The middle zone	The basket hoop	The twilight zone	The end zone
+45EE046	Football	0	If the team lost 5 yards on first down, on second down how many yards do they need for a first down?	12 yards	7 Yards	36 Yards	15 Yards
+45EE112	Football	0	Which is an actual NFL team from Louisiana?	New Orleans Blues	New Orleans Jazz	New Orleans Marbles	New Orleans Saints
+45EE043	Football	0	Which of these is a penalty in the NFL?	Fumbling	Spitting	Gum Chewing	Delay of Game
+0DIFSP264	Football	0	What player has played in the most Super Bowls?	Babe Ruth	Kobe Bryant	Tony Romo	Tom Brady
+FTUX92	Football	0	Which team has a big cat as their mascot?	Dallas Cowboys	New England Patriots	Denver Broncos	Carolina Panthers
+0DIFSP132	Football	0	Which is a team that plays in California?	Packers	Patriots	Texans	Chargers
+0DIFSP131	Football	0	What determines who gets the ball first?	Whoever is bigger	Electoral college	Pushup contest	Coin Toss
+45EE088	Football	0	Which is a common NFL defensive formation?	Dollar Back	Arm Links	2-12 Defense	4-3 Defense
+FTUX102	Football	0	Tony Romo was part of which football team?	New England Bears	Cleveland Sharks	Mississippi Lions	Dallas Cowboys
+88SU1129	Football	0	In football, what is another name for a running play?	Safety	Turnover	Neutral Zone	Rush
+0DIFSP133	Football	0	What day of the week is the Super Bowl played?	Saturday	Wednesday	Monday	Sunday
+FTUXPIC334	Football	0	These players are attempting a what?	Scrimmage	Passing play	Field Goal	Handoff
+0DIFSP124	Football	0	The Dolphins, Buccaneers, and Jaguars play in what US State?	California	Texas	Kansas	Florida
+0DIFSP262	Football	0	What is the middle break time of the Super Bowl called?	Mid-Game Show	Quiet Time	Middle Man Medley	Halftime Show
+0DIFSP261	Football	0	How many teams participate in the Super Bowl?	10	6	4	2
+45EE064	Football	0	Which position did Joe Montana play in the NFL?	Safety	Running Back	Catcher	Quarterback
+FTUX93	Football	0	Which football team has a bird for their logo?	Cleveland Browns	Minnesota Vikings	Pittsburgh Steelers	Philadelphia Eagles
+259328	Football	0	If Super Bowl I was played on January 15, 1967, then when was Super Bowl VI played?	January 25, 1998	January 9, 1977	January 30, 1994	January 16, 1972
+45EE040	Football	0	If its second down and three to go, how many more yards do they need for a first down?	Eleven Yards	Two Yards	Seven Yards	Three Yards
+45EE049	Football	0	How does a player signal a "fair catch" in the NFL?	Praying	Sticking Tongue Out	Squatting	Waving
+0DIFSP269	Football	0	Which team was the first team to win 5 Super Bowls?	Cleveland Browns	Detroit Lions	Los Angeles Lakers	San Francisco 49ers
+45EE052	Football	0	Which of these is a term used in football?	Balk	KO	Slider	Interception
+0DIFSP279	Football	0	In what stadium was the first Super Bowl played?	Dodger Statium	Rose Bowl	Pink Bowl	Los Angeles Memorial Coliseum
+0DIFSP138	Football	0	Which day of the season is known for expensive, high-value commercials?	Opening night	Pro Bowl	Hall of Fame Game	Super Bowl
+0DIFSP137	Football	0	If an offensive lineman moves too early, what penalty is called?	Offsides	Encroachment	Pass Interference	False Start
+FTUX86	Football	0	Which of these is not part of a football player's uniform?	Helmet	Cleats	Jersey	Cape
+0DIFSP278	Football	0	Which of the following teams has never participated in the Super Bowl?	Green Bay Packers	Pittsburgh Steelers	Denver Broncos	Detroit Lions
+45EE061	Football	0	Which position did Peyton Manning play in the NFL?	Wide Receiver	Safety	Running Back	Quarterback
+30812	Football	1	Which NFL team won the first Super Bowl?	Dallas Cowboys	Pittsburgh Steelers	Baltimore Colts	Green Bay Packers
+0DIFSP123	Football	1	How many minutes are in a quarter of an NFL game?	8	10	12	15
+88SU1099	Football	1	In 2000, Peyton Manning went to the NFL Pro Bowl representing which team?	New York Giants	St. Louis Rams	Oakland Raiders	Indianapolis Colts
+94969	Football	1	Which singer's 'wardrobe malfunction' caused a stir at the 2004 Super Bowl?	Madonna	Steven Tyler	Prince	Janet Jackson
+19TP4011	Football	1	Julio Jones made the first Pro Bowl of his career in which year?	2008	2004	2002	2012
+618D392	Football	1	Who was the head coach of the 2019 Kansas City Chiefs?	Joe Judge	Jim Fassel	John DeFilippo	Andy Reid
+20701	Football	1	Who was the winning coach in Super Bowl 1?	Hank Stram	Don Shula	George Halas	Vince Lombardi
+45EE103	Football	1	What yard line is in the center of a football field?	20 Yard Line	12 Yard Line	70 Yard Line	50 Yard Line
+618D368	Football	1	For which team did Nick Foles star as the quarterback in the 2017-18 season?	Jets	Packers	Dolphins	Eagles
+19SU2010	Football	1	Who coached the 1st two Super Bowl Championship teams and what team was it?	Mike Shanahan/Bills	Don Shula/Dolphins	Barry Switzer/Cowboys	Vince Lombardi/Packers
+516276	Football	1	What is the penalty in the NFL for running into the kicker?	Fifteen Yard Penalty	Ten Yard Penalty	Twenty Yard Penalty	Five Yard Penalty
+491416	Football	1	Who was the head coach of the 2019 Philadelphia Eagles?	Patrick Graham	Greg Olson	Paul Guenther 	Doug Pederson
+381860	Football	1	What pro football team won the first two Super Bowls?	Oakland Raiders	Dallas Cowboys	Baltimore Ravens	Green Bay Packers
+199824	Football	1	What color is the Jacksonville Jaguar's tongue on their logo?	Black	Red	Yellow	Teal
+490920	Football	1	Which of these yard lines can be seen on an American football field?	60-Yard Line	100-Yard Line	54-Yard Line	40-Yard Line
+12K1509	Football	1	What is the penalty in the NFL for an illegal shift?	Ten Yard Penalty	Fifteen Yard Penalty	Twenty Yard Penalty	Five Yard Penalty
+199940	Football	1	In the NFL what occurs when there is a defensive pass interference?	Loss Of Five Yards	Loss Of Ten Yards	Loss Of The Ball	Automatic First Down
+259220	Football	1	Who won the first Super Bowl, held in Los Angeles on January 15, 1967?	Detroit Lions	Miami Dolphins	San Francisco 49ers	Green Bay Packers
+189S816	Football	1	Which Cowboys player made his 9th Pro Bowl in 2013-14?	Dez Bryant	Demarco Murray	Tyron Smith	Jason Witten
+88SU1159	Football	1	What is the penalty in the NFL for off sides?	Fifteen Yard Penalty	Ten Yard Penalty	Twenty Yard Penalty	Five Yard Penalty
+491423	Football	1	Who was the head coach of the 2019 Minnesota Vikings?	Zac Taylor	Nick Sirianni	Sean McDermott	Mike Zimmer
+199838	Football	1	What is the logo on the New Orleans Saints' helmet?	A Indian Spear	A Bird	An Ancient Roman Symbol	A French Symbol Called A Fleur-De-Lis
+259715	football	1	What did the NFL raise from 30 feet to 35 feet high in 2014?	Play Clocks	Coaches Suite	Scoreboards	Goal Posts
+502598	Football	1	What position does former USC star Sam Darnold play?	Fullback	Center	Safety	Quarterback
+88SU829	Football	1	What uniform number did Denver retire for NFL great John Elway?	5	12	9	7
+0DIFSP277	Football	1	Which team has scored the most points in a Super Bowl?	Boston Red Sox	Denver Broncos	Tampa Bay Buccaneers	San Francisco 49ers
+65391	Football	1	Who was the starting quarterback for the Dallas Cowboys at the beginning of the 2011 season?	Bill Nagy	Doug Free	Felix Jones	Tony Romo
+318220	Football	1	Who were the starting quarterbacks in the first Super Bowl?	Ken Stabler And Roger Staubach	Jim Plunkett And Brian Sipe	Fran Tarkenton And Joe Namath	Bart Starr And Len Dawson
+272249	Football	1	Which star was a quarterback who led the 49ers to their first four Super Bowl wins?	Reggie White	Mel Blount	Fran Tarkenton	Joe Montana
+297665	Football	1	Who was the MVP of the Miami vs. San Francisco Super Bowl on January 20, 1985?	Dan Marino	Mark Duper	Roger Craig	Joe Montana
+518790	Football	1	Who was the head coach of the 2019 Atlanta Falcons?	Doug Pederson	Tom Coughlin	Norv Turner	Dan Quinn
+189S817	Football	1	Who was an offensive captain for the Giants going into the 2014 season?	Stevie Brown	Ross Weaver	Zak DeOssie	Eli Manning
+18wS800	Football	1	What team drafted Clay Matthews?	Tampa Bay Buccaneers	New York Giants	Oakland Raiders	Green Bay Packers
+189S812	Football	1	How many yards (without penalties) are normally needed to achieve a first down in football?	15	20	Five	Ten
+88SU889	Football	1	Which football star is a Hall of Famer and Heisman Trophy winning runner?	Brett Favre	Roger Staubach	Bob Lilly	Earl Campbell
+507609	Football	1	How many yards is the penalty in the NFL for roughing the kicker?	Twenty Yard Penalty	Ten Yard Penalty	Five Yard Penalty	Fifteen Yard Penalty
+618D360	Football	1	Who was the head coach of the 2019 Houston Texans?	Matt Patricia	Wade Phillips	Tim Kelly	Bill O'Brien
+199829	Football	1	Who was the Cowboys' President and General Manager for the 2013-14 season?	Rod Marinelli	Judd Garrett	Jimmy Robinson	Jerry Jones
+8278	Football	1	Who in the NFL is nicknamed "Cool Breeze"?	Deuce McAllister	Philip Rivers	Peter Warrick	Drew Brees
+8290	Football	1	What school did Baker Mayfield play for prior to be drafted in the NFL?	Texas A&M	NC State	Southern Miss	Oklahoma
+88SU799	Football	1	What is the name of the New England Patriots stadium that opened in 2002?	Foxboro Stadium	Harvard Stadium	Sullivan Stadium	Gillette Stadium
+618D372	Football	1	What is the first name of former Steeler's quarterback Bradshaw?	Dan	Tommy	Jim	Terry
+451876	Football	1	Defensive superstar Lester Hayes played cornerback for which NFL team in 1980?	New Orleans Saints	Denver Broncos	Pittsburgh Steelers	Oakland Raiders
+618D340	Football	1	What is the first name of football's Allen?	Willie	Albert	Bob	George
+499611	Football	1	Patrick Mahomes II is the quarterback for which 2018 NFL team?	SF 49ers	NY Jets	NE Patriots	KC Chiefs
+618D354	Football	1	Who was the head coach of the 2019 Chicago Bears?	Pete Carroll	Lovie Smith	Dirk Koetter	Matt Nagy
+FTUX87	Football	1	Which of these words means to knock a person down in football?	Grasp	Shuffle	Drop kick	Tackle
+88SU1189	Football	1	How many yards long is a NFL football field?	200	20	50	100
+618D376	Football	1	Who had the first pick in the 2018 NFL Draft?	Denver Broncos	Chicago Bears	Baltimore Ravens	Cleveland Browns
+304315	Football	1	Which Miami Dolphin player co-starred in the film, "Ace Ventura: Pet Detective"?	Troy Aikman	Walter Payton	Michael Vick	Dan Marino
+288796	Football	1	Which football player is Green Bay's Hall of Fame quarterback?	Mike Haynes	Jack Youngblood	Franco Harris	Bart Starr
+45d4442	Football	1	Who was the head coach of the 2019 San Francisco 49ers?	Jason Taylor	Mike Shula	Robert Saleh	Kyle Shanahan
+518782	Football	1	How many yards is the penalty in the NFL for roughing the passer?	Twenty Yard Penalty	Ten Yard Penalty	Five Yard Penalty	Fifteen Yard Penalty
+0DIFSP276	Football	1	Which starting quarterback has won a Super Bowl with two different teams?	Tony Romo	Barry Bonds	Vince Vaughn	Peyton Manning
+88SU949	Football	1	Which football star is known as "LT" to Giants fans?	Larry Tomkins	Todd Lyght	Luther Thomas	Lawrence Taylor
+0DIFSP140	Football	1	Which is not a penalty?	Pass Interference	Unnecessary Roughness	Offsides	Tackling
+45EE082	Football	1	Which athlete is well known NFL quarterback?	John Madden	Rory McIlroy	Ray Lewis	Troy Aikman
+45EE115	Football	1	Which of these teams is in the National Football Conference (NFC)?	Oakland Raiders	Kansas City Chiefs	Buffalo Bills	New York Giants
+199853	Football	1	What is the name of a backwards pass in football?	Chuck	Unpass	Off-Tackle	Lateral
+18S1174	Football	1	Who was the head coach of the 2019 Baltimore Ravens?	Mike Tomlin	Jack Pardee	Pete Carmichael Jr.	John Harbaugh
+507196	Football	1	What is the penalty in the NFL for an illegal substitution?	Ten Yard Penalty	Twenty Yard Penalty	Fifteen Yard Penalty	Five Yard Penalty
+88SU769	Football	1	In 1998, Barry Sanders made the NFL Pro Bowl for which team?	Seattle Seahawks	Green Bay Packers	Philadelphia Eagles	Detroit Lions
+88SU1069	Football	1	What is the penalty in the NFL for an illegal formation?	Twenty Yard Penalty	Ten Yard Penalty	Fifteen Yard Penalty	Five Yard Penalty
+29319	Football	1	In 2014 the Bills were sold to the owner of which hockey team?	Toronto Maple Leafs	Philadelphia Flyers	New Jersey Devils	Buffalo Sabres
+618D390	Football	1	A football team's punter usually comes onto the field during which down?	Third	First	Second	Fourth
+618D356	Football	1	Who was the head coach of the 2019 Los Angeles Rams?	Ron Rivera	Brian Callahan	Pete Carmichael Jr.	Sean McVay
+618D384	Football	1	What became Jon Gruden's famous trademark?	His Voice	His Walk	His Jokes	His Scowl
+490919	Football	1	What college did Aaron Rodgers attend?	Ohio State	Northwestern	USC	University Of California
+19TP4001	Football	1	Which of these players typically does not catch passes in a football game?	Tight End	Wide Receiver	Running Back	Center
+490918	Football	1	What year did The Meadowlands Giants Stadium close?	2001	2000	1995	2010
+618D386	Football	1	Who was the head coach of the 2019 New Orleans Saints?	Anthony Hunt	Shane Steichen	Todd Wash	Sean Payton
+259331	Football	1	What team won three Super Bowls between 2010-2019?	Dallas Cowboys	Atlanta Falcons	Buffalo Bills	New England Patriots
+19SU2012	Football	1	Defensive superstar Ray Lewis played linebacker for which NFL team in 2000?	Minnesota Vikings	San Francisco 49ers	Dallas Cowboys	Baltimore Ravens
+500999	Football	1	Two brothers with what last name won the Super Bowl MVP in 2007 and 2008?	Brady	Ismail	Csonka	Manning
+8224	Football	1	How many yards is the penalty in the NFL for unsportsmanlike conduct?	20	10	Five	15
+304300	Football	1	Where did Vinny Testaverde play college football?	Florida State	Tennessee	Auburn	University Of Miami
+199822	Football	1	What team drafted Aaron Rodgers?	Pittsburg Steelers	New York Giants	Atlanta Falcons	Green Bay Packers
+199843	Football	1	In 2012, Bill Belichick was head coach for what NFL team?	The Oakland Raiders	The Pittsburgh Steelers	The Huston Texans	The New England Patriots
+96200	football	1	What is the penalty for defensive holding or illegal use of hands?	20 Yards	10 Yards	15 Yards	5 Yards
+193761	Football	1	Who was Super Bowl 1's MVP?	Roger Staubach	O.J. Simpson	Johnny Unitas	Bart Starr
+64091	Football	1	What is the penalty in the NFL for delay of game?	Loss Of Down	Ten Yard Penalty	Fifteen Yard Penalty	Five Yard Penalty
+8265	Football	1	What is the penalty in the NFL for tripping?	Fifteen Yard Penalty	Five Yard Penalty	Twenty Yard Penalty	Ten Yard Penalty
+518632	Football	1	How many yards is the penalty in the NFL for intentional face-masking?	Ten Yard Penalty	Five Yard Penalty	Twenty Yard Penalty	Fifteen Yard Penalty
+45EE016	Football	1	Which of these athletes was an NFL running back?	Tony Romo	Aaron Rodgers	Peyton Manning	Barry Sanders
+304286	Football	1	What is the penalty in the NFL for too many men on the field?	Ten Yards	Loss Of Down	Fifteen Yards	Five Yards
+263234	Football	1	Who was the head coach of the 2019 Jacksonville Jaguars?	Brian Flores	Mike Smith	Nick Sirianni	Doug Marrone
+289221	Football	1	What 1960 Pittsburgh All-American coached the Chicago Bears in Super Bowl XX?	Tom Flores	Joe Gibbs	Bill Parcells	Mike Ditka
+618D378	Football	1	Who was the head coach of the 2019 Buffalo Bills?	Kyle Shanahan	Jon Gruden	Byron Leftwich	Sean McDermott
+20672	Football	1	Which football star is known to football fans as "Mean Joe"?	Alan Page	Mel Blount	Bob Lilly	Joe Greene
+506349	Football	1	Which wide receiver did the Bills take in the first round of the 2014 draft?	Cyrus Kouandjio	Preston Brown	Ross Cockrell	Sammy Watkins
+38304	Football	1	Who said, "I'm just here so I don't get fined." about Super Bowl interviews in 2014?	Russell Wilson	Jermaine Kearse	Michael Bennett	Marshawn Lynch
+199839	Football	1	In the NFL, how many yards is a team penalized for unnecessary roughness?	Twenty	Ten	Five	Fifteen
+18S1182	Football	1	What team drafted Heisman Trophy winner Reggie Bush?	San Francisco 49ers	New York Jets	Houston Texans	New Orleans Saints
+45SU1001	Football	1	Which Cowboys receiver had 11 touchdown receptions in 2013-14?	DeMarco Murray	Terrance Williams	Dwayne Harris	Dez Bryant
+523685	Football	1	How many yards is the penalty in the NFL for clipping?	Twenty Yard Penalty	Ten Yard Penalty	Five Yard Penalty	Fifteen Yard Penalty
+618D350	Football	1	Which NFL player is a descendant of Mormon leader Brigham Young?	Bryant Young	Rick Mirer	Ty Detmer	Steve Young
+618D342	Football	1	Which rookie receiver started 8 games for the Cowboys in 2013-14?	Jason Witten	Brian Waters	Miles Austin	Terrance Williams
+618D374	Football	1	Who was the head coach of the 2019 Pittsburgh Steelers?	Keith Sims	Kellen Moore	Todd Bowles	Mike Tomlin
+70381	Football	1	Which famous coach is the Super Bowl trophy named after?	George Halas	Dan Reeves	Don Shula	Vince Lombardi
+27230	Football	1	Through the 2008 NFL season, how many Super Bowls had the Buffalo Bills won?	6	3	1	0
+1803C237	Football	1	Defensive superstar Lawrence Taylor played linebacker for which NFL team in 1981?	Buffalo Bills	Philadelphia Eagles	Dallas Cowboys	New York Giants
+2360	Football	1	What is the penalty in the NFL for an illegal motion?	Fifteen Yard Penalty	Ten Yard Penalty	Twenty Yard Penalty	Five Yard Penalty
+499608	Football	2	Who was the head coach of the 2019 Los Angeles Chargers?	Matt Rhule	Tom Brady	Arthur Smith	Anthony Lynn
+199833	Football	2	The Texans' 2014 season was their first under which head coach?	Dom Capers	Gary Kubiak	Wade Phillips	Bill O'Brien
+264984	Football	2	Which team did the Baltimore Ravens defeat in Super Bowl XXXV?	Minnesota Vikings	Philadelphia Eagles	St. Louis Rams	New York Giants
+618D366	Football	2	What team lost their last 10 games of the 2014 NFL regular season?	Cincinnati Bengals	Miami Dolphins	Washington Redskins	Tennessee Titans
+618D370	Football	2	What Hall of Fame athlete is called "Sweetness"?	Babe Ruth	Dan Bouchard	Tree Rollins	Walter Payton
+199030	Football	2	Which Super Bowl winning quarterback played an old boyfriend of Mary's in the movie "Something About Mary"?	Joe Namath	Dan Marino	Troy Aikman	Brett Favre
+15860	Football	2	Which Carolina Panthers QB took them to their first ever Super Bowl?	Chris Weinkie	Kerry Collins	Steve Beuerlein	Jake Delhomme
+11785	Football	2	What Pittsburgh Steeler was the MVP of Super Bowl XL?	Ben Roethlisberger	Aaron Smith	Nate Washington	Hines Ward
+1803C243	Football	2	What was the result of the 2018 College Football Playoff National Championship?	Alabama Wins By 23	Georgia Wins By 1	Georgia Wins By 7	Alabama  Wins By 3
+185848	Football	2	Who won the AP Defensive Rookie of the Year award for the 2011 NFL season?	Aldon Smith	Colin McCarthy	Sterling Moore	Von Miller
+263207	Football	2	Ram Mike Jones stopped what Tennessee Titan at the one-yard line to end Super Bowl XXXIV?	Isaac Byrd	Jackie Harris	Eddie George	Kevin Dyson
+201184	Football	2	Who was the first overall pick in the 1993 NFL Draft?	Curtis Martin	Russel Maryland	Zach Thomas	Drew Bledsoe
+199820	Football	2	What is the penalty in the NFL for an invalid fair catch signal?	Ten Yards	Fifteen Yards	Twenty Yards	Five Yards
+410190	Football	2	Ridley Scott directed a famous 1984 Super Bowl commercial for what computer manufacturer?	Compaq	Lexmark	Toshiba	Apple
+304284	Football	2	Who won the AP Comeback Player of the Year award for the 2011 NFL season?	Jon Kitna	Chad Pennington	Tommy Maddox	Matthew Stafford
+189S820	Football	2	What year was Aaron Rodgers drafted into the NFL?	2009	2007	2010	2005
+185852	Football	2	Who did the Dallas Cowboys beat in back-to-back Super Bowls in the 1990's?	Kansas City Chiefs	Pittsburgh Steelers	Miami Dolphins	Buffalo Bills
+33DV812	Football	2	Defensive superstar Bruce Smith played defensive end for which NFL team in 1990?	Seattle Seahawks	Denver Broncos	Minnesota Vikings	Buffalo Bills
+18S1150	Football	2	Which of these NFL coaches reached 100 wins the quickest?	Vince Lombardi	Bill Walsh	Bill Parcels	George Siefert
+88SU739	Football	2	How many yards is the penalty in the NFL for using a helmet as a weapon?	Five Yard Penalty	Twenty Yard Penalty	Ten Yard Penalty	Fifteen Yard Penalty
+264908	Football	2	What team won Super Bowl XLII in February of 2008?	New England Patriots	Indianapolis Colts	New Orleans Saints	New York Giants
+618D388	Football	2	Which Dallas Cowboy played in 8 straight Pro Bowls?	Harvey Martin	Roger Staubach	Drew Pearson	Randy White
+12K1409	Football	2	Who was the first special teams player to be the MVP in a Super Bowl?	Tim Brown	Mike Nelms	Hollywood Henderson	Desmond Howard
+303881	Football	2	Which were the first two players to ever share a Super Bowl MVP Award?	Jerry Rice And Joe Montana	Richard Dent And Mike Singletary	Lynn Swann And Terry Bradshaw	Harvey Martin And Randy White
+777T2049	Football	2	Which team won Super Bowl XXXI?	Dallas Cowboys	San Francisco 49ers	New England Patriots	Green Bay Packers
+618D348	Football	2	Which Cowboys player missed all of 2013-14 with an injury?	Tony Romo	DeMarcus Ware	Jason Hatcher	Nate Livings
+499S619	Football	2	Which jersey number did Joe Montana wear as a member of the Kansas City Chiefs?	#16	#3	#14	#19
+88SU1039	Football	2	Which NFL franchise, if sold, would see some of its proceeds go to the VFW?	Chicago Bears	Dallas Cowboys	San Francisco 49ers	Green Bay Packers
+30774	Football	2	What team did Green Bay acquire Brett Favre from?	Tampa Bay	Denver	Cincinnati	Atlanta
+213998	Football	2	The New England Patriots were taken down by which team in Super Bowl XX?	The San Diego Chargers	The Oakland Raiders	The Arizona Cardinals	The Chicago Bears
+264515	Football	2	Where is the Super Bowl played in 2020 hosted?	Hawaii	New Jersey	Dallas	Miami
+523696	Football	2	Where did the Pro Football Hall of Fame open in 1963?	New York City, New York	Miami, Florida	Cleveland, Ohio	Canton, Ohio
+199831	Football	2	Washington's 2014 season was the first under which head coach?	Mike Pettine	Jason Garrett	Lovie Smith	Jay Gruden
+259335	Football	2	What was the first wild card team to win the Super Bowl?	49ers	Giants	Dolphins	Raiders
+618D364	Football	2	What was 2019 Jacksonville Jaguars quarterback Nick Foles' jersey number?	14	2	1	7
+2384	Football	2	Who has thrown for 11 touchdown passes and no interceptions in a Super Bowl career?	Roger Staubach	Troy Aikman	Terry Bradshaw	Joe Montana
+260263	Football	2	Morten Andersen set an NFL record in what category?	Rushing Touchdowns	Interceptions	Fumble Recoveries	Points Scored
+519148	Football	2	Who defeated who in Super Bowl XIX?	49ers Beat The Jets	Dolphins Beat The Giants	Steelers Beat The Cowboys	49ers Beat The Dolphins
+618D380	Football	2	Who was named the Bills starting quarterback at the start of the 2014 season?	Kyle Orton	Bryce Brown	Frank Summers	EJ Manuel
+264185	Football	2	The New Orleans Saints mascot is named after what Cajun dish?	Jambalaya	Boudin	Boucherie	Gumbo
+260277	Football	2	Super Bowl XLII marked the fifth appearance of which Patriot in his 12-year career?	Mike Lodish	Andre Tippett	Matt Cassel	Tedy Bruschi
+304282	Football	2	In which European capital did the Bears play the Buccaneers in October 2011?	Paris	Madrid	Rome	London
+199835	Football	2	What is Bill Parcells' nickname?	Hercules	The Big Fish	Captain	The Big Tuna
+519151	Football	2	Which of these coaches lead his team all the way through the Super Bowl undefeated?	Jimmy Johnson	John Madden	Tom Landry	Don Shula
+20734	Football	2	Who was the MVP of Super Bowl XXIX between San Francisco 49ers and San Diego Chargers?	Emmitt Smith	Ottis Anderson	Desmond Howard	Steve Young
+264713	Football	2	How many Super Bowl touchdowns did Walter Payton score?	5	2	1	0
+88SU979	Football	2	Which of these athletes is known for his accomplishments in American football?	Mike Bibby	Rafael Palmeiro	Roberto Duran	Lem Barney
+618D344	Football	2	What Carolina Panthers duo was nicknamed "Salt & Pepper" in 1996?	Mills And Beuerlein	Kasay And Bates	Biakabutuka And Christian	Greene And Lathon
+304290	Football	2	George Blanda holds the NFL record for playing how many seasons?	24	22	20	26
+27178	Football	2	Which head coach led the 49ers to three Super Bowl wins?	Don Shula	Jimmy Johnson	Bill Parcells	Bill Walsh
+519675	Football	2	Which quarterback for the Baltimore Ravens led them to victory in Super Bowl XXXV?	Vinny Testaverde	Eric Zeier	Tony Banks	Trent Dilfer
+233072	Football	2	Defensive superstar Mel Blount played cornerback for which NFL team in 1975?	New York Giants	Buffalo Bills	Denver Broncos	Pittsburgh Steelers
+19SU2016	Football	2	What Hall of Famer was head coach of the Kansas City Chiefs in Super Bowls I and IV?	Weeb Ewbank	Sid Gillman	Earle "Greasy" Neale	Hank Stram
+491417	Football	2	Who got into both the Football Hall of Fame and the Baseball Hall of Fame?	O.J. Simpson	Bo Jackson	Deion Sanders	Cal Hubbard
+618D382	Football	2	What are the Jacksonville Jaguar cheerleaders called?	The Jag Ladies	The Jaguar Cheerleaders	The Jagette's	The Roar
+507179	Football	2	Who did Tim Tebow replace as starting QB for the Broncos in game 7 of the 2011 season?	Blaine Gabbert	Matt Moore	Curtis Painter	Kyle Orton
+304320	Football	2	What New York school is the off-season home to the NY Jets?	Pace University	Fordham University	Syracuse University	Hofstra University
+502594	Football	2	In 2013 Soldier Field was home to what NFL team?	The Oakland Raiders	The Tampa Bay Bucs	The Buffalo Bills	The Chicago Bears
+36027	Football	2	Which football star was the MVP with 166 rushing yards in Super Bowl XVII?	Rod Carew	Willie Stargell	Mo Vaughn	John Riggins
+357346	Football	2	In what season did the Patriots win their first Super Bowl in franchise history?	1979	1986	1997	2001
+24375	Football	2	What Dallas Cowboy player was named co-MVP of Super Bowl XII along with Randy White?	Ed Jones	Everson Walls	Charlie Waters	Harvey Martin
+199069	Football	2	Which team did the video "The Super Bowl Shuffle"?	2002 Patriots	1999 Redskins	1983 Dolphins	1985 Bears
+1803C245	Football	2	What was Oakland Raiders record for the 2019 NFL season?	9-7	6-10	2-14	7-9
+777T1990	Football	2	Defensive superstar Harvey Martin played defensive end for which NFL team in 1977?	Baltimore Ravens	Miami Dolphins	NY Giants	Dallas Cowboys
+75625	Football	2	Which player won the MVP Award in Super Bowl XLI?	Reggie Wayne	Dominic Rhodes	Marvin Harrison	Payton Manning
+253959	Football	2	Who was the MVP of Super Bowl XXXII between the Denver Broncos and the Green Bay Packers?	Steve Young	Larry Brown	Tom Brady	Terrell Davis
+506356	Football	2	Who set a Steelers record for most touch down passes in a game in 2014?	Bruce Gradkowski	Landry Jones	Antonio Brown	Ben Roethlisberger
+518783	Football	2	Which football player recorded his own song "Must Be the Money"?	Tim Brown	Sterling Sharpe	Eric Metcalf	Deion Sanders
+618D358	Football	2	2014 marked Washington's 15th year under which owner?	Shahid Khan	Mary Wilson	Bill Bidwell	Dan Snyder
+88SU949	Football	2	Former Linebacker Lawrence Taylor played for what team for his whole career?	Buffalo Bills	Minnesota Vikings	Los Angeles Chargers	New York Giants
+1D1492	Football	2	What Super Bowl team included Garner, Gannon and Rice?	Tampa Bay Bucs	Carolina Panthers	Baltimore Ravens	Oakland Raiders
+351067	Football	2	In 2011 what QB was drafted in the second round by the 49ers?	Alex Smith	Matt Ryan	Michael Vick	Colin Kaepernick
+508346	Football	2	In 2000, who was the NFL Coach of the Year?	Buck Shaw	Don Shula	Art Shell	Jim Haslett
+507195	Football	2	Which of the following is a penalty when committed in football?	Tackling A Ball Carrier	Blocking A Punt	Deflecting A Pass	Grabbing A Facemask
+1803C241	Football	2	Who did *NSYNC and Britney Spears sing with during a Super Bowl halftime show?	Creed	The Smashing Pumpkins	Linkin Park	Aerosmith
+499610	Football	2	Which team finished the 2019 regular season winning 12 games in a row?	Kansas City Chiefs	Tennessee Titans	Kansas City Chiefs	Baltimore Ravens
+259216	Football	2	Which of these Dallas Cowboys didn't score any touchdowns in Super Bowl XXVII?	Alvin Harper	Michael Irvin	Jay Novacek	Thomas Henderson
+516259	Football	2	What two NFL teams has Jim Mora coached?	Saints And Packers	Eagles And Colts	Jets And Eagles	Saints And Colts
+88SU919	Football	2	Which football star is known as a Pro Football coach?	Art Rooney	O.J. Simpson	Jerry Rice	Joe Gibbs
+199823	Football	2	How many touchdown passes did Tony Romo record for the Dallas Cowboys in 2013-14?	11	21	41	31
+618D352	Football	2	Eli Manning set an NFL record by winning 5 straight what?	Road Games	Games	Playoff Games	Road Playoff Games
+199070	Football	2	Which NFL player had the most passing yards in the 2006 Super Bowl?	Rex Grossman	Tom Brady	Drew Brees	Peyton Manning
+259357	Football	2	Who was the MVP of Super Bowl LII played in 2018?	LeGarrette Blount	Danny Amendola	Tom Brady	Nick Foles
+185838	Football	2	Who was the MVP of the Super Bowl played after the 2007 season?	Peyton Manning	Tom Brady	Jeremy Shockey	Eli Manning
+33DV813	Football	2	Defensive superstar Dana Stubblefield played defensive tackle for which NFL team in 1997?	Denver Broncos	NY Giants	Buffalo Bills	San Francisco 49ers
+88SU1009	Football	2	Which of the following NFL greats wore the number 16?	Roger Staubach	Terry Bradshaw	John Elway	Joe Montana
+289238	Football	2	What 2 Brothers coached against each other in the 2013 Super Bowl?	The Ryan Bros	The Johnson Bros	The Van Gundy Bros	The Harbaugh Bros
+304126	Football	2	How many games did the Jacksonville Jaguars win in the 2019 regular NFL season?	10	4	7	6
+382346	Football	2	What team beat the St. Louis Rams 20-17 in Super Bowl XXXVI?	Kansas City Chiefs	Tennessee Titans	Carolina Panthers	New England Patriots
+507520	Football	2	How many yards is the penalty in the NFL for a chop block?	Ten Yard Penalty	Five Yard Penalty	Twenty Yard Penalty	Fifteen Yard Penalty
+4882	Football	2	Which defensive end led the Cowboys with 7 sacks in 2013-14?	JJ Wilcox	Will Allen	Sean Lee	George Selvie
+506363	Football	2	What NFL star is known by the nickname "Ocho Cinco"?	Javorius Allen	Barry Sanders	Deion Sanders	Chad Johnson
+264457	Football	2	Ravens player Ray Lewis won Defensive Player of the Year how many times from 2000 to 2012?	3	1	4	2
+8243	Football	2	Who ended NFL quarterback Joe Theisman's pro career?	None Of The Above, He Still Plays	Howie Long	Dick "Night Train" Lane	Lawrence Taylor
+410347	Football	2	Who quarterbacked the Green Bay Packers in their first Super Bowl?	Brett Favre	John Brodie	Paul Hornung	Bart Starr
+490882	Football	2	In 2011, Aaron Rodgers become a spokesman for what insurance company?	Allstate	Geico	TSC	State Farm
+259138	Football	2	Which team won the Super Bowl for the 2000-2001 season?	Dallas	Green Bay	Broncos	Ravens
+217521	Football	2	Who completed 32 of 48 passes, for 354 yards and 3 touchdowns, in Super Bowl XXXVIII?	Steve McNair	Chad Pennington	Eli Manning	Tom Brady
+45SU1002	Football	2	What happened to Mile High Stadium on April 17, 2002?	Last  Event Played	Expanded Seating	Dome Added	Demolished
+519152	Football	2	Which team lost the Super Bowl four consecutive times?	Cincinnati Bengals	Dallas Cowboys	New York Giants	Buffalo Bills
+1803C247	Football	2	What team hired Mike Vrabel as their head coach for the 2018 NFL season?	Raiders	Lions	Cowboys	Titans
+259140	Football	2	How many interceptions did Joe Montana throw in 4 Super Bowls?	1	2	3	0
+291586	Football	2	Who was the MVP of Super Bowl II between the Green Bay Packers and the Oakland Raiders?	Chuck Howley	Jake Scott	Len Dawson	Bart Starr
+194476	Football	2	Who is the first QB ever to catch a pass in a Super Bowl?	Steve McNair	Boomer Esiason	Brett Favre	John Elway
+88SU859	Football	2	Which three NFL quarterbacks were drafted in the 1983 NFL Draft?	Kreig, Young, Esiason	Montana, O'Donnell, Favre	Blake, Brown, Hostetler	Kelly, Elway, Marino
+353S7217	Football	2	Where was Super Bowl LIII played on February 3rd 2019?	Chicago	Miami	Oakland	Atlanta
+499609	Football	2	What former NFL player starred on the TV show "Hill Street Blues"?	Chuck Foreman	O.J. Simpson	Bill Brown	Ed Marinaro
+49S9617	Football	2	Who won the AP Coach of the Year award for the 2011 NFL season?	Ray Rhodes	Wayne Fontes	Marty Schottenheimer	Jim Harbaugh
+259145	Football	2	What NFL team won the AFC South in 2019 regular season?	Tennessee Titans	Jacksonville Jaguars	Indianapolis Colts	Houston Texans
+507645	Football	2	What team is at the center of the Deflate-gate scandal?	Seahawks	Cowboys	Packers	Patriots
+618D362	Football	2	Which Bills owner died before the start of the 2014 season?	Terrence Pegula	Art Rooney	Jerry Jones	Ralph Wilson
+89862	Football	2	Who was the MVP of Super Bowl XXVI between the Washington Redskins and the Buffalo Bills?	Phil Simms	Emmitt Smith	Steve Young	Mark Rypien
+260284	Football	2	In what year did the Buccaneers win Super Bowl XXXVII?	2000	1998	1997	2002
+26e4711	Football	2	Which kicker did the Indianapolis Colts sign in 2006 who twice hit the winning kicks for the Patriots in the Super Bowl?	Mike Vanderjagt	Hunter Smith	Shane Andrus	Adam Vinatieri
+10110	Football	2	Which NFL team made it to the Super Bowl in its first season?	St. Louis Cardinals	Henderson Colonels	Memphis Grizzlies	Tennessee Titans
+265009	Football	2	How many times have the Chargers won the Super Bowl?	2	3	1	0
+285107	Football	2	What team did Kerry Collins quarterback for in Super Bowl XXXV?	New York Jets	Miami Dolphins	Baltimore Ravens	New York Giants
+7W2596	Football	2	How many timeouts are NFL teams given each half?	Two	Four	Ten	Three
+185844	Football	2	Which university won the 2015 College Football National Championship?	University Of Nebraska	Oregon	University Of Michigan	Ohio State
+20736	Football	2	Who did the New England Patriots beat to win Super Bowl XXXVIII in 2004?	Ravens	Giants	Packers	Panthers
+285007	Football	2	What team originally drafted Warrick Dunn?	Miami Dolphins	Atlanta Falcons	Dallas Cowboys	Tampa Bay Buccaneers
+293214	Football	2	Who was the first team to win five Super Bowls?	New England Patriots	New York Giants	Miami Dolphins	San Francisco 49ers
+350410	Football	2	What NFL team did Reggie White end his career with?	Philadelphia Eagles	Dallas Cowboys	Green Bay Packers	Carolina Panthers
+45SU1003	Football	2	Which Cowboys running back made his first Pro Bowl in 2013-14?	Felix Jones	Jason Beasley	Gavin Escobar	DeMarco Murray
+507604	Football	2	Which NFL quarterback threw 6 TD passes in a single playoff game in the 2011 postseason?	Cam Newton	Eli Manning	Drew Brees	Tom Brady
+11456	Football	2	Which team was considered by many to be the NFL's "Team of the 1980's"?	Miami Dolphins	Dallas Cowboys	Pittsburgh Steelers	San Francisco 49ers
+199818	Football	2	How many yards is the penalty in the NFL for intentional grounding?	20	15	5	10
+199579	Football	2	Who led Tampa Bay to its first Super Bowl title in his first season as head coach in 2002?	Romeo Crennel	Mike Sherman	Dick Vermeil	Jon Gruden
+8263	Football	2	Which Chicago Bears cornerback retired in 2006?	Dion Byrum	Alfonso Marshall	Chris Thompson	Jerry Azumah
+86169	Football	2	For what NFL seasons did the Denver Broncos win back-to-back Super Bowl titles?	1995 And 1996	1991 And 1992	1987 And 1988	1997 And 1998
+199841	Football	2	Who is the former Pittsburgh Steeler head coach who died at age 82 in 2014?	Malcolm Glazer	Ralph Wilson	William Clay Ford	Chuck Noll
+199589	Football	2	Who was named MVP of Super Bowl LIII played in 2019?	Jared Goff	Greg Zuerlein	Tom Brady	Julian Edelman
+18S1166	Football	2	Eli Manning played college football at what university?	Tennessee	Virginia	Kentucky	Ole Miss
+357167	Football	2	Which Super Bowl team included Torry Holt, Isaac Bruce and Marshall Faulk?	Baltimore Ravens	Tennessee Titans	Carolina Panthers	St. Louis Rams
+68286	Football	2	What running back nicknamed "The Bus" won a Super Bowl in 2006 in his hometown of Detroit?	Shaun Alexander	Ladanian Tomlinson	Edgerrin James	Jerome Bettis
+185813	Football	2	What is the penalty in the NFL for a player out of bounds at snap?	Twenty Yard Penalty	Fifteen Yard Penalty	Ten Yard Penalty	Five Yard Penalty
+2525	Football	2	In a new NFL rule for 2018, how many players must the Kickoff team must have on each side of the ball?	4 Players	6 Players	3 Players	5 Players
+382837	Football	2	Who was the second-string quarterback on the Super Bowl XXXIII Championship team?	Elvis Grbac	Jonathan Quinn	Damon Huard	Bubby Brister
+12K1399	Football	2	Who guaranteed that his 17 point underdog team would win in Super Bowl III?	Bart Starr	Lawrence Taylor	John Elway	Joe Namath
+264987	Football	2	Who won the MVP for Super Bowl XII?	Roger Staubach	Lynn Swann	Terry Bradshaw	Randy White And Harvey Martin
+199840	Football	2	Which football term is defined as "a lateral tossed from a quarterback to a running back"?	Lateral	Forward Progress	Special Teams	Pitch-Out
+256257	Football	2	Who was the winning coach for the Oakland Raiders in 1977's Super Bowl XI?	Al Davis	Tom Flores	Art Shell	John Madden
+151956	Football	2	In 2012, what QB did Colin Kaepernick replace?	Eli Manning	Aaron Rodgers	Peyton Manning	Alex Smith
+1803C239	Football	2	Defensive superstar Reggie White played defensive end for which NFL team in 1987?	Miami Dolphins	NY Giants	Seattle Seahawks	Philadelphia Eagles
+523686	Football	2	What is the penalty in the NFL for the second forward pass behind the line?	Fifteen Yard Penalty	Ten Yard Penalty	Twenty Yard Penalty	Five Yard Penalty
+508312	Football	2	Adrian Peterson was drafted in the 1st round by what team?	Baltimore	Buffalo	Tennessee	Minnesota
+231894	Football	2	In Super Bowl XV, Oakland became the first team to do what?	Win a title in two different decades	Force four fumbles in one quarter	Try a fake punt	Win the Super Bowl as a wild-card team
+259340	Football	2	Which wide receiver played for the Tampa Bay Buccaneers in Super Bowl XXXVII?	Jerry Rice	Jerry Porter	Troy Brown	Keyshawn Johnson
+304292	Football	2	Which linebacker led the Cowboys with 4 interceptions in 2013-14?	Jeff Heath	Nick Hayden	Drake Nevis	Sean Lee
+507178	Football	2	Who won the 2018 NFL MVP award?	Larry Fitzgerald	Alex Smith	Todd Gurley	Patrick Mahomes II
+415665	Football	2	Who was the MVP of Super Bowl XVIII between Dallas Cowboys and Buffalo Bills?	Larry Brown	Joe Montana	Jerry Rice	Emmitt Smith
+507187	Football	2	How did the Jacksonville Jaguars come to be named?	By A Bidding War	By The NFL President	By A Citywide Vote	Through A Fan Contest
+233078	Football	3	Who was the MVP of Super Bowl III?	Lynn Swann	Johnny Unitas	Reggie Robinson	Joe Namath
+410202	Football	3	Who did Emmitt Smith follow as the main running back on his college team?	John L Williams	Eric Rhett	Fred Taylor	Neal Anderson
+199138	Football	3	What Cowboy was the only Super Bowl MVP of the 20th century to play on the losing team?	Tony Dorsett	Randy White	Harvey Martin	Chuck Howley
+231024	Football	3	What NFC team won Super Bowl XXV by one point?	Washington Redskins	Green Bay Packers	Dallas Cowboys	New York Giants
+200051	Football	3	What 2019 NFL team includes running back Frank Gore?	New York Jets	New York Giants	Miami Dolphins	Buffalo Bills
+502599	Football	3	Who wore number 85 for the "Perfect Season" Dolphin team?	Tim Foley	Dick Anderson	Jim Kiick	Nick Buoniconti
+288100	Football	3	Who kicked the game winning field goal for the Baltimore Colts in Super Bowl V?	Rich Karlis	Ernest Townsend	Garo Yepremian	Jim O'Brien
+49326	Football	3	Which Buffalo Bill prevented Leon Lett from scoring a touchdown in Super Bowl XXVII?	Jim Kelly	Bruce Smith	Bryce Paup	Don Beebe
+199585	Football	3	Where was Super Bowl XLVIII played on February 2, 2014?	Miami, Florida	Jacksonville, Florida	Tempe, Arizona	East Rutherford, New Jersey
+272264	Football	3	What former NFL star invented "The Mile High Salute"?	John Elway	Joe Namath	Terry Bradshaw	Terrell Davis
+20689	Football	3	Who did the Cowboys pick in the first round of the 2018 NFL Draft?	Uchenna Nwosu	Martinas Rankin	Will Richardson	Leighton Vander Esch
+231928	Football	3	2012 was Raven's star Ray Lewis' last season, how many years did he spend with the team?	12	20	11	17
+230822	Football	3	Who sacked New York Giants quarterback Jeff Hostetler in Super Bowl XXV for a safety?	Cornelius Bennett	Jeff Wright	Carlton Bailey	Bruce Smith
+199827	Football	3	In which round was Joe Montana selected in the 1979 NFL Draft?	4th	2nd	1st	3rd
+12645	Football	3	Where did wide receiver Golden Tate play his college football?	University of Miami	Florida State University	Clemson University	University of Notre Dame
+508310	Football	3	How many passes did Peyton Manning's back-up Brock Osweiler throw in the 2013 season?	230 Passes	90 Passes	0 Passes	20 Passes
+88906	Football	3	What team appeared in the most Super Bowls in the 1970's?	Miami Dolphins	Pittsburgh Steelers	Oakland Raiders	Dallas Cowboys
+360811	Football	3	In what number Super Bowl did Dan Marino and Miami meet the 49ers?	XV	XXX	XXXIX	XIX
+327537	Football	3	Who scored the Kansas City Chiefs only touchdown of Super Bowl I?	Len Dawson	Chris Burford	Mike Garrett	Curtis McClinton
+259334	Football	3	Who was the first player to score 2 touchdowns in a Super Bowl?	Don Maynard	Franco Harris	Jim Taylor	Max McGee
+79558	Football	3	Who sang the National Anthem before the Bills and Redskins faced each other in Super Bowl XXVI?	Whitney Houston	Cher	Michael Jackson	Harry Connick, Jr.
+75936	Football	3	How many times did the Dallas Cowboys win the Super Bowl in the 70's?	3	0	1	2
+523694	Football	3	What was the original name of Lambeau Field?	Pack House	Enron Stadium	Lombardi Field	City Stadium
+217522	Football	3	Kansas City was the losing team in Super Bowl I; what was the final score of the game?	16 To 6	27 To 17	33 To 14	35 To 10
+231896	Football	3	How old was Joe Montana when he won his first Super Bowl?	30	23	28	25
+20708	Football	3	Who did the Buffalo Bills pick in the first round of the 2018 NFL Draft?	Darius Leonard	Justin Reid	Jordan Whitehead	Josh Allen
+259178	Football	3	What is the most number of TD passes Roger Staubach has had in a Super Bowl?	4	2	5	3
+28648	Football	3	Who called the play-by-play for the Super Bowl played for the 2013-14 season?	Jim Nantz	John Madden	Carl Banks	Joe Buck
+88622	Football	3	Denver's loss in the Super Bowl in Feb 2014 marked how many Super Bowl losses for the Broncos?	9 Losses	3 Losses	2 Losses	5 Losses
+289337	Football	3	Who caught the Dallas Cowboys' first touchdown pass in Super Bowl XIII?	Bob Hayes	Tony Dorsett	Drew Pearson	Tony Hill
+49319	Football	3	What Arena Football team did Kurt Warner play for prior to reaching the NFL Super Bowl?	Albany Firebirds	Anaheim Piranhas	St. Louis Stampede	Iowa Barnstormers
+352391	Football	3	Which future NFL head coach was on the Kansas City Chiefs roster but did not play in Super Bowl IV?	John Madden	Marty Schottenheimer	Marv Levy	Tom Flores
+88SU929	Football	3	In 2013 Chip Kelly debuted as head coach for what team?	Arizona Cardinals	Houston Texans	Minnesota Vikings	Philadelphia Eagles
+264528	Football	3	How many yards did Denver rush for in Super Bowl XLVIII in 2014?	135 Yrads	12 Yards	185 Yards	27 Yards
+272377	Football	3	99 total points were scored in a game between the Cowboys and which team in 2013?	Detroit Lions	Minnesota Vikings	New Orleans Saints	Denver Broncos
+327541	Football	3	Who did the Dallas Cowboys beat 24-3 to win Super Bowl VI?	Los Angeles Rams	Denver Broncos	Green Bay Packers	Miami Dolphins
+26297	Football	3	Who was the MVP for the Kansas City Chiefs of Super Bowl IV?	Buck Buchanan	Otis Taylor	Jan Stenerud	Len Dawson
+231631	Football	3	Which New York Jet wrote a book called "Just Give Me the Damn Ball"?	Curtis Martin	Laverneus Coles	Santana Moss	Keyshawn Johnson
+93778	Football	3	What LA Rams QB was known as "The Dutchman"?	Bob Waterfield	Fran Tarkenton	Ken Stabler	Norm Van Brocklin
+410670	Football	3	How large was the crowd at the first Super Bowl?	24,884	71,882	103,985	61,946
+8292	Football	3	On May 22, 2007, which city was named host to the 2011 Super Bowl?	Detroit, Michigan	Dallas, Texas	Chicago, Illinois	Arlington, Texas
+508319	Football	3	Bill Belichick earned his first head coaching job with what team in 1991?	The Tennessee Titans	The Pittsburgh Steelers	The New England Patriots	The Cleveland Browns
+70300	Football	3	When the 49ers beat the Cincinnati Bengals in Super Bowl XXIII, what was the final score?	23 To 7	16 To 13	24 To 3	20 To 16
+500893	Football	3	What was the final score of Super Bowl XVI?	San Francisco 49 Cincinnati 26	San Francisco 27 Cincinnati 10	San Francisco 33 Cincinnati 14	San Francisco 26 Cincinnati 21
+199068	Football	3	Which Nebraska football coach was the second NFL rookie coach to reach the Super Bowl?	Bo Pelini	Bob Osborne	Frank Solich	Bill Callahan
+151950	Football	3	What number uniform did the Bears retire for NFL great Gale Sayers?	4	41	66	40
+272501	Football	3	What was the cost of a 30-second ad during the 2005 Super Bowl?	$900,000	$1.4 Million	$1 Million	$2.4 Million
+201227	Football	3	Who was the starting quarterback for the Houston Texans at the beginning of the 2011 season?	Roc Carmichael	Lestar Jean	Shiloh Keo	Matt Schaub
+304289	Football	3	Former running back Eric Dickerson played for all but which one of these teams?	Los Angeles Rams	Los Angeles Raiders	Indianapolis Colts	Arizona Cardinals
+506354	Football	3	What team won 5 games in the 2018 preseason?	New York Jets	New York Giants	Carolina Panthers	Baltimore Ravens
+199569	Football	3	How many points did the Panthers score in the Super Bowl played in February 2016?	24 Points	3 Points	33 Points	10 Points
+32543	Football	3	The Redskins were the losing team in Super Bowl VII; what was the final score?	52 To 17	20 To 16	31 To 19	14 To 7
+491415	Football	3	Who did the Denver Broncos pick in the first round of the 2018 NFL Draft?	Will Hernandez	Lorenzo Carter	Kyle Lauletta	Bradley Chubb
+199017	Football	3	Which of the following is true about Tampa Bay in Super Bowl XXXVII?	Fumbled 7 Times	Had 6 Field Goals	Only Scored 1 TD	5 Interceptions, Three For TD's
+259354	Football	3	What date was Super Bowl XXXIX played?	February 13, 2002	March 6, 2004	January 6, 2006	February 6, 2005
+259300	Football	3	What was the points differential in Super Bowl XLVIII played on February 2, 2014?	2 Points	43 Points	12 Points	35 Points
+231891	Football	3	In Super Bowl XXXIX, what yard line did Philadelphia get the ball on their last drive?	Their Own 49 Yard Line	Their Own 20 Yard Line	Their Own 1 Yard Line	Their Own 4 Yard Line
+199141	Football	3	Alfonso Boone played his in first Super Bowl with what NFL team?	Indianapolis Colts	New England Patriots	Seattle Seahawks	Chicago Bears
+50S2163	Football	3	Who did Dan Marino surpass to claim the record for the most NFL career pass completions?	Johnny Unitas	Joe Namath	Joe Montana	Fran Tarkenton
+92381	Football	3	Which Super Bowl champ had home field advantage through the playoffs?	2000 Baltimore Ravens	2001 New England Patriots	2002 Tampa Bay Buccaneers	1999 St. Louis Rams
+507514	Football	3	Which defensive captain left the Giants prior to the 2014 season?	Ryan Mundy	Brandon Myers	Linval Joseph	Justin Tuck
+59750	Football	3	The Titans played in their first Super Bowl in franchise history in which year?	2004	1997	2002	2000
+16606	Football	3	How many yards did Tiki Barber rush for in Super Bowl XXXV?	123 Yards	110 Yards	201 Yards	49 Yards
+508332	Football	3	Who replaced Brad Childress as the Vikings head coach in 2010?	John Fox	Alan Page	Wade Phillips	Leslie Frazier
+49322	Football	3	What Tampa Bay Buccaneer had two interceptions for TDs and was MVP of Super Bowl XXXVII?	Derrick Brooks	Dwight Smith	John Lynch	Dexter Jackson
+516274	Football	3	In 2012 what NFL team called LP Field Stadium there home?	San Diego Chargers	Pittsburgh Steelers	Buffalo Bills	Tennessee Titans
+382433	Football	3	Martin Gramatica kicked 2 field goals and how many extra points during Super Bowl XXXVII?	12	3	4	6
+501005	Football	3	Daunte Culpepper played both college and high school football in which state?	Texas	Pennsylvania	California	Florida
+299005	Football	3	The San Diego Chargers were the losing team in Super Bowl XXIX, with what final score?	55 To 10	23 To 16	16 To 13	49 To 26
+490874	Football	3	What uniform number did Kansas City retire for NFL great Willie Lanier?	1	11	12	63
+32548	Football	3	Where was Super Bowl XV Played?	Tulane Stadium	Rice Stadium	Stanford Stadium	Louisiana Superdome
+199842	Football	3	Warren Moon played for all but which one of the following teams?	Seattle Seahawks	Minnesota Vikings	Houston Oilers	Tennessee Titans
+410412	Football	3	The Raiders Super Bowl XXXVII appearance was the Raiders first in how many years?	5	37	11	19
+20712	Football	3	What was the halftime score in Super Bowl XXI, in which the Giants beat the Broncos 39-20?	Giants 32, Broncos 6	Giants 10, Broncos 3	Broncos 20, Giants 7	Broncos 10, Giants 9
+490890	Football	3	How many games did 2015 Cleveland Browns lose?	Fifteen	Twelve	Seven	Thirteen
+502294	Football	3	What was the halftime score of the 2019 NFL WildCard game between NE and Tennessee?	Titans 14 Pats 3	Titans 11 Pats 10	Titans 14 Pats 14	Titans 14 Pats 13
+304317	Football	3	Which team finished first in the NFL AFC North for the 2014 season?	Giants	Browns	Ravens	Steelers
+500888	Football	3	Michael Strahan was inducted into the NFL Hall of Fame in what year?	2013	2012	2011	2014
+79721	Football	3	Who sang the National Anthem at the 1991 Super Bowl?	Cher	Bette Midler	Diana Ross	Whitney Houston
+502722	Football	3	In week 8 of 2013 the Broncos set a franchise record for points in a quarter, how many?	39 Points	29 Points	45 Points	31 Points
+516244	Football	3	Who was the first pick in the 2012 NFL Draft?	Doug Martin	Ben Jones	Robert Griffin III	Andrew Luck
+352388	Football	3	Joe Montana won Super Bowl MVP Awards in which three Super Bowls?	1981, 1983, 1991	1982, 1989, 1990	1982, 1990, 1991	1982, 1985, 1990
+508311	Football	3	How many touchdowns did Philip Rivers throw for in the 2013	season?	23 TDs	53 TDs	13 TDs
+259185	Football	3	Aaron Neville and Aretha Franklin sang the national anthem at the Super Bowl when?	2000	2005	1999	2006
+59951	Football	3	Who had the most selections in the 2018 NFL Draft?	Browns	Jets	Dolphins	Ravens
+287206	Football	3	In which of the following Super Bowls did a team not get a safety?	Super Bowl 20 Bears Vs. Patriots	Super Bowl 10 Cowboys Vs. Steelers	Super Bowl 21 Broncos Vs. Giants	Super Bowl 2 Packers Vs. Raiders
+20681	Football	3	Which NFL team in the regular 2011 season scored 560 points?	New York Jets	San Francisco 49ers	Pittsburgh Steelers	Green Bay Packers
+299036	Football	3	What running back ran for over 200 yards in Super Bowl XXII?	Marcus Allen	Joe Morris	John Riggins	Timmy Smith
+507185	Football	3	Which one of these quarterbacks was not drafted in 2012?	Robert Griffin III	Andrew Luck	Nick Foles	Matt Ryan
+284941	Football	3	Who was the MVP of Super Bowl XXIII?	Stanford Jennings	Joe Montana	Jim Breech	Jerry Rice
+259186	Football	3	Quarterback Doug Williams played in which Super Bowl?	IX	XXI	XXXIII	XXII
+2LFN1398	Football	3	What number uniform did Eddie Lacy wear for the 2014 NFL Packers?	12	83	44	27
+199144	Football	3	Joe Montana faced which team in his first Super Bowl?	Miami Dolphins	Denver Broncos	Kansas City Chiefs	Cincinnati Bengals
+508333	Football	3	Who had the second pick in the 2018 NFL Draft?	Detroit Lions	NE Patriots	Miami Dolphins	New York Giants
+199583	Football	3	What was the Ravens' regular season record in 2000, the year they won the Super Bowl?	9-7	13-3	10-6	12-4
+507177	Football	3	Edgerrin James was voted NFL Offensive Rookie of the Year in what year?	2001	1997	1995	1999
+199961	Football	3	Who is the first NFL quarterback to pass for over 800 yards in the 2018 NFL season?	Kirk Cousins	Philip Rivers	Drew Brees	Ryan Fitzpatrick
+259352	Football	3	In what year was Super Bowl I played?	1960	1957	1972	1967
+507186	Football	3	Which pair of the following NFL players are brothers?	Deuce and Chris McAllister	Kyle and Tom Brady	Derrick and Aaron Brooks	Peter and Michael Boulware
+199040	Football	3	How many Super Bowls did Chuck Noll win as head coach of the Pittsburgh Steelers?	One	Six	Zero	Four
+59839	Football	3	MC Hammer appeared in a 2005 Super Bowl ad for what product?	Dr Pepper	Aquafina	Juicy Fruit	Lay's Potato Chips
+391363	Football	3	What two celebrities did a Noxzema commercial that aired in a Super Bowl?	Johnny Unitas And Raquel Welch	Joe Gibbs And Paula Abdul	Joe Montana And Pam Anderson	Joe Namath And Farrah Fawcett
+1282	Football	3	How many yards did Bengal Ickey Woods rush for in Super Bowl XXIII?	109 Yards On 23 Carries	19 Yards On 12 Carries	177 Yards On 30 Carries	79 Yards On 20 Carries
+289226	Football	3	What was the first points scored of Super Bowl LIII?	New England Touchdown	Los Angeles Safety	Los Angeles Field Goal	New England Field Goal
+290221	Football	3	Jerome Bettis was honored at Super Bowl XL by teammates wearing jerseys with what number?	32	5	26	6
+2LFN1420	Football	3	Which NFL record did the Broncos set in 2013?	Points Given Up In A Season	Fumbles In A Season	Rushing Yards	Points Scored In A Season
+506361	Football	3	Which former BYU tight end coached the Super Bowl winning 2000 Baltimore Ravens?	Steve Young	Jim McMahon	Bronco Mendenhall	Brian Billick
+304296	Football	3	Which team finished the 2019 regular season losing 9 games in a row?	Dallas Cowboys	New York Jets	Miami Dolphins	Detroit Lions
+62034	Football	3	Who was the #1 draft choice in the NFL in 2000?	Ernie Davis	Tim Couch	Orlando Pace	Courtney Brown
+392061	Football	3	Of the following head coaches, which one has the most Super Bowl rings?	Don Shula	Vince Lombardi	Bill Walsh	Chuck Noll
+272261	Football	3	In 1991, Tom Coughlin became head coach for what college?	South Carolina	Syracuse	Tennessee	Boston College
+500889	Football	3	For the 2013-14 season, the Cowboys' home stadium was renamed for which company?	Sprint	Verizon	Apple	AT&T
+512004	Football	3	How many total touchdowns did The Packers score in there 2011 season?	55	65	80	70
+502449	Football	3	Which wide receiver left the Giants before the 2014 season?	Victor Cruz	Rueben Randle	Tindon Holliday	Hakeem Nicks
+410669	Football	3	The Vikings were the losing team in Super Bowl XI; what was the final score of the game?	24 To 3	23 To 16	20 To 17	32 To 14
+259215	Football	3	How many times did the Eagles win the NFL Championship prior to the first Super Bowl?	11 Times	6 Times	0 Times	3 Times
+345653	Football	3	What NFL Team won the Super Bowl in the 2002-2003 season?	Oakland Raiders	New England Patriots	Philadelphia Eagles	Tampa Bay Buccaneers
+411470	Football	3	How did the Rams score their only points in Super Bowl LIII?	Safety	Passing TD	Rushing TD	Field Goal
+410431	Football	3	1n 2014, what 8 time pro bowl DE did Green Bay acquire in free agency?	Chris Long	Kendrick Adams	Armond Armstead	Julius Peppers
+12647	Football	3	What Super Bowl hinged on a missed field goal by Buffalo Bills kicker Scott Norwood?	XXVII	XXIII	XIV	XXV
+518930	Football	3	Which head coach was the eighth in Miami Dolphins history?	Bill Parcells	Brian Billick	Dave Puloka	Tony Sparano
+2LFN1450	Football	3	What Dallas Cowboys player was a national-class hurdler at Tennessee?	Cornell Green	Mel Renfro	Roger Staubach	Richmond Flowers
+23315	Football	3	How many complete passes did Tom Brady throw in Super Bowl XXXVII?	38 Passes	26 Passes	41 Passes	32 Passes
+231025	Football	3	The Falcons followed up their 14-2 Super Bowl season in 1998 with what record in 1999?	8-8	6-10	7-9	5-11
+291719	Football	3	How did the San Francisco 49ers score 55 points in Super Bowl XXIV?	6 Touchdowns, 6 Pats, 3 Field Goals, 2 Safeties	7 Touchdowns, 7 Pats, 2 Field Goals	5 Touchdowns, 5 Pats, 6 Field Goals, 1 Safety	8 Touchdowns, 7 Pats
+272413	Football	3	Who is the first player to be named Super Bowl MVP, even though his team lost?	Johnny Unitas	Nick Buoniconti	Tony Dorsett	Chuck Howley
+80215	Football	3	In the Super Bowl season of 2000 how many consecutive games did the Ravens win to finish the regular season?	6	4	5	7
+57577	Football	3	Who did the Tennessee Titans pick in the first round of the 2018 NFL Draft?	Harrison Phillips	Orlando Brown	Jaleel Scott	Rashaan Evans
+490916	Football	3	2012 rookie quarterback star Andrew Luck played college football at which school?	Notre Dame	Ohio State	Baylor	Stanford
+23298	Football	3	What team reached the Super Bowl in the 1977, 1987 and 1997 seasons?	Dallas Cowboys	Miami Dolphins	San Francisco 49ers	Denver Broncos
+199894	Football	3	How many NFL teams lost 13 regular season games in 2018?	Zero	Four	Two	One
+415966	Football	3	Who kicked the infamous "Wide Right" field goal kick in Super Bowl XXV?	Steve Christie	Ralph Prentice	Morten Anderson	Scott Norwood
+88198	Football	3	Who scored the first Super Bowl touchdown in Tennessee Titan history?	Steve McNair	Kevin Dyson	Frank Wycheck	Eddie George
+200220	Football	3	Which team was the first to succeed on a 2 point conversion attempt in a Super Bowl?	Dallas Cowboys	Buffalo Bills	San Francisco 49ers	San Diego Chargers
+415649	Football	3	Which Super Bowl did Reliant Stadium host on February 1, 2004?	Super Bowl XXXVI	Super Bowl XXXVII	Super Bowl XXXV	Super Bowl XXXVIII
+501294	Football	3	Which team in 2012 broke the NFL record for most playoff losses (27)?	Raiders	Dolphins	Eagles	Vikings
+327338	Football	3	Which Super Bowl team included Burnett, Siragusa and Gash?	Dallas Cowboys	New England Patriots	Miami Dolphins	Baltimore Ravens
+259356	Football	3	Who led the Kansas City Chiefs in rushing in Super Bowl IV?	Wendell Hayes	Len Dawson	Robert Holmes	Mike Garrett
+199022	Football	3	The Pittsburgh Steelers lost in Super Bowl XXX, what was the final score of the game?	34 To 7	46 To 10	35 To 21	27 To 17
+199847	Football	3	Who did Tennessee beat in the 2017-18 NFL Wild Card Playoff game?	Jacksonville	Miami	Oakland	Kansas City
+506348	Football	3	In 2014, the Bills celebrated which anniversary of being in the NFL?	55th	35th	65th	45th
+259332	Football	3	How did the Oakland Raiders score their first TD in Super Bowl XVIII?	Interception Return	Run	Pass	Blocked Punt Fumble Recovery
+352392	Football	3	In a 2004 Super Bowl commercial, what animal is determined to be one of the Clydesdale hitch for Budweiser?	Dog	Pony	Goat	Burro/Donkey
+13706	Football	3	Of the 1992-93 playoff teams, which 2 made the Super Bowl?	Miami - Dallas	Miami - San Francisco	Buffalo - San Francisco	Buffalo - Dallas
+499606	Football	3	The Posse was better known as what trio of NFL teammates?	Troy Aikman, Emmitt Smith And Michael Irvin	Jeff George, Tim Brown And Napoleon Kauffman	Franco Harris, John Stallworth And Lynn Swann	Art Monk, Ricky Sanders And Gary Clark
+507515	Football	3	What team was Ralph Wilson a minority owner in before owning the Bills?	Green Bay Packers	Chicago Bears	New York Giants	Detroit Lions
+293018	Football	3	Which team won the last two AFL Championships in 1964 and '65 before the AFL champion began playing the NFL champion in the Super Bowl?	Oakland Raiders	New York Jets	Kansas City Chiefs	Buffalo Bills
+507606	Football	3	Eli Manning completed the famous "helmet catch" to which receiver in Super Bowl XLII?	Plaxico Burress	Victor Cruz	Jeremy Shockey	David Tyree
+12604	Football	3	What Cowboy scored the team's first Super Bowl touchdown?	Calvin Hill	Tony Dorsett	Drew Pearson	Duane Thomas
+24392	Football	3	Who coached the San Francisco 49ers in a blowout win in Super Bowl XXIV?	Steve Mariucci	Bill Walsh	Louis Degarrett	George Seifert
+410129	Football	3	Who did the Detroit Lions pick in the first round of the 2018 NFL Draft?	Alex Cappa	Michael Gallup	Josh Sweat	Frank Ragnow
+502609	Football	3	What 2019 NFL team includes running back Jaylen Samuels?	Oakland Raiders	Seattle Seahawks	Detroit Lions	Pittsburgh Steelers
+185816	Football	3	Which team finished first in the NFL AFC East for the 2014 season?	Dolphins	Jets	Bengals	Patriots
+502798	Football	3	What was Clay Matthews nickname?	The Killer	The Stud	The Truck	The Claymaker
+12869	Football	3	Which Cowboys receiver made his first Pro Bowl in 2013-14?	Terrance Williams	Miles Austin	Lance Lewis	Dez Bryant
+315796	Football	3	How many sacks did Reggie White have in Super Bowl XXXI?	0	5	1	3
+199563	Football	3	Which team did the 49ers beat in Super Bowl XVI to win their first Lombardi Trophy?	San Diego Chargers	Miami Dolphins	Buffalo Bills	Cincinnati Bengals
+13998	Football	3	On "Seinfeld", when Jerry and Newman end up at the Super Bowl, what city was it in?	Atlanta	Los Angeles	New Orleans	Miami
+503077	Football	3	Who is the first kicker to win the NFL's regular-season MVP award?	Morten Anderson	Gary Anderson	Adam Vinatieri	Mark Moseley
+264997	Football	3	Which Super Bowl featured two teams that both won on the road in their respective Conference Championship Games?	XIX - San Francisco Vs. Miami	XXVIII - Dallas Vs. Buffalo	XXIII - San Francisco Vs. Cincinnati	XXII - Denver Vs. Green Bay
+382445	Football	3	Which college did the first three Super Bowl MVPs play for?	Notre Dame	Tennessee	Michigan	Alabama
+199128	Football	3	Who did the Buccaneers beat 48-21 in Super Bowl XXXVII?	Patriots	Rams	Eagles	Raiders
+50S2162	Football	3	Peyton Manning joined the Broncos for the 2012 season, how many seasons did he play for the Colts?	11	8	None	14
+64837	Football	3	Who caught a touchdown passes for Philadelphia in Super Bowl LII?	Torrey Smith	Trey Burton	Nelson Agholor	Zach Ertz
+410201	Football	3	What year was Mike Shanahan first season at Denver's head coach?	1990	1999	1988	1995
+2336	Football	3	How many Super Bowl rings did Steve Young receive with the San Francisco 49ers?	1	2	4	3
+25076	Football	3	Which of these defensive players was not a Super Bowl MVP?	Richard Dent	Chuck Howley	Randy White	Jack Lambert
+389988	Football	3	Through 2004, how many times had the Washington Redskins won the Super Bowl?	Two	Zero	Four	Three
+49S9615	Football	3	Which of the following NFL pairs are brothers?	Jerry And Simeon Rice	Brad And Rob Johnson	Kerry And Todd Collins	Lee Roy And Dewy Selmon
+41LK888	Football	3	In 2003, 2004, 2008 and 2009 who won the AP most valuable player award?	Tom Brady	Ray Lewis	Aaron Rodgers	Peyton Manning
+289376	Football	3	What Titans player scored both of the team's only touchdowns in Super Bowl XXXIV against the Rams?	Kevin Dyson	Isaac Byrd	Jackie Harris	Eddie George
+503076	Football	3	Against which team did Walter Payton break Jim Brown's NFL career rushing record?	Cleveland Browns	Seattle Seahawks	Minnesota Vikings	New Orleans Saints
+191487	Football	3	Which Baltimore Ravens player won the 2011 Walter Payton Man of the Year award?	Tom Zbikowski	Vonta Leach	Jameel McClain	Matt Birk
+491549	Football	3	Who was the Defensive MVP of the 2018 National College Football Championship game?	Tony Brown	Joshua Frazier	Johnny Dwight	Da'Ron Payne
+491421	Football	3	Which team had the most passing yards in the NFL's 2012 regular season?	San Francisco 49ers	Dallas Cowboys	Baltimore Ravens	New Orleans Saints
+199063	Football	3	Which of the following players was never a Super Bowl MVP?	Malcolm Smith	Jim Plunkett	Von Miller	Walter Payton
+352381	Football	3	Who did the Washington Redskins pick in the first round of the 2018 NFL Draft?	Mike Gesicki	Geron Christian	Durham Smythe	Daron Payne
+291577	Football	3	Which Super Bowl XLI MVP was Grand Marshal of the 2007 IPL 500 Festival Parade?	Adam Vinatieri	Rex Grossman	Muhsin Muhammad	Peyton Manning
+288430	Football	3	Who was the heaviest member of the Steelers' Super Bowl XL team?	Max Starks	Marvel Smith	Kendall Simmons	Chris Kemoeatu
+499612	Football	3	Who did the Oakland Raiders pick in the first round of the 2018 NFL Draft?	Dante Pettis	Mason Rudolph	Avonte Maddox	Kolton Miller
+24271	Football	3	The Patriots set a record in Super Bowl LII with most total team yards, how many did they have?	699 Yards	513 Yards	313 Yards	613 Yards
+502610	Football	3	Who was the Bronco's interim head coach in 2013 during John Fox's absence?	Pat Bowlen	Tyke Tolbert	Alex Gibbs	Jack Del Rio
+61429	Football	3	What was the play in which Randle El tossed a touchdown to Hines Ward in Super Bowl XL?	84 Eagle Reverse Y-Option	Wide Reverse X-Pass 32	Y-Reverse 83 Toss	Fake-39 Toss X-Reverse Pass
+73418	Football	3	Who did the New York Jets defeat 16-7 in Super Bowl III?	Philadelphia Eagles	Green Bay Packers	Minnesota Vikings	Baltimore Colts
+501305	Football	3	What uniform number did New England retire for NFL great John Hannah?	12	11	55	73
+259391	Football	3	Andrew Luck broke the NFL's single game record for a rookie with how many yards passing?	333	375	403	433
+199301	Football	3	In the NFL what happens when the 30-second rule is violated more than twice for the same down?	Loss Of Ball	Loss Of Five Yards	Loss Of Down	Loss Of Fifteen Yards
+507193	Football	3	Which of these NFL stars were on "Dancing with the Stars" season 22?	Todd Gurley	Cam Newton	A. J. Green	Antonio Brown
+20674	Football	3	Before Super Bowl XLI, how long had it been since the last Super Bowl for the Colts?	40 Years	34 Years	42 Years	36 Years
+64768	Football	3	Who caught two touchdown passes for New England in Super Bowl LII?	Rex Burkhead	James White	Danny Amendola	Rob Gronkowski
+89859	Football	3	How many people in the USA watched Super Bowl XXXI?	12 Million	228 Million	98 Million	128 Million
+11460	Football	3	Who did the Cowboys beat, and by what score, in their first Super Bowl win?	Miami 24-7	Pittsburgh 24-3	Kansas City 21-3	Miami 24-3
+199565	Football	3	In Pat Bowlen's first 25 years as Denver Broncos owner, how many times did they play in the Super Bowl?	Eight	Ten	Two	Five
+293051	Football	3	Which was the first domed stadium to host a Super Bowl?	Metrodome	Astrodome	Silverdome	Superdome
+199830	Football	3	Who led the Cowboys with 107 tackles in 2013-14?	DeVonte Holloman	Morris Claiborne	Nick Hayden	Barry Church
+23725	Football	3	How many yards did Chuck Foreman rush for in Super Bowl XI?	Two Yards	25 Yards	11 Yards	22 Yards
+231929	Football	3	Which Bronco appeared in the 2007 TV show "Gillette Young Guns: Fast Cars & Superstars"?	Brandon Flowers	Jason Elam	Damien Nash	John Elway
+8255	Football	3	What is the Melberger Award given for in college football?	I-AA Coach Of The Year	Best Division II Player	Nation's Outstanding Special Teams Player	Outstanding Division III Player
+490917	Football	3	Which NFL team had more losses in the 2014 regular season?	Carolina Panthers	Cleveland Browns	Philadelphia Eagles	Chicago Bears
+65416	Football	3	Which team scored the most points in the 2019 WildCard games?	Buffalo Bills	Seattle Seahawks	Houston Texans	Minnesota Vikings
+272384	Football	3	The film "Silver Linings Playbook" highlights which Philadelphia Eagles season?	2006 Eagles Season	2010 Eagles Season	2012 Eagles Season	2008 Eagles Season
+199074	Football	3	What eventual Super Bowl team did the Miami Dolphins upset in 2004?	Falcons	Eagles	Seahawks	Patriots
+59840	Football	3	What team did the Atlanta Falcon's beat in 1998 to advance to the Super Bowl?	Green Bay	Detroit	Tampa Bay	Minnesota
+293279	Football	3	How many of the Steelers' eight picks from the '02 draft were on the Super Bowl XL roster?	Two	Four	One	Seven
+151944	Football	3	Who was the starting quarterback for the Seattle Seahawks at the beginning of the 2011 season?	Paul McQuistan	Brandon Mebane	Breno Giacomini	Tarvaris Jackson
+289375	Football	3	Which team is the first AFC team to win 4 Super Bowls?	Colts	Dolphins	Browns	Steelers
+199054	Football	3	Who intercepted three passes in Super Bowl VII which lead to him being named MVP?	J.B. Brown	Justin Kelly	Kyle Brady	Jake Scott
+499607	Football	3	Which NFL team had the fewest selections in the 2018 NFL Draft?	Raiders	Packers	Patriots	Titans
+391711	Football	3	What two teams competed in Super Bowl XXXI played in New Orleans?	Cowboys And Broncos	49ers And Broncos	Cowboys And Bills	Packers And Patriots
+33DV811	Football	3	Who was the defensive player that won Super Bowl MVP in Super Bowl XXX?	Lawrence Taylor	Richard Dent	Bruce Smith	Larry Brown
+88627	Football	3	What team defeated the reigning Super Bowl champion Giants to start the 2008 pre-season?	Indianapolis Colts	Miami Dolphins	New England Patriots	Detroit Lions
+51585	Football	3	Which of these teams did not win a Super Bowl in the 70's?	Miami	Oakland	Kansas City	San Francisco
+507197	Football	3	Against what team in 2013 did Russell Wilson rush for over 100 yards?	Falcons	Giants	Rams	Colts
+272414	Football	3	Which NFL owner gave Vladimir Putin a Super Bowl championship ring?	Paul Allen	Preston Tisch	Wayne Huizenga	Robert Kraft
+2497	Football	3	Vernon Davis played on what Super Bowl team in Super Bowl 50?	Carolina Panthers	Arizona Cardinals	New York Giants	Denver Broncos
+199042	Football	3	What was the result of Super Bowl LII played in 2018?	Eagles Win By 2	Patriots Win By 10	Patriots Win By 1	Eagles Win By 8
+354453	Football	3	How many rushing TDs did Washington have in their 35 point 2nd quarter in Super Bowl 22?	Zero	Two	Three	One
+272381	Football	3	What school did Saquon Barkley play for prior to be drafted in the NFL?	Pittsburgh	Florida State	Ole Miss	Penn State
+264994	Football	3	What was the halftime score of the Super Bowl played in 2014?	Seattle 32 Denver 3	Seattle 3 Denver 3	Denver 12 Seattle 2	Seattle 22 Denver 0
+76704	Football	3	Who did the Dallas Cowboys play in their very first Super Bowl?	Houston	Washington	Green Bay	Baltimore
+514522	Football	3	Who was named the Pro Bowl MVP in 2013?	Aaron Rodgers	Victor Cruz	Vincent Jackson	Kyle Rudolph
+20694	Football	3	What Ram caught a TD to make Super Bowl XXXVI 17-17, before Vinatieri's field goal?	Az-Zahir Hakim	Torry Holt	Marshall Faulk	Ricky Proehl
+523698	Football	3	Which quarterback's record of highest rating by a rookie was broken in 2012 by Robert Griffin III?	Dan Marino	Peyton Manning	Tom Brady	Ben Roethlisberger
+514669	Football	3	The LA Rams played a 2019 preseason game at Aloha Stadium in Hawaii, against who?	Chicago Bears	Pittsburgh Steelers	San Francisco 49ers	Dallas Cowboys
+523695	Football	3	Who did the NY Jets draft in the first round of the 2018 NFL Draft?	John Franklin-Myers	Marquis Haynes	Dalton Schultz	Sam Darnold
+491407	Football	3	Who did the New Orleans Saints pick in the first round of the 2018 NFL Draft?	Kerryon Johnson	Derrick Nnadi	Armani Watts	Marcus Davenport
+327538	Football	3	How many points did the Patriots win the Super Bowl by in 2004?	Six	One	Two	Three
+87640	Football	3	Brett Favre was given what jersey number by the New York Jets?	#22	#8	#51	#4
+293017	Football	3	How old was Tom Brady when he played in Super Bowl LII on February 4, 2018?	49 Years 145 Days	39 Years 145 Days	43 Years 15 Days	40 Years 185 Days
+199868	Football	3	Which rookie became the Bills new starting quarterback in 2013?	Ryan Fitzpatrick	Robert Woods	Kiko Alonso	EJ Manuel
+271188	Football	3	Just prior to becoming head coach of the Panthers in 2011 what team did Ron Rivera coach for?	Dallas Cowboys	New York Jets	Miami Dolphins	San Diego Chargers
+410672	Football	3	Of the Super Bowl champion Baltimore Ravens, how many were on the 2002-03 roster?	18	24	12	6
+523688	Football	3	In 2012 Lincoln Financial Field was home to what NFL team?	The Patriots	The Seahawks	The Broncos	The Eagles
+508345	Football	3	Who won the AP Defensive Player of the Year award for the 2011 NFL season?	Ronde Barber	Mathias Kiwanuka	Brian Orakpo	Terrell Suggs
+32547	Football	3	Which of the following Super Bowls was played in Detroit's Silverdome?	Super Bowl 32	Super Bowl 24	Super Bowl 8	Super Bowl 16
+304308	Football	3	Which Cowboys defensive lineman made the Pro Bowl for the 2013-14 season?	Nick Hayden	George Selvie	Justin Durant	Jason Hatcher
+20700	Football	3	Who was the MVP of Super Bowl 11 between Oakland Raiders and Minnesota Vikings?	Jake Scott	Randy White & Harvey Martin	Roger Staubach	Fred Biletnikoff
+2276	Football	3	How many Super Bowls did Tom Landry coach in?	0	7	4	5
+259341	Football	3	Which team did Baltimore beat in the AFC Championship to advance to Super Bowl XXXV?	Tennessee Titans	Miami Dolphins	New York Jets	Oakland Raiders
+199832	Football	3	Which of the following NFL pass catchers never attended USC?	Mike Williams	Lynn Swann	Keyshawn Johnson	Art Monk
+491418	Football	3	Who knocked Pittsburgh out of the 2017-18 NFL Playoffs?	Tennessee	New England	Oakland	Jacksonville
+291774	Football	3	What 2019 NFL team does Nick Novak kick for?	New York Jets	New York Giants	Carolina Panthers	Los Angeles Chargers
+199013	Football	3	Prior to the Eagles' 2005 Super Bowl appearance, when did they last appear?	2000	1966	1958	1981
+491422	Football	3	What number does quarterback Josh Allen wear for the 2019 Buffalo Bills?	#27	#11	#8	#17
+362105	Football	3	What team's coach won the AP Coach of the Year award for the 2017 NFL season?	Los Angeles Chargers	Carolina Panthers	Philadelphia Eagles	Los Angeles Rams
+507170	Football	3	Michael Irvin has more TD catches against this club than any other?	Cardinals	Giants	Eagles	Redskins
+352482	Football	3	Who was the starting running back for the Washington Redskins in Super Bowl XXVI?	John Riggins	Timmy Smith	Gerald Riggs	Ernest Byner
+20670	Football	3	Who was the Carolina Panthers head coach at the start of the 2010 NFL season?	Paul Fox	Mike Munchak	Jim Tomsula	John Fox
+97917	Football	3	How many receptions did Deion Branch have in Super Bowl XXXIX?	22 Receptions	8 Receptions	5 Receptions	11 Receptions
+516346	Football	3	What overall pick was Clay Matthews in the NFL draft?	2nd	5th	10th	26th
+292998	Football	3	How many touchdown passes did Jim Kelly throw in Super Bowl XXV against the New York Giants?	2	3	1	None
+500998	Football	3	The Giants signed Victor Cruz as an undrafted rookie in what year?	2011	2008	2009	2010
+12656	Football	3	What was the very first Super Bowl that Dallas won?	F	VII	V	VI
+502448	Football	3	Where was the 2018 College Football Playoff National Championship played?	San Diego	Dallas	Toronto	Atlanta
+199060	Football	3	Larry Brown became the second defensive back to win the Super Bowl MVP Award, who was the first?	Herb Adderley	Mel Blount	Ronnie Lott	Jake Scott
+507470	Football	3	What was Head Coach Josh McDaniel's record for the Denver Broncos?	51-17	2-17	45-17	11-17
+194903	Football	3	Who was the MVP of Super Bowl XXIV between San Francisco 49ers and Denver Broncos?	Jerry Rice	Richard Dent	Doug Williams	Joe Montana
+69477	Football	3	Who was announcer Al Michaels' partner for Super Bowl XXXIV on ABC?	Dick Enberg	John Madden	Phil Simms	Boomer Esiason
+289017	Football	3	Which player scored the first points in Super Bowl history?	Elijah Pitts	Mike Garrett	Don Chandler	Max McGee
+199050	Football	3	What quarterback was the first to take the Cowboys to the Super Bowl?	Don Meredith	Danny White	Roger Staubach	Craig Morton
+327079	Football	3	Who is the first NFL team to win two consecutive Super Bowls twice?	Dallas Cowboys	Minnesota Vikings	San Francisco 49ers	Pittsburgh Steelers
+410212	Football	3	Which Ram standout once played in a Super Bowl with a broken leg?	Dieter Brock	Kyle Turley	Isaac Bruce	Jack Youngblood
+352387	Football	3	What year did ZZ Top appear at the Super Bowl halftime show?	1995	1975	1999	1997
+199886	Football	3	What school did NFL QB Michael Vick attend?	Virginia	Florida State	Ohio State	Virginia Tech
+514697	Football	3	The New England Patriots lost their 2008 first-round pick as the result of what scandal?	Chris Henry Controversy	Boston Butt	Superwrong	Spygate
+259133	Football	3	Which team defeated the Bills in Super Bowl XXVI?	Los Angeles Rams	Atlanta Falcons	New York Jets	Washington Redskins
+352422	Football	3	In 2012, David Akers tied the NFL record for the longest field goal, how long was it?	53 Yards	69 Yards	58 Yards	63 Yards
+87629	Football	3	What team did Denver play at the final football game at Mile High Stadium?	Jets	Raiders	Chiefs	49ers
+259139	Football	3	What was the score at halftime of Super Bowl XXXIV between the Rams and Titans?	Rams - 16, Titans - 0	Rams - 9, Titans - 6	Rams - 16, Titans - 6	Rams - 9, Titans - 0
+501489	Football	3	Which team lost more games in the 2019 NFL season?	Atlanta Falcons	Indianapolis Colts	New York Jets	Carolina Panthers
+491547	Football	3	How many touchdowns did Seattle's Russell Wilson throw in the 2013 regular season?	46	19	34	26
+519680	Football	3	Who lost the first Super Bowl?	Atlanta	New Orleans	Phoenix	Kansas City
+289229	Football	3	What Buffalo Bills head coach led them to their first four Super Bowl appearances?	Chuck Knox	Wade Phillips	Lou Saban	Marv Levy
+119942	Football	3	Which team in 2011's 16 games rushed for a total of 1558 yards and had 12 rushing touchdowns?	Oakland Raiders	New York Jets	Miami Dolphins	Green Bay Packers
+199882	Football	3	Who are the first two NFL players to win back to back MVP's?	Walter Payton And Joe Namath	Steve Young And Jim Brown	Brett Favre And Dan Marino	Joe Montana And Brett Favre
+87772	Football	3	Who signed a 2008 contract with the Raiders following a Super Bowl win with the Giants?	Michael Huff	Greg Wesley	DaJuan Morgan	Gibril Wilson
+272376	Football	3	What character did coach Jim Harbaugh play in the popular TV show "Saved by the Bell"?	Screech's Brother	Screech's Father	Screech's Coach	Screech's Cousin
+120296	Football	3	Who won the AP Offensive Player of the Year award for the 2011 NFL season?	Darren McFadden	Arian Foster	Rashard Mendenhall	Drew Brees
+199814	Football	3	What is the Bronko Nagurski Award given for in college football?	Nation's Best Wide Receiver	Nation's Best Defensive Back	Nation's Best Quarterback	Nation's Best Defensive Player
+2LFN1408	Football	3	In the same year as "Spygate" what award did head coach of the Patriots Bill Belichick receive?	The Raspberry Award	The NFL Cheaters Award	The NFL Sneak Of The Year Award	NFL Coach of the Year Award
+502724	Football	3	Who was the first player to rush for 1,000 yards in pro football?	Frank Sinkwich	Bronko Nagurski	Charlie Trippi	Beattie Feathers
+502721	Football	3	On 2012 wild card weekend RG3 tore both his ACL and his LCL in a lose against who?	The Green Bay Packers	The New York Giants	The Chicago Bears	The Seattle Seahawks
+264467	Football	3	What uniform number did Kansas City retire for NFL great Jan Stenerud?	2	5	90	3
+502766	Football	3	What uniform number did Cincinnati retire for NFL great Bob Johnson?	12	99	45	54
+94184	Football	3	How many passes did Bob Griese attempt in Super Bowl VIII?	30	10	42	7
+2LFN1428	Football	3	What '09 Super Bowl player declined an invitation to the White House?	Ben Roethlisberger	Santonio Holmes	Heath Miller	James Harrison
+357392	Football	3	Who did Atlanta beat in the 2017-18 NFL Wild Card Playoff game?	Dallas	New Orleans	Carolina	LA Rams
+254230	Football	3	Which team lost more games in the 2019 NFL season?	Los Angeles Rams	Cleveland Browns	Chicago Bears	Cincinnati Bengals
+491420	Football	3	Who did Bill Parcells hire for head coach in his first year in Miami?	Tom Coughlin	Ray Perkins	Sean Payton	Tony Sparano
+289015	Football	3	What was his team's record in Super Bowl games started by Terry Bradshaw?	3-0	2-2	0-1	4-0
+523682	Football	3	Rich Gannon began his NFL career in what year?	1997	1977	2007	1987
+500892	Football	3	What school did TE Kellen Winslow play football for?	California	Vanderbilt	Southern California	Missouri
+259336	Football	3	In the '72 Super Bowl, who sacked Miami's Bob Griese for a 29 yard loss?	Chuck Howley	Big Bob Breunig	Lee Roy Jordan	Bob Lilly
+20678	Football	3	Which NFL receiver had a glass eye?	John Mackey	John Stallworth	Lance Rentzel	Fred Arbanas
+501530	Football	3	Art Shell was elected to what state's Football Hall of Fame?	Mississippi	Florida	Louisiana	South Carolina
+264866	Football	3	Which NFL Division tallied the most Super Bowl wins through 2008?	NFC West	AFC Central	AFC East	NFC East
+289341	Football	3	Which former football star promoted Levitra during the 2004 Super Bowl?	Joe Montana	Mean Joe Greene	Joe Namath	Mike Ditka
+24762	Football	3	Which NFL coach went to Kansas City after his Super Bowl XXXIV win and a one-year hiatus?	Jack Del Rio	Herman Edwards	Marvin Lewis	Dick Vermeil
+523684	Football	3	Who was the coach of the 2012 New York Giants?	Tommy Tubbervile	Tom Brady	Dan Reeves	Tom Coughlin
+523697	Football	3	Who did the New England Patriots pick in the first round of the 2018 NFL Draft?	Mason Cole	Justin Jones	J'Mon Moore	Isaiah Wynn
+231895	Football	3	How many interceptions did the MVP of Super Bowl XIV Terry Bradshaw have against the Rams?	0	1	2	3
+263209	Football	3	Where was Miami's winning Super Bowl VIII played?	Miami, FL	Los Angeles, CA	Tampa Bay, FL	Houston, TX
+410215	Football	3	Who set a rushing record for most yards against the Miami Dolphins in a Super Bowl?	O.J. Simpson	Roger Craig	Ricky Williams	John Riggins
+502193	Football	3	Which team was the best in the NFL in rushing during the 2012 regular season?	Patriots	49ers	Lions	Redskins
+82716	Football	3	Who was the MVP of Super Bowl 14 between Pittsburgh Steelers and L.A. Rams?	John Riggins	Joe Montana	Fred Biletnikoff	Terry Bradshaw
+253967	Football	3	Shania Twain performed at which of these Super Bowl halftime shows?	XVIII	XVI	XXX	XXXVII
+416280	Football	3	Who was the head coach for the Oakland Raiders in Super Bowl XV versus the Eagles?	Ryan Magusilak	Al Davis	Art Shell	Tom Flores
+69459	Football	3	Who was The MVP of Super Bowl 10 between Pittsburgh and Dallas?	Terry Bradshaw	Franco Harris	Roger Staubach	Lynn Swann
+62970	Football	3	Which team played in a Super Bowl first?	Washington Redskins	Dallas Cowboys	Miami Dolphins	Minnesota Vikings
+519130	Football	3	Who replaced Marty Schottenheimer as head coach of the Kansas City Chiefs in 1999?	Dick Vermeil	Andy Reid	Herman Edwards	Gunther Cunningham
+259184	Football	3	The Giants beat the Bills in Super Bowl XXV but lost to them earlier by what score?	24-20	35-17	20-3	17-13
+259343	Football	3	What was the first team to win three consecutive road games to make it to the Super Bowl?	'64 New York Jets	'84 Cleveland Browns	'96 San Diego Chargers	'85 New England Patriots
+519676	Football	3	Who was the first defensive player to win a Super Bowl MVP Award?	Richard Dent	Harvey Martin	Larry Brown	Chuck Howley
+507191	Football	3	Who was the starting quarterback for the Redskins at the beginning of the 2011 season?	Oshiomogho Atogwe	Jabar Gaffney	Tyler Polumbus	Rex Grossman
+199037	Football	3	Who did the Denver Broncos beat in Super Bowl XXXIII by the score of 34-19?	Green Bay Packers	Minnesota Vikings	San Francisco 49ers	Atlanta Falcons
+87785	Football	3	Who was the first running back to amass 500 receptions?	Walter Payton	Thurman Thomas	Frank Gifford	Roger Craig
+216431	Football	3	Which team defeated the Bills in Super Bowl XXV?	Atlanta Falcons	Detroit Lions	New Orleans Saints	New York Giants
+199515	Football	3	Which NFL coach led the Panthers to a Super Bowl 2 years after they had won 1 game?	Dick Vermeil	Brian Billick	Mike Mularkey	John Fox
+291776	Football	3	Who did the Chicago Bears pick in the first round of the 2018 NFL Draft?	Braden Smith	B. J. Hill	Anthony Averett	Roquan Smith
+357667	Football	3	The Chicago Bears beat the New England Patriots in Super Bowl XX by what score?	39 To 20	49 To 26	31 To 19	46 To 10
+502596	Football	3	What was the 2014 NFL season salary cap per team?	$33 Million	$223 Million	$188 Million	$133 Million
+507194	Football	3	What year was Clay Matthews drafted into the NFL?	2008	2006	2010	2009
+507475	Football	3	Who became the Giants' new offensive coordinator during the 2014 offseason?	Nathaniel Hackett	Bill Lazor	Hue Jackson	Ben McAdoo
+88SU909	Football	3	Which college football coach was the fastest to have over 300 wins?	Knute Rockne	Steve Spurrier	Bear Bryant	Joe Paterno
+264518	Football	3	How many Super Bowl rings does Charles Haley have?	0	6	7	5
+199053	Football	3	How many Super Bowls did the Pittsburgh Steelers play in between 1990 and 1999?	Two	Three	None	One
+500894	Football	3	Which wide receiver rejoined the Giants for the 2014 season?	David Tyree	Hakeem Nicks	Jeremy Shockey	Mario Manningham
+523680	Football	3	Which Pittsburgh Steeler had his number retired prior to 2005?	Mean Joe Greene	Terry Bradshaw	Lynn Swann	Ernie Stautner
+523693	Football	3	Which year did the AFL and NFL officially merge?	Never	1962	1967	1970
+84591	Football	3	In what year did Simeon Rice win his first Super Bowl ring?	1996	1999	2005	2002
+18020	Football	3	How many times did the Los Angeles/Oakland Raiders win the Super Bowl in the 20th century?	7 Times	9 Times	5 Times	3 Times
+502560	Football	3	Which was John Elway's last home game of his career?	January 1999 Wildcard	Last Game Regular Season 2000	Super Bowl XXXIII	January 1999 AFC Championship
+291584	Football	3	How many interceptions did Cam Newton throw in Super Bowl 50 played in 2016?	5	4	0	1
+2499	Football	3	Where was Super Bowl I played?	Giant Stadium	Qualcomm Stadium, San Diego	Louisiana Superdome, New Orleans	Los Angeles Memorial Coliseum
+288415	Football	3	Which of these 49ers defensive players was not a Pro-Bowler in the 1994 Super Bowl season?	Deion Sanders	Merton Hanks	Dana Stubblefield	Bryant Young
+357397	Football	3	What college did NFL QB Jay Cutler attend?	Tennessee	Idaho	Bowling Green	Vanderbilt
+20733	Football	3	Which teammates both rushed for 1000 yards in the same season?	Marcus Allen, Bo Jackson	Priest Holmes, Larry Johnson	Dalton Hilliard, Rueben Mayes	Kevin Mack, Ernest Byner
+26860	Football	3	Which Denver Bronco won the Super Bowl MVP Award in 1998?	Marcus Nash	Bubby Brister	Terrell Davis	John Elway
+361615	Football	3	Who did the Green Bay Packers pick in the first round of the 2018 NFL Draft?	Christian Kirk	Rasheem Green	Kentavius Street	Jaire Alexander
+519681	Football	3	Who was the first person to win 5 Super Bowl rings as a player?	Jim Kelly	Roger Staubach	Joe Montana	Charles Haley
+292889	Football	3	Which of these NFL teams did not score a touchdown while playing in Super Bowl VI?	Minnesota Vikings	New England Patriots	Philadelphia Eagles	Miami Dolphins
+287462	Football	3	Which of these NFL quarterbacks has won four Super Bowls?	John Elway	Troy Aikman	Joe Namath	Terry Bradshaw
+508331	Football	3	Who was the San Francisco 49ers head coach at the start of the 2010 NFL season?	Jim Harbaugh	Eric Studesville	Tom Cable	Mike Singletary
+502161	Football	3	In 2002, Tom Coughlin was fired as head coach of what NFL team?	The Oakland Raiders	The Pittsburgh Steelers	The Denver Broncos	The Jacksonville Jaguars
+392478	Football	3	What NFL coach was an injured member of the 1985 Bears, winners of Super Bowl XX?	Bruce Coslet	Bill Cowher	Mike Shanahan	Jeff Fisher
+217524	Football	3	What Super Bowl fact links Chuck Howley, Harvey Martin, Randy White and Larry Brown?	They All Won Super Bowl MVP Awards	They All Played Defense In A Super Bowl	They All Played For The Cowboys In A Super Bowl	All Of These Choices
+532627	Football	3	What team hired Kliff Kingsbury as their head coach in 2019?	Buffalo Bills	Philadelphia Eagles	Carolina Panthers	Arizona Cardinals
+347551	Football	3	Who was the NFL's first wild card team to win a Super Bowl and who did they beat?	Forty Niners Beat Bengals	NY Jets Beat NY Giants	Raiders Beat Vikings	Raiders Beat Eagles
+59842	Football	3	Who sang the National Anthem in Pro Player Stadium for Super Bowl XXXIII?	Don Johnson	LL Cool J	Lenny Kravitz	Cher
+272375	Football	3	How many NFL teams did Peyton Manning play for in his career?	Six	Four	One	Two
+42773	Football	3	What team won four Super Bowls in six years during the 70's and 80's?	San Francisco 49ers	Dallas Cowboys	Oakland Raiders	Pittsburgh Steelers
+507522	Football	3	Who signed a two-year, $12 million deal with the Denver Broncos on March 13, 2013?	Peyton Manning	Quentin Jammer	Winston Justice	Wes Welker
+12526	Football	3	How did the Giants score their lone touchdown of Super Bowl XXXV?	A Short Run	An Interception Return	A Hail Mary	A Kickoff Return
+293223	Football	3	What football player first set a record for going to the most Super Bowls in a row?	Bart Starr	Troy Aikman	Jim Kelly	Gale Gilbert
+27231	Football	3	Eli Manning won his first Super Bowl MVP for leading the Giants to victory over what team?	Miami Dolphins	Oakland Raiders	Denver Broncos	New England Patriots
+458139	Football	3	How many yards did Peyton Manning throw for in Super Bowl XLVIII in 2014?	401 Yards	123 Yards	200 Yards	280 Yards
+515455	Football	3	Who did the Indianapolis Colts pick in the first round of the 2018 NFL Draft?	Nick Chubb	Chad Thomas	Dorance Armstrong	Quenton Nelson
+86603	Football	3	Which team defeated the Bills in Super Bowl XXVII?	Indianapolis Colts	Denver Broncos	Miami Dolphins	Dallas Cowboys
+61655	Football	3	How many Super Bowls did Bengal Cris Collinsworth play in?	Zero	Five	One	Two
+89865	Football	3	How many sacks did Tedy Bruschi have with the Patriots in Super Bowl XXXI vs. Green Bay?	0 Sacks	1 Sack	3 Sacks	2 Sacks
+293132	Football	3	Which team won a Super Bowl first?	Baltimore Colts	Dallas Cowboys	Kansas City Chiefs	New York Jets
+502553	Football	3	Drew Brees broke which of these quarterback's records of 48 consecutive games with a touchdown?	Dan Marino	Steve Young	John Elway	Johnny Unitas
+2LFN1380	Football	3	How many points did Green Bay allow in the 2019 season?	177	379	227	313
+490894	Football	3	What quarterback led the league in passing yards for the 2005 NFL season?	Trent Green	Drew Bledsoe	Peyton Manning	Tom Brady
+308623	Football	3	Who gained the most yards on the ground during 1996's Super Bowl XXX?	Barry Foster	Kordell Stewart	Emmitt Smith	Bam Morris
+96135	Football	3	Who was named the MVP of Super Bowl 47?	Ray Lewis	Ray Rice	Ed Reed	Joe Flacco
+506355	Football	3	Which two NFL teams finished the 2012-13 NFL season with a record of 2-14?	Jaguars And Lions	Chiefs And Raiders	Chiefs And Eagles	Chiefs And Jaguars
+491419	Football	3	Which player ended the NFL career of Darryl Stingley?	Dick Butkus	Dick "Night Train" Lane	Lester Hayes	Jack Tatum
+357665	Football	3	Who was the MVP of Super Bowl XVIII between L.A. Raiders and Washington Redskins?	Phil Simms	Terry Bradshaw	Doug Williams	Marcus Allen
+199813	Football	3	Who led the NFL in quarterback rating for the 1995 season?	Brett Favre	Dan Marino	Steve Young	Jim Harbaugh
+490884	Football	3	Who had the most passing yards in the NFL in 1999?	Brad Johnson, Redskins	Kurt Warner, Rams	Elvis Grbac, Chiefs	Steve Beurlein, Panthers
+519678	Football	3	Who was quarterback for the New York Giants during their win in Super Bowl XXV?	Phil Simms	Todd Blackledge	Matt Cavanaugh	Jeff Hostetler
+506358	Football	3	What New England Patriot safety was nicknamed "Hot Rod"?	Brandon Meriweather	James Sanders	Tedy Bruschi	Rodney Harrison
+259132	Football	3	Who was the "one-two punch" for the Cincinnati Bengals in their 1989 Super Bowl?	Boomer Esiason And Eddie Brown	James Brooks And Stanford Jennings	Boomer Esiason And Ickey Woods	Ickey Woods And James Brooks
+507608	Football	3	Whose two interceptions in Super Bowl XXX sealed a 27-17 win for the Dallas Cowboys?	Deion Sanders	Darren Woodson	Greg Ellis	Larry Brown
+199024	Football	3	How many points did the Eagles score in the 4th quarter of Super Bowl LII played in February 2018?	3 Points	21 Points	O Points	12 points
+79560	Football	3	In Super Bowl XXXVII the Buccaneers returned how many interceptions for touchdowns?	1	0	4	3
+10088	Football	3	What infamous NFL coach was quoted as saying "I love being underestimated"?	Bill Parcells	Bill Belichick	Andy Reid	Jim Harbaugh
+194477	Football	3	Who did the New England Patriots lose to in Super Bowl XXXI?	The St. Louis Rams	The San Diego Chargers	The Dallas Cowboys	The Green Bay Packers
+199125	Football	3	Nick Kaczur started in what position for the New England Patriots at Super Bowl XLII?	Left Tackle	Tight End	Prep Lineman	Right Tackle
+33161	Football	3	What was the Minnesota Vikings' September record in Super Bowl seasons 1969-76?	9-14	17-4	20-0-1	17-3-1
+523699	Football	3	What NFL team wore patches in 2014 with the initials of late owner William Clay Ford, Sr.?	Jets	Patriots	Seahawks	Lions
+507189	Football	3	Which team lost more games in the 2019 NFL season?	Cleveland Browns	New York Giants	Detroit Lions	Washington Redskins
+312767	Football	3	N.Y. Giants was the losing team in Super Bowl XXXV, what was the final score of the game?	26 To 21	32 To 14	31 To 19	34 To 7
+289014	Football	3	Which of these coaches won the most Super Bowls?	John Madden	Tom Landry	Vince Lombardi	Bill Walsh
+502602	Football	3	How many years did Ray Rhodes coach the Packers?	12	7	5	1
+514491	Football	3	What uniform did the Arizona Cardinals retire for NFL great Marshall Goldberg?	#11	#88	#77	#99
+259342	Football	3	Which of these players was the youngest quarterback to be the MVP and win the Super Bowl?	John Elway	Drew Bledsoe	Brett Favre	Tom Brady
+199834	Football	3	Which rookie started 16 games for the Cowboys in 2013-14?	Brian Waters	Doug Free	Ronald Leary	Travis Frederick
+507510	Football	3	Who won the AP Comeback Player of the Year award for the 2017 NFL season?	Carson Wentz	J.J. Watt	Aaron Donald	Keenan Allen
+49601	Football	3	Who was the Cowboys' defensive coordinator for the 2013-14 season?	Jerome Henderson	Gary Brown	Derek Dooley	Monte Kiffin
+251494	Football	3	The fastest ad ever produced was created, filmed, and aired during which Super Bowl?	XVI	XXIV	XXX	XXVII
+502561	Football	3	Which head coach had a dispute with quarterback Vince Young that lead to his firing?	Mike Munchak	Pat Shurmur	John Fox	Jeff Fisher
+259218	Football	3	Who won the most lopsided NFL Championship game ever (73-0)?	Washington Redskins	Pittsburgh Steelers	Dallas Cowboys	Chicago Bears
+72307	Football	3	Who did the Steelers beat in the AFC Championship to advance to Super Bowls XIII and XIV?	Oakland Raiders	Denver Broncos	Miami Dolphins	Houston Oilers
+87626	Football	3	In the 2012 season Adrian Peterson fell just nine yards shy of who's all-time yards rushing record in a season?	OJ Simpson	Emmitt Smith	Barry Sanders	Eric Dickerson
+199118	Football	3	Which team set a record for the most points scored in a quarter at 35 in Super Bowl XXII?	Giants	Dolphins	Steelers	Redskins
+76935	Football	3	Who did the 49ers beat 55-10 in Super Bowl Super Bowl XXIV played on January 28, 1990?	Cowboys	Raiders	Eagles	Broncos
+272269	Football	3	Who was named NFL Coach of the Year in 2004?	Tony Dungy	John Fox	Dan Reeves	Marty Schottenheimer
+321046	Football	3	Which team had never lost a Super Bowl until they lost one in the 90's?	St. Louis Rams	Cleveland Browns	Dallas Cowboys	Pittsburgh Steelers
+289389	Football	3	Which NFL superstar was drafted in 1999 the highest of these four players?	Rickey Williams	Champ Bailey	Daunte Culpepper	Edgerrin James
+264708	Football	3	How many yards did the Eagle's McNabb throw for in Super Bowl XXXIX?	230 Yards	412 Yards	123 Yards	357 Yards
+186257	Football	3	How long was DeShaun Foster's touchdown run in Super Bowl XXXVIII?	19 Yards	49 Yards	73 Yards	33 Yards
+527672	Football	3	How many yards is the penalty in the NFL for fair catch interference?	Five-Yard Penalty	Twenty-Yard Penalty	Ten-Yard Penalty	Fifteen-Yard Penalty
+258038	Football	3	What was the final score of the Super Bowl on February 3, 2008?	10-3	10-7	10-20	17-14
+291626	Football	3	In which of these Super Bowl appearances did Denver actually score the first points?	Vs. Green Bay XXXII	Vs. Atlanta XXXII	Vs. Dallas XII	Vs. Washington XXII
+499S620	Football	3	Who is Saints general manager who was suspended for 8 games in the 2012-13 season?	Gregg Williams	Joe Vitt	Sean Payton	Mickey Loomis
+49457	Football	3	Who of the following has the most Super Bowl rings?	O.J. Simpson	Troy Aikman	Steve Young	Joe Montana
+309362	Football	3	How many yards rushing did the Miami Dolphins have in the January 20, 1985 Super Bowl?	125 Yards	2 Yards	213 Yards	25 Yards
+12521	Football	3	What Cowboys receiver of the 20th century had just one reception for a Super Bowl TD?	Billy Parks	Charles McKee	Jimmy Harris	Percy Howard
+8281	Football	3	How many points were scored in Super Bowl IX between the Minnesota Vikings and Steelers?	28	26	24	22
+506362	Football	3	What year was the first "John Madden Football" game produced on Super Nintendo?	1994	1993	1991	1992
+519679	Football	3	After which season prior to 2007 did the New York Giants last play in the Super Bowl?	1990	1986	1997	2000
+503079	Football	3	What team did Jim Caldwell become the head coach of in 2014?	Patriots	Seahawks	Broncos	Lions
+258079	Football	3	In which city have the Raiders never played a Super Bowl?	New Orleans	Tampa, Florida	San Diego, California	Tempe, Arizona
+199147	Football	3	Who was the referee for Super Bowl LIII played on February 3rd 2019?	Joe Perry	Ed Werder	Steve Zimmer	John Parry
+61629	Football	3	What was the score at half time between the Cowboys & Bills in Super Bowl XXVIII?	Cowboys 27, Bills 3	Bills 13, Cowboys 0	Cowboys 20, Bills 3	Bills 13, Cowboys 6
+199066	Football	3	What QB took the San Francisco 49ers to the 2013 Super Bowl?	Steve Young	Joe Montana	Alex Smith	Colin Kaepernick
+19SU2014	Football	3	Marcus Allen was the MVP for which Super Bowl?	XV	XVI	XX	XVIII
+259393	Football	3	What number does wide receiver Adam Thielen wear for the 2018 Vikings?	#11	#33	#25	#19
+104091	Football	3	What uniform number did San Diego retire for NFL great Dan Fouts?	#55	#12	#1	#14
+502790	Football	3	Which of the following NFL or former NFL pairs were brothers?	Brian and Sean Dawkins	Jason and Warrick Dunn	Ken and Nat Dorsey	Bennie and Brian Blades
+199826	Football	3	Which team won 12 games and finished first in the NFL AFC West for the 2014 season?	Titans	Chargers	Raiders	Broncos
+272383	Football	3	How many yards did Marshawn Lynch rush during the 2013 regular season?	1657 Yards	1057 Yards	957 Yards	1257 Yards
+2LFN1370	Football	3	Who won the AP Defensive Rookie of the Year award for the 2017 NFL season?	Kareem Hunt	Desmond King	Alvin Kamara	Marshon Lattimore
+411384	Football	3	Which member of the Kansas City Chiefs family is credited with coining the term "Super Bowl"?	Hank Stram	Len Dawson	Carl Peterson	Lamar Hunt
+357273	Football	3	In 2005, Tom Brady was the only starting quarterback to win 3 Super Bowls before what age?	31	26	33	28
+357292	Football	3	Which coach won three Super Bowls with three different quarterbacks?	Mike Ditka	Jimmy Johnson	Don Shula	Joe Gibbs
+199134	Football	3	Which reality show has started at least two seasons following the broadcast of the Super Bowl?	The Apprentice	The Surreal Life	The Real World	Survivor
+499S623	Football	3	What year was the first Heisman Trophy presented?	1958	1929	1960	1935
+272262	Football	3	Eric Mangini was fired as head coach in 2011 by which team?	Minnesota Vikings	Chicago Bears	Atlanta Falcons	Cleveland Browns
+231893	Football	3	Which Cowboys quarterback appeared in the most Super Bowl games?	Troy Aikman	Don Meredith	Craig Morton	Roger Staubach
+507198	Football	3	Who was the starting quarterback for the Buffalo Bills at the beginning of the 2011 season?	Erik Pears	Leodis McKelvin	Naaman Roosevelt	Ryan Fitzpatrick
+217520	Football	3	Who was the MVP in Super Bowl VI between the Dallas Cowboys and Miami Dolphins?	Calvin Hill	Bob Greise	Duane Thomas	Roger Staubach
+352420	Football	3	What Super Bowl team included Elam, Hilliard and Sharpe?	Miami Dolphins	New England Patriots	Green Bay Packers	Denver Broncos
+523681	Football	3	Which team's coach, Chuck Pagano, battled Leukemia during 2012, but returned for the final week of the regular season?	Giants	Dolphins	Bears	Vikings
+199836	Football	3	What football team did Jim Harbaugh coach before heading up the San Francisco 49ers?	Dallas Cowboys	University of Michigan	Baltimore Ravens	Stanford
+519677	Football	3	Who won Super Bowl III on Jan. 12, 1969?	Green Bay Packers	Dallas Cowboys	New York Giants	New York Jets
+259402	Football	3	Edgerrin James was the first rusher from what school to post consecutive thousand-yard seasons?	Georgia	Alabama	Mississippi	Miami
+506357	Football	3	In 2016, what team included running back Andre Williams and Melvin Gordon ?	New York Giants	Buffalo Bills	Minnesota Vikings	Los Angeles Chargers
+199575	Football	3	Who did the Eagles lose to in Super Bowl 15?	Bills	Broncos	Patriots	Raiders
+501038	Football	3	What is "Bum" Phillips' first name?	Hubert	Homer	Olin	Oail
+293003	Football	3	How many 1st quarter points were scored in the Patriot vs. Eagles Super Bowl in '05?	7	3	14	0
+490891	Football	3	Which star AFL receiver was improbably nicknamed "Bambi"?	Don Chandler	Nate Smith	Fred Arbanas	Lance Alworth
+11783	Football	3	Super Bowl LIII in 2019 set which Super Bowl record at the time?	Shortest Game	Longest Game	Highest Scoring	Lowest Scoring
+357103	Football	3	What former 49er assistant went on to coach the Bengals in Super Bowl XXIII?	Bill Walsh	Dan Reeves	Don Shula	Sam Wyche
+289137	Football	3	What Police hit did Sting and Gwen Stefani sing at halftime at the 2003 Super Bowl?	De Do Do Do, De Da Da Da	King Of Pain	Every Breath You Take	Message In A Bottle
+191492	Football	3	Which NFL quarterback led the league in 2018-19 regular season in yards passing?	Jared Goff	Andrew Luck	Alex Smith	Ben Roethlisberger
+215669	Football	3	Which Packer coach has won the most NFL and/or Super Bowl Championships with a total of 6?	Vince Lombardi	Mike Holmgren	Bart Starr	Curly Lambeau
+508308	Football	3	What NFL team's defense was known as the "Orange Crush"?	Tampa Bay Buccaneers	Dallas Cowboys	San Francisco 49ers	Denver Broncos
+65401	Football	3	Who coached the New York Jets to an upset win in Super Bowl III?	Hank Stram	Don McCafferty	John Rauch	Weeb Ewbank
+199115	Football	3	What Super Bowl team included Brown, Sims and Romanowski?	St. Louis Rams	New York Giants	Carolina Panthers	Oakland Raiders
+264437	Football	3	Which team was the first to lose 4 Super Bowls?	Chiefs	Cowboys	Broncos	Vikings
+11449	Football	3	When did the Colts move to Indianapolis?	1990	1978	1987	1984
+231892	Football	3	Who was the first NFL quarterback to pass for over 300 yards in a Super Bowl game?	Roger Staubach	Fran Tarkenton	Joe Namath	Terry Bradshaw
+272388	Football	3	Which of these Super Bowls had the highest attendance?	Super Bowl I	Super Bowl XXIII	Super Bowl XXXI	Super Bowl XIV
+199895	Football	3	What team had the US Patent and Trademark Office invalidate some of their trademark protections in 2014?	Packers	Bucs	Giants	Redskins
+500886	Football	3	Who was the Offensive MVP of the 2018 National College Football Championship game?	Calvin Ridley	Riley Ridley	Jake Fromm	Tua Tagovailoa
+508327	Football	3	Who was the losing head coach in Syper Bowl LI played in 2017?	Andy Reid	Doug Pederson	Bill Belichick 	Dan Quinn
+199052	Football	3	Joe Montana threw five touchdowns in a January 1990 Super Bowl against which team?	Cincinnati Bengals	Pittsburgh Steelers	New York Rangers	Denver Broncos
+216451	Football	3	Who beat the Pittsburgh Steelers in the 2014-15 Wildcard Playoff game?	New England Patriots	Detroit Lions	Indianapolis Colts	Baltimore Ravens
+45917	Football	3	Which team was almost late to a Super Bowl in Detroit due to bad weather?	Philadelphia Eagles	Cincinnati Bengals	Pittsburgh Steelers	San Francisco 49ers
+16I555	Football	3	Which Super Bowl was played in 1999, between the Denver Broncos and the Atlanta Falcons?	XXXII	XXXIV	XXXVI	XXXIII
+490892	Football	3	Who scored the first two-point conversion in the NFL?	Emmitt Smith	Jeff Blake	Craig Heyward	Tom Tupa
+507613	Football	3	Marshall Faulk was the first rookie to win what NFL Award?	Offensive Player of the Year	Super Bowl MVP	Daniel Reeves Memorial Award	Pro Bowl MVP
+263700	Football	3	What team did Kirk Cousins play for prior to joining the Vikings?	Detroit Lions	New York Giants	Chicago Bears	Washington Redskins
+259355	Football	3	What team did The Rams defeat in the NFC Championship Game to reach Super Bowl XXXVI?	Green Bay Packers	Detroit Lions	San Francisco 49ers	Philadelphia Eagles
+259179	Football	3	How many players went to the Pro Bowl from the Super Bowl-winning 2007 New York Giants?	Three	Seven	Nine	One
+507175	Football	3	What college did Louis Oliver "walk on to"?	Miami	Georgia State	Florida State	Florida
+27229	Football	3	In Super Bowl XXIII, who caught the game-winning touchdown from Joe Montana?	Roger Craig	Brent Jones	Jerry Rice	John Taylor
+291569	Football	3	Who was the first player to record a safety in a Super Bowl?	Bruce Smith	Reggie Harrison	Henry Waechter	Dwight White
+490886	Football	3	Robert Griffin III won a Heisman trophy at which university?	Clemson	Virginia	Georgia Tech	Baylor
+416109	Football	3	Who was the first running back to gain 100 receiving yards in a Super Bowl?	Lawrence McCutcheon	James Brooks	Warrick Dunn	Roger Craig
+25506	Football	3	Which Falcon had 18 rushes for 96 yards in the '98 Super Bowl vs. the Broncos?	Andre Rison	Gerald Riggs	William Andrews	Jamal Anderson
+288856	Football	3	What Rams receiver caught the game-winning TD with just 1:54 left in Super Bowl XXXIV?	Torry Holt	Ricky Proehl	Az-Zahir Hakim	Isaac Bruce
+59898	Football	3	The Kansas City Chiefs beat the Minnesota Vikings in Super Bowl IV in which city?	Miami	Los Angeles	Minneapolis	New Orleans
+491548	Football	3	Who did the Arizona Cardinals pick in the first round of the 2018 NFL Draft?	James Daniels	Royce Freeman	Will Dissly	Josh Rosen
+89860	Football	3	Whose injury allowed Max McGee to become the hero of Super Bowl I?	Don Chandler	Ron Kramer	Willie Wood	Boyd Dowler
+515482	Football	3	What year was Terrell Davis first season as a Bronco?	1998	1991	2000	1995
+7W25926	Football	3	Which NFL team has a design on only one side of its helmet?	New Orleans Saints	Seattle Seahawks	Indianapolis Colts	Pittsburgh Steelers
+259330	Football	3	How many Super Bowls did the San Francisco 49ers win with George Seifert as head coach?	None	One	Five	Two
+8259	Football	3	What Steeler sustained a torn right rotator cuff in the August before the 2013 season?	LaRod Stephens-Howling	Antonio Brown	Jerricho Cotchery	Plaxico Burress
+259329	Football	3	St. Louis Rams lost in Super Bowl XXXVI, what was the final score of the game?	27 To 10	23 To 7	31 To 19	20 To 17
+66843	Football	3	How many yards did Terrell Davis rush for in his first season with the Broncos?	2,008 Yards	317 Yards	711 Yards	1,117 Yards
+519674	Football	3	What player reported missing $67,050 worth of jewelry while in Detroit for Super Bowl XL?	Kimo Von Oelhoffen	Hines Ward	Ben Roethlisberger	Jerome Bettis
+79561	Football	3	When the Denver Broncos lost Super Bowl XXIV to the 49ers, what was the final score?	34 To 19	23 To 16	27 To 17	55 To 10
+185805	Football	3	Houston Oilers great Earl Campbell played the last season and a half of his career with which team?	Washington Redskins	Los Angeles Rams	Tampa Bay Buccaneers	New Orleans Saints
+259189	Football	3	Who was the only Green Bay Packer to intercept John Elway in Super Bowl XXXII?	Leroy Butler	Doug Evans	George Koonce	Eugene Robinson
+199121	Football	3	Of the 22 tackles Lofa Tatupu had in the '05 post-season, how many were in Super Bowl XL?	Six	Fifteen	Three	Nine
+59749	Football	3	What two teams competed in Super Bowl 50?	Rams And Broncos	Falcons And Broncos	Cowboys And Bills	Panthers And Broncos
+452445	Football	3	Who coached the Washington Redskins to victories in Super Bowls 17, 22 and 26?	Tom Landry	Norv Turner	Sammy Baugh	Joe Gibbs
+304281	Football	3	What is the Davey O'Brien Award given for in college football?	Best Division III Player	I-AA Coach Of The Year	Nation's Outstanding Special Teams Player	Nation's Best Quarterback
+19533	Football	3	Which future coach was the leading receiver in Super Bowl V?	Ray Rhodes	Mike Ditka	Tony Dungy	Dan Reeves
+289143	Football	3	What team and kicker is famous for a wide right kick against the Giants in a Super Bowl?	Bill Pearse/New York Jets	Steve Christie/Buffalo Bills	Mark Mosely/Washington Redskins	Scott Norwood/Buffalo Bills
+11784	Football	3	In what state was Super Bowl XLII held to wrap up the 2007 NFL season?	California	Pennsylvania	Texas	Arizona
+70299	Football	3	Who was the backup quarterback for the Baltimore Colts in Super Bowl III?	Bert Jones	Earl Morall	Ray Perkins	Johnny Unitas
+199819	Football	3	Which Los Angeles Rams player was #74 retired for?	Eric Dickerson	Jackie Slater	Jack Youngblood	Merlin Olsen
+120290	Football	3	Which NFL team finished the 2017 season with six wins and ten losses?	Baltimore Ravens	Buffalo Bills	Cleveland Browns	Miami Dolphins
+8288	Football	3	Alan Page was an inaugural winner of what award?	Heisman Trophy	Jim Brown Award	Offensive Player of the Year	NFL Defensive Player of the Year
+65393	Football	3	Who scored the first touchdown for the Buffalo Bills in their first Super Bowl appearance?	Thurman Thomas	Jim Kelly	Jim Nestico	Don Smith
+79562	Football	3	Who won Super Bowl XX?	Washington Redskins	Kansas City Chiefs	San Francisco 49ers	Chicago Bears
+507502	Football	3	Who did the San Francisco 49ers pick in the first round of the 2018 NFL Draft?	Ronald Jones	Fred Warner	Kyzir White	Mike McGlinchey
+514490	Football	3	Michael Strahan was drafted by the Giants out of which college?	Florida	Georgia Tech	Clemson	Texas Southern
+89920	Football	3	What team's head coach took a plunge into Lake Erie for charity in 2018?	Bengals	Bears	Steelers	Browns
+503078	Football	3	What Super Bowl team included Smart, Manning and Davis?	New York Giants	Baltimore Ravens	Miami Dolphins	Carolina Panthers
+382393	Football	3	How many Super Bowl bound teams did Don Shula coach before retiring?	5	7	4	6
+259353	Football	3	Which of the following Super Bowl Champions had to win their Conference Championship Game on the road?	2004 New England Patriots	1998 Denver Broncos	1995 Dallas Cowboys	1990 New York Giants
+70298	Football	3	The Miami Dolphins lost Super Bowl XIX, what was the final score of the game?	24 To 3	39 To 20	27 To 10	38 To 16
+291770	Football	3	What team won the Super Bowl in 1995?	Dallas Cowboys	Denver Broncos	New York Giants	San Francisco 49ers
+491413	Football	3	Where was the Meadowlands Sports Complex located?	Hempstead, Long Island	Brooklyn, New york	Atlantic City, New Jersey	East Rutherford, New Jersey
+11463	Football	3	Who performed at the Super Bowl halftime show in 2019?	Kacey Musgraves	Marilyn Manson	Backstreet Boys	Maroon 5
+59901	Football	3	Which of these was not a running back for the Super Bowl XXX Steelers team?	Bam Morris	Ericc Pegram	Fred McAfee	Barry Foster
+199573	Football	3	What team upset the Minnesota Vikings to win Super Bowl IV?	New York Jets	Oakland Raiders	Pittsburgh Steelers	Kansas City Chiefs
+185831	Football	3	Out of the 5 Super Bowls that the 49ers have been in, how many have they won?	Four	Three	Two	Five
+89863	Football	3	In which of these Super Bowl's did Travis Tritt perform in during halftime?	Super Bowl XXV	Super Bowl XX	Super Bowl XXXI	Super Bowl XXVIII
+490888	Football	3	Which former Lions head coach joined the Cowboys' coaching staff for 2013-14?	Skip Peete	Mike Woicik	Leon Lett	Rod Marinelli
+76127	Football	3	In 1978, Bill Belichick was assistant special teams coach and defensive assistant for what NFL team?	The Atlanta Falcons	The Dallas Cowboys	The New York Giants	The Denver Broncos
+289222	Football	3	With all Super Bowl appearances, what NFL team had scored the most points in Super Bowl history by 1999?	Washington Redskins	Miami Dolphins	San Francisco 49ers	Dallas Cowboys
+364043	Football	3	Who quarterbacked the Minnesota Vikings to their first Super Bowl appearance?	Craig Morton	Fran Tarkington	Bud Grant	Joe Kapp
+199863	Football	3	In 2012, Peyton Manning joined Dan Marino and which quarterback to become the only three to throw for 400 touchdowns?	Fran Tarkenton	Steve Young	Don Meredith	Brett Favre
+352390	Football	3	What team that included Johnny Unitas won Super Bowl V?	Oakland	San Francisco	Dallas	Baltimore
+507644	Football	3	Who was Dallas Cowboy quarterback Tony Romo's backup in 2012?	Devin Gardner	Brad Johnson	Stephen McGee	Kyle Orton
+457987	Football	3	How many points were scored in the first quarter of Super Bowl LIII played in 2019?	17	22	4	0
+32546	Football	3	The Miami Dolphins lost in Super Bowl VI, what was the final score of the game?	23 To 16	39 To 20	37 To 24	24 To 3
+508328	Football	3	Marshawn Lynch is a cousin of what #1 overall pick?	Mario Williams	Cam Newton	Michael Vick	JaMarcus Russell
+499613	Football	3	Who led the Cowboys with 1471 yards from scrimmage in 2013-14?	Terrance Williams	Dez Bryant	Jason Witten	DeMarco Murray
+391776	Football	3	Which city hosted the Super Bowl in 1995 and 1999?	New Orleans	Tampa	Detroit	Miami
+490873	Football	3	Who were the two players Miami drafted in the first round in 1992?	O.J. McDuffie & Jon Avery	Karim Abdul Jabbar & OJ McDuffie	Tim Bowens & O.J. McDuffie	Marco Coleman & Troy Vincent
+14279	Football	3	Which team had a better regular season record than Denver who won the Super Bowl in 1998?	Green Bay Packers	San Francisco 49ers	Atlanta Falcons	Minnesota Vikings
+11781	Football	3	Who was the first Miami Dolphin to return a kick-off for a touchdown in a Super Bowl?	Jim Kiick	Tony Martin	Jimmy Cefalo	Fulton Walker
+491414	Football	3	Which divisional rival did the Cowboys hold to 3 points during a game in 2013-14?	New York Giants	Washington Redskins	Green Bay Packers	Philadelphia Eagles
+17885	Football	3	Which receiver's only reception in Super Bowl X ended with him scoring a touchdown?	Charlie Waters	Golden Richards	Jackie Smith	Percy Howard
+507192	Football	3	Who did Peyton Manning pass in 2013 to become second in all time passing yards?	Brett Favre	Joe Montana	John Elway	Dan Marino
+199876	Football	3	How many NFL teams won 13 regular season games in 2018?	One	Zero	Five	Two
+24393	Football	3	Defensive superstar Pat Swilling played linebacker for which NFL team in 1991?	Minnesota Vikings	Baltimore Ravens	Pittsburgh Steelers	New Orleans Saints
+507183	Football	3	What National Football League team drafted John Elway?	New York Giants	Denver Broncos	Seattle Seahawks	Baltimore Colts
+8219	Football	3	Which NFL team won Super Bowl XLI in 2007?	Chicago Bears	New England Patriots	San Diego Chargers	Indianapolis Colts
+272268	Football	3	Who did the Buffalo Bills pick in the first round of the 2018 NFL Draft?	Josh Jackson	Sam Hubbard	Ito Smith	Tremaine Edmunds
+199131	Football	3	Which of these players has won Super Bowls with two different teams?	Ricky Proehll	Mike Jones	Amp Lee	Derek Loville
+2391	Football	3	Which team in 2011's 16 games rushed for a total of 2632 yards and had 11 rushing touchdowns?	Jacksonville Jaguars	Tampa Bay Buccaneers	Kansas City Chiefs	Denver Broncos
+65398	Football	3	Which Denver Bronco scored on the first play from scrimmage in Super Bowl XXII?	Mark Jackson	Steve Sewell	Vance Johnson	Ricky Nattiel
+272286	Football	3	In Super Bowl XXXIV, which Ram tackled Kevin Dyson at the one-yard line on the final play?	D'marco Farr	London Fletcher	Ray Agnew	Mike Jones
+506359	Football	3	Who did the Miami Dolphins draft in round 1 of the 2018 NFL Draft?	Malik Hooker	Christian McCaffrey	Jamal Adams	Minkah Fitzpatrick
+79559	Football	3	Prior to their Super Bowl season of 2000, how many winning seasons did the Ravens have?	1	2	3	0
+506353	Football	3	Which player, in 2012, became the first in NFL history to return kicks for 105 and 108 yards in one season?	Leon Washington	Doug Martin	Adrian Peterson	Jacoby Jones
+263708	Football	3	Which NFL season began on September 2017?	76th	49th	83rd	98th
+32542	Football	3	Who was the MVP for the Super Bowl game played in February 2014?	Zach Miller	Russell Wilson	Peyton Manning	Malcolm Smith
+26033	Football	3	What did Mary Chapin Carpenter perform at Super Bowl XXXI in 1997?	The National Anthem	A Dance Number	A Comedy Skit	Down At The Twist And Shout
+16I178	Football	3	What song did Prince open with during the 2007 Super Bowl half-time show?	Little Red Corvette	Purple Rain	All Along The Watchtower	Let's Go Crazy
+289335	Football	3	Who did the TV coverage play by play announcing for Super Bowl LII?	Sean McDonough	Jim Nantz	Greg Gumbel	Al Michaels
+420222	Football	3	Who set a record for completion percentage in a Super Bowl, making 22 of 25 passes?	Terry Bradshaw	Doug Williams	Joe Montana	Phil Simms
+329385	Football	3	Which was the first Super Bowl winning team to have a kickoff return for a touchdown ?	2000 Baltimore Ravens	2003 New England Patriots	1994 San Francisco 49ers	1996 Green Bay Packers
+491546	Football	3	Which quarterback did the New York Jets draft over Dan Marino in 1983?	Neil O'Donnell	Tony Eason	Vinny Testaverde	Ken O'Brien
+2447	Football	3	How many points did Green Bay score in the 2019 season?	211	281	440	376
+291580	Football	3	Who was the coach of the first AFL team to win the Super Bowl?	Don Shula	Dave Wanninger	Hank Stram	Weeb Ewbank
+272295	Football	3	Who was the Bronco's quarterback coach in 2016?	Dave Magazu	Eric Studesville	Sam Garnes	Greg Knapp
+91719	Football	3	How many 3rd Quarter points did the Broncos surrender to the Redskins in Super Bowl XXII?	35	21	19	0
+199135	Football	3	How many yards did Kurt Warner throw for in Super Bowl XXXIV?	320 Yards	139 Yards	498 Yards	414 Yards
+500897	Football	3	What number uniform did the Bears retire for NFL great Brian Piccolo?	1	24	55	41
+199149	Football	3	Who did Dallas beat 27 to 10 in Super Bowl XII?	Houston	Miami	Baltimore	Denver
+289138	Football	3	Which of these players did not win multiple Super Bowl MVP Awards?	Joe Montana	Terry Bradshaw	Bart Starr	Troy Aikman
+12525	Football	3	Which American Football Conference team became the second to win the Super Bowl?	Oakland Raiders	Minnesota Vikings	Pittsburgh Steelers	Kansas City Chiefs
+98597	Football	3	Which of these team won a Super Bowl first?	Washington Redskins	New York Giants	Chicago Bears	San Francisco 49ers
+243613	Football	3	Who performed "The Star-Spangled Banner" at Super Bowl LIII?	Cardi-B	Dolly Parton	Beyonce	Gladys Knight
+256307	Football	3	Who was the starting quarterback for the Cleveland Browns at the beginning of the 2011 season?	Artis Hicks	Brian Schaefering	Mohamed Massaquoi	Colt McCoy
+216432	Football	3	Which is true about the St. Louis Vs. Tennessee Super Bowl in 2000?	McNair Didn't Play	Rams Had 0 Points At Half	Was Played In Miami	No 100 Yard Rusher
+51s1s840	Football	3	What rookie QB took the Seahawks to the 2012-2013 playoffs?	Andrew Luck	Ryan Tannehill	Brandon Weeden	Russell Wilson
+96132	Football	3	What NFL franchise was the first to make it to the Super Bowl with all road wins?	The 2005 Pittsburgh Steelers	The 1992 Buffalo Bills	The 1980 Oakland Raiders	The 1985 New England Patriots
+293032	Football	3	Super Bowl XXXI was played where?	Miami	Atlanta	San Francisco	New Orleans
+304294	Football	3	What pick was Robert Griffin III in the 2012 NFL Draft?	1st	3rd	4th	2nd
+231066	Football	3	Which stadium hosted Super Bowls with attendance of over 100,000 a game?	Orange Bowl In Miami	Louisiana Superdome In New Orleans	Los Angeles Memorial Coliseum	Rose Bowl In Pasadena
+351068	Football	3	How many yards is the penalty in the NFL for illegally helping the runner?	Twenty	Five	Fifteen	Ten

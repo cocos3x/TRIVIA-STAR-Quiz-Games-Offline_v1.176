@@ -1,0 +1,1477 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22bc9eba1265a631a49a8c0a4349ab24, type: 3}
+  m_Name: "TRVExpertEcon"
+  m_EditorClassIdentifier: 
+  defaultUnlockedExperts:
+  - "Zookeeper"
+  - "Celebrity Chef"
+  - "Marketing Exec"
+  - "Birdwatcher"
+  - "Gold Medalist"
+  - "Little League Coach"
+  - "Tailgater"
+  - "Fan Fic Author"
+  - "Annual Pass Holder"
+  - "Paparazzi"
+  - "Club Owner"
+  - "Influencer"
+  - "Gopher"
+  - "Screenwriter"
+  - "Exchange Student"
+  expertSpeedUpCost: 15
+  expertLevelUpEcon:
+  - rarity: 1
+    myReqs:
+    - targetLevel: 2
+      cardsNeeded: 1
+      coinsNeeded: 0
+    - targetLevel: 3
+      cardsNeeded: 3
+      coinsNeeded: 100
+    - targetLevel: 4
+      cardsNeeded: 6
+      coinsNeeded: 250
+    - targetLevel: 5
+      cardsNeeded: 10
+      coinsNeeded: 250
+    - targetLevel: 6
+      cardsNeeded: 15
+      coinsNeeded: 500
+    - targetLevel: 7
+      cardsNeeded: 18
+      coinsNeeded: 500
+    - targetLevel: 8
+      cardsNeeded: 22
+      coinsNeeded: 1000
+    - targetLevel: 9
+      cardsNeeded: 25
+      coinsNeeded: 1000
+  - rarity: 2
+    myReqs:
+    - targetLevel: 3
+      cardsNeeded: 1
+      coinsNeeded: 0
+    - targetLevel: 4
+      cardsNeeded: 3
+      coinsNeeded: 250
+    - targetLevel: 5
+      cardsNeeded: 4
+      coinsNeeded: 250
+    - targetLevel: 6
+      cardsNeeded: 5
+      coinsNeeded: 500
+    - targetLevel: 7
+      cardsNeeded: 7
+      coinsNeeded: 500
+    - targetLevel: 8
+      cardsNeeded: 9
+      coinsNeeded: 1000
+    - targetLevel: 9
+      cardsNeeded: 12
+      coinsNeeded: 1000
+    - targetLevel: 10
+      cardsNeeded: 15
+      coinsNeeded: 2500
+    - targetLevel: 11
+      cardsNeeded: 20
+      coinsNeeded: 2500
+    - targetLevel: 12
+      cardsNeeded: 25
+      coinsNeeded: 5000
+  - rarity: 3
+    myReqs:
+    - targetLevel: 5
+      cardsNeeded: 1
+      coinsNeeded: 0
+    - targetLevel: 6
+      cardsNeeded: 2
+      coinsNeeded: 500
+    - targetLevel: 7
+      cardsNeeded: 3
+      coinsNeeded: 500
+    - targetLevel: 8
+      cardsNeeded: 5
+      coinsNeeded: 1000
+    - targetLevel: 9
+      cardsNeeded: 6
+      coinsNeeded: 1000
+    - targetLevel: 10
+      cardsNeeded: 7
+      coinsNeeded: 2500
+    - targetLevel: 11
+      cardsNeeded: 8
+      coinsNeeded: 2500
+    - targetLevel: 12
+      cardsNeeded: 9
+      coinsNeeded: 5000
+    - targetLevel: 13
+      cardsNeeded: 10
+      coinsNeeded: 5000
+    - targetLevel: 14
+      cardsNeeded: 12
+      coinsNeeded: 10000
+    - targetLevel: 15
+      cardsNeeded: 15
+      coinsNeeded: 10000
+  - rarity: 4
+    myReqs:
+    - targetLevel: 7
+      cardsNeeded: 1
+      coinsNeeded: 0
+    - targetLevel: 8
+      cardsNeeded: 2
+      coinsNeeded: 1000
+    - targetLevel: 9
+      cardsNeeded: 3
+      coinsNeeded: 1000
+    - targetLevel: 10
+      cardsNeeded: 4
+      coinsNeeded: 2500
+    - targetLevel: 11
+      cardsNeeded: 4
+      coinsNeeded: 2500
+    - targetLevel: 12
+      cardsNeeded: 4
+      coinsNeeded: 5000
+    - targetLevel: 13
+      cardsNeeded: 5
+      coinsNeeded: 5000
+    - targetLevel: 14
+      cardsNeeded: 6
+      coinsNeeded: 10000
+    - targetLevel: 15
+      cardsNeeded: 7
+      coinsNeeded: 10000
+    - targetLevel: 16
+      cardsNeeded: 8
+      coinsNeeded: 25000
+    - targetLevel: 17
+      cardsNeeded: 9
+      coinsNeeded: 25000
+    - targetLevel: 18
+      cardsNeeded: 10
+      coinsNeeded: 50000
+  econs:
+  - Category: "General"
+    experts:
+    - expertName: "Celebrity Chef"
+      rarity: 4
+      mySprite: {fileID: 21300000, guid: 33f5b982d94a4ae08ae23f85fc48d226, type: 3}
+      totalPotential: 18
+      totalDefault: 7
+      myProfs:
+      - subCat: "Food"
+        defaultPotential: 4
+        maxPotential: 5
+        currentPotential: 4
+      - subCat: "Wine"
+        defaultPotential: 2
+        maxPotential: 4
+        currentPotential: 2
+      - subCat: "Animals"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Chemistry"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Birds"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Oceans"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Zookeeper"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: deae88219fcc43a98cc1a554430b8007, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Animals"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Earth"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Biology"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "History Teacher"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: 9da36f2bb4204de0bd89d6b9354054f5, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "World History"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "U.S. History"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Landmarks"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "World Geography"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Capital Cities"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Marine Biologist"
+      rarity: 4
+      mySprite: {fileID: 21300000, guid: 8884463017bf4e4c8707490571cf0501, type: 3}
+      totalPotential: 18
+      totalDefault: 7
+      myProfs:
+      - subCat: "Oceans"
+        defaultPotential: 4
+        maxPotential: 5
+        currentPotential: 4
+      - subCat: "Animals"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Biology"
+        defaultPotential: 2
+        maxPotential: 4
+        currentPotential: 2
+      - subCat: "Earth"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Science"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Birds"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Librarian"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 72e06496124f4a299969e0b952210f5d, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Literature"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "World History"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Poetry"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Astronaut"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: 881be5e9c63943c4b1499c7a608eb667, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "Earth"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "Science"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Technology"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Food"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Landmarks"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Tech CEO"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 18fcdc59f68d4b25aea4b9827efd5482, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Technology"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Travel"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Brands"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+    - expertName: "Fortune Teller"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: dafcb2130e7f45449ecdc0cfe91264b3, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Mythology"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "World History"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Literature"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Sculptor"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 7d367e066a2f49ba8bf0ba54728505ff, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Landmarks"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Art"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Mythology"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+    - expertName: "Gallerist"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 34f758365788499f84876c308dc951be, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Art"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Poetry"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Brands"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Doomsday Prepper"
+      rarity: 4
+      mySprite: {fileID: 21300000, guid: acd1775de1114ff29285840897241be9, type: 3}
+      totalPotential: 18
+      totalDefault: 7
+      myProfs:
+      - subCat: "U.S. Geography"
+        defaultPotential: 4
+        maxPotential: 5
+        currentPotential: 4
+      - subCat: "Technology"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Food"
+        defaultPotential: 2
+        maxPotential: 3
+        currentPotential: 2
+      - subCat: "Capital Cities"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "U.S. History"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Birds"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Pilot"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 9125a5b77ecb4ad3a9c372916a11b01e, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Travel"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "World Geography"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "U.S. Geography"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+    - expertName: "Exchange Student"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 16c313a771464419a884245758e1ec51, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "World History"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "World Geography"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Capital Cities"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Pets"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Winemaker"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: f2e56f758b924ff28b8033d902ee5653, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Wine"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Brands"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Chemistry"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+    - expertName: "Barista"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: e2551a8c60494152af2ace23167dc2fc, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Poetry"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Literature"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Food"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Veterinarian"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: fb99d4dbf49a4b03b7ca43cd70086986, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Pets"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Animals"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Biology"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+    - expertName: "Birdwatcher"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 65cfcc92e9d6481890f0edbd935fddad, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Birds"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Oceans"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Pets"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+    - expertName: "PhD Student"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 75b0e0068a1542e282ac1aecb622e4b3, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Science"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "U.S. History"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Pets"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Wine"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Marketing Exec"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 400c75129a5944d1ab07c87c4cb786f5, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Brands"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Travel"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Wine"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "International Spy"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: bef198d650794e5dad01852e38396726, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "World Geography"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "Capital Cities"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Technology"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Science"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Epidemiologist"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 7b2a1551311543b9add0c43775ddd29b, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Biology"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Travel"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Chemistry"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+    - expertName: "Time Traveler"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: 259ec379ea5b4ee888f12744e87fb4da, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "U.S. History"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "Earth"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "U.S. Geography"
+        defaultPotential: 1
+        maxPotential: 2
+        currentPotential: 1
+      - subCat: "Art"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Mythology"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Meteorologist"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: 7668acac6e4946dea930f0b9e1ae4c4a, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "Chemistry"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "U.S. Geography"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Oceans"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Landmarks"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+    - expertName: "Professor"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: f82ae9c2e721461980dc502b8b17c08c, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "Mythology"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Poetry"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Literature"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Art"
+        defaultPotential: 3
+        maxPotential: 4
+        currentPotential: 3
+    upgradeOnlyEcon: 0
+  - Category: "Entertainment"
+    experts:
+    - expertName: "Makeup Artist"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: 07c65fb7e606487da43d3e27167ad747, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "Movies 10s"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "Plays & Musicals"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "TV 90s"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Awards"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Foreign Films"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Beat Maker"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 6de9b77c64cd4e4fb9af2797fa5ab612, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Hip Hop"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Pop Music"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Music 10s"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Music R&B"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Paparazzi"
+      rarity: 4
+      mySprite: {fileID: 21300000, guid: a38573eb0f2d4507971f44a23305667a, type: 3}
+      totalPotential: 18
+      totalDefault: 7
+      myProfs:
+      - subCat: "Celebrities"
+        defaultPotential: 4
+        maxPotential: 5
+        currentPotential: 4
+      - subCat: "TV 10s"
+        defaultPotential: 2
+        maxPotential: 3
+        currentPotential: 2
+      - subCat: "Music 10s"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Movies 10s"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Awards"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "TV 00s"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Tabloid Editor"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 336026e70ade489abcb23df208f3d550, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "TV 10s"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Celebrities"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Reality TV"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Sitcoms"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Fan Fic Author"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 13943495a27a42f8b7439daa3bb9ce5d, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Animated Movies"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Disney"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Video Games"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "TV 00s"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Club Owner"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 8e92428eea03445aa24852c7a6124677, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Music 10s"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Pop Music"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Music R&B"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Hip Hop"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+    - expertName: "Comedian"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 115c16016c00485ebc1c5ad9bfbf34ec, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "TV 90s"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Plays & Musicals"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Sitcoms"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+    - expertName: "Film Critic"
+      rarity: 4
+      mySprite: {fileID: 21300000, guid: 06a388756f7e446da03c022ea5582f21, type: 3}
+      totalPotential: 18
+      totalDefault: 7
+      myProfs:
+      - subCat: "Foreign Films"
+        defaultPotential: 4
+        maxPotential: 5
+        currentPotential: 4
+      - subCat: "Animated Movies"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Movies 90s"
+        defaultPotential: 2
+        maxPotential: 4
+        currentPotential: 2
+      - subCat: "Movies 10s"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Movies 00s"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Action Movies"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Showrunner"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: 6f90d91032b74a308eef952870039540, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "Sitcoms"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "Celebrities"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "TV 10s"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Reality TV"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Awards"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Stage Director"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: fb87613a021b475a8e57dfefce41af1e, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Plays & Musicals"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Music 00s"
+        defaultPotential: 0
+        maxPotential: 4
+        currentPotential: 0
+    - expertName: "Heartthrob"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: 799ea30d2805457a83c6b89f3a87d76a, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "Action Movies"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "Disney"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Movies 10s"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Foreign Films"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+    - expertName: "Influencer"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 2a9e4d78994f4adcb328ff44f248b304, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Reality TV"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "TV 10s"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Hip Hop"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Heiress"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 49e83bd8e3424faf94ec4c3e12ad412d, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Awards"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Celebrities"
+        defaultPotential: 0
+        maxPotential: 4
+        currentPotential: 0
+    - expertName: "Pop Star"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: eac9bb2348a24f53a6e6e6781cdc004c, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Pop Music"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Country Music"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Music 10s"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Annual Pass Holder"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: b9fe33242718473480c7b0a742048c55, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Disney"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Animated Movies"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Movies 00s"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Memorabilia Collector"
+      rarity: 4
+      mySprite: {fileID: 21300000, guid: 7c8377713fe644dc9f1a03567eb3632a, type: 3}
+      totalPotential: 18
+      totalDefault: 7
+      myProfs:
+      - subCat: "Movies 90s"
+        defaultPotential: 4
+        maxPotential: 5
+        currentPotential: 4
+      - subCat: "Animated Movies"
+        defaultPotential: 2
+        maxPotential: 4
+        currentPotential: 2
+      - subCat: "TV 90s"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Rock Music"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Video Games"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Music 90s"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+    - expertName: "Cowboy"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 0689c146545d4de3aaf547e0ed2f0502, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Country Music"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "TV 00s"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Action Movies"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+    - expertName: "Lead Guitarist"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 8238e421b5914db2a8d134fd39ea7799, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Rock Music"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Music 00s"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Pop Music"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 1
+    - expertName: "Blogger"
+      rarity: 4
+      mySprite: {fileID: 21300000, guid: 549ab1b6d50c40c2b62b38af3e708f75, type: 3}
+      totalPotential: 18
+      totalDefault: 7
+      myProfs:
+      - subCat: "Movies 00s"
+        defaultPotential: 4
+        maxPotential: 5
+        currentPotential: 4
+      - subCat: "Movies 90s"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Video Games"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Action Movies"
+        defaultPotential: 2
+        maxPotential: 4
+        currentPotential: 2
+      - subCat: "Disney"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Twitch Streamer"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 638964c7eb1742bf95398fe64a473278, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Video Games"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Reality TV"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Foreign Films"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Mashup Producer"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: 4ac40515bd484836bfa284a83cfd8436, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "Music 90s"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "Rock Music"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Country Music"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Music R&B"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Hip Hop"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Screenwriter"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: d7f42275744e4fd1b6a617cdd5e3fd1f, type: 3}
+      totalPotential: 15
+      totalDefault: 3
+      myProfs:
+      - subCat: "TV 00s"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "Movies 90s"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "TV 90s"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Sitcoms"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Movies 00s"
+        defaultPotential: 0
+        maxPotential: 4
+        currentPotential: 0
+    - expertName: "Choreographer"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 7f42e36657c1446e9ca42e251a5ee1fd, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Music R&B"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Plays & Musicals"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Music 00s"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Music 90s"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Girl Group"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: ba6e1e50fc1f46299f2f43f2d51d2a1f, type: 3}
+      totalPotential: 15
+      totalDefault: 3
+      myProfs:
+      - subCat: "Music 00s"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Country Music"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Rock Music"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Music 90s"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    upgradeOnlyEcon: 0
+  - Category: "Sports"
+    experts:
+    - expertName: "Sports Commentator"
+      rarity: 4
+      mySprite: {fileID: 21300000, guid: fe9801c788104f149c05adac725537dd, type: 3}
+      totalPotential: 18
+      totalDefault: 7
+      myProfs:
+      - subCat: "Basketball"
+        defaultPotential: 4
+        maxPotential: 5
+        currentPotential: 4
+      - subCat: "Cricket"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Tennis"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Hockey"
+        defaultPotential: 2
+        maxPotential: 4
+        currentPotential: 2
+      - subCat: "Boxing"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Soccer"
+        defaultPotential: 0
+        maxPotential: 4
+        currentPotential: 0
+    - expertName: "Tailgater"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: fa91ac63014748729808bea428be032c, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Football"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Auto Racing"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Cricket"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+    - expertName: "Referee"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 22c4bdc72e4d4e4c9f390593eef03686, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Hockey"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "College Sports"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Boxing"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Little League Coach"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: af97f3a4ab0f49009875ac85a8c82ee8, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Baseball"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "College Sports"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Olympics"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Country Clubber"
+      rarity: 4
+      mySprite: {fileID: 21300000, guid: 026c08d964a64898906c93c5f69a6946, type: 3}
+      totalPotential: 18
+      totalDefault: 7
+      myProfs:
+      - subCat: "Tennis"
+        defaultPotential: 4
+        maxPotential: 5
+        currentPotential: 4
+      - subCat: "Golf"
+        defaultPotential: 2
+        maxPotential: 4
+        currentPotential: 2
+      - subCat: "Cricket"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Olympics"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Boxing"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Auto Racing"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+    - expertName: "Commissioner "
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: c83de17dc644438fb2841705670a46c8, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "Auto Racing"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "Golf"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Basketball"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Olympics"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Tennis"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+    - expertName: "Pitching Coach"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: 9db554435d5043a9bc342bd0a2b7c48a, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Cricket"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Baseball"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "College Sports"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Sports Photographer"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: 0fdf3ccc3528483e952dad1f5bb56297, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "Soccer"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Football"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Baseball"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+      - subCat: "Golf"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Bookie"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: a46dc1059a99410ba6115b2d59fcdc4f, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Boxing"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Soccer"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Auto Racing"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    - expertName: "Gold Medalist"
+      rarity: 3
+      mySprite: {fileID: 21300000, guid: d9ba78d756094df9becdf29dfb3ba1ba, type: 3}
+      totalPotential: 15
+      totalDefault: 5
+      myProfs:
+      - subCat: "Olympics"
+        defaultPotential: 3
+        maxPotential: 5
+        currentPotential: 3
+      - subCat: "Baseball"
+        defaultPotential: 1
+        maxPotential: 4
+        currentPotential: 1
+      - subCat: "Hockey"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+      - subCat: "Basketball"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Tennis"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Gopher"
+      rarity: 1
+      mySprite: {fileID: 21300000, guid: a108510e70aa45079f0504ec85abd8f6, type: 3}
+      totalPotential: 9
+      totalDefault: 1
+      myProfs:
+      - subCat: "Golf"
+        defaultPotential: 1
+        maxPotential: 5
+        currentPotential: 1
+      - subCat: "Soccer"
+        defaultPotential: 1
+        maxPotential: 2
+        currentPotential: 1
+      - subCat: "Football"
+        defaultPotential: 0
+        maxPotential: 2
+        currentPotential: 0
+    - expertName: "Super Fan"
+      rarity: 2
+      mySprite: {fileID: 21300000, guid: a9d9ee7affce4ead91a5318a5c4662f3, type: 3}
+      totalPotential: 12
+      totalDefault: 3
+      myProfs:
+      - subCat: "College Sports"
+        defaultPotential: 2
+        maxPotential: 5
+        currentPotential: 2
+      - subCat: "Hockey"
+        defaultPotential: 1
+        maxPotential: 3
+        currentPotential: 1
+      - subCat: "Football"
+        defaultPotential: 0
+        maxPotential: 3
+        currentPotential: 0
+      - subCat: "Basketball"
+        defaultPotential: 0
+        maxPotential: 1
+        currentPotential: 0
+    upgradeOnlyEcon: 0

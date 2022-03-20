@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 688bf775d0a543d3ad8e88ce4b9cd1ec
+timeCreated: 1647776338
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "BalboaPlus-Fill"
+  fontNames:
+  - BalboaPlus
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

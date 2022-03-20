@@ -1,0 +1,600 @@
+FTUX047	Marcas	0	Kellogg hace pasteles para usar en el tostador con glaceado, ¿cómo se llaman?	Fruit Pies	Swiss Rolls	Twinkies	Pop Tarts
+FTUX36	Marcas	0	¿Por qué se conoce a "Hewlett Packard" (HP)?	Maquillaje	Ropa interior	Comida rápida	Impresoras
+FTUX051	Marcas	0	¿Cuál de estos NO es un lugar donde pueda comprar pizza?	Papa John's	Domino's	Little Caesars	Arby's
+FTUX28	Marcas	0	¿De qué color es una envoltura de "Reese's Peanut Butter Cup"?	Verde	Azul	Rosado	naranja
+40E2729	Marcas	0	¿Qué marca te vendería un coche?	Gillette	IKEA	Gucci	Toyota
+FTUX40	Marcas	0	¿Pringles es una marca de qué?	Jabón	Pelotas de tenis	Galletas	Papas fritas
+FTUX35	Marcas	0	¿El lema de qué empresa es "Come fresco"?	McDonalds	Taco Bell	Burger King	Subway
+FTUXPIC55	Marcas	0	¿Qué navegador de Internet utiliza este logotipo?	Internet Explorer	Edge	Oracle	Firefox
+60E1069	Marcas	0	Si quisieras comprar zapatillas, ¿qué marca buscarías?	Gillette	Disney	Shell	Adidas
+FTUXPIC44	Marcas	0	¿De quién es este logo?	Pepsi	Walmart	Ebay	PayPal
+FTUX060	Marcas	0	CNN es un canal de cable que muestra qué tipo de programación?	Lo más destacado de la lucha libre profesional	Los últimos dibujos animados	Repeticiones de Star Trek	Las noticias
+60E2849	Marcas	0	¿Qué marca tiene que ver con la belleza y el cuidado personal?	Disney	American Express	J.P. Morgan	L'Oreal Paris
+FTUX068	Marcas	0	¿Qué cerveza holandesa viene en una famosa botella verde?	Dr. Pepper	Capri Sun	Bud Light	Heineken
+FTUX27	Marcas	0	¿A qué establecimiento de comida rápida pertenece el "McRib"?	Taco Bell	Kentucky Fried Chicken	Burger King	McDonalds
+60E1409	Marcas	0	Si quisiera comprar un automóvil, ¿qué marca podría proporcionarlo?	FedEx	Disney	Dell Technologies	BMW
+FTUX054	Marcas	0	¿Qué tipo de animal es la mascota de Frosted Flakes?	Bee	Toucan	Frog	Tiger
+FTUX053	Marcas	0	¿Qué empresa de tecnología japonesa es conocida por PlayStation, televisores y otros dispositivos?	Dippin' Dots	A&W	Marriott	Sony
+0DIF100	Marcas	0	¿Qué hace Ghirardelli?	Panqueques	Salchichas	Jarabe para la tos	Chocolate
+FTUXPIC41	Marcas	0	¿De quién es este logo?	Verizon	Western Union	Tesla	AT&T
+FTUX069	Marcas	0	¿Qué compañía de gas tiene una criatura marina como nombre y logotipo?	Sea Urchin	Starfish	Orca	Shell
+FTUX42	Marcas	0	¿Qué animal aparece en el cereal "Froot Loops"?	Vaca	Gato	Pescado	Tucán
+FTUXPIC58	Marcas	0	¿Qué servicio web utiliza este logotipo?	Yamaha	YouTube	Yelp	Yahoo!
+60E1689	Marcas	0	¿Qué marca elegirías si tuvieras sed?	Visa	Facebook	Verizon	Coca-Cola
+FTUX44	Marcas	0	¿Qué empresa tiene un patrón a cuadros en su logotipo?	Apple	Android	Honda	BMW
+40E2269	Marcas	0	¿Cuál de estas es una marca tecnológica?	Mercedes-Benz	Costco	Chase	Oracle
+FTUXPIC39	Marcas	0	¿Qué sitio de enciclopedia utiliza este logotipo?	National Geographic	Scrabble	Merriam Webster	Wikipedia
+60E2509	Marcas	0	¿Qué marca podría venderle muebles?	Canon	Sony	Nescafe	IKEA
+0DIF95	Marcas	0	¿Cuál de los siguientes no vende gas?	Shell	Chevron	76	IBM
+60E2929	Marcas	0	¿Qué marca está vinculada a la tecnología?	Uber	Walmart	Wells Fargo	LinkedIn
+FTUX063	Marcas	0	Si necesita una tarjeta de crédito, ¿a qué compañía probablemente acudiría?	Nintendo	eBay	Spotify	Mastercard
+FTUX058	Marcas	0	¿Los videos musicales, noticias musicales y otra programación fueron el propósito original de qué canal de televisión?	TBS	Discovery Channel	Food Network	MTV
+FTUX041	Marcas	0	¿Cuál de estas NO es una marca de refresco?	Coca-Cola	Pepsi	Mountain Dew	Jack Daniels
+0DIF86	Marcas	0	¿Cuál de los siguientes es un proveedor de telecomunicaciones?	Mastercard	Ford	Microsoft	Xfinity
+FTUX26	Marcas	0	¿Cuál de las siguientes empresas vende café?	Sears	Champion	Neutrogena	Starbucks
+0DIF93	Marcas	0	¿Uber ofrece qué servicio?	Médico	Transmisión	Entrega de paquetes	Transporte
+60E2689	Marcas	0	¿Qué marca puede venderle un tractor?	Lego	Prada	Adobe	John Deere
+0DIF81	Marcas	0	¿Por qué es más conocido Volkswagen?	Los telefonos	Radios	Bombillas	Carros
+0DIF82	Marcas	0	¿Qué tipo de producto fabrica Pampers?	Carros	Loción	Ordenadores	Pañales
+FTUX049	Marcas	0	Si está usando una tableta Surface para buscar sugerencias para su juego de Xbox One, ¿a qué compañía está apoyando?	Disney	Dell	Coca-Cola	Microsoft
+FTUXPIC47	Marcas	0	¿Quién fabrica este coche?	Mazda	Audi	Honda	Subaru
+FTUX33	Marcas	0	¿Qué empresa de automóviles tiene una "H" en su logotipo?	Toyota	Mazda	Ford	Honda
+60E2589	Marcas	0	¿Qué marca se ocupa de la tecnología y las redes sociales?	Pepsi	McDonald's	Nike	Instagram
+FTUX050	Marcas	0	Si quisieras conseguir una caja de donas en un drivethrough, ¿a qué cadena de restaurantes irías?	Applebee's	Panda Express	Olive Garden	Krispy Kreme
+FTUXPIC38	Marcas	0	¿Quién hizo esta consola?	Sony	Microsoft	Steam	Nintendo
+FTUX34	Marcas	0	¿Cuál de los siguientes productos vende la empresa "Tesla, Inc."?	Plátanos	Los telefonos	Pantalones de yoga	Carros
+40E2769	Marcas	0	¿Qué marca usarías para compartir viajes?	Walmart	Gillette	Target	Uber
+FTUX067	Marcas	0	¿Qué lema de la compañía de seguros sugiere que la compañía "está de su lado"?	WWE	Gamestop	NBA	Nationwide
+40E2659	Marcas	0	¿Cuál de estas marcas tiene su sede en Seattle, Washington?	L'Oreal Paris	Huawei	Gucci	Starbucks
+FTUX30	Marcas	0	¿Cuál de los siguientes refrescos tiene un color claro?	Dr. Pepper	Coca Cola	Pepsi	Sprite
+FTUXPIC57	Marcas	0	¿Qué tipo de bebidas son estas?	Bebidas proteicas	Jugos orgánicos	Agua con gas	Bebidas energizantes
+FTUX059	Marcas	0	¿Qué cadena minorista masiva es uno de los mayores empleadores en los Estados Unidos?	Burger King	NASA	Warner Bros.	Wal-Mart
+40E2039	Marcas	0	Si quisieras desinfectar, ¿qué marca usarías?	Budweiser	Nike	Adobe	Lysol
+FTUXPIC35	Marcas	0	¿Quién hace esta comida?	Taco Bell	Arby's	KFC	McDonalds
+FTUXPIC54	Marcas	0	¿Qué empresa de tecnología utiliza este logotipo?	Sony	Apple	Google	Microsoft
+40E2449	Marcas	0	¿A qué tipo de marca se ubicaría Costco?	Carros	Entretenimiento	Seguro	Al por menor
+40E2879	Marcas	0	¿Qué marca está involucrada con los juegos?	Citi	ExxonMobil	KFC	Xbox
+0DIF89	Marcas	0	¿Qué compañía fabricó el Galaxy S9?	Motorolla	Google	Apple	Samsung
+FTUX29	Marcas	0	¿En qué consiste el logo de Google?	Ojos saltones	Una bola roja	Una esfera naranja	La letra "G"
+0DIF94	Marcas	0	¿Qué tienda minorista requiere una membresía?	Petco	Target	Walmart	Costco
+FTUX052	Marcas	0	¿Qué sitio web visitaría para ver los últimos vlogs u otros videos?	Ask Jeeves	CarFax	Adidas	YouTube
+0DIF98	Marcas	0	Gillette es conocida por hacer ¿qué?	Armas	Champú para perros	Tirantes	Navajas
+FTUX042	Marcas	0	Heinz es más conocido como fabricante de ¿qué?	Napalm	Tablas de surf	Televisores	Salsa de tomate
+FTUXPIC43	Marcas	0	¿Qué empresa de tecnología utiliza este logotipo?	Apple	Microsoft	Google	Android
+FTUX056	Marcas	0	¿Harley-Davidson es una empresa que fabrica qué forma de transporte?	Submarines	Rocketships	Hoverboards	Motorcycles
+0DIF90	Marcas	0	¿Qué plataforma de redes sociales tiene un logo que parece una cámara?	Twitter	MySpace	Facebook	Instagram
+FTUX044	Marcas	0	Si necesitara un paquete entregado a alguien, ¿qué compañía usaría?	Apple	Google	Costco	FedEx
+40E2359	Marcas	0	¿American Express estaría en qué categoría de marca?	Vestir	Seguro	Carros	Pagos
+FTUXPIC49	Marcas	0	¿Quién fabrica este coche?	Toyota	Jeep	Dodge	Tesla
+0DIF85	Marcas	0	¿Qué empresa de ropa vende zapatos con un logotipo de marca de verificación?	Levis	Calvin Klein	Disney	Nike
+40E2029	Marcas	0	Si necesitara un martillo, ¿de qué marca lo compraría?	Pampers	Budweiser	Adidas	Lowe's
+FTUX39	Marcas	0	¿Qué bebida energética "te da alas"?	Monster	Rockstar	Bang	Red Bull
+FTUX066	Marcas	0	¿Qué marca famosa de pantalones de mezcilla azules se remonta a la época de la fiebre del oro?	Nike	Sony	NFL	Levi's
+FTUXPIC42	Marcas	0	¿Qué logotipo de redes sociales es este?	Facebook	Tumblr	Instagram	Twitter
+0DIF88	Marcas	0	¿Cuál de las siguientes no es una tienda minorista?	Kohls	Target	Walmart	Netflix
+40E2629	Marcas	0	¿Qué marca usarías para entretenimiento?	Gucci	Gillette	DHL	Spotify
+0DIF84	Marcas	0	¿Marlboro vende qué?	Flores	Televisores	Chocolate	Cigarrillos
+FTUXPIC48	Marcas	0	¿Quién fabrica este coche?	Hyundai	Tesla	BMW	Audi
+40E2699	Marcas	0	¿Cuál de las siguientes es una marca minorista?	Netflix	Wells Fargo	Spotify	Target
+0DIF83	Marcas	0	¿Cuál de los siguientes es un proveedor de servicios telefónicos?	Subway	Horizon	Quicken	AT&T
+FTUX38	Marcas	0	¿Cuál de las siguientes es una marca de computadora?	Adidas	Calvin Klein	Gucci	Asus
+FTUXPIC46	Marcas	0	¿Qué empresa fabrica este coche?	Volkawagen	Hyundai	Subaru	Toyota
+FTUX048	Marcas	0	Si quisiera participar en una subasta en línea, ¿qué sitio web visitaría?	Buzzfeed	YouTube	Instagram	eBay
+FTUX046	Marcas	0	¿Qué tipo de productos vende la tienda sueca IKEA?	Filetes	Espadas	Pintura de dedos	Mueble
+FTUXPIC53	Marcas	0	¿Quién hace estos zapatos?	Nike	Under Armour	Sketchers	Adidas
+FTUX043	Marcas	0	¿El coronel Sanders es el fundador y la mascota de qué empresa de comida rápida?	In N Out Burger	Shake Shack	Hardee's	KFC
+FTUXPIC45	Marcas	0	¿Qué empresa fabrica este coche?	BMW	Honda	Audi	Volkswagen
+40E2819	Marcas	0	¿Cuál de las siguientes es una marca minorista?	J.P. Morgan	Budweiser	Uber	Walmart
+FTUXPIC56	Marcas	0	¿De quién es esta mascota?	Walmart	Safeway	Kaiser Permanente	Target
+40E2019	Marcas	0	¿Qué marca elegiría para artículos de lujo?	Shell	Budweiser	Walmart	Louis Vuitton
+0DIF92	Marcas	0	¿En qué consiste el logo de Twitter?	Una T naranja	Un bocadillo azul	Un teléfono rojo	Un pájaro azul
+FTUX064	Marcas	0	¿Qué empresa sueca tiene el nombre más importante de transmisión de música?	Toshiba	WWE	Nintendo	Spotify
+60E1729	Marcas	0	¿Qué marca podrías usar para cepillarte los dientes?	Morgan-Stanley	Cartier	Birds Eye	Colgate
+0DIF96	Marcas	0	¿Cuál de las siguientes es una marca de pasta de dientes?	Advil	Cetaphil	Pantene	Colgate
+FTUXPIC32	Marcas	0	¿Qué navegador web utiliza este logotipo?	Oracle	Internet Explorer	Firefox	Google Chrome
+FTUXPIC37	Marcas	0	¿Qué marca de coches tiene este emblema?	Hyundai	Audi	BMW	Honda
+FTUX057	Marcas	0	¿Mars hace qué marca de dulces de chocolate pequeños de cáscara dura?	Baby Ruths	Mars Bars	Skittles	M&M's
+FTUXPIC36	Marcas	0	¿Qué empresa utiliza este logotipo?	Adidas	Tesla	Amazon	Nike
+FTUXPIC33	Marcas	0	¿A qué empresa pertenece?	Loreal Paris	Islands	Louis Vuitton	Starbucks
+40E2439	Marcas	0	¿Qué categoría de marca sería Wells Fargo?	Entretenimiento	Carros	Al por menor	Bancos regionales
+40E2579	Marcas	0	¿Cuál de estas marcas es conocida por la gasolina?	Budweiser	Adobe	Target	Shell
+FTUX070	Marcas	0	¿Qué canal de televisión tiene un pavo real como logo?	Showtime	YouTube	Kelloggs	NBC
+40E2159	Marcas	0	¿Qué marca buscaría para el entretenimiento?	Shell	Mercedes-Benz	Subway	Netflix
+FTUXPIC52	Marcas	2	¿Quién hace este controlador?	Apple	Nintendo	Microsoft	Sony
+FTUX055	Marcas	0	¿Qué ladrillos de colores son uno de los juguetes más populares del mundo?	Transformers	Tonka Trucks	Barbies	LEGO
+FTUXPIC59	Marcas	0	¿Qué pizzería usa este logo?	Pizza Hut	Round Table	New York Pizza	Dominos
+0DIF91	Marcas	0	¿Budweiser vende principalmente qué?	Leche	Jugo	soda	Cerveza
+FTUX41	Marcas	0	¿Haribo es una marca de qué tipo de dulces?	Mentas	Chocolates	Polvo agrio	Ositos de goma
+FTUX061	Marcas	0	¿Cuál de estas es una marca de mentas pequeñas que vienen en un recipiente de plástico?	Dairy Queen	Panasonic	Beats By Dre	Tic-Tacs
+FTUXPIC40	Marcas	0	¿Qué logotipo de redes sociales es este?	Facebook	Snapchat	Pinterest	Instagram
+40E2069	Marcas	0	¿Qué marca elegirías si tuvieras hambre?	eBay	Zara	American Express	McDonald's
+40E2679	Marcas	0	¿Qué marca elegirías si tuvieras hambre?	FedEx	Dell Technologies	Bank Of America	Subway
+40E2719	Marcas	0	¿La marca Xfinity estaría en qué categoría?	Comida rápida	Al por menor	Bebidas	Proveedor de telecomunicaciones
+60E2209	Marcas	0	¿Cuál es una marca de tecnológica?	Chanel	UPS	Disney	Google
+FTUX25	Marcas	0	¿Qué empresa fabrica el iPhone?	Tesla	Samsung	Dove	Apple
+FTUXPIC50	Marcas	0	¿Quién fabrica estos productos?	Microsoft	Android	Sony	Apple
+0DIF97	Marcas	0	¿Aveeno es conocido por hacer cuál de los siguientes?	Jugo	Analgésicos	Bebidas energizantes	Loción
+FTUXPIC34	Marcas	0	¿Quién hace esta comida?	McDonalds	Burger King	Wendy's	Taco Bell
+40E2479	Marcas	0	Si estuviera buscando una marca de tecnología, ¿cuál elegiría?	Starbucks	McDonald's	American Express	Samsung
+40E2899	Marcas	0	¿Qué marca usarías para entretenimiento?	Lysol	The Home Depot	Gillette	YouTube
+40E2709	Marcas	0	¿La marca Microsoft se consideraría en qué categoría?	Al por menor	Comida rápida	Tabaco	Tecnología
+60E2889	Marcas	0	¿Qué marca usaría un niño si quisiera construir?	Prada	Tiffany & Co.	Jack Daniels	Lego
+0DIF87	Marcas	0	¿Cuál de los siguientes es un banco?	Atari	Sprint	Facebook	Wells Fargo
+FTUX065	Marcas	0	¿Qué empresa fabrica calzado deportivo y lleva el nombre de un gran felino?	Liger	Lynx	Tion	Puma
+FTUX32	Marcas	0	¿Qué marca utilizó el eslogan que comenzaba con "Quizás ella nació con eso"?	Asus	Apple	Bounty	Maybelline
+FTUX43	Marcas	0	¿Cuál de las siguientes es una marca de café?	Dove	Nike	Dasani	Folgers
+FTUX31	Marcas	0	¿FedEx es una empresa que ofrece qué?	Lavados de autos	Seguro de auto	tratamientos de spa	Servicio de entrega
+60E1849	Marcas	0	¿Qué marca buscaría para el entretenimiento?	Toyota	FedEx	Gillette	Disney
+FTUX045	Marcas	0	¿Cuál de estas es una empresa de tarjetas de crédito?	Marvel	Animal Planet	KFC	Visa
+60E2749	Marcas	0	Si buscaba desayuno, ¿qué marca podría proporcionarlo?	Birds Eye	Converse	Cadbury	Kellogg's
+FTUX37	Marcas	0	¿Qué empresa vendió la consola GameCube?	Canon	HP	Sony	Nintendo
+60E2629	Marcas	0	¿Qué marca está involucrada con la banca?	IKEA	Pampers	Colgate	Western Union
+299231	Marcas	1	¿Qué empresa ha utilizado el lema publicitario "Realmente movemos nuestra cola por usted"?	Expedia	Wilkinson	McDonald's	Continental Airlines
+1DIFB15	Marcas	1	¿Cuál de estas empresas NO fabrica computadoras?	Acer	Toshiba	Apple	Gold Bond
+299805	Marcas	1	¿Qué empresa ha utilizado el lema publicitario "¿Cuántas barras tienes?"	Clairol Herbal Essences	Roto-Rooter	Winn Dixie	AT&T
+190930	Marcas	1	Para la marca de moda "DKNY", ¿qué significan las iniciales?	Don't Know No Youths	David Krystal New York	Deeper Kneading Needs Yeast	Donna Karan New York
+345185	Marcas	1	¿Qué producto fabrica Kellogg's?	YSL Cologne	Slice Soda	Tab	Raisin Bran
+525206	Marcas	1	¿Qué producto fabrica PepsiCo?	Cracker Jacks	Preserves	Sneakers	Slice Soda
+299839	Marcas	1	¿Qué producto fabrica Nabisco?	Film	Floor Cleaning Machines	Paper Glue	Oreo Cookies
+494395	Marcas	1	¡Dos para mí, ninguno para ti! ha sido el eslogan del anuncio de qué empresa?	BMW	Renault	Like Cola	Twix
+190948	Marcas	1	¿Qué empresa es la creadora de Cheerios?	Brita	Proctor Silex	Godiva	General Mills, Incorporated
+FTUXPIC31	Marcas	1	¿Qué logotipo de redes sociales es este?	MySpace	Instagram	Tumblr	Facebook
+190931	Marcas	1	¿Qué empresa ha utilizado el eslogan del anuncio "Porque lo valgo"?	7UP	Alton Towers	American Airlines	L'Oreal
+1DIFB31	Marcas	1	¿Elon Musk fundó qué marca de automóvil?	Studebaker	Ford	Packard	Tesla
+191029	Marcas	1	¿Qué anunciante utilizó la frase "No puedo creer que me comí todo"?	Domino's Pizza	Duncan Hines	Pepto Bismol	Alka Seltzer
+324653	Marcas	1	¿Qué cereal de desayuno tiene un duende llamado Lucky?	Trix	Froot Loops	Cheerios	Lucky Charms
+190938	Marcas	1	¿Qué producto fabrica PepsiCo?	Band-Aids	Heath Bar	Reese's Pieces	Aquafina
+60E1669	Marcas	1	¿Cuál de las siguientes es una marca de tecnología?	Coca-Cola	Louis Vuitton	The Home Depot	Cisco
+489668	Marcas	1	¿Qué lema de la mascota del cereal era "¡Quiero comerme tu cereal!" dicho con acento?	Kix Rabbit	Snap	Frankenberry	Conde Chocula
+255007	Marcas	1	¿Qué empresa es el fabricante del perfume "White Diamonds"?	Kraft	Die Hard	Sealy	Elizabeth Taylor
+1DIFB21	Marcas	1	¿Cuál es el nombre de yogur para niños de Yoplait, servido en un tubo exprimible?	Dunkaroos	Fruit by the Foot	Gushers	Go-Gurt
+1DIFB04	Marcas	1	¿Qué empresa de alimentos es conocida por sus galletas, chocolate caliente y más?	Papa John's	Ben & Jerry's	Kraft	Nestlé
+299351	Marcas	1	¿Qué empresa ha utilizado el eslogan publicitario "Los viajes deberían llevarte a lugares"?	Halifax	Schlitz	Bounty	Hilton
+60E1169	Marcas	1	¿Zara estaría en qué categoría de marca?	Pagos	Bebidas	Seguro	Vestir
+FTUXPIC51	Marcas	1	¿Qué empresa de distribución de juegos utiliza este logotipo?	Microsoft	Google	Apple	Steam
+202730	Marcas	1	¿Quién fabrica el SUV Navigator?	BMW	Lexus	Cadillac	Lincoln
+349681	Marcas	1	¿Qué empresa es fabricante de rosquillas?	Reynolds Wrap	Frito Lay	Godiva	Entenmann's
+190978	Marcas	1	¿Qué empresa es fabricante de guitarras eléctricas?	Valvoline	Mead Johnson	Amurol Confections Company	Gibson
+349700	Marcas	1	¿Cuáles son los servicios publicitarios en línea de Google para comprar palabras clave en sus resultados de búsqueda?	Google Adsense	Google Market	Google Play	Google Adwords
+191340	Marcas	1	¿Qué producto fabrica Coca-Cola Company?	Basketballs	Bubbletape	Computer Modems	Sprite
+512317	Marcas	1	"Todas las noticias aptas para imprimir" ha sido el lema publicitario de qué empresa.	Irish Independent	Playboy	Teen Magazine	The New York Times
+349586	Marcas	1	¿Qué restaurante de comida rápida tiene un sombrero de vaquero como logo?	Subway	Burger King	McDonald's	Arby's
+1DIFB10	Marcas	1	¿Qué marca de chicle te invita a "estimular tus sentidos"?	Big League Chew	Extra	Juicy Fruit	5 Gum
+FTUX062	Marcas	1	¿El logotipo de Wells Fargo presenta un carruaje tirado por qué animal?	Elefante	Unicornio	Burro	Caballo
+202744	Marcas	1	¿Qué concesionario de automóviles vende Vipers?	Buick	Chrysler	Ford	Dodge
+271102	Marcas	1	¿Qué fabricante de automóviles produjo el RX-7?	Toyota	Jaguar	Datsun	Mazda
+1DIFB02	Marcas	1	¿Qué empresa suiza crea relojes de lujo?	Kirkland Signature	Microsoft	Toshiba	Rolex
+1DIFB28	Marcas	1	¿Qué logotipo de servicio de transmisión de música es una letra azul "P"?	Spotify	Steam	Discord	Pandora
+1DIFB14	Marcas	1	El restaurante IHOP es un acrónimo que significa "International House of" ¿qué?	Prune Juice	Pencils	Punk Rock	Pancakes
+202755	Marcas	1	¿Qué compañía de automóviles fabricó el Elantra?	Toyota	Chrysler	Ford	Hyundai
+299403	Marcas	1	¿Qué producto patrocinó originalmente la caricatura televisiva "The Flintstones"?	Zest Soap	Colgate Toothpaste	Ban Deodorant	Winston Cigarettes
+92848	Marcas	1	¿Qué empresa ha utilizado Breakfast Of Champions como lema publicitario?	Birdseye	Home Depot	Petro-Canada	Wheaties
+191047	Marcas	1	¿Qué empresa es fabricante de baterías?	Hersheys	Lucas Arts	Ronzoni	Duracell
+72218	Marcas	1	¿Qué empresa ha utilizado It's Better With The Butterfly (Es mejor con la mariposa) como lema publicitario?	Shredded Wheat	Sun Microsystems	Hughes Air West	Microsoft
+299845	Marcas	1	¿Cuál de estos es un auto Ford?	Neon	Spectra	Prelude	Focus
+31276	Marcas	1	¿Qué producto fabrica Fender?	Sierra Mist	Salsa de tomate	Motocicletas	Guitarra Telecaster
+512336	Marcas	1	¿Cuál de los siguientes es realmente un alimento de McDonald's?	McBacon And Cheese	McChickie Sandwich	McTuna Salad Sandwich	McRib Sandwich
+1DIFB22	Marcas	1	Si quisieras una Chalupa, unos Doritos Locos Tacos y una Baja Blast, ¿a dónde irías?	Burger King	Del Taco	IHOP	Taco Bell
+512348	Marcas	1	¿Qué empresa ha utilizado el lema publicitario "Demasiado bueno para apresurar las mentas"?	Oldsmobile	Topic	Heineken	Murray Mints
+255417	Marcas	1	¿"Can't Beat The Real Thing" (No se puede vencer el original) ha sido el lema publicitario de qué empresa?	Frito Lay	Pepsi	Del Monte	Coke
+512342	Marcas	1	¿"¿Cómo abarrotan todo ese Graham?" ha sido el eslogan del anuncio de qué empresa?	Subway	Quaker	Nestle	Golden Grahams
+202741	Marcas	1	¿Qué restaurante de comida rápida vende el "Whopper"?	McDonalds	Arby's	Subway	Burger King
+299342	Marcas	1	¿Qué eslogan publicitario ha promocionado Staples?	The Listening Place	Power Lunch	GOTTALOVEIT	That Was Easy
+191049	Marcas	1	¿Qué empresa fabrica pegamento para papel?	General Mills, Incorporated	Capital One	Microsoft	Elmer's
+304015	Marcas	1	¿Qué lema de cereales comienza con "Conejo tonto" y termina con "son para niños"?	Kix	Cheerios	Frosted Flakes	Trix
+191093	Marcas	1	¿Qué producto fabrica Ben and Jerry's?	Lunchables	Afeitadora eléctrica	Cheetos	Helado
+299843	Marcas	1	¿Qué tipo de bebida es más conocida por producir Mott's?	soda	Agua	Leche	Jugo
+191220	Marcas	1	¿Cómo se llaman las comidas para niños en McDonald's?	Children's Meal	Happy Box	Mini Meal	Happy Meal
+494400	Marcas	1	¿Qué producto fabrica Nintendo?	Computadora	Los fondos de inversión	Ropa interior	Videojuegos
+1DIFB08	Marcas	1	Green Giant es conocida como una empresa que vende qué objetos enlatados y congelados	Televisores	Patatas fritas	Tarjetas de crédito	Vegetales
+489670	Marcas	1	¿Qué empresa es el fabricante de la goma de mascar Juicy Fruit?	Mars	Nestle	Dansani	Wrigley
+299452	Marcas	1	¿Qué producto fabrica Coca Cola Company?	Ysl Cologne	Cereal	Lunchables	Powerade
+299224	Marcas	1	¿Qué empresa ha utilizado el lema publicitario "Donde un niño puede ser niño"?	Bronx Zoo	Sesame Street	Disney World	Chuck E. Cheese's
+191227	Marcas	1	¿Qué felino peludo es conocido como el "portavoz" de Cheetos?	Felix the Cat	Sylvester	Chuck E. Cheese	Chester Cheetah
+202751	Marcas	1	¡Me he caído y no puedo levantarme! era el lema del anuncio de la empresa	Stater Brothers	Transamerica	Listerine	Life Alert
+1DIFB16	Marcas	1	¿La WWE, anteriormente conocida como WWF, es conocida como qué tipo de empresa?	Transmisión de música	Fabricación de computadoras	Fruta fresca	Lucha libre profesional
+489674	Marcas	1	¿Qué papas fritas están empaquetadas en una lata?	Wise	Funyuns	Lays	Pringles
+190953	Marcas	1	¿Qué dibujo animado famoso está asociado con las variedades de cereales "Pebbles"?	The Jetsons	SpongeBob SquarePants	Pokemon	The Flintstones
+318124	Marcas	1	¿Qué producto fabrica Hershey's?	Wheat Thins	Mello Yello	Basketballs	Milk Duds
+295626	Marcas	1	Según el comercial, ¿cuál es el "tejido de nuestras vidas"?	Spandex	Gasa junto con organza	Látex	Algodón
+226137	Marcas	1	¿Qué producto fabrica PepsiCo?	Kleenex	Trident Gum	Garage Door Openers	Mountain Dew
+3612	Marcas	1	¿Qué lema publicitario ha sido promovido por ESPN?	Ve a por ello	Saltando a través de aros	Vea la luz	Esto es Sportscenter
+299465	Marcas	1	¿Qué producto fabrica Friskies?	L&M Cigarettes	Software de videojuegos	Zapatillas	Comida de gato
+299494	Marcas	1	¿Qué empresa ha vuelto a poner la diversión en la conducción?	Las Vegas	Country Life Butter	Energizer Batteries	Vauxhall Motors
+1DIFB24	Marcas	1	¿Qué lema de la tienda de ropa es "Te va a gustar tu apariencia, te lo garantizo"?	Hulu	GAP	Sven's Bearhouse	Men's Wearhouse
+525198	Marcas	1	¿Qué empresa ha utilizado Clean, Clear And Under Control (Limpio, claro y bajo control) como lema publicitario?	Papa John's	Pepsi	Albertson's	Clean And Clear
+349630	Marcas	1	¿Qué empresa ha utilizado Milk: It Does A Body Good (Leche: le hace bien al cuerpo) como lema publicitario?	Chrysler	Texaco Service Stations	Perdue	National Dairy Council
+350101	Marcas	1	¿Qué corporación importante usa el lema "Go Brown"?	McDonald's	Wal-Mart	Nike	Ups
+40769	Marcas	1	¿Qué símbolo tiene la zapatilla Chuck Taylor?	Luna	Flor	Cuadrado	Estrella
+282951	Marcas	1	¿Qué empresa ha utilizado como lema publicitario No Battery Is Stronger Longer (Ninguna batería dura más)?	Cox Communications	Reebok	Chuck E. Cheese's	Duracell Batteries
+FTUXPIC60	Marcas	1	¿Quién fabrica este producto?	Logitech	Toshiba	Sony	Beats Electronics
+191222	Marcas	1	¿Qué empresa es el fabricante de Energy Bars?	Wrigley	Yves Saint Laurent	Timex	Gatorade
+1DIFB11	Marcas	1	¿Qué compañía de café se "esfuerza por ser la mejor parte del despertar"?	Pete's	Dunkin	5 Hour Energy	Folgers
+1DIFB06	Marcas	1	¿Qué marca de chips está hecha para parecerse a los aros de cebolla?	Cheetos	Sun Chips	Twinkies	Funyuns
+190929	Marcas	1	¿Qué refresco se comercializó como "Uncola"?	A&W Root Beer	Sprite	Sunkist	7UP
+345162	Marcas	1	¿Qué fabricante de automóviles fabrica el Altima?	Buick	Chevrolet	Kia	Nissan
+1DIFB17	Marcas	1	¿Qué famosa salsa picante proviene de Louisiana?	Heinz	Hersheys	Juicy Fruit	Tabasco
+202223	Marcas	1	¿Qué empresa ha utilizado el lema publicitario "Apuesto a que no se puede comer solo uno"?	Planters Peanuts	Cheetos	Jelly Belly Jelly Beans	Lay's Potato Chips
+1DIFB09	Marcas	1	¿Qué cadena de restaurantes estadounidense es conocida por sus sandwiches tostados?	Baskin Robbins	Ghirardelli	Ben & Jerrys	Quiznos
+349650	Marcas	1	¿Qué auto compacto de estilo retro Chrysler dejó de producirse en 2010?	VP Cruiser	HB Cruiser	AZ Cruiser	PT Cruiser
+100073	Marcas	1	¿Qué fabricante de automóviles fabrica el Rav4?	Volkswagen	Nissan	Jaguar	Toyota
+299842	Marcas	1	¿Qué producto fabrica Bazooka?	Galletas	Aspiradora	Pegamento de papel	Chicle
+345186	Marcas	1	¿Qué empresa es conocida por producir muñecas "Barbie"?	Hasbro	Milton Bradley	Parker Brothers	Mattel
+1DIFB12	Marcas	1	Apple es conocida por muchos productos, pero ¿cómo se conoce su marca de tabletas?	iPod	iTablet	iWindow	iPad
+186082	Marcas	1	¿Cuál de estos productos está fabricado por Bayer Corporation?	Kit Kat Bar	Garage Door Openers	Swatch Watches	Alka Seltzer
+295623	Marcas	1	¿Por qué producto es famoso Crayola?	Tejidos	Comida de perro	Camas	Lápices de color
+356988	Marcas	1	¿Qué producto fabrica Dasani?	champán	Galletas para perro	Hierros	Agua
+1DIFB27	Marcas	1	¿Qué bebida tiene el logotipo de la letra G con un rayo a través de ella?	Google	Guiness	Grey Goose	Gatorade
+202736	Marcas	1	¿Aqua Velva es un calmante para la piel que los hombres aplican después de hacer qué?	Dormido	Comiendo	Conducción	Afeitado
+345300	Marcas	1	¿Qué restaurante es famoso por su comida "Grand Slam"?	Carrows	Rainforest Cafe	TGI Fridays	Denny's
+365475	Marcas	1	Clean & Clear es un producto elaborado para la limpieza diaria ¿de qué?	Lengua	Uñas	Garganta	Piel
+494376	Marcas	1	¿Qué producto fabrica Nike?	Lavaplatos	Bebidas energizantes	Whisky	Zapatillas
+1DIFB29	Marcas	1	¿Qué dulce popular tiene el lema "No hay forma incorrecta de comer un _____"?	Goldfish	Whatchamacallit	Crunch	Reese's
+363764	Marcas	1	¿Cuál de estas es una marca de comida para gatos?	Miltons	Amazon	Starkist	Friskies
+202734	Marcas	1	¿Qué marca de cosméticos Proctor and Gamble es otro término para un modelo de revista?	Max Factor	St. Ives Swiss Formula	Neutrogena	Cover Girl
+191541	Marcas	1	¿Qué empresa ha utilizado el eslogan del anuncio "Where Fresh Is The Taste" (Donde lo fresco es el sabor)?	Delta Air Lines	Stella Artois	IKEA	Subway
+357000	Marcas	1	¿Polo, Chaps y Club Monaco son divisiones de qué empresa?	Nike	Coca-Cola	Starter	Ralph Lauren
+1DIFB01	Marcas	1	¿Qué revista está más estrechamente relacionada con los conejitos?	Time	Parade	Popular Science	Playboy
+190960	Marcas	1	¿Quién hace el Pathfinder?	Ford	Kia	Toyota	Nissan
+357030	Marcas	1	¿Qué eslogan publicitario ha utilizado Wendy's?	I Am Canadian (Soy canadiense)	Just Do It (Sólo hazlo)	Applying Thought (aplicando pensamiento)	Eat Great, Even Late (Come bien, incluso tarde)
+356966	Marcas	1	¿Qué producto fabrica PepsiCo?	Freezers	Cheetos	Baseball Cards	Sierra Mist
+345287	Marcas	1	¿Cuál de estos productos fue introducido por Coca-Cola Company en 1999?	Steinway Pianos	Cellular Phones	Hi-Liters	Dasani Water
+1DIFB25	Marcas	1	¿Qué empresa fabrica teclados, ratones, auriculares y otros periféricos para PC?	Western Digital	Arby's	Seagate	Logitech
+1DIFB30	Marcas	1	¿En qué cadena de hamburguesas de California puedes conseguir un doble-doble al estilo animal?	A&W	Panda Express	Burger King	In-n-Out
+349629	Marcas	1	¿Qué empresa ha utilizado Unleash The Power Of The Sun (Suela el poder del sol) como lema publicitario?	Pepsi	Coke	Snapple	Sunny Delight
+299819	Marcas	1	¿Cuál de las siguientes marcas de moda tiene un alce en su logotipo?	Hollister Company	American Eagle Outfitters	L.L. Bean	Abercrombie & Fitch
+14859	Marcas	1	"Tu fragancia. Tus reglas."¿Es el lema publicitario de qué empresa?	Prime Television Australia	Alton Towers	Sega	Hugo Boss Deep Red
+294785	Marcas	1	¿Cómo se llaman los peluches coleccionables de frijoles?	Barbie	Hot Wheels	Cabbage Patch Dolls	Beanie Babies
+295618	Marcas	1	¿Qué cereal famoso es la mascota de "Tony el tigre"?	Wheaties	Shreddies	Cheerios	Frosted Flakes
+1DIFB07	Marcas	1	Southwest, con su combinación de colores azul y naranja, ¿por qué tipo de servicio son conocidos?	Galletas	Videojuegos	Noticias	Aerolínea
+325513	Marcas	1	¿El logotipo de qué fabricante de zapatos es un árbol?	Nike	New Balance	Reebok	Timberland
+1DIFB26	Marcas	1	¿Qué servicio / proveedor de juegos de PC vacía la billetera de muchos jugadores con ventas estacionales masivas?	Netflix	Origin	Amazon	Steam
+366171	Marcas	1	¿Qué empresa ha utilizado el lema publicitario "No se limite a viajar, viaje correctamente"?	Hertz	De Beers Consolidated Mines	Crest Toothpaste	Expedia
+90435	Marcas	1	¿Por qué el Chevrolet Nova no funcionó bien en América del Sur?	Nova ya es un producto de higiene femenina	Nova era el nombre de un ex dictador en México	Los autos eran demasiado rápidos para las carreteras de América del Sur	Nova se puede leer "No Va" en español
+299300	Marcas	1	¿Qué entidad ha utilizado como lema publicitario WWhat Happens Here, Stays Here" (Lo que pasa aquí, se queda aquí)?	Apple Computer	Life Savers	Bubble Tape	Las Vegas
+294801	Marcas	1	¿Qué empresa ha utilizado el lema publicitario "El champán de ginger Ales"?	Pepsi	Coca Cola	Minute Maid	Canada Dry
+1DIFB18	Marcas	1	¿Qué cadena de tiendas visitaría para comprar herramientas de mejoras para el hogar?	11-Jul	Best Buy	Hot Topic	Home Depot
+202748	Marcas	1	¿Qué automóvil Volkswagen eternamente popular eliminó la palabra "Nuevo" de su modelo de 2012?	Corrado	Lupo	Brasilia	Beetle
+1DIFB19	Marcas	1	¿Minute Maid hace qué tipo de producto comestible?	Helado	Patatas fritas	Filetes	Jugos
+0DIF99	Marcas	1	¿Cuál de las siguientes opciones no es una consola de juegos real?	Xbox 360	Playstation 4	Wii U	Gamesphere
+191039	Marcas	1	¿Clearasil es un producto que se usa para tratar qué?	Lunares	Pecas	Bronceado	Acné
+348986	Marcas	1	¿Qué producto fabrica Nestlé?	Oven Ranges	Preserves	Blenders	Kit Kat Bar
+525209	Marcas	1	¿Qué empresa ha utilizado el lema publicitario "Nunca supe que tenías caspa"?	New England Life	KFC	Peugeot	Head & Shoulders
+299390	Marcas	1	¿Qué empresa ha utilizado Think Outside The Bun (Piensa fuera del pan) como lema publicitario?	Burger King	McDonald's	Wendy's	Taco Bell
+489686	Marcas	1	¿Qué producto fabrica Hershey's?	Preserves	Doritos	Root Beer	Mounds
+1DIFB13	Marcas	1	¿Qué compañía de cámaras es conocida por capturar momentos de calidad?	Hardee's	IHOP	Paramount	Kodak
+294625	Marcas	1	¿Qué compañía de galletas hace "Chips Ahoy!"?	Sunshine	General Mills	Nestle	Nabisco
+190952	Marcas	1	¿Qué producto fabrica Coca Cola Company?	Cheetos	Pop Tarts	Makeup	Mello Yello
+494375	Marcas	1	¿Los cereales Frankenberry y "Boo Berry" se venden con mayor frecuencia en qué festividad?	Navidad	Pascua de Resurrección	Día de Año Nuevo	Víspera de Todos los Santos
+88515	Marcas	1	¿El lector de libros electrónicos Kindle es un producto de qué empresa?	Dell	Apple	Microsoft	Amazon
+525203	Marcas	1	¿Qué es un "Radio Flyer"?	Avión de control remoto	Frisbee	Caja de auge	Carro rojo
+303589	Marcas	1	¿Cuál de estos lemas publicitarios ha utilizado Campbell's Soup?	Stay Warm (Mantente caliente)	Expand Your Horizons	Veggie Powered 	M'm, M'm Good
+191219	Marcas	1	¿Qué empresa es fabricante de teléfonos móviles?	IBM	Nestle	Wrigley	Ericson
+1DIFB23	Marcas	1	¿Qué editor / desarrollador de videojuegos es conocido por Final Fantasy y Kingdom Hearts?	YouTube	CNN	Activision	Square-Enix
+1DIFB20	Marcas	1	Hasbro fabrica pistolas de juguete que disparan bolas de espuma y dardos, ¿con qué nombre?	Smith & Wesson	Cap gun	Super Soaker	Nerf
+191225	Marcas	1	¿Qué empresa es el fabricante de bebidas energéticas?	Mont Blanc	Fidelity	McDonald's	Gatorade
+190950	Marcas	1	¿Qué bebida tiene el Smiling Face Pitcher en su logotipo?	Hi C	Nantucket Nectar	Juicy Juice	Kool Aid
+226138	Marcas	1	¿Qué restaurante de comida rápida hace el "Big Mac"?	Wendy's	Burger King	Taco Bell	McDonald's
+60041	Marcas	1	¿Qué empresa ha utilizado el lema publicitario "La forma favorita de volar de Estados Unidos"?	Listerine	Violet Crumble	Yokohama	Eastern Air Lines
+190995	Marcas	1	¿En qué parte del cuerpo se usa "Pedicure Essentials" del Dr. Scholl?	Codos	atrás	Frente	Pies
+191226	Marcas	1	¿Cuál de los siguientes es el nombre de una camioneta Toyota?	Mangrove	Wetland	Taiga	Tundra
+525230	Marcas	1	¿Qué compañía de automóviles anunció "Zoom Zoom Zoom"?	Chevrolet	Honda	Lexus	Mazda
+363638	Marcas	1	¿Qué producto de "Hostess" puso el presidente Clinton en una cápsula del tiempo?	Snoball	Ho Ho	Suzy Q	Twinkie
+299482	Marcas	1	¿Qué empresa de refrescos utilizó el eslogan "Be a Pepper"?	Ginger Ale	Pepsi	Sprite	Dr Pepper
+1DIFB03	Marcas	1	¿Qué compañía de jabón y humectantes se llama así por un tipo de pájaro?	Bald Eagle	Hen	Velociraptor	Dove
+489695	Marcas	1	¿Cuál es el nombre de la línea de ropa deportiva de Daymond John, FUBU como acrónimo?	Foster Uncles Brothers Unique	France USA Brazil Unlimited	Four Underground Big Uglies	For Us By Us
+1DIFB05	Marcas	1	¿Qué empresa automovilística alemana es conocida por sus vehículos de lujo?	Boeing	Sony	Ford	BMW
+299800	Marcas	1	¿Qué producto fabrica PepsiCo?	Televisores	Papas fritas	Video juegos	Cerveza de raíz
+302116	Marcas	2	¿"Genesis Does What Nintendon't" (Génesis hace lo que Nitendo-no) ha sido el lema publicitario de qué empresa?	Armani Black Code	Alka-Seltzer	Kellogg's	Sega
+90863	Marcas	2	¿Swarovski está asociado con qué producto?	Ropa de diseño	Cocinando	Diamantes	Joyas de cristal
+202753	Marcas	2	¿"Sabe genial. Menos relleno" ha sido el lema publicitario de qué empresa?	Cattlemen's Beef Board	AT&T	Fedex	Miller
+512259	Marcas	2	¿Qué empresa ha utilizado el lema publicitario "Energía: para un Estados Unidos fuerte"?	Cattlemen's Beef Board	Cooper Tires	Bounty	Exxon
+191221	Marcas	2	¿Qué marca se conoce al cereal "Kix" con sabor a chocolate?	Cocoa Krispies	Cocoa Pebbles	Chocolate Chex	Cocoa Puffs
+255322	Marcas	2	¿Qué heladería anuncia "31 sabores"?	Ben and Jerry's	Hagen Daas	Dreyers	Baskin Robbins
+89059	Marcas	2	¿Cuál de los siguientes eslóganes publicitarios ha utilizado Toyota?	Simply The Best	Walk Less (Camina menos)	Move On People	Moving Forward (Yendo adelante)
+88068	Marcas	2	¿Qué muñeca fue muy popular en 1984?	Elmo	Barbie	A Baby Doll	Cabbage Patch Kids
+494394	Marcas	2	¿Qué marca de ropa deportiva ha patrocinado al skater Tony Hawk?	Billabong	Da Kine	Pacsun	Quicksilver
+202750	Marcas	2	¿Qué parque de Florida abrió al público por primera vez el 7 de junio de 1990?	MGM Studios	EPCOT Center	The Magic Kingdom	Universal Studios
+299481	Marcas	2	¿Cuál no es una marca de diseñador?	Holly Kristen	Gucci	Giorgio Armani	Gene Corleto
+345433	Marcas	2	¿Qué tipo de perro figura en la etiqueta de la cerveza "Red Dog"?	Sheepdog	Boxer	Poodle	Bulldog
+525231	Marcas	2	¿Qué empresa ha utilizado el lema publicitario "Una vez que explotas, la diversión no se detiene"?	Pop Rocks	Pepsi	Heineken	Pringles
+194047	Marcas	2	¿Qué empresa ha utilizado el instrumento de los inmortales como lema publicitario?	Renault	United States Forest Service	eBay	Steinway & Sons
+299464	Marcas	2	¿Qué tres marcas de calzado están dirigidas a los adolescentes?	Florsheim, Magli, Onex	DKNY, Aigner, Dexter	Isotoner, Hush Pups, Icon	Nike, Adidas, New Balance
+202731	Marcas	2	¿Qué producto australiano fue el éxito en la escena de las botas de moda en 2004?	Sketcher	Kate Spade	Via Spiga	Ugg
+191040	Marcas	2	¿Cuál de los siguientes eslóganes publicitarios ha sido utilizado por BF Goodrich?	Enjoy Our Company	Rip. Mix. Burn	It's Frothy Man	Take Control
+190979	Marcas	2	¿Qué producto fabrica Brother?	Avión	Software de videojuegos	Barra crujiente	Máquinas de fax
+3611	Marcas	2	¿Qué no es un Toyota?	Celica	Camry	Avalon	Tornado
+255415	Marcas	2	Que significa la compañía de automóviles Volkswagen en Español	Versátil	Fácil de mover con	Coche de Alemania	El coche del pueblo
+299256	Marcas	2	¿Cuál de los siguientes autos es un Cadillac?	Sebring	Celebrity	Town And Country	Allante
+512324	Marcas	2	¿Coty Beauty produjo una línea de fragancias para hombres llamada por qué zapatos de tres rayas?	Reebok	Nike	Buster Brown	Adidas
+345251	Marcas	2	¿Dónde está la ciudad sede de Wal-Mart, el minorista más grande del mundo?	Houston	New York	Richmond, VA	Bentonville, AK
+202745	Marcas	2	¿Cuál de los siguientes eslóganes publicitarios ha utilizado Pepsi?	Drivers Know (Los conductores saben)	Time To Re-Tire (Momento de retirarse)	Driven To Perform (Conducido para performar)	Ask For More (pide más)
+3256	Marcas	2	¿Cómo describe Lucky Leprechaun el sabor de "Lucky Charms"?	They're Loaded With Sugar! (¡Están cargados con azúcar!)	They're A Sweet Breakfast Treat! (¡Son un buen gusto de desayuno!)	They're Great! (¡Son buenos!)	They're Magically Delicious! (¡Son mágicamente deliciosos!)
+30541	Marcas	2	¿Qué fabricante de automóviles fabrica el Montero?	Toyota	Ford	Honda	Mitsubishi
+357001	Marcas	2	¿Cuál de los siguientes eslóganes publicitarios ha utilizado Heinz?	Gotta Have My Pops! (¡Tengo que tener mis Pops!)	Way To Shop (La manera de comprar)	For Life (Para toda la vida)	57 Varieties (57 Variedades)
+525204	Marcas	2	¿The Document Company (La compañía de documentos) ha sido el lema publicitario de qué empresa?	Office Max	UPS	NY Times	Xerox
+348988	Marcas	2	¿De dónde viene el nombre "Audi"?	The Car In German	Audio Due To The Engine's Sound	Name Of The Car Inventor's Son	Auto Union Deutschland Incorporated
+304007	Marcas	2	¿Qué cadena de restaurantes tiene comerciales con el lema "Comer bien en el vecindario"?	T.G.I. Friday's	Chevy's	Sizzler	Applebee's
+190949	Marcas	2	¿"Good To The Last Drop" (Bueno hasta la última gota) ha sido el lema publicitario de qué empresa?	Coke	Stella Artois	Boeing	Maxwell House
+294640	Marcas	2	¿Qué línea de bolsos es conocida por usar un pato en su logo?	The Gap	Dolce & Gabbana	Levis	Dooney & Bourke
+299206	Marcas	2	¿Qué red social propiedad de Disney está diseñada solo para niños?	Disney Club House	Everloop	Club House	Club Penguin
+365521	Marcas	2	¿Cuál era el nombre de la rana de dibujos animados en los comerciales de Sugar Smacks?	Sugar Frog	Smacker	Kellfrog	Dig'em
+96998	Marcas	2	¿Qué automóvil subcompacto Mitsubishi se suspendió en 2012?	Bolt	Dolt	Volt	Colt
+489815	Marcas	2	¿Qué empresa fabrica el popular helado "Blizzard"?	Snow King	Winter Storm Snacks	North Pole Desserts	Dairy Queen
+345779	Marcas	2	¿Qué es cierto sobre Coca-Cola Zero?	Está vacío	Tiene lima	Su alto contenido de azúcar	Cero calorías
+494373	Marcas	2	¿Cuál es el lema de Chester Cheetah en los comerciales de "Cheetos"?	The Crunch Never Stops (Lo crujiente nunca para)	It's Cool To Be Cheesy (Es cool ser quesoso)	Cheesy Is As Cheesy Does (Quesoso es como el quesoso hace)	It Ain't Easy Being Cheesy (No es fácil ser quesoso)
+251037	Marcas	2	¿Cuál de estas marcas de ropa ha utilizado una gaviota voladora como logotipo?	Old Navy	The Gap	Charlotte Russe	Hollister Company
+325494	Marcas	2	¿Qué refresco se inventó en 1886 en Atlanta?	Root Beer	7UP	Dr Pepper	Coca-Cola
+202742	Marcas	2	¿Chanel No. 5, "Allure", "Coco" y "Chance" son perfumes hechos por una empresa fundada por quién?	Ralph Lauren	Giorgio Armani	Karl Kani	Coco Chanel
+92768	Marcas	2	¿Qué producto empezó a vender Amazon por primera vez?	Juguetes	Vestir	Electrónica	Libros
+365282	Marcas	2	¿"1,000 Songs In Your Pocket"(1000 canciones en tu bolsillo) fue una vez el lema publicitario de qué compañía?	Carling	British Rail	Las páginas amarillas	Computadora Apple
+299199	Marcas	2	¿"¡La próxima mejor cosa a sin ropa!" ha sido el eslogan del anuncio de qué empresa?	Armour Hot Dogs	Mazda	Irish Independent	Jockey
+299233	Marcas	2	¿Qué empresa adquirió Teavana en 2012?	Lavazza	Maxwell House	Dunkin Donuts	Starbucks
+299325	Marcas	2	¿Qué compañía de helados produjo "Phish Sticks" y "The Vermonster"?	Walls	Haagen-Dazs	Baskin-Robbins	Ben & Jerry's
+191224	Marcas	2	¿En qué ciudad se encuentra la sede de Hobby Lobby?	Hershey, PA	LA	New York	Oklahoma City, OK
+299534	Marcas	2	¿El mundo pone su stock en nosotros ha sido el lema publicitario de qué empresa?	Coke	Meijer	Permanent Tsb	The New York Stock Exchange
+186089	Marcas	2	¿Qué empresa rusa produjo el 17% del gas mundial en 2011?	ExxonMobil	Chevron	Total	Gazprom
+299621	Marcas	2	¿Qué empresa de alimentos es conocida por sus galletas "Goldfish" y "Milano"?	Nabisco	Keebler	Newman's Own	Pepperidge Farm
+1238	Marcas	2	¿Cuál de estos bocadillos no es un producto Frito-Lay?	Ruffles Potato Chips	Funyuns	Cracker Jack	Slim Jims
+299797	Marcas	2	¿Qué coche fabrica Mitsubishi?	Sentra	Frontier	Alero	Mirage
+356984	Marcas	2	¿Qué empresa ha utilizado el eslogan del anuncio "Rendimiento sin concesiones"?	Singapore Airlines	IRN	National Dairy Council	Yokohama
+91167	Marcas	2	¿Qué cerveza sin alcohol inventó Charles Hires en 1871?	Near Beer	Grape Nehi	Pilsner	Cerveza de raíz
+367543	Marcas	2	¿Qué empresa de automóviles fabricó el PT Cruiser?	Ford	BMW	Porsche	Chrysler
+255095	Marcas	2	¿Qué empresa ha utilizado "The Cream Of Manchester" (La crema de Manchester) como lema publicitario?	The Beef Industry	General Foods International Coffees	Morton Salt	Boddington's
+525216	Marcas	2	¿Qué empresa adquirió YouTube.com en 2006?	Microsoft	Yahoo	Facebook	Google
+202752	Marcas	2	¿Qué fabricante de automóviles fabrica el Dakota?	Toyota	Nissan	Ford	Dodge
+489848	Marcas	2	¿A qué apuntan los anuncios realizados por "Truth"?	Adicción a la heroína	Contaminación	Guerra	Compañías de cigarro
+191038	Marcas	2	¿Cuál era el nombre de la empresa Nissan antes de que se convirtiera en Nissan?	Hyundai	Lada	Yugo	Datsun
+9438	Marcas	2	¿Cuál de los siguientes eslóganes publicitarios ha sido utilizado por Saturno?	Now, That's Better (Ahora, eso es mejor)	It's Time For U (Es momento para ti)	Keep Going (Sigue avanzando)	People First (La gente primero)
+324735	Marcas	2	¿Qué producto alimenticio se anuncia como "el mejor de Vermont"?	Pringles Potato Crisps	Mrs. Butterworth Syrup	Log Cabin Syrup	Ben & Jerry's Ice Cream
+255418	Marcas	2	¿Cuál de los siguientes autos NO es fabricado por Honda?	Civic	Odyssey	Prelude	S-Type
+191228	Marcas	2	¿Qué fabricante de automóviles fundó Saturn en 1985?	Mitsubishi	Chrysler	Ford	General Motors
+494407	Marcas	2	¿Cómo se llamaba el sedán insignia de Toyota en los EE. UU. En 2011?	Diner	Tootsie	Bugsy	Avalon
+202743	Marcas	2	¿Qué dos compañías de automóviles han fabricado automóviles llamados Daytona?	Morris And Humber	Plymouth And Porsche	Datsun And Saturn	Ferrari And Dodge
+299836	Marcas	2	¿De quién es el lema "Cómpralo. Véndelo. Ámalo"?	Buy Lines	Sears	Amazon	eBay
+3288	Marcas	2	¿Cuál era el nombre original de "Cheerios"?	Roundies	Floaties	Donuts	Cheerioats
+345212	Marcas	2	¿Qué significa AIM?	A Instant Message	All Instant Message	America Instant Message	AOL Instant Message
+5466	Marcas	2	¿Qué vehículo no es fabricado por Chrysler Corporation?	300M	Sebring	Crossfire	Citation
+202732	Marcas	2	¿Qué empresa ha utilizado como eslogan publicitario La elección de una nueva generación?	Kraft	Snapple	Schweppes	Pepsi
+191048	Marcas	2	¿Qué barra de chocolate publicó un comercial temático de Brady Bunch durante el Super Bowl en 2015?	Milky Way	Cadbury	Almond Joy	Snickers
+190961	Marcas	2	¿Coors Light a veces se conoce con qué apodo?	Mountain Beer	Spring Water Fresh	Red Dog	Silver Bullet
+202758	Marcas	2	¿Cuál es el subtítulo del juego "Outburst"?	Sing Or Die (Canta o muere)	Win, Lose, Draw (Gana, pierde, retira)	Scream To Win (Grita para ganar)	The Game Of Verbal Explosions (El juego de explosión verbal)
+512272	Marcas	2	¿Quién fue el creador de la ropa G-Unit?	A Tribe Called Quest	Jay-Z	DMX	50 Cent
+525214	Marcas	2	¿Qué empresa de comida rápida vendió más que Burger King por primera vez en 2011?	Subway	Arby's	Qdoba	Wendy's
+512329	Marcas	2	¿Qué empresa es propietaria de las marcas Cadillac, Buick y Pontiac?	Chrysler	Saturn	Ford	GM
+363780	Marcas	2	¿Qué empresa retiró 130.000 cajas de Velveeta Shells & Cheese en 2011?	Cargill	Unilever	PepsiCo	Kraft
+299318	Marcas	2	¿Qué producto fabrica Nabisco?	Kisses	Juicy Fruit Gum	Sierra Mist	Wheat Thins
+1272	Marcas	2	¿Qué eslogan publicitario ha promovido Volkswagen?	Keeps It Poppin' (Lo mantiene popeando)	Engineering Marvel (Fabricando maravilla)	It Is What It Was (Es lo que es)	Drivers Wanted (El deseado por el conductor)
+299236	Marcas	2	¿"Dónde cuesta menos conseguir más" ha sido el lema publicitario de qué empresa?	Chevrolet	Guinness	Subaru	Kroger
+345199	Marcas	2	¿Qué fabricante de automóviles fabrica el Eclipse?	Honda	Toyota	Nissan	Mitsubishi
+299220	Marcas	2	¿Dónde investigó más del 60% de los compradores de automóviles las opciones de financiación en 2014?	En ventas de coches	En sus bancos	Con sus amistades	En línea
+294795	Marcas	2	¿Qué logotipo de empresa de jugos tiene una naranja con una pajita que sobresale?	Minute Maid	Welch's	Mott's	Tropicana
+494382	Marcas	2	¿Qué tipo de productos masculinos son "Axe", "BOD Man" y "New Musk"?	Lociones para broncearse	Geles para el cabello	Crema para afeitar	Fragancias de spray-on
+255362	Marcas	2	¿Cuál es el lema publicitario del National Enquirer?	The Truth Is Out There (La verdad está allá afuera)	All The Gossip Fit To Print (Todo el chisme apto para imprimir)	No Stone Uncovered (ninguna pierda descubierta)	Inquiring Minds Want To Know (Las mentes inquisidoras quieren saber)
+84418	Marcas	2	¿Qué producto fabrica Norelco?	Máquinas de escribir	Colchones	Timones de crusero	Rastrillos
+299279	Marcas	3	¿Todo lo que amas del café ha sido el lema publicitario de qué empresa?	Maxwell House	Senseo	Starbucks	Sanka
+349598	Marcas	3	¿En qué año se lanzó Google+?	2009	2012	2008	2011
+299383	Marcas	3	¿"Her Kiss Her Body Her Perfume" (Su beso su cuerpo su perfume) ha sido el lema publicitario de qué compañía?	Coty Perfumes	Hutch In India	RC Cola	Chanel 5
+84218	Marcas	3	¿Cuál fue el último año del Ford Maverick en Estados Unidos?	1975	1980	1982	1977
+357021	Marcas	3	¿Quién inventó el "Fig Newton"?	Sir Isaac Newton	John Newton	Nabisco	Charles M. Roser
+525199	Marcas	3	¿Cuál de los siguientes es un producto de Pepsi?	Hires	Fanta	Sprite	Slice
+299217	Marcas	3	¿Qué promocionaron las Tortugas Slowsky?	Coches Audi	Google	Los servicios web de Amazon	Cable televiso de Comcast
+194066	Marcas	3	En 2009, ¿qué empresa adquirió Zappos.com?	Etsy	Priceline	eBay	Amazon
+271104	Marcas	3	¿Cuál era el nombre original de Delta Airlines?	Eastern Airlines	Delta Dawn Airlines	Freemont Airlines	Huff Daland Dusters
+356964	Marcas	3	¿Qué empresa ha utilizado como lema publicitario "This Is Where It Gets Good" (Aquí se pone bueno)?	Allstate Insurance	Malabar Gold	M&M's	Foley's
+494391	Marcas	3	¿En qué año lanzó Google su primer Doodle de acción en vivo?	2012	2008	2007	2011
+251046	Marcas	3	¿Cuál de los siguientes eslóganes publicitarios ha utilizado Lincoln?	The Best Never Rest (Lo mejor no descansa)	Oh Thank Heaven (Oh gracias al cielo)	Lifts And Separates (Levanta y separa)	Reach Higher (Alcanza más alto)
+271099	Marcas	3	¿Qué empresa ha utilizado el "World's Online Marketplace" (El espacio de mercado en línea mundial) como lema publicitario?	Amazon	Yahoo	Craigslist	eBay
+345808	Marcas	3	¿Qué refresco de cola se llamaba originalmente "Bebida de Brad"?	Coca-Cola	Sprite	Tab	Pepsi
+299221	Marcas	3	En 2012, ¿qué fabricante de automóviles produjo automóviles con las marcas Brio, Elysion y Pilot?	Volvo	Bentley	Renault	Honda
+299422	Marcas	3	¿Qué empresa adquirió WebTV en 1997?	IBM	AOL	Dell	Microsoft
+88058	Marcas	3	¿Qué empresa produce productos "Nerf"?	Pressman	Milton Bradley	Mattel	Hasbro
+512298	Marcas	3	"Cuénteles sobre la miel, mamá" ¿qué compañía ha utilizado esto como lema publicitario?	Honey Combs	Frosted Flakes	Total	Sugar Puffs
+299223	Marcas	3	¿"Hecho en Escocia a partir de Girders" ha sido el lema publicitario de qué empresa?	Mazda	Hostess Potato Chips	Holiday Inn	IRN
+494380	Marcas	3	¿Dónde se ha utilizado "The Magic Never Ends" (La magia nunca termina) como lema publicitario de qué empresa?	The New York Times	Duracell Batteries	Arrow Shirts	Alton Towers
+12097	Marcas	3	¿Qué cerveza recibe el sobrenombre de "cerveza elaborada al fuego de Estados Unidos"?	Michelob	Pabst	Schlitz	Stroh's
+299424	Marcas	3	En la década de 1990, "Chips Ahoy!" fueron anunciados como teniendo qué?	33% Menos grasa que otras galletas	Una sonrisa en cada mordida	El ingrediente secreto de la abuela	1000 chispas en cada bolsa
+3633	Marcas	3	¿Qué patentó Jacob Schick en 1928?	El carrito	El coche eléctrico de mano	El ascensor eléctrico	La maquinilla de afeitar eléctrica
+363577	Marcas	3	¿Cuál de las siguientes cervezas está adornada con un triángulo rojo de marca registrada?	Newcastle Brown Ale	Molson Export Ale	Caffrey's Irish Ale	Bass
+39953	Marcas	3	¿En qué año se lanzó el sitio web empresarial LinkedIn?	1999	2010	2008	2003
+325399	Marcas	3	¿En qué año se presentó la cámara Nikon F?	1975	1888	1914	1959
+299247	Marcas	3	¿En qué año se presentó por primera vez la "muñeca Barbie"?	1952	1955	1957	1959
+299216	Marcas	3	¿Cuál de los siguientes eslóganes publicitarios ha utilizado Chevrolet?	Tenlo a tu manera	Rojo, blanco y verdadero	Sólo se siente bien	Ahí estaremos
+525221	Marcas	3	¿Qué empresa hizo un comercial temático en torno al Boston Tea Party?	H&R Block	EBay	Home Depot	Turbo Tax
+3627	Marcas	3	¿De qué país vienen las sandalias "Birkenstock"?	Holanda	Suecia	Noruega	Alemania
+525202	Marcas	3	¿Quién es la diseñadora de la línea de ropa LAMB?	Heidi Klum	Halle Berry	Sienna Miller	Gwen Stefani
+355730	Marcas	3	Slip-Slop-Slap era el nombre de una campaña de salud en Australia que promovía ¿qué?	Usar anticonceptivos	Aprendiendo a nadar	Beber responsablemente	Usar protector solar
+202740	Marcas	3	¿En qué año se creó la barra de MilkyWay?	1952	1950	1936	1923
+294629	Marcas	3	¿Qué eslogan publicitario ha promovido ABC?	Sueña	Subiendo la barra	Hola chicos	No sólo te sientes ahí
+228492	Marcas	3	¿Qué empresa se llamaba originalmente Blue Ribbon Sports?	Converse	Spalding	Wilson	Nike
+100729	Marcas	3	¿Cómo se llamaba el perro de Buster Brown?	Shoey	Joey	Butch	Tige
+299505	Marcas	3	¿Qué empresa ha utilizado el lema publicitario "Béisbol, perros calientes, tarta de manzana"?	PBS	Unigate Milk	Uk Public Information Film	Chevrolet
+512291	Marcas	3	¿En qué año se fundó Amazon?	1996	2000	1997	1994
+299344	Marcas	3	¿En qué país de Europa del Este se fabricó el Skoda Citigo 2012?	Poland	Belarus	Montenegro	Slovakia
+81601	Marcas	3	En un comercial de televisión que se emitió por primera vez en 1979, un niño le da a "Mean" Joe Greene qué refresco?	7UP	Pepsi	Dr Pepper	Coca cola
+299218	Marcas	3	¿Qué llevó al dueño de la tienda Henry David Lee a fundar su propia empresa de fabricación de jeans en 1889?	Altos precios	Escasez de inventario	Aburrimiento	Envíos no confiables
+98220	Marcas	3	¿Cuál de estos bocadillos no está preparado por Hostess?	Ho-Hos	Donettes	Ding-Dongs	Oatmeal Creme Pie
+72594	Marcas	3	¿Cuál es el nombre completo del personaje que representa a "Cap'n Crunch"?	Captain Bob Crunch	Captain George Alexander Crunch III	Captain Crunch	Captain Horatio Magellan Crunch
+494408	Marcas	3	¿Qué producto fabrica Breakstone?	Videojuegos de Star Wars	Ropa interior	Teléfonos celulares	Temp Tee Queso crema
+299228	Marcas	3	¿Cuál es el juego que publicó anuncios con Kate Upton en 2014?	Call of Duty: Advanced Warfare	Dragon Age: Inquisition	Far Cry 4	Game of War: Fire Age
+257914	Marcas	3	¿Qué empresa produce galletas de "mantequilla de nuez"?	Keebler	Little Debbie	Mother's	Nabisco
+84417	Marcas	3	¿"Sin nosotros, algunos chicos morirán de hambre" ha sido el lema publicitario de qué empresa?	Burger King	Subway	Big Boy	Carl's Jr.
+299267	Marcas	3	¿En qué año salió el Chevrolet Camaro por primera vez?	1975	1981	1960	1967
+325084	Marcas	3	¿Con qué empresa se fusionó Frito-Lay en 1965?	Goya Foods	Coca-Cola	Jones Soda Co.	Pepsi-Cola
+355707	Marcas	3	¿Qué fabricante de automóviles produjo un automóvil llamado President?	Kaiser-Frazer	Hudson	Packard	Studebaker
+349599	Marcas	3	¿Quién dirigió el comercial de "Super Bowl Blackout" en 2015?	Jeep	Go Daddy	General Electric	Chevrolet
+359478	Marcas	3	¿Dónde se encuentra la sede de Google o Googleplex?	Cupertino, CA	San Jose , CA	Seattle, WA	Mountain View, CA
+299468	Marcas	3	¿Qué empresa de automóviles fabricó el Cressida?	Mazda	Nissan	Kia	Toyota
+299241	Marcas	3	¿Qué magnante de la automoción presentó el Mustang?	John Delorean	Roger Smith	Henry Ford II	Lee Iacocca
+299341	Marcas	3	¿"100% Squeezed Sunshine" (100% sol exprimido) ha sido el lema publicitario de qué empresa?	Sunny Delight	Minute Maid	Celestial Seasons	Tropicana
+349587	Marcas	3	¿Dónde está la sede de las agencias de publicidad mundial BBDO?	London	Chicago	San Francisco	New York City
+512326	Marcas	3	¿Qué edad cumplió Smokey the Bear en 2019?	50	25	30	75
+299404	Marcas	3	¿Quién es el fundador de USA Network?	Ivan Sutherland	John Kemeny	Marshall McLuhan	Barry Diller
+349712	Marcas	3	¿"Never Had It, Never Will" (Nunca lo tuvo, nunca lo hará) ha sido el lema publicitario de qué empresa?	Sprite	Snapple	Arizona Ice Tea	7UP
+299214	Marcas	3	¿Quiénes fueron los fundadores de Baskin Robbins?	Robin and Nick Baskers	Robin Nichols and Henry Baskerville	Robin and Baskin Tremelo	Burton Baskin and Irvine Robbins
+299234	Marcas	3	¿Cómo se llamaba originalmente Yahoo.com?	Yahoolo	Guide To The World Wide Web	Jerry's Guide To The World Wide Web	Jerry And David's Guide To The World Wide Web
+87900	Marcas	3	¿Cuál fue el primer juguete que se anunció en televisión?	Atari	Hula Hoop	Slinky	Mr. Potato Head
+326106	Marcas	3	En 2012, ¿qué fabricante de automóviles produjo automóviles con las marcas Inspire, Freed y Zest?	Opel	BMW	Fiat	Honda
+83953	Marcas	3	¿Quién es el fundador de "The Huffington Post"?	Claire Huffington	Sally Huffington	Melissa Huffington	Arianna Huffington
+299489	Marcas	3	¿Quién es la fuerza creativa y empresarial detrás de GUESS? 	Helmut Lang	Marcel Rochas	Isabel Marant	The Marciano Brothers
+494386	Marcas	3	¿Qué empresa fabrica la loción bronceadora "Dangerously Dark" (Peligrosamente oscura)?	Australian Gold	Sunsational	Tan Factory	Swedish Beauty
+1337	Marcas	3	En 2002, ¿qué empresa adquirió PayPal?	Etsy	Google	Amazon	eBay
+256616	Marcas	3	¿Quién fue el primer portavoz famoso de la empresa Priceline?	Theresa Caputo	Kaley Cuoco	Michael Phelps	William Shatner
+525200	Marcas	3	¿Qué empresa fue comprada por Berkshire Hathaway y 3G en 2013?	General Mills	Ziploc	Pillsbury	Heinz
+218456	Marcas	3	¿"Único en todo el mundo" ha sido el lema publicitario de qué empresa?	Josta	Spike TV	L'Oreal	Ford
+185	Marcas	3	¿Qué empresa ha utilizado el lema publicitario "¿Te comes los rojos al final?"	M&M's	Jelly Belly	Jolly Rancher	Smarties
+191041	Marcas	3	¿Quién inventó el bolso de cuero con asa de bambú?	Donna Karen	Christian Dior	Luis Vuitton	Guccio Gucci
+283366	Marcas	3	¿Qué auto de producción limitada fue apodado el "Corvette Killer"?	'69 Pontiac GTO Judge	'70 Ford Pantera	'68 Mustang 428 Cobra Jet	'67 Shelby Cobra
+525207	Marcas	3	¿Qué empresa de telecomunicaciones adquirió Bluefish en 2011?	Vivendi	SK Telecom	Comcast	Vodafone
+299331	Marcas	3	¿Cuál era el nombre original de la papa frita?	Fried Fritters	Chicago Chips	Plantation Pancakes	La fritura de Saratoga
+97546	Marcas	3	¿Qué coche llamaría alguien "Pug"?	Porsche 914	Vw Beetle With Porsche Engine	Plymouth Prowler	Peugeot 504
+324759	Marcas	3	¿Qué producto ha utilizado el lema publicitario "¿Qué es lo peor que puede suceder?"	Sunny Delight	Pringles	Snapple	Dr Pepper
+299499	Marcas	3	¿Quién supervisó la transformación de MTV en un imperio mediático multinacional?	Jan Davidson	Lawrence J. Ellison	Jeffrey P. Bezos	Judy McGrath
+202739	Marcas	3	¿Qué empresa ha utilizado como lema publicitario "Nothing Official About" (Nada oficial al respecto)?	Heineken	Coca Cola	Snapple	Pepsi
+489846	Marcas	3	¿Qué cadena de restaurantes abrió su primera ubicación en la ciudad de Nueva York en 1965?	Applebee's	Chili's	The Olive Garden	T.G.I. Friday's
+283007	Marcas	3	¿Cómo se llamaba originalmente eBay.com?	Internet Auction	Auction Store	Death Bar	AuctionWeb
+283191	Marcas	3	¿Cuál de los siguientes eslóganes publicitarios ha utilizado Chevron?	Never Scratches	Unboring	The Only Way To Truck	Human Energy
+365283	Marcas	3	Mountain Dew: ¿En qué año se introdujo Code Red?	2005	1999	1985	2001
+299312	Marcas	3	¿Xavier Roberts creó qué muñeca?	Barbie	He-Man	Dora the Explorer	Cabbage Patch
+494396	Marcas	3	¿Cómo se relacionaba la verdadera "Pequeña Debbie" con el fundador de la empresa?	Hija	Sobrina	Madre	Nieta
+299378	Marcas	3	¿Qué juguete se vendió más de 50 millones de veces en 2001?	Pokemon Booster Pack	Crayola Crayon 24ct Box	Goooze	Hot Wheels Basic Cars
+56704	Marcas	3	¿En qué año presentó Agfa la primera cámara totalmente automática, la Optima?	1839	1936	1888	1959
+299311	Marcas	3	¿"Tu amigo en la era digital" ha sido el lema publicitario de qué empresa?	Infosys	Clean And Clear	Van Dyke Records	Cox Communications
+202737	Marcas	3	¿Qué producto de Procter & Gamble obtuvo su nombre de la Biblia?	Tide	Dawn	Zest	Ivory Soap
+349576	Marcas	3	¿Quién es la celebridad del comercial del Super Bowl Esurance que choca contra un letrero?	Britney Spears	Derek Jeter	Snoop Dogg	Lindsay Lohan
+299222	Marcas	3	¿Qué artículo de comida rápida se agregó al menú de McDonald's en 1968?	McRib Sandwich	Chicken McNuggets	Egg McMuffin	Big Mac
+525208	Marcas	3	¿Qué cerveza promovió Spuds MacKenzie?	Miller Draft	Michelob	Schlitz	Bud Light
+326123	Marcas	3	¿Cuál de los siguientes eslóganes publicitarios ha sido utilizado por British Satellite Broadcasting?	Screw Yourself (Atorníllate tú)	It's Better Here! (Aquí es mejor)	Oh, Yeah!	You Watch, We Listen (Tú ves, nosotros escuchamos)
+299314	Marcas	3	¿Cuál es el nombre del bar donde se originó "Buffalo Wings"?	Flynn's	The Light Bar	The Oyster Bar	The Anchor Bar
+84146	Marcas	3	Un comercial de "Honey Nut Cheerios" una vez presentó a Buzz la abeja visitando a quién?	The Mad Hatter	The Grinch	Oliver Twist	Ebenezer Scrooge
+3622	Marcas	3	¿Quién transformó una serie de clubes de striptease en un imperio editorial?	Malcolm Forbes	William Randolph Hearst	Hugh Hefner	Larry Flynt
+193967	Marcas	3	Sonny, la mascota de cereales "Cocoa Puffs", ¿qué tipo de pájaro es?	Pigeon	Dodo	Parrot	Cuckoo
+299811	Marcas	3	¿Cuál es el primer sitio de redes sociales propiedad de Google?	Tumblr	Tripod	The Globe	Orkut
+255413	Marcas	3	¿En qué año se presentó la cámara Hasselblad?	1925	1959	1835	1948
+299841	Marcas	3	¿Qué empresa compró el Huffington Post en 2011?	Yahoo	Google	Facebook	America Online
+43245	Marcas	3	¿Cuál era el nombre original de Diet Pepsi?	Pepsi Light	Slim Cola	TaB	Patio Diet Cola
+202733	Marcas	3	¿Qué empresa ha utilizado "Homemakers for a Life Time" (Creadores de hogar por toda una vida) como lema publicitario?	Meijer	Tropicana	Apple Computer	Singer Electronics
+299381	Marcas	3	¿Qué empresa tiene aproximadamente un 25% de acciones en Craigslist?	Facebook	Google	Etsy	eBay
+299212	Marcas	3	El coche de Edsel falló terriblemente, ¿fue producto de qué empresa automovilística?	Chevy	Edsel Car Company	Chrysler	Ford
+186682	Marcas	3	¿Qué empresa se llamó alguna vez Quantum Computer Services?	IBM	Intel	Earthlink	AOL
+325179	Marcas	3	Nombra la única capital del estado que no tenía al menos un restaurante McDonald's en 2006.	Augusta, Maine	Concord, New Hampshire	Honolulu, Hawaii	Montpelier, Vermont
+299840	Marcas	3	¿En qué año Chevrolet vendió por primera vez a Ford?	1924	1930	1932	1927
+89974	Marcas	3	¿Cuál de los siguientes eslóganes publicitarios ha sido utilizado por Worldcom?	Men At Their Best (Hombres en su mejor estado)	Keep Walking (Sigue caminando)	Be Inspired (Sé inspirada/o)	Generation D (Generación D)
+299492	Marcas	3	¿Cuál es una fragancia de Giorgio Armani?	La Prairie	Variety	Biolage	Sensi
+190935	Marcas	3	¿Qué coche fue apodado el "Batimóvil"?	Pontiac Firebird	BMW 3.0 CSL	Mercedes 560 SLC	Lincoln Futura
+228321	Marcas	3	¿Qué empresa se separó de General Motors en 1996?	Canon	Automatic Data Processing	Mazda	Electronic Data Systems
+100735	Marcas	3	¿Qué diseñador lanzó "Intrusion", una fragancia para mujeres?	Christian Dior	Ralph Lauren	Pierre Cardin	Oscar De La Renta
+355713	Marcas	3	¿Qué Chevrolet proclamó Ralph Nader "Inseguro a cualquier velocidad"?	Corvette	Chevette	Camaro	Corvair
+326087	Marcas	3	¿Cuál fue el primer detergente para ropa elaborado especialmente para la piel de los bebés?	Snuggle	Downy	Tide	Dreft
+255054	Marcas	3	¿Qué empresa ha utilizado el eslogan publicitario "Siempre algo emocionante"?	Sanka	Cadbury	IBM	Foley's
+202735	Marcas	3	¿Qué número apareció en los productos de cerveza Rolling Rock?	22	19	84	33
+299628	Marcas	3	¿Qué empresa ha utilizado como lema publicitario Tú haces las matemáticas, nosotros hacemos la pizza?	Dominos	Papa John's	Pizza Plus	Pizza Hut
+299298	Marcas	3	¿"Good Time, Great Taste" (Buen tiempo, excelente sabor) ha sido el lema publicitario de qué empresa?	Taco Bell	Checkers	Steak And Shake	McDonald's
+299627	Marcas	3	¿Cuál era el nombre original del "Kool-Aid"?	Fruit-Aid	Drink-A-Fruit	Flav-O-Fruit	Fruit Smack
+295619	Marcas	3	¿Qué compañía de automóviles anunció "Se buscan conductores"?	Mazda	BMW	Lexus	Volkswagen
+299837	Marcas	3	¿Qué empresa fabrica "Raisin Bran"?	Kellogg's	General Mills	Procter And Gamble	Post
+100210	Marcas	3	¿Qué empresa adquirió Donna Karan en 2001?	Chanel	Gucci	Fendi	Louis Vuitton
+191337	Marcas	3	¿Qué compañía de automóviles fabricó el Prowler?	Jaguar	Rolls-Royce	Ford	Chrysler
+97542	Marcas	3	¿Qué bocadillo usó alguna vez el lema "Crunch All You Want (Aplasta todo lo que quieras) - Haremos más" en su publicidad?	Fritos	Cheetos	Tostitos	Doritos
+349601	Marcas	3	¿Qué es un "Red Ryder"?	Vagón	Frisbee	Pistola de agua	Pistola de balines
+365209	Marcas	3	¿Qué empresa de automóviles fabricó el Sebring?	Ford	Chevrolet	Kia	Chrysler
+192410	Marcas	3	¿En qué año presentó GMC su propia versión de El Camino?	1973	1970	1981	1971
+299203	Marcas	3	¿Cuál era el nombre original del Porsche 911?	Porsche 900 Limited	Porsche 959	Porsche 912	Porsche 901
+512343	Marcas	3	¿Qué eslogan publicitario ha utilizado la Royal Marines del Reino Unido?	It's Frothy Man (Está espumoso, hombre)	Always Better Value (Siempre mejor valor)	Simply The Best (Simplemente el mejor)	99.9% Need Not Apply (99.9% no necesitan aplicar)
+525222	Marcas	3	¿Qué empresa se fusionó con United Airlines en 2011?	Frontier	JetBlue	US Airways	Continental
+186667	Marcas	3	¿Qué fabricante de automóviles fabrica el Skyhawk?	Mazda	Honda	Nissan	Buick
+299237	Marcas	3	¿De qué color es el gallo en la caja "Corn Flakes" de Kellogg?	Amarillo	Morado	Azul	Verde
+512350	Marcas	3	¿Qué empresa ha utilizado "Made To Make Your Mouth Water" (Hecho para hacer tu boca salivar) como lema publicitario?	Tropicana	Nestle	Snapple	Opal Fruits
+215161	Marcas	3	¿En qué año se vendió por primera vez la máquina de ejercicios Nautilus?	1982	1920	1955	1970
+299219	Marcas	3	¿Qué refresco es el más antiguo de EE. UU.?	Arc Cola	Coca-Cola	Dad's Root Beer	Dr Pepper
+512264	Marcas	3	¿Cuál era el verdadero nombre de Johnny Morris, el botones de cigarrillos de Philip Morris?	Jimmy Morrison	Johnny McDermott	Alfred Nelson	Johnny Roventini
+366572	Marcas	3	¿Qué tipo de automóvil es el Toyota Allion?	SUV de 5 puertas	Micro coche de 2 puertas	Camioneta de carga de medio tamaño	 Sedan de 4 puertas
+202738	Marcas	3	¿Qué eslogan publicitario ha promovido Saab?	More Human Interest (Más interés humano)	Safety Sells (La seguridad vende)	Roll Your Own (Rola el tuyo)	Born From Jets (Nacio de Jets)
+256602	Marcas	3	¿Qué cerveza se conoce como "Champaña de cervezas"?	Pabst Blue Ribbon	Old Milwaukee	Schlitz	Miller High Life
+282480	Marcas	3	¿Qué empresa era propietaria de GEICO, Dairy Queen y Fruit of the Loom en 2012?	Liberty Mutual	XL Group	The Hartford	Berkshire Hathaway
+194073	Marcas	3	¿Quién hizo el auto deportivo TR8?	Volkswagen	Porsche	Jaguar	Triumph
+72249	Marcas	3	¿Con qué nombre se conoce al Mazda Miata en Australia?	Mx6	Mazda Bambini	Mazda Midget	Mx5
+194097	Marcas	3	¿Qué empresa de gestión de documentos adquirió NewField IT en 2011?	Lexmark	Sharp	Nikon	Xerox
+299358	Marcas	3	¿De qué automóvil Ford robó el nombre de "Rey de la carretera" para su Mustang?	The Chevrolet Impala	The Dodge Dart	The Oldsmobile 442	The Chevrolet Corvette
+349588	Marcas	3	¿Quién fabrica el automóvil Altezza?	Honda	Nissan	Lexus	Toyota
+99161	Marcas	3	¿Cómo se llama la hija de Tony el Tigre?	Tawny	Tammy	Tigra	Antoinette
+326051	Marcas	3	¿Qué empresa de automóviles comenzó a crear invitaciones en 2013?	Toyota	Jeep	Fiat	Nissan
+512280	Marcas	3	¿En qué año se vendieron por primera vez Toyota en los EE. UU.?	1955	1965	1962	1957
+299323	Marcas	3	¿Cómo se llama el personaje de "Amigo, vas a conseguir un personaje de Dell"?	Michael	Robert	Kevin	Steven
+186772	Marcas	3	¿Qué aroma con un nombre colorido fue un gran vendedor para Dolce & Gabbana?	Grass Green	Christmas Red	Pumpkin Orange	Light Blue
+299213	Marcas	3	¿Qué empresa es el fabricante de la goma de mascar Trident?	Hanes	Hoover	Lays	Warner - Lambert
+1260	Marcas	3	¿Cuánto aumentó la publicidad en línea de 2011 a 2013?	22%	99%	5%	36%
+215238	Marcas	3	¿Cuál de los siguientes eslóganes publicitarios ha utilizado Johnnie Walker?	Ask For More (Pide más)	Break Through (Persevera)	It's So Simple (Es tan simple)	Keep Walking (Sigue caminando)
+294800	Marcas	3	¿En qué año se creó el juego "Trivial Pursuit"?	1956	1986	1990	1979
+326138	Marcas	3	¿En qué años se fabricaron los Corvair?	1962-1969	1961-1968	1960-1968	1960-1969
+326107	Marcas	3	¿Qué fabricaba originalmente Henri Nestlé?	Mascando tabaco	Jugo enlatado	Palomitas de maiz	Comida para bebé
+299332	Marcas	3	¿En qué año se produjo el primer "MoonPie"?	1925	1950	1900	1917
+251036	Marcas	3	¿Qué empresa ha utilizado "I'm A Secret Lemonade Drinker" (Soy un bebedor de limonada secreto) como lema publicitario?	Home Depot	Allinsons Bread	AT&T	R. White's
+356993	Marcas	3	¿Qué empresa pertenecía originalmente al licor de malta Schlitz y al licor de malta Red Bull?	Anheuser-Busch Brewery	Miller Brewing Company	Pabst Brewing Company	Stroh Brewery Company
+1241	Marcas	3	¿Cuál de los siguientes eslóganes publicitarios ha utilizado Smarties?	I Am What I Am (Soy lo que soy)	The Power Of Dreams (El poder de los sueños)	Hellomoto	Wotalotigot!
+215166	Marcas	3	¿Qué empresa ha utilizado el eslogan del anuncio "Cuánto puede manejar"?	Trustee Savings Bank	National Highway Traffic Safety Administration	Centralr	Bubble Tape
+304014	Marcas	3	¿IMDB.com es una subsidiaria de cuál de estas empresas?	Yahoo	Google	eBay	Amazon
+299230	Marcas	3	¿Qué producto se anunciaba con el dicho: "Madre, por favor ... prefiero hacerlo yo mismo"?	Bayer	Anacin	Tylenol	Excedrin
+299242	Marcas	3	¿Cuál de los siguientes es un Buick?	Cimarron	Caprice	Catera	Reatta
+251053	Marcas	3	¿En qué año se inventaron los M & M?	1952	1950	1943	1940
+525205	Marcas	3	¿Qué tienda departamental vendió alguna vez su propia marca de automóviles?	Woolworth	Macy's	J C Penny's	Sears
+525225	Marcas	3	La "Super Ball" se introdujo en 1965, ¿quién la fabricó?	Nabisco	Milton-Bradley	Hasbro	Wham-O
+299336	Marcas	3	¿"¿Es un buen momento o qué?" ha sido el eslogan del anuncio de qué empresa?	Chrysler	Jelly Belly	Alka-Seltzer	MCI Communications
+363574	Marcas	3	¿Qué empresa ha utilizado "It's Morning Again In America" (De nuevo es lunes en América) como lema publicitario?	EA Sports	Travis Aftershave	Hertz	Reagan For President
+494377	Marcas	3	¿Qué empresa automotriz fabricó su vehículo número 200 millones en 2012?	Audi	Volvo	Volkswagen	Toyota
+215162	Marcas	3	¿Qué empresa empezó a producir "Cabbage Patch Kids"?	Mattel	Acme	Hasbro	Coleco
+325778	Marcas	3	¿El diseño floral de la galleta "Oreo" consiste en cuántas flores por lado?	8	15	5	12
+299313	Marcas	3	¿Cuál fue el anuncio de 2015 que presenta a Katie Couric y Bryant Gumbel discutiendo sobre Internet?	Apple	NBC	Facebook	BMW i3
+299479	Marcas	3	¿"¡Ahora estás jugando con poder!" ha sido el eslogan del anuncio de qué empresa?	Expedia	Apple Computer	Reagan For President	Nintendo
+512328	Marcas	3	¿"Every Time A Good Time" (Cada vez un buen rato) ha sido el eslogan del anuncio de qué empresa?	Ford	Thuraya	Subway	McDonald's
+71899	Marcas	3	¿Qué empresa de juguetes inventó el juego "Chutes and Ladders" (Serpientes y escaleras)?	Fisher-Price	Parker Brothers	Hasbro	Milton Bradley
+299215	Marcas	3	¿Cómo cambió Hugo Boss el nombre de su traje clásico en la década de 1990?	Boss Black	Basic Boss	Boss Classic	Boss Hugo Boss
+281771	Marcas	3	¿Cuándo y con qué nombre se comercializó por primera vez el queso en aerosol en lata?	1959, Space Cheese	1972, Easy Cheese	1942, Victory Cheese	1966, Snack Mate
+295600	Marcas	3	¿"Con responsabilidad a los resultados" ha sido el lema publicitario de qué empresa?	Cadbury	Big Red	Alton Towers	Getsadze & Pateishvili
+299379	Marcas	3	The Cracker Barrel es una cadena de restaurantes que partió de una "tienda de campo antiguo", ¿dónde se encuentra?	Kentucky	Arkansas	Texas	Tennessee
+235383	Marcas	3	¿Qué empresa ha utilizado el lema publicitario "Vamos más lejos, tú te mantienes más cerca"?	Eastern Air Lines	Mastercard	Malabar Gold	Thuraya
+186663	Marcas	3	¿El postre de Hostess "Ding Dongs" se vendió con qué otro nombre?	Choco Treat	Ring Ding	Chocolate Twinkie	Big Wheels
+88015	Marcas	3	¿Qué publicación utiliza el lema "El diario del sueño americano"?	New York Times	Barron's Report	Business Week	Wall Street Journal
+299301	Marcas	3	¿Cuánto pagó C. Elmer Doolin en 1932 por la receta de chips de maíz que lanzó The Frito Company?	$1	$50	$10	$100
+299844	Marcas	3	¿Qué fabricante introdujo las patatas fritas "Pringles" en 1969?	Frito-Lay	Lay's	Better Made	Procter & Gamble
+281763	Marcas	3	¿Quién fabrica el modelo de coche llamado Intrigue?	Nissan	Ford	Cadillac	Oldsmobile
+88047	Marcas	3	¿Qué producto ha utilizado el lema publicitario "Isn't Life Delicious" (Acaso no es la vida deliciosa)?	Dr Pepper	Blow Pops	Snickers	Life Savers
+251033	Marcas	3	¿General Electric tiene su sede en qué ciudad estadounidense?	Filadelfia	Detroit	Chicago	Nueva York
+299205	Marcas	3	En el Mazda GLC, ¿qué significan las letras GLC?	It Doesn't Stand For Anything	Gran Lemans Car	Grand Little Car	Great Little Car
+494392	Marcas	3	¿Cuál de los siguientes eslóganes publicitarios ha utilizado Chrysler?	Get More (Consigue más)	Imagine	Brilliant!	Your Next Car (Tu próximo carro)
+299197	Marcas	3	¿Qué empresa fue la cuarta cadena más grande de restaurantes de comida rápida en 2012?	McDonald's	Wendy's	Subway	Burger King
+3615	Marcas	3	¿Qué empresa ha utilizado el lema publicitario "Es una patada en un vaso"?	Vodafone	Bristol-Myers Squibb	Blackglama Great Lakes Mink	Tang
+489796	Marcas	3	¿Cuántos ingresos obtuvo Google en el tercer trimestre de 2013?	$ 4.9 mil millones	$ 45.9 mil millones	$ 1 mil millones	$ 14.9 mil millones
+494381	Marcas	3	¿La década de 1960 vio a London Fog crear qué innovación de abrigo?	Abrigo reversible	Chaqueta de cuero	Chaleco	Forro de abrigo extraíble
+281765	Marcas	3	¿Qué fruta o verdura NO es uno de los "chicos de Fruit of the Loom"?	Uvas	Hoja	manzana	Plátano
+299629	Marcas	3	¿Quién hace el Alero?	Kia	Toyota	Nissan	Oldsmobile
+494414	Marcas	3	Calvin Klein lanzó por primera vez qué famoso perfume en 1988?	Diamantes	Almizcle	Lino blanco	Eternidad
+489707	Marcas	3	¿"Break Out Of The Ordinary" (Persevera de lo ordinario)ha sido el lema publicitario de qué empresa?	Ojo de pájaro	Tropicana	Pepsi	Hacerse un nido
+250721	Marcas	3	¿Cuál de las siguientes cervezas recibe el sobrenombre de "La crema de Manchester"?	caledoniano	Sleeman Cream Ale	Cooper's Sparkling Ale	Boddingtons
+255451	Marcas	3	¿Con qué nombre se comercializa el Toyota Camry en Australia?	Bastión	Unión	Moda	Aurion
+299204	Marcas	3	En 2012, ¿qué fabricante de automóviles produjo automóviles con las marcas Ballade, Stream y Ridgeline?	Vado	Maserati	Mazda	Honda
+299497	Marcas	3	¿Cómo se conoció a Instagram cuando se lanzó en 2010?	Fotos instantáneas	Gramo	El gramo	Burbn
+321218	Marcas	3	¿Quién inventó el "DoveBar"?	Rubén Mattus	Chris Nelson	Harry Burt	Leo Stefanos
+349616	Marcas	3	¿Qué empresa estadounidense de chocolate adquirió Brookside Foods en 2011?	Hacerse un nido	Cadbury	Señorita suiza	Hershey
+281774	Marcas	3	¿Con qué nombre originalmente se llamaba Blizzard de Dairy Queen?	El helado	El congelamiento	Siempre se le ha llamado Blizzard	El hormigón
+355751	Marcas	3	¿Qué producto ha utilizado el lema publicitario "Un tazón y serás nuestro"?	Soplos de maíz	Cheerios	Fruit Loops	Raisin Nut Bran
+194146	Marcas	3	En la cultura pop adolescente, ¿qué es "Diesel"?	Una nueva pelicula	Una cadena de comida rápida	Una línea de rendimiento para automóviles	Una línea de ropa
+255414	Marcas	3	¿Cuál es el fabricante de máquinas de coser número uno en los EE. UU.?	Wesco	Wal-Mart	Sears	Singer
+489847	Marcas	3	¿Quién inició su empresa comercializando el "Maine Hunting Shoe"?	Eddie Bauer	Kenneth Cole	Abercrombie & Fitch	L.L. Bean
+299239	Marcas	3	¿Quién fue el primer atleta en la foto de una caja de "Wheaties"?	Babe Ruth	Sandy Koufax	Joe Di Maggio	Lou Gehrig
+326072	Marcas	3	¿Cuándo se introdujeron "Barnum's Animal Crackers" de Nabisco y su característica caja?	1922	1852	1942	1902
+74487	Marcas	3	¿Qué tipo de productos son "Soul Curve", "Soul Wave" y "Soul Crush" de Liz Claiborne?	Sombras de fundación	Lápiz labial	Colección de sombras para los ojos	Fragancias
+299232	Marcas	3	¿Qué cerveza americana tiene una herradura con la etiqueta "Buena suerte"?	Hamm's	Falstaff	Stroh's	Olympia
+92777	Marcas	3	El anuncio de McDonald's "I'm Lovin It", ¿de dónde salió?	Bob Dylan Song	Army Motto	T-Shirt Slogan	Justin Timberlake Song
+512266	Marcas	3	¿De Soto era filial de qué fabricante de automóviles?	Toyota	General Motors	Ford	Chrysler
+299824	Marcas	3	¿Qué empresa produjo el Spitfire?	Morgan	Austin-Healey	Mg	Triumph
+299238	Marcas	3	¿Qué compañía de seguros vendió su participación en el Grupo AIA en 2011 para cubrir deudas?	Allstate	Aviva	Allianz	AIG
+299410	Marcas	3	¿Qué empresa ha utilizado "El aperitivo de larga duración" como lema publicitario?	McDonald's	Burger King	Baby Ruth	Twix
+321254	Marcas	3	¿Qué empresa utilizó "The Noid" en sus campañas publicitarias?	Dell Computers	Pizza Hut	Best Buy	Dominos Pizza
+299838	Marcas	3	¿Qué eslogan publicitario ha utilizado Philips?	Getting Things Done (Haciendo las cosas)	Fair And Balanced (Justo y balanceado)	Still The One (Todavía el indicado)	Sense And Simplicity (Sentido y simplicidad)
+299630	Marcas	3	Antes de comenzar Wendy's, ¿para qué franquicia de comida rápida trabajaba Dave Thomas?	Arby's	Burger King	McDonald's	Kentucky Fried Chicken
+216348	Marcas	3	¿Sunlight Flakes finalmente se hizo conocido como qué producto?	Frosted Flakes	Tide	Corn Flakes	Lux
+345432	Marcas	3	¿"Walk on the Wild Side" de Lou Reed se usó en un jingle para qué producto?	Reebok	Suzuki Jet Ski	Levi's	Honda Motor Scooters
+326124	Marcas	3	¿Cuáles son los nombres de Dolce y Gabbana?	Tom And Bob	Giorgio And Tony	Mark And William	Domenico And Stefano
+325656	Marcas	3	¿Cuál es el nombre europeo del automóvil conocido en Estados Unidos como Volkswagen Jetta?	Golf Saloon	Octavia	Phaeton	Bora
+254404	Marcas	3	¿LL Cool J fue el primer portavoz oficial de qué línea de ropa urbana?	Phat Farm	Ecko	Cross Colors	Fubu

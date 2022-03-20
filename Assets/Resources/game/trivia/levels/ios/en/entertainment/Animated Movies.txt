@@ -1,0 +1,661 @@
+FTUX125	Animated Films	0	Which movie is the snowman "Olaf" from?	Shrek	The Peanuts Movie	Up	Frozen
+FTUX126	Animated Films	0	Toothless is the name of the dragon in which animated film?	Coraline	Anastasia	Big Hero 6	How to Train Your Dragon
+FTUX128	Animated Films	1	Which of these is a pet in the movie Moana?	Dragon	Horse	Hamster	Pig
+0DIFETM33	Animated Films	0	What does the main character of Up use to make his house float?	Magnets	Jets	Magic	Balloons
+FTUX138	Animated Films	0	The ogre in Shrek is what color?	Blue	Brown	Purple	Green
+0DIFETM24	Animated Films	0	What animated movie is about insects?	Cats & Dogs	Kung Fu Panda	The Iron Giant	Antz
+FTUX131	Animated Films	0	Which animated film features an elephant as the main character?	The Little Mermaid	Kung Fu Panda	Shrek	Dumbo
+FTUX139	Animated Films	0	Jack Black voices a Panda in which of the following animated movies?	Coco	Spirited Away	Frozen	Kung Fu Panda
+FTUX127	Animated Films	1	Which animated film is about the Day of the Dead?	How to Train Your Dragon	The Little Mermaid	Spirited Away	Coco
+0DIFETM37	Animated Films	0	If you wanted to watch a movie about fish, which of these would you watch?	Ratatouille	Castle in the Sky	Book of Life	Finding Nemo
+0DIFETM21	Animated Films	0	Which Disney princess comes from China?	Elsa	Sleeping Beauty	Cinderella	Mulan
+FTUX136	Animated Films	1	Robin Williams voiced which character in Aladdin?	Aladdin	Jasmine	Simba	Genie
+FTUX144	Animated Films	0	Which animated film features a girl with long blonde hair who lives in a tower?	Moana	The Little Mermaid	Beauty and the Beast	Tangled
+FTUX130	Animated Films	0	In the movie "Finding Nemo," what is the name of the forgetful blue fish?	Jasmine	Sissy	Nala	Dory
+0DIFETM23	Animated Films	0	Who are the yellow characters who help out in the "Despicable Me" movies?	Cats	Robots	Squirrels	Minions
+FTUX134	Animated Films	1	Which of the following animated films was directed by Hayao Miyazaki?	Aladdin	The Little Mermaid	Cinderella	Spirited Away
+FTUX137	Animated Films	0	In The Little Mermaid, what color is Ariel's hair?	Green	Purple	Yellow	Red
+0DIFETM28	Animated Films	1	Which movie features more than one Spider-Man?	Spiderman: Homecoming	Iron Man	The Iron Giant	Spider-Man: Into the Spiderverse
+0DIFETM39	Animated Films	0	In the movie Fantastic Mr. Fox, what kind of animal is the main character?	A Dog	A Seagull	A Rabbit	A Fox
+FTUX140	Animated Films	0	The characters "Baymax" and "Hiro Hamada" are from which movie?	The Little Mermaid	Mulan	Frozen	Big Hero 6
+FTUX133	Animated Films	0	Which movie is the character "Jack Skellington" in?	Spirited Away	Coraline	Coco	The Nightmare Before Christmas
+0DIFETM40	Animated Films	0	In The Iron Giant, what does the main character befriend?	A Jar of Peanut Butter	A Stone Statue	A Small Chipmunk	A Robot
+FTUX142	Animated Films	0	Which animated film does the famous song "I Just Can't Wait to be King" come from?	Sleeping Beauty	Beauty and the Beast	Moana	Lion King
+0DIFETM34	Animated Films	0	Toy Story was the first movie to use what kind of animation?	Virtual Reality	2D Animation	Stop-Motion Animation	3D Computer Animation
+0DIFETM35	Animated Films	0	In the Despicable Me movies, what color are the Minions?	Red	Green	Grey	Yellow
+FTUX141	Animated Films	0	Which movie has a dragon named Mushu?	Cinderella	Frozen	The Little Mermaid	Mulan
+FTUX135	Animated Films	0	The Lion King's main character is named what?	Rafiki	Ed	Pumba	Simba
+FTUX129	Animated Films	0	What type of animal is the cop main character in the movie "Zootopia"?	Shark	Lion	Rhino	Rabbit
+0DIFETM22	Animated Films	0	Which of these is the main character in the movie Cars?	Bambi	Jack Sparrow	Buzz Lightyear	Lightning McQueen
+0DIFETM30	Animated Films	0	Animals act like people in the world of what movie?	Toy Story	The Iron Giant	The Incredibles	Zootopia
+0DIFETM25	Animated Films	0	A family of superheroes are the stars of what movie?	Toy Story	Snow White	Corpse Bride	The Incredibles
+0DIFETM36	Animated Films	0	In the movie Monsters Inc, how many eyes does the green character Mike have?	2	3	0	1
+0DIFETM31	Animated Films	0	Which movie takes place across many different arcade games?	Monsters Inc.	My Neighbor Totoro	Hercules	Wreck-It Ralph
+FTUX132	Animated Films	0	Which animated film involved a prince who is cursed as a beast?	Anastasia	The Nightmare Before Christmas	Coco	Beauty and the Beast
+0DIFETM32	Animated Films	0	What type of shoe is important in Cinderella?	Hiking Boots	Flip Flops	Ugg Boots	Glass Slipper
+0DIFETM26	Animated Films	0	Who is the main character in How to Train Your Dragon?	Fishlegs	Tuffnut	Toothpaste	Hiccup
+0DIFETM38	Animated Films	0	In the movie Pinocchio, what happens if Pinocchio tells a lie?	He turns into a real boy	He loses money	He gains a clone	His nose grows
+FTUX143	Animated Films	0	Which animated film takes place in New Orleans?	Shrek	The Nightmare Before Christmas	The Lion King	The Princess and the Frog
+0DIFETM27	Animated Films	0	Jack Skellington tries to combine Halloween and Christmas in what movie?	Finding Nemo	Your Name	Wonder Woman	Nightmare Before Christmas
+0DIFETM29	Animated Films	0	What movie is about a green ogre who befriends a donkey?	Tangled	Corpse Bride	Wreck-It Ralph	Shrek
+20VE1802	Animated Films	0	Burt Reynolds voiced Charlie B. Barkin, a German Shepherd, in which 1989 Don Bluth animated film?	The Land Before Time	Thumbelina	The Secret Of NIMH	All Dogs Go To Heaven
+20VE1822	Animated Films	0	Which animated film stars Bill Hader as a scientist who invents a machine that makes food fall from the sky?	An American Tail	The Secret Of NIMH	Hotel Transylvania	Cloudy With A Chance Of Meatballs
+20VE1864	Animated Films	0	Seth Rogen and Kristen Wiig voice groceries living in a supermarket in which animated dark comedy film?	Howl's Moving Castle	The Lorax	The Emoji Movie	Sausage Party
+20VE1830	Animated Films	0	Which 2017 animated film features a flower-loving pacifist bull who refuses to participate in bullfighting?	Open Season	Curious George	Shrek	Ferdinand
+20VE1826	Animated Films	0	Which of these animated films brought us the bumbling yellow creatures known as Minions?	The Secret Life Of Pets	Balto	The Pagemaster	Despicable Me
+20VE1834	Animated Films	0	Elijah Wood voices a penguin named Mumble whose Heartsong is a bit different in which animated film?	Animals United	Open Season	The Secret Of Kells	Happy Feet
+20VE1816	Animated Films	0	Which animated film based on the works of Dav Pilkey features a villain named Professor Poopypants?	Arthur Christmas	Hotel Transylvania	The Boss Baby	Captain Underpants: The First Epic Movie
+20VE1806	Animated Films	0	Which of these animated films is loosely based on the real-life Romanov family of Russia?	Coraline	Spirited Away	The Book Of Life	Anastasia
+20VE1868	Animated Films	0	Stan, Kyle, Cartman, and Kenny are the main characters in which animated film by Trey Parker and Matt Stone?	The LEGO Movie	Howl's Moving Castle	The Simpsons Movie	South Park: Bigger, Longer, & Uncut
+20VE1886	Animated Films	0	Which Nickelodeon Studios film took Tommy Pickles, Angelica, Chuckie, Phil, and Lil to the big screen?	The Prince of Egypt	The Black Cauldron	The Swan Princess	The Rugrats Movie
+20VE1800	Animated Films	0	Which "Beetlejuice" and "30 Rock" star voices the title role in the 2017 animated film "The Boss Baby"?	Matt Damon	Jack Nicholson	Robert De Niro	Alec Baldwin
+20VE1898	Animated Films	0	Which of these animated films is inspired by the musical works of The Beatles?	The Croods	Happy Feet	Rock-A-Doodle	Yellow Submarine
+20VE1872	Animated Films	0	Which of these animated films released in 2016 is based on a video game?	Sing	Norm Of The North	Sausage Party	The Angry Birds Movie
+20VE1850	Animated Films	0	Will Ferrell voices a supervillain who loses his purpose after defeating his superhero nemesis in which film?	Rango	Despicable Me	Mr. Peabody & Sherman	Megamind
+20VE1862	Animated Films	0	In which animated film does a rooster leave his farm to become a rock star in the city?	Yellow Submarine	Curious George	Happy Feet	Rock-A-Doodle
+20VE1856	Animated Films	0	Which film is based on a line of Hasbro toys and features the characters Twilight Sparkle and Fluttershy?	Barbie: Fairytopia	Bionicle: Mask Of Light	Bratz: Genie Magic	My Little Pony: The Movie
+20VE1876	Animated Films	0	In which Don Bluth animated film do Littlefoot, Cera, Petrie, Spike, and Ducky seek out the Great Valley?	Titan A.E.	The Pebble And The Penguin	Bartok The Magnificent	The Land Before Time
+20VE1858	Animated Films	0	Which of these films was released by the Japanese animation studio, Studio Ghibli?	Happy Feet	Charlotte's Web	The Secret Of Kells	My Neighbor Totoro
+20VE1808	Animated Films	0	Which 1998 animated film stars Woody Allen as Z, a neurotic insect who feels insignificant in society?	Horton Hears A Who!	The King And I	Osmosis Jones	Antz
+20VE1824	Animated Films	0	Which 2006 film about an inquisitive primate featured the voice of Will Ferrell as the Man in the Yellow Hat?	Madagascar	Shrek	Bee Movie	Curious George
+20VE1812	Animated Films	0	Which 1996 animated movie by Mike Judge features a pair of misfit teens first popularized on MTV?	Shrek	Yellow Submarine	Wallace And Gromit: The Curse Of The Were Rabbit	Beavis And Butthead Do America
+20VE1888	Animated Films	0	Which animated film is about the adventures of a number of pets who live in a Manhattan apartment building?	Eight Crazy Nights	Despicable Me	The Land Before Time	The Secret Life Of Pets
+20VE1848	Animated Films	0	In which animated film do Alex, Marty, Melman, and Gloria long to leave their zoo life to live in the jungle?	Home	Osmosis Jones	The Road To El Dorado	Madagascar
+20VE1890	Animated Films	0	Which long-running Fox series featuring Homer, Marge, Bart, and Lisa, was turned into a film in 2007?	Family Guy	American Dad!	Bob's Burgers	The Simpsons
+20VE1866	Animated Films	0	Cameron Diaz voiced Princess Fiona in which 2001 animated film?	FernGully: The Last Rainforest	Anastasia	Coraline	Shrek
+20VE1874	Animated Films	0	Which of these 2010s animated films takes place in Textopolis, a digital city located in a smartphone?	Megamind	Sausage Party	The Lorax	The Emoji Movie
+20VE1820	Animated Films	0	Ginger and Rocky try to escape from the Tweedy's farm so they aren't turned into pies in which film?	Despicable Me	Happy Feet	Kiki's Delivery Service	Chicken Run
+20VE1842	Animated Films	0	In which animated film do Manny, Sid, and Diego try to return a lost child to his tribe?	The Road To El Dorado	Kung Fu Panda	Madagascar	Ice Age
+20VE1878	Animated Films	0	Which of these animated films is based on the comic strip by Charles M. Schulz?	Charlotte's Web	Mr. Peabody & Sherman	The Emoji Movie	The Peanuts Movie
+20VE1846	Animated Films	0	Best known for his role in "Home Alone", who voiced Richard in "The Pagemaster"?	Tom Felton	Haley Joel Osment	Leonardo DiCaprio	Macaulay Culkin
+20VE1818	Animated Films	0	Which 1973 Hanna-Barbera film features a pig named Wilbur who befriends a rat and a spider?	Song Of The Sea	The Land Before Time	Spirited Away	Charlotte's Web
+20VE1810	Animated Films	0	Which of these films is loosely based on a true story of a dog who helped deliver a life-saving serum?	Snoopy Come Home	The House Of Magic	Scooby-Doo On Zombie Island	Balto
+20VE1838	Animated Films	0	In which animated film does Dracula run a resort for monsters?	The Croods	Song Of The Sea	Open Season	Hotel Transylvania
+611FTUX126	Animated Films	0	Which TV series spawned a full length movie with songs "Blame Canada" and "What Would Brian Boitano Do?"	Garfield	Futurama	The Simpsons	South Park
+611FTUX130	Animated Films	0	Which movie came out after 18 seasons of its TV series had aired?	Stewie Griffin: The Untold Story	Futurama: Bender's Game	Garfield: The Movie	The Simpsons Movie
+611FTUX132	Animated Films	0	A Roald Dahl novel was made into what 1996 movie?	Nightmare Before Christmas	Thumbelina	The Rugrats Movie	James and the Giant Peach
+611FTUX133	Animated Films	0	Which 1994 movie revolves around a tiny girl and her love Cornelius?	Toy Story	Sleeping Beauty	Prince Charming	Thumbelina
+611FTUX135	Animated Films	0	This movie was a spin-off of the Shrek series:	The Incredibles	Tangled	Over The Hedge	Puss In Boots
+611FTUX136	Animated Films	0	Which of these movies came out before 1990?	Up	Shrek	The Emperor's New Groove	Fantasia
+611FTUX128	Animated Films	0	Mickey Mouse and Bugs Bunny briefly appear side by side in what movie?	Ready Player One	Space Jam	Fantasia	Who Framed Roger Rabbit
+611FTUX137	Animated Films	0	Which of these movies came first?	Inside Out	Tangled	The Incredibles	Aladdin
+611FTUX129	Animated Films	0	Who was the opposing team in Space Jam?	The 1984 Boston Celtics	Chicago Bulls	Harlem Globetrotters	The Monstars
+611FTUX134	Animated Films	0	Which was not a Nickelodeon movie?	Jimmy Neutron: Boy Genius	The Spongebob Squarepants Movie	The Rugrats Movie	The Powerpuff Girls Movie
+611FTUX127	Animated Films	0	Into the Wild Green Yonder and "Bender's Big Score" were movies from what animated series?	Family Guy	Bob's Burgers	Archer	Futurama
+611FTUX131	Animated Films	0	What type of animal is the protagonist in "The Secret of NIMH"?	Seal	Gopher	Cat	Mouse
+20VE1870	Animated Films	0	What live-action/animated film stars basketball great Michael Jordan along with characters from Looney Tunes?	Garfield: The Movie	The Adventures Of Rocky And Bullwinkle	Who Framed Roger Rabbit	Space Jam
+20VE1892	Animated Films	0	Which of these animated musical films is based on Tchaikovsky's ballet, "Swan Lake"?	The King And I	An American Tail	Rock-A-Doodle	The Swan Princess
+20VE1832	Animated Films	0	Which Fox animated series has had films subtitled "Bender's Big Score" and "Into the Wild Green Yonder"?	The Cleveland Show	Bob's Burgers	King Of The Hill	Futurama
+20VE1894	Animated Films	0	Known for dark humor, who co-directed and produced "Corpse Bride" starring Johnny Depp and Helena Bonham Carter?	Chris Renaud	Kenn Navarro	Walter Lantz	Tim Burton
+20VE1884	Animated Films	0	In which animated film do two swindlers named Tulio and Miguel try to find a fabled city of gold?	Over The Hedge	The Secret Of Kells	Megamind	The Road To El Dorado
+20VE1896	Animated Films	0	Anna Kendrick and Justin Timberlake voiced Poppy and Branch in which colorful 2016 DreamWorks film?	How To Train Your Dragon	Despicable Me	The Polar Express	Trolls
+20VE1804	Animated Films	0	Fievel Mousekewitz is separated from his family while emigrating to the U.S. in which 1986 animated film?	The Lorax	Rango	Despicable Me	An American Tail
+20VE1814	Animated Films	0	Jerry Seinfeld voices Barry B. Benson, who sues humans for eating honey in which 2007 animated film?	Once Upon A Forest	Antz	Over The Hedge	Bee Movie
+20VE1882	Animated Films	0	Which DreamWorks animated film is an adaptation of the story of Moses from the Book of Exodus?	The Land Before Time	The Secret Of Kells	The Road To El Dorado	The Prince Of Egypt
+20VE1860	Animated Films	0	Boog and Elliot team up with other woodland animals to defeat the human hunters in which animated film?	Osmosis Jones	The Angry Birds Movie	All Dogs Go To Heaven	Open Season
+20VE1844	Animated Films	0	Which animated film features Jack Black as the voice of Po the Dragon Warrior ?	Titan A.E.	The Lorax	How To Train Your Dragon	Kung Fu Panda
+20VE1828	Animated Films	0	Which animated film, based during the Hanukkah season, features Adam Sandler in his first voice-acting role?	Tom And Jerry: A Nutcracker Tale	Futurama: Bender's Big Score	An American Tail	Eight Crazy Nights
+20VE1836	Animated Films	0	Jim Parsons voices Oh, an alien, and Rihanna voices Tip, his human friend, in which 2015 animated film?	Madagascar	Ice Age	Happy Feet	Home
+20VE1840	Animated Films	0	Hiccup, Astrid, and Toothless are characters in which animated film?	Kung Fu Panda	Robots	Rio	How To Train Your Dragon
+20VE1880	Animated Films	0	Tom Hanks voices numerous characters, including the Conductor, in which 2004 Christmas-themed film?	Shrek 2	Appleseed	Pinocchio 3000	The Polar Express
+D0TRV32751	Animated Movies	0	In which film did Riley run away to Minnesota while Joy and Sadness were missing?	Finding Dory	The Lion King	Coco	Inside Out
+D0TRV32752	Animated Movies	0	In the Minions film, who did minions accidentally fire a cannon into?	Cleopatra	Dr. Doom	Xenomorph	Napoleon
+D0TRV32753	Animated Movies	0	In the Minions film, who did minions expose to sunlight?	Frankenstein	Jesse James	Megatron	Count Dracula
+D0TRV32754	Animated Movies	0	In the film Madagascar, how many chimpanzees escaped?	12	5	9	2
+D0TRV32755	Animated Movies	0	In which film did SpongeBob need to retrieve King Neptune's crown?	The Little Mermaid	The Patrick Star movie	The Krusty Krab	The SpongeBob SquarePants Movie
+D0TRV32756	Animated Movies	0	At the start of Zootopia, what work was assigned to officer Judy Hopps?	Homicides	Drug enforcement	Burglaries	Parking enforcement
+D0TRV32757	Animated Movies	0	In which Disney film did a queen frequently shout "off with her head!"?	Hotel Transylvania	Tangled	Shrek	Alice in Wonderland
+D0TRV32758	Animated Movies	0	In Disney's Tarzan film, who did Tarzan fall in love with?	Rapunzel	Shanti	Anna	Jane
+D0TRV32759	Animated Movies	0	In the film Sing, which animals competed in the singing contest?	Gorilla	Elephant	Porcupine	All of these
+D0TRV32760	Animated Movies	0	In which Disney/Pixar film did a young Mike and Sulley first meet?	Madagascar	Shrek	Totoro	Monsters University
+D0TRV32761	Animated Movies	0	In the Ice Age films, what animal was Sid (voiced by John Leguizamo)?	Aardvark	Panda	Tiger	Ground Sloth
+D0TRV32762	Animated Movies	0	In Disney's The Jungle Book, what animal is named Shere Khan?	Lion	Bear	Jaguar	Tiger
+D0TRV32763	Animated Movies	0	In Kung Fu Panda 2, what weapon is developed by Lord Shen?	Fighter planes	Robots	Light Saber	Cannons
+D0TRV32764	Animated Movies	0	In which film did Manny, Sid and Diego confront pirates?	The Good Dinosaur	Ice Age	Jurassic Park	Ice Age: Continental Drift
+D0TRV32765	Animated Movies	0	In which film did Hiccup and Toothless have to fight a "Bewilderbeast"?	Shrek	Pokemon: The First Movie	Monsters University	How to Train Your Dragon 2
+D0TRV32766	Animated Movies	0	In Ice Age: Dawn of the Dinosaurs, who hatched the T-Rex eggs?	Eddie	Scott	Little Foot	Sid
+D0TRV32767	Animated Movies	0	In Ice Age: Continental Drift, what initiated the continental break-up?	Rumbling Belly	Spaceship crash	Flapping Butterflies	Scrat's Acorn
+D0TRV32768	Animated Movies	0	In which animated film was a singing competition held for a struggling theater?	Trolls	Coco	The Boss Baby	Sing
+D0TRV32769	Animated Movies	0	In which film did a wolf mother named Raksha, raise a human baby as her own?	Lilo and Stitch	Zootopia	The Incredibles	The Jungle Book
+D0TRV32770	Animated Movies	0	In which film was Lucy sent to recruit Gru for the Anti-Villain League?	The Incredibles 2	Lilo and Stitch	Puss in Boots	Despicable Me 2
+D0TRV32771	Animated Movies	0	In Snow White, where did the 7 dwarves work?	Toy factory	Farm	Candy factory	Mine
+D0TRV32772	Animated Movies	0	In which Disney film were dogs covered in soot for a disguise?	Isle of Dogs	Balto	The Secret Life of Pets	101 Dalmatians
+D0TRV32773	Animated Movies	0	In Madagascar: Escape 2 Africa, who piloted the plane?	Snakes	Eagles	Sloths	Penguins
+D0TRV32774	Animated Movies	0	In which film did a gorilla mother named Kala, raise a human baby as her own?	Zootopia	Kong Skull Island	Congo	Tarzan
+D0TRV32775	Animated Movies	0	In which film were Riley's thoughts, memories, and emotions shown in her mind?	Frozen	Finding Dory	The Lego Movie	Inside Out
+D0TRV32776	Animated Movies	0	In Madagascar: Escape 2 Africa, which animal was a hypochondriac?	Tiger	Polar Bear	Llama	Giraffe
+D0TRV32777	Animated Movies	0	Which Disney film was the song "Heigh-Ho" from?	Sleeping Beauty	The Prince of Egypt	Minions	Snow White And The Seven Dwarfs
+D0TRV32778	Animated Movies	0	In which film did Shrek trade away a day from his childhood?	Shrek	Your Name	Inside Out	Shrek Forever After
+D0TRV32779	Animated Movies	0	In The Secret Life of Pets, what color is Gidget the Pomeranian?	Gray	Black	Brown	White
+D0TRV32780	Animated Movies	0	In Disney's The Jungle Book, what animal is named King Louie?	Lemur	Mouse	Panda	Orangutan
+D0TRV32781	Animated Movies	0	In The Lego Movie, what was Master Builder Benny obsessed with building?	Castles	Buildings	Cars	Spaceships
+D0TRV32782	Animated Movies	0	In Finding Nemo, which character was named Marlin?	Shark	Octopus	Walrus	Nemo's Dad
+D0TRV32783	Animated Movies	0	In which Disney film did a caterpillar ask "Who.. are.. you.."?	Kung Fu Panda	Monsters Inc.	Pocahontas	Alice in Wonderland
+D0TRV32784	Animated Movies	0	What did WALL-E show EVE, that sent her back to the mother ship?	Gold	Pond	Dry land	Living seedling
+D0TRV32785	Animated Movies	0	In which Shrek film did we first meet Merlin?	The Secret of NIMH	Frozen	Shrek	Shrek the Third
+D0TRV32786	Animated Movies	0	In which Disney film were dogs saved from being turned into coats?	The Lady and the Tramp	Scooby-Doo	All Dogs go to Heaven	101 Dalmatians
+D0TRV32787	Animated Movies	0	In Big Hero 6, what color was Baymax in his superhero armor (mostly)?	Green	Brown	Purple	Red
+D0TRV32788	Animated Movies	0	In Zootopia, what animal was Nick Wilde, voiced by Jason Bateman?	Rhino	Cheetah	Koala	Fox
+D0TRV32789	Animated Movies	0	In Toy Story, who did the toys belong to?	Molly	Tom	Jane	Andy
+D0TRV32790	Animated Movies	0	In the Minions film, who were some of the minions' past evil masters?	Tyrannosaurus	Caveman leader	Count Dracula	All of these
+D0TRV32791	Animated Movies	0	Which Disney animated film featured songs by Elvis?	Frozen	Cars	Brother Bear	Lilo and Stitch
+D0TRV32792	Animated Movies	0	With Andy heading to college, in which film did the toys get accidentally donated?	Toy Story	Toy Story 2	Monsters Inc.	Toy Story 3
+D0TRV32793	Animated Movies	0	Which Disney film featured 3 inuit brothers?	The Jungle Book	Coco	Brave	Brother Bear
+D0TRV32794	Animated Movies	0	In which film was Puss in Boots hired as an assassin?	Despicable Me	The Incredibles	Ice Age	Shrek 2
+D0TRV32795	Animated Movies	0	In which film was Shrek transported into an alternate reality?	Toy Story	Fantasia	Howl's Moving Castle	Shrek Forever After
+D0TRV32796	Animated Movies	0	In Despicable Me, which charatcer was Gru's adopted daughter?	Margo	Edith	Agnes	All of them
+D0TRV32797	Animated Movies	0	Which Disney film was the song "The Bare Necessities" from?	Robin Hood	Cinderella	The Little Mermaid	The Jungle Book
+D0TRV32798	Animated Movies	0	When was a remake of the Lion King using photorealistic computer animation released?	2000	2008	2014	2019
+D0TRV32799	Animated Movies	0	In Toy Story 4, who was Woody and the toys' new owner?	Molly	Russ	Tim	Bonnie
+D0TRV32800	Animated Movies	0	In which film did escaped zoo animals, Alex and friends, join a circus?	Zootopia	Ice Age	Kung Fu Panda	Madagascar 3: Europe's Most Wanted
+D0TRV32801	Animated Movies	0	In Disney's The Jungle Book, what does Shere Khan fear?	King Louie	Snakes	Spiders	Fire
+D0TRV32802	Animated Movies	0	Which Disney princess starred in Brave?	Anna	Cinderella	Ariel	Merida
+D0TRV32803	Animated Movies	0	In Shrek 2, who ordered King Harold to find a way to get rid of Shrek?	Donkey	3 Blind Mice	Gingerbread Man	Fairy Godmother
+D0TRV32804	Animated Movies	0	In which film did Manny, Sid and Diego have to deal with a flood?	Madagascar	Zootopia	The Lion King	Ice Age: The Meltdown
+D0TRV32805	Animated Movies	0	In which film did Dory search for her parents?	Zootopia	101 Dalmations	The Little Mermaid	Finding Dory
+D0TRV32806	Animated Movies	0	In Despicable Me, what did Agnes say was "so fluffy!"?	Stuffed Lion	Clouds	Cotton balls	Stuffed Unicorn
+D0TRV32807	Animated Movies	0	In which film did a child travel in a fruit with anthropomorphic bugs?	Pokemon: The First Movie	Cloudy with a Chance of Meatballs	Fruit Ninja	James and the Giant Peach
+D0TRV32808	Animated Movies	0	Which pet appeared in the film, The Secret Life of Pets?	Rabbit	Parakeet	Guinea Pig	All of them
+D0TRV32809	Animated Movies	0	In which film is Peaches, Manny's daughter?	Ice Age	The Land Before Time	Dinosaur	Ice Age: Continental Drift
+D0TRV32810	Animated Movies	0	In the Minions film, who did minions unintentionally let get eaten by a cave bear?	Cobra Commander	Godzilla	The Joker	Caveman leader
+D0TRV32811	Animated Movies	0	In which film did Shrek search for Arthur "Artie" Pendragon?	An American Tale	Shrek	Robin Hood	Shrek the Third
+D0TRV32812	Animated Movies	0	In which film did SpongeBob and Patrick ride on David Hasselhoff's back?	The Patrick Star movie	The Krusty Krab	Bay Watch	The SpongeBob SquarePants Movie
+D0TRV32813	Animated Movies	0	In Disney/Pixar's "Soul", what job did Joe want?	Astronaut	Senator	Minister	Jazz musician
+D0TRV32814	Animated Movies	0	In Madagascar 3, who was gambling in the Monte Carlo Casino?	Alex	Gloria	Bond	The penguins and chimps
+D0TRV32815	Animated Movies	0	Which film featured Humpty Dumpty, a golden egg laying goose, and a cat wearing boots?	Coco	Aladdin	Kung Fu Panda	Puss in Boots
+D0TRV32816	Animated Movies	0	In which film did we meet a 7 legged octopus named Hank?	Frozen	The Little Mermaid	Madagascar	Finding Dory
+D0TRV32817	Animated Movies	0	In which film did most of the minions abandon Gru, eventually landing in jail?	Despicable Me 2	Zootopia	The Lego Movie	Despicable Me 3
+D0TRV32818	Animated Movies	0	Which Fairy-tale creature appeared in the film Shrek?	3 Blind Mice	Gingerbread Man	Pinocchio	All of them
+D0TRV32819	Animated Movies	0	In which film did Woody and the toys meet Lots-O'-Huggin' Bear at a daycare?	Toy Story	Brave	Brother Bear	Toy Story 3
+D0TRV32820	Animated Movies	0	In Snow White, to whom did the Queen always ask, "Who is the fairest one of all"?	Fairy Godmother	Magic Lamp	Wizard of Oz	Magic Mirror
+D0TRV32821	Animated Movies	0	Which dog breed appeared in the film, The Secret Life of Pets?	Jack Russell Terrier	Pug	Pomeranian	All of them
+D0TRV32822	Animated Movies	0	Which popular pokemon appearred in Pokemon: The First Movie?	Pikachu	Mewtwo	Mew	All of these
+D0TRV32823	Animated Movies	0	In which film did SpongeBob battle Burger Beard?	Bob's Burgers	Peter Pan	Finding Nemo	The SpongeBob Movie: Sponge Out of Water
+D0TRV32824	Animated Movies	0	In the Ice Age films, what animal was Diego (voiced by Denis Leary)?	Opossum	Beaver	Gazelle	Smilodon
+D0TRV32825	Animated Movies	0	In The Secret Life of Pets, what color is Duke the mixed breed dog?	Black	White	Gray	Brown
+D0TRV32826	Animated Movies	0	In Ice Age: Dawn of the Dinosaurs, what did Scrat and Scratte fight over?	Money	Chores	Cheating	The Acorn
+D0TRV32827	Animated Movies	0	In which film were Gru and Lucy fired from the Anti-Villain League?	How to Train Your Dragon	Shrek	The Incredibles	Despicable Me 3
+D0TRV32828	Animated Movies	0	In which film did Alex and friends return to Central Park.	101 Dalmatians	The Lion King	The Jungle Book	Madagascar 3: Europe's Most Wanted
+D0TRV32829	Animated Movies	0	Which Disney film was the song "You'll be in my heart" from?	Frozen	The Lion King	Aladdin	Tarzan
+D0TRV32830	Animated Movies	0	In the film Kung Fu Panda, which animals were a part of the Furious Five?	Tiger	Monkey	Crane	All of these
+D0TRV32831	Animated Movies	0	In the Minions film, who did minions unintentionally roll into a volcano?	Hannibal Lecter	Bane	Captain Hook	Tyrannosaurus
+D0TRV32832	Animated Movies	0	In Ice Age: Dawn of the Dinosaurs, what were Manny and Ellie expecting?	Apples	Tornado	Cars	A Child
+D0TRV32833	Animated Movies	0	Which Disney/Pixar film is the character Frozone from?	Minions	Ice Age	Despicable Me	The Incredibles
+D0TRV32834	Animated Movies	0	Which film featured the song "When you believe" sung by Whiney Houston and Mariah Carey?	Pinocchio	Robin Hood	Snow White And The Seven Dwarfs	The Prince of Egypt
+D0TRV32835	Animated Movies	0	In which film did Gru and Lucy work a cupcake store in Paradise Shopping Mall?	Mallrats	The Secret Life of Pets	The Simpson's Movie	Despicable Me 2
+D0TRV32836	Animated Movies	0	In the Simpsons movie, which neighbor did Bart turn to as a father figure?	Moe	Quagmire	Boomhauer	Ned Flanders
+D0TRV32837	Animated Movies	0	Which Disney/Pixar film takes place in Medieval Scotland?	The Incredibles	Mulan	Big Hero 6	Brave
+D0TRV32838	Animated Movies	0	In which Shrek film did we first meet Rumpelstiltskin ("Rumpel")?	The Secret World of Arietty	Sleeping Beauty	Shrek	Shrek Forever After
+D0TRV32839	Animated Movies	0	Which Disney/Pixar film starred a middle school music teacher, Joe Gardner?	Up	The Incredibles	Despicable Me	Soul
+D0TRV32840	Animated Movies	0	In which film did we meet a motorcycle riding stuntman named Duke Caboom?	Toy Story 2	Chicken Run	The Simpsons Movie	Toy Story 4
+D0TRV32841	Animated Movies	0	Which Disney film was the song "I Wan'na Be like You" from?	The Little Mermaid	Aladdin	Beauty and the Beast	The Jungle Book
+D0TRV32842	Animated Movies	0	In Shrek, what invaded Shrek's swamp?	Moose	Bees	Crocodiles	Fairy-tale creatures
+D0TRV32843	Animated Movies	0	In which film is the main villain Lord Shen, a peacock?	Ice Age	The Incredibles	WALL-E	Kung Fu Panda 2
+D0TRV32844	Animated Movies	0	In which film did penguins pilot a ship?	Ice Age	The Lego Movie	Zootopia	Madagascar
+D0TRV32845	Animated Movies	0	In which film did Shrek temporarily rule while King Harold was on medical leave?	Shrek	Snow White And The Seven Dwarfs	The Lord of the Rings	Shrek the Third
+D0TRV32846	Animated Movies	0	Which animated film tells the story of Moses?	Despicable Me	Brave	The Little Prince	The Prince of Egypt
+D0TRV32847	Animated Movies	0	In which film did Woody hope to find Bo Peep in an antiques store?	Finding Nemo	Toy Story	The Croods	Toy Story 4
+D0TRV32848	Animated Movies	0	In the film Madagascar, how many penguins escaped?	12	8	1	4
+D0TRV32849	Animated Movies	0	At the start of WALL-E, what condition was Earth in?	Pristine Nature	Desert dunes	All ocean	Garbage-strewn wasteland
+D0TRV32850	Animated Movies	0	In Monsters University, what color was Sulley?	Green	Yellow with black dots	White and red stripes	Blue with purple spots
+D0TRV32851	Animated Movies	0	In Toy Story 3, what was Barbie enamored by at the daycare?	Dress	Purse	Corvette	Ken doll
+D0TRV32852	Animated Movies	0	In Disney's Brother Bear, where did Kenai agree to lead Koda?	North Pole	Cave of Wonders	Washington D.C.	Salmon Run
+D0TRV32853	Animated Movies	0	In Snow White, what broke the curse from the poisoned apple?	Crocodile tears	Eye of newt	Bat wing	Love's first kiss
+D0TRV32854	Animated Movies	0	In the film Madagascar, what animal was Gloria?	Alligator	Lemur	Wolf	Hippopotamus
+D0TRV32855	Animated Movies	0	In which film were Shrek and Fiona invited by Fiona's parents to a royal ball?	Cinderella	Alice in Wonderland	Aladdin	Shrek 2
+D0TRV32856	Animated Movies	0	Which film featured Emmet, WyldStyle, Batman and Princess Unikitty?	Madagascar	Kung Fu Panda	Moana	The Lego Movie
+D0TRV32857	Animated Movies	0	In which film did Gru start working for the Anti-Villain League?	How to Train Your Dragon	Shrek	The Incredibles	Despicable Me 2
+D0TRV32858	Animated Movies	0	In which film did Manny first meet Ellie, a female mammoth?	How to Train Your Dragon	Kung Fu Panda	The Land Before Time	Ice Age: The Meltdown
+D0TRV32859	Animated Movies	0	In Lilo and Stitch, how many arms did Stitch have?	1	6	10	4
+D0TRV32860	Animated Movies	0	In the film Kung Fu Panda, what animal was named Po?	Mantis	Snake	Raccoon	Panda
+D0TRV32861	Animated Movies	0	In which Disney/Pixar film did musician Miguel try to return to the land of the living?	The Book of Life	Kung Fu Panda	Shrek	Coco
+D0TRV32862	Animated Movies	0	In the film How to Train your Dragon, what were Hiccup's people?	Eskimos	Cavemen	Aboriginal	Vikings
+D0TRV32863	Animated Movies	0	In Disney's Frozen, what is Kristoff's reindeer named?	Olaf	Pumba	Abu	Sven
+D0TRV32864	Animated Movies	0	In The Secret Life of Pets, what color is Max the Jack Russell Terrier?	Black	Golden	White	Brown and White
+D0TRV32865	Animated Movies	0	In Toy Story, what did the martian dolls consider to be like a God?	Ham	Mr. Potato head	Army men	the Claw
+D0TRV32866	Animated Movies	0	In which film did we meet Dru, Felonius Gru's long-lost twin?	Despicable Me	The Incredibles	Minions	Despicable Me 3
+D0TRV32867	Animated Movies	0	In Disney's Cinderella, who was invited to the ball?	Only princesses	Only nobles	Only ticket holders	Every eligible maiden
+D0TRV32868	Animated Movies	0	In which film was a subterranean jungle with dinosaurs discovered in a cave?	Aladdin	TMNT	The Incredibles	Ice Age: Dawn of the Dinosaurs
+D0TRV32869	Animated Movies	0	In Zootopia, what animal was Chief Bogo, Judy's boss?	Giraffe	Mouse	Hyena	Water Buffalo
+D0TRV32870	Animated Movies	0	In Kung Fu Panda 2, what animal makes up most of Shen's army?	Ducks	Turtles	Deers	Wolves
+D0TRV32871	Animated Movies	0	In which film was a young girl given a button-eyed rag doll which eerily resembled her?	Princess Mononoke	Monster House	Toy Story	Coraline
+D0TRV32872	Animated Movies	0	In Disney's Cinderella, who sang "Bibbidi bobbidi boo"?	Maleficent	Genie	Ursula	Fairy Godmother
+D0TRV32873	Animated Movies	0	In which film did Alex and friends crash land in continental Africa?	The Lion King	Planes	Big Hero 6	Madagascar: Escape 2 Africa
+D0TRV32874	Animated Movies	0	Which character designed the Incredibles' outfits in the Incredibles films?	Frozone	Elastigirl	Violet	Edna Mode
+D0TRV32875	Animated Movies	0	In which animated film did an ogre rescue a princess?	The Smurfs and the Magic Flute	The Lord of the Rings	Hercules	Shrek
+D0TRV32876	Animated Movies	0	In which film did Gru try to steal the moon?	Moonstruck	James and the Giant Peach	Spirited Away	Despicable Me
+D0TRV32877	Animated Movies	0	In Disney/Pixar's "Soul", what musical instrument did Joe play?	Saxophone	Violin	Bass	Piano
+D0TRV32878	Animated Movies	0	In which film did Mr. Incredible struggle with his role as a stay-at-home parent?	Despicable Me	The Boss Baby	The Croods	The Incredibles 2
+D0TRV32879	Animated Movies	0	In which film did Dash need help with math homework?	Kung Fu Panda	Sing	Frozen 2	The Incredibles 2
+D0TRV32880	Animated Movies	0	In which film did Hiccup become cheiftain of Berk?	Monsters Inc.	Shrek 2	Brave	How to Train Your Dragon 2
+D0TRV32881	Animated Movies	0	In Monsters University, which monsters had horns?	Sulley	Mike	Terry	All of these
+D0TRV32882	Animated Movies	0	In which film did some minions try to steal the Imperial State Crown?	The Incredibles	Despicable Me 3	Big Hero 6	Minions
+D0TRV32883	Animated Movies	0	In Disney's Cinderella, when did the Fairy Godmother's spell expire?	In a week	New Years day	Love's first kiss	At Midnight
+D0TRV32884	Animated Movies	0	In the Minions film, who did minions unintentionally crush under a pyramid?	Napoleon	Bonnie and Clyde	Lex Luther	A Pharaoh
+D0TRV32885	Animated Movies	0	In which mostly animated film did Will Ferrell star as "the Man Upstairs"?	The Secret Life of Pets	Monsters Inc.	Shrek	The Lego Movie
+D0TRV32886	Animated Movies	0	Which Disney princess sang "Do you want to build a snowman"?	Jasmine	Aurora	Snow White	Anna
+D0TRV32887	Animated Movies	0	In which film did Shakira voice Gazelle, a famous pop star?	The Boss Baby	Brave	Ratatouille	Zootopia
+D0TRV32888	Animated Movies	0	In which Disney/Pixar film was the princess an expert with the bow and arrow?	Frozen	Moana	Shrek	Brave
+D0TRV32889	Animated Movies	0	In which Disney film was a boy named Kenai transformed into a bear?	Pocahontas	Zootopia	Lilo and Stitch	Brother Bear
+D0TRV32890	Animated Movies	0	In Big Hero 6, what color was healthcare robot Baymax?	Yellow	Blue	Black	White
+D0TRV32891	Animated Movies	0	In Toy Story, who did Buzz think was his enemy?	Emperor Ming	Darth Vader	Cylons	Emperor Zurg
+D0TRV32892	Animated Movies	0	In the film Madagascar, which zoo animals ended up in Madagascar?	Zebra	Lion	Giraffe	All of these
+D0TRV32893	Animated Movies	0	Which animated character traversed jungles by swinging on vines between trees?	Horton	Padington	Bambi	Tarzan
+D0TRV32894	Animated Movies	0	Which film made in Japan starred Ash Ketchum?	Ponyo	Spirited Away	A Silent Voice	Pokemon: The First Movie
+D0TRV32895	Animated Movies	0	In which Disney/Pixar's Coco, what instrument did Miguel play?	Trumpet	Violin	Tuba	Guitar
+D0TRV32896	Animated Movies	0	In which Disney film was an alien adopted from a dog pound?	Moana	The Lady and the Tramp	101 Dalmatians	Lilo and Stitch
+D0TRV32897	Animated Movies	0	Which Disney princess sang "Let it go"?	Belle	Ariel	Cinderella	Elsa
+D0TRV32898	Animated Movies	0	In the film Kung Fu Panda, what animal was Po's adoptive noodle vending father?	Dragon	Gorilla	Dog	Goose
+D0TRV32899	Animated Movies	0	In which film did chickens living on an egg farm plot to escape?	Chicken Little	Babe	Zootopia	Chicken Run
+D0TRV32900	Animated Movies	0	In Snow White, who did the Queen order to kill Snow White?	Big Bad Wolf	Jafar	Puss in Boots	Huntsman
+3A33079	Animated Films	1	Which is a Tim Burton film?	How to Train Your Dragon 2	Tangled	Hotel Transylvania	Frankenweenie
+3A33055	Animated Films	1	Which 2017 film grossed over 1 billion dollars worldwide?	Coco	The Emoji Movie	Smurfs: The Lost Village	Despicable Me 3
+618D507	Animated Films	1	What color is Sherlock Gnomes hat and coat?	White	Black	Red	Green
+465213	Animated Films	1	Hoodwinked was a 2005 animated mystery based on which fairy tale?	Snow White	Cinderella	Jack and the Beanstalk	Little Red Riding Hood
+397204	Animated Films	1	What is the name of the evil witch in the 1959 animated classic "Sleeping Beauty"?	Aurora	Flora	Fauna	Maleficent
+515949	Animated Films	1	Whose best friend and dragon is Toothless, a Night Fury, in the 2014 film "How To Train Your Dragon 2"?	Stoick	Valka	Astrid	Hiccup
+506999	Animated Films	1	Billy Crystal and John Goodman voice characters in what 2013 animated film?	Turbo	The Smurfs 2	Despicable Me 2	Monsters University
+354131	Animated Films	1	In the 2007 movie "Ratatouille", what does Remy the rat secretly do?	Dance	Sing	Draw	Cook
+397357	Animated Films	1	What Canadian comedic team do characters see in "South Park: Bigger, Longer & Uncut"?	Joe And Bill	Steve And Kenny	Dwight And Tom	Terrance And Phillip
+531436	Animated Films	1	Jeff Gordon voiced a character named Jeff Gorvette on which 2011 animated film?	Kung Fu Panda 2	Rio	Puss In Boots	Cars 2
+462291	Animated Films	1	Whom of the following is not a character from "Dante's Inferno: An Animated Epic"?	Plato	Virgil	Socrates	Confucius
+348542	Animated Films	1	Which animated movie villain wore a black dress and long coat of Dalmatian-spotted fur?	Ursula	Hades	Maleficent	Cruella De Vil
+3A33081	Animated Films	1	Which is a Steven Spielberg film?	Wreck-It Ralph	Brave	The Good Dinosaur	The Adventures of Tintin
+3A33053	Animated Films	1	Which 2016 film grossed over 1 billion dollars worldwide?	Trolls	Kung Fu Panda 3	Moana	Zootopia
+401848	Animated Films	1	Who are the buff, macho bees that court danger in "Bee Movie"?	Dandy Dippers	Flower Power	Buzzy Bees	Pollen Jocks
+379218	Animated Films	1	Which 2007 movie featured an Alaskan bar named "Eski-Moe's"?	No Reservations	Transformers	Licensed To Wed	The Simpsons Movie
+3D27809	Animated Films	1	Who of these is a character from the film , "ParaNorman"?	A.B. Sitter	Wise Paw	Dr. Paul Williams	Courtney Babcock
+186092	Animated Films	1	Which friendly ghost went from cult cartoon to movie star?	George	Spooky	Wendy	Casper
+494309	Animated Films	1	Most of "Madagascar 3" takes place on which continent?	Africa	Asia	North America	Europe
+504763	Animated Films	1	What 2013 film is about turkeys trying to survive Thanksgiving?	Big Sur	Carrie	Prisoners	Free Birds
+3A33063	Animated Films	1	Which film won the 2017 Golden Globe Award for Best Animated Feature Film?	The Good Dinosaur	Ferdinand	Anomalisa	Coco
+45437	Animated Films	1	Who does Ariel fall in love with in "The Little Mermaid"?	Prince Phillip	Prince Charming	Gaston	Prince Eric
+254486	Animated Films	1	Which film is about the son of a gangster shark boss?	The Ring Two	Shall We Dance	Hitch	Shark Tale
+494310	Animated Films	1	In "Madagascar 3", what kind of animal is Alex?	Bear	Tiger	Elephant	Lion
+354128	Animated Films	1	Which food critic in the 2007 animated movie "Ratatouille" is known as "The Grim Eater"?	Skinny "Dinner" Skinner	Colette Corvette	Molly O'Neill	Anton Ego
+3D27808	Animated Films	1	Who does the voice of Max in the animated film "The Secret Life of Pets 2"?	Louis C.K.	Kevin Hart	Dana Carvey	Patton Oswalt
+295953	Animated Films	1	In "Pokemon Heroes", what does Pikachu say?	Poko	Paka	Pooka	Pika
+465211	Animated Films	1	In which city was 2009's "The Princess and the Frog" set?	Toronto	Moscow	Las Vegas	New Orleans
+302031	Animated Films	1	In "Chicken Little", what does Chicken Little think is falling?	The Stock Market	His Grades	His Pants	The Sky
+3i11165	Animated Films	1	Complete the title of the animated film, "The Brave Little Toaster to the _____"?	End	Table	Chef	Rescue
+397352	Animated Films	1	Which of these characters sends a bottled plea for help in the 1977 animated film "The Rescuers"?	Ellie Mae	Gramps	Miss Bianca	Penny
+3A33061	Animated Films	1	Which film won the 2018 Golden Globe Award for Best Animated Feature Film?	Isle of Dogs	Mirai	Ralph Breaks the Internet	Spider-Man: Into the Spider-Verse
+99536	Animated Films	1	In which 2001 movie did Eddie Murphy play the character Donkey?	Tarzan & Jane	Lilo & Stitch	The Lion King 1 1/2	Shrek
+518157	Animated Films	1	What are Japanese animated productions usually featuring hand-drawn or computer animation called?	Nintendo	Karaoke	Haiku	Anime
+414398	Animated Films	1	The title character of what animated series is a spider monkey?	Code Lyoko	Avatar: The Last Airbender	Teletubbies	Camp Lazlo
+254460	Animated Films	1	What film features the animated characters Lola and Lenny?	Ice Age	Shrek	Finding Nemo	Shark Tale
+374032	Animated Films	1	Which 2007 animated film featured the vocal talents of Shia LaBeouf?	Ratatouille	Over The Hedge	Happy Feet	Surf's Up
+191757	Animated Films	1	In which 2001 movie did Billy Crystal play Mike Wazowski?	Out Cold	Clockstoppers	Jimmy Neutron: Boy Genius	Monsters Inc.
+618D501	Animated Films	1	What movie is Lucius Best from?	Sherlock Gnomes	The Breadwinner	Thor: Ragnarok	Incredibles 2
+354135	Animated Films	1	In the 2007 movie "Ratatouille", Remy is what kind of animal?	Cat	Dog	Cow	Rat
+465207	Animated Films	1	Which 1995 film was the world's first fully computer-generated feature film?	Up	Cars	Wall-E	Toy Story
+295978	Animated Films	1	What is the name of the Pickles' family dog in "Rugrats Go Wild"?	Tommy	Reptar	Spot	Spike
+3S11163	Animated Films	1	What state does the Addams family move to in the 2019 film "The Addams Family"?	New York	Ohio	Maine	New Jersey
+506985	Animated Films	1	Complete the title of this 2014 3D computer animated film, "Mr. Peabody & ___"?	Cecil	Mrs. Peabody	Bullwinkle	Sherman
+191688	Animated Films	1	What's the title of the original animated movie about a time when the Earth was overrun by glaciers?	The Emperor's New Clothes	The Powderpuff Girls Movie	Scooby-Doo	Ice Age
+483110	Animated Films	1	Miranda Cosgrove voiced the adopted daughter of the supervillain Gru in which 2010 animated movie?	The Incredibles	Hop	The Toxic Avenger	Despicable Me
+218502	Animated Films	1	What is the name of Adam Sandler's animated movie about Hanukah?	Billy Madison	Candles In The Wind	Happy Hanukah Veronica	Eight Crazy Nights
+3D27799	Animated Films	1	Who of these is a character from the film, "The Land Before Time"?	Red	H. G. Cogswell	Katrina	Littlefoot
+295935	Animated Films	1	In the movie "Over the Hedge", what does RJ owe Vincent the bear?	Money	A Pound Of Flesh	His Life	Food
+3S11209	Animated Films	1	Which animated film included the character Master Po Ping?	Pirate Fairy, The	Wreck-It Ralph	Big Hero 6	Kung Fu Panda
+265851	Animated Films	1	Pooh's Heffalump Movie included the character Roo and who else?	George Lutz And Billy Lutz	Valiant And Bugsy	Obi-Wan Kenobi And Anakin Skywalker	Winnie The Pooh, Tigger And Piglet
+3S11187	Animated Films	1	Which film featured the character Griffin the Invisible Man?	Rise of the Guardians	Spirited Away	Finding Dory	Hotel Transylvania
+296280	Animated Films	1	In which animated film does a song performed by Andrea Bocelli appear?	Shrek	Anastasia	The Swan Princess	Quest for Camelot
+397342	Animated Films	1	Where do Pooh and his friends live in "The Many Adventures of Winnie the Pooh"?	The Enchanted Forest	The Blue Forest	Winnie Town	The Hundred Acre Wood
+494304	Animated Films	1	Which character in "Ice Age: Continental Drift" likes acorns?	Manny	Sid	Eddie	Scrat
+481876	Animated Films	1	Which animated film from 2011 starred Johnny Depp as a talking Chameleon?	Toy Story	Kung Fu Panda 2	Ice Age	Rango
+295650	Animated Films	1	How many Dalmatians are there in the movie "101 Dalmatians"?	100	1	72	101
+20VE1852	Animated Films	1	Which 2014 DreamWorks film features characters from the 1960s tv series, "The Rocky and Bullwinkle Show"?	Kiki's Delivery Service	Charlotte's Web	The Iron Giant	Mr. Peabody & Sherman
+76461	Animated Films	1	What is the name of Hercules' trainer in the 1997 movie?	Zeus	Hades	Aries	Phil
+414215	Animated Films	1	In the movie "Toy Story", where did Andy write his name on Woody?	Hat	Vest	Nose	Boot
+41921408	Animated Films	1	Which is a 1991 Japanese animated film written and directed by Isao Takahata?	Hans and the Silver Skates	Robin Hood	Dragon Ball Z: Cooler's Revenge	Only Yesterday
+389698	Animated Films	1	What 2007 movie is based on a long-running animated TV series?	The Jetsons	Fish Police	Family Guy	The Simpsons Movie
+304386	Animated Films	1	What two rats work for The Toad in the animated movie "Flushed Away"?	Moe And Curly	Bart And Lisa	Mickey And Minnie	Spike And Whitey
+397411	Animated Films	1	When Dimitri asks Anastasia what she is looking for in "Anastasia", what is her response?	The American Circus	The French Circus	The German Army	The Russian Circus
+3S11143	Animated Films	1	Who of these is a character from the film , "Kubo and the Two Strings"?	Jah	Showee	Hirooo	Hosato
+531437	Animated Films	1	Darrell Waltrip provided the voice of announcer Darrell Cartrip on what animated film series?	Ice Age	Kung Fu Panda	Monsters, Inc.	Cars
+28273	Animated Films	1	What are the names of the fox and the dog in "The Fox and the Hound"?	Boomer And Copper	Sly And Rover	Todd And Boomer	Todd And Copper
+618D543	Animated Films	1	Who is a mysterious supervillain in "Incredibles 2"?	Scarlet Overkill	Felonius Gru	Elastigirl	Screenslaver
+3S11121	Animated Films	1	Who of these is a character from the film , "Sing"?	Huckleberry Hound	Sally Murphy	The Gruesome Twosome	Meena
+3S11207	Animated Films	1	In "The Lego Movie 2: The Second Part", the visiting aliens come from what planet?	Bricks	Mega Brick	Mindstorm	Duplo
+414942	Animated Films	1	Where are the aliens being kept in the movie "Looney Tunes: Back In Action"?	The Pentagon's Third Basement	Alcatraz	Daffy's Sock	Area 52
+3A33065	Animated Films	1	Which film won the 2016 Golden Globe Award for Best Animated Feature Film?	The Peanuts Movie	Shaun the Sheep Movie	The Peanuts Movie	Zootopia
+397413	Animated Films	1	Where is Lightning McQueen traveling to at the beginning of the animated film "Cars"?	New York	Miami	Chicago	California
+506959	Animated Films	1	Which is an animated feature film?	Transformers: Dark of the Moon	Non-Stop	Pompeii	Epic
+3D27798	Animated Films	1	Who does the voice of Hiccup in the animated film "How to Train Your Dragon: The Hidden World"?	Jonah Hill	Seth Rogen	Justin Rupple	Jay Baruchel
+4p52142	Animated Films	1	Which is a Barbie animated film that featured a girl from Malibu nicknamed "Queen of the Waves"?	Barbie: Thumbelina	Barbie and the Three Musketeers	Barbie: Fairytopia	Barbie in A Mermaid Tale
+191756	Animated Films	1	In which 2001 movie did John Goodman voice the character Sulley?	Happy Feet	An American Tale	Toy Story	Monsters, Inc.
+36893	Animated Films	1	What was the name of Mulan's guardian?	Khan	Ping	Shan Yu	Mushu
+506944	Animated Films	1	Which film is about a MasterBuilder?	Anchorman 2	Winter's Tale	RoboCop	The Lego Movie
+528451	Animated Films	1	What animated movie is about Joy, Fear, Anger, Disgust and Sadness?	The Secret Life of Pets	Home	Despicable Me	Inside Out
+3S11251	Animated Films	1	Which animated film included the character Azteca ?	Planes	Kubo and the Two Strings	Coraline	Antz
+282753	Animated Films	1	What character did Amanda Bynes voice in the animated movie "Robots"?	Cappy	Aunt Fanny	Watch	Piper
+494311	Animated Films	1	In "Madagascar 3", which character is Alex's best friend?	Melman	Gloria	Rico	Marty
+202705	Animated Films	1	In "Land Before Time II" and "V" what character did Littlefoot and his friends see a lot?	Lee	Monter	The Two Threehorn Twins	Chomper
+58362	Animated Films	1	What major event occurred in "The Rugrats Movie"?	The Babies Grew Up	Spike Died	Chuckie's Dad Got Married	Baby Dil Was Born
+494327	Animated Films	1	At the start of "The Croods", where do the Croods live?	In a House	In a Volcano	In a Tree	In a Cave
+87L1101	Animated Films	1	Migo is a friendly Yeti in what animated film from 2018?	Isle of Dogs	Peter Rabbit	Sherlock Gnomes	Small Foot
+506947	Animated Films	1	Which animated film is about a caveman family?	The Lego Movie	Despicable Me	Over the Hedge	The Croods
+3A33059	Animated Films	1	Which film won the 2019 Golden Globe Award for Best Animated Feature Film?	Frozen II	The Lion King	Toy Story 4	Missing Link
+506942	Animated Films	1	Which film is about little plastic toy building blocks?	Frozen	Ride Along	Toy Story	The Lego Movie
+397216	Animated Films	1	The film "Beavis And Butt-Head Do America" was written and directed by which of these men?	Michael Moore	Ron Howard	Aaron Groening	Mike Judge
+3S11231	Animated Films	1	Which animated film included the character Master Shifu?	Weathering with You	The Emperor's New Groove	The Secret Life of Pets 2	Kung Fu Panda
+414316	Animated Films	1	In the 2008 Pixar movie "WALL-E", what sort of pet does the title character have?	Hamster	Robot Dog	Unicorn	Cockroach
+3M00132	Animated Films	1	What 2019 animated film is a stork mistakenly delivering a baby panda to the wrong home?	The Addams Family	UglyDolls	Kitbull	The Big Trip
+328681	Animated Films	1	What 1996 partially animated film did Larry Bird appear in as himself?	Who Stole Roger Rabbit	Cinderella	Cars	Space Jam
+3D27780	Animated Films	1	Which animated film included the character Gru?	Frozen	Sing	Song of the Sea	Despicable Me 3
+528010	Animated Films	1	Which is an animated film?	Black Swan	Eclipse	127 Hours	Tangled
+494305	Animated Films	1	In "Ice Age: Continental Drift", Manny, Sid, and Diego are trapped on what?	Tropical Island	A Mountain	A Cloud	An Ice Block
+481879	Animated Films	1	Which actor reprised his starring role for the 2011 animated film "Kung Fu Panda 2"?	Stephen Colbert	Tom Cruise	Kyle Gass	Jack Black
+3A33051	Animated Films	1	Which 2016 film grossed over 1 billion dollars worldwide?	The Angry Birds Movie	Sing	The Secret Life of Pets	Finding Dory
+494314	Animated Films	1	In "The Lorax", what color is the Lorax?	Green	Blue	Purple	Orange
+414392	Animated Films	1	What sort of animals are led by King Julien XIII in the DreamWorks movie "Madagascar"?	Chimpanzees	Snakes	Armoires	Lemurs
+512752	Animated Films	1	The song "Everything Is AWESOME!!!" is the first track in the soundtrack album of which 2013 animated film?	Cloudy With A Chance Of Meatballs 2	The Smurfs 2	Despicable Me 2	The Lego Movie
+507000	Animated Films	1	Which is an animated film from 2013?	Fast & Furious 6	Star Trek Into Darkness	The Heat	Turbo
+397203	Animated Films	1	What country is the title character fighting to protect in the film "Mulan"?	Japan	North Korea	Vietnam	China
+254817	Animated Films	1	What animated movie features Watch, Madame Gasket and Cappy?	Shark Tale	Toy Story 2	Lion King	Robots
+272800	Animated Films	1	Ricky Martin voiced the lead character in the Spanish version of what animated Disney film?	The Lion King	Little Mermaid	The Jungle Book	Hercules
+528293	Animated Films	1	What is the theme song of the 2014 animated film "The Lego Movie"?	Everything Is Cool	Living Our Dream	Part Of A Team	Everything Is Awesome
+506948	Animated Films	1	What is the 2011 animated film about the Montagues and Capulets and garden gnomes?	Frankenweenie	Rio	Cars 2	Gnomeo & Juliet
+414389	Animated Films	1	What Disney movie is about pigeons carrying messages during a war?	Chicken Little	Chicken Run	Roast Squab	Valiant
+528297	Animated Films	2	Which actress voiced the tech-savvy fighter Wyldstyle in the 2014 animated film "The Lego Movie"?	Alison Brie	Cobie Smulders	Emma Stone	Elizabeth Banks
+45D572	Animated Films	2	Who does the voice of Lord Nooth in the 2018 animated film "Early Man"?	Johnny Depp	Gary Oldman	Tom Hanks	Tom Hiddleston
+382196	Animated Films	2	What is the name of the idyllic animated world in the film "Enchanted"?	Fantasia	Atlantic City	Rome	Andalasia
+3S11199	Animated Films	2	Which animated film included the character Muggins?	Toy Story 4	Finding Dory	Bolt	A Shaun the Sheep Movie: Farmageddon
+3S11213	Animated Films	2	Who of these is a character from the film , "Osmosis Jones"?	Carl Reineroceros	Zeemon	Rocky	Thrax
+3S11103	Animated Films	2	Who of these is a character from the film , "Fantastic Mr. Fox"?	Rex	Shaggy Rogers	Daisy Duke	Walter Boggis
+414397	Animated Films	2	What animal swallows Lucas in the 2006 movie "The Ant Bully"?	Ant	Bird	Elephant	Frog
+3S11155	Animated Films	2	Which animated film included the character La Grise?	Monkey King: Hero Is Back	Coco	The Wonderland	Ernest & Celestine
+522758	Animated Films	2	What are the names of the villain's henchmen in "Planes"?	Bip and Bop	Shine and Shoot	Skull and Bones	Ned and Zed
+515962	Animated Films	2	How old is Hiccup in the 2014 film "How To Train Your Dragon 2"?	22 Years Old	16 Years Old	18 Years Old	20 Years Old
+3D27786	Animated Films	2	Which animated film included the character Tom Colonic?	Big Hero 6	Frozen II	Foodfight!	Osmosis Jones
+325196	Animated Films	2	Which fairy tale princess did not appear in the 2007 animated comedy "Happily N'Ever After"?	Cinderella	Sleeping Beauty	Rapunzel	Snow White
+3S11243	Animated Films	2	Which film featured the character Earl Devereaux ?	Monster House	Moana	Bolt	Cloudy with a Chance of Meatballs
+414386	Animated Films	2	Z in the 1998 movie "Antz" thanks his psychologist for putting him in touch with whom?	His Mother	His Feelings	His Socks	His Inner Maggot
+3S11241	Animated Films	2	Which animated film included the character Chicha?	Osmosis Jones	The Road to El Dorado	Finding Dory	The Emperor's New Groove
+3S11179	Animated Films	2	Which film featured the character Chel?	Wall E	Ne Zha	Foodfight!	The Road to El Dorado
+3D27785	Animated Films	2	Which film featured the character Rin?	Corpse Bride	Kung Fu Panda	The Pirates! Band of Misfits	Spirited Away
+3S11211	Animated Films	2	Who of these is a character from the film , "Sing"?	King Leonard Mudbeard	Captain Mike Murphy	Cave Bird	Rosita
+220175	Animated Films	2	Who directed the 1996 animated, "Beavis and Butt-Head Do America"?	Joel Schumacher	Luc Besson	Taylor Hackford	Yvette Kaplan & Mike Judge
+316140	Animated Films	2	Sarah McLachlan sang the song "When She Loved Me" on which animated movie soundtrack?	Finding Nemo	Toy Story	Cars	Toy Story 2
+463867	Animated Films	2	What popular children's Christmas story was created as a 3D animated feature in 2004?	The Grinch	The Snowman	The Santa Clause	The Polar Express
+3S11223	Animated Films	2	Which animated film included the character Aisling?	Cinderella III: A Twist in Time	Coraline	Antz	The Secret of Kells
+3S11217	Animated Films	2	Who of these is a character from the film , "The Road to El Dorado"?	Gillie	Toote	Gismo Man	Tulio
+20VE1854	Animated Films	2	What is the name of the mother mouse in Don Bluth's "The Secret of NIMH"?	Miss Piggy	Ms. Doubtfire	Mrs. Butterworth	Mrs. Brisby
+296107	Animated Films	2	Who does the boy get a present from in "The Polar Express"?	The Tooth Fairy	Tinkerbell	The Giant Pumpkin	Santa Claus
+397196	Animated Films	2	What animals are Chihiro's parents turned into in the film "Spirited Away"?	Antelopes	Turtles	Groundhogs	Pigs
+387950	Animated Films	2	What actor did the voice of the character Django in the 2007 animated film "Ratatouille"?	Ian Holm	John Quade	Tim Allen	Brian Dennehy
+3M00092	Animated Films	2	What 2019 animated film includes voice work by Mila Kunis and Jennifer Garner?	The Big Trip	Missing Link	I Lost My Bodfy	Wonder Park
+3D27806	Animated Films	2	Which animated film included the character Blobby?	Planes	Spirited Away	Fantastic Mr. Fox	Hotel Transylvania
+3S11149	Animated Films	2	Who of these is a character from the film , "Kubo and the Two Strings"?	Klunk	Mrs. Escrow	Elroy	Hashi
+3S11111	Animated Films	2	Which film featured the character Moon King?	The Emperor's New Groove	UglyDolls	The Pirates! Band of Misfits	Kubo and the Two Strings
+3S11135	Animated Films	2	Which animated film included the character Gunter?	Monsters University	Wreck-It Ralph	ParaNorman	Sing
+3S11229	Animated Films	2	"Weathering with You" is a 2019 animated film from what country?	China	South Korea	Thailand	Japan
+296104	Animated Films	2	What present does the boy choose in "The Polar Express"?	A Diamond Sword	A Gold Watch	A Ruby Necklace	A Silver Bell
+3S11189	Animated Films	2	Who of these is a character from the film , "The Emperor's New Groove"?	Chuck	Wheeler	Bump	Pacha
+3S11197	Animated Films	2	Which animated film included the character Pastor Galswells ?	Shaun the Sheep Movie	Spirited Away	Hotel Transylvania	Corpse Bride
+3S11195	Animated Films	2	Who of these is a character from the film , "Spirited Away"?	Andy LeBeau	Knock Knock	Nugget Nose	Haku
+3D27805	Animated Films	2	Which animated film included the character Batty Koda?	Hotel Transylvania	Moana	UglyDolls	FernGully: The Last Rainforest
+3D27804	Animated Films	2	Which animated film included the character Mr. Prenderghast?	Hotel Transylvania	Planes: Fire Rescue	Osmosis Jones	ParaNorman
+3S11109	Animated Films	2	Which animated film included the character Saoirse?	The Book of Life	Pirate Fairy, The	Moana	Song of the Sea
+3S11147	Animated Films	2	Who of these is a character from the film , "A Shaun the Sheep Movie: Farmageddon"?	Ducky	Scat	Schleprock	Lu-La
+3D27781	Animated Films	2	Who of these is a character from the film , "Kubo and the Two Strings"?	Dr. Zara	Freddy "Curly" Neal	Yankee Doodle Pigeon	Kameyo
+494318	Animated Films	2	The Lorax is based on a book by which author?	Shel Silverstein	Eric Carle	Charles Bukowksi	Dr. Seuss
+512804	Animated Films	2	Pharrell Williams' song "Happy" is included in the soundtrack album of which 2013 animated film?	Cloudy With A Chance Of Meatballs 2	The Smurfs 2	Frozen	Despicable Me 2
+3S11235	Animated Films	2	Who of these is a character from the film , "Corpse Bride"?	Cat Gut	Zilly	Rosinante	Victoria Everglot
+3D27801	Animated Films	2	Who of these is a character from the film , "The Secret of Kells"?	Mr. Pricklepants	Brattina	Frankie	Brother Tang
+3D27802	Animated Films	2	Who of these is a character from the film , "Sing"?	Dee Dee	FX	Snooper	Ash
+338612	Animated Films	2	Which 2003 animated film featured the voice of Ellen DeGeneres?	EdTV	Mr. Wrong	Dr. Dolittle	Finding Nemo
+296053	Animated Films	2	In the movie "The Ant Bully" what do the ants originally call Lucas?	The King	The Evil One	The Giant	The Destroyer
+296084	Animated Films	2	Who provided the voice for King Mufasa in "The Lion King"?	Samuel Jackson	Denzel Washington	Will Smith	James Earl Jones
+414216	Animated Films	2	What's the name of Sid's dog in the movie "Toy Story"?	Trident	Rex	Tabby	Scud
+414400	Animated Films	2	What's the name of the chef on the animated series "Total Drama Island"?	Chef Chopit	Chef Swill	Chef Microwave	Chef Hatchet
+3A33075	Animated Films	2	Which film won the 2011 Golden Globe Award for Best Animated Feature Film?	Puss in Boots	Cars 2	Arthur Christmas	The Adventures of Tintin
+76532	Animated Films	2	Which of the following Don Knotts comedies features the comedian in a mostly animated role?	The Ghost And Mr. Chicken	The Reluctant Astronaut	The Shakiest Gun In The West	The Incredible Mr. Limpet
+61855	Animated Films	2	Who is the voice of Dodger in the '88 animated feature "Oliver and Company"?	Rosie O'Donnell	Huey Lewis	Madonna	Billy Joel
+272827	Animated Films	2	In what animated movie did Halle Berry play the voice of Cappy?	Catwoman	Monster's, Inc.	Ice Age	Robots
+329620	Animated Films	2	Which four-minute cartoon is at the beginning of the movie "Who Framed Roger Rabbit"?	Somethin's Comin'	Look Out	Heads Up	Somethin's Cookin'
+3S11129	Animated Films	2	Who of these is a character from the film , "The Land Before Time 2"?	Krimm	Mr. Eustac	Ralph Kane	Chomper
+397202	Animated Films	2	Who provides the voice of Annie Hughes in the film "The Iron Giant"?	Cameron Diaz	Gwyneth Paltrow	Ellen DeGeneres	Jennifer Aniston
+3A33077	Animated Films	2	Which film won the 2010 Golden Globe Award for Best Animated Feature Film?	The Illusionist	Tangled	Bolt	Toy Story 3
+3S11133	Animated Films	2	Which animated film included the character Reverend Clement Hedges?	Sing	Cloudy with a Chance of Meatballs	The Pirates! Band of Misfits	Wallace & Gromit: The Curse of the Were-Rabbit
+39825	Animated Films	2	In the 1986 movie "The Great Mouse Detective", what is Olivia's last name?	Flanchester	Flamhammer	Flangerhanger	Flaversham
+3S11255	Animated Films	2	Who of these is a character from the film , "The Land Before Time"?	Daphne Blake	Sandy	Tormack	Petrie
+3S11201	Animated Films	2	Which animated film included the character Magi Lune?	Meet the Robinsons	Dr. Seuss' The Lorax	Ice Age: Continental Drift	FernGully: The Last Rainforest
+3M00072	Animated Films	2	Who voiced Wilson Fisk / Kingpin in "Spider-Man: Into the Spider-Verse"?	Alec Baldwin	Tracy Morgan	Nicolas Cage	Liev Schreiber
+528298	Animated Films	2	Which actor voiced Bad Cop/Good Cop in the 2014 animated film "The Lego Movie"?	Morgan Freeman	Will Arnett	Charlie Day	Liam Neeson
+32501	Animated Films	2	In "Iron Will", how does Will's father die?	He Has A Heart Attack	He Dies Of Old Age	Will Shoots Him	He Drowns In The River
+202179	Animated Films	2	Which animated film did not win an Academy Award for Best Animated Feature?	The Incredibles	Spirited Away	Finding Nemo	Howl's Moving Castle
+3S11105	Animated Films	2	Who of these is a character from the film , "The Book of Life"?	Blaster	Mrs.Pearl Slaghoople	Tina	Xibalba
+3S11127	Animated Films	2	Who of these is a character from the film , "FernGully: The Last Rainforest"?	Sheriff Bagley	Richie	Sergeant Flint	Crysta
+494328	Animated Films	2	Which character in "The Croods" can create fire?	Chunky	Belt	Gran	Guy
+401849	Animated Films	2	When Barry learns that people are profiting from honey in "Bee Movie", who does he sue?	George W. Bush	Honex	Sue Bee Honey	The Human Race
+3A33071	Animated Films	2	Which film won the 2013 Golden Globe Award for Best Animated Feature Film?	Frankenweenie	The Croods	Despicable Me 2	Frozen
+92860	Animated Films	2	Who performed the voice of Osmosis Jones in "Osmosis Jones"?	Jim Belushi	Laurence Fishburne	Billy Crystal	Chris Rock
+295867	Animated Films	2	In the movie "Lilo and Stitch", what does the sign on Lilo's door translate to?	Enter	Danger	Caution	Keep Out
+3S11239	Animated Films	2	Who of these is a character from the film , "FernGully: The Last Rainforest"?	Penrod Pooch	Elektra	Rota Ree	Pips
+288868	Animated Films	2	What is the name of the town in the animated Disney/Pixar film "Cars"?	Fastville	Tire Town	Hubcap City	Radiator Springs
+397347	Animated Films	2	Which orchestra played a central role in the creation of the film "Fantasia"?	New York City Symphony	London Symphony	Houston Orchestra	Philadelphia Orchestra
+481893	Animated Films	2	The partly-animated film "Hop" is centered around which holiday?	Boxing Day	Independence Day	Christmas	Easter
+3A33023	Animated Films	2	What studio produced the 2017 released animated film, "Despicable Me 3"?	Sony Pictures Animation	HIT Entertainment	Toei Animation	Illumination Entertainment
+401845	Animated Films	2	What human does Barry speak to in "Bee Movie"?	Charlie	Susie Q.	The Milk Man	Vanessa
+295738	Animated Films	2	In the film "Corpse Bride", where does Victor's new bride take him?	Back To Her Grave	Hell	Heaven	Land Of The Dead
+3S11173	Animated Films	2	Who of these is a character from the film , "The Emperor's New Groove"?	R.J. Scott,	Kwame	Friar Tuck	Kronk
+295648	Animated Films	2	In "Brother Bear", what are the names of the moose brothers who are initially terrified of Kenai?	Ark And Allen	Ruke And Tutt	Ron And Archi	Rutt And Tuke
+3S11291	Animated Films	2	Who voiced Percy in "Smallfoot"?	Chris Rock	Kanye West	Robert De Niro	James Cordon
+295674	Animated Films	2	Who wrote the classic novel that the movie "Bambi" is based on?	Ben Tyler	Anne Hathaway	Pamela Anderson	Felix Salten
+3S11119	Animated Films	2	In "The Secret Life of Pets 2", who does Max's owner Katie marry?	Charley	Dave	Tom	Chuck
+3S11215	Animated Films	2	Who of these is a character from the film , "Coraline"?	Sheriff Rosco P. Coltrane	Goleeta	Ma-Ti	Mel Jones
+414220	Animated Films	2	What numerical code is used in the movie "Monsters, Inc." for contamination by a sock?	99	3342	3.14159	2319
+3S11253	Animated Films	2	Who of these is a character from the film , "FernGully: The Last Rainforest"?	Garry Pig	Kid Comet	Woofer	Hexxus
+414393	Animated Films	2	In the movie "Madagascar", what's the name of King Julien's advisor?	Morgan	Madeleine	Mopey	Maurice
+3D27784	Animated Films	2	Which animated film included the character The Grey One?	Arthur Christmas	Inside Out	Toy Story 4	Ernest & Celestine
+3D27796	Animated Films	2	Which film featured the character Black Bellamy?	Planes: Fire Rescue	Coraline	Antz	The Pirates! Band of Misfits
+3S11131	Animated Films	2	Which film featured the character Mayor Shelbourne ?	Wallace & Gromit: The Curse of the Were-Rabbit	Planes	UglyDolls	Cloudy with a Chance of Meatballs
+475439	Animated Films	2	Actress Emma Watson played the voice of Princess Pea in which animated film?	Despicable Me	Shrek 4	Ratatouille	The Tale of Desperaux
+3S11193	Animated Films	2	Who of these is a character from the film , "The Secret of Kells"?	Dr. Dred	Dapple.	Ranger Dangerfeild	Brother Assoua
+3A33057	Animated Films	2	Which 2015 film grossed over 1 billion dollars worldwide?	The Good Dinosaur	Shaun the Sheep Movie	The Little Prince	Minions
+345347	Animated Films	2	Which was the first Warner Brothers short animated feature?	Steamboat Willie	Mickey Mouse	Felix The Cat	Sinking In The Bathtub
+397201	Animated Films	2	What ballet is performed in the animated classic "Fantasia"?	Dance Of The Ages	Dance Of Dances	Flashdance	Dance Of The Hours
+3S11171	Animated Films	2	Who of these is a character from the film , "Wallace & Gromit: The Curse of the Were-Rabbit"?	Ernie	Boo	Bubie Bear	Lady Campanula Tottington
+3A33073	Animated Films	2	Which film won the 2012 Golden Globe Award for Best Animated Feature Film?	Frankenweenie	Rise of the Guardians	Wreck-It Ralph	Brave
+267588	Animated Films	2	What movie did film critic Monica Eng describe as "a beautifully animated romp"?	Four Brothers	Sahara	The Interpreter	Pooh's Heffalump Movie
+385110	Animated Films	2	What title does Jack Skellington hold in 2007's 3-D version of "The Nightmare Before Christmas"?	Mayor Of Halloweentown	King Halloween	Jack-O-Lantern	Pumpkin King
+465225	Animated Films	2	Who lives in the scary house in "Monster House"?	Mr. Buttermaker	Mr. Wannacracker	Mr. Wackynacker	Mr. Nebbercracker
+3A33017	Animated Films	2	What studio produced the 2017 released animated film, "Captain Underpants: The First Epic Movie"?	Blue Dream Studios	Walt Disney Pictures	Melnitsa Animation Studio	DreamWorks Animation
+3S11219	Animated Films	2	Which animated film included the character Mr. Thicknose?	Cloudy with a Chance of Meatballs	The Road to El Dorado	Antz	The Land Before Time 8: The Big Freeze
+515961	Animated Films	2	What dragon has an owl mannerism and a second set of wings in the 2014 film "How To Train Your Dragon 2"?	Bewilderbeast	Grump	Skullcrusher	Cloudjumper
+354132	Animated Films	2	What is the name of Remy's brother in the 2007 movie "Ratatouille"?	Pierre	Bastien	Chubbo	Emile
+414390	Animated Films	2	What squadron does Valiant join in the 2005 Disney movie "Valiant"?	Squadron B	1st Pigeon Wing	F Troop	Squadron F
+3D27783	Animated Films	2	Who of these is a character from the film , "Rise of the Guardians"?	Mr. Cool	Angelica	Moleculelad	Tooth
+397206	Animated Films	2	The tagline for "The Simpsons Movie" was "See our family. And feel" what?	Sad	Glad To Be Alive	Nothing Much At All	Better About Yours
+230784	Animated Films	2	Who voiced Maggie the cow in the 2004 movie "Home on the Range"?	Betty White	Estelle Parsons	Marie Osmond	Roseanne Barr
+3D27782	Animated Films	2	Who of these is a character from the film , "Hotel Transylvania"?	Rufus	Howler	Laughy Paw	Mavis Dracula
+89849	Animated Films	2	Which of these classic films was released first?	The Lion King	Aladdin	Beauty And The Beast	The Little Mermaid
+3S11141	Animated Films	2	Who does the voice of Cousin Itt in the 2019 animated film "The Addams Family"?	Kevin Hart	Nick Kroll	Martin Short	Snoop Dogg
+465221	Animated Films	2	In which 2010 animated film would you find Gru and Vector?	Igor	Flipped	Furry Vengeance	Despicable Me
+3D27793	Animated Films	2	Who of these is a character from the film , "Osmosis Jones "?	Fencer	Trixue	Multi Man	Drix
+3D27790	Animated Films	2	Who of these is a character from the film , "Despicable Me 3"?	Bluto	Pepper	Jonathan Wellington "Mudsy" Muddlemore	Balthazar Bratt
+414319	Animated Films	2	Who provides the voice of Bigweld in the 2005 movie "Robots"?	Robin Williams	Sid Caesar	Ianna Robot	Mel Brooks
+3S11185	Animated Films	2	In "The Lego Movie 2: The Second Part", who does the voice of Superman?	Chris Pratt	Will Ferrell	Jonah Hill	Channing Tatum
+414930	Animated Films	2	What 1963 Disney animated feature is based on the legend of King Arthur?	The Green Knight	The Book Of Merlin	Artie's Funtime Show	The Sword In The Stone
+382312	Animated Films	2	What is the name of the home farm in the film "Home on the Range"?	Slice Of Paradise	Pansy Patch	Old Macdonald's	Patch Of Heaven
+304420	Animated Films	2	In "Over the Hedge", what kind of animal is Vern?	A Cow	A Snake	A Puppy	A Turtle
+414387	Animated Films	2	Disney released an animated film in 2005 based on what fable?	The Princess And The Pea	Dick Whittington's Cat	The Da Vinci Code	Chicken Little
+295983	Animated Films	2	What word, repeated throughout the movie, was intended as the original title for "Shark Tale"?	Shark	Revenge	Voyage	Sharkslayer
+296099	Animated Films	2	What song in the 2004 animated film "The Polar Express" features dancing waiters?	I Love Trash	America The Beautiful	Jingle Bells	Hot Chocolate
+465217	Animated Films	2	In "Up", what were Alpha, Beta and Gamma?	Planets	Cars	Robots	Dogs
+3D27791	Animated Films	2	Who of these is a character from the film , "Wallace & Gromit: The Curse of the Were-Rabbit"?	Yi	Sea Hag	Tod	Victor Quartermaine
+3D27794	Animated Films	2	Which film featured the character Miss April Spink?	Tangled	Big Hero 6	Antz	Coraline
+475450	Animated Films	2	Actress Hayden Panettiere did the voice for a character named Dot in which animated film?	Antz	Up!	The Princess and the Frog	A Bug's Life
+3S11257	Animated Films	2	Who of these is a character from the film , "Cloudy with a Chance of Meatballs"?	Betty Jean	Snagglepuss	Casey	Baby Brent
+397353	Animated Films	2	Who is Lilo and Nani's social worker in the 2002 animated film "Lilo & Stitch"?	Rattle Bubbles	Diamondback Bubbles	Bubbles McGee	Cobra Bubbles
+465222	Animated Films	2	Which 2003 Pixar film set a U.S. record selling 2 million DVDs within 2 weeks of its home media release?	Toy Story	Brother Bear	A Bug's Life	Finding Nemo
+465219	Animated Films	2	Which film's lead character's name is derived from the German word meaning "fright"?	Beetlejuice	Babe	Benji	Shrek
+3S11151	Animated Films	2	Who of these is a character from the film , "Hotel Transylvania"?	Mighty Paw	Willford Wolf	Deputy Fishtail	Eunice
+3S11153	Animated Films	2	Which animated film included the character Mayor Phlegmming?	Fantastic Mr. Fox	Monsters University	Rise of the Guardians	Osmosis Jones
+397348	Animated Films	2	Where does Hogarth Hughes keep his giant in the animated film "The Iron Giant"?	His Closet	The Trunk Of His Car	His Classroom	A Junkyard
+3S11259	Animated Films	2	Which animated film included the character PC Mackintosh?	Tangled	The Boxtrolls	The Road to El Dorado	Wallace & Gromit: The Curse of the Were-Rabbit
+3D27789	Animated Films	2	What is the name of the teenage girl who helps the yeti in the 2019 film "Abominable"?	Jin	Nai	Peg	Yi
+3A33069	Animated Films	2	Which film won the 2014 Golden Globe Award for Best Animated Feature Film?	The Book of Life	The Boxtrolls	The Lego Movie	How to Train Your Dragon 2
+3S11191	Animated Films	2	Who of these is a character from the film , "Rise of the Guardians"?	Gabby Gabby	Harry Scary	Cupcake	Jack Frost
+3S11125	Animated Films	2	Who of these is a character from the film , "ParaNorman"?	Jessie	Bill S. Prestone	Zoe	Norman Babcock
+414096	Animated Films	2	What 1961 Disney animated film had a 1996 live-action remake with Glenn Close as the villain?	Lady And The Tramp	Cinderella	Star Wars	101 Dalmatians
+304384	Animated Films	2	What underground world does Roddy end up in in the movie "Flushed Away"?	Arabia	The Amazon	The Moon	Ratropolis
+397356	Animated Films	2	Which of these bands was featured in the film "Beavis And Butt-Head Do America"?	Metallica	Pantera	The Pretenders	White Zombie
+3S11107	Animated Films	2	Who of these is a character from the film , "Corpse Bride"?	Sancho Panda	Henry	Larry	Barkis Bittern
+528294	Animated Films	2	Which character in the 2014 animated film "The Lego Movie" is voiced by Morgan Freeman?	Lord Business	Metal Beard	Bad Cop/Good Cop	Vitruvius
+3D27779	Animated Films	2	Who does the voice of Burnish in the 2019 animated film "Abominable"?	Finn Wolfhard	Keegan-Michael Key	Jordan Peele	Eddie Izzard
+504852	Animated Films	2	What animated film features the voices of Pitbull, Steven Tyler and Beyonce Knowles?	Turbo	Frozen	Planes	Epic
+3S11157	Animated Films	2	Which animated film included the character Chihiro Ogino?	Bolt	Coraline	Antz	Spirited Away
+414385	Animated Films	2	In the 1998 DreamWorks movie "Antz", what's Z's full name?	Z-8192	Z-8888	Z.Z. Top	Z-4195
+3S11263	Animated Films	2	Which animated film included the character Barbatus?	Inside Out	Ne Zha	Bug's Life	Antz
+3S11175	Animated Films	2	Which film featured the character Peg Leg Hastings?	ParaNorman	Cloudy with a Chance of Meatballs	Rise of the Guardians	The Pirates! Band of Misfits
+3S11167	Animated Films	2	Who of these is a character from the film , "Kung Fu Panda"?	Zeta	Rawhide Clyde	Detective Logan	Grand Master Oogway
+397208	Animated Films	2	In the film "The Dark Crystal", what does Kira say about prophets?	They Know Everything	They Know Some Things	They Are Always Trustworthy	They Don't Know Everything
+295883	Animated Films	2	What is the name of the king in the movie "Madagascar"?	King Ralf	King Charles	King James	King Julian
+345324	Animated Films	2	What Walt Disney animated feature was the first successful animated film with sound?	Plane Crazy	Galloping Gaucho	Here's Mickey	Steamboat Willie
+528296	Animated Films	2	Which actor lent his voice to Batman in the 2014 animated film "The Lego Movie"?	Nick Offerman	Liam Neeson	Chris Pratt	Will Arnett
+3D27788	Animated Films	2	How to Train Your Dragon: The Hidden World is what installment in the film series?	2nd	1st	4th	3rd
+401844	Animated Films	2	Where do Barry B. Benson and his pal Adam Flayman make their home in "Bee Movie"?	Hollywood	Pittsburgh	Yellowstone National Park	Central Park
+3A33067	Animated Films	2	Which film won the 2015 Golden Globe Award for Best Animated Feature Film?	Shaun the Sheep Movie	Big Hero	Despicable Me	Inside Out
+3A33019	Animated Films	2	What studio produced the 2017 released animated film, "Cars 3"?	The Thinklab	Grid Animation	Kraken Films	Pixar
+3A33021	Animated Films	2	What studio produced the 2017 released animated film, "Coco"?	Sony Pictures Animation	Warner Home Video	Melnitsa Animation Studio	Pixar
+220095	Animated Films	2	Who directed the 1992 animated, "Aladdin"?	John Kricfalusi Jeff Kanew	Paul Thomas Anderson	Spike Lee	Ron Clements
+296001	Animated Films	2	Who is Shrek married to in the movie "Shrek 2"?	Philomena	Frances	Phoebe	Fiona
+295965	Animated Films	2	Which "Racing Stripes" actor voiced Domino in the video game adaptation of 2000's "102 Dalmatians"?	Joshua Jackson	Mandy Moore	Steve Harvey	Frankie Muniz
+3S11177	Animated Films	2	Which film featured the character Miss Miriam Forcible?	The Book of Life	Moana	Frozen	Coraline
+397351	Animated Films	2	What surrounds the town of Springfield in "The Simpsons Movie"?	A Fog Of Pollution	A Giant Army	Very Steep Cliffs	A Giant Dome
+3S11169	Animated Films	2	Who of these is a character from the film , "Cloudy with a Chance of Meatballs"?	Dolly	Taffy	Philo Quartz	Sam Sparks
+295976	Animated Films	2	What is the name of the family the Rugrats encounter in the movie "Rugrats Go Wild"?	The Pickles	The Neutrons	The Osbournes	The Thornberrys
+265702	Animated Films	2	Which star portrayed Winnie the Pooh/Tigger (voice) in the movie "Pooh's Heffalump Movie"?	Trevor Blumas	Keanu Reeves	Adam Sandler	Jim Cummings
+3D27795	Animated Films	2	Which animated film included the character Miguel?	The Land Before Time	Osmosis Jones	The Pirates! Band of Misfits	The Road to El Dorado
+309462	Animated Films	2	For which animated film did Bryan Adams contribute to the soundtrack?	Shrek	The Prince Of Egypt	Tarzan	Spirit: Stallion Of The Cimarron
+296102	Animated Films	2	When do the events of the movie "The Polar Express" take place?	St. Patrick's Day	Easter	The 4th Of July	Christmas Eve
+3S11221	Animated Films	2	Which animated film included the character Bronach?	Happy Feet	Coraline	Antz	Song of the Sea
+3D27803	Animated Films	2	Who of these is a character from the film , "Despicable Me 3"?	April Stewart	Rosemary	Razor	Silas Ramsbottom
+3S11233	Animated Films	2	Who of these is a character from the film , "The Book of Life"?	Steve Eagle	Allstar	Cy-Kill	Joaquin
+3D27792	Animated Films	2	Who of these is a character from the film , "The Emperor's New Groove"?	Spinner	Jefferson Davis "Boss" Hogg	General Mike Summit	Yzma
+3S11145	Animated Films	2	Who of these is a character from the film , "The Land Before Time"?	Silver	Square Bear	Yabba-Doo	Cera
+3M00052	Animated Films	2	Who voiced Aunt May in "Spider-Man: Into the Spider-Verse"?	Bette Midler	Taylor Swift	Jane Fonda	Lilly Tomlin
+3S11237	Animated Films	2	Who of these is a character from the film , "A Shaun the Sheep Movie: Farmageddon"?	Wiggy Rockstone	Kodiak Crane	Scooter	Agent Red
+465507	Animated Films	2	Which actress voiced Esmeralda in the 1996 animated film "The Hunchback of Notre Dame"?	Jodi Benson	Cameron Diaz	Paige O'Hara	Demi Moore
+3S11113	Animated Films	2	Which film featured the character Miss Birdwell?	Frozen	Coraline	The Pirate Fairy	The Emperor's New Groove 2: Kronk's New Groove
+3S11261	Animated Films	2	Which animated film included the character Miss Crawly?	Despicable Me 3	Kung Fu Panda	The Pirates! Band of Misfits	Sing
+3A33011	Animated Films	3	What studio produced the 2017 released animated film, "Bob the Builder: Mega Machines"?	20th Century Fox	Disney Studios	Zadorin Entertainment	HIT Entertainment
+618D547	Animated Films	3	Who does the voice for Sherlock Gnomes in the 2018 movie "Sherlock Gnomes"?	Dwayne Johnson	Ariana Grande	Justin Beiber	Johnny Depp
+3A33009	Animated Films	3	What studio produced the 2017 released animated film, "Batman and Harley Quinn"?	Locus Creative Studios	Electricbeard Productions	Blue Dream Studios	Warner Home Video
+3S11137	Animated Films	3	Which film featured the character Cutlass Liz ?	Fantastic Mr. Fox	Monsters University	Rise of the Guardians	The Pirates! Band of Misfits
+414219	Animated Films	3	Which character in the movie "Monsters, Inc." has all his fur shaved off?	Randall Boggs	James Sullivan	Jiminy Cricket	George Sanderson
+221021	Animated Films	3	Who directed the 1998 animated, "Small Soldiers"?	Griffin Dunne	Harry Hook	Roger Spottiswoode	Joe Dante
+18782	Animated Films	3	What was the name of Nala's mother in the movie "The Lion King"?	Shenzi	Sarabi	Zira	Sarafina
+3A33015	Animated Films	3	What studio produced the 2017 released animated film, "Bunyan and Babe"?	Electricbeard Productions	Vanguard Animation	Walt Disney Pictures	Exodus Film Group
+3D27807	Animated Films	3	Which animated film included the character Mandible?	UglyDolls	Wreck-It Ralph	Hotel Transylvania	Antz
+3A33031	Animated Films	3	What studio produced the 2017 released animated film, "The Jetsons & WWE: Robo-WrestleMania!"?	Electricbeard Productions	Pixar	Studio Ponoc	Warner Bros. Animation
+397412	Animated Films	3	The animated film "The Black Cauldron" is based on a series of books written by whom?	C.S. Lewis	J.R.R. Tolkien	Bette Davis	Lloyd Alexander
+3A33037	Animated Films	3	What studio produced the 2017 released animated film, "The Lego Ninjago Movie"?	Kyoto Animation	Sony Pictures Animation	Slyers Animation Studios	Warner Bros. Animation
+618D513	Animated Films	3	Peng, Chi and Larry are character in which film?	Ferdinand	The Star	Incredibles 2	Duck Duck Goose
+3S11183	Animated Films	3	Which animated film included the character Flint Lockwood?	Planes: Fire Rescue	The Road to El Dorado	The Secret of Kells	Cloudy with a Chance of Meatballs
+397200	Animated Films	3	Who is the hen's leader in the 2000 stop-motion film "Chicken Run"?	Rocky	Fowler	Bunty	Ginger
+414399	Animated Films	3	What show that debuted on Cartoon Network in 2008 is an animated reality show?	Courage The Cowardly Dog	Pokemon	60 Minutes	Total Drama Island
+379519	Animated Films	3	In what U.S. city did 2007's "The Simpsons Movie" hold its debut?	Springfield, Oregon	Springfield, Massachusetts	Springfield, Illinois	Springfield, Vermont
+221227	Animated Films	3	Who directed the 1999 animated, "The Iron Giant"?	Clive Barker	Gore Verbinski	Richard Linklater	Brad Bird
+414978	Animated Films	3	What hotel does Babe stay at in "Babe: Pig in the City"?	Barnette Suites	Shaggy's	Happy Porker Inn	Flealands Hotel
+397207	Animated Films	3	Who provides the voice for Bernard in the 1977 Disney film "The Rescuers"?	Matt Groening	Mel Gibson	Tim Allen	Bob Newhart
+12K1129	Animated Films	3	Which two characters are from the "Dragons: Race to the Edge"?	Ren And Stimpy	Lagertha And Floki	Baylis And Sherr	Stoick And Hiccup
+234486	Animated Films	3	In "Beavis and Butt-Head Do America", Tim Guinee is the voice of whom?	Old Woman On Plane	Limo Driver	Motley Crue Roadie	Hoover Dam Guide
+95524	Animated Films	3	Which bears take care of the other bears when they are cubs in "Care Bear Movie 2"?	Proud Heart And Wish Bear	Brave Heart And Tender Heart	Lots-A-Heart And Love-A-Lot	Noble Heart And True Heart
+12K1084	Animated Films	3	In the movie "Early Man", who is Dug's sidekick?	Barry	Treebor	Goona	Hognob
+466047	Animated Films	3	What is "Dug," star of the Pixar animated short "Dug's Special Mission"?	A goldfish	A talking car	An alien	A dog
+414384	Animated Films	3	What's the name of the caterpillar in the 1998 movie "A Bug's Life"?	Pasteur	Morty	Tractor	Heimlich
+414395	Animated Films	3	In 2004's "The Incredibles", what man does Mr. Incredible keep from committing suicide?	Bomb Voyage	Buddy Pine	Clark Kent	Oliver Sansweet
+3A33091	Animated Films	3	What studio produced the 2017 released animated film, "Teen Titans: The Judas Contract"?	Illumination Entertainment	Slyers Animation Studios	Pixar	Warner Home Video
+3S11159	Animated Films	3	Which animated film included the character Tinkles?	Frankenweenie	Planes: Fire Rescue	The Road to El Dorado	Hotel Transylvania
+60035	Animated Films	3	What is the name of the sequel to "A Goofy Movie"?	A Brand New Goofy Movie	Goofy Movie II: Away To College	Another Goofy Movie	An Extremely Goofy Movie
+3D27810	Animated Films	3	Who of these is a character from the film , "Monkey King: Hero Is Back"?	Pinky	Satchel	Officer Maxie	Liuer
+397213	Animated Films	3	According to the narrator in "The Black Cauldron", where did an evil king live?	Meridian	Ludian	Finnigan	Prydain
+3A33041	Animated Films	3	What studio produced the 2017 released animated film, "Tehran Taboo"?	Walt Disney Pictures	Illumination Entertainment	Warner Bros. Animation	Little Dream Entertainment
+3S11247	Animated Films	3	Which film featured the character Tzekel-Kan?	Hotel Transylvania	The Secret Life of Pets 2	UglyDolls	The Road to El Dorado
+220748	Animated Films	3	Who directed the 2001 animated, "Monsters, "Inc."?	Joe Johnston	Oliver Stone	Ron Shelton	Peter Docter
+414327	Animated Films	3	In 1999's "The Iron Giant", what sort of animal does the giant see being killed?	Squirrel	Alligator	Mosquito	Deer
+3A33099	Animated Films	3	What studio produced the 2017 released animated film, "My Little Pony: The Movie"?	Nickelodeon Animation Studio	Melnitsa Animation Studio	Pixar	Hasbro Studios
+3D27797	Animated Films	3	Which film featured the character Jamie Bennett?	Astro Kid	Brave	Dr. Seuss' The Lorax	Rise of the Guardians
+618D509	Animated Films	3	What kind of dog is the star of "Sgt. Stubby: An American Hero"?	Chihuahua	German Shephard	Poodle	Boston Terrier
+12K1081	Animated Films	3	In the movie "Peter Rabbit," the three sisters are Flopsy, Mopsy, and who?	Bopsy	Wooly Tail	Hopsy	Cotton Tail
+381852	Animated Films	3	The animated film "Home on the Range" takes place in what American state?	New York	Texas	California	Nebraska
+414938	Animated Films	3	Who provides the voice of Hexxus in the 1992 film "FernGully: The Last Rainforest"?	Christian Slater	Robin Williams	Vladimir Putin	Tim Curry
+3A33049	Animated Films	3	What studio produced the 2017 released animated film, "Red Shoes and 7 Dwarfs"?	Nickelodeon Animation Studio	Zadorin Entertainment	Vanguard Animation	Locus Creative Studios
+383088	Animated Films	3	Which of these characters was turned into a bear in the 2003 animated feature "Brother Bear"?	Rutt	Tug	Sitka	Kenai
+3A33045	Animated Films	3	What studio produced the 2017 released animated film, "Mary and the Witch's Flower"?	Disney Studios	Walt Disney Pictures	Warner Bros. Animation	Studio Ponoc
+521536	Animated Films	3	Which actor provided the voice of Grand Pabbie the Troll King in the 2013 animated film "Frozen"?	Jonathan Groff	Josh Gad	Santino Fontana	Ciaran Hinds
+3D27778	Animated Films	3	The animated film "Ne Zha" is loosely based on what classic Chinese novel?	Journey to the West	Dream of the Red Chamber	Rulin waishi	Investiture of the Gods
+310561	Animated Films	3	James Taylor contributed a song to the soundtrack of which 2006 animated film?	Flushed Away	Happy Feet	Over the Hedge	Cars
+295988	Animated Films	3	Who played the voice of Lenny the shark in "Shark Tale"?	Robert De Niro	Will Smith	Bruce Willis	Jack Black
+12K1085	Animated Films	3	In the movie "Early Man", who is the villain?	King Pongo	Chief Bobnar	Queen Sceen	Lord Nooth
+27387	Animated Films	3	In the 2002 movie "The Country Bears", what song does Terrence sing?	My Woman Ain't Pretty	Ol' Slew Foot	Blood On The Saddle	How Long Is Forever?
+465228	Animated Films	3	Which "Lion King" song was originally to be a duet between Timon and Pumbaa?	Circle of Life	Under the Stars	I Just Can't Wait to Be King	Can You Feel the Love Tonight
+3A33047	Animated Films	3	What studio produced the 2017 released animated film, "The Fixies: Top Secret"?	Nickelodeon Animation Studio	Walt Disney Pictures	HIT Entertainment	Petersburg Animation Studio
+3A33029	Animated Films	3	What studio produced the 2017 released animated film, "Hey Arnold!: The Jungle Movie"?	Warner Bros. Animation	DreamWorks Animation	R.A.T Films	Nickelodeon Animation Studio
+397354	Animated Films	3	Which of these characters does Moses meet when he leaves Egypt in "The Prince of Egypt"?	Rameses	Tzipporah	Miriam	Jethro
+3S11123	Animated Films	3	Who of these is a character from the film , "Monkey King: Hero Is Back"?	Officer Minnie	Frank Frankenstone	Hornswoggle	Pigsy
+521533	Animated Films	3	Which actor voiced Olaf in the 2013 animated film "Frozen"?	Jonathan Groff	Santino Fontana	Ciar·n Hinds	Josh Gad
+3S11245	Animated Films	3	Which film featured the character Kristofferson?	Ratatouille	Ice Age: Continental Drift	Dr. Seuss' The Lorax	Fantastic Mr. Fox
+414383	Animated Films	3	In the movie "A Bug's Life", an ant says a fallen leaf is nothing compared to what?	The Magnifying Glass Of '08	The Flood Of '81	The Shoes Of Cinderella	The Twig Of '93
+528300	Animated Films	3	Which actress lent her voice to Princess Unikitty in the 2014 animated film "The Lego Movie"?	Gillian Jacobs	Cobie Smulders	Elizabeth Banks	Alison Brie
+283587	Animated Films	3	In what animated film did Katie Couric do the voice of news-reporter "Katie Current"?	Robots	Toy Story 2	Finding Nemo	Shark Tale
+3A33033	Animated Films	3	What studio produced the 2017 released animated film, "Justice League Dark"?	Vanguard Animation	Walt Disney Pictures	Melnitsa Animation Studio	Warner Bros. Animation
+220551	Animated Films	3	Who directed the 1997 animated, "Hercules"?	Allan Moyle	Dan Aykroyd	Ron Howard	Ron Clements & John Musker
+3A33039	Animated Films	3	What studio produced the 2017 released animated film, "The Son of Bigfoot"?	Walt Disney Pictures	Anima Estudios	Warner Bros. Animation	NWave Pictures
+12K1082	Animated Films	3	In whose vegetable garden do the rabbits spend time in the movie "Peter Rabbit"?	Mr. McConnally	Mrs. Rudolph	Mr. McDougal	Mr. McGregor
+3A33095	Animated Films	3	What studio produced the 2017 released animated film, "Where It Floods"?	Illumination Entertainment	R.A.T Films	Pixar	Electricbeard Productions
+465226	Animated Films	3	Who wrote the book upon which "Fantastic Mr. Fox" was based?	Maurice Sendak	Doctor Seuss	Judy Blume	Roald Dahl
+202149	Animated Films	3	Which of these feature films was not a Pixar production?	A Bug's Life	Finding Nemo	The Incredibles	Shark Tale
+414931	Animated Films	3	What witch has a duel with Merlin in the 1963 Disney film "The Sword in the Stone"?	Madame Misery	Madame Nastia	Madame Adamadama	Madame Mim
+394987	Animated Films	3	Who was the director of the animated hit "Ratatouille"?	Michael Warch	Tony Gilroy	Paul Thomas Anderson	Brad Bird
+3S11115	Animated Films	3	Which animated film included the character Kidney Rock ?	Moana	Frozen	Foodfight!	Osmosis Jones
+3S11117	Animated Films	3	Which animated film included the character Abbot Cellach?	The Book of Life	The Emperor's New Groove	Spirited Away	The Secret of Kells
+3S11139	Animated Films	3	Which film featured the character Petey ?	Inside Out	Sing	The Road to El Dorado	Fantastic Mr. Fox
+3A33025	Animated Films	3	What studio produced the 2017 released animated film, "The Emoji Movie"?	HIT Entertainment	DreamWorks Animation	Walt Disney Pictures	Sony Pictures Animation
+506440	Animated Films	3	What animated series has "Downton Abbey's" Michelle Dockery done voice over for?	South Park	Futurama	Simpsons	Family Guy
+383210	Animated Films	3	In "Team America: World Police", what does Gary Johnson do before he is asked to join Team America?	Rock Vocalist	Professor Of Mathematics	Secret Service Agent	Broadway Actor
+3A33089	Animated Films	3	What studio produced the 2017 released animated film, "Surf's Up 2: WaveMania"?	Anima Estudios	Toei Animation	Pixar	Sony Pictures Animation
+3A33097	Animated Films	3	What studio produced the 2017 released animated film, "Gnome Alone"?	Illumination Entertainment	Melnitsa Animation Studio	Pixar	Vanguard Animation
+3S11181	Animated Films	3	Which film featured the character Buster Moon?	Kung Fu Panda	Frozen II	Sing	Sing
+330091	Animated Films	3	Whose voice did Sarah Silverman do on the animated series "Futurama"?	Amy	Leela	Mrs. Conrad	Fry's Girlfriend
+3A33083	Animated Films	3	Who directed the animated film, "Missing Link"?	Jon Favreau	Wes Anderson	Genndy Tartakovsky	Chris Butler
+3A33101	Animated Films	3	What studio produced the 2017 released animated film, "The Nut Job 2: Nutty by Nature"?	Nippon Animation	Blue Sky Studios	Pixar	ToonBox Entertainment
+12K1088	Animated Films	3	In the movie "Monster Family", what is the last name of the family that's turned into monsters?	Oddbone	Happybone	Funnybone	Wishbone
+3A33013	Animated Films	3	What studio produced the 2017 released animated film, "The Boss Baby"?	Columbia Pictures	Blue Sky Studios	Seven Arcs Pictures	DreamWorks Animation
+272882	Animated Films	3	Which voice did Sylvester Stallone provide for the animated movie "Antz"?	General Mandible	Barbatus	Chips	Weaver
+3S11265	Animated Films	3	Which animated film included the character Wyborne 'Wybie' Lovat ?	Wonder Park	The Secret of Kells	Brave	Coraline
+3S11203	Animated Films	3	Which animated film included the character Sun Wukong?	Coco	The Wonderland	UglyDolls	Monkey King: Hero Is Back
+3S11267	Animated Films	3	Which animated film included the character Little Creek?	Moana	Frozen	UglyDolls	Spirit: Stallion of the Cimarron
+295868	Animated Films	3	In the movie "Lilo & Stitch", what does the name Lilo mean?	Cautious One	Beautiful One	Intelligent One	Generous One
+414991	Animated Films	3	What magical items make bugs grow very big in the 1996 film "James and the Giant Peach"?	Beans	Jellybeans	Toothpicks	Crocodile Tongues
+3M00012	Animated Films	3	What was the running time of "Spider-Man: Into the Spider-Verse"?	144 Minutes	212 Minutes	48 Minutes	117 Minutes
+3S11161	Animated Films	3	Which animated film included the character Mr. Sergei Alexander Bobinsky?	Big Hero 6	Spirited Away	FernGully: The Last Rainforest	Coraline
+3D27787	Animated Films	3	Which animated film included the character The Great Seanachai?	The Addams Family	Brave	Frankenweenie	Song of the Sea
+3A33087	Animated Films	3	What studio produced the 2017 released animated film, "The Star"?	Illumination Entertainment	Nippon Animation	Kyoto Animation	Sony Pictures Animation
+12K1130	Animated Films	3	Who lives beneath the fictional town of Arcadia in "Trollhunters"?	Rabbits	Vikings	Humans	Trolls
+3A33085	Animated Films	3	What studio produced the 2017 released animated film, "Smurfs: The Lost Village"?	Nippon Animation	Kyoto Animation	Walt Disney Pictures	Sony Pictures Animation
+3S11205	Animated Films	3	Which film featured the character Pitch?	Pirate Fairy, The	FernGully: The Last Rainforest	Fantastic Mr. Fox	Rise of the Guardians
+221268	Animated Films	3	Who directed the 1993 animated, "The Nightmare Before Christmas"?	Jean-Paul Rappeneau	John Boorman	Tony Bill	Henry Selick
+414970	Animated Films	3	What number did Gus the mule wear in the 1976 Disney movie "Gus"?	77	32	2.222	0
+465224	Animated Films	3	A 2006 animated film was based on which comic strip, written by Michael Fry and T Lewis?	Pearls Before Swine	Get Fuzzy	Foxtrot	Over the Hedge
+414328	Animated Films	3	Who was the voice of the title character in the 1999 movie "The Iron Giant"?	Samuel L. Jackson	Sylvester Stallone	Tweety Bird	Vin Diesel
+220118	Animated Films	3	Who directed the 1991 animated, "An American Tail: Fievel Goes West"?	Kathryn Bigelow	Peter Greenaway	Ron Howard	Phil Nibbelink
+220105	Animated Films	3	Who directed the 1989 animated, "All Dogs Go to Heaven"?	Alan Parker	John Hughes	McG	Gary Goldman & Don Bluth
+3A33035	Animated Films	3	What studio produced the 2017 released animated film, "The Lego Batman Movie"?	Telecom Animation Film	R.A.T Films	Slyers Animation Studios	Warner Bros. Animation
+381750	Animated Films	3	What fictional moose inspired an award-winning Russian animated short?	Monroe	Moo-Moo	Bullwinkle	Thidwick
+3S11227	Animated Films	3	Which film featured the character Victor Van Dort ?	Monsters University	Despicable Me	Toy Story 4	Corpse Bride
+3S11225	Animated Films	3	Which animated film included the character Manolo?	The Secret Life of Pets 2	Coraline	UglyDolls	The Book of Life
+3A33093	Animated Films	3	What studio produced the 2017 released animated film, "Tom and Jerry: Willy Wonka and the Chocolate Factory"?	Toei Animation	Slyers Animation Studios	Pixar	Warner Bros. Animation
+256586	Animated Films	3	In the 1964 animated classic "Rudolph the Red-Nosed Reindeer", who coached the Reindeer Games?	Cupid	Blitzen	Donner	Comet
+3M00032	Animated Films	3	What was Miles's uncle's name in "Spider-Man: Into the Spider-Verse"?	Stan Lee	Miles Jones	Dave Davis	Aaron Davis
+12K1083	Animated Films	3	In the movie "Sherlock Gnomes", what has disappeared?	The Birds	The Grass	Flowers	Garden Ornaments
+289063	Animated Films	3	Which of these is a neighboring town on the animated series "South Park"?	Orange Park	Midwich	Metroville	Middle Park
+3A33103	Animated Films	3	What studio produced the 2017 released animated film, "The Breadwinner"?	Nickelodeon Animation Studio	Illumination Entertainment	Pixar	Cartoon Saloon
+3A33043	Animated Films	3	What studio produced the 2017 released animated film, "Cinderella the Cat"?	Nickelodeon Animation Studio	Toei Animation	Warner Bros. Animation	Mad Entertainment
+3A33027	Animated Films	3	What studio produced the 2017 released animated film, "Ferdinand"?	Warner Home Video	Exodus Film Group	Walt Disney Pictures	Blue Sky Studios
+414320	Animated Films	3	In the 2005 movie "Robots", what did Rodney's father want to be as a boy?	Doctor	Cowboy	Air Freshener	Musician
+90850	Animated Films	3	Who invented the "rotoscope" to transfer live action film into animated cartoons via tracing?	William Hanna	Walter Lantz	Walt Disney	Max Fleischer

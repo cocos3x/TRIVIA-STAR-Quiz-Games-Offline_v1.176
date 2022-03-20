@@ -1,0 +1,661 @@
+20VE1941	Disney	0	Who is Mickey's faithful canine companion?	Mars	Saturn	Jupiter	Pluto
+611FTUX152	Disney	0	What animals are the little helpers of Cinderella?	Fish	Lizards	Kittens	Mice
+20VE1887	Disney	0	What type of animal is Baloo in Disney's "The Jungle Book"?	Fox	Elephant	Reindeer	Bear
+0DIFETM106	Disney	0	Which Disney movie had an evil sea witch as the villain?	Mulan	Lilo and Stitch	Moana	The Little Mermaid
+0DIFETM110	Disney	0	In Beauty and the Beast, what is "Beauty's" actual name?	Jasmine	Maria	Cruella	Belle
+0DIFETM113	Disney	0	Cruella de Vil is the villain in which Disney movie?	Cinderella	Moana	Aristocats	101 Dalmatians
+0DIFETM112	Disney	1	In The Jungle Book, what is the name of the human child?	Kiba	Baloo	Kaa	Mowgli
+0DIFETM116	Disney	0	Which Disney movie is the song "Let it Go" from?	Moana	Tangled	Mulan	Frozen
+0DIFETM109	Disney	0	When Lady and the Tramp dine together, what are they eating?	Clam chowder	Cheeseburgers	Beef kibbles	Spaghetti and meatballs
+0DIFETM119	Disney	0	Which of the following is not a character owned by Disney?	Goofy	Donald Duck	Pluto	Sonic the Hedgehog
+0DIFETM120	Disney	0	Which Pixar movie is the song "You've Got a Friend in Me" from?	Coco	Cars	Up	Toy Story
+0DIFETM103	Disney	0	Which of the following is owned by Disney?	Nike	Cinemax	HBO	Pixar
+0DIFETM105	Disney	0	Which Disney movie does the character Hades take part in?	The Jungle Book	101 Dalmatians	Bambi	Hercules
+20VE1933	Disney	0	Which singer starred as the teen girl living a double life in the Disney sitcom "Hannah Montana"?	Tatyana Ali	Lana Del Rey	Paris Hilton	Miley Cyrus
+20VE1953	Disney	0	In which Disney animated film will you find the characters Duchess, Thomas O'Malley, and Scat Cat?	Hercules	The Lion King	Robin Hood	The Aristocats
+611FTUX144	Disney	1	What did King Louie want from Mowgli in "The Jungle Book"?	His Loyalty	A Tree House	A Dozen Bananas	Man's Red Fire
+0DIFETM117	Disney	0	Tangled is based on which of the Grimms' fairy tales?	The Frog Prince	Rumpelstiltskin	Hansel and Gretel	Rapunzel
+0DIFETM114	Disney	0	What is the name of the Disney movie with three kittens in France?	Lion King	Big Hero 6	Robin Hood	The Aristocats
+20VE1895	Disney	0	Which Disney/Pixar animated film is inspired by the Mexican holiday of Dia de los Muertos?	Toy Story	Up	Cars	Coco
+611FTUX140	Disney	0	In "The Lion King," what is Simba's father's name?	Scar	Nala	Simba II	Mufasa
+20VE1917	Disney	1	Amy Poehler, Lewis Black, and Mindy Kaling voiced Riley's emotions in which Disney/Pixar film?	Up	Wall-E	Toy Story	Inside Out
+20VE1955	Disney	0	Tod and Copper are a pair of unlikely friends in which classic Disney film?	The Three Caballeros	The Jungle Book	The Sword In The Stone	The Fox And The Hound
+611FTUX146	Disney	0	What is Jasmine's pet in "Aladdin"?	A Lizard	A Parrot	A Dog	A Tiger
+20VE1885	Disney	0	Which of these Disney songs was featured in "Beauty and the Beast"?	When You Wish Upon A Star	Spoonful Of Sugar	Let It Go	Be Our Guest
+20VE1959	Disney	0	Which of these Disney princess films takes place in New Orleans, Louisiana?	The Little Mermaid	Beauty And The Beast	Sleeping Beauty	The Princess And The Frog
+0DIFETM101	Disney	0	Which of the following is not a Disney movie?	Cinderella	The Lion King	Mulan	How to Train Your Dragon
+0DIFETM107	Disney	0	What was the name of the Disney cartoon character who sang "I've Got No Strings"?	Lady and the Tramp	Aristocats	Pocahontas	Pinocchio
+611FTUX147	Disney	0	In the movie "Tangled," what power does Rapunzel's hair have?	Invisibility	Ice	Lightning	Healing
+20VE1879	Disney	0	In which Disney film can you find the Cheshire Cat, the Mad Hatter, and the Queen of Hearts?	The Rescuers	Lady And The Tramp	Peter Pan	Alice In Wonderland
+20VE1965	Disney	0	Buzz Lightyear and Woody are main characters in which Disney/Pixar film series?	Monsters, Inc.	Cars	The Incredibles	Toy Story
+20VE1921	Disney	0	Which of these Disney films takes place in Hawaii?	Peter Pan	Frozen	The Aristocats	Lilo & Stitch
+611FTUX156	Disney	0	In "The Lion King," what the name of Simba's lion best friend?	Pumba	Scar	Mufasa	Nala
+20VE1877	Disney	0	Abu and Genie are friends of which Disney character?	Mowgli	Pinocchio	Hercules	Aladdin
+20VE1897	Disney	0	What is the name of the villain in "101 Dalmations"?	Amos Slade	Edgar Balthazar	Madame Medusa	Cruella De Vil
+611FTUX139	Disney	0	What color is Rapunzel's hair in "Tangled"?	Pink	Orange	Black	Blonde
+611FTUX142	Disney	0	In "The Aristocats," who is Edgar?	The White Kitten	The Horse	The Orange Kitten	The Butler
+0DIFETM104	Disney	0	Which Disney princess has the power of ice?	Snow White	Cinderella	Aurora	Elsa
+20VE1931	Disney	0	Considered to be Disney's flagship character, what is the name of the company's head mouse?	Matthew	Manuel	Michael	Mickey
+611FTUX166	Disney	0	In "The Aristocats," how many kittens does Dutchess have?	7	0	1	3
+20VE1919	Disney	0	Which of these superheroes falls under the Disney-owned Marvel Studios umbrella?	Sailor Moon	Witchblade	Spawn	Iron Man
+20VE1893	Disney	0	Lady Tremaine was the wicked stepmother in which classic Disney fairy tale?	Peter Pan	Pinocchio	Beauty And The Beast	Cinderella
+20VE1971	Disney	0	In the Disney films, what type of car is the anthropomorphic racing car known as Herbie?	Plymouth Barracuda	Shelby Cobra	Chevrolet Camaro	Volkswagen Beetle
+20VE1927	Disney	0	What is the theme park at Walt Disney World called?	Dollywood	Happytown	Mouse House	Magic Kingdom
+20VE1949	Disney	0	Which beloved actor voiced Genie in the 1992 Disney feature, "Aladdin"?	Betty White	Andy Griffith	Lucille Ball	Robin Williams
+20VE1935	Disney	0	Which Disney princess sought the heart of Te Fiti with Maui to save her village?	Belle	Rapunzel	Aurora	Moana
+611FTUX163	Disney	0	What animals raise Tarzan in the movie "Tarzan"?	Bears	Wolves	Panthers	Gorillas
+20VE1947	Disney	0	Which of these Disney characters is a fox who robbed from the rich and gave to the poor?	Mary Poppins	Thomas O'Malley	Madam Mim	Robin Hood
+611FTUX151	Disney	0	What is the color of Cinderella's dress from her fairy godmother?	Greenland	Yellow	Orange	Blue
+611FTUX159	Disney	0	Who is the princess in "Aladdin"?	Ariel	Moana	Aurora	Jasmine
+611FTUX158	Disney	0	Who is the princess in "Sleeping Beauty"?	Mulan	Rapunzel	Cinderella	Aurora
+20VE1891	Disney	0	In which U.S. state is Disneyland located?	North Dakota	Vermont	Arkansas	California
+611FTUX149	Disney	0	Mulan's grandmother gives her a cricket for what?	Magic Powers	A Quick Escape	Balance	Good Luck
+20VE1901	Disney	0	Which of these Disney characters is a duck?	Mickey	Goofy	Pluto	Donald
+20VE1881	Disney	0	What was the poisoned fruit that the Evil Queen gave to Snow White?	Banana	Orange	Peach	Apple
+20VE1943	Disney	0	Which Disney princess sings "Colors of the Wind" and "Just Around the Riverbend"?	Merida	Snow White	Cinderella	Pocahontas
+20VE1963	Disney	0	Which Disney film, released in 1963, tells the tale of young King Arthur's adventures with Merlin?	The Jungle Book	Robin Hood	The Hunchback Of Notre Dame	The Sword In The Stone
+611FTUX153	Disney	0	What is the name of the villain in "Peter Pan"?	Captain John	Captain Barbados	Captain Sparrow	Captain Hook
+20VE1907	Disney	0	Mickey appears as "The Sorcerer's Apprentice" in which of these Disney films?	Fun And Fancy Free	The Three Caballeros	Song Of The South	Fantasia
+20VE1925	Disney	0	Yzma turns Kuzco into what kind of animal in "The Emperor's New Groove"?	Lemming	Leech	Lion	Llama
+611FTUX167	Disney	0	In "Frozen," what color is Elsa's hair?	Brown	Black	Red	Blonde
+20VE1967	Disney	0	Mater and Lightning McQueen are characters in which Disney/Pixar film?	Brave	Finding Nemo	Wall-E	Cars
+20VE1961	Disney	0	Tim Allen starred as a substitute St. Nick in which 1994 Disney family film?	A Christmas Story	Miracle On 34th Street	Elf	The Santa Clause
+20VE1911	Disney	0	"Let It Go" and "Do You Want to Build a Snowman?" were songs featured in which Disney film?	Beauty And The Beast	Aladdin	Mulan	Frozen
+20VE1951	Disney	0	Flora, Fauna, and Merryweather are the fairy godmothers of Princess Aurora in which Disney film?	Cinderella	Snow White And The Seven Dwarfs	Beauty And The Beast	Sleeping Beauty
+611FTUX157	Disney	0	In "The Lion King," what animals chase Simba away from the Pridelands?	Hawks	Tigers	Lions	Hyenas
+611FTUX141	Disney	0	Which of these artifacts is seen in "Aladdin"?	Magic Sand Castle	Magic Skirt	Magic Basket	Magic Carpet
+611FTUX165	Disney	0	What type of animals are the main chacracters of "Lady and the Tramp"?	Foxes	Raccoons	Cats	Dogs
+20VE1923	Disney	0	What kind of animal are both Scar and Simba in "The Lion King"?	Skunks	Spiders	Dogs	Lions
+611FTUX154	Disney	0	Who is the female main character in "Peter Pan"?	Jana	Jenny	Eliza	Wendy
+20VE1903	Disney	0	What is the name of Nemo's regal blue tang friend, voiced by Ellen DeGeneres, in "Finding Nemo"?	Dotty	Debbie	DeAnne	Dory
+20VE1875	Disney	0	In the 1961 Disney animated film, how many total Dalmatians are there?	144	2001	42	101
+20VE1929	Disney	0	What Disney film nanny is considered to be "practically perfect in every way"?	Maggie McKendrick	Mia Thermopolis	Meg Murry	Mary Poppins
+611FTUX155	Disney	0	What do the children in "Peter Pan" need in order to fly?	Bird Companions	Capes	Wings	Happy thoughts
+20VE1969	Disney	0	Which Disney/Pixar film stars Ed Asner as an elderly widower named Carl who flies to South America in his house?	Monsters University	Ratatouille	A Bug's Life	Up
+20VE1957	Disney	0	"Hakuna Matata" and "Circle of Life" are songs from which Disney film?	Moana	Frozen	Tangled	The Lion King
+611FTUX138	Disney	0	What colors are most visible on Buzz Lightyear's suit?	Orange and Blue	Purple and Gold	Black and Yellow	White and Green
+20VE1939	Disney	0	Which Disney character is a wooden puppet who dreams of becoming a real boy?	Baloo	Dumbo	Pongo	Pinocchio
+611FTUX164	Disney	0	Who are Quasimodo's only friends at the start of "The Hunchback of Notre Dame"?	Angels	Mice	Gorillas	Gargoyles
+20VE1937	Disney	0	The tale of which of these Disney princesses takes place in China?	Ariel	Cinderella	Tiana	Mulan
+20VE1915	Disney	0	Hades, Megara, and Philoctetes are characters from which Disney animated film?	Brother Bear	Lilo & Stitch	Tarzan	Hercules
+611FTUX145	Disney	0	In "The Jungle Book," what is Shere Khan?	A Wolf	A Turtle	A Bear	A Tiger
+20VE1883	Disney	0	Which of these Disney princesses has friends named Flounder and Scuttle?	Cinderella	Jasmine	Belle	Ariel
+20VE1913	Disney	0	Which of the following is the name of one of the seven dwarfs in "Snow White and the Seven Dwarfs"?	Gloomy	Silly	Hungry	Happy
+20VE1899	Disney	0	Jock, Trusty, Tramp, and Lady are all what type of animal in Disney's "Lady and the Tramp"?	Parrots	Rats	Turtles	Dogs
+20VE1973	Disney	0	Tigger, Rabbit, and Eeyore are the friends of which Disney character created by A.A. Milne?	Donald Duck	Flynn Rider	Stitch	Winnie The Pooh
+611FTUX148	Disney	0	Who does Mulan try to impress in the beginning of the movie?	Her Grandmother	The Emperor	The Army General	The Matchmaker
+20VE1905	Disney	0	Timothy Q. Mouse helps a baby elephant learn to fly in which Disney film?	Flubber	Peter Pan	Pinocchio	Dumbo
+20VE1889	Disney	0	In the Disney/Pixar film "Brave", what type of creature was Merida's mother and brothers turned into?	Skink	Unicorn	Tardigrade	Bear
+20VE1945	Disney	0	Which of these Disney princesses is known for her very long magical hair?	Aurora	Tiana	Cinderella	Rapunzel
+20VE1909	Disney	0	What is the name of the strange, bouncing substance created in Disney's "The Absent-Minded Professor"?	Slinky	Ketchup	Memory Foam	Flubber
+611FTUX162	Disney	0	What is the name of the Roma girl in "The Hunchback of Notre Dame"?	Jasmine	Ruby	Tiana	Esmeralda
+611FTUX161	Disney	0	In "The Princess and the Frog," what is Tiana's dream?	To bring her father back	To find prince charming	To become a princess	To open a restaurant
+611FTUX150	Disney	0	How is Mulan's secret identity discovered?	She tells her friends	She tells the captain	During bath time	She is injured
+D0TRV32451	Disney	0	Which Marvel film featured a rag-tag group of unlikely hero's in space?	The Avengers	The X-Men	Doctor Strange	Guardians of the Galaxy
+D0TRV32452	Disney	0	In which Marvel film did we see "professor Hulk"?	Ant-man	Thor	Doctor Strange	Avengers: Endgame
+D0TRV32453	Disney	0	In Disney/Pixar's "Up," what often disrupted Dug's train of thought?	Frisbee	Kibble	Pups	Squirrel
+D0TRV32454	Disney	0	In the Disney film "Moana," which character sang the song "You're welcome"?	Jasmin	Belle	Ariel	Maui
+D0TRV32455	Disney	0	In "Iron Man," who is Tony Stark's personal assistant?	Alfred	Peter Parker	Hank Pym	Pepper Potts
+D0TRV32456	Disney	0	In "Captain America: The First Avenger," which war did he fight in?	Vietnam War	World War 1	Iraq War	World War 2
+D0TRV32457	Disney	0	In Disney's "Frozen," what color was Anna's hair?	Blonde	Black	White	Reddish-brown
+D0TRV32458	Disney	0	Which Marvel film introduced Mysterio into the Marvel Cinematic Universe?	Black Widow	The X-Men	Ant-Man and the Wasp	Spider-Man: Far From Home
+D0TRV32459	Disney	0	Which Marvel film introduced Spider-Man into the Marvel Cinematic Universe?	Thor	Ant-Man	Black Widow	Captain America: Civil War
+D0TRV32460	Disney	0	Which Disney character was eaten by a whale at one point?	Moana	Sebastion	Alice	Pinocchio
+D0TRV32461	Disney	0	In "Spider-Man: Homecoming," which core Avenger also appeared?	Hulk	Black Widow	Hawkeye	Iron Man
+D0TRV32462	Disney	0	Which Star Wars film introduced Cassian Andor into the Star Wars Universe?	A New Hope	The Force Awakens	Return of the Jedi	Rogue One
+D0TRV32463	Disney	0	In which Marvel film did Shuri try to safely remove the Mind Stone from Vision?	Black Panther 2	Doctor Strange	Ant-Man	Avengers: Infinity War
+D0TRV32464	Disney	0	In the Avengers films, which country was Black Widow from?	England	Australia	Canada	Soviet Union
+D0TRV32465	Disney	0	In the "Guardians of the Galaxy" films, who was Gamora's sister?	Black Widow	Shuri	Dr. Aphra	Nebula
+D0TRV32466	Disney	0	In "The Mandalorian" series, what was Mando's profession?	Spy	Jedi Knight	Doctor	Bounty Hunter
+D0TRV32467	Disney	0	In which Marvel film did Peter Parker avoid calls from Nick Fury?	Iron Man	Black Widow	Ant-Man and the Wasp	Spider-Man: Far From Home
+D0TRV32468	Disney	0	In "Captain America: Winter Soldier," who was Falcon?	Stephen Strange	Peter Parker	T'Challa	Sam Wilson
+D0TRV32469	Disney	0	Which Marvel film featured Wanda Maximoff?	Iron Man 2	Thor 2	Doctor Strange	Avengers: Age of Ultron
+D0TRV32470	Disney	0	In Disney's "Robin Hood," what animal was the Sheriff of Nottingham?	Lion	Snake	Turtle	Wolf
+D0TRV32471	Disney	0	Which Marvel film featured the leader of Wakanda?	Doctor Strange	Guardians of the Galaxy 2	Thor	Black Panther
+D0TRV32472	Disney	0	In Disney's "DuckTales," who were uncle Scrooge McDuck's grandnephews?	Huey	Dewey	Louie	All of them
+D0TRV32473	Disney	0	In Disney's "Beauty and the Beast," which was a servant in the Beast's castle?	Cogsworth	Mrs. Potts	Lumiere	All of them
+D0TRV32474	Disney	0	Which series featured the first live action Ahsoka Tano?	Lando	Star Wars: Rebels	Star Wars: The Bad Batch	The Mandalorian
+D0TRV32475	Disney	0	In "Spider-Man: Homecoming," what is Spider-Man's identity?	Flash Thompson	Clark Kent	Miles Morales	Peter Parker
+D0TRV32476	Disney	0	In "WALL-E," what is the name of the robot WALL-E meets?	Baymax	Bender	R2-D2	EVE
+D0TRV32477	Disney	0	In "Spider-Man: Homecoming," who discovered Spider-Man's identity?	Ned	Aunt May	The Vulture	All of them
+D0TRV32478	Disney	0	In which Disney film was Prince Naveen turned into a frog?	Lilo and Stitch	Aladdin	Beauty and the Beast	The Princess and the Frog
+D0TRV32479	Disney	0	In which Disney/Pixar film did Woody's horse Bullseye first appear?	Toy Story	Toy Story 3	Toy Story 4	Toy Story 2
+D0TRV32480	Disney	0	Which Japanese animation studio's films has Disney distributed internationally?	J.C. Staff	Ufotable	Toei Animation	Studio Ghibli
+D0TRV32481	Disney	0	In "Spider-Man: Far From Home," where was the school field trip to?	Asia	Africa	Australia	Europe
+D0TRV32482	Disney	0	In Disney's "Robin Hood," what animal was Prince John?	Pig	Elephant	Rhino	Lion
+D0TRV32483	Disney	0	In Disney's "Pocahontas," what animal was Percy?	Rooster	Horse	Cat	Pug
+D0TRV32484	Disney	0	What was Pietro Maximoff's super power?	Super strength	Laser beams	Fire control	Super speed
+D0TRV32485	Disney	0	In "The Incredible Hulk," what color was the Hulk?	Grey	Red	Blue	Green
+D0TRV32486	Disney	0	In which Disney film was Kevin Flynn digitized and downloaded into cyberspace?	Lost in Space	Blade Runner	WALL-E	Tron
+D0TRV32487	Disney	0	Which Disney/Pixar film starred two elf brothers on a quest?	The Fox and the Hound	The Parent Trap	The Rescuers	Onward
+D0TRV32488	Disney	0	In "The Incredibles," how many memebers are in the Parr family?	8	3	11	5
+D0TRV32489	Disney	0	In which Star Wars film did we see how Han Solo got the Millennium Falcon?	Rogue One	The Last Jedi	Revenge of the Sith	Solo
+D0TRV32490	Disney	0	Which Marvel film introduced Ghost into the Marvel Cinematic Universe?	Thor	The Incredible Hulk	Iron Man	Ant-Man and the Wasp
+D0TRV32491	Disney	0	In Disney's "Tangled," who was Maximus?	Crab	Rabbit	Bird	Horse
+D0TRV32492	Disney	0	In which Star Wars film did we first see a young Lando Calrissian?	Revenge of the Sith	Rogue One	The Rise of Skywalker	Solo
+D0TRV32493	Disney	0	In which Marvel film did Clint Barton become the vigilante Ronin?	Doctor Strange	Ant-Man and the Wasp	Thor: Ragnarok	Avengers: Endgame
+D0TRV32494	Disney	0	In Disney/Pixar's "Cars," what color car was Lightning McQueen?	Blue	Yellow	Green	Red
+D0TRV32495	Disney	0	In the Star Wars films, who was Yoda?	Droid	Senator	Bounty Hunter	Jedi Master
+D0TRV32496	Disney	0	In which Marvel film did Dr. Strange give up the Time Stone to save Tony Stark?	The Incredible Hulk	Iron Man 2	The Eternals	Avengers: Infinity War
+D0TRV32497	Disney	0	In Marvel's "Thor" films, who is Thor's brother?	Odin	Mjolnir	Hulk	Loki
+D0TRV32498	Disney	0	What is the A.I. named in Iron Man's suit?	Jeeves	Alfred	Rhodey	Jarvis
+D0TRV32499	Disney	0	In "Black Panther," on which continent is Wakanda?	Antarctica	Asia	South America	Africa
+D0TRV32500	Disney	0	In Disney's "Tangled," what color was Rapunzel's hair?	Red	Brown	Black	Blonde
+D0TRV32501	Disney	0	In Disney's "The Hunchback of Notre Dame," what was the hunchback's name?	Micky	Esmeralda	Aladdin	Quasimodo
+D0TRV32502	Disney	0	In "Ant-Man and the Wasp," what takes Scott Lang's place in house arrest?	A plant	An Elephant	A duck	A large ant
+D0TRV32503	Disney	0	In "Black Panther," who was T'Challa's sister?	Cheetara	Black Widow	Catwoman	Shuri
+D0TRV32504	Disney	0	In Disney/Pixar's "A Bug's Life," who were the villains?	Birds	Frogs	Geckos	Grasshoppers
+D0TRV32505	Disney	0	Who was Winnie the Pooh's human friend?	Owl	Kanga	Harry Potter	Christopher Robin
+D0TRV32506	Disney	0	Which Star Wars film featured AT-AT walkers on beaches/islands?	Solo	The Phantom Menace	A New Hope	Rogue One
+D0TRV32507	Disney	0	In which Marvel film did Spider-Man fight elementals?	Black Panther	Doctor Strange	Thor	Spider-Man: Far From Home
+D0TRV32508	Disney	0	In the film "Zootopia," which animals worked at the DMV?	Turtles	Cheetas	Badgers	Sloths
+D0TRV32509	Disney	0	In which Marvel film did we see an over-weight Thor?	Captain America: The First Avenger	The Eternals	Black Panther	Avengers: Endgame
+D0TRV32510	Disney	0	In which Marvel film did Thor help forge a new weapon, Stormbreaker?	Thor	Black Panther	Doctor Strange	Avengers: Infinity War
+D0TRV32511	Disney	0	In which Marvel film did a hero wield a hammer?	Black Panther	Ant-Man	The Incrdeible Hulk	Thor
+D0TRV32512	Disney	0	What kind of experiment gave Steve Rogers powers?	Nuclear fission	Electro-shock	Hypnosis	Super-Soldier
+D0TRV32513	Disney	0	In which Marvel film did Stephen Strange become the Sorcerer Supreme?	Black Widow	The Incredible Hulk	Guardians of the Galaxy	Doctor Strange
+D0TRV32514	Disney	0	In which Marvel film did "2012 Loki" escape from authorites with the Space Stone?	Guardians of the Galaxy	Ant-man	The Incredible Hulk	Avengers: Endgame
+D0TRV32515	Disney	0	In which Marvel film did an elderly Steve Rogers pass on his shield and mantle?	The Eternals	Spider-Man: Homecoming	Captain Marvel	Avengers: Endgame
+D0TRV32516	Disney	0	In "The Incredible Hulk," who was in a relationship with Bruce Banner?	Black Widow	Gamora	Gwen Stacy	Betty Ross
+D0TRV32517	Disney	0	Which Star Wars film introduced Boba Fett into the Star Wars Universe?	Solo	The Force Awakens	Rogue One	The Empire Stikes Back
+D0TRV32518	Disney	0	What is named Mjolnir in the Thor films?	Cat	Sword	Gun	Hammer
+D0TRV32519	Disney	0	In which Marvel film did Peter Quill meet his father?	Thor: Ragnarok	Avengers: Endgame	Captain Marvel	Guardians of the Galaxy Vol. 2
+D0TRV32520	Disney	0	In the Marvel Cinematic Universe, who raised Gamora and Nebula?	Galactus	Odin	Yondu Udonta	Thanos
+D0TRV32521	Disney	0	In "Thor: Ragnarok," who lost their right eye in a fight?	Rocket	Hulk	Loki	Thor
+D0TRV32522	Disney	0	In which Marvel film did Thanos sacrifice Gamora to gain the Soul Stone?	Ant-Man and the Wasp	The Eternals	Captain America: Civil War	Avengers: Infinity War
+D0TRV32523	Disney	0	In "Thor: Ragnarok," who destroyed Mjolnir?	Odin	Iron Man	Thanos	Hela
+D0TRV32524	Disney	0	In Disney's "Lion King," what animal was Pumbaa?	Gazelle	Ocelot	Hippo	Warthog
+D0TRV32525	Disney	0	In which Marvel film was Dr. Bruce Banner first exposed to gamma radiation?	Captain Marvel	Black Panther	Doctor Strange	The Incredible Hulk
+D0TRV32526	Disney	0	In Disney's "Robin Hood," what animal was Little John?	Rabbit	Otter	Tiger	Bear
+D0TRV32527	Disney	0	In Disney's "The Hunchback of Notre Dame," which was a gargoyle?	Hugo	Laverne	Victor	All of them
+D0TRV32528	Disney	0	Which Marvel film introduced Vision into the Marvel Cinematic Universe?	Iron Man	Thor 	Doctor Strange	Avengers: Age of Ultron
+D0TRV32529	Disney	0	In Disney's "Beauty and the Beast," which townsperson wanted to marry Belle?	Maurice	Jacque	Flynn	Gaston
+D0TRV32530	Disney	0	In "Guardians of the Galaxy," which alien raised young Peter Quill in space?	Nebula	Thanos	Drax	Yondu Udonta
+D0TRV32531	Disney	0	Which Studio Ghibli film was distributed by Disney in North America?	Ponyo	Spirited Away	Howl's Moving Castle	All of these
+D0TRV32532	Disney	0	In "Captain Marvel," who was Goose?	Wing man	Mentor	Kree ruler	Cat
+D0TRV32533	Disney	0	In the Avengers films, what was Clint Barton's alias?	Bullseye	Magneto	Deadpool	Hawkeye
+D0TRV32534	Disney	0	In which Marvel film did Killmonger challenge T'Challa for the throne of Wakanda?	Avengers: Infinity War	Iron Man 3	Thor: The Dark World	Black Panther
+D0TRV32535	Disney	0	In which Marvel film did Scott Lang first gain the power to shrink or enlarge his body?	Doctor Strange	The Fantastic Four	Black Panther	Ant-Man
+D0TRV32536	Disney	0	What was Wanda Maximoff's alias?	Avalanche	Enchantress	Rogue	Scarlet Witch
+D0TRV32537	Disney	0	In which series did we often hear the phrase "This is the way"?	Star Wars: Rebels	Star Wars: The Clone Wars	Star Wars: Droids	The Mandalorian
+D0TRV32538	Disney	0	In which Marvel film did we see Spider-Man cope with Iron Man's absence?	Captain Marvel	The Incredible Hulk	Guardians of the Galaxy	Spider-Man: Far From Home
+D0TRV32539	Disney	0	In Disney's "Pocahontas," what animal was Meeko?	Lynx	Deer	Squirrel	Raccoon
+D0TRV32540	Disney	0	In Disney's "Mulan," who were the main villains?	Dragons	Russian Army	Samurai invaders	Hun invaders
+D0TRV32541	Disney	0	Which Marvel film featured Pietro Maximoff?	Black Panther	Iron Man 3	Ant-Man	Avengers: Age of Ultron
+D0TRV32542	Disney	0	Which animal is named Flower in "Bambi"?	Owl	Rabbit	Mouse	Skunk
+D0TRV32543	Disney	0	In which Marvel film does Tony Stark invent a powered suit of armor?	Captain Marvel	Ant-Man	Guardians of the Galaxy	Iron Man
+D0TRV32544	Disney	0	Which Disney/Pixar film featured a house lifted by balloons?	The Wizard of Oz	Howl's Moving Castle	Cars	Up
+D0TRV32545	Disney	0	In "Captain America: Winter Soldier," what group did Captain America work for?	F.B.I.	A.I.M.	C.I.A.	S.H.I.E.L.D.
+D0TRV32546	Disney	0	In Disney's "Aladdin," what animal was Abu?	Camel	Elephant	Dog	Monkey
+D0TRV32547	Disney	0	In "Wreck-It Ralph," usually what color was Ralph's shirt?	Blue	Black	Yellow	Red
+D0TRV32548	Disney	0	In which Marvel film did the Vulture appear as the main villain?	Black Panther	Iron Man 3	The Avengers	Spider-Man: Homecoming
+D0TRV32549	Disney	0	In the Disney film "Moana," what animal sang the song "Shiny"?	Starfish	Seagull	Shark	Crab
+D0TRV32550	Disney	0	In which Marvel film did Thanos defeat Loki and Heimdall?	Black Widow	Spider-Man: Far From Home	Guardians of the Galaxy	Avengers: Infinity War
+D0TRV32551	Disney	0	In "Captain Marvel," what was Captain Marvel's secret identity?	Natasha Romanoff	Jean Grey	Wanda Maximoff	Carol Danvers
+D0TRV32552	Disney	0	In which Disney/Pixar film did cowgirl Jessie first appear?	Toy Story	Toy Story 3	Toy Story 4	Toy Story 2
+D0TRV32553	Disney	0	In "Doctor Strange," who teaches magic to Stephen Strange?	Kaecilius	Odin	Dormammu	The Ancient One
+D0TRV32554	Disney	0	In "Ant-Man," who invented Ant-Man's suit?	Howard Stark	General Ross	Bruce Banner	Hank Pym
+D0TRV32555	Disney	0	In "Guardians of the Galaxy Vol. 2," what was Ego's alien race?	Skrull	Kree	Watcher	Celestial
+D0TRV32556	Disney	0	In which Marvel film did Hope and Pym kidnap Scott Lang from house arrest?	The Avengers	Thor: Ragnarok	Avengers: Endgame	Ant-Man and the Wasp
+D0TRV32557	Disney	0	In "Ant-Man," what kind of bug was ridden?	Bees	Wasps	Spiders	Ants
+D0TRV32558	Disney	0	In which Star Wars film did we see how Han Solo met Chewbacca?	The Rise of Skywalker	Attack of the Clones	Rogue One	Solo
+D0TRV32559	Disney	0	In Disney's "The Little Mermaid," who sang "Part of Your World"?	Sebastion	Belle	Ursula	Ariel
+D0TRV32560	Disney	0	In "Ant-Man," who was Scott Lang's daughter?	Hope	The Wasp	Janet	Cassie
+D0TRV32561	Disney	0	In "Doctor Strange," what color is Dr. Strange's Cloack of Levitation?	Green	Blue	Purple	Red
+D0TRV32562	Disney	0	In which Marvel film did Thor battle Hulk as gladiators?	The Incredible Hulk	Doctor Strange	Guardians of the Galaxy	Thor: Ragnarok
+D0TRV32563	Disney	0	In which Star Wars film were the Death Star schematics stolen?	The Last Jedi	Attack of the Clones	Solo	Rogue One
+D0TRV32564	Disney	0	In which Marvel film did Ant-Man suggest time travel to retrieve the Infinity Stones?	Black Widow	Captain Marvel	The Incredible Hulk	Avengers: Endgame
+D0TRV32565	Disney	0	How many founding members were in the Guardians of the Galaxy in the film?	8	2	12	5
+D0TRV32566	Disney	0	In "Avengers: Infinity War," who were some of those remaining after Thanos' snap?	Iron Man	Nebula	Thor	All of them
+D0TRV32567	Disney	0	In "Captain Marvel," who blinded Nick Fury's left eye?	General Ross	Monica Rambeau	Thor 	Goose
+D0TRV32568	Disney	0	In the "Guardians of the Galaxy" film, what was Peter Quill's alias?	The Destroyer	The Collector	Captain Marvel	Star Lord
+D0TRV32569	Disney	0	Who was a Guardian of the Galaxy in the films?	Peter Quill	Gamora	Groot	All of them
+D0TRV32570	Disney	0	Characters from which video game appeared in "Wreck-It Ralph?"	Q-bert	Pac-Man	Sonic the Hedgehog	All of them
+D0TRV32571	Disney	0	In "Pirates of the Caribbean: The Curse of the Black Pearl," what was the Black Pearl?	Parrot	Treasure	Canon	Ship
+D0TRV32572	Disney	0	In "Ralph Breaks the Internet," which websites were visited?	eBay	BuzzzTube	Oh My Disney	All of them
+D0TRV32573	Disney	0	In Disney/Pixar's "Up," what allowed Dug the dog to "speak"?	Morse Code	Sign Language	Writing	Special Collar
+D0TRV32574	Disney	0	Which series introduced a "baby" of Yoda's species?	Andor	Star Wars: Droids	Star Wars: Rebels	The Mandalorian
+D0TRV32575	Disney	0	In "The Incredible Hulk," who wanted to capture the Hulk?	Nick Fury	Professor X	Thanos	General Ross
+D0TRV32576	Disney	0	In "Captain Marvel," which rookie S.H.I.E.L.D. agent appeared?	Maria Hill	Daisy Johnson	Jemma Simmons	Phil Coulson
+D0TRV32577	Disney	0	Which Disney/Pixar film stars a rat that knows how to cook?	Lilo & Stitch	Pinky and the Brain	The Secret of Nimh	Ratatouille
+D0TRV32578	Disney	0	In the Avengers films, what group did Nick Fury work for?	A.I.M.	Hydra	Thunderbolts	S.H.I.E.L.D.
+D0TRV32579	Disney	0	In "Captain America: Winter Soldier," what was Winter Soldier's secret identity?	Tony Stark	Steve Rogers	Bruce Banner	Bucky Barnes
+D0TRV32580	Disney	0	In "Guardians of the Galaxy Vol. 2," who was Peter's father?	Thanos	General Ross	Odin	Ego
+D0TRV32581	Disney	0	In the Marvel films, what alien race is Thor?	Frost Giant	Kree	Skrull	Asgardian
+D0TRV32582	Disney	0	In the Disney film "Cinderella," what was magically transformed into a stagecoach?	Shoebox	Apple	Ball	Pumpkin
+D0TRV32583	Disney	0	What nearly indestructable metal was Captain America's shield made from?	Steel	Platinum	Diamonds	Vibranium
+D0TRV32584	Disney	0	In "Black Panther," what was Black Panther's suit made of?	Titanium	Silver	Carbon fiber	Vibranium
+D0TRV32585	Disney	0	In Avengers: Infinity War, what does Thanos use to house the Infinty Stones?	Crown	Necklace	Belt	Gauntlet
+D0TRV32586	Disney	0	Which Guardian of the Galaxy interpreted for Groot?	Gamora	Drax	Milano	Rocket
+D0TRV32587	Disney	0	In Disney's "Pocahontas," what animal was Flit?	Frog	Cricket	Mouse	Hummingbird
+D0TRV32588	Disney	0	In which Marvel film did Steve Rogers enlist in the military?	Iron Man	The Incrdeible Hulk	Ant-Man	Captain America: The First Avenger
+D0TRV32589	Disney	0	In "Avengers: Infinity War," who were some of those gone after Thanos' snap?	Nick Fury	Black Panther	Spider-Man	All of them
+D0TRV32590	Disney	0	Which Marvel film introduced Falcon into the Marvel Cinematic Universe?	Captain Marvel	Spider-Man: Homecoming	Black Widow	Captain America: Winter Soldier
+D0TRV32591	Disney	0	In the "Ant-Man and the Wasp" mid-credits scene, who got stranded in the quantum realm?	Nick Fury	Iron Man	Black Panther	Ant-man
+D0TRV32592	Disney	0	What is the "grey Iron Man" worn by James Rhodes called?	Punisher	Ultron	Bullseye	War Machine
+D0TRV32593	Disney	0	In which Marvel film was Janet van Dyne rescued from the quantum realm?	Avengers: Infinity War	Black Panther	The Eternals	Ant-Man and the Wasp
+D0TRV32594	Disney	0	Which Star Wars film took place just before Star Wars: A New Hope, in their time line?	The Phantom Menace	The Empire Strikes Back	The Force Awakens	Rogue One
+D0TRV32595	Disney	0	In Disney's "Lion King," what animal was Timon?	Gecko	Flamingo	Frog	Meerkat
+D0TRV32596	Disney	0	In "Avengers: Endgame," who sacrifices themselves for the Soul Stone?	Star Lord	Thor	Spider-Man	Black Widow
+D0TRV32597	Disney	0	In "Doctor Strange," what was Stephen Strange's occupation before magic?	Con man	Lawyer	Fireman	Surgeon
+D0TRV32598	Disney	0	In "Guardians of the Galaxy Vol. 2," who joined the Guardians crew?	Hulk	Captain Marvel	Thanos	Mantis
+D0TRV32599	Disney	0	In The Avengers films, what was the flying aircraft carrier called?	Enterprise	Death Star	Venice	Helicarrier
+D0TRV32600	Disney	0	In which Marvel film did Thor battle his sister Hela?	Avengers: Infinity War	Guardians of the Galaxy	Avengers: Endgame	Thor: Ragnarok
+0DIFETM118	Disney	1	Which Pixar movie's core theme is emotions?	Ratatouille	A Bug's Life	Up	Inside Out
+0DIFETM102	Disney	1	Which of the following is not a ride at Disneyland?	Jungle Cruise	Splash Mountain	The Haunted Mansion	Xcelerator
+0DIFETM111	Disney	1	Which Disney movie is the song "Friend Like Me" from?	Beauty and the Beast	Aristocats	Oliver and Company	Aladdin
+0DIFETM108	Disney	1	Which Disney movie is the song "I'll Make a Man Out of You" from?	Frozen	Moana	Brave	Mulan
+611FTUX160	Disney	1	In "The Little Mermaid," what is the name of the prince?	Naveen	John	Flynn	Eric
+12S2732	Disney	1	Who voiced Rapunzel on Disney's animated TV series "Rapunzel's Tangled Adventure"?	Taylor Swift	RuPaul	Sarah Silverman	Mandy Moore
+499482	Disney	1	Keira Knightley was not in which of the Disney Pirates films?	The Curse of the Black Pearl	Dead Man's Chest	At World's End	On Stranger Tides
+6276	Disney	1	Which of these Disney movies did not feature Hayley Mills?	That Darn Cat	Pollyanna	The Parent Trap	Splash
+295776	Disney	1	In "Finding Nemo", what gnarly surfers save Marlin and Dori from the jellyfish?	Sharks	Sea Anemones	Swordfish	Sea Turtles
+6246	Disney	1	When Peter Pan first met Wendy in Disney's "Peter Pan", what was he searching for?	Captain Hook	Tinker Bell	The Lost Boys	His Shadow
+522702	Disney	1	The main character in Disney's "Zootopia" is what kind of animal?	Kangaroo	Bear	Cat	Rabbit
+302387	Disney	1	The song "You've Got A Friend In Me" is from what popular Disney movie?	Snow White And The Seven Dwarfs	Monsters, Inc.	Aladdin	Toy Story
+494322	Disney	1	Which character in "Wreck-It Ralph" is good at racing?	Sergeant Calhoun	Markowksi	Don	Vanellope
+522705	Disney	1	Which comedian played the lead role in Disney's "Planes"?	Louis CK	Tig Notaro	Paul F. Tompkins	Dane Cook
+522729	Disney	1	Which character from "Peter Pan" is one of the stars of "The Pirate Fairy"?	Captain Hook	Wendy	Thomas	Tinker Bell
+522736	Disney	1	What breaks the curse on Princess Aurora in "Maleficent"?	A Magic Scroll	A Golden Ring	A Song	A Kiss
+272526	Disney	1	Justin Timberlake was selected for which premier Disney group when he was only 12 years old?	Minnie And Mickey's Group	The Disney All-Stars	Up With People	The Mickey Mouse Club
+296153	Disney	1	In the movie "Toy Story 2", what famous boxing match was spoofed by Rock-em Sock-em's missing ear?	Ali-Foreman	Lewis-Tyson	Lewis-Holyfield	Tyson-Holyfield
+611FTUX143	Disney	1	In "The Jungle Book," what is Kaa?	A Tiger	A Bird	A Bear	A Snake
+481922	Disney	1	Which Disney classic was re-released in 3D in January of 2012?	Snow White and the Seven Dwarfs	Fantasia	The Little Mermaid	Beauty and The Beast
+6295	Disney	1	Who does Snow White make a special pie for in "Snow White and the Seven Dwarfs"?	Dopey	The Prince	The Peddler Woman	Grumpy
+522708	Disney	1	What is the name of Dusty's main rival in Disney's "Planes"?	Stumpjumper	Rocktumbler	Kipspringer	Ripslinger
+1K10035	Disney	1	Who is the filmmaker that did the 2019 reboot of "Dumbo"?	Mel Gibson	Spike Lee	Ron Howard	Tim Burton
+273256	Disney	1	What character does Tom Hanks voice in "Toy Story"?	Mr. Potato Head	Buzz Lightyear	Sid	Woody
+375698	Disney	1	What 2006 Disney Channel movie was Zac Efron in?	High School Dance	This Is High School	Going To High School	High School Musical
+529681	Disney	1	The main character in "The Little Mermaid" desperately wants to be what species?	Bird	Dog	Shark	Human
+522695	Disney	1	Big Hero 6 was designed to combine the culture of California with that of what country?	Nigeria	Brazil	Germany	Japan
+6144	Disney	1	Who sang "When You Wish Upon a Star" in the 1940 Walt Disney film "Pinocchio"?	Mickey Mouse	Goofy	Minnie Mouse	Jiminy Cricket
+386056	Disney	1	What 1994 Disney film featured the songs "The Circle of Life" and "Hakuna Matata"?	Toy Story	Mulan	Hercules	The Lion King
+522713	Disney	1	What was the title of the 2014 sequel to Disney's "Planes"?	Search and Discover	Command and Conquer	The Friendly Skies	Fire and Rescue
+47384	Disney	1	In Disney's "A Goofy Movie", who did Goofy's son fall in love with?	Rosanne	Annette	P.J.	Roxanne
+6136	Disney	1	The song "Zip-a-Dee-Do-Da" is featured in which movie with both animated and live human characters?	Pete's Dragon	Mary Poppins	The Reluctant Dragon	Song Of The South
+522709	Disney	1	At the beginning of "Planes", the main character performs what job?	Food Delivery	Sky Diving Platform	Skywriting	Crop Dusting
+522693	Disney	1	How old is Hiro at the start of "Big Hero 6"?	24	34	44	14
+522737	Disney	1	Which character from "The Wizard of Oz" was also in "Oz the Great and Powerful"?	The Pumpkinhead	The Gargoyle	The Owl	The Scarecrow
+295652	Disney	1	What is the name of the Dalmatian hero in "101 Dalmatians"?	Spot	Bingo	Fido	Pongo
+55162	Disney	1	The Phish song "I Wanna Be Like You" is borrowed from what animated Disney movie?	Aristocats	Lady And The Tramp	Oliver	The Jungle Book
+6178	Disney	1	What is the name of the river boat at Disneyland?	The U.S.S. Grant	The Walt Disney	The River Belle	The Mark Twain
+375898	Disney	1	What is the name of the Disney Channel series that launched Miley Cyrus' career?	Hannah Jane	Hannah Banana	Montana USA	Hannah Montana
+92285	Disney	1	What popular Disney movie was Hayley Mills, Miss Bliss on "Saved by the Bell", in as a child?	Annie	Return To Oz	The Wizard Of Oz	Parent Trap
+6298	Disney	1	In "Snow White and the Seven Dwarfs" which dwarf doesn't talk?	Sneezey	Sleepy	Bashful	Dopey
+522694	Disney	1	In "Big Hero 6", Baymax was originally built for what function?	Finance	Security	Spying	Healthcare
+59639	Disney	1	According to the song in Disney's animated classic Cinderella, what is a dream?	A Cry For Help	A Wish You Were A Princess	A Wish To Get Through The Day	A Wish Your Heart Makes
+522728	Disney	1	In "Monsters University", Mike and Scully get kicked out of school after breaking what object?	Scream Gun	Scream Coat	Scream Screen	Scream Can
+230791	Disney	1	What Disney musical celebrated its 10-year run on Broadway in April 2004?	Rent	Annie	The Lion King	Beauty And The Beast
+6175	Disney	1	In the movie "Beauty and the Beast", what was the name of Maurice's horse?	Gerard	Jean-Luc	Maurice	Philippe
+1K10039	Disney	1	Who starred as the genie in the 2019 film "Aladdin"?	Adam Driver	Tom Holland	Eddie Murphy	Will Smith
+521446	Disney	1	Which actress voiced Anna in the 2013 animated film "Frozen"?	Idina Menzel	Kristen Stewart	Kirsten Dunst	Kristen Bell
+522707	Disney	1	Disney's "Planes" ends with both Dusty and Skipper joining what organization?	Southwest Airlines	NASA	Greenpeace	Navy
+6243	Disney	1	In Disney's "Alice in Wonderland", which of these animals did Alice not encounter?	A Disappearing Cat	A Smoking Caterpillar	A Frantic Rabbit	A Dancing Bear
+528438	Disney	1	Which of these Disney movies features George Clooney?	Wreck-It Ralph	Monsters, Inc.	Toy Story 2	Tomorrowland
+522691	Disney	1	Which member of the "Big Hero 6" can transform into a Godzilla-like creature?	Gogo	Baymax	Wasabi	Fred
+6247	Disney	1	What was the theme song for Walt Disney's original television series?	A Wonderful World Of Disney	Moon River	Tinkerbelle's Theme	When You Wish Upon A Star
+6SS132	Disney	1	Who is the stepbrother of Phineas in the Disney animated musical comedy television series?	Bear	Stitch	Furry	Ferb
+301988	Disney	1	In "The Little Mermaid", Ariel's two best friends are what kinds of sea creatures?	A Jellyfish And A Crab	A Crab And A Seahorse	A Fish And A Shark	A Crab And A Fish
+91831	Disney	1	The character Thumper is from which Disney movie?	Dumbo	Sword In The Stone	Peter Pan	Bambi
+6238	Disney	1	Which movie star bellowed roars as the Beast in Disney's "Beauty and the Beast"?	Matthew Broderick	Steve Martin	Mel Gibson	Robbie Benson
+6237	Disney	1	The voices of Matthew Broderick and Whoopi Goldberg were used in which Disney film?	The Hunchback Of Notre Dame	Beauty And The Beast	The Little Mermaid	The Lion King
+6287	Disney	1	What is the name of the talkative parrot in "Aladdin"?	Abu	Simba	Rajah	Iago
+230975	Disney	1	Which of these is the second title in the series of Disney's "Pirates of the Caribbean" movies?	Far The Land Down Under	A Wench's Party	The Curse of the Black Pearl	Dead Man's Chest
+522735	Disney	1	What princess does the title character put a curse on in "Maleficent"?	Maleena	Christina	Edwina	Aurora
+6312	Disney	1	Which Disney villain transforms them self into a dragon?	Cruella Deville	Ursula	Jafar	Maleficent
+499463	Disney	1	Which Pirates film did Johnny Depp earn his first Academy Award nomination for Best Actor?	At World's End	Dead Man's Chest	On Stranger Tides	The Curse of the Black Pearl
+6158	Disney	1	Who is the only dwarf in "Snow White and the Seven Dwarfs" to wear glasses?	Sleepy	Bashful	Grumpy	Doc
+43013	Disney	1	In Disney's "The Little Mermaid", what does Ariel call a corkscrew?	Hunkajunk	Dinglehopper	Whatchamacallit	Thingamabob
+522690	Disney	1	Big Hero 6 is about a young boy who's a prodigy at building what?	Cars	Weapons	Skateboards	Robots
+522723	Disney	1	Which chameleon-like monster is Mike's rival in "Monsters University"?	Gex	Bando	Sledge	Randy
+787I413	Disney	1	"Into the Unknown" is a song from which 2019 Disney film?	Dumbo	Lady and the Tramp	Togo	Frozen II
+522733	Disney	1	What part of the title character gets cut off in "Maleficent", making her evil?	Feathers	Horns	Scales	Wings
+296150	Disney	1	What color is Jessie's hat in "Toy Story 2"?	Green	Yellow	Blue	Red
+2S56154	Disney	1	Disney's TV series "Austin & Ally" is about two people that are both what?	Volleyball Players	Geniuses	Magicians	Musicians
+89091	Disney	1	Which Disney film has a character named Prince Charming?	Aladdin	Sleeping Beauty	Snow White	Cinderella
+295653	Disney	1	In "101 Dalmatians", why did Cruella De Vil want to kidnap the puppies?	They Had Diamonds Inside Of Them	She Wanted To Breed Them	They Could Tell The Future	Their Fur
+79407	Disney	1	Which movie did Denzel Washington appear in for Disney?	Angels In The Endzone	The Bone Collector	The Kid	Remember The Titans
+521451	Disney	1	Which character is the main antagonist of the 2013 animated film "Frozen"?	Elsa	Oaken	Marshmallow	Hans
+296148	Disney	1	What kind of animal is Bullseye in "Toy Story 2"?	A Penguin	A Dog	A Dinosaur	A Horse
+295673	Disney	1	What kind of animal is Thumper, in the film "Bambi"?	A Bear	A Deer	A Squirrel	A Rabbit
+221571	Disney	1	What film with Gilbert Gottfried as Iago the Parrot was released in 1992?	Any Which Way You Can	The Object Of My Affection	Braindead	Aladdin
+87956	Disney	1	What was the first name of Beauty in Disney's animated "Beauty and the Beast"?	Anna	Beulah	Phoebe	Belle
+52112	Disney	1	What is the tree called at Disney's Animal Kingdom located in Orlando, Florida?	Life Tree	Big Tree	Tree Of Animals	The Tree Of Life
+6263	Disney	1	Who does Lady have to share a house with in "Lady and the Tramp"?	Her Owner's Children	Tramp	Jock And Trusty	Siamese Cats
+6232	Disney	1	Which Disney animated feature was loosely based on a real person?	The Hunchback Of Notre Dame	Cinderella	All Of These Choices	Pocahontas
+522701	Disney	1	Which Disney animated movie was announced in 2013?	Aquatopia	Megatopia	Robotopia	Zootopia
+6170	Disney	1	Who sang "Colors of the Wind" during the credits of the Disney movie "Pocahontas"?	Celine Dion	Angela Lansbury	Gloria Estefan	Vanessa Williams
+6271	Disney	1	What did the "Swiss Family Robinson" live in?	Their Car	A Cave	A Box	A Tree House
+522715	Disney	1	What does the main character of "The Wind Rises" design for a living?	Kites	Balloons	Windmills	Airplanes
+6167	Disney	1	In 1937, Walt Disney received a special Academy Award for which film?	Cinderella	Sleeping Beauty	Pinocchio	Snow White And The Seven Dwarfs
+522738	Disney	1	What kind of animal is the character Rocket in "Guardians of the Galaxy"?	Fox	Weasel	Stoat	Raccoon
+522703	Disney	1	What kind of animal is the police officer Judy Hops in the Disney movie "Zootopia"?	Wallaby	Grasshopper	Gorilla	Rabbit
+6206	Disney	1	What section of the castle does The Beast give to Belle in "Beauty and the Beast"?	The West Wing	The Dungeon	The Kitchen	The Library
+522692	Disney	1	Which member of the "Big Hero 6" is a robot?	Fred	GoGo	Wasabi	Baymax
+2014	Disney	1	What are the names of Disney's famous two chipmunks?	Beavis And Butt-Head	Tom And Jerry	Itchy And Scratchy	Chip And Dale
+18784	Disney	1	What city in France is the setting for Disney's "The Hunchback of Notre Dame"?	Marseilles	Nice	Le Havre	Paris
+6286	Disney	1	In "Beauty and the Beast", what was the Beast's real name?	Gaston	Robert	Maurice	Never Said
+522704	Disney	1	Disney's movie "Planes" is a spin-off of what other series?	Trains	Helicopters	Boats	Cars
+2S83331	Disney	1	Diary of a Future President is a Disney+ series about a 12-year-old Cuban American girl who wants to become what?	A Cheerleader	President of Cuba	A CEO	President of the USA
+522712	Disney	1	The movie "The Wind Rises" is set in what country?	Switzerland	Angola	Canada	Japan
+90131	Disney	1	What Disney animated film featured cats named Si and Am?	Oliver	Lion King	101 Dalmatians	Lady And The Tramp
+254816	Disney	1	What animated movie features Flik, Hopper and Manny?	Robots	Toy Story	Antz	A Bug's Life
+494319	Disney	1	Wreck-It Ralph takes place inside what kind of building?	Movie Theater	Record Store	Coffee Shop	Video Arcade
+522689	Disney	1	What's the first name of the young engineering genius who stars in "Big Hero 6"?	Tokido	Daigo	Keiko	Hiro
+515850	Disney	1	The 2014 film "Maleficent" is a live-action re-imagining of what 1959 Disney animated film?	Snow White And The Seven Dwarfs	Beauty And The Beast·	Cinderella	Sleeping Beauty
+76887	Disney	1	In Disney's "The Fox and The Hound", what is the fox's first name?	Phil	Sylvester	Jack	Tod
+6185	Disney	1	Which of these was not the name of a dog in "Lady and the Tramp"?	Jock	Trusty	Peg	Perdita
+6176	Disney	1	In the movie, "The Little Mermaid", what did Scuttle call a fork?	Flotsam	Snarfblatt	Banditer	Dinglehopper
+397405	Disney	1	What kind of animal is Bagheera in the Disney animated feature "The Jungle Book"?	Labrador Retriever	Elephant	Moose	Panther
+6288	Disney	1	What is the name of the musical crab in Disney's "The Little Mermaid"?	Scuttles	Flounder	Eric	Sebastian
+397197	Disney	1	What kind of animal is Thumper in the 1942 animated film "Bambi"?	Deer	Bird	Mouse	Rabbit
+65349	Disney	1	How many "thingamabobs" did Ariel have in "The Little Mermaid"?	14	16	18	20
+25988	Disney	1	What did Ariel trade to become human in Disney's "Little Mermaid"?	Her Freedom	Her Father, The King	Her Two Friends	Her Beautiful Voice
+6302	Disney	1	What kind of pie was Snow White making for the Dwarfs?	Apple	Cherry	Blueberry	Gooseberry
+397343	Disney	1	What natural disaster upsets the environment in the Disney animated classic "Bambi"?	Earthquake	Hurricane	Flood	Forest Fire
+522734	Disney	1	What kind of animal is Diaval in "Maleficent"?	Cat	Rat	Snake	Raven
+499481	Disney	1	Orlando Bloom was not in which of these Pirates films?	The Curse of the Black Pearl	At World's End	Dead Man's Chest	On Stranger Tides
+397349	Disney	1	In the animated Disney film "Sleeping Beauty", who does Princess Aurora meet on her 16th birthday?	Stefan	Flora	Hubert	Prince Philip
+522706	Disney	1	What's the name of the main character in "Planes"?	Dippy	Dingy	Dummy	Dusty
+257915	Disney	1	What is the 1969 Disney film "The Love Bug" all about?	A Lovable Bear With The Sniffles	A Love Virus	A Fly In Love	A Volkswagen Beetle
+58931	Disney	1	What actress provided the voice of Jane in the 1999 Disney animated feature "Tarzan"?	Jodi Benson	Neve Campbell	Sandra Bullock	Minnie Driver
+39410	Disney	1	What was the name of the prince in "The Little Mermaid"?	Michael	Christopher	John	Eric
+522787	Disney	1	What city is one of the settings for "Oz the Great and Powerful"?	The Diamond City	The Ruby City	The Sapphire City	The Emerald City
+787I009	Disney	1	What is the name of the Mandalorian's ship in "The Mandalorian"?	The Razor Crest	The Razor Quest	Falcon's Crest	The Razor Crest
+6166	Disney	2	Who are the two heroes in "Winnie the Pooh and the Blustery Day"?	Tigger And Pooh	Rabbit And Owl	Christopher Robin And Pooh	Piglet And Pooh
+78316	Disney	2	On "Full House", which girl won Princess for a Day at Disney World?	Kimmy	Stephanie	D.J.	Michelle
+6138	Disney	2	What color is the feather in Peter Pan's hat in the Walt Disney version of "Peter Pan"?	Brown	Blue	Yellow	Red
+18773	Disney	2	Besides "Haunted Mansion", which Disneyland attraction was the last Walt Disney helped "imagineer"?	Great Moments With Mr. Lincoln	Cinderella Castle	The Monorail	The Pirates Of The Caribbean
+6137	Disney	2	What section in California's Disneyland was totally remade by 1998?	Adventureland	Toontown	Fantasyland	Tomorrowland
+62503	Disney	2	What was the short-lived Disney series that featured such characters as Bumblelion and Rhinokey?	The Smurfs	The Popples	The Transformers	The Wuzzles
+494321	Disney	2	Who is King of the game "Sugar Rush" in "Wreck-It Ralph"?	King Chocolate	King Brownie	King Lollipop	King Candy
+6190	Disney	2	What orchestra performs along with Mickey Mouse in "Fantasia"?	San Diego Orchestra	Cleveland Orchestra	St. Louis Orchestra	Philadelphia Orchestra
+63457	Disney	2	In Disney's animated feature "The Little Mermaid" what are the names of Ursula's eels?	Pain And Panic	Banzi And Shenzi	Fric And Frac	Flotsam And Jetsam
+6129	Disney	2	How many villains are in the Disney animated classic "Pinocchio"?	4	1	3	5
+397193	Disney	2	In "The Many Adventures of Winnie the Pooh", which of these things does Pooh like best?	Strawberry Jam	Peanut Butter	Sour Cream	Honey
+521465	Disney	2	Which song in the 2013 animated film "Frozen" is sung by Kristoff?	Love Is An Open Door	Frozen Heart	In Summer	Reindeer(s) Are Better Than People
+26090	Disney	2	Which of the following spellings is correct for the Disney character with the long nose?	Pinnochio	Pinnocchio	Pinochio	Pinocchio
+287585	Disney	2	What is the name of the protagonist of "Cars"?	Doc Hudson	Sally Carrerra	Mater	Lightning McQueen
+6289	Disney	2	What was the name of the cat in Disney's film "Cinderella"?	Jonesy	Morris	Malificent	Lucifer
+88474	Disney	2	What was the name of the Volkswagen in Disney's, "The Love Bug"?	Johnny	Walter	Charlie	Herbie
+787I110	Disney	2	Who does the voice of Paz Vizla in "Chapter 3: The Sin" of "The Mandalorian"?	Julia Jones	Alan Arkin	Bill Burr	Jon Favreau
+522777	Disney	2	What competition do Mike and Scully win in "Monsters University"?	Scare Olympics	Scare Triathlon	Scare Roulette	Scare Games
+47266	Disney	2	Which of these Disney character voices was not provided by Phil Harris?	Little John, "Robin Hood"	Thomas O'Malley, "The Aristocats"	Baloo, "The Jungle Book"	Bernard, "The Rescuers"
+6320	Disney	2	Whose name is on the first bed Snow White reads in "Snow White and the Seven Dwarfs"?	Grumpy's	Bashful's	Dopey's	Doc's
+91495	Disney	2	Who stars in the Disney movie "Life Size" as a doll who comes to life?	Kirsten Dunst	Halle Berry	Marlisa Jones	Tyra Banks
+521476	Disney	2	At the end of the 2013 animated film "Frozen", which characters share a kiss?	Elsa & Kristoff	Anna & Hans	Elsa & Hans	Anna & Kristoff
+397198	Disney	2	When the title character from "Pinocchio" lies, what does his nose do?	Shrinks	Twitches	Disappears	Grows
+35010	Disney	2	What type of insect was Dim in "Bug's Life"?	A Fly	A Spider	A Grasshopper	A Beetle
+6236	Disney	2	Which Disney attraction was originally designed as a wax museum?	Mr. Lincoln's Theater	Swiss Family Robinson Tree House	The Haunted Mansion	The Pirates Of The Caribbean
+295781	Disney	2	In the film "Freaky Friday", what causes Anna and her mother to switch bodies?	A Birthday Cake Wish	A Genie's Lamp	A Fortune Teller	Fortune Cookies
+397344	Disney	2	Who acts as Pinocchio's conscience in the 1940 animated classic "Pinocchio"?	Cleo	Honest John	Gepetto	Jiminy Cricket
+6115	Disney	2	What was Disney's 33rd animated full-length film?	Lion King	Hunchback Of Notre Dame	Hercules	Pocahontas
+522785	Disney	2	Which good witch is one of the main characters in "Oz the Great and Powerful"?	Mary	Alexis	Danyell	Theodora
+296071	Disney	2	What is Mr. Incredible's super power in the movie "The Incredibles"?	He Can Become Invisible	He Has Healing Powers	He Is Super Fast	He Has Super Strength
+59011	Disney	2	Who are the members of the Round-up Gang from the Disney/Pixar movie "Toy Story 2"?	Jesse, Bullseye, Buzz, Emily	Buzz, Woody, Bo Peep, Andy	Bo Peep, Jessie, Woody, Pete	Woody, Bullseye, Jessie, Pete
+481942	Disney	2	Disney released which full-length nature documentary in 2011?	Chimpanzee	The Crimson Wing: Mystery of the Flamingos	Oceans	African Cats
+194067	Disney	2	What was Disneyland Paris called originally?	Disney East	Disneyland France	Disney's Palace	Euro-Disney
+522756	Disney	2	Which character in "Planes" is from Quebec?	Zed	Echo	Franz	Rochelle
+522763	Disney	2	The characters in Disney's "Planes" all seek to win what important race?	Wings Around the World	Wings Around the Earth	Wings Around the Sky	Wings Around the Globe
+522755	Disney	2	In "Planes", the character Ishani is a native of which country?	Saudi Arabia	Japan	Chile	India
+67773	Disney	2	In the Disney/Pixar movies "Toy Story" and "Toy Story 2" who is the voice of Mr. Potato Head?	Tom Hulce	David Foley	Nigel Hawthorne	Don Rickles
+522788	Disney	2	Which character in "Guardian of the Galaxy" resembles a tree?	Voot	Joot	Yoot	Groot
+8482	Disney	2	At Disney-MGM Studios, what is the ride that portrays "Star Wars" called?	Body Wars	Space Mountain	Deep Space 9	Star Tours
+64715	Disney	2	Which character from Disney's "The Little Mermaid" made an appearance in the animated series "Hercules"?	Flounder	Prince Eric	Ariel	Sebastian
+521464	Disney	2	Which character in the 2013 animated film "Frozen" dreams of experiencing summer?	Anna	Marshmallow	Sven	Olaf
+23833	Disney	2	What two stars of "Taxi" reunited in the Disney hit "Angels In The Outfield"?	Danny DeVito & Tony Danza	Judd Hirsch & Mary Lou Henner	Tony Danza & Andy Kaufman	Christopher Lloyd & Tony Danza
+521487	Disney	2	Who is the wise and elderly ruler of the trolls in the 2013 animated film "Frozen"?	Bulda	Sven	Cliff	Pabbie
+575	Disney	2	In Don Bluth's cartoon feature "An American Tail", what was Fievel's last name?	Mousenstein	He Had No Last Name	Catack	Mousekewitz
+6251	Disney	2	Ashman and Menken, who collaborated on numerous Disney films, also wrote what Off-Broadway musical?	Hair	The Fantasticks	Assassins	Little Shop Of Horrors
+296154	Disney	2	Where is the museum that Al sells the toys to in "Toy Story 2"?	England	China	India	Japan
+6244	Disney	2	Before they opened Disney World in Florida, Disney had planned to open Walt Disney's Riverfront Square in which state?	They Never Considered Anywhere But Florida	New York	Tennessee	Missouri
+30111	Disney	2	Which two actors from "Seinfeld" have been in an animated Disney feature?	Jerry Seinfeld, Michael Richards	John O'Hurley, Jerry Stiller	Michael Richards, Wayne Knight	Jason Alexander, Julia Louis-Dreyfus
+18803	Disney	2	What are the people who work at Disney World called?	Disney Workers	The Crew	Mouseketeers	Cast Members
+6125	Disney	2	How many pots of honey does Winnie the Pooh have in "Winnie the Pooh and Tigger Too"?	1	0	2	12
+6256	Disney	2	Which of the following was not a part of the original Disneyland?	Flying Dumbo Ride	Mad Hatter Teacup Ride	3d Movie Theater	Little Mermaid Waterfall Ride
+2818	Disney	2	What was the number one selling children's video of 1994?	Barney & The Gang	Power Rangers #1	Let's Pretend	The Return Of Jafar
+6187	Disney	2	Which of these smaller movie companies is owned by Disney?	TriStar Pictures	Amblin Entertainment	New Line Cinema	Touchstone Pictures
+27892	Disney	2	What was the last animated movie Walt Disney worked on before he died?	Sleeping Beauty	Alice In Wonderland	Fantasia	The Jungle Book
+295642	Disney	2	In the movie "Brother Bear" what was the name of the boy who was transformed into a bear by the Great Spirits?	Joseph	Arkai	Malchalim	Kenai
+521488	Disney	2	What troll is the adoptive mother of Kristoff and Sven in the 2013 animated film "Frozen"?	Elsa	Marshmallow	Pabbie	Bulda
+6323	Disney	2	Which Disney feature had the least number of staff working on it?	Aladdin	Beauty And The Beast	Snow White And The Seven Dwarfs	Toy Story
+76886	Disney	2	In Disney's movie "Sleeping Beauty", who was Princess Aurora's father?	King John	King Henry	King Herbert	King Stefan
+83400	Disney	2	In Disney's "Peter Pan", how many of the "lost boys" are dressed as raccoons?	None	Three	One	Two
+522754	Disney	2	Which character in "Planes" is named after a kind of dog?	Terrier	Dachshund	Poodle	Bulldog
+6161	Disney	2	What was the first Disney film that used extensive computer animation?	Oliver & Company	Mary Poppins	The Little Mermaid	The Great Mouse Detective
+521463	Disney	2	Which song in the 2013 animated film "Frozen" is sung by Olaf?	Do You Want To Build A Snowman?	Reindeer(s) Are Better Than People	Fixer Upper	In Summer
+6217	Disney	2	Which animal in "Snow White and the Seven Dwarfs" was always the last to join the rest?	Squirrel	Raccoon	Rabbit	Turtle
+6313	Disney	2	Which Disney movie features the song "Casey Junior"?	Cinderella	Pocahontas	Bedknobs And Broomsticks	Dumbo
+6171	Disney	2	What Disney film was the first full-length animated feature?	Fantasia	Bambi	Steamboat Willie	Snow White And The Seven Dwarfs
+6266	Disney	2	How many daughters does King Triton have in "The Little Mermaid"?	Six	Twelve	Twenty	Seven
+296379	Disney	2	Who was the voice of Ramone in the movie "Cars"?	Tony Shalhoub	Paul Newman	Paul Dooley	Cheech Marin
+66571	Disney	2	What Disney movie starred rapper Tone Loc?	Toy Story	Herbie Goes Bananas	The Santa Clause	Blank Check
+787I1120	Disney	2	What year did Disney announce it bought Marvel Entertainment for $4 billion?	2013	2017	2015	2009
+36891	Disney	2	In "A Bug's Life", who is in charge of the circus?	Slim	Tuck And Roll	Francis	P.T. Flea
+52306	Disney	2	In the Disney movie "A Bug's Life", which group of bugs bosses around the terrified ants?	The Pill Bugs	The Monarch Butterflies	The Flies	The Grasshoppers
+426044	Disney	2	Who sang the Grammy Award-winning song "Colors of the Wind" from the Disney feature "Pocahontas"?	Bette Midler	Christina Aguilera	Linda Ronstadt	Vanessa Williams
+6262	Disney	2	What object is Lumiere's love interest in Disney's "Beauty and the Beast"?	A Clock	A Teapot	A Wardrobe	A Feather Duster
+1K10027	Disney	2	Who stars as Raven Baxter in the Disney TV series "Raven's Home"?	Ruth Righi	Eunetta T. Boone	Anneliese van der Pol	Raven-Symone
+62687	Disney	2	What classic Disney song did Billy Joel perform on the children's compilation disc "Mad About the Mouse"?	A Dream Is A Wish Your Heart Makes	Cruella De Vil	Second Star To The Right	When You Wish Upon A Star
+6156	Disney	2	What were the magic words to make inanimate objects come to life in the movie, "Bedknobs & Broomsticks"?	Ollie Ollie Oxen Free	Abracadabra	Bibbity Bobbity Boo	Traguna Macoides Trecorum Satis Dee
+298125	Disney	2	Monique Coleman starred in which hit Disney movie?	Lizzie McGuire	RV	Cheetah Girls	High School Musical
+481894	Disney	2	Which classic Disney film was re-released in 3D in September of 2011?	Aladdin	Cinderella	Pinocchio	The Lion King
+494320	Disney	2	Who is Wreck-It Ralph's enemy in "Wreck-It Ralph"?	Fix-It Fred, Jr.	Fix-It Finn, Jr.	Fix-It Franz, Jr.	Fix-It Felix, Jr.
+295647	Disney	2	Who plays the voice of Kenai in "Brother Bear"?	Will Smith	Jack Black	Bruce Willis	Joaquin Phoenix
+6307	Disney	2	In "Snow White and the Seven Dwarfs", why did the Queen ask for a thunderbolt?	To Fan Her Hate	To Begin Her Magic Spell	To Age Her Voice	To Mix A Magic Potion Well
+18766	Disney	2	Who was the head elf (after Santa, of course) in Disney's The Santa Clause?	Tami	Judi	Larry	Bernard
+88920	Disney	2	Which Disney movie from the 60's featured a grey horse named Aspercel?	Horse With The Flying Tail	Barefoot Executive	Zorro	The Horse In The Grey Flannel Suit
+289067	Disney	2	Which of these cities is in the animated film "The Incredibles"?	Night City	Odyssey	Oto Island	Newtropolis
+296117	Disney	2	In the movie "The Princess Diaries 2: Royal Engagement", what is the name of Princess Mia's best friend?	Sarah	Dorothy	Tori	Lilly
+6203	Disney	2	Who was the inventor of "Flubber"?	Dean Jones	Don Murray	Alonzo Hawk	Ned Brainard
+6131	Disney	2	What love song in the movie "Aladdin" is performed by Regina Belle and Peabo Bryson?	Somewhere Out There	Prince Ali	One Jump Ahead	A Whole New World
+787I514	Disney	2	What is the real name of Mando in "The Mandalorian"?	Gin Darin	Din Djarin	Lem Boba	Din Djarin
+6145	Disney	2	In Disney's "Peter Pan", what is Tinker Bell?	Fairy	Hobbit	Angel	Pixie
+6201	Disney	2	What was the Uncle's name in Disney's "Song of the South"?	Uncle Elmer	Whitey	Uncle Abner	Uncle Remus
+6107	Disney	2	What child star played twins in Disney's 1961 film "The Parent Trap"?	Sandy Dennis	Alley Mill	Sally Field	Hayley Mills
+84704	Disney	2	Which star's likeness is not an audio-animatronics robot in Disney's MGM Great Movie Ride?	Sigourney Weaver	Harrison Ford	Clint Eastwood	Ellen DeGeneres
+522786	Disney	2	What is Oz's real name in "Oz the Great and Powerful"?	Ozzie	Osmond	Odell	Oscar
+7698	Disney	2	Which former Disney star was in early episodes of the TV sitcom "Saved by the Bell"?	Annette Funicello	Maureen O'Hara	Vivian Pickles	Hayley Mills
+92602	Disney	2	In what land at the Magic Kingdom in Florida will you find "The Pirates of the Caribbean"?	Fantasyland	Frontierland	Caribbeanland	Adventureland
+41829	Disney	2	Who was the voice of the Beast in Disney's "Beauty and the Beast"?	Dustin Hoffman	Mel Gibson	Robin Williams	Robbie Benson
+78315	Disney	2	On "Full House", who proposed to who at Disney World?	Dwayne To Kimmy	Jesse To Becky	Steve To D.J.	Danny To Vicky
+2044	Disney	2	Who was not a member of the "Legion of Doom"?	The Toyman	Sinestro	Grodd	Doctor Doom
+414394	Disney	2	In the 2004 movie "The Incredibles", what color is Mr. Incredible's old super suit?	Red	Yellow	Transparent	Blue
+56904	Disney	2	Which one of the Backstreet Boys got a rose while singing during the Disney Channel concert?	A.J. McLean	Brian Littrell	Howie Dorough	Nick Carter
+295679	Disney	2	In what decade was the original "Bambi" movie first released?	The 1970's	The 1990's	The 1980's	The 1940's
+6154	Disney	2	In "Newsies", what does Mush want?	A Saturday Night With The Mayor's Daughter	A Porcelain Tub With Boiling Water	A Permanent Box At Cheapshead Races	Pair Of New Shoes With Matching Laces
+41584	Disney	2	In Disney's "Pinocchio" what was the name of Geppetto's fish?	Lara	Figaro	Jiminy	Cleo
+637	Disney	2	What independent film company produced the "Teenage Mutant Ninja Turtle" series?	Buena Vista	Miramax	Cannon	New Line Cinema
+521494	Disney	2	Who directed 2013's "Frozen" and became the first female to direct a full-length Disney animated feature film?	Kristen Anderson-Lopez	Idina Menzel	Kristen Bell	Jennifer Lee
+6108	Disney	2	What were Walt Disney's key animators known as?	Tired Old Men	Best Men	Talented Old Men	Nine Old Men
+522776	Disney	2	At the end of "Monsters University", Mike and Sulley start working at Monsters, Inc. doing what?	Cleaning Floors	Erasing Chalkboards	Mowing Lawns	Mail Sorting
+6304	Disney	2	Who presented the Oscar for "Snow White and the Seven Dwarfs"?	An Actress Dressed As Snow White	Walt Disney's Wife	Grandson Roy Disney, Jr.	Shirley Temple
+295651	Disney	2	In "101 Dalmatians", what is the name of the automobile Cruella De Vil drives?	Lion DeVille	Cheetah DeVille	Tiger DeVille	Panther DeVille
+6174	Disney	2	In the movie "Robin Hood", what were the names of the two buzzards that helped the Sheriff of Nottingham?	Sexton & Sentry	Birdie & Buzzie	Victor & Duncan	Nutsy & Trigger
+6192	Disney	2	In Disney's "Mary Poppins", what animal was on the end of Mary Poppins' umbrella?	A Cat	A Blue Jay	A Robin	A Parrot
+6140	Disney	2	In Disney's "The Lion King", what was the name of the birds that thought Simba was dead?	Eagles	Pigeons	Robins	Vultures
+522767	Disney	2	In "The Wind Rises", the main character works for what company that still exists today?	Datsun	Fuji	Sony	Mitsubishi
+6234	Disney	2	Where was a private apartment built for Walt Disney in Disneyland but never used?	Bear Country	Adventure Land	Tomorrow Land	New Orleans Square
+18816	Disney	2	In the cartoon version of "Robin Hood", what type of animal is Friar Tuck?	Weasel	Dog	Otter	Badger
+1K10031	Disney	2	How old is Sydney in the first season of the Disney TV series "Sydney to the Max"?	2 Years Old	5 Years Old	21 Years Old	12 Years Old
+6142	Disney	2	What name did Walt Disney originally decide to give Mickey Mouse?	Mickey Mouse	Mister Mouse	That Mouse	Mortimer Mouse
+80478	Disney	2	In "The Little Mermaid II: Return to the Sea", what is the name of Ursula's sister?	Morticia	Dash	Katana	Morgana
+6255	Disney	2	Disneyland in Anaheim, California has been closed how many times in it's history, due to capacity crowds?	Never Closed	Once	Twice	Five Times
+6109	Disney	2	What year was Walt Disney's "Jungle Book" released?	1966	1956	1975	1967
+6212	Disney	2	Who composed the music for such films as "Beauty and the Beast" and "The Hunchback of Notre Dame"?	Tim Rice	Howard Ashman	Elton John	Alan Menken
+58892	Disney	2	In which Disney Park can one eat in a restaurant named "Tusker House"?	Epcot	Magic Kingdom	MGM Studios	Animal Kingdom
+6119	Disney	2	In what year was Disneyland opened?	1950	1960	1965	1955
+77237	Disney	2	What was the hit song from the Disney movie, "The Parent Trap"?	Only Love Can Break A Heart	Remember Me	Today's Teardrops	Let's Get Together
+6112	Disney	2	When was Walt Disney born?	December 5, 1881	5-Dec-31	5-Dec-21	5-Dec-01
+6221	Disney	2	What year did Walt Disney die?	1969	1976	1964	1966
+18800	Disney	2	In the movie "Aladdin", where did Aladdin find the magic lamp?	In The Agrabah Store	In Princess Jasmine's Palace	On The Cobblestone Street	In The Cave Of Wonders
+39206	Disney	2	What was the first film released by the Disney owned Touchstone Pictures?	My Science Project	Ruthless People	Ernest Goes To Camp	Splash
+6182	Disney	2	In the movie "The Little Mermaid", what false name did the Sea Witch take when she posed as a human?	Camille	Antoinette	Isabella	Vanessa
+6282	Disney	2	In Disney's "Sleeping Beauty", what is the name of the prince?	Prince Gregory	Prince Charming	Prince Hubert	Prince Phillip
+18772	Disney	2	What breed of dog is Nana from Disney's "Peter Pan"?	Great Pyrenees	Airedale Terrier	Newfoundland	St. Bernard
+47777	Disney	2	Who supplied the voice of Timon in Disney's "The Lion King"?	Don Rickles	Robin Williams	Dan Castenetta	Nathan Lane
+87123	Disney	2	On "Full House", why did the family cancel their trip to Disneyland?	Death In The Family	Joey Broke His Foot	The Plane Had Mechanical Problems	Inclement Weather
+787I1019	Disney	2	What breed of dog is Trusty in 2019's "Lady and the Tramp"?	Beagle	Lhasa Apso	Bulldog	Bloodhound
+521492	Disney	2	Which Disney Princess makes a cameo appearance with Eugene in the 2013 animated film "Frozen"?	Belle	Cinderella	Aurora	Rapunzel
+1K10023	Disney	2	Who stars as Andi in the Disney TV series "Andi Mack"?	Navia Robinson	Jenna Davis	Sofia Wylie	Peyton Elizabeth Lee
+414349	Disney	2	What's the name of the bad-tempered restaurant critic in the 2007 movie "Ratatouille"?	Francois Legume	Pierre De Temper	Le Critic	Anton Ego
+6135	Disney	2	What Disney movie is the character Miss Bianca from?	101 Dalmatians	Cinderella	The Great Mouse Detective	The Rescuers
+399186	Disney	2	The Jungle Book is based on a series of stories by which author?	Ernest Hemingway	Joseph Conrad	C.S. Lewis	Rudyard Kipling
+58873	Disney	2	In Disney's "Doug", what city does Doug live in?	Covington	Lucky Duck Lake	Anaheim	Bluffington
+254480	Disney	2	What movie had director Garry Marshall appear in the coronation scene?	Are We There Yet?	Shall We Dance	The Ring Two	The Princess Diaries 2
+33086	Disney	2	In Disney's "Tarzan" who killed his real parents?	Clayton	Kerchek	They Killed Themselves By Accident	Sabor
+522760	Disney	2	Which former TV star helps out Dusty in "Planes: Fire & Rescue"?	Skeet Sutcliffe	Burn McGill	Skyfall Sam	Blade Ranger
+414348	Disney	2	In the 2007 movie "Ratatouille", what's the first dish Remy fixes for Linguini?	Bread	Beans	Antacid	Soup
+522775	Disney	2	Which character in "Monsters University" is a middle-aged returning student?	Terrier	Art	Brock	Don
+57930	Disney	2	In the Disney animated movie, "Cinderella", what are the dog and cat's names?	Bruno And Rufus	Pluto And Dinah	Brutus And Lucifer	Bruno And Lucifer
+295643	Disney	2	In the movie "Brother Bear", what was Sitka's spirit animal?	A Moose	A Wolverine	A Bear	An Eagle
+85232	Disney	2	What Disney animated feature has Duchess the Cat in it?	Alice In Wonderland	Lady And The Tramp	Lion King	The Aristocats
+494324	Disney	2	Characters from which video game series appear in "Wreck-It Ralph"?	System Shock	Skies of Arcadia	Lost Vikings	Street Fighter
+295696	Disney	2	In "Cars", what kind of car is Sally?	Jaguar	Dodge	Ford	Porsche
+32494	Disney	2	In "101 Dalmatians" what color is Pongo's leash?	Orange	Blue	Green	Red
+47145	Disney	2	How many muses were there in Disney's "Hercules"?	Four	Three	Two	Five
+6252	Disney	2	Before starring in "Lost in Space", Guy Williams starred in which Disney TV series?	Davy Crockett	The Mouseketeers	The Hardy Boys	Zorro
+287586	Disney	2	What big screen legend does the voice of Doc Hudson in the animated movie "Cars"?	Jack Nicholson	Robert Redford	Kirk Douglas	Paul Newman
+6184	Disney	2	In Disney's "The Hunchback Of Notre Dame", what is the name of Phoebus's horse?	Prometheus	Monarch	Ghost	Achilles
+522784	Disney	2	Which prince does Aurora marry at the end of "Maleficent"?	Marcus	Daniel	Jarrod	Phillip
+84700	Disney	2	Who is the voice of Timekeeper in Disney's Magic Kingdom?	Tim Curry	Tim Allen	Tom Hanks	Robin Williams
+522753	Disney	2	Which actor was the first to be cast in Disney's "Zootopia"?	Will Arnett	Hank Azaria	Patrick Warburton	Jason Bateman
+522766	Disney	2	Which loved one does the main character of "The Wind Rises" lose to tuberculosis?	His Son	His Mother	His Brother	His Wife
+6310	Disney	2	In "Snow White and the Seven Dwarfs", who is the only dwarf with blue eyes?	Sleepy	Bashful	Grumpy	Dopey
+6249	Disney	2	According to the Disney animated classic what was Sleeping Beauty named after?	A Perfume	Her Mother	A Flower	The Dawn
+287584	Disney	2	What group performs "Life is a Highway" on the "Cars" soundtrack?	The Dixie Chicks	Brooks and Dunn	Diamond Rio	Rascal Flatts
+521539	Disney	2	What Disney character is visible on one of the shelves in Oaken's store in the 2013 animated film "Frozen"?	Wreck-It Ralph	Rapunzel	Ariel	Mickey Mouse
+296152	Disney	2	What kind of camp does Andy go to in "Toy Story 2"?	Baseball Camp	Space Camp	Science Camp	Cowboy Camp
+521486	Disney	2	Which of the following is the home of the trolls in the 2013 animated film "Frozen"?	Valley Of The Breathing Rock	Valley Of The Wakened Rock	Valley Of The Sleeping Rock	Valley Of The Living Rock
+298474	Disney	2	What was the 25th animated feature in Disney's history?	The Little Mermaid	The Great Mouse Detective	The Rescuers	The Black Cauldron
+18788	Disney	2	Who did the voice of the archdeacon in "The Hunchback of Notre Dame"?	Paul Candle	Tom Hulce	Eddie Byrnes	David Ogden Stiers
+6124	Disney	2	What wrestling company, at times, held TV tapings at Disney's MGM Studios in Florida?	SSW	ECW	WWF	WCW
+63889	Disney	2	In Disney's "Lady and the Tramp", what was the name of the aunt?	Anna	Sohpie	Kate	Sarah
+6233	Disney	2	Which pop musical star used to have a featured short 3D motion picture at Disneyland?	Paul Simon	Paul McCartney	Sting	Michael Jackson
+465218	Disney	2	What kind of animal is TV star Bolt in the 2008 film of the same name?	A rabbit	A possum	A horse	A dog
+92447	Disney	2	Before being removed, Dreamflight at the Magic Kingdom in Walt Disney World was sponsored by what airline?	Southwest Airlines	United Airlines	US Airways	Delta Air Lines
+59317	Disney	2	Who plays the evil Mr. Pulitzer in the 1992 Disney musical "Newsies"?	Kevin Tighe	Michael Lerner	Charles Cioffi	Robert Duvall
+254829	Disney	2	Which character in the 2004 movie "The Incredibles" has elasticity for a superpower?	Dashiell	Violet	Bob	Helen
+6110	Disney	2	Which character from a Disney animated feature is known as the diamond in the rough?	Simba	Cinderella	Beast	Aladdin
+6179	Disney	2	What was the name of the snoring bear at Disneyland?	Charlie	Bruce	Barney	Rufus
+6169	Disney	2	The same actress provided the voice for Alice in "Alice in Wonderland", and what other Disney character?	Lady From Lady & The Tramp	Mrs. Jumbo From Dumbo	Cinderella	Wendy From Peter Pan
+89709	Disney	2	Who is the creator of Disney World?	Stan Disney	Bob Disney	Bill Gates	Walt Disney
+787I211	Disney	2	What actor's grandson plays a Mandalorian Warrior in Chapter 8 of "The Mandalorian"?	Sean Connery	John Wayne	Clint Eastwood	John Wayne
+6150	Disney	2	In 'Newsies", when they were running from Snyder, which of the following did they NOT see on the stairs?	Girl Playing With Ball	Man Shaving	Sleeper	Woman Carrying Laundry
+6293	Disney	3	In "Snow White and the Seven Dwarfs", who does the peddler woman offers a drink to?	A Raven	The Dwarfs	Snow White	A Skeleton
+92601	Disney	3	In what land at the Magic Kingdom in Florida will you find Splash Mountain and Thunder Mountain?	Liberty Square	Wonderland	Adventureland	Frontierland
+296111	Disney	3	Of what nationality was the arranged groom in the movie "The Princess Diaries 2: Royal Engagement"?	Italian	American	Spanish	English
+521538	Disney	3	What is the name of Elsa and Anna's mother in the 2013 animated film "Frozen"?	Olaf	Pabbie	Agdar	Idun
+83399	Disney	3	In Disney's "The Parent Trap", where did Annie and Hallie first realize that they were twins?	Right At The Beginning	The Cafeteria	The Lake	The Isolation Cabin
+21862	Disney	3	At how many resorts does the monorail in Disney World stop?	2	0	4	3
+217136	Disney	3	What city does Nemo get stuck in, in the movie "Finding Nemo"?	Mexico City, Mexico	New York City, New York	Miami, Florida	Sydney, Australia
+84703	Disney	3	What music group is featured in the Rock 'N' Roller Coaster ride in Disney's MGM park?	The Rolling Stones	*NSYNC	Kiss	Aerosmith
+84699	Disney	3	How many times does the Abominable Snowman appear while riding The Matterhorn at Disneyland?	1	3	4	2
+6294	Disney	3	In "Snow White and the Seven Dwarfs", who took an interest in the peddler woman's actions until her death?	Snow White	The Forest Animals	The Dwarfs	A Pair Of Vultures
+25090	Disney	3	What is the name of the main road at the Disney MGM Studios?	Mickey Blvd	Vine Street	Pooh Corner	Hollywood Blvd
+58869	Disney	3	In Disney's "My Favorite Martian", the alien takes human form to pose as what relative of Tim O'Hara?	Nephew	Father	Brother	Uncle
+18763	Disney	3	What was the original name of the program, "The Wonderful World of Disney"?	Walt Disney's Wonderful World	Disney's Colorful World	The Colorful World Of Wonder	The Wonderful World Of Color
+6269	Disney	3	What makes the Disney World ride Space Mountain so frightening?	The Screams Echo Throughout The Mountain	Single Seats Make You Ride Alone	Creatures Jump Out At The Riders	It Is In Complete Darkness
+53509	Disney	3	Disney's "Old Yeller" is based upon the novel by which author?	Walt Disney	Fred Connors	Fess Parker	Fred Gipson
+65302	Disney	3	What is the name of the candlestick in the Disney animated feature "Beauty and the Beast"?	Chip	Maurice	Cogsworth	Lumiere
+76920	Disney	3	In "Pocahontas" who was the voice of John Smith during the song, "Colors of the Wind"?	Mick Jager	Nick Carter	Peabo Bryson	Mel Gibson
+6250	Disney	3	Which character did Walt Disney create first?	Dopey	Mickey Mouse	Pluto	Oswald The Rabbit
+62939	Disney	3	Besides Geppetto in Disney's "Pinocchio", who else was the owner of Figaro the cat?	Daisy Duck	Walt Disney	Alice	Minnie Mouse
+36859	Disney	3	Jim Cummings is a voice actor; who was the first Disney character he voiced?	Bullet #2 From Who Framed Roger Rabbit	Darkwing Duck	Winnie The Pooh	Lionel From Dumbo's Circus
+47952	Disney	3	In Disney's "Mulan", what do the Huns hide under during the victory parade?	A Lion	A Barrel	A Swan	A Dragon
+53507	Disney	3	What is the name of the boy that old Yeller befriends in Walt Disney's "Old Yeller"?	Timmy	Tommy	Teddy	Travis
+317856	Disney	3	Where in Florida will you find Disney World?	Miami	Tampa	Cocoa Beach	Orlando
+787I312	Disney	3	Who did the music score for 2019's "Frozen II"?	Mark Hammel	Jennifer Lee	Chris Buck	Christophe Beck
+67975	Disney	3	In the Disney classic "Beauty and the Beast", what enchanted object was Lumiere's girlfriend?	Clock	Teapot	Candlestick	Feather Duster
+6303	Disney	3	What was significant about the Oscar Walt Disney won for "Snow White and the Seven Dwarfs"?	His First One For Animation	It Was Received After The Movie Had Been Out For Only 2 Weeks	Walt Disney Was Unable To Except The Award So His Grandson Roy Disney Jr. Did So In His Place	One Large Statue And Seven Small Ones
+6306	Disney	3	In "Snow White and the Seven Dwarfs", what did the blast of wind do in the spell the Evil Queen used?	Made Her Old	Whitened Her Hair	Mixed It Well	Fanned Her Hate
+79533	Disney	3	Which famous stars lent their voices to characters in "Oliver & Company"?	Demi Moore And Bruce Willis	Bette Midler And Tina Turner	James Earl Jones And Whoopi Goldberg	Billy Joel And Bette Midler
+6296	Disney	3	In "Snow White and the Seven Dwarfs", which dwarf never washes?	Happy	Grumpy	Dopey	Doc
+76575	Disney	3	What nighttime soap features an actor or actress who also starred in "The Mighty Ducks"?	Buffy The Vampire Slayer	Touched By An Angel	ER	Dawson's Creek
+21483	Disney	3	Who wrote the lyrics to Disney's "Mickey Mouse Club March"?	Terry Gilkyson	Alan Menken	Howard Ashman	Jimmie Dodd
+21863	Disney	3	What was the first parade at the Disney MGM Studios?	Beauty And The Beast	Toy Story	Aladdin	Dinosaurs Live
+30056	Disney	3	In what Disney World attraction do you travel in XP-37 space cruisers to the Gamma Quadrant?	Astro Orbitor	Alien Encounter	Space Mountain	Buzz Lightyear's Space Ranger Spin
+787I716	Disney	3	What is the large horned beast in the "The Mandalorian"?	Space Slug	Mud Horn	Zillo Beast	Mud Horn
+84696	Disney	3	Who is the star of Universe of Energy at Disney World Epcot?	Barney The Dinosaur	Henry Ford	Abraham Lincoln	Ellen Degeneres
+30034	Disney	3	What year did the first Disney Store open?	1991	1955	1971	1987
+36461	Disney	3	In the movie "The Hunchback of Notre Dame" where did Disney place hidden Mickeys?	Inside The Cathedral	In The Town Square	The Gypsy Haven	The Outside Architecture Of The Cathedral
+6278	Disney	3	20,000 Leagues Under the Sea won an Oscar for what?	Best Director And Best Musical Score	Sadly, It Did Not Win Any Oscars	Best Supporting Actor	Special Effects And Art Direction
+58867	Disney	3	What Disney character debuted in the comic book "Christmas On Bear Mountain"?	Ludwig Von Drake	Mortimer Mouse	Huey, Dewey, And Louie	Uncle Scrooge
+98666	Disney	3	In 2001, Disneyland re-themed the Haunted Mansion to depict what movie?	Disneyland Has Never Done This	Frankenpooh	Sleepy Hollow	A Nightmare Before Christmas
+39208	Disney	3	Which Disney character did Sterling Holloway not provide a voice for?	Kaa The Python	The Cheshire Cat	Winnie The Pooh	Merlin The Magician
+58930	Disney	3	At what restaurant in one of the parks at Walt Disney World do guests eat their meals in mock automobiles?	Tony's	Mom's Diner	The Brown Derby	The Sci-Fi Dine In Theater
+21864	Disney	3	What is the icon of the Disney MGM Studios in Florida?	The Great Movie Ride	Crossroads To The Stars	Hollywood And Vine	Earful Tower
+69822	Disney	3	In the Disney animated film "Oliver & Company" who lends their voice talent for Oliver?	Billy Joel	Kevin Richardson	Justin Timberlake	Joey Lawrence
+67772	Disney	3	What was the first Disney animated feature to be filmed in "Cinemascope"?	Peter Pan	Sleeping Beauty	Cinderella	Lady And The Tramp
+6300	Disney	3	In "Snow White and the Seven Dwarfs" the Huntsman takes Snow White into the woods. What does Snow White find?	The Dwarfs House	The Old Hag	A Friendly Woodcutter Who Warns Her Of Danger	A Little Bird
+92600	Disney	3	What is the name of the campground at the Walt Disney World Resort in Florida?	Camp Mickey	Camp Minnie	Fort Disney	Fort Wilderness
+8492	Disney	3	How tall is the Twilight Zone Tower of Terror in the MGM Studios at Walt Disney World, Florida?	169 Ft.	155 Ft.	133 Ft.	199 Ft.
+787I918	Disney	3	Pedro Pascal plays Mando in "The Mandalorian", what other series was he in?	The Witcher	Shameless	Game of Thrones	Game of Thrones
+43262	Disney	3	Finish this song line in Disney's "Aladdin": "I steal only..."?	Whatever They Are Selling	Because I Can	So I Can Survive	What I Can't Afford
+80984	Disney	3	Which character in "The Lion King" does not retain the same voice actor for the sequel?	Pumbaa	Timon	Adult Simba	Zazu
+46494	Disney	3	What is at the top of the Matterhorn at Disneyland?	A Coffee Room For Employees At The Top Of The Mountain	Nothing's Up There?	Poker Room For Employees At The Top Of The Mountain	Basketball Rim At The Top Of The "Mountain"
+52113	Disney	3	At Disney's Animal Kingdom in Orlando, Florida, what is the name of the play area for kids?	T-Rex Bone Place	Bones, Bones And More Bones	Bones Playland For Kids	The Boneyard
+45569	Disney	3	What is the name of the cricket in Disney's "Mulan"?	Lucky	Mushu	Jiminy	Cri-Kee
+30055	Disney	3	What song from an early Disney television show spent 16 weeks at the top of the hit parade?	The Mickey Mouse Club March	When You Wish Upon A Star	The Zorro Theme	The Ballad Of Davy Crockett
+80986	Disney	3	What song in the Broadway version of "The Lion King" was adapted into "The Lion King II: Simba's Pride"?	Love Will Find A Way	One Of Us	We Are One	They Live In You
+55539	Disney	3	Which Beach Boys' song was inspired by the Disney song "When You Wish Upon A Star"?	Disney Girls	In My Room	This Whole World	Surfer Girl
+521537	Disney	3	What is the name of Elsa and Anna's father in the 2013 animated film "Frozen"?	Kristoff	Sven	Idun	Agdar
+6322	Disney	3	In "Snow White and the Seven Dwarfs", which dwarf played the organ in the dance scene?	Sneezy	It Wasn't A Dwarf, It Was Snow White	Dopey	Grumpy
+64252	Disney	3	Which animated Disney leading lady celebrated her 50th anniversary in 2000?	Snow White	Belle	Sleeping Beauty	Cinderella
+217133	Disney	3	What is Nemo's dad's name from the movie "Finding Nemo"?	Nick	Mario	Mark	Marlin
+36862	Disney	3	Of Disney's "Nine Old Men", who was the first to join the company?	Marc Davis	Milt Kahl	Ollie Johnston	Les Clark
+30029	Disney	3	What attraction at Disneyland follows the path of the former "People Mover"?	20,000 Leagues	Test Track	The Monorail	Rocket Rods
+58882	Disney	3	In the animated feature "Tarzan", what TV personality provided the voice of a gorilla?	Sally Jessy Raphael	Jenny Jones	Ricki Lake	Rosie O'Donnell
+86773	Disney	3	What is the name of the roller coaster at Disney World?	Roller Rap	Roller	Coast The Coaster	Rockin Roller Coaster
+38583	Disney	3	In what year did the Haunted Mansion open at Disneyland Park?	1959	1967	1955	1969
+18774	Disney	3	What is the name of the show that goes behind the scenes of Walt Disney World and Disneyland?	Disney Like You've Never Seen It Before	Inside Out	Disney On The Inside	Inside Disney
+76293	Disney	3	Which of the following films had its title changed when Disney picked up the rights to dub it?	Kiki's Delivery Service	My Neighbor Totoro	Weiss Kreuz	Laputa-Castle In The Sky
+81637	Disney	3	What Disney movie is said to bare a striking resemblance to an old Japanese animated series?	Mulan	Pocahontas	The Little Mermaid	The Lion King
+21167	Disney	3	What is hidden from public view in The Matterhorn at Disneyland?	A Luxurious Vip Area For The Park's Most Honored Guests	One Of The Park's Security & Video Camera Monitoring Stations	A Screening/Market Research Room For New Releases	A Basketball Court For The Park's Mountain Climbers
+787I817	Disney	3	What is the flat, katana-like blade that Moff Gideon had in "The Mandalorian"?	Gaderffii Stick	Darksaber	Bowcaster	Darksaber
+58927	Disney	3	While "Steamboat Willie" was the first Mickey Mouse cartoon released, what was the first one made?	Moving Day	Galloping Gauchos	The Trailer	Plane Crazy
+92446	Disney	3	Space Mountain in the Magic Kingdom at Walt Disney World is sponsored by what company?	Delta Air Lines	Ups	Nasa	Fedex
+58894	Disney	3	In Disney's "Mighty Joe Young", what letter of the famous Hollywood sign does Joe jump through?	D	L	H	O
+54801	Disney	3	In the Disney movie "Robin Hood", what transports Sir Hiss to survey the archery tournament?	Feather	Wings	Glider	Balloon
+44784	Disney	3	In the Disney movie "Mulan" released in 1998, what flower in English does her name, Mulan, actually represent?	A Daisy	A Sunflower	A Tulip	A Magnolia
+64695	Disney	3	In the Disney live action TV movie "Geppetto", what kind of wood was Pinocchio made out of?	Pine	Oak	Mahogany	Birch
+217137	Disney	3	What forgetful character does Nemo's dad team up with in Disney's "Finding Nemo"?	Nikki	Dolly	Debra	Dory
+58888	Disney	3	What attraction opened at Disneyland Paris as "Cheri, J'ai Retreci le Public"?	The Twilight Tower Of Tower	Body Wars	The Jungle Cruise	Honey, I Shrunk The Audience
+40378	Disney	3	In what year did Walt Disney release "Winnie the Pooh and the Honey Tree"?	1974	1965	1976	1966
+37746	Disney	3	What has happened to the Swiss Family Robinson Treehouse at Disneyland?	Refurbishment	Demolition Due To Termites	Props Added	Re-Themed For Tarzan
+6277	Disney	3	Which three big-name actors starred "20,000 Leagues Under the Sea"?	Marlon Brando, Boris Karloff, Montgomery Cliff	Cary Grant, Ray Milland, Vincent Price	Raymond Massey, Lon Chaney Jr., Gregory Peck	Peter Lorre, James Mason, Kirk Douglas
+54822	Disney	3	At Disney World in Orlando, Florida, the parks were built in which order, starting with the first built?	Epcot, Magic Kingdom, Animal Kingdom, MGM	MGM, Magic Kingdom, Epcot, Animal Kingdom	Magic Kingdom, MGM, Epcot, Animal Kingdom	Magic Kingdom, Epcot, MGM, Animal Kingdom
+217135	Disney	3	What kind of fish is Nemo, from the 2003 Disney animated feature "Finding Nemo"?	Nemo Fish	Funny Fish	Angelfish	Clownfish
+27633	Disney	3	In "The Country Bear Jamboree", what three characters are on the wall of the theater?	A Raccoon, Skunk, And A Horse	Three Hungry Bears	A Raccoon, Bear, And A Deer	A Buffalo, A Deer, And A Moose
+217134	Disney	3	What is the name of the little turtle in "Finding Nemo"?	Noggin	Dude	Squiggle	Squirt
+55358	Disney	3	In Disney's Mulan, what happens when she is told to go home after failing at all of the training?	She Refuses	She Jumps On The Poles Across The Water	She Goes Home	She Gets The Arrow From The Pole While Wearing Weights
+26743	Disney	3	In which Disney live-action film does Buddy Hackett ("The Little Mermaid's" Scuttle) appear?	That Darn Cat	Million Dollar Duck	The Computer Wore Tennis Shoes	The Love Bug
+318154	Disney	3	Who played Mary Poppins in the famous Disney film of the sixties?	Joan Rivers	Phyllis Diller	Tiny Tim	Julie Andrews
+58525	Disney	3	Who did Tigger's voice, in the Disney television show, "The New Adventures of Winnie the Pooh"?	E.H. Shepard	Sterling Holloway	Bruce Talkington	Paul Winchell
+88367	Disney	3	In what Disney movie did a young Corey Feldman supply the voice for one of the main characters?	Robin Hood	Peter Pan	Bambi	The Fox And The Hound
+40338	Disney	3	In Walt Disney World, in which park is "Fantasmic" performed?	Epcot	Animal Kingdom	The Magic Kingdom	Disney/MGM Studios
+58932	Disney	3	Which is the only American Disney Theme Park where you can get an actual haircut?	MGM Studios	The Animal Kingdom	Epcot	Magic Kingdom
+18799	Disney	3	In Disney's "Mary Poppins" what are the names of the boy and girl that Mary Poppins takes care of?	Bobby And Kelly	Frank And Jane	Judy And Michael	Jane And Michael
+80032	Disney	3	In the Disney cartoon series "Recess", what is Principal Prickly's first name?	Paul	James	Henry	Peter
+41301	Disney	3	Which Disney heroine sings "I want adventure in the great wide somewhere"?	Cinderella	Pocahontas	Jasmine	Belle
+24245	Disney	3	When did Disney MGM Studios open?	1-May-95	1-May-80	1-May-74	1-May-89
+59013	Disney	3	In Disney's 'The Tigger Movie", what does Tigger say you have to do with letters written by other tiggers?	Read Them Carefully	Read Between The Lines	Take Them Literally	Read Betwixt The Lines
+6309	Disney	3	What three Disney movies have an all-animal cast?	Snow White, Fantasia, Bambi	Lion King, Pocahontas, Toy Story	Bambi, 101 Dalmatians, Lion King	Lion King, Robin Hood, Bambi
+59315	Disney	3	Who stars in Disney's 1992 musical "Newsies"?	Christian Slater	Corey Haim	Scott Baio	Christian Bale
+63458	Disney	3	In "The Little Mermaid", how many "thing-a-ma-bobs" does Ariel say she has?	10	15	30	20
+30057	Disney	3	Which Disney resort hotel has a restaurant named the Kona Cafe?	The Caribbean	The Grand Floridian	The Contemporary	The Polynesian
+67127	Disney	3	Which Backstreet Boy had a family member traveling with him at the Disney concert?	Brian Littrell	Kevin Richardson	Nick Carter	Howie Dorough
+58933	Disney	3	What long-time Disney theme park attraction was turned into the Tarzan attraction?	Tom Sawyer's Island	20,000 Leagues Under The Sea	Mr. Toad's Wild Ride	Swiss Family Robinson Treehouse
+21865	Disney	3	On which Disney MGM Studios ride can you see a bank robbery, or a gangster hold up?	Backstage Studio Tour	Indiana Jones Epic Stunt Spectacular	Sci-Fi Dine In	The Great Movie Ride
+63890	Disney	3	In Disney's "Lady and the Tramp", who is the first animal Tramp asks for help getting Lady's muzzle off?	Hyena	Bear	Beaver	Alligator
+6259	Disney	3	What is the name of the chef who owns the Italian restaurant in "Lady and the Tramp"?	Luigi	Mario	Poppa	Tony
+74805	Disney	3	What is the only Disney Animated Film to be nominated for the Best Original Screenplay Oscar?	Beauty And The Beast	Snow White And The Seven Dwarves	Mary Poppins	Toy Story
+6292	Disney	3	What "Winnie the Pooh" animated feature won an Academy Award?	A Day For Eeyore	Winnie The Pooh And Tigger Too	Pooh Sings The Blues	Winnie The Pooh And The Blustery Day
+6305	Disney	3	In "Snow White and the Seven Dwarfs" when was the first time Grumpy smiled?	When The Prince Woke Snow White With A Kiss	When Snow White Made Him A Pie	Grumpy Never Smiled	When Snow White Kissed Him
+59015	Disney	3	What famous Broadway personality provides the voice for Wheezy in Disney's "Toy Story 2"?	Pavarotti	Michael Crawford	Michael Ball	Robert Goulet
+92603	Disney	3	What is the name of the Cirque du Soleil show at Downtown Disney in Florida?	O	Saltambico	Los Nogales	La Nouba
+80909	Disney	3	In Disney's "Sleeping Beauty", what is the name of Maleficent's pet raven?	Jacques	Kaiser	Alistair	Diablo
+6301	Disney	3	In "Snow White and the Seven Dwarfs", how does Snow White find the Dwarf's house?	The Dwarfs Find Her And Take Her There	The Huntsman Hides Her There	She Stumbles Upon It While Running In The Woods	The Forest Animals Lead Her To It
+217138	Disney	3	Which song is from the film "Finding Dory"?	You've Got a Friend in Me	A Spork in the Road	Cowboy Sacrifice	O, We're Going Home
+58897	Disney	3	In Disney's "The Black Cauldron", what does Gurgi steal from Taran when they meet?	A Biscuit	A Ruby	A Compass	An Apple
+43717	Disney	3	What was the name of Timon and Pumbaa's snail friend on the "Timon and Pumbaa" TV series?	Slowpoke	He Doesn't Have A Name	Shelly	Speedy

@@ -1,0 +1,441 @@
+228594	Golf	0	Which golf term is defined as "club especially designed for putting"?	Divot	Bunker	Front Nine	Putter
+487414	Golf	0	This golf term is defined as "the number of strokes designated for each hole that represents a standard of good performance"?	Birdie	Double Bogey	Caddie	Par
+0DIFSP155	Golf	0	A first shot that misses badly, and lands in tall, thick grass, is called "in the" what?	Drink	Green	Bunker	Rough
+0DIFSP149	Golf	0	Which is a popular golfing event?	Super Bowl	Daytona 500	World Series	The Masters
+0DIFSP145	Golf	0	Which is true about scoring in golf?	First hole is double points	There is no scoring	Worst scored hole is throwm out	The lower the score, the better
+0DIFSP151	Golf	0	How do golfers travel from hole to hole?	Sprinting with their clubs	Helicopter	Canoe	Golf Cart
+0DIFSP153	Golf	0	Choose the professional golfer:	Joe Thornton	Bob Barker	Vince Carter	Tiger Woods
+120416	Golf	0	Which golf term is defined as "a hole made in one stroke"?	Cleat	Lie	Greenkeeper	Hole In One
+0DIFSP147	Golf	0	The long, narrow stretch of grass that is usually aimed for on the first shot, is called what?	Hazard	Pitch	Turf	Fairway
+0DIFSP158	Golf	0	Pebble Beach hosts which PGA Tour event?	The Masters	Wimbledon	Ryder Cup	AT&T Pebble Beach Pro-Am
+326547	Golf	0	Which golf term is defined as "competition in which professionals and amateurs are paired"?	Lie	Scratch Golfer	Green Fee	Pro-Am
+0DIFSP152	Golf	0	Which is not a movie largely based around golf?	Caddyshack	Happy Gilmore	Tin Cup	Saving Private Ryan
+0DIFSP157	Golf	0	Among these, where has a golf shot been taken?	Mouth of active volcano	The Pacific Ocean floor	The peak of Mt. Everest	The Moon
+0DIFSP148	Golf	0	A small-scale, putting-only version of golf is known as what?	Microgolf	Tee-Ball	Curling	Mini-golf / Putt-putt
+0DIFSP142	Golf	0	A close, soft shot while on the green is called what?	Drive	Smash	Alley-oop	Putt
+0DIFSP144	Golf	0	What is the person who carries a golfer's clubs called?	Butler	Servant	Trainer	Caddie
+0DIFSP141	Golf	0	Which of these is not a type of golf club?	Wedge	Driver	Iron	Bat
+487345	Golf	0	What is the first name of golf's Palmer?	Leroy	Brooks	Julius	Arnold
+0DIFSP143	Golf	0	Where does the player start each hole?	The plate	Bunker	Clubhouse	Tee
+0DIFSP150	Golf	0	How many holes are in a regulation game of golf?	9	25	3	18
+151797	Golf	0	Which golf term is defined as "spike on a golf shoe"?	Caddy	Scratch Golfer	Lie	Cleat
+0DIFSP154	Golf	0	Which of these is not a common hazard found on a golf course?	Trees	Bunker / Sand Trap	Water	Ice
+0DIFSP156	Golf	0	Which is a poor score for a hole?	Birdie	Eagle	Par	Double Bogey
+0DIFSP159	Golf	0	Which of these actions is against the rules?	Using a variety of clubs	Removing the flag from the hole	Not yelling "fore!"	Throwing the ball
+0DIFSP146	Golf	0	Which animal is associated with a golf score?	Pterodactyl	Antelope	Alligator	Birdie
+152154	Golf	0	Which golf term is defined as the "area of grass surrounding the putting surface"?	Bunker	Slice	Tee Off	Apron
+0DIFSP160	Golf	0	Finishing a hole with the suggested number of shots is called what?	Over	Easy	Scratch	Par
+78y1130	Golf	0	What is the first name of golf's Mickelson?	Tom	Rusty	Tracy	Phil
+326524	Golf	1	What does the term "airball" mean in golf?	Short Approach Shot With A Low Trajectory	A Hazard Containing Sand	All Of The Players In A Tournament	A Swing That Doesn't Contact The Ball
+1MU1495	Golf	1	What is the first name of golf's Rodriguez?	Ray	Larry	Tracy	Chi Chi
+487381	Golf	1	Which golf term is defined as "the position of the ball after it comes to rest"?	Apron	Ball Marker	Back Nine	Lie
+151796	Golf	1	In golf, "approach shot" is best defined as?	The Clubhouse Bar	First Nine Holes On An 18-Hole Course	The Number Of Strokes, Designated For Each Hole, That Represents A Standard Of Good Performance	A Short Or Medium-Range Shot Played To The Green
+326689	Golf	1	Which golf term is defined as a "score of one over the designated par for a hole"?	Double Bogey	Single Par	Birdie	Bogey
+228611	Golf	1	Where is the Baltimore Country Club located?	Colorado Springs, CO	Nashville, TN	Erie, PA	Baltimore, MD
+487387	Golf	1	In golf a "dunk" means what?	Missing A Putt	A Poor Player	A Greenskeeper	To Hit The Ball Into A Water Hazard
+151782	Golf	1	In golf a "divot" is best defined as?	A Hazard Containing Sand	Person Who Carries A Player's Clubs And May Assist With Advice	To Hit A Shot From The Tee	Piece Of Turf Cut Out By The Club Head When A Shot Is Made
+185910	Golf	1	The surface around a golf hole is called what?	Rough	Fairway	Fringe	Green
+326550	Golf	1	In golf, "front nine" is best defined as what?	A Sand Hazard	First Nine Tournament Players	Position Of The Ball When It Stops	First Nine Holes Of 18
+1MU1501	Golf	1	According to "Golf Magazine", who was the greatest golfer of the 20th Century?	Bobby Jones	Ben Hogan	Arnold Palmer	Jack Nicklaus
+229011	Golf	1	In golf, "birdie" is best defined as?	Closely Mown Area Onto Which The Ball Is Aimed On Most Holes	Piece Of Turf Cut Out By The Club Head When A Shot Is Made	Sand Hazard	One Stroke Under Par On A Hole
+185901	Golf	1	In golf, what is an "eagle"?	Score Of 2 Over The Designated Par For A Hole	To Place The Ball On The Tee	Piece Of Turf Cut Out By The Club Head When A Shot Is Made	Two Strokes Under The Designated Par For A Hole
+152161	Golf	1	In golf, "back nine" is best defined as?	A Swing That Doesn't Contact The Ball	The Club Employee Who Is Responsible For Course Maintenance	Club Especially Designed For Putting	The Second 9 Holes On An 18-Hole Course
+326470	Golf	1	Where is the Muskogee Country Club located?	Southern Pines, NC	Indianapolis, IN	Oakmont, PA	Muskogee, OK
+185912	Golf	1	Which of the following facts is true about Arnold Palmer?	Raiders' Star Defensive End	Had A .338 Career Batting Average	A Running Back For Chicago Bears	First Golfer To Win Over $1 Million In A Year
+151799	Golf	1	In golf, "fairway" is best defined as what?	Score Of One Over The Designated Par For A Hole	One Stroke Under Par On A Hole	The Second 9 Holes On An 18-Hole Course	Closely Mown Area Onto Which The Ball Is Aimed On Most Holes
+487411	Golf	1	In golf, what is the club employee who is responsible for course maintenance?	Rough	Birdie	Airball	Greenskeeper
+185900	Golf	1	Which golf term is defined as "to hit the ball into a water hazard"?	Slice	Wedge	Par	Dunk
+1MU1497	Golf	1	Who or what is "Little Ben" to golfer Ben Crenshaw?	His Son	His Wedge	His Caddy	His Putter
+1MU1503	Golf	1	What is the first name of golf's Irwin?	Bjorn	Ronnie	Marv	Hale
+152167	Golf	1	Which "Payne" below completes the full name of an athlete from golf?	Johnson	McGwire	Sosa	Stewart
+1MU1493	Golf	1	Who was the captain of the U.S. Ryder Cup team in 2018?	Ben Crenshaw	Justin Thomas	Corey Pavin	Jim Furyk 
+487333	Golf	1	In golf, "double bogey" is best defined as?	Areas Of High Grass Next To The Teeing Ground, Fairway, Greens, Or Hazards	The Clubhouse Bar	Spike On A Golf Shoe	Score Of 2 Over The Designated Par For A Hole
+152166	Golf	1	In golf, what is the "apron"?	Shot That Curves Right To Left	Shot That Curves Left To Right	All Players In A Tournament	Grass Area Around Putting Surface
+120756	Golf	1	Which golf term is defined as "a shot that curves from right to left for a right-handed golfer"?	Greenkeeper	Apron	Ball Marker	Hook
+228625	Golf	1	Which last name completes the full name of an athlete from golf ... Curtis?	Korbut	Green	Ramirez	Strange
+151771	Golf	1	Which last name completes the full name of an athlete from golf ... Davis?	Hershiser	Schmidt	Retton	Love III
+151794	Golf	1	In golf, "double eagle" is best defined as?	Spike On A Golf Shoe	The Second 9 Holes On An 18-Hole Course	An Iron With A Heavy Flange On The Bottom And A High Loft	Score Of 3 Under The Designated Par For A Hole
+120402	Golf	1	Which golf term refers to the clubhouse bar?	Beach	Sand Trap	Tee Off	Nineteenth Hole
+326237	Golf	1	What is the term for "turf cut out by the club" when a golf shot is taken?	Greenskeeper	Lie	Double Eagle	Divot
+78y1100	Golf	1	What is the first name of golf's Strange?	Tara	Larry	Arthur	Curtis
+6364	Golf	2	In golf, "duffer" is best defined as what?	An Iron With A Heavy Flange On The Bottom And A High Loft	Surface Around The Hole	Competition In Which Professionals And Amateurs Are Paired	Poor Golfer; A Hacker
+228933	Golf	2	At which 2011 PGA major did Phil Mickelson finish in 2nd place?	The US Open	The Masters	The PGA Championship	The Open Championship
+120415	Golf	2	Which American golfer won the 2010 Masters?	Tiger Woods	Jim Furyk	Tom Lehman	Phil Mickelson
+487378	Golf	2	Who is the PGA Championship Winner for 2019?	Patrick Cantlay	Steven Fisk	Dustin Johnson	Brooks Koepka
+120765	Golf	2	Golf's Fred Couples is best related to which of these facts?	Tallest Golfer On Tour	Won Eleven Straight Tournaments	Always Wore Plus Fours	Won The Masters In 1992
+487402	Golf	2	Tiger Woods's mother comes from which country?	United States	China	South Africa	Thailand
+487405	Golf	2	Who was the first golfer to win over $1 million in a single year?	Ben Hogan	Tiger Woods	Tom Watson	Arnold Palmer
+326440	Golf	2	In golf's Ryder Cup, how many points are awarded for each match won?	2	4	5	1
+78y1110	Golf	2	Which golf legend was known for his sword dance after making a putt?	Lee Trevino	Arnold Palmer	Walter Morgan	Chi Chi Rodriguez
+487348	Golf	2	Which American golfer was victorious at the 2012 Masters?	Phil Mickelson	Matt Kuchar	Jason Dufner	Bubba Watson
+487336	Golf	2	Who won the 2019 Open Championship played from 18–21 July at Royal Portrush Golf Club?	Jordan Spieth	Brooks Koepka	Tommy Fleetwood	Shane Lowry
+326558	Golf	2	At 61, which golfer became the oldest winner of a senior major since 1980?	Tom Lehman	Fred Couples	Russ Cochran	Tom Watson
+326546	Golf	2	Which British golfer won more than $6 million on the PGA Tour in 2011?	Tom Lewis	Ian Poulter	Justin Rose	Luke Donald
+487399	Golf	2	What is Tiger Woods's ex-wife's name?	Stephie Samanathia	Elle McPhearson	Ede Manchuria	Elin Nordegren
+151776	Golf	2	As of June 1, 2019, which men golfer ranked number one in the world?	Tiger Woods	Dustin Johnson	Patrick Cantlay	Brooks Koepka
+78y1140	Golf	2	What course is golf's Players Championship held at every year?	TPC At Avenel	Augusta National	Harbor Town Golf Links	TPC At Sawgrass
+487327	Golf	2	What is the last name of the golf player, Fuzzy?	Dorsett	McGrady	Alomar	Zoeller
+326498	Golf	2	What organization was the U.S. governing body for golf in the 20th century?	UAG	USAG	USGGA	USGA
+151801	Golf	2	Which golf star is known for this fact "on pace to be the greatest golfer of all-time"?	Sandy Lyle	Billy Casper	Johnny Miller	Tiger Woods
+1MU1491	Golf	2	Who was the first golfer to lose a playoff in all four Majors?	Curtis Strange	Tom Kite	Chi Chi Rodriguez	Greg Norman
+487339	Golf	2	Which golfer won his first career major at the 2011 US Open?	Kevin Chappell	Y.E. Yang	Sergio Garcia	Rory McIlroy
+229308	Golf	2	Who is one of the greatest golfers in the history of Japan?	George Archer	David Ogrin	Michael Christie	Isao Aoki
+487393	Golf	2	Which golfer won 3 PGA events in 2010, including the Verizon Heritage?	Vijay Singh	Luke Donald	Bubba Watson	Jim Furyk
+152160	Golf	2	Who won golf's 2019 U.S. Open?	Justin Rose	Dustin Johnson	Tiger Woods	Gary Woodland
+326675	Golf	2	Which golfer won golf's Masters Championship in 1992?	Jack Nicklaus	Payne Stewart	Curtis Strange	Fred Couples
+152155	Golf	2	What time period were no Ryder Cup Matches played?	1945-1960	1960-1966	1921-1946	1939-1945
+151792	Golf	2	What is Ernie Els' nickname on the PGA Tour?	Swingin' Stu	Eeee	Elsy Belsy	The Big Easy
+78y1150	Golf	2	What college did Jack Nicklaus attend?	Florida State	Penn State	Wake Forest	Ohio State
+152171	Golf	2	K.J. Choi is a native of which country?	United States	Japan	South Africa	Korea
+152159	Golf	2	Which golf star is known as "The Golden Bear" with 6 Masters victories?	Nick Faldo	Ben Hogan	Lee Trevino	Jack Nicklaus
+185909	Golf	2	What Hawaii-born golfer won the 2014 U.S. Women's Open, her first career major win?	Stacy Lewis	Stephanie Meadow	Amy Yang	Michelle Wie
+229315	Golf	2	How many PGA Tour events did Tiger Woods win in 2010?	5	10	15	0
+78y1120	Golf	2	Which golfer is known as the "Great White Shark"?	Payne Stewart	John Daly	Jack Nicklaus	Greg Norman
+152162	Golf	3	Where is the Colonial Country Club located?	Colorado Springs, CO	Lake Orion, MI	Springfield, NJ	Ft. Worth, TX
+326471	Golf	3	Which of 2014's major champions won the PGA Grand Slam of Golf?	Bubba Watson	Rory McIlroy	Jim Furyk	Martin Kaymer
+326446	Golf	3	In 2004 Jim Furyk suffered what kind of injury?	Hamstring	Neck	Elbow	Wrist
+487337	Golf	3	In Sept. 2014, which golfer won the second event of the FedEx Cup Playoffs at the Deutsche Bank Championship?	Russell Henley	Billy Horschel	Geoff Ogilvy	Chris Kirk
+326671	Golf	3	Where was golfer Jim Furyk born?	Kentucky	Hungary	North Carolina	Pennsylvania
+326525	Golf	3	Which Taiwanese golfer finished 2nd at the 2012 Regions Tradition?	Lu Liang-Huan	Wang Ter-chang	Chen Yih-Shin	Lu Chien-soon
+326449	Golf	3	Who plays right-handed but putts left-handed?	Mark O'Meara	Johnny Miller	Tommy Armour III	Mac O'Grady
+487423	Golf	3	Who was the PGA Tour money leader for 2010?	Martin Kaymer	Jim Furyk	Stuart Appleby	Matt Kuchar
+326505	Golf	3	Which PGA Tour event did Phil Mickelson win as an amateur in 1991?	Buick Invitational	Mercedes Championship	Phoenix Open	Northern Telecom Open
+326487	Golf	3	How much was the prize fund of the 2018 Masters Tournament?	$2 Million	$21 Million	$121 Million	$11 Million
+152172	Golf	3	Whose former caddy joined up with Adam Scott in 2004?	Tiger Woods	Nick Faldo	Sergio Garcia	Greg Norman
+326672	Golf	3	Where did golfer Adam Scott go to college?	Arizona State University	University Of Utah	Northwestern University	University Of Nevada-Las Vegas
+326489	Golf	3	Where did Jim Furyk go to college?	Arizona State University	University Of Texas-El Paso	Ball State University	University Of Arizona
+487349	Golf	3	In which year did the PGA switch from match play to stroke play?	1938	1968	1948	1958
+152165	Golf	3	Where is the Salem Country Club located?	Baltimore, MD	Oakmont, PA	Southern Pines, NC	Peabody, MA
+326673	Golf	3	Who is the youngest entrant ever into the World Golf Hall of Fame?	Tiger Woods	Jack Nicklaus	Se Ri Pak	Tom Morris Jr.
+89163	Golf	3	Which team claimed its 7th consecutive Curtis Cup in 2010?	Great Britain & Ireland	Canada	Australia	United States
+326676	Golf	3	The Champions Tour is for golfers over what age?	55	50	65	50
+487374	Golf	3	What was the final score of the WGC-Accenture Match Play Championship's final round?	8&7	2&1	6&5	3&2
+523566	Golf	3	The 2010 Ryder Cup was held in which part of the United Kingdom?	Scotland	England	Northern Ireland	Wales
+264895	Golf	3	A golfer from which Scandinavian nation won the 2011 Travelers Championship?	Norway	Finland	Denmark	Sweden
+523603	Golf	3	Which of the following PGA awards was not given in 2011?	Rookie of the Year	Vardon Trophy	Byron Nelson Award	Comeback Player of the Year
+326240	Golf	3	What golfer led the 1981 Ryder Cup team from Europe?	Bernard Hunt	Eric Brown	Tony Jacklin	John Jacobs
+326687	Golf	3	Which college did Annika Sorenstam attend?	Temple University	Penn State University	Washington State University	University Of Arizona
+35963	Golf	3	How many events made up the fall series in the 2011 PGA Tour?	5	3	6	4
+228880	Golf	3	Which Korean golfer won the 2011 Players Championship after defeating David Toms in a playoff?	Bae Sang-moon	Ted Oh	Kim Dae-sub	K.J. Choi
+487351	Golf	3	Which of the following golf events was not held in 2010?	Ryder Cup	Player's Championship	LPGA Tour Championship	Presidents Cup
+326651	Golf	3	Who missed out on the playoff for the 2010 PGA Championship after taking a two-stroke penalty?	Zach Johnson	Jason Dufner	Steve Elkington	Dustin Johnson
+229214	Golf	3	How much money did Forbes Magazine estimate Phil Mickelson earned overall in 2004?	$10 Million	$5 Million	$3 Million	$20 Million
+229046	Golf	3	Which golf event did Retief Goosen win in 1990?	U.S. Amateur Championship	Mercedes Championship	PGA Championship	South African Amateur Championship
+326691	Golf	3	Who won the 2004 Wachovia LPGA Classic?	Karrie Webb	Cristie Kerr	Annika Sorenstam	Lorena Ochoa
+326475	Golf	3	How many people were inducted into the Golf Hall of Fame in 2010?	1	2	3	0
+487394	Golf	3	What Argentine beat Kenny Perry in a playoff to win the 2009 Masters?	Pat Perez	Sergio Garcia	Y.E. Yang	Angel Cabrera
+523582	Golf	3	In 2014, which golfer became the 17th player to win the Masters two or more times?	Henrik Stenson	Adam Scott	Tiger Woods	Bubba Watson
+618D306	Golf	3	In 2019 who won the Australian PGA Championship for the second time in his career?	Jon Rahm	Gary Woodland	Brooks Koepka	Adam Scott
+618D308	Golf	3	Which man hit a golf ball while he was on the moon?	Neil Armstrong	Pete Conrad	Dave Scott	Alan Shepard
+185899	Golf	3	Which American golfer finished 19 strokes under par at the 2010 LPGA Championship?	Paula Creamer	Karrie Webb	Lee-Anne Pace	Christie Kerr
+523586	Golf	3	Which of these golfers is left-handed?	Tiger Woods	Nick Faldo	Annika Sorenstam	Phil Mickelson
+151793	Golf	3	Where was golf's Vijay Singh born?	Nepal	Thailand	Indonesia	Fiji
+6361	Golf	3	What was the winner's share at the Masters at Augusta in 2000?	$40,000	$25,000	$486,000	$828,000
+326514	Golf	3	Which South Korean player won her first major and $1m at the US Women's Open?	Inbee Park	Ryu So-yeon	Kim Ha-neul	Jeong-eun Lee6
+6380	Golf	3	Who is the nephew of the legendary Sam Snead?	Tiger Woods	John Bland	Miller Barber	J.C. Snead
+326533	Golf	3	Which English golfer was victorious in the 2012 Senior PGA Championship?	Mark James	John Cook	Michael Allen	Roger Chapman
+22228731	Golf	3	What was notable about Phil Mickelson winning the U.S. Amateur golf title in 1990?	Lowest Third-Round Score	Youngest To Win	Oldest To Win	First Left-Hander To Win
+523565	Golf	3	The LPGA Rookie of the Year for 2010 was a native of which country?	Mexico	Cuba	Argentina	Spain
+18835	Golf	3	How much money did Vijay Singh win on the PGA Tour in 2006?	$1.8 Million	$2.0 Million	$1.4 Million	$4.6 Million
+228429	Golf	3	During May 30-June 2, 2019, what number US Women's Open Golf Championship played?	21st	32nd	43rd	74th
+228926	Golf	3	Stuart Appleby first qualified for the PGA Tour in which year?	1991	2000	1999	1996
+326509	Golf	3	Who earned $332,815 and was ranked #2 for the 2004 Nationwide Tour?	Vijay Singh	Justin Bolli	Stephen Ames	DA Points
+326502	Golf	3	Which golfer is nicknamed "El Nino"?	Tom Watson	Mark O'Meara	Johnny Miller	Sergio Garcia
+326690	Golf	3	Which English golfer won the 2010 BMW PGA Championship by one stroke?	Fredrik Andersson Hed	Martin Laird	Charley Hoffman	Simon Khan
+229320	Golf	3	Which company sponsored the LPGA Women's British Open in 2010?	Kraft	Honda	ShopRite	Ricoh
+487386	Golf	3	In which major golf tournament did Retief Goosen miss the cut in 2002?	The Masters	PGA Championship	British Open	U.S. Open
+326555	Golf	3	In March 2014, what American golfer won his second PGA Tour title at the Honda Classic?	Russell Knox	Rory McIlroy	Ryan Palmer	Russell Henley
+326442	Golf	3	Where did Annika Sorenstam rank in LPGA earnings in 2003?	#14	#13	#6	#1
+487346	Golf	3	How many times has Greg Norman been the runner-up at the Masters?	2	6	0	3
+487371	Golf	3	Who was the third golfer with a left-handed swing ever to win a major tournament?	Bob Charles	Mike Weir	Ernie Els	Phil Mickelson
+326513	Golf	3	Which golfer won the Charles Schwab Cup in 2011?	Kenny Perry	Chip Beck	Mark Calcavecchia	Jay Don Blake
+487367	Golf	3	Which golfer beat Tiger Woods in the prime-time golf event "Battle at Bighorn"?	David Duval	Scott Hoch	Jack Nicklaus	Sergio Garcia
+487354	Golf	3	Which of the following golfers finished in the top 10 in the 2010 FedEx Cup standings?	Bubba Watson	Jeff Overton	Phil Mickelson	Steve Stricker
+523592	Golf	3	In what year did Karrie Webb join the LPGA Tour?	1990	2000	2002	1996
+326518	Golf	3	In May 2014, which golfer won his first Players Championship, one stroke ahead of runner-up Jim Furyk?	Tiger Woods	Sergio GarcÌa	Justin Rose	Martin Kaymer
+487353	Golf	3	Which golf course hosted the 1969 Ryder Cup?	Muirfield, Scotland	Royal Lytham And St. Annes, England	The Belfry, Sutton Coldfield, England	Royal Birkdale GC, Southport, England
+326677	Golf	3	Which Scottish-American with 18 career professional wins was elected to the Golf Hall of Fame in 2011?	Bob Boyd	Doug Ford	Frank Chirkinian	Jock Hutchison
+487383	Golf	3	How many PGA tour events did Phil Mickelson win in 2003?	One	Two	Three	Zero
+228735	Golf	3	Who finished 2nd behind Ernie Els in the 1997 U.S. Open?	Phil Mickelson	Vijay Singh	Retief Goosen	Colin Montgomerie
+523580	Golf	3	Where is the Pumpkin Ridge Golf Club located?	Chaska, MN	Springfield, PA	Northfield, NJ	Cornelius, OR
+185574	Golf	3	Which golfer was voted in "GQ's Most Hated Athletes" in 2006?	Karrie Webb	David Toms	Cristie Kerr	Phil Mickelson
+487384	Golf	3	In 2014, which golfer became the first player in history to win the Players and U.S. Open in the same year?	Jim Furyk	Bubba Watson	Rory McIlroy	Martin Kaymer
+229117	Golf	3	Which golfer won his first World Golf Championship event at the 2014 WGC-Bridgestone Invitational?	Sergio GarcÌa	Marc Leishman	Keegan Bradley	Rory McIlroy
+326242	Golf	3	Which women's golf team won the inaugural International Crown in 2014?	Thailand	South Korea	Japan	Spain
+326469	Golf	3	Who won the Volvo Order of Merit for the first time in 2003?	Phil Mickelson	Mac O'Grady	Dave Barr	Ernie Els
+347584	Golf	3	Who became World #1 in the Official World Golf Ranking after winning the 2018 CJ Cup?	Rickie Fowler	Adam Scott	Gary Woodland	Brooks Koepka
+229305	Golf	3	Which university won its third NCAA Division I Women's Golf Championship in 2011?	LSU	Alabama	Arizona State	UCLA
+326662	Golf	3	Who achieved victory at the 2019 Memorial Tournament?	Martin Kaymer	Tiger Woods	Jack Nicklaus	Patrick Cantlay
+487334	Golf	3	Which of the following golf events was won by the United States in 2011?	Royal Trophy	Vivendi Seve Trophy	Omega Mission Hills World Cup	Presidents Cup
+326461	Golf	3	In 2014, who became the third golfer after Jack Nicklaus and Tiger Woods to win three majors by the age of 25?	Bubba Watson	Jimmy Walker	Martin Kaymer	Rory McIlroy
+185578	Golf	3	In 2010, Arjun Atwal became the first native of which country to win a PGA Tour event?	Pakistan	Sri Lanka	Nepal	India
+487360	Golf	3	Which 2010 major was captured by Louis Oosthuizen?	The Masters	US Open	PGA Championship	The Open Championship
+487382	Golf	3	Which event did golfer Retief Goosen win on the European Tour in 2002?	French Open	German Masters	Qatar Masters	Johnnie Walker Classic
+228841	Golf	3	Which Rochester-based company sponsored the LPGA Championship in 2011?	Kodak	Bausch & Lomb	Jolt Cola	Wegmans
+487363	Golf	3	Which golf star won golf's U.S. Open in 1988-89?	Nick Price	Seve Ballesteros	Tiger Woods	Curtis Strange
+326500	Golf	3	Which Taiwanese golfer was named the LPGA Player of the Year for 2010?	Jiyai Shin	Mei-Chi Cheng	Amy Hung	Yani Tseng
+487341	Golf	3	Which of the 2014 World Golf Championships was American golfer Bubba Watson a runner-up?	WGC-Bridgestone Invitational	WGC-HSBC Champions	WGC-Accenture Match Play Championship	WGC-Cadillac Championship
+35964	Golf	3	Which golfer won the Vardon Trophy and Byron Nelson Award in 2014?	Martin Kaymer	Jimmy Walker	Bubba Watson	Rory McIlroy
+523590	Golf	3	Which golfer did not win all four of golf's Major Championships in his career?	Gene Sarazen	Ben Hogan	Jack Nicklaus	Arnold Palmer
+523581	Golf	3	What country is golfer Costantino Rocca from?	Greece	Spain	Portugal	Italy
+487343	Golf	3	Which of these golf tournaments did Vijay Singh win in 1997?	Phoenix Open	The Masters	PGA Championship	Memorial Tournament
+326519	Golf	3	What did K.J. Choi do before he was a golfer?	Joined Mensa	Swam The English Channel	Competitive Eater	Teen Powerlifter
+458162	Golf	3	Where is the Blackwolf Run Golf Club located?	Cornelius, OR	Carmel, IN	Sacramento, CA	Kohler, WI
+487380	Golf	3	Which major tournament did Ernie Els win in 2002?	U.S. Open	The Masters	PGA Championship	British Open
+523583	Golf	3	A native of which country finished first on the money list for the 2010 Japan Golf Tour?	Japan	China	Fiji	South Korea
+523561	Golf	3	Who was the only golfer to finish under par at the 2010 US Women's Open?	Christie Kerr	Cindy LaCrosse	Katherine Hull	Paula Creamer
+487408	Golf	3	Which American tour rookie was a surprise winner of the 2011 PGA Championship?	Jason Dufner	Rickie Fowler	Webb Simpson	Keegan Bradley
+326670	Golf	3	What nationality is golfer Vijay Singh's wife?	Filipino	Indian	Fijian	Malaysian
+347598	Golf	3	In the early 2000's, Jim Furyk used whose former caddie?	Nick Faldo	Fuzzy Zeller	Arnold Palmer	Tiger Woods
+523604	Golf	3	In which country did golfer Karrie Webb grow up?	United States	Spain	England	Australia
+487385	Golf	3	Who was the money leader of the 2011 Nationwide Tour?	Ted Potter, Jr.	Mathew Goggin	Jason Kokrak	J.J. Killeen
+487376	Golf	3	What South Korean golfer successfully defended her LPGA Championship title in 2014?	Brittany Lincicome	Azahara MuÒoz	Anna Nordqvist	Inbee Park
+326534	Golf	3	Which major championship on the LPGA Tour was renamed to the ANA Inspiration in November 2014?	The Evian Championship	U.S. Women's Open	Women's British Open	Kraft Nabisco Championship
+487361	Golf	3	Which golfer took over Tiger Woods' long-held spot atop the World Golf Rankings in 2010?	Phil Mickelson	Jim Furyk	Matt Kuchar	Lee Westwood
+326661	Golf	3	Matt Kuchar won the 2012 Players Championship with what score?	-14	-12	-15	-13
+523569	Golf	3	Who won the rain-plagued 2009 U.S. Open at the Bethpage Black course in New York?	Ricky Barnes	Phil Mickelson	Mike Weir	Lucas Glover
+487379	Golf	3	What biennial women's professional team golf tournament on the LPGA Tour made its debut in July 2014?	International Cup	International Medal	International Prize	International Crown
+487420	Golf	3	What 1951 film did Sam Snead, Jimmy Demaret and Carey Middlecof have cameo appearances in?	Pat And Mike	Banning	Golf Balls	Follow The Sun
+229062	Golf	3	Which golfer won two LPGA majors in 2011?	So Yeon Ryu	Hee Kyung Seo	Hee Young Park	Yani Tseng
+6381	Golf	3	Which 4-day event was the finale of the 2011 PGA European Tour?	Omega Mission Hills World Cup	Presidents Cup	BMW Championship	Dubai World Championship
+151798	Golf	3	How many times has Tom Kite finished in the top 5 at Augusta?	17	20	22	9
+326488	Golf	3	How old was Gary Player when he won his last major golf championship?	36	41	39	43
+523559	Golf	3	What German golfer won the 2014 BMW Masters, the first event of the Race to Dubai finals series?	Alexander LÈvy	Ross Fisher	Gonzalo Fern·ndez-CastaÒo	Marcel Siem
+326606	Golf	3	Where did Tiger Woods earn his first pro golf paycheck?	Doral Open	Masters	Sony Invitational	Greater Milwaukee Open
+523567	Golf	3	From whom did Jim Furyk learn the game of golf?	His Uncle	His Grandfather	His Basketball Coach	His Father
+618D292	Golf	3	In 2014, what 25-year-old golfer became the third-youngest player in the Masters era to win three majors?	Bubba Watson	Martin Kaymer	Rickie Fowler	Rory McIlroy
+228581	Golf	3	In what year did Pebble Beach Golf Links open in California?	1969	1979	1959	1919
+487350	Golf	3	Which event boasted the first-ever $1 million purse on the LPGA Tour?	Women's British Open	Kraft Nabisco Championship	U.S. Women's Open	ADT Championship
+326452	Golf	3	Near what city did Jim Furyk grow up?	Providence	Detroit	Charlotte	Pittsburgh
+618D298	Golf	3	Which award did Jim Furyk win in 2006?	Eisenhower Trophy	Fred Meyer Trophy	Cialis Trophy	Vardon Trophy
+202625	Golf	3	Which golfer once lost the Masters by signing an incorrect scorecard?	Mike Souchak	Bob Goalby	Tommy Aaron	Roberto De Vicenzo
+326486	Golf	3	Who was the second Mexican native to become a member of the LPGA Tour?	Brittany Lang	Gloria Park	Karine Icher	Lorena Ochoa
+487329	Golf	3	At what age did Jack Nicklaus win his first national golf title?	18	15	20	17
+487357	Golf	3	Which of the following golfers was not rated #1 in the World Golf Rankings during 2011?	Luke Donald	Lee Westwood	Martin Kaymer	Jim Furyk
+487389	Golf	3	How many Top 10 PGA Tour finishes did Vijay Singh have in 2001?	10	8	0	14
+523570	Golf	3	Where is the Turtle Bay Golf Resort located?	Puerto Rico	North Carolina	Florida	Hawaii
+326474	Golf	3	What did Vijay Singh win to take over the top spot in the 2004 World Golf Rankings?	PGA Championship	Ford Championship	Memorial Tournament	Deutsche Bank Championship
+6330	Golf	3	Which of the following golfers did not win a WGC event in 2010?	Ernie Els	Hunter Mahan	Francesco Molinari	Paul Casey
+487407	Golf	3	In 2010, Graeme McDowell became the first European to win the US Open since what year?	1980	1960	1990	1970
+228917	Golf	3	Which of the following golfers is a member of Team Europe in the 2014 Ryder Cup?	Bubba Watson	Rickie Fowler	Jim Furyk	Rory McIlroy
+487426	Golf	3	In which country was Adam Scott born?	Switzerland	United States	South Africa	Australia
+487422	Golf	3	What nickname has followed golfer Retief Goosen?	Bird Of A Feather	Birdman	Relief Retief	The Iceman
+487358	Golf	3	What course did Tiger Woods win his third U.S. Amateur title at?	Pinehurst No. 2	Newport CC	TPC At Sawgrass	Pumpkin Ridge
+487331	Golf	3	Who won the 2006 LPGA Rolex Player of the Year Award?	Se Ri Pak	Annika Sorenstam	Karrie Webb	Lorena Ochoa
+326684	Golf	3	Who is the golfer depicted on top of the Ryder Cup trophy?	Sam Snead	Arnold Palmer	Samuel Ryder	Abe Mitchell
+326523	Golf	3	In which major golf tournament did Phil Mickelson miss the cut in 1997?	U.S. Open	British Open	PGA Championship	The Masters
+326553	Golf	3	Which golfer was the 2010 Nationwide Tour Player of the Year?	Michael Sim	J. J. Killeen	Matt Bettencourt	Jamie Lovemark
+185581	Golf	3	In 2012, Shanshan Feng became the first LPGA major winner from which country?	Taiwan	Laos	Vietnam	China
+326476	Golf	3	What American golfer won the 2014 Women's British Open by one stroke over Shanshan Feng and Suzann Pettersen?	Yo Martin	Jo Martin	Zo Martin	Mo Martin
+326512	Golf	3	Which of the following Champions Tour events did Fred Couples win in 2011?	Mississippi Gulf Resort Classic	Cap Cana Championship	Toshiba Classic	AT&T Championship
+487355	Golf	3	Which PGA Tour event did Ernie Els win in 1999?	Honda Open	U.S. Open	Mercedes Championship	Nissan Open
+326668	Golf	3	Who was captain of the USA Ryder Cup team in 1967?	Dow Finsterwald	Tom Kite	Billy Casper	Ben Hogan
+487375	Golf	3	Who won the 2011 PGA Tour Championship after a three-hole playoff with Hunter Mahan?	John Senden	Matt Kuchar	Chez Reavie	Bill Haas
+264889	Golf	3	Which LPGA event did Karrie Webb win in 2004?	LPGA Championship	Office Depot Invitational	Oldsmobile Classic	Kellogg's Classic
+326459	Golf	3	What did Tiger Woods win to overtake Vijay Singh atop the 2005 world golf rankings?	Memorial Tournament	The Masters	PGA Championship	Ford Championship
+326494	Golf	3	How much was the winner's cut of the 2018 Masters Tournament?	4580000	980000	11980000	1980000
+523584	Golf	3	Which is a point of distinction for K.J. Choi?	First Korean To Play Golf	Third Korean To Win On The PGA Tour	Graduated With A 4.0 GPA	First Korean To Win On The PGA Tour
+326239	Golf	3	Before 2007, the PGA Players Championship had always been held in which month?	April	June	July	March
+228839	Golf	3	In 2011, the LPGA announced that which event would become a 5th major in 2013?	Kia Classic	HSBC Brazil Cup	State Farm Classic	Evian Masters
+523577	Golf	3	Golfer Luke Donald is a native of which country?	United States	Canada	Ireland	England
+326492	Golf	3	What American golfer was named the European Tour's Sir Henry Cotton Rookie of the Year in 2014?	Peter Uihlein	Tyrrell Hatton	Chesson Hadley	Brooks Koepka
+228871	Golf	3	Who won golf's 2016 U.S. Open?	Gary Woodland	Tiger Woods	Geoff Ogilvy	Dustin Johnson
+326679	Golf	3	Who was the runner-up to golfer Phil Mickelson in the 2006 Masters?	Tiger Woods	Ernie Els	Vijay Singh	Tim Clark
+152153	Golf	3	What was the first event of the 2011 PGA Tour Season?	Sony Open	Bob Hope Classic	Farmers Insurance Open	Hyundai Tournament of Champions
+228986	Golf	3	In what year was South African golfer Retief Goosen born?	1958	1972	1963	1969
+523574	Golf	3	How often is golf's Ryder Cup Match held?	Every Four Years	Every Year	Every Three Years	Every Two Years
+6365	Golf	3	Which golf star is known for this fact "2 time winner of 3 Majors in golf"?	Tiger Woods	Sandy Lyle	Nick Faldo	Lee Trevino
+229311	Golf	3	Which golf event did Retief Goosen win in 2004?	The International	BellSouth Classic	Memorial Tournament	The Tour Championship
+487403	Golf	3	Who won the LPGA's 2006 Kraft Nabisco Championship?	Se Ri Pak	Julieta Granada	Cristie Kerr	Karrie Webb
+185913	Golf	3	Who was the only American golfer to win a World Golf Championship event in 2011?	Luke Donald	Adam Scott	Martin Kaymer	Nick Watney
+618D310	Golf	3	What name was given to a new event with a $10,000,000 purse announced by the Sunshine Tour in 2011?	Tournament of Dreams	Tournament of Legends	Tournament of Change	Tournament of Hope
+229306	Golf	3	Where is the NCR Golf Club located?	Erie, PA	Plainfield, NJ	Indianapolis, IN	Dayton, OH
+326473	Golf	3	Who won the 2006 LPGA Jamie Farr Owens Corning Classic?	Se Ri Pak	Annika Sorenstam	Karrie Webb	Mi Hyun Kim
+487372	Golf	3	Which of the 2014 World Golf Championships did American golfer Bubba Watson win?	WGC-Accenture Match Play Championship	WGC-Cadillac Championship	WGC-Bridgestone Invitational	WGC-HSBC Champions
+487418	Golf	3	In 2014, what 17-year-old golfer became the youngest player to win the LPGA Tour's rookie of the year award?	Stacy Lewis	Inbee Park	Moriya Jutanugarn	Lydia Ko
+487388	Golf	3	What is Tiger Woods' real name?	Tiger Woods	Ernest Woods	Murray Woods	Eldrick Woods
+229302	Golf	3	In which year did Tiger Woods win "Sports Illustrated" Sportsman of the Year Award?	2006	2004	2002	2000
+228888	Golf	3	Which golfer was #1 on the World Golf Ratings for 14 days in March of 2012?	Hunter Mahan	Michael Thompson	Phil Mickelson	Rory McIlroy
+326496	Golf	3	How old was K.J. Choi when he started golfing?	24	22	19	16
+228943	Golf	3	Which female golfer won the Women's British Open in 1995 and 1997?	Annika Sorenstam	Juli Inkster	Pat Hurst	Karrie Webb
+326520	Golf	3	How many strokes behind the winner did Tiger Woods finish in the 2004 Masters?	18 Strokes	1 Stroke	6 Strokes	11 Strokes
+487410	Golf	3	Which event did Annika Sorenstam win in 2000?	Standard Register PING	Electrolux Championship	Kellogg Classic	Jamie Farr Kroger Classic
+326491	Golf	3	Which of the following golf events was played at the latest date in 2010?	Dubai World Championship	Ryder Cup	The Tour Championship	LPGA Tour Championship
+487368	Golf	3	Golfer Stuart Appleby and his second wife had their first child in which year?	2002	1999	2007	2005
+487373	Golf	3	Which English golfer won his first WGC event in March of 2012?	Luke Donald	Robert Rock	Graeme McDowell	Justin Rose
+22W8733	Golf	3	Which PGA Tour event did Jim Furyk win in 2002?	Cialis Western Open	Wachovia Championship	Las Vegas Invitational	Memorial Tournament
+120414	Golf	3	Matt Kuchar defeated Martin Laird in the first playoff hole of which 2010 FedEx Cup playoff event?	Deutsche Bank Championship	BMW Championship	The Tour Championship	The Barclays
+326447	Golf	3	Who is said to have inspired Mi Hyun Kim to play golf in the United States?	Her Mother	Annika Sorenstam	Pat Hurst	Se Ri Pak
+152169	Golf	3	Which golfer captured the Masters in 2011?	Adam Scott	Jason Day	Jason Dufner	Charl Schwartzel
+326448	Golf	3	In what place did Adam Scott finish in the 2006 World PGA Tour money list?	First	Fifth	Seventh	Third
+487409	Golf	3	Who won the 2018 Masters Tournament one stroke ahead of runner-up?	Jordan Spieth	Tommy Fleetwood	Rory McIlroy	Patrick Reed
+228935	Golf	3	In 2012, the PGA announced that the 2014 PGA season would officially begin in which month of 2013?	November	December	September	October
+487365	Golf	3	How old was Tiger Woods when he first won the U.S. Junior Amateur Championship?	14	16	17	15
+523579	Golf	3	When did Vijay Singh become the second man to win $50 million on the PGA Tour?	2006	2005	2004	2007
+523578	Golf	3	One of K.J. Choi's high school teachers recommended he try which sport?	Wrestling	Swimming	Fencing	Golf
+326657	Golf	3	Who won the 2010 PGA Players Championship?	Charley Hoffman	Robert Karlsson	Ian Poulter	Tim Clark
+523595	Golf	3	In which year did golf's Ernie Els turn professional?	1998	1999	1983	1989
+326510	Golf	3	In which year did Jim Furyk first reach 2nd place on the World Golf Rankings?	2007	2005	2004	2006
+326536	Golf	3	What is the first name of golf's Stephenson?	Carl	Stan	Riddick	January
+458136	Golf	3	What country is golfer Jon Rahm from?	South Africa	USA	Italy	Spain
+326265	Golf	3	In what year was standardization of golf ball weight and size established by the USGA?	1999	1908	1960	1932
+523576	Golf	3	Which golfer won four consecutive British Opens in the 1800's and then died at age twenty-four?	Harry Vardon	John Baird	Bobby Jones	Tom Morris Jr.
+487413	Golf	3	At what age did Phil Mickelson start swinging a golf club?	Five	Seven	Eight	One
+228930	Golf	3	From which country is Pat Hurst's mother a native?	United States	Puerto Rico	Canada	Japan
+228627	Golf	3	In which year did golfer Vijay Singh tie for second in the British Open?	2002	2001	1999	2003
+326515	Golf	3	Who was the runner-up to Jim Furyk in the 2003 U.S. Open?	Ernie Els	Paul Casey	Tiger Woods	Stephen Leaney
+326238	Golf	3	How many under par was Jordan Spieth after the first round of the 2018 Masters Tournament?	3 Under Par	11 Under Par	2 Under Par	6 Under Par
+523573	Golf	3	In 2014, who extended his own record as the oldest golfer to win on the European Tour at 50 years, 133 days?	Richard Green	Thomas Pieters	Raphael Jacquelin	Miguel Angel Jimenez
+152152	Golf	3	Who did Martin Kaymer defeat in a three-hole playoff to win the 2010 PGA Championship?	Lee Westwood	Ernie Els	Vijay Singh	Bubba Watson
+326653	Golf	3	Who finished second in the LPGA Kraft Nabisco Championship in 2006?	Karrie Webb	Se Ri Pak	Annika Sorenstam	Lorena Ochoa
+523602	Golf	3	Which country hosted the 40th Ryder Cup, a biennial men's golf competition, in 2014?	England	Wales	United States	Scotland
+35449	Golf	3	What was the winner's share at the Masters at Augusta in 1970?	$486,000	$955,000	$306,000	$25,000
+228940	Golf	3	Which golf course was chosen to host the 2012 US Open?	Pebble Beach	Oakmont	Winged Foot	Olympic Club
+326477	Golf	3	Who was captain of the 1971 Ryder Cup team that challenged the USA?	Bernard Gallacher	Tony Jacklin	Bernard Hunt	Eric Brown
+523588	Golf	3	Which major golf tournament did Retief Goosen win in 2001 and 2004?	The Masters	British Open	PGA Championship	U.S. Open
+228984	Golf	3	Who won the 2007 Women's World Cup of Golf?	Lorena Ochoa	Cristie Kerr	Annika Sorenstam	Julieta Granada
+523587	Golf	3	In which LPGA major did Pat Hurst miss the cut in 2006?	Kraft Nabisco Championship	LPGA Championship	U.S. Women's Open	Women's British Open
+523597	Golf	3	Who won the Fred Haskins Award for outstanding collegiate golfer in 1987?	Tommy Aaron	JC Snead	Chip Beck	Billy Mayfair
+487392	Golf	3	What number Ryder Cup is the 2018 match?	25th	38th	102nd	42nd
+523593	Golf	3	Who won golf's 1997 U.S. Open?	Curtis Strange	Tom Kite	David Graham	Ernie Els
+487344	Golf	3	In which event did Adam Scott claim his first PGA Tour victory?	The Players Championship	Booz Allen Classic	Nissan Open	Deutsche Bank Championship
+523568	Golf	3	What was the final score of the 2019 Walker Cup?	12 to 11	19 to 10	17 to 9	15½  to 10½
+326688	Golf	3	Who finished 2nd in the 2003 Women's British Open?	Annika Sorenstam	Juli Inkster	Cristie Kerr	Se Ri Pak
+326655	Golf	3	What was the final score of the 2011 Solheim Cup?	16-12	17-11	18-10	15-13
+326444	Golf	3	Which school won the NCAA Division I Men's Golf Championship in 2010?	Purdue	University of Rochester	Texas Tech	Augusta State
+152168	Golf	3	How long of a shot is it from the tee at Augusta on the 16th hole?	435 Yards	575 Yards	410 Yards	170 Yards
+326535	Golf	3	Which 14-time PGA Tour winner was the 2011 Champions Tour Rookie of the Year?	Chip Beck	John Cook	Mark Calcavecchia	Kenny Perry
+326455	Golf	3	Which event marked Vijay Singh's first PGA Tour victory?	Phoenix Open	PGA Championship	Honda Classic	Buick Classic
+523589	Golf	3	What Irish golfer was the winning captain of Europe in the 2014 Ryder Cup?	Tom Watson	Colin Montgomerie	Nick Faldo	Paul McGinley
+326466	Golf	3	What World Golf Hall of Famer was the runner-up of the 2014 PGA Championship?	Rickie Fowler	Henrik Stenson	Jim Furyk	Phil Mickelson
+120763	Golf	3	Where is the Baltusrol Golf Club (Upper Course) located?	Peabody, MA	Gurnee, Il	Chaska, MN	Springfield, NJ
+120417	Golf	3	How many golfers from South Africa were part of the field at the 2018 Masters Tournament?	Seventeen	Zero	Twenty	Five
+326264	Golf	3	Where did golfer Vijay Singh buy an island?	California	Puerto Rico	Maine	Dubai
+151780	Golf	3	Golfer Ernie Els is from which country?	United States	Canada	Venezuela	South Africa
+228937	Golf	3	Which event was the only professional golf tournament Julieta Granada won in 2005?	LPGA Playoffs At The ADT	Women's World Cup Of Golf	South Atlantic Ladies Championship	YMCA Futures Classic
+523572	Golf	3	In addition to being a state champion golfer, Jim Furyk also was good at what sport?	Football	Wrestling	Hockey	Basketball
+326517	Golf	3	Which American golfer won his second Sony Open in Hawaii title in January 2015?	Chris Kirk	Scott Piercy	Russell Henley	Jimmy Walker
+523575	Golf	3	What American golfer won her second consecutive Vare Trophy for the season's lowest scoring average in 2014?	Yani Tseng	Inbee Park	Lydia Ko	Stacy Lewis
+487404	Golf	3	Who finished in second place when Retief Goosen won golf's 2004 U.S. Open?	Vijay Singh	Tiger Woods	Ernie Els	Phil Mickelson
+487328	Golf	3	Which German golfer won the Senior British Open and US Senior Open in 2010?	Cristoph Gunther	Tobias Dier	Marcel Siem	Bernhard Langer
+228589	Golf	3	Which golfer won the 2014 Masters Tournament, his second Masters win in three years?	Jonas Blixt	Jordan Spieth	Tiger Woods	Bubba Watson
+326660	Golf	3	How many top-10 finishes did Jim Furyk have in 2006?	10	8	2	13
+487332	Golf	3	Growing up, what did Vijay Singh use to practice playing golf?	Ice Cubes	Rubber Balls	Oranges	Coconuts
+229051	Golf	3	Who won the Annika Award for second consecutive year in 2019?	Matthew Wolff	Jennifer Kupcho	Leona Maguire	Maria Fassi
+228998	Golf	3	Where is the Crooked Stick Golf Club located?	Duluth, GA	Nashville, TN	Colorado Springs, CO	Carmel, IN
+229329	Golf	3	When did the three major U.S. golf events become part of the European Tour?	2001	2005	2007	1998
+6362	Golf	3	Which golfer won the FedEx Cup in 2010?	Hunter Mahan	Vijay Singh	Luke Donald	Jim Furyk
+326541	Golf	3	In golf, what is a field?	Another Term For Fairway	A Short Shot To The Green	The Players Who Average Par	All Of The Players In A Tournament
+523557	Golf	3	What 59-year old lost the playoff for the 2009 British Open Championship?	Gary Player	Greg Norman	Jack Nicklaus	Tom Watson
+326665	Golf	3	In which year was Tiger Woods named the Associated Press Male Athlete of the Year?	2005	2004	2003	2006
+487347	Golf	3	Where are the headquarters to the LPGA Tour?	Palm Springs, California	South Padre Island, Texas	Tybee Island, Georgia	Daytona Beach, Florida
+487330	Golf	3	Which country was chosen to host the 2012 Ryder Cup?	Ireland	Wales	Spain	United States
+228948	Golf	3	At what age did golfer Julieta Granada move to the United States?	3	6	18	14
+326564	Golf	3	What golfer led the 1997 Ryder Cup team from Europe?	Tony Jacklin	Mark James	John Jacobs	Seve Ballesteros
+326458	Golf	3	Where is the Indianwood Country Club located?	Southern Pines, NC	Erie, PA	Colorado Springs, CO	Lake Orion, MI
+326563	Golf	3	Which golfer was the Champions Tour Comeback Player of the Year for 2010?	Fred Couples	Fred Funk	Mark O'Meara	Ken Green
+202521	Golf	3	In what year did golfer Vijay Singh's wife give birth to their first son?	2002	1985	2007	1990
+229000	Golf	3	Which golf course hosted the 1973 Ryder Cup?	The Ocean Course, Kiawah Island, SC	Royal Lytham And St. Annes, England	The Belfry, Sutton Coldfield, England	Muirfield, Scotland
+618D300	Golf	3	Which golfer won the European Golf Tour's Race to Dubai in 2010?	Lee Westwood	Luke Donald	Retief Goosen	Martin Kaymer
+326664	Golf	3	At which major golf tournament did Tiger Woods first miss the cut as a professional?	Masters 2001	PGA 2005	British 2002	U.S. Open 2006
+218144	Golf	3	Stuart Appleby began his professional golfing career on which tour?	European Tour	American Tour	African Tour	Australian Tour
+326457	Golf	3	Which event marked Vijay Singh's first European Tour golf victory?	El Bosque Open	Scandinavian Masters	German Masters	Volvo Open
+152164	Golf	3	Which golfer pulled off a single-stroke win at the 2012 US Open?	John Peterson	David Toms	Casey Wittenberg	Webb Simpson
+326527	Golf	3	Which of these golfers missed the cut for the 2018 Masters Tournament?	Jon Rahm	Fred Couples 	Bubba Watson	Sandy Lyle
+229313	Golf	3	Who was named the 2011 LPGA Rookie of the Year after finishing 2nd at the US Women's Open?	Ahn Sun-ju	Jang Jeong	Aree Song	Hee Kyung Seo
+151800	Golf	3	How tall is LPGA Golfer Mi Hyun Kim?	6' 0"	5' 11"	5' 9"	5' 1"
+326465	Golf	3	Which South Korean golfer missed a tap-in, victory-clinching putt at the 2012 Kraft Nabisco Championship?	Sun-Young Yoo	Na Yeon Choi	Amy Yang	I.K. Kim
+6386	Golf	3	In which country was golfer Annika Sorenstam born?	United States	Norway	England	Sweden
+523558	Golf	3	Which golfer opened the 2010 PGA Tour season by winning the SBS Championship?	Ryan Palmer	Bill Haas	Ben Crane	Geoff Ogilvy
+326663	Golf	3	How many major LPGA tournaments did Lorena Ochoa win in 2006?	One	Two	Three	Zero
+228884	Golf	3	Robert Garrigus closed out the 2010 PGA Tour season with a win at which event?	Frys.com Open	Viking Classic	AT&T National	Children's Miracle Network Classic
+35960	Golf	3	Which American golfer won her first major championship at the 2014 Kraft Nabisco Championship?	Michelle Wie	Stacy Lewis	Cristie Kerr	Lexi Thompson
+523601	Golf	3	How long of a shot is it from the tee at Augusta on the 2nd hole?	490 Yards	500 Yards	170 Yards	575 Yards
+229324	Golf	3	Which golfer was nicknamed "Squire of the Greens"?	Byron Nelson	Bobby Locke	Bobby Jones	Gene Sarazen
+326460	Golf	3	What men's professional team golf tournament was played for the first time in March 2014?	Ryder Cup	EurAmerica Cup	EurAfrica Cup	EurAsia Cup
+487359	Golf	3	Ernie Els designed a golf course in which state?	Pennsylvania	New York	Delaware	Maryland
+523598	Golf	3	Which Japanese golfer topped the money list of the 2014 Japan Golf Tour?	Hiroyuki Fujita	Tomohiro Kondo	Hiroshi Iwata	Koumei Oda
+287941	Golf	3	How many LPGA Tour events did Yani Tseng win in 2011?	9	5	3	7
+523594	Golf	3	Which golfer claimed his first ever professional title in Europe at the 2014 BMW PGA Championship?	Shane Lowry	Thomas Bj¯rn	Luke Donald	Rory McIlroy
+264893	Golf	3	What golfer led the 1977 Ryder Cup team from Europe?	B Gallacher	Bernard Gallacher	Eric Brown	Brian Huggett
+487415	Golf	3	What is the minimum depth of the hole in professional golf?	Nine Inches	12 Inches	Two Inches	Four Inches
+229116	Golf	3	When and where was the term "birdie" first used in golf?	Shinnecock Hills Golf Club, 1945	Shinnecock Hills Golf Club, 1959	Atlantic City Country Club, 1978	Atlantic City Country Club, 1898
+229045	Golf	3	In which major golf tournament did Retief Goosen finish in second place in 2002?	U.S. Open	British Open	PGA Championship	The Masters
+326607	Golf	3	Who earned $1,428,224 and was ranked #6 for the 2004 Champions Tour?	Craig Stadler	Retief Goosen	Stewart Cink	Larry Nelson
+326463	Golf	3	Which South African golfer won the Sunshine Tour's Order of Merit in 2018?	Danie van Tonder	George Coetzee	Brandon Stone	Zander Lombard
+6329	Golf	3	Who finished 2nd at the 2012 Masters after a 2-hole, sudden-death playoff?	Justin Rose	Rickie Fowler	Zach Johnson	Louis Oosthuizen
+487338	Golf	3	Which Australian golfer led the Order of Merit for the 2011 European Seniors Tour?	Sam Torrance	Carl Mason	Ian Woosnam	Peter Fowler
+228923	Golf	3	What Finnish golfer won the 2014 Volvo World Match Play Championship?	Henrik Stenson	Joost Luiten	George Coetzee	Mikko Ilonen
+487397	Golf	3	What American golfer won the Omega European Masters and the 2014 Asian Tour Order of Merit?	Anirban Lahiri	Prom Meesawat	Scott Hend	David Lipsky
+523563	Golf	3	In August 2014, which golfer won the first of the year's four FedEx Cup Playoff events, The Barclays?	Stuart Appleby	Jason Day	Cameron Tringale	Hunter Mahan
+487352	Golf	3	Which university did golfer Phil Mickelson attend?	San Diego State University	Stanford University	University Of Oregon	Arizona State University
+326521	Golf	3	Which golfer's nickname is "Boom-Boom"?	Tiger Woods	John Daly	Craig Stadler	Fred Couples
+326453	Golf	3	In the 1984 World Junior Golf Championships, who ended second in the 13-14 age group?	Ernie Els	Tiger Woods	Vijay Singh	Phil Mickelson
+487412	Golf	3	Which country does Lorena Ochoa call her native home?	Spain	United States	Venezuela	Mexico
+487356	Golf	3	Which university won the NCAA Division I Men's Golf Championship in 2012?	Illinois	Oklahoma	Alabama	Texas
+487416	Golf	3	Which golfer won the 2012 HSBC Women's Champions Tournament?	Yani Tseng	Jessica Korda	Ai Miyazato	Angela Stanford
+487400	Golf	3	How much under par did Gary Woodland finish at the 2019 U.S. Open (golf)?	-7	-19	-5	-13
+326266	Golf	3	Which golfer captured his first PGA Tour win in March 2014 with a two-shot victory in the Puerto Rico Open?	Victor Dubuisson	Brooks Koepka	Patrick Cantlay	Chesson Hadley
+487377	Golf	3	Which Filipino golfer was the cash leader for the 2011 Asian Tour?	Ben Arda	Angelo Que	Celestino Tugot	Juvic Pagunsun
+487391	Golf	3	Who invented the sand wedge?	Karsten Solheim	Bobby Jones	Ben Hogan	Gene Sarazen
+326263	Golf	3	In which place did Tiger Woods finish at the 2010 Masters?	3rd	5th	6th	4th
+228875	Golf	3	Which Northern Irish golfer won the 2011 Open Championship?	Rory McIlroy	David Jones	Fred Daly	Darren Clark
+326394	Golf	3	Who finished second behind the winner of the 2018 Masters Tournament?	Cameron Smith	Dustin Johnson	Bubba Watson	Rickie Fowler 
+6378	Golf	3	What is special about the book "Golf in America: A Practical Manual" by James Lee?	Established The Rules	Gave Insight Into A Young Tiger Woods	Revolutionized Putting	First Golf Book Written In The US
+487396	Golf	3	Who was the only man to earn more money on the PGA Tour than Tiger Woods in 2003?	Jack Nicklaus	Phil Mickelson	Retief Goosen	Vijay Singh
+487424	Golf	3	Who was the PGA Tour Player of the Year for 2018?	Gary Woodland	Justin Thomas	Brendon Todd	Brooks Koepka
+326495	Golf	3	Who won the RBC Canadian Open 2018?	Matt Kuchar	Jimmy Walker	Adam Hadwin	Dustin Johnson
+151785	Golf	3	Which golfer was inducted into the Golf Hall of Fame in 2012?	Tiger Woods	Jim Furyk	Vijay Singh	Phil Mickelson
+228928	Golf	3	Who was the only American golfer to win an LPGA major in 2011?	Morgan Pressel	Brittany Lang	Paula Creamer	Stacy Lewis
+326456	Golf	3	Where is the David Leadbetter Golf Academy?	Dubai	Hawaii	Venezuela	Florida
+326530	Golf	3	Who earned $1,298,555 and was ranked #10 for the 2004 Champions Tour?	Phil Mickelson	Bruce Fleisher	Charles Warren	Allen Doyle
+1MU1489	Golf	3	How many players were in the field after the cut for the 2018 Masters Tournament?	73 Players	33 Players	43 Players	53 Players
+33693	Golf	3	Which golfer won the 2002 Women's British Open?	Annika Sorenstam	Natalie Gulbis	Lorena Ochoa	Karrie Webb
+228945	Golf	3	Which former US President was elected to the Golf Hall of Fame in 2011?	Ronald Reagan	Dwight Eisenhower	Richard Nixon	George H.W. Bush
+487364	Golf	3	Which American golfer is the PGA Tour second leading money winner in 2014?	Chris Kirk	Jim Furyk	Jimmy Walker	Bubba Watson
+523585	Golf	3	Which American golfer won his first WGC event at the 2014 WGC-Cadillac Championship?	Bubba Watson	Dustin Johnson	Bill Haas	Patrick Reed
+487340	Golf	3	What American golfer won the 2014 LPGA Player of the Year award, her second in a three year span?	Yani Tseng	Inbee Park	Lydia Ko	Stacy Lewis
+216334	Golf	3	Which golfer ended his engagement to tennis star Caroline Wozniacki in 2014?	Henrik Stenson	Adam Scott	Justin Rose	Rory McIlroy
+487395	Golf	3	In which year did Ernie Els win the U.S. Open?	1995	2003	2006	1994
+326497	Golf	3	Which golfer is known for wearing sunglasses no matter what the conditions?	John Bland	Fred Couples	Dave Stockton Jr.	Fuzzy Zoeller
+326528	Golf	3	How old did Brooks Koepka turn in May 2019?	39 Years Old	19 Years Old	26 Years Old	29 Years Old
+287935	Golf	3	Which of the following awards did Matt Kuchar not win in 2010?	Arnold Palmer Award	Vardon Trophy	Byron Nelson Award	Jack Nicklaus Trophy
+326542	Golf	3	What 2014 major was Rory McIlroy's third major title, having won the 2011 U.S. Open and 2012 PGA Championship?	Masters Tournament	U.S. Open	PGA Championship	The Open Championship
+326656	Golf	3	Which golfer finished in 2nd place at the Masters and US Open in 2011?	Nick Watney	Dustin Johnson	Phil Mickelson	Jason Day
+523564	Golf	3	Which LPGA golfer was born in Paraguay?	Lorena Ochoa	Se Ri Pak	Sophie Gustafson	Julieta Granada
+326507	Golf	3	Which LPGA major did Korean Na Yeon Choi win in 2012?	Kraft Nabisco Championship	Wegmans LPGA Championship	Women's Australian Open	US Women's Open
+326548	Golf	3	Which American golfer won his 3rd senior major in 2010?	Corey Pavin	David Frost	Michael Allen	Fred Funk
+523599	Golf	3	Who was captain of the 1987 Ryder Cup team that challenged the USA?	Bernard Hunt	Bernard Gallacher	John Jacobs	Tony Jacklin
+185582	Golf	3	In what year did Tiger Woods marry a Swedish model?	2002	1999	1997	2004
+523591	Golf	3	What was the winner's share at the Masters at Augusta in 2004?	$60,000	$50,000	$162,000	$1,170,000
+229086	Golf	3	What golf course hosted the 1997 Ryder Cup?	The Greenbrier, WV	The Belfry, Sutton Coldfield, England	The Country Club, Brookline, MA	Valderrama GC, Sotogrande Spain
+228929	Golf	3	Which top-ranked female golfer retired in 2010 at the age of 28?	Cristie Kerr	Karrie Webb	Annika Sorenstam	Lorena Ochoa
+326506	Golf	3	Held at Sawgrass, which 2007 PGA Tour event was won by Phil Mickelson?	The Masters	The Open Championship	The U.S. Open	The Players Championship
+487362	Golf	3	Which golfer was #1 on the Women's World Golf Rankings for one week each of June and July, 2010?	Jennifer Song	Jiyai Shin	Ahn Sun-Ju	Ai Miyazoto
+326478	Golf	3	What golfer led the 1993 Ryder Cup team from Europe?	Tony Jacklin	Mark James	John Jacobs	Bernard Gallacher
+228922	Golf	3	What English golfer is the 2014 recipient of the Payne Stewart Award?	Peter Jacobsen	Steve Stricker	David Toms	Nick Faldo
+487370	Golf	3	Which event marked Phil Mickelson's first major golf championship?	PGA Championship	U.S. Open	British Open	The Masters
+229301	Golf	3	Who was chosen as the captain for Team USA for the 2012 Ryder Cup?	Fred Couples	Mike Hulbert	Joe Daley	Davis Love III
+487406	Golf	3	Stuart Appleby's first PGA tour win came in which tournament?	Kemper Open	Las Vegas Invitational	Mercedes Championship	Honda Classic
+618D296	Golf	3	How long of a shot is from the tee at Augusta on the 18th hole?	570	425	490	465
+6341	Golf	3	Which golf event did Phil Mickelson win in 2002?	The Masters	Mercedes Championship	PGA Championship	Bob Hope Chrysler Classic
+326451	Golf	3	Which American golfer won the 2015 Hyundai Tournament of Champions?	Zach Johnson	Dustin Johnson	Steve Stricker	Patrick Reed
+618D304	Golf	3	Who won golf's 1994 Master's Tournament?	Tom Lehman	Nick Faldo	Ben Crenshaw	Jose Maria Olazabal
+487417	Golf	3	Which golfer won his second PGA Championship in 2014 for his fourth major title?	Martin Kaymer	Jim Furyk	Bubba Watson	Rory McIlroy
+287937	Golf	3	From which professional tour was golfer Vijay Singh suspended in 1985?	Malaysian Tour	PGA Tour	Nike Tour	Asian Tour
+487421	Golf	3	In which major did Jim Furyk miss the cut in 2003?	The Masters	PGA Championship	U.S. Open	British Open
+487401	Golf	3	In the 1984 Junior World Golf Championship, who ended first in the 13-14 age group?	Phil Mickelson	Vijay Singh	Tiger Woods	Ernie Els
+326538	Golf	3	Which of these golfers has never won the Masters?	Craig Stadler	Seve Ballesteros	Sandy Lyle	Lee Trevino
+229314	Golf	3	In 2012, the Nationwide Tour was renamed after what company?	Allstate	Petco	Wal-Mart	Web.com
+487398	Golf	3	Which major golf championship did Vijay Singh win in both 1998 and 2004?	The Masters	British Open	U.S. Open	PGA Championship
+458137	Golf	3	In 2014, which golfer was voted PGA Tour Player of the Year for the second time in three seasons?	Martin Kaymer	Jimmy Walker	Bubba Watson	Rory McIlroy
+523556	Golf	3	In 2011, Tiger Woods won which unofficial PGA event that he regularly hosts?	Nike Masters	Pepsi Open	Brawny Invitational	Chevron World Challenge
+152173	Golf	3	Where is the Brooklawn Country Club located?	Nashville, TN	Indianapolis, IN	Kohler, WI	Fairfield, CT
+487366	Golf	3	In which year was Vijay Singh named PGA Tour Rookie of the Year?	1995	1997	1999	1993
+185906	Golf	3	Which golf star was the 1971 winner of golf's PGA Player of the Year?	Payne Stewart	Arnold Palmer	Sam Snead	Lee Trevino
+326522	Golf	3	Which golfer is not among the three captain's picks by Paul McGinley for the 2014 Ryder Cup team?	Stephen Gallacher	Ian Poulter	Lee Westwood	Sergio Garcia
+523600	Golf	3	Karrie Webb missed the cut in which LPGA major in both 2002 and 2003?	Women's British Open	LPGA Championship	Kraft Nabisco Championship	U.S. Women's Open
+326490	Golf	3	In which major did Adam Scott finish tied for 3rd in 2006?	U.S. Open	British Open	The Masters	PGA Championship
+523596	Golf	3	Who did Retief Goosen beat in a playoff in golf's 2001 U.S. Open?	Paul Casey	Henrik Stenson	David Howell	Mark Brooks
+487419	Golf	3	Which PGA golfer was given the Payne Stewart Award in 2011?	Tom Lehman	Kenny Perry	Davis Love III	David Toms
+288015	Golf	3	What was the official cause of golfer Tiger Woods' father Earl Woods' death?	Stroke	Heart Failure	Renal Failure	Prostate Cancer

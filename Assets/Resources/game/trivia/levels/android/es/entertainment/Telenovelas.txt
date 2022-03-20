@@ -1,0 +1,100 @@
+FTUXLA01	Telenovelas	0	¿Por qué Rubí deja a Alejandro en la telenovela "Rubí"?	El esta engañando	El es muy bajo	El es demasiado viejo	El no es rico
+FTUXLA02	Telenovelas	0	¿A quién interpretó Gabriela Spanic en la telenovela "La Usurpadora"?	Maya y Jade	Emilia y Elena	Paula y Isabella	Paulina y Paola
+FTUXLA03	Telenovelas	0	En Corazón Salvaje, ¿qué profesión tiene el amante de María del Rosario?	Carnicero	Panadero	Taxista	Pescador
+FTUXLA04	Telenovelas	0	¿Cuál es el verdadero nombre de Francisco Lara en "La hija del mariachi"?	Roberto	Rodrigo	Fernando	Emiliano
+FTUXLA05	Telenovelas	0	¿De qué se enferma Doña Barbara?	Dengue	chikungunya	Fiebre amarilla	Malaria
+FTUXLA06	Telenovelas	0	¿Cómo muere Fernando en Pasión de gavilanes?	Le disparan	Cae de un caballo	Lo secuestran y matan	Cae en arenas movedizas
+FTUXLA07	Telenovelas	0	¿Quién es la protagonista de la telenovela "Los ricos también lloran"?	Silvia Pinal	Angélica María	Jacqueline Andere	Verónica Castro
+FTUXLA08	Telenovelas	0	¿En qué trabaja Letty al inicio de  "La fea más bella"?	Contadora	Diseñadora	Maquillista	Secretaria
+FTUXLA09	Telenovelas	0	¿Quién finge no tener un ojo en "Cuna de lobos"?	Doña Esperanza	Bertha	Leonora	Catalina Creel
+FTUXLA10	Telenovelas	0	¿Qué poder tiene Ana en la telenovela "Amigos por siempre"?	Puede volar	Teletransportarse	Leer mentes	Telequinesis
+FTUXLA11	Telenovelas	0	¿En qué novela actuó Belinda de niña?	Sueños y Caramelos	Misión SOS	Amy, la niña de la mochila azul	Amigos por siempre
+FTUXLA12	Telenovelas	0	¿Dónde muere Isaura de "Amarte es mi pecado"?	En su cama	En una iglesia	En el río	En un camión varado.
+FTUXLA13	Telenovelas	0	¿Cómo le dicen a Ricardo de Salamanca en "Pasión"?	El caribeano	El bandido	Almonte	El Antillano
+FTUXLA14	Telenovelas	0	¿Cómo le dicen a Angélica María en la telenovela "Destilando Amor"?	Paloma	Canaria	Perica	Gaviota
+FTUXLA15	Telenovelas	0	¿En qué telenovela actuaron juntos William Levy y Maite Perroni?	Mi vida eres tú	Olvidarte jamás	Rebelde	Cuidado con el Angel
+FTUXLA16	Telenovelas	0	¿Cómo se llama la escuela de la telenovela "Rebelde"?	Hogwarts	East High	Las Encinas	Elite Way School
+FTUXLA17	Telenovelas	0	¿Quién interpreta a Teresa en la versión mexicana?	Danna Garcia	Maite Perroni	Issabela Camil	Angelique Boyer
+FTUXLA18	Telenovelas	0	¿Cómo se llama la prima de Valentina en la telenovela "Soy tu dueña"?	Irlanda	María	Gabriela	Ivana
+FTUXLA19	Telenovelas	0	¿En qué telenovela aparece el personaje "Soraya Montenegro"?	María Mercedes	Rosalinda	Marimar	María la del barrio
+FTUXLA20	Telenovelas	0	¿En dónde vive Marimar?	En la capital	En un rancho	En un barco	En la costa 
+FTUXLA21	Telenovelas	0	¿Quién interpreta a María Mercedes?	Lucero	Paulina Rubio	Jennifer Lopez	Thalía
+FTUXLA22	Telenovelas	0	¿Quién finge ser Luis Manrique para acostarse con Hipólita en la telenovela "Alborada"?	Diego Arellano	Fernando Colunga	Francisco Escobar	Antonio de Guzmán
+FTUXLA23	Telenovelas	0	¿Quién canta el tema de la telenovela "Quinceañera"?	Parchis	Menudo	Flans	Timbiriche
+FTUXLA24	Telenovelas	0	¿Por qué encarcelan injustamente a María Fernández Acuña de San Román en la telenovela "La madrastra"?	Supuesto fraude	Extorsión	Robo de identidad	Asesinato
+FTUXLA25	Telenovelas	0	¿Quién mató a Alonso en la telenovela "La Malquerida"?	Acacia	Cristina	Alejandra	Esteban
+FTUXLA26	Telenovelas	0	¿Quién le dispara al doctor Bermúdez en la telenovela "En nombre del amor"?	Paloma	Emiliano	Romina	Carlota
+FTUXLA27	Telenovelas	0	¿Dónde se grabó la telenovela "La Malquerida"?	En la ciudad de México	En Michoacán	En el Caribe	En Tlaxcala
+FTUXLA28	Telenovelas	0	¿En dónde trabaja la gitana Peregrina?	En una discoteca	En una caballería	En la plaza de toros	En un circo andante
+FTUXLA29	Telenovelas	0	¿Por quién se hace pasar Ana Escudero en la telenovela "Las dos caras de Ana"?	Rebeca Martínez	Irene Alcaráz	Graciela Salgado	Marcia Lazcano
+FTUXLA30	Telenovelas	0	¿Quién se lleva a la hija de Cristina en la telenovela "Abrázame muy fuerte"?	Deborah Falcón	Damiana Guillén	José María	Raquela
+FTUXLA31	Telenovelas	0	¿De qué muere Fabiola en la telenovela "Lo que la vida me robó"?	Sida	Cáncer	Balazo	Suicidio
+FTUXLA32	Telenovelas	0	¿Por qué Teresa pierde movilidad del cuerpo por un tiempo?	Por saltar a un lago helado	Por comer fruta envenenada	Por un choque	Por recibir un balazo
+FTUXLA33	Telenovelas	0	¿Quién canta el tema de la telenovela "La Madrastra", Viveme?	Paulina Rubio	Laura Fabian	Emma Marrone	Laura Pausini
+FTUXLA34	Telenovelas	0	¿Quién es el verdadero padre de Marimar?	Padre Porres	Bernardo Duarte	Papá Pancho Pérez	Gustavo Aldama
+FTUXLA35	Telenovelas	0	¿Qué vende Rosalinda al inicio de la telenovela?	Dulces	Pasteles	Globos	Flores
+FTUXLA36	Telenovelas	0	¿Cuál de estos personajes NO es interpretado por Thalía?	Rosalinda	Maria la del Barrio	Marimar	Teresa
+FTUXLA37	Telenovelas	0	¿Cuál es la profesión de la mamá de Roberta en Rebelde?	Bailarina	Actriz	Abogada	Cantante
+FTUXLA38	Telenovelas	0	¿Quién interpreta a Lola en Lola érase una vez?	Belinda	Dulce María	Maite Perroni	Eiza González
+FTUXLA39	Telenovelas	0	¿Dónde conoce Paola Bracho a Paulina Martinez en "La Usurpadora"?	En un restaurante en Guadalajara	En un rancho en Tijuana	En casa de sus suegros	En un hotel en Cancún
+FTUXLA40	Telenovelas	0	¿Cuál fue la primera telenovela protagonizada por Danna Paola?	Élite	Misión SOS	Sueños y Caramelos	María Belén
+FTUXLA41	Telenovelas	0	¿Quién canta el tema principal de "Aventuras en el Tiempo"?	Danna Paola	Eiza González	Thalía	Belinda
+FTUXLA42	Telenovelas	0	¿Quién presenta los episodios de "Mujer, Casos de la vida real"?	Gabriela Spanic	Silvia Pasquel	Aracely Arámbula	Silvia Pinal
+FTUXLA43	Telenovelas	0	¿Quiénes son los enemigos de la familia Junquera en la telenovela "La intrusa"?	Los Limantour	Los Rojas	Los Islas	Los Roldán
+FTUXLA44	Telenovelas	0	¿Cómo cubre su ojo Catalina Creel en "Cuna de Lobos"?	Usa lentes	Con su cabello	No muestra su cara	Con un parche
+FTUXLA45	Telenovelas	0	¿Cómo se llaman las tías de Cecilia en la telenovela "Cadenas de Amargura"?	Rocío y Natalia	Graciela y Elvira	Norah y María	Natalia y Evangelina
+FTUXLA46	Telenovelas	0	¿Quién era la prometida de Santiago antes de Candy en "Las tontas no van al cielo"?	Alicia	Paulina 	Soledad	Marissa
+FTUXLA47	Telenovelas	0	¿Quien canta el tema principal de "Las tontas no van al cielo"?	Soda Stereo	Playa Limbo	Lú	Jesse & Joy
+FTUXLA48	Telenovelas	0	¿Quién se hace pasar por Eva en "Por ella soy Eva"?	Helena Moreno	Plutarco Ramos	Silvia Ramos	Juan Carlos Caballero
+FTUXLA49	Telenovelas	0	¿Cuál es la profesión de Gumersindo Montenegro en la telenovela "Hay amores que matan"?	Actor	Sacerdote	Periodista	Político
+FTUXLA50	Telenovelas	0	En la Rosa de Guadalupe, ¿qué planta aparece en todos los episodios?	Un aloe vera	Un cactus	Una margarita	Una rosa
+FTUXLA51	Telenovelas	0	¿Qué actriz interpreta a la madre de Danna Paola en "La Doña"?	Claudia Martin	Paola Rey	Issabela Camil	Aracely Arambula
+FTUXLA52	Telenovelas	0	¿Cuál de las jóvenes en "Amigas y rivales" desarrolla un problema de adicción?	Laura	Ofelia	Tatiana	Jimena
+FTUXLA53	Telenovelas	0	¿Por qué Ofelia rechaza a Ulises en la telenovela "Amigas y rivales"?	Porque es pobre	Porque está casada	Porque es un flojo	Porque es feo
+FTUXLA54	Telenovelas	0	¿Quiénes están enamoradas de Roberto en "Amigas y rivales"?	Ofelia y Laura	Ulises y Ofelia	Laura y Wendy	Nayeli y Laura
+FTUXLA55	Telenovelas	0	¿Quién creó el programa "Palabra de mujer" dentro de la telenovela?	Paulina 	Fernanda	Matilde	Vanesa
+FTUXLA56	Telenovelas	0	¿Sobre qué temas hablan en el programa "Palabra de mujer" dentro de la telenovela con el mismo nombre?	Maquillaje	Chismes de famosos	Leyendas de terror	Problemas de mujeres
+FTUXLA57	Telenovelas	0	¿Dónde termina Piedad de la telenovela "Mujer de madera"?	En la cárcel	En su rancho privado	En una isla perdida	En un manicomnio
+FTUXLA58	Telenovelas	0	¿Cómo se llaman las hermanas de Marissa en "Mujer de madera"?	Adamari y Lucrecia	Celia y Aída	Celia y Rocío	Aída y Lucrecia
+FTUXLA59	Telenovelas	0	¿A quién quiere vengar Sebastián en la telenovela "Las vías del amor"?	A su madre	A sí mismo	A su esposa muerta	A su hermano
+FTUXLA60	Telenovelas	0	¿Quién protagonizó la telenovela Ángela	Edith González	Adriana Laffan	Karyme Lozano	Angélica Rivera
+FTUXLA61	Telenovelas	0	¿Cuál es la telenovela en la que se inspiró "Primer amor, a mil por hora"?	Amigos por siempre	Cuna de lobos	La Malquerida	Quinceañera
+FTUXLA62	Telenovelas	0	¿Qué relación tienen Camila, Alexa y Sofia con Nico en "Soltero con hijas"	Son sus hijas.	Amigos	Son las jefas	Sobrinas
+FTUXLA63	Telenovelas	0	¿Quiénes intentan matar a Rosa en la telenovela "Rosa salvaje"?	Dulcina y Tomasa	Tomasa y Leopoldina	Ricardo y Cándida	Dulcina y Leonora
+FTUXLA64	Telenovelas	0	¿Cuál de estas telenovelas se desarrolla en el pueblo de Nahuatzen?	Soltero con hijas	Las tontas no van al cielo	La doña	Pueblo chico, infierno grande
+FTUXLA65	Telenovelas	0	¿A quiénes interpreta Verónica Castro en la telenovela "Valentina"?	Valentina y Déborah	Prudencia y Rafaela	Rebeca y Amparo	Valentina y Ángeles
+FTUXLA66	Telenovelas	0	¿En qué telenovela aparecen Ludwika Paleta y Verónica Castro?	Muchachitas como tú	Valentina	Rubí	Los exitosos Pérez
+FTUXLA67	Telenovelas	0	¿Qué familias comienzan como rivales en la telenovela "Qué pobres tan ricos"?	Los Fontanet y los Terrán	Los Martínes y los Larrea	Los Sarabia y los Escondiondas	los Menchaca y los Ruizpalacios
+FTUXLA68	Telenovelas	0	¿A quién deja Hector plantada en el altar para huír con Rubí?	Carla	Elisa	Elena	Maribel
+FTUXLA69	Telenovelas	0	¿Qué personaje de María la del barrio está en silla de ruedas?	María 	Soraya Montenegro	Fernando/Nando	Alicia
+FTUXLA70	Telenovelas	0	¿A cuál de estos personajes logra asesinar María de los Ángeles en "El ángel caído"?	Toño	Avelina	Roberto	A su marido
+FTUXLA71	Telenovelas	0	¿Quién asesina a Santiago del Olmo en "Maria Mercedes"?	Maria Mercedes 	Jorge Luis	Digna	Malvina del Olmo
+FTUXLA72	Telenovelas	0	¿Quién interpreta a las trillizas de la telenovela "Lazos de amor"?	Ludwika Paleta	Michelle Vieth	Angélica Vale	Lucero
+FTUXLA73	Telenovelas	0	¿Con quién se casa Letty la fea en "La fea más bella"?	Erasmo	Luigi	Aldo	Fernando
+FTUXLA74	Telenovelas	0	¿Qué hace Tamara de la Colina de la telenovela "El privilegio de amar"en un arranque de locura?	Llorar en la calle	Donar todo su dinero	Choca a propósito	Raparse
+FTUXLA75	Telenovelas	0	¿Quién es el verdadero interés romántico de Roxana Brito de la O en "Amigas y rivales"?	Roberto de la O	Ulises  	Ofelia	Roberto Jr. 
+FTUXLA76	Telenovelas	0	¿Cómo separa Carlota a Macarena y Cristóbal en "En nombre del amor"?	Dice estar embarazada de Cristóbal	Culpa de un crimen falso a Macarena	Le ofrece un trabajo fuera a Cristóbal	Les hace creer que el otro está muerto
+FTUXLA77	Telenovelas	0	¿Cuál de estos personajes NO es asesinado por Bernarda Montejo en "Triunfo del amor"?	Una monja	A su amante	Tomasa	Maximiliano Sandoval
+FTUXLA78	Telenovelas	0	¿Quién es el verdadero padre de María Desamparada en "Triunfo del amor"?	Guillermo Quintana	Octavio Iturbide	Rodolfo Padilla	El padre Juan Pablo
+FTUXLA79	Telenovelas	0	En la telenovela "Corazón Salvaje", ¿con quién tiene un hijo Mónica?	Andrés	Bautista	Marcelo	Juan  
+FTUXLA80	Telenovelas	0	En la telenovela "Dos mujeres, un camino", ¿qué maneja Johnny?	Un taxi	Un autobús	Una bicicleta	Un tráiler
+FTUXLA81	Telenovelas	0	¿Quiénes son los dos amores de Johnny de la telenovela "Dos mujeres, un camino"?	Alejandra y Amalia	Amalia y Tania	Elena y Lorena	Tania y Ana María
+FTUXLA82	Telenovelas	0	¿Cuál es el crimen por el que inculpan a Johnny en la telenovela "Dos mujeres, un camino"?	Fraude 	Robo	Incendio	Asesinato
+FTUXLA83	Telenovelas	0	En la telenovela venezolana "María Teresa", ¿dónde termina Reina?	Un manicomnio	En casa de Hugo	En el campo	La cárcel
+FTUXLA84	Telenovelas	0	¿Quién asume la culpa del asesinato del padre de Román en la telenovela "Maria Teresa"?	Alfredo	Reina	Maria Eugenia	Leonor
+FTUXLA85	Telenovelas	0	¿Quién pierde la memoria en la telenovela "María Teresa"?	Reina	Alfredo	Román	María Teresa
+FTUXLA86	Telenovelas	0	¿Quién se enamora de un profesor en la telenovela "Muchachitas"?	Mónica	Elena	Isabel	Leticia
+FTUXLA87	Telenovelas	0	¿De qué es la academia de la telenovela "Muchachitas"?	Ciencia	Filosofía	Maquillaje	Artes escénicas
+FTUXLA88	Telenovelas	0	¿En cuál telenovela juvenil de los 90's aparece Kate del Castillo?	Amigos por siempre	Sueños y caramelos	Palabra de mujer	Muchachitas
+FTUXLA89	Telenovelas	0	¿Quién es el verdadero padre de Cristina en la telenovela "Cristal"?	Alejandro	Adán	Gonzalo	Ángel de Jesús
+FTUXLA90	Telenovelas	0	¿Quién es la hija perdida de Victoria en la telenovela "Cristal"?	Inocencia	Zoraida	Marión	Cristina
+FTUXLA91	Telenovelas	0	¿En cuál telenovela infantil apareció Ximena Sariñana?	Misión SOS	María Belén	Chiquilladas	Luz Clarita
+FTUXLA92	Telenovelas	0	¿Quiénes son las presuntas culpabales del suicidio de Ricardo en "La Mentira"?	Sara y Leticia	Miranda y Nicole	Sara e Irma	Verónica y Virginia
+FTUXLA93	Telenovelas	0	¿En qué telenovela actúan Kate y Eric del castillo?	Destilando amor	Muchachitas	Niña amada mía	La mentira
+FTUXLA94	Telenovelas	0	¿Cuál telenovela trata sobre una fanática enamorada de un actor?	Destilando amor	Muchachitas	Palabra de mujer	Alcanzar una estrella
+FTUXLA95	Telenovelas	0	¿En cuál de estas telenovelas Eduardo Capetillo NO es el protagonista?	Alcanzar una estrella	Peregrina	Marimar	La fea más bella
+FTUXLA96	Telenovelas	0	¿Quién incrima a Kassandra en la telenovela "Kassandra"?	Alfonso	Herminia	Randú	Rosaura
+FTUXLA97	Telenovelas	0	¿Quién tiene amnesia en la telenovela "Tú o nadie"?	Martha	Maximiliano	Raquel	Antonio  
+FTUXLA98	Telenovelas	0	¿Dónde sufre un accidente Antonio en la telenovela "Tú o nadie"?	En un coche	En la casa	En la calle	En una avioneta
+FTUXLA99	Telenovelas	0	¿Quién se hace pasar por Antonio en la telenovela "Tú o nadie"?	Óscar	Pablo	Claudio	Maximiliano  
+FTUXLA100	Telenovelas	0	¿Cuál de estas telenovelas es protagonizada por Lucía Méndez?	La Usurpadora	Pasión	Amarte es mi pecado	Tú o nadie

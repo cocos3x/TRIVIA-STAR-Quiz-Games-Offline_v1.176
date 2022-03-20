@@ -1,0 +1,437 @@
+0DIF224	Literatura	0	¿Quién persiguió a Moby Dick?	Capitán Garfio	Capitán Jack Sparrow	Capitán Kingsley	Capitán Ahab
+0DIF230	Literatura	0	¿Qué libro se centra en un caballo?	Matar a un ruiseñor	Granja de animales	uno volo sobre el nido del cuco	Belleza negra
+0DIF229	Literatura	0	¿Qué libro trata sobre una niña de Kansas?	Carrie	Hermandad de los Pantalones Viajeros	Los forasteros	El maravilloso mago de Oz
+0DIF240	Literatura	0	¿Harry Potter fue a qué escuela?	Harvard	San Judas	Academia de paraguas	Hogwarts
+0DIF238	Literatura	0	¿Qué novela de Dickens se considera una autobiografía?	Moby Dick	La letra escarlata	1984	David Copperfield
+0DIF233	Literatura	0	¿Cuál es la última palabra en 'El cuervo' de Edgar Allan Poe?	Para siempre jamás	Vete	Fin	Nunca más
+0DIF223	Literatura	0	¿Quién es el personaje principal de 'Catcher in the Rye'?	Oliver Twist	Tom Sawyer	Clark Kent	Holden Caulfield
+0DIF221	Literatura	0	¿Mark Twain escribió sobre cuál de estos personajes?	Daniel el travieso	Boo Radley	Caperucita Roja	Tom Sawyer
+0DIF231	Literatura	0	¿Qué obra de Shakespeare tiene amantes que se suicidan?	Macbeth	Doma de la musaraña	Aldea	Romeo y Julieta
+0DIF239	Literatura	0	¿Cuál no es el nombre de uno de los tres niños 'Darling' en 'Peter Pan' de JM Barrie?	Wendy	Juan	Miguel	David
+0DIF234	Literatura	0	En 'Charlotte's Web', ¿cómo se llama el cerdo de Fern?	Jeff	Bebé	También helecho	Wilbur
+0DIF227	Literatura	0	¿Cuál de los siguientes fue escrito por George Orwell?	Nuevo mundo valiente	Noche	Lote de Salem	Granja de animales
+0DIF228	Literatura	0	¿Ron Weasley es un personaje de qué serie de libros?	señor de los Anillos	Percy Jackson	Granja de animales	Harry Potter
+0DIF222	Literatura	0	Por favor, señor, quiero más, ¿qué personaje dijo?	Atticus Finch	Darth Vader	Charles Dickens	Oliver Twist
+0DIF237	Literatura	0	¿Quién escribió 'Don Quijote'?	James Bond	Ernest Hemmingway	John Gray	Miguel de Cervantes
+0DIF235	Literatura	0	En 'La princesa prometida', ¿quién es el personaje principal?	Princesa Aurora	Princesa Peach	princesa Diana	Princesa Buttercup
+0DIF225	Literatura	0	¿Cuál es la "letra escarlata"?	C	K	F	A
+0DIF232	Literatura	0	¿Qué novela de Stephen King de 1981 trata sobre un perro rabioso?	El resplandor	1984	Carrie	Cujo
+0DIF236	Literatura	0	¿Para qué tipo de libro se otorga un premio Nebula?	Musical	Poesía	Libro de fotos	Ciencia ficción
+0DIF226	Literatura	0	¿Quién escribió 'To Kill a Mockingbird'?	John Abrams	Mark Twain	Stephen King	Harper Lee
+1L05201	Literatura	1	¿Dónde nació el premio Nobel de 2006 Orhan Pamuk, autor de "Estambul: recuerdos y la ciudad"?	Israel	Checoslovaquia	Alemania	Turkey
+1L05105	Literatura	1	¿Cuál es el primer nombre del famoso autor de Beat Generation, Kerouac?	Joseph	Lawrence	Antonio	Jack
+518276	Literatura	1	¿Cuál es el nombre del juego del mago en "Harry Potter"?	Mugglein	Baloncesto de escoba	Pargo	Quidditch
+1L05059	Literatura	1	¿Qué es una novela romántica erótica de 2012 y es la tercera entrega de la trilogía "Cincuenta sombras"?	Cincuenta sombras de acero	Cincuenta sombras de Grey	Cincuenta sombras más oscuras	Cincuenta tonos liberados
+1L05205	Literatura	1	¿En qué tira cómica hay un gato amante de las lasaña?	Snoopy	Mutts	Arkensdale	Garfield
+1L05031	Literatura	1	¿En qué pieza encontrarás "Cogí el menos transitado y eso ha marcado la diferencia"?	Una canción de los Beatles inédita	Un libro de Issac Hayes	Un poema de Walt Whitman	Un poema de Robert Frost
+1L05095	Literatura	1	¿Cuál de los siguientes productos más vendidos trata sobre curas para más de 50 enfermedades?	Las cinco personas que conoces en el cielo	Nuevas reglas	De piezas a peso	Curas naturales
+1L05165	Literatura	1	En "Orgullo y prejuicio" de Jane Austen, ¿Elizabeth se enamora inesperadamente de qué hombre?	Sr. Bingley	Coronel Fitzwilliam	Sr. Rochester	Sr. Darcy
+1L05173	Literatura	1	¿Qué famoso novelista irlandés escribió "The Dubliners"?	William Butler Yeats	Dylan Thomas	Sean O'Casey	James Joyce
+1L05183	Literatura	1	¿A qué tipo de literatura pertenecen "Crimen y castigo", "Anna Karenina" y "Dr. Zhivago"?	Español	alemán	polaco	ruso
+1L05159	Literatura	1	¿Qué define el personaje en una historia?	Cuando sucedió la acción	Donde tuvo lugar la historia	Por qué sucedió la acción	De quien trata la historia
+1L05147	Literatura	1	¿Cuál de estos podría ser una definición de personaje?	Tiempo y lugar	Sentimientos y emociones	Eventos en una historia	Persona que participa en la historia
+1L05115	Literatura	1	¿Cuál es el título del libro de 2018 de Michelle Obama?	Barack	Yo gano	Vamos a lo físico	Convirtiéndose
+1L05051	Literatura	1	¿De qué color es el Expreso de Hogwarts?	Amarillo	Verde esmeralda	Negro	rojo
+1L05137	Literatura	1	¿Qué libro más vendido trata sobre Harry a los 16 años, enfrentándose al peligro, la muerte, el amor, la traición y el sacrificio?	Pirata	Dia de los Muertos	Asesino	Harry Potter y el Príncipe Mestizo
+1L05107	Literatura	1	¿Quién creó la famosa colección de libros de fantasía para niños llamada "Las Crónicas de Narnia"?	J. R. R. Tolkien	William Shakespeare	Lord Alfred Tennyson	C. S. Lewis
+1L05075	Literatura	1	¿Qué personaje de ficción hizo un viaje por el Mississippi en una balsa con el esclavo fugitivo Jim?	Tom Sawyer	Oliver Twist	Harry Potter	Finn arándano
+1L05035	Literatura	1	¿Cuál es el primer nombre del autor más vendido Bradbury?	Maurice	Virginia	DH	Rayo
+87708	Literatura	1	¿Cuál de estos libros de no ficción de 1956 fue escrito por Betty Crocker?	Parque Gorky	Hablar directamente	Los 9 pasos hacia la libertad financiera	Libro de cocina con imágenes de Betty Crocker
+1L05129	Literatura	1	¿Quién escribió la novela más vendida "Carrie"?	Michel Jackson	Wes Craven	John Carpenter	Stephen King
+1L05063	Literatura	1	¿Qué best seller se trata en el cielo, la vida se explica por cinco personas?	La boda	No es país para viejos	De piezas a peso	Las cinco personas que conoces en el cielo
+1L05171	Literatura	1	¿Qué término se usa para nombrar al personaje principal de una historia?	Personificación	Carácter ronda	Carácter social	Protagonista
+1L05145	Literatura	1	¿Qué best seller trata sobre una chica que hace malabares con un trabajo después de la escuela, una clase de arte y una cita con el hijo del presidente?	El segundo verano de la hermandad	100 personas que están arruinando Estados Unidos	Las cinco personas que conoces en el cielo	Listo o no: una novela de chicas totalmente estadounidense
+1L05085	Literatura	1	En la Biblia, ¿cómo se llamaba el jardín donde vivieron Adán y Eva?	El jardín zen	El jardín secreto	El jardín de Idilio	El jardín del Edén
+1L05045	Literatura	1	¿Quién escribió "Charlotte's Web"?	EP Gray	Emma Brown	Ernest Green	EB White
+1L05161	Literatura	1	En "Harry Potter y la piedra filosofal", ¿cuál fue la primera prueba que pasó?	Tkaa, un basilisco mágico	Rex, un dinosaurio T-Rex	Kit, un dragón azul joven	Fluffy, un perro gigante de tres cabezas
+1L05113	Literatura	1	En "Una visita de San Nicolás", ¿visiones de lo que bailaron en la cabeza de los niños en Nochebuena?	Dulce	Presenta	pavo	Ciruelas de azúcar
+266756	Literatura	1	¿Cuál de estos libros de ficción de 1997 fue escrito por John Grisham?	Días de nuestros años	Mujer conductora	Cómo leer un libro	El compañero
+1L05069	Literatura	1	¿Qué novela de suspenso de 2012 trata sobre Nick Dunne y si está involucrado en la desaparición de su esposa?	Objetos afilados	Lugares oscuros	La desaparición	Chica se ha ido
+88196	Literatura	1	¿Para qué se presentan los premios Audie?	Revisores de libros	Novela del año	Excelencia en ingeniería de audio	Excelencia en libros de audio
+231001	Literatura	1	¿La novela de ficción para adultos jóvenes de 2012 "La falla en nuestras estrellas" es la sexta novela de qué autor?	Veronica Roth	Nicholas Sparks	David Levithan	John Green
+1L05041	Literatura	1	¿Quién escribió el libro infantil "The Giving Tree"?	Cemento Hurd	Dr. Seuss	Dav Pilkey	Shel Silverstein
+1L05167	Literatura	1	Robert Louis Stevenson es famoso por escribir ¿cuál de los siguientes?	los viajes de Gulliver	Recuerdo de cosas pasadas	El retrato de Dorian Gray	Isla del tesoro
+1L05185	Literatura	1	¿Ichabod Crane es de qué historia?	Scrooge	El mago de Oz	la web de Charlotte	La leyenda de Sleepy Hollow
+1L05187	Literatura	1	Charles Darwin es mejor conocido como esto?	Líder mundial	Autor	Activista social	Científico
+87720	Literatura	1	¿Cuál es un libro infantil popular de Madeleine L'Engle?	Jacob he amado	Isla de los delfines azules	Johnny Tremain	Una arruga en el tiempo
+139011	Literatura	1	¿Cuál de estos títulos incluye la trilogía de "El señor de los anillos"?	Compañerismo de los hermanos	El Hobbit	Las tres torres	El retorno del Rey
+1L05169	Literatura	1	¿Qué arregla una trama en una historia?	Poner nombres	Descripciones	Rasgos de personaje	Secuencia de eventos
+318223	Literatura	1	¿Qué personaje bíblico se dice que fue creado del polvo de la tierra y del aliento de Dios?	Abrahán	Moisés	Abel	Adán
+1L05209	Literatura	1	¿Quién es el autor de "Las aventuras de Huckleberry Finn"?	Nathaniel Hawthorne	Stephen Crane	Theodore Dreiser	Mark Twain
+1L05179	Literatura	1	¿Quién es el personaje principal de "Lo que el viento se llevó"?	Holden Caulfield	Violet Baudelaire	Bilbo Baggins	Scarlett O'Hara
+1L05055	Literatura	1	¿Qué historia trata sobre una mujer que trata con el jefe del infierno en una revista elegante?	El segundo verano de la hermandad	Doble toque	La interrupción de todo	El diablo viste de Prada
+1L05133	Literatura	1	¿Cuál es el nombre de pila del autor más vendido Woolf?	Enrique	Ricardo	John K.	Virginia
+1L05189	Literatura	1	¿Quién escribió "Salem's Lot"?	Tabitha King	Bret Favre	Clive Barker	Stephen King
+266688	Literatura	1	¿Qué libro más vendido está subtitulado: "La asombrosa historia de un niño pequeño sobre su viaje al cielo y de regreso"?	90 minutos en el cielo	El cielo lo cambia todo	El niño que volvió del cielo	El cielo es real
+518308	Literatura	1	¿Quién es el autor del libro "Orgullo y prejuicio"?	Emily Dickinson	J. K. Rowling	Emily Bronte	Jane Austen
+518281	Literatura	1	¿Cuál de los siguientes no está en la trilogía de romance erótico "Cincuenta sombras" de EL James?	Cincuenta sombras más oscuras	Cincuenta tonos liberados	Cincuenta sombras de Grey	Cincuenta sombras más claras
+1L05197	Literatura	1	¿Quién escribió la novela de suspenso y misterio de 2013 "Inferno"?	Robert Langdon	Tom Hanks	Ron Howard	Dan Brown
+246752	Literatura	1	¿Qué lugar bíblico se dice al punto de partida de diferentes idiomas?	Ciudad de belén	Jardín del Edén	Sodoma y Gomorra	Torre de Babel
+50026	Literatura	1	¿Katniss Everdeen es la protagonista de qué serie de ficción distópica para adultos jóvenes más vendida?	Divergente	El corredor del laberinto	Delirio	Los juegos del hambre
+318226	Literatura	1	¿Cuál de estos libros fue un éxito de ventas de Dan Brown?	La regla de los cuatro	Las cinco personas que conoces en el cielo	Padre Joe	El codigo Da Vinci
+266687	Literatura	2	¿Cuál es el nombre de la idea central en una historia, obra de teatro o poema?	Trama	Alegoría	Personaje	Tema
+359314	Literatura	2	¿Cuál de estos libros de ficción de 1998 fue escrito por Tom Wolfe?	Our Times, vol. yo	Revolución de la dieta del Dr. Atkins	Hombre el desconocido	Un hombre en su totalidad
+373551	Literatura	2	¿Quién es el único autor que ha sido condenado a muerte por su trabajo?	Clive Barker	Steven King	Edgar Allen Poe	Salman Rushdie
+518290	Literatura	2	¿Qué historia trata de apuntar a lo que el autor llama "America Bashers"?	Dia de los Muertos	Punto de engaño	Antes de conocer la bondad	100 personas que están arruinando Estados Unidos
+518287	Literatura	2	¿Quién escribió, "quién controla el pasado, controla el futuro: quién controla el presente, controla el pasado"?	Steven King	Ernest Hemmingway	Mark Twain	George Orwell
+1L05049	Literatura	2	¿Qué novela de ficción de 2012 se desarrolla en una ciudad llamada Pagford y comienza con la muerte de Barry Fairbrother?	El canto del cuco	El gusano de seda	Los cuentos de Beedle el Bardo	La vacante imprevista
+359317	Literatura	2	¿Quién escribió la novela "Finnegans Wake"?	Tracy Stuart	William MacDonald	Flannery O'Connor	James Joyce
+217602	Literatura	2	¿Qué novela de George Orwell comienza con las palabras "Fue un día frío y brillante en abril"?	Mantenga la Aspidistra volando	El camino al muelle de Wigan	Abajo y afuera en París y Londres	1984
+1L05117	Literatura	2	¿Completar el título del libro de 2019 de Caleb Roehrig, "La muerte prefiere ___"?	Loco	Vida	Oscuridad	Rubias
+266710	Literatura	2	¿Quién fue el autor del libro "Bag of Bones?"	Alice Hegan	Don Whitehead	Danielle Steel	Stephen King
+32417	Literatura	2	¿Cómo muere Gatsby en "El gran Gatsby"?	Ataque al corazón	Veneno	Accidente automovilistico	Disparo en su piscina
+20059	Literatura	2	¿En qué período de tiempo se ambienta el libro "Las uvas de la ira" de John Steinbeck?	La guerra revolucionaria	Segunda Guerra Mundial	La guerra civil	La gran Depresión
+518303	Literatura	2	¿Qué causó la histeria el 30 de octubre de 1938 principalmente en el este de Estados Unidos?	Lluvia de meteoritos falsa	Estreno de King Kong	Programa de televisión Twilight Zone	Guerra de las palabras
+1L05043	Literatura	2	¿Qué premio Nobel francés declinó el premio en 1964 "en protesta de la sociedad burguesa"?	Simone de Beauvoir	Marcel Marceau	Albert Camus	Jean-Paul Sartre
+140279	Literatura	2	¿Quién acuñó la frase "Enciende, sintoniza, abandona"?	Tom Wolfe	Ken Kesey	Allen Ginsberg	Timothy Leary
+245876	Literatura	2	¿Cuál de las siguientes es la protagonista femenina de la trilogía de ciencia ficción para jóvenes adultos "Divergente"?	Cassia Reyes	Teresa	Katniss Everdeen	Beatriz Prior
+65819	Literatura	2	¿Qué novela de Diana Gabaldon cuenta la historia de Claire Randall que viaja en el tiempo a la Escocia del siglo XVIII?	El asunto privado	Desnudo vino el fénix	El prisionero escocés	forastero
+246679	Literatura	2	¿Quién fue el autor del libro de ficción más vendido de 1998 "The Street Lawyer"?	Margaret Halsey	María Montessori	Art Linkletter	John Grisham
+1L05067	Literatura	2	¿Qué novela más vendida de 2013 es el cuarto libro de la serie "Robert Langdon"?	Ángeles y demonios	El codigo Da Vinci	El símbolo perdido	Infierno
+518350	Literatura	2	¿Metamorfosis es una novela famosa de qué autor?	James Joyce	William Faulkner	Fyodor Dostoyevsky	Franz Kafka
+3478	Literatura	2	¿A qué estado se mudó la familia Joad en "Las uvas de la ira"?	Oregón	Texas	Oklahoma	California
+1L05061	Literatura	2	¿Dónde escribió JK Rowling la mayor parte de "Harry Potter y la piedra filosofal?"	En el trabajo en su almuerzo	En su máquina de escribir de los 80 en casa	En la biblioteca local	En los cafés de Edimburgo
+1L05151	Literatura	2	¿Quién escribió el libro "The Runaway Jury"?	Betty MacDonald	Irving Wallace	Tom Kavanaugh	John Grisham
+1L05079	Literatura	2	¿Qué novela de ciencia ficción de 2013 para adultos jóvenes completa la trilogía "Divergente"?	Divergente	Sargento	Insurgente	Leal
+139854	Literatura	2	Publicado en 2013, ¿cuál es el decimoctavo libro de la serie "Jack Reacher" escrito por Lee Child?	Un hombre buscado	El asunto	Hazme	Nunca volver
+359406	Literatura	2	¿Qué libro de 2013 escrito por Sheryl Sandberg está subtitulado: "Mujeres, trabajo y voluntad de liderar"?	Asomarse	Reclinarse	Recargarse	Apoyarse en
+1L05091	Literatura	2	¿Qué guerra es el escenario de "Adiós a las armas"?	Guerra hispano Americana	Guerra civil	Segunda Guerra Mundial	Primera Guerra Mundial
+518285	Literatura	2	¿Quién escribió el libro de 1979 "La guía del autoestopista galáctico"?	Zora Neale Hurston	Ayn Rand	Jack London	Douglas Adams
+202435	Literatura	2	¿Quién escribió "Los instrumentos mortales", una serie de novelas de fantasía para jóvenes adultos?	Stephenie Meyer	Veronica Roth	Suzanne Collins	Cassandra Clare
+1L05127	Literatura	2	¿Quién es el autor del libro "El exorcista"?	Ernest Hemingway	Peter Couomo	Agnes Newton Keith	William P. Blatty
+1L05163	Literatura	2	En "Matar a un ruiseñor", ¿a quién se acusa de violar a Tom Robinson?	Newt Gingrich	Jean-Louis Finch	Calpurnia	Mayella Ewell
+246906	Literatura	2	¿Qué libro publicado por Three Rivers Press se refiere a las rarezas del cuerpo humano?	¿Puede guardar un secreto?	Cuerpo Doble	La regla de los cuatro	¿Por qué los hombres tienen pezones?
+24122	Literatura	2	¿Quién fue el autor del libro de ficción de 1995 "The Rainmaker"?	Bess Streeter Aldrich	Zane Grey	John Steinbeck	John Grisham
+1L05177	Literatura	2	Arthur Miller era conocido por ser ¿cuál de los siguientes?	Director de cine	Director de Broadway	Cantante de opera	Dramaturgo
+373596	Literatura	2	En "El señor de las moscas", ¿qué sostienen los niños cuando quieren hablar?	Un personal	Una antorcha	Una lanza	Una caracola
+518342	Literatura	2	¿Qué novela de Markus Zusak narra "Muerte" y se desarrolla en la Alemania nazi?	El diario de una joven	El niño con el pijama de rayas	El Volador de cometas	El ladrón de libros
+1L05125	Literatura	2	¿Qué autor solo fue popular después de su muerte y se casó con su prima hermana?	Walt Whitman	Joe Kennedy	Lenny Bruce	Edgar Allan Poe
+1L05155	Literatura	2	¿De quién es el libro "Born a Crime: Stories from a South African Childhood"?	Dave Matthews	Charlize Theron	Jacob Zuma	Trevor Noah
+1L05015	Literatura	2	El escritor noruego Knut Hamsun ganó el Premio Nobel de Literatura por ¿qué obra monumental?	Las uvas de ira	Matar a un ruiseñor	Demian	El crecimiento del suelo
+1L05011	Literatura	2	¿Qué libro publicado por Washington Square Press trata sobre una adolescente que ayuda a curar la leucemia de su hermana?	La vida con propósito	Vendiendo la Lite Of Heaven	Chicas de playa	El guardián de mi hermana
+518307	Literatura	2	¿Qué autor enseñó en Harvard mientras trabajaba como astrofísico?	Isaac Newton	Stephen Hawking	Albert Einstein	Carl Sagan
+1L05203	Literatura	2	¿Quién escribió "En el pulso de la mañana" para la toma de posesión de Clinton?	Rita Dove	Robert Frost	Chelsea Clinton	Maya Angelou
+80945	Literatura	2	¿Qué novela de 2013 de Stephen King es una secuela de su novela de 1977 "El resplandor"?	Nudo verdadero	El sombrero	El vapor	Doctor sueño
+347751	Literatura	2	En "El señor de las moscas", ¿cuál es el nombre del chico corpulento?	Eric	Tim	Ralph	Cerdito
+1L05077	Literatura	2	¿Qué filosofía predicó el Dr. Timothy Leary en los años 60?	Dar la vuelta, abandonar, comer cacahuetes	Encender, sintonizar, rebobinar	Sintonice, relájese, relájese	Encienda, sintonice, salga
+1L05101	Literatura	2	En "Hamlet", ¿quién llamó a Hamlet para ir a duelo con Laertes?	Omar	Oscar	Ofelia	Osric
+1L05027	Literatura	2	¿Qué libro más vendido trata sobre una hermosa escaladora social que quiere triunfar en la gran ciudad?	Viste a tu familia con pana y mezclilla	La boda	El guardián de mi hermana	Subiendo
+266755	Literatura	2	¿Por qué es famoso Louis L'Amour?	Editando Romances	Libros de cocina	Crítica de arte	Escribiendo Westerns
+245904	Literatura	2	¿Cómo se llama el lenguaje peculiar en "Mil novecientos ochenta y cuatro"?	Bureaucratese	Diciendo la verdad	Verbos de pensamiento	Hablar doble
+1L05199	Literatura	2	¿Qué best-seller de 2012 es la primera novela JK Rowling para lectores adultos?	El canto del cuco	El gusano de seda	Los cuentos de Beedle el Bardo	La vacante imprevista
+3480	Literatura	2	¿Cuál es la verdadera historia de una familia judía separada al comienzo de la Segunda Guerra Mundial?	Vendido un lunes	El secreto de una madre	Gracia ordinaria	Fuimos los afortunados
+518297	Literatura	2	¿Qué autor inglés escribió "Los cuentos de Canterbury"?	Lord Byron	Charles Dickens	John Milton	Geoffrey Chaucer
+38127	Literatura	2	¿Cuál es el título de las memorias de la estrella de "Queer Eye", Tan France?	Naturalmente bonita	Francia naturalmente	Naturalmente hambriento	Naturalmente bronceado
+359220	Literatura	2	¿Qué libro más vendido es sobre un actor que busca a su misterioso padre?	Grito final	100 personas que están arruinando Estados Unidos	1776	Hasta que te encuentre
+359320	Literatura	2	¿Quién escribió la novela de 2013 "Alex Cross, Run", que es la vigésima novela de la serie Alex Cross?	John Grisham	Michael Connelly	David Baldacci	James Patterson
+347752	Literatura	2	¿Quién hace cumplir las leyes del crimen de pensamiento en "Mil novecientos ochenta y cuatro"?	Caballeros del pensamiento	Agentes de ideas	Grandes alguaciles	Policía del pensamiento
+1L05131	Literatura	2	¿Quién es el autor de "Of Human Bondage"?	Francis Bacon	William Shakespeare	William Wordsworth	William Somerset Maugham
+318285	Literatura	2	¿Quién escribió el libro de ciencia ficción "Foundation"?	Robert A. Heinlein	Roger Zelazny	Frederik Pohl	Isaac Asimov
+1L05123	Literatura	2	¿Quién escribió el libro "El socio"?	John Gunther	Alex Haley	James A. Michener	John Grisham
+518280	Literatura	2	En "Flores para Algernon", ¿quién es Algernon?	El neurocirujano	La paloma	El conserje tonto	El ratón
+93106	Literatura	3	En el libro "Aún soy yo", ¿cuál es el nombre completo del abuelo de Louisa?	William Louis Clark	Jack Louis Johnson	Alfred John Clark	Albert John Compton
+518371	Literatura	3	¿Quién escribió el libro "El martillo de Lucifer"?	HG Wells	Alfred Bester	William Gibson	Niven y Pournelle
+268999	Literatura	3	¿Cuántos cónclaves se celebran cada año, en el libro "Thunderhead"?	1	2	3	4
+246067	Literatura	3	¿Qué novela de 2013 de John Grisham presenta a Jake Brigance como personaje principal?	El mafioso	Montaña gris	Calico Joe	fila sicómoro
+268858	Literatura	3	¿Cuál es el título del quinto libro de la serie "Memory Man"?	Convirtiéndose	Historias del mar	Juego de piel	Redención
+518332	Literatura	3	¿Qué novela histórica de 2014 de Sue Monk Kidd cuenta la historia de dos mujeres unidas como amante y esclava?	El jilguero	El secreto del marido	Bodegón con pan rallado	La invención de las alas
+202378	Literatura	3	¿Cuál de las siguientes obras de teatro fue escrita por Eugene O'Neill?	Estrellas del porno en casa	Edward mi hijo	Muerte de un vendedor	El hombre de hielo viene
+257842	Literatura	3	¿Qué novela de 2013 de Donna Tartt es una historia en primera persona de Theodore Decker, un marchante de arte?	El pequeño amigo	La historia secreta	Las luminarias	El jilguero
+359389	Literatura	3	Myths and Mortals de Charlie N. Holmberg es el número 2 en la trilogía de Numina, ¿cuál es el título del primer libro?	Asedio y sacrificio	Palabras y voces	Sal y sacrificio	Humo y convocatoria
+269004	Literatura	3	¿Cuántas páginas contiene el libro "Leah on the Offbeat"?	1243	780	120	343
+1L05119	Literatura	3	Primero es una biografía escrita por Evan Thomas, ¿de quién se trata?	Barack Obama	George Washington	Mark Spitz	Sandra Day O'Connor
+1L05039	Literatura	3	¿Cuál es el género de la novela más vendida de 2019 "El paciente silencioso"?	Romance	Crimen	Guerra	Misterio Thriller
+518333	Literatura	3	En el libro "Thunderhead", ¿cuál es el nombre de la guadaña que se cree que está muerta?	Honorable guadaña	Guadaña farday	Farday	Honorable guadaña Faraday
+3469	Literatura	3	¿Cuál de estos libros de ficción de 1903 fue escrito por Mary Augusta Ward?	Autobiografía con letras	Por amor poseído	La carga de la prueba	Hija de Lady Rose
+90866	Literatura	3	Buscando a Stevie: un oscuro secreto. ¿Qué autor escribe un niño en crisis?	Tara Westover	Frances Mayes	Ryan Becker	Cathy Glass
+1L05071	Literatura	3	¿Cuál de estos libros de no ficción de 1997 fue escrito por John Berendt?	La pared	Dieta y salud	La mente en la fabricación	Medianoche en el jardín del bien y del mal
+1L05181	Literatura	3	¿Qué novela de suspenso legal más vendida en 2012 fue escrita por John Grisham?	Chica se ha ido	Matar a Lincoln	Vector de amenaza	El mafioso
+269041	Literatura	3	¿Cuál fue el secreto de Yrene, en este libro "Kingdom of Ash"?	Ella es valg	Ella es una sanadora	Ella es la hija perdida de Rowan	Ella está embarazada
+70573	Literatura	3	¿Quién fue el autor de los libros de ficción  "sobre Jason Bourne?	HG Wells	Gregg Hurwitz	Bryan Cassiday	Robert Ludlum
+518324	Literatura	3	¿La novela de 2013 "Sycamore Row" de John Grisham es una secuela directa de cuál de sus novelas?	El mafioso	Montaña gris	El informe Pelícano	Tiempo de matar
+89393	Literatura	3	¿Qué novela de 2013 de Charlaine Harris es la decimotercera novela de la serie "The Sookie Stackhouse"?	Punto muerto	Dead Reckoning	Muerto y olvidado	Muerto para siempre
+139422	Literatura	3	En "El sabueso de los Baskerville", ¿cómo murió Charles Baskerville?	Disparo de arma	Empujado por una ventana	Herida por apuñalamiento	Ataque al corazón
+266701	Literatura	3	¿Quién escribió el libro "Starship Troopers"?	Philip Jose Farmer	Kurt Vonnegut	Orson Scott	Robert A Heinlein
+140273	Literatura	3	¿Cuál es el libro más vendido sobre una pareja joven que descubre el tráfico de drogas y el asesinato en una ciudad fronteriza?	Parque lunar	Grito final	Amigos absolutos	No es país para viejos
+269030	Literatura	3	¿Quién escribió las memorias militares de 2012 "No Easy Day"?	Chris Kyle	Patrick Robinson	Marcus Luttrell	Mark Owen
+518364	Literatura	3	¿Qué autor estadounidense del siglo XX fue famoso como deportista?	Edith Wharton	Jack London	Joseph Heller	Ernest Hemingway
+268859	Literatura	3	¿Qué género de novela de 2019 "El paciente silencioso"?	occidental	Romance	Hhistórico	Thriller psicológico
+1L05121	Literatura	3	¿Cuál es el título del libro 3 de George RR Martin "Canción de hielo y fuego"?	Una tormenta de barcos	Una tormenta de hielo	Tormenta de espinas	Una tormenta de espadas
+90185	Literatura	3	¿Qué autor escribió la novela de ficción de 2014 "El testigo perfecto"?	Catherine Coulter	Kay Hooper	Lisa Jackson	Iris Johansen
+27119	Literatura	3	¿Cuál de estos libros de ficción de 1914 fue escrito por Eleanor H. Porter?	Diario de Guadalcanal	Anatomía de un asesinato	Vale la pena vivir la vida	Pollyanna
+140307	Literatura	3	¿Completar el título del libro de Melinda Gates "El momento de ___"?	Riqueza	Visión	zen	Ascensor
+62083	Literatura	3	En "The Outsiders" de SE Hinton, ¿qué libro pide Johnny mientras está en el hospital?	Matar a un ruiseñor	Un cuento sobre dos ciudades	El gran Gatsby	Lo que el viento se llevó
+1L05135	Literatura	3	The Kingdom of Copper es el segundo libro en qué trilogía?	La trilogía del clarividente	La trilogía del tapiz de Fionavar	La trilogía de la herencia	La trilogía de Daevabad
+139890	Literatura	3	¿Cuál de estos libros de no ficción de 1925 fue escrito por Bruce Barton?	El cliente	Aeropuerto	Elvis y yo	El hombre que nadie conoce
+1L05191	Literatura	3	Carl Sandburg es generalmente conocido por ser ¿cuál de los siguientes?	Guionista	Compositor	Periodista	Poeta
+359387	Literatura	3	En la novela "Reina del aire y la oscuridad", ¿quién mata a Sebastián en Thule?	Ceniza	Jace	Julian	Emma
+3521	Literatura	3	¿Cuál es el nombre de pila del autor más vendido Tyler?	Don	Juan	Flannery	Ana
+359357	Literatura	3	¿Toni Morrison escribió qué clásico en 1969?	Donde los ángeles temen pisar	La gente común	Sra. Dalloway	El ojo más azul
+90859	Literatura	3	¿Qué libro, publicado por Viking, trata sobre una mujer que regresa a casa después de que su madre comete un acto violento?	Tu mejor vida ahora	Dentro de la mente de Scott Peterson	Dia de los Muertos	La silla de la sirena
+518358	Literatura	3	¿Quién escribió el libro de ciencia ficción "Downbelow Station"?	Greg Bear	Connie Willis	Walter M. Miller	CJ Cherryh
+518370	Literatura	3	¿Cuántos libros de Nicholas Sparks precedieron a su novela romántica de 2013 "The Longest Ride"?	10	14	12	dieciséis
+25706	Literatura	3	La ganadora del Premio Nobel Pearl S. Buck escribió ¿bajo qué seudónimo masculino?	John Henry	DH Lawrence	George Eliot	John Sedges
+347755	Literatura	3	¿Gregor Samsa es el personaje principal en cuál de los siguientes cuentos de Franz Kafka?	La Colonia Penal	Granero en llamas	Bartleby el escribiente	La metamorfosis
+518328	Literatura	3	¿Cuál es la secuela de 2011 de la novela para adultos jóvenes de Gayle Forman "If I Stay"?	Antes de morir	Buscandola a ella	Antes de caer	Adónde fue
+347741	Literatura	3	¿Quién escribió "Un pasaje a la India"?	Salman Rushdie	James M. Barrie	Jack London	EM Forster
+89648	Literatura	3	¿Quién le presta dinero a Willy Loman en "Death of a Salesman"?	Su esposa	Su pastor	Su padre	Su vecino
+186919	Literatura	3	¿Qué es una novela de suspenso político de Tom Clancy y Mark Greaney publicada póstumamente en diciembre de 2013?	Vector de amenaza	Encerrado en	Vivo o muerto	Autoridad de mando
+92710	Literatura	3	El trabajo final de Ernest Hemingway publicado durante su vida fue?	Una fiesta movible	Islas en el arroyo	Al otro lado del río y entre los árboles	El viejo y el mar
+269010	Literatura	3	¿Cuál no es un libro para niños escrito por Judy Blume?	Grasa de ballena	Superfudge	Jugo de pecas	Sarah, llana y alta
+268955	Literatura	3	En la novela "The Fever King", ¿cuál es la habilidad de Noam?	Controla los elementos	Mentes de control	Animales de control	Tecnología de control
+518329	Literatura	3	Daisy Jones & The Six es una novela de 2019 sobre ¿qué?	Huérfanos	Política	magia	Rock and roll
+3439	Literatura	3	¿Quién es la novela juvenil de 2019 "On the Come Up" escrita por?	Casey Cep	Taylor Jenkins	David Brooks	Angie Thomas
+359422	Literatura	3	En la novela "Ruido blanco" de Don Delillo, ¿Jack Gladney está fatalmente infectado por qué?	VIH	Señales de televisión	Dylorama	Evento tóxico en el aire
+518326	Literatura	3	¿JD Salinger y qué escritor creen algunos como uno y el mismo?	Trevanian	Kurt Vonnegut, Jr.	Will Self	Thomas Pynchon
+91035	Literatura	3	¿Cuál es la segunda novela de la serie "John Puller" de David Baldacci y fue lanzada en 2012?	El golpe	Hora de juego	Los coleccionistas	El olvidado
+88208	Literatura	3	¿Cuál de estos libros de ficción de 1922 fue escrito por Booth Tarkington?	Dinero estrella	Una sombra de diferencia	Cortina	Dulce Julia
+518360	Literatura	3	Otto Frank publicó los diarios de su hija Anne ¿en qué año (la versión en inglés se publicó años después)?	1958	1944	1952	1947
+518362	Literatura	3	¿Quién eligió al nuevo cónsul en la novela "Reina del aire y las tinieblas"?	Maryse Lightwood	Diana Wrayburn	Aline Penhallow	Alec Lightwood
+13W9614	Literatura	3	¿La era de los desencantos de Aaron Shulman se desarrolla durante qué guerra?	Guerra de 1812	Primera Guerra Mundial	guerra de Vietnam	guerra civil Española
+89670	Literatura	3	¿Joan la Pucelle (también conocida como Juana de Arco) aparece como personaje en qué obra?	Enrique V	Enrique VI, Parte 3	Enrique IV, Parte 1	Enrique VI, Parte 1
+74859	Literatura	3	¿Quién escribió el libro "Grey Lensman"?	Hal Clement	Alfred Bester	Daniel Keyes	EE "Doc" Smith
+45513	Literatura	3	Life Will Be the Death of Me trata sobre y escrito por quién?	Bette Midler	Wanda Sykes	Kathy Griffin	Chelsea Handler
+256572	Literatura	3	¿Quién escribió el libro "Rainbow Six"?	Richard Bach	Stephen King	Howard Stern	Tom Clancy
+269015	Literatura	3	¿Qué libro de 2012 es el tercero de la serie "Los héroes del Olimpo" escrita por Rick Riordan?	El héroe perdido	El hijo de neptuno	La sangre del Olimpo	La marca de Atenea
+1L05083	Literatura	3	¿Cuál es el nombre del autor del New York Times que escribió "King of Scars" en 2019?	Fabi Ghittoni	Brigid Kemmerer	Holly Black	Leigh Bardugo
+1L05099	Literatura	3	¿Qué periodista fue el primero en infiltrarse en Hell's Angels?	Edward R. Murrow	Peter Jennings	Geraldo Rivera	Hunter S. Thompson
+258634	Literatura	3	¿Quién escribió el libro de ciencia ficción "Un caso de conciencia"?	Niven y Pournelle	Neal Stephenson	Frank Herbert	James Blish
+139782	Literatura	3	¿Quién escribió el bestseller "Espantapájaros"?	Mark Leyner y Billy Goldberg	James Patterson y Andrew Gross	Dan Brown	Matthew Reilly
+1L05149	Literatura	3	¿Qué autor escribió la trilogía "Divergente" de ciencia ficción para jóvenes adultos?	Suzanne Collins	Cassandra Clare	Shailene Woodley	Veronica Roth
+1L05153	Literatura	3	¿Quién es el autor del libro de 2018 "Leah on the Offbeat"?	Vi Keeland	christina mcdonald	Lisa Scottoline	Becky Albertalli
+373566	Literatura	3	¿Cuál de estos libros de no ficción de 1952 fue escrito por Jack Lait y Lee Mortimer?	Rimas de un hombre de la Cruz Roja	La liberación	Cómo prosperar durante los malos años venideros	EE.UU. confidencial
+246928	Literatura	3	¿Qué autor escribió la novela romántica de 2013 "El secreto del marido"?	Gillian Flynn	Emily Giffin	Jojo Moyes	Liane Moriarty
+518341	Literatura	3	¿Qué guerra es el escenario de 'Bugs and Bullets'?	Guerra de 1812	Guerra civil estadounidense	guerra de Vietnam	Primera Guerra Mundial
+1L05023	Literatura	3	¿Quién es el escritor de la novela “The Tale Teller”?	Roamn Senchin	Alexander Genis	María Stepanova	Anne Hillerman
+269011	Literatura	3	¿Qué color de vestido usó Elain en la coronación de Aelin en el libro "Kingdom of Ash"?	Balck	Rosado	Blanco	Lila
+366516	Literatura	3	¿Cuál de los siguientes contiene el "Libro de los muertos del Antiguo Egipto"?	Mapas	Recetas	Pociones	Hechizos
+518282	Literatura	3	¿Qué ingrediente no se usa en el brebaje de las brujas de "Macbeth"?	Dedo de bebé estrangulado por el nacimiento	Pata de lagarto y ala de mochuelo	Hígado del judío blasfemo	Lengua de la jirafa africana
+518336	Literatura	3	¿Qué poeta famoso hizo un recorrido a pie por Francia y Suiza, antes de establecerse en Inglaterra con su hermana?	Robert Walden	Percy Shelley	Henry Wadsworth Longfellow	William Wordsworth
+359224	Literatura	3	¿Cómo muere Bonnie en "Lo que el viento se llevó"?	Sarampión	Tifoidea	Golpeado por un carro	Se cae de un caballo
+359335	Literatura	3	¿Qué autor famoso poseía el cuadro de Joan Miró "La Granja"?	André Breton	Carl Jung	Henry Miller	Ernest Hemingway
+359367	Literatura	3	¿Qué es el libro "Smash!" ¿acerca de?	Chefs en París	Broadway	Último combate	Música punk de los noventa
+1L05065	Literatura	3	The Big Fella es una biografía sobre qué atleta?	Ted Williams	Joe Frazier	Tiger Woods	Babe Ruth
+246927	Literatura	3	¿Qué libro de la trilogía "Divergente" está escrito desde la perspectiva de Tris y Four?	Divergente	Sargento	Insurgente	Leal
+76182	Literatura	3	¿Quién escribió el libro "Abundancia simple"?	John Hersey	Jacqueline Susann	Walter D. Edmonds	Sarah Breathnach
+1L05047	Literatura	3	¿De qué género es la novela de 2019 "Neon Prey"?	Biografía	Ciencia ficción	Romance	Misterio Thriller
+90865	Literatura	3	¿Cuál es el octavo libro de la serie "Dork Diaries" de Rachel Renee Russell, publicada en 2014?	Cuentos de una estrella de televisión no tan glamorosa	Cuentos de una señorita no tan inteligente sabelotodo	Cuentos de una princesa de hielo no tan elegante	Cuentos de un no tan feliz para siempre
+518373	Literatura	3	¿Qué memorias de 2013 están subtituladas: "La historia de la niña que defendió la educación y fue baleada por los talibanes"?	La razón por la que salto	Intacto	David y Goliath	Yo soy malala
+67718	Literatura	3	¿Cuál fue el poder mágico de Zulaikha, en la novela "Hijos de sangre y hueso"?	Encendedor	Vidente	Devanadera	Curador
+518368	Literatura	3	A finales de 2018, Vi Keeland publicó su libro best seller, ¿cómo se llamaba el libro?	Traje atascado	Jefe	Julia Quinn	Notas de odio
+359331	Literatura	3	¿Quién escribió el libro "Los 9 pasos hacia la libertad financiera"?	Scott Turow	Negley Farson	HG Wells	Suze Orman
+269034	Literatura	3	¿Qué autor escribe "David y Goliat: desamparados, inadaptados y el arte de luchar contra gigantes" de 2013?	Seth Godin	Michael Lewis	Daniel H. Pink	Malcolm Gladwell
+1L05175	Literatura	3	¿Quién escribió el libro "Mami querida"?	Gail Sheehy	Ely Culbertson	Alex Comfort	Christina Crawford
+269012	Literatura	3	En el libro "El Príncipe Cruel", ¿qué pueden hacer los mortales que las hadas no pueden?	Engañar	Truco	Patada	Mentir
+269032	Literatura	3	¿Quién escribió la obra en la que se basó la película "About Last Night"?	Samuel Beckett	Neil Simon	Susan Sontag	David Mamet
+266751	Literatura	3	¿Qué novela de 2012 de David Baldacci cuenta la historia de un asesino a sueldo que se niega a trabajar y luego se convierte en un objetivo?	El golpe	Diana	El objetivo	El inocente
+15443	Literatura	3	¿Cuál es una novela adolescente de 2019 de Jennifer Dugan?	Pizza Niños	Chico hamburguesa	Taco Kid	Chica perrito caliente
+62086	Literatura	3	¿En qué motel se alojaban Celestial y Roy cuando Roy fue arrestado, en "An American Marriage"?	Posada del bosque de pinos	Posada Piney Hills	Posada de colinas agradables	Posada de Piney Woods
+139488	Literatura	3	¿Cuál es la habitación más temida de "Mil novecientos ochenta y cuatro"?	Sala 666	Sala de fin de línea	Guarida del Gran Hermano	Habitación 101
+246775	Literatura	3	¿Cuál de los siguientes géneros literarios describe una historia de "mayoría de edad"?	Novela epistolar	Roman A Clef	Obras de juventud	Bildungsroman
+359420	Literatura	3	¿Quién escribió "Utopía"?	William James	William Blake	John Milton	Thomas More
+518325	Literatura	3	En "Tiempos difíciles" de Charles Dickens, ¿cómo se llamaba el perro del circo?	Bandylegs	Piernas divertidas	Happylegs	Merrylegs
+268959	Literatura	3	¿Qué historia trata sobre un casamentero que intenta encontrar la esposa perfecta para un cliente?	Las cinco personas que conoces en el cielo	El codigo Da Vinci	El guardián de mi hermana	Emparejame si puedes
+3451	Literatura	3	¿Qué novela de 2014 de Sandra Brown sigue la historia de un pediatra que desaparece en un camino de montaña?	La llave perdida	El objetivo	Frío frío corazón	Mean Streak
+359265	Literatura	3	¿Quién escribió el libro de ciencia ficción "Which Immortal"?	Alfred Bester	Ursula K Le Guin	Iain M Banks	Roger Zelazny
+359368	Literatura	3	¿En qué año se convirtió "Eben Holden", escrito por Irving Bacheller, en el libro de ficción más vendido?	1922	1940	1977	1900
+22151	Literatura	3	¿Cuál de los siguientes no es una mujer?	Harper Lee	Carson McCullers	Flannery O'Connor	Evelyn Waugh
+86000	Literatura	3	¿Qué escritor famoso abandonó la escuela secundaria y trabajó como empleado de oficina para "The New Yorker"?	Stephen King	Ray Bradbury	Clive Barker	Truman Capote
+218542	Literatura	3	¿Qué libro de 2014 escrito por James Patterson y Michael Ledwidge es el séptimo de la serie "Michael Bennett"?	Ido	TIC Tac	Peor de los casos	Quemar
+139369	Literatura	3	Lifeguard es publicado por Little, Brown, ¿quién lo escribió?	Ian Caldwell y Dustin Thomason	Lisa Jackson	Michael Roizen y Mehmet Oz	James Patterson y Andrew Gross
+139686	Literatura	3	En el libro de fantasía de 2019 "Middlegame" de Seanan McGuire, ¿cómo se llaman los gemelos?	Noche y dia	Resbaladizo y flojo	Sam y Sally	Roger y Dodger
+518330	Literatura	3	¿Qué le sucede a Piggy en "El señor de las moscas"?	Él atrapa la plaga	Se ahoga	Lo apuñalan con una lanza	Lo mata una roca
+518347	Literatura	3	¿Cuál es el nombre del protagonista de la novela de fantasía "La ruina de los reyes"?	Azariel	Erupción	Locran	Kihrin
+518277	Literatura	3	¿Cuál de estos libros de no ficción de 1995 fue escrito por Deepak Chopra?	Sir Mortimer	La miseria es una cita a ciegas	El día del chacal	Las siete leyes espirituales del éxito
+268968	Literatura	3	¿Cuál es el nuevo nombre de Lorcan, en la novela "Kingdom of Ash"?	Extra L	Lady Lorcan	Rayo de luna de Lorcan	Loed Lorcan Lochan
+359424	Literatura	3	¿Qué autor fue vestido y tratado de niña por su madre?	Jack Kerouac	Tennessee Williams	Truman Capote	Ernest Hemingway
+266722	Literatura	3	¿Quién escribió el libro "La ciudad y las estrellas"?	Tarjeta Orson Scott	CJ Cherryh	Gregory Benford	Arthur C. Clarke
+359339	Literatura	3	Edward Albee escribió esta famosa obra de teatro en los años sesenta	Los inadaptados	Desayuno en Tiffany's	Chica divertida	¿Quién le teme a Virginia Woolf?
+518337	Literatura	3	¿Qué novela de 2013 de Sylvia Day es la tercera de la serie "Crossfire"?	Reflejado en ti	Desnudo para ti	Cautivado por ti	Enredado con vos
+359333	Literatura	3	El personaje de Washington Irving, Ichabod Crane, tenía pies en forma de ¿qué?	Tablas de lavar	Calabazas	Cucharones	Palas
+366548	Literatura	3	¿En qué novela de William Faulkner es "Mi madre es un pez" un capítulo entero?	El sonido y la furia	El viejo y el mar	Santuario	Mientras agonizo
+246814	Literatura	3	¿Qué libro de 2013 está subtitulado: "Nueve estadounidenses y su épica búsqueda de oro en los Juegos Olímpicos de Berlín de 1936"?	Un verano	El desenrollado	La luz entre océanos	Los chicos en el barco
+366519	Literatura	3	¿Dónde se reunían los miembros del "Saturday Club" (que incluía a Emerson, Longfellow y Oliver Wendell Holmes)?	Eldridge Hotel, Lawrence, Kan	Madden's en el lago Gull, Brainerd, Minnesota	The Algonquin, Nueva York	Omni Parker House Hotel, Boston
+359417	Literatura	3	¿Quién escribió "Doce años de esclavitud", un relato de memorias y esclavos?	Steve McQueen	Chiwetel Ejiofor	Frederick Douglass	Solomon Northup
+151364	Literatura	3	¿Qué libro clásico tiene la cita "Fui forastero en tierra extraña"?	La aventura de Huckleberry Finn	La letra escarlata	El viejo y el mar	La biblia
+139512	Literatura	3	¿La Guía del autoestopista galáctico trataba de quién?	John Smith y Benjamin Diaz	George Lutz y Billy Lutz	Smiley y el sargento. Jake Roenick	Arthur Dent y Ford Prefect
+1L05025	Literatura	3	¿Qué novela infantil de 2013 es el octavo libro de la serie "Diario de un niño debilucho"?	Diario de un niño debilucho: Reglas de Rodrick	Diario de un Chico en Problemas: Días de Perros	Diario de un niño debilucho: fiebre de cabina	Diario de un niño debilucho: mala suerte
+266728	Literatura	3	¿De quién fue Scrooge un aprendiz en "Cuento de Navidad"?	Viejo Joe	Marley	Peter Cratchit	Fezziwig
+92126	Literatura	3	¿En qué año murió la famosa autora de misterio Agatha Christie?	1996	1944	1906	1976
+1L05097	Literatura	3	Prism Cloud de Jeff Wheeler es la cuarta entrega en qué trilogía?	Trilogía Empirium	Trilogía Winternight	Trilogía Sky Bringer	Trilogía del heraldo
+3433	Literatura	3	¿En qué año publicó Charles Darwin su primer trabajo explicando la teoría de la selección natural?	1899	1920	1805	1858
+139458	Literatura	3	¿Cuál fue el arma que utilizó el joven en el cuento de Stephen King "El hombre que amaba las flores"?	Una pistola	Un hacha	Un cuchillo de carnicero	Un martillo
+518349	Literatura	3	¿Dónde está ambientada la historia de "Cold Waters"?	Australia	Wyoming	Canadá	Alabama
+266733	Literatura	3	En la novela "An American Marriage", ¿qué tipo de automóvil conducía Big Roy?	Cadillac	Caza	Camry	Chrysler
+518344	Literatura	3	¿Qué novela de Nicholas Sparks cuenta la historia de dos ex novios de secundaria que se reencuentran 25 años después?	El viaje mas largo	Refugio seguro	El afortunado	Lo mejor de mi
+3562	Literatura	3	La novela de 2019 "On the Come Up" está ambientada en el mismo universo que ¿qué novela de 2017?	El silbador	Año uno	Si bajas al bosque	El odio que das
+518355	Literatura	3	¿En qué ciudad de Estados Unidos se desarrolla la novela "Cemetery Road"?	Alabama	Arizona	Georgia	Misisipí
+1L05103	Literatura	3	¿Quién fue el autor del libro "Las cenizas de Ángela"?	James A. Michener	Frank Norris	Alex Comfort	Frank McCourt
+518356	Literatura	3	En el libro "Still yo", ¿qué le pide Agnes a Steven Lipkott?	Un póster	Un poema	Una canción	Un garabato
+257956	Literatura	3	¿Qué novela policíaca de 2013 JK Rowling presenta a Cormoran Strike, un investigador privado?	El jilguero	Las luminarias	El secreto del marido	El canto del cuco
+266727	Literatura	3	¿Cuál de las siguientes cosas quiere Judas en un momento u otro, en el libro "El Príncipe Cruel"?	Hada	Un caballero	Más mortal que sus enemigos	Todas
+269035	Literatura	3	¿Cuál es el decimotercer título de la serie "Gabriel Allon" de Daniel Silva que se estrenó en julio de 2013?	El ángel caído	Retrato de un espía	El atraco	La chica inglesa
+266715	Literatura	3	¿Cuál es el nombre del protagonista de la novela romántica de 2019 "El señor"?	Walden Martin	Elliott Stricter	David Sanderson	Maxim Trevelyan
+373541	Literatura	3	En la novela de 2019 "One Word Kill", ¿quién es la nueva chica que se une al grupo de amigos?	maya	Dalia	Billie	Mia
+518339	Literatura	3	¿Qué hotel sirvió de inspiración para la exitosa novela "Hotel" de Arthur Hailey?	Omni Parker House Hotel, Boston	Hotel Pattee, Perry, Iowa	Hotel Winneshiek, Decorah, Iowa	Fairmont Hotel, Nueva Orleans
+26553	Literatura	3	¿De quién trata el libro "Lady First"?	Melania Trump	Martha Washington	Barbara Bush	Sarah Polk
+90965	Literatura	3	En la novela "An American Marriage", ¿cuál era el apodo del hijo de Davina?	Vicky	Sombrerero	Hipopótamo	Tolva
+266731	Literatura	3	¿Quién escribió el libro de ciencia ficción "Las fuentes del paraíso"?	Philip Jose Farmer	Kim Stanley Robinson	Robert A. Heinlein	Arthur C. Clarke
+518321	Literatura	3	¿Cuáles son los nombres de los monstruos enemigos retratados por Shoichi Hirose en "King Kong Escapes"?	Mechani-Kong y Mogera	Gorosaurus y Angilas	Mechani-Kong y Mechagodzilla	Gorosaurus y Mechani-Kong
+518284	Literatura	3	¿Quién escribió el libro "Un hombre en su totalidad"?	Norman F. Dacey	Bill Cosby	Victor Heiser	Tom Wolfe
+89045	Literatura	3	¿Cuál era el nombre de la plantación de Ashley en "Lo que el viento se llevó"?	Vista al lago	Fair Oaks	Mimosa	Doce robles
+1L05093	Literatura	3	¿Completar el título de este libro de Camille Pagan, "Estoy bien y ninguno ____ ____"?	Soy yo	Es él	Son ellos	Eres tú
+1L05089	Literatura	3	Doctor Who: ¿Qué alumno de "Doctor Who" escribió Scratchman?	Christopher Eccleston	David Bradley	Peter Davison	Tom Baker
+518293	Literatura	3	¿Quién fue galardonado con el Premio Nobel de Literatura en 1954?	Gertrude Stein	Shakespeare	Pablo Picasso	Ernest Hemingway
+518345	Literatura	3	¿Cuántas "reinas muertas" hay en el título del libro de Astrid Scholte sobre Keralie Corrington?	Siete	Uno	Veinte	Cuatro
+269031	Literatura	3	¿Cuál es la novela debut de 2012 de ML Stedman que se desarrolla en Australia de 1918?	Yo antes de ti	¿A dónde fuiste, Bernadette?	Hermosas ruinas	La luz entre océanos
+268965	Literatura	3	En la novela "Reina del aire y la oscuridad", ¿quién era la madre de Kit?	La Reina Seelie	Tessa Herondale carstairs	Cecily Heondale	Aurelia Herondale
+139812	Literatura	3	¿Qué novela de 2012 de RJ Palacio cuenta la historia de August Pullman, que nació con una deformidad facial?	Carnaval	Lirio de tigre	Río	Preguntarse
+518278	Literatura	3	¿Quién escribió la biografía de Alice B. Toklas?	Eudora Welty	Alice B. Toklas	Mary Ann Evans	Gertrude Stein
+518363	Literatura	3	En "The Wasteland", ¿qué mes llama TS Eliot "el más cruel"?	Mayo	enero	febrero	abril
+347746	Literatura	3	¿Quién escribió el libro "Las puertas de Anubis"?	Lois McMaster	James Blish	Isaac Asimov	Tim Powers
+373540	Literatura	3	¿La película "La vida de este niño" se basó en la vida de qué autor?	JD Salinger	William Shakespeare	VC Andrews	Tobias Wolff
+73878	Literatura	3	¿Quién es el autor del libro "Gorky Park"?	Taylor Caldwell	Douglas Fairbanks	Edgar Hoover	Martín Cruz Smith
+139590	Literatura	3	¿Cuál de estos libros de ficción de 1942 fue escrito por John Steinbeck?	La fuente	Vivir, amar y aprender	El fin del río	La luna esta abajo
+28050	Literatura	3	¿Quién es Lotus en "La buena tierra"?	Tía de Wang Lung	Hermana de Wang Lung	Hija de Wang Lung	Concubina de Wang Lung
+266694	Literatura	3	¿Quién escribió el libro de ciencia ficción "Hyperion"?	David Brin	Robert A. Heinlein	Margaret Atwood	Dan Simmons
+184427	Literatura	3	¿Qué poetas famosas fueron ambas estudiantes, en la misma clase, de Robert Lowell?	Bukowski y Vonnegut	Mayo Sarton y Elizabeth Bishop	Jane gentry y toni morrison	Sylvia Plath y Anne Sexton
+246916	Literatura	3	¿Cuál de estos libros de ficción de 1910 fue escrito por Winston Churchill?	El rancho	La mujer del teniente francés	Una rabia por vivir	Una crónica moderna
+140292	Literatura	3	¿Cuál de estos libros de ficción de 1948 fue escrito por Norman Mailer?	Eat To Win: La Biblia sobre nutrición deportiva	Enterrar mi corazón en Wounded Knee	Hija de Mistral	El desnudo y el muerto
+272177	Literatura	3	Publicada en 2013, ¿cuál es la tercera novela del autor afgano-estadounidense Khaled Hosseini?	El Volador de cometas	Mil soles espléndidos	La culpa del superviviente	Las montañas produjeron eco
+246930	Literatura	3	¿Cuál es el título de la novela escrita por Cassandra Clare que se publicó a finales de 2018?	Otros mundos	Ciudad de huesos	Ciudad de vidrio	Reina del aire y la oscuridad
+518279	Literatura	3	¿En qué año "The Virginian", escrito por Owen Wister, se convirtió por primera vez en un libro de ficción popular?	1978	1979	1936	1902
+518365	Literatura	3	¿Cuál de las novelas de 007 de Ian Fleming se vendió por primera vez en los EE. UU. Como "Demasiado caliente para manejar"?	Dr. No	Solo vives dos veces	Casino Royale	Moonraker
+1L05037	Literatura	3	¿Quién es el autor de la novela de 2019, "An American Marriage"?	Vi Keeland	Arundhati Roy	David Grann	Tayari Jones
+266754	Literatura	3	¿Quién escribió la novela "The Hazel Wood"?	Diana Wrayburn	Andrew Sean Greer	Kathy Dawson	Melissa Albert
+359347	Literatura	3	En la novela "Reina del aire y la oscuridad", ¿quién le corta el brazo a Horace Dearborn?	Emma Carstairs	Julian Blackthor	Gwyn up Nudd	Diana Wraybrun
+518331	Literatura	3	¿Qué personaje principal de la película "Lord of Illusions" no estaba en el cuento?	Swann	D'amour	Butterfield	Nix
+90122	Literatura	3	¿Qué autor estadounidense del siglo XX fue conductor de ambulancia en la Primera Guerra Mundial?	F. Scott Fitzgerald	TS Eliot	William Faulkner	Ernest Hemingway
+89887	Literatura	3	¿Quién escribió el libro de ciencia ficción "Gateway"?	Orson Scott	Robert A. Heinlein	Roger Zelazny	Frederik Pohl
+518359	Literatura	3	¿Quién escribió el libro "Way Station"?	Arthur C. Clarke	Isaac Asimov	Kurt Vonnegut	Clifford Simak
+359312	Literatura	3	En el libro "Kingdom of Ash", quien dijo "Hoy me di cuenta de que la asesina a la que vine a llamar amiga es en realidad la reina que creía muerta".	Ren Allsbrook	Lysandra	Dorian Havillard	Nox Owen
+518322	Literatura	3	¿Qué escritor famoso escribió la ópera "Libreto"?	HP Lovecraft	HG Wells	Stephen King	Jules Verne
+1L05139	Literatura	3	¿Quién escribió el libro "Paso en falso"?	Anne Hillerman	Adam Southward	William Dameron	Victoria Helen Stone
+518291	Literatura	3	En 1996, ¿qué libro de John Gray fue el segundo libro de no ficción líder en la lista de los más vendidos?	Regalo y misterio	La zona	En desprecio	Los hombres son de Marte, las mujeres son de Venus
+269029	Literatura	3	¿Quién escribió el libro de ciencia ficción "Time Enough For Love"?	Stanislaw Lem	Greg Bear	Philip Jose Farmer	Robert A Heinlein
+269038	Literatura	3	¿Cuál de los siguientes escritores de habla hispana fue ejecutado bajo el régimen del generalísimo Franco?	Márquez	Borges	Neruda	Lorca
+518369	Literatura	3	En la novela "Hijos de sangre y hueso", ¿cómo se llama el Sentaro de Chandomble?	Inan	Tzain	Saran	Lekan
+1L05081	Literatura	3	¿Quién es el autor de la novela "One Word Kill"?	CJ Box	Jennifer Weiner	Lisa See	Mark Lawrence
+359378	Literatura	3	¿Qué libro publicado por Warner Books trata sobre un crimen sin resolver de treinta años que comienza a desmoronarse?	Las cinco personas que conoces en el cielo	El codigo Da Vinci	La boda	Dispara a la luna
+359423	Literatura	3	¿Qué éxito de ventas trata sobre el regreso de la Dra. Kay Scarpetta a Richmond para trabajar en un crimen desconcertante?	Rosa negro	Dentro de la mente de Scott Peterson	Grito final	Rastro
+518372	Literatura	3	En el libro de JD Salinger "The Catcher in the Rye", ¿qué hace el personaje onírico del título?	Atrapa a niños ausentes	Atrapa mariposas	Atrapa pelotas de béisbol	Atrapa a los niños antes de que se caigan
+74658	Literatura	3	¿Cuál es una novela para adultos jóvenes de 2019 de Angie Thomas?	Árbol de limonada	Hombre de caja de zapatos	La fiebre del rey	En la subida
+77104	Literatura	3	¿Qué novela para adultos jóvenes de Gayle Forman sigue a Mia Hall, de 17 años, después de un accidente automovilístico?	Adónde fue	Solo un día	No se puede llegar desde aquí	Si me quedo
+87941	Literatura	3	¿Cuál de estos libros de no ficción de 1932 fue escrito por James Truslow Adams?	La progresión de Aquitania	El derecho de paso	Cómo prosperar durante los malos años venideros	La epopeya de América
+266744	Literatura	3	¿Cuál de estos libros de no ficción de 1935 fue escrito por Anne Morrow Lindbergh?	El espía que vino del frío	La calle llamada recta	Coniston	Del norte al oriente
+139399	Literatura	3	¿Qué historia trata sobre Alex Hawke, que intenta frustrar un complot franco-chino para gobernar el mundo?	Las cinco personas que conoces en el cielo	La promesa de Perricone	Casa de campo junto al lago	Pirata
+359223	Literatura	3	¿Quién escribió el libro "The Puppet Masters"?	Niven y Pournelle	Mary Shelley	Stanislaw Lem	Robert A Heinlein
+269033	Literatura	3	¿Quién escribió el libro de ciencia ficción "Ringworld"?	HG Wells	Arthur C. Clarke	Isaac Asimov	Larry Niven
+90955	Literatura	3	En la novela "Hijos de sangre y hueso", ¿cuál es la deidad hermana de Zelie?	Yoruba	O yo	Mama agba	Oya
+2011	Literatura	3	¿Qué bestseller trata sobre una abogada adicta al trabajo que acepta un puesto de ama de llaves?	¿Puede guardar un secreto?	Pirata	De vuelta al dormitorio	La diosa universal
+269042	Literatura	3	¿Quién escribió el libro de ciencia ficción "Timescape"?	Aldous Huxley	Ursula K Le Guin	Edgar Rice Burroughs	Gregory Benford
+70803	Literatura	3	¿Qué edad tiene Leah Burke, el personaje principal del libro "Leah on the Offbeat"?	15 años	46 años	7 años de edad	18 años
+65967	Literatura	3	En el libro "Shogun", ¿cómo llamaron los japoneses Blackthorn?	Endrino-San	El bárbaro	Brackforn-San	Anjin-San
+266745	Literatura	3	¿De qué color es la mano de Amari al final del libro "Hijos de sangre y hueso"?	Amarillo	naranja	rojo	Azul
+518334	Literatura	3	¿Quién escribió el libro de ciencia ficción "Player Of Games"?	Poul Anderson	Robert A Heinlein	Isaac Asimov	Iain M Banks
+518374	Literatura	3	¿Quién escribió la novela de ciencia ficción "La luna es una amante dura"?	HG Wells	Joe Haldeman	Dan Simmons	Robert A. Heinlein
+352348	Literatura	3	¿Cuántas páginas tiene el libro "El príncipe cruel" de Holly Black?	100	3100	54	370
+266730	Literatura	3	¿Cuál es el cuarto libro de la serie "Los héroes del Olimpo" de Rick Riordan, lanzado en 2013?	El héroe perdido	El hijo de neptuno	La sangre del Olimpo	La Casa de Hades
+366485	Literatura	3	¿Quién escribió el libro de ciencia ficción "Eon"?	Robert A Heinlein	Neal Stephenson	Connie Willis	Greg Bear
+1L05013	Literatura	3	¿Los libros de qué autora han sido superados en ventas sólo por la biblia y Shakespeare?	Margaret Mitchell	De Anne Rice	JK Rowling	Agatha Christie
+266767	Literatura	3	¿Qué novela de 2013 de James Patterson tiene lugar después de "Alex Cross, Run"?	Mata a Alex Cross	Feliz Navidad, Alex Cross	Fuego cruzado	Cruza mi corazón
+90966	Literatura	3	¿En qué animal entra Satanás para tentar a Eva en "Paradise Lost"?	Una cabra	Una araña	Un dragón	Una serpiente
+352331	Literatura	3	¿Qué libro de HarperCollins trata sobre una debutante de Charleston que cambia la vida de una niña de 12 años?	Las cinco personas que conoces en el cielo	Tú: el manual del propietario	Punto de engaño	Sweetwater Creek
+359415	Literatura	3	¿Cuál es el nombre del alter ego ficticio de Charles Bukowski?	Larry Brewski	Chuck Bukowski	Buck Wild	Henry Chinaski
+1L05021	Literatura	3	Publicado en 2019, ¿cómo se llama el último libro de la "Trilogía de Winternight"?	Noche de la bruja	La bruja del invierno	La bruja y el búho	El invierno de la bruja
+266716	Literatura	3	¿La novela de 2013 "El 12 de nunca" es el duodécimo libro de la serie "Club de asesinatos de mujeres" de qué autor?	John Grisham	Michael Connelly	Lee Child	James Patterson
+359418	Literatura	3	¿Qué autor escribió la novela de ficción de 2014 "En algún lugar seguro con alguien bueno"?	Miss Read	Janette Oke	Karen Kingsbury	Jan Karon
+1L05143	Literatura	3	¿Cuál es el título del libro de Michael Wolf sobre Trump escrito después de "Fire and Fury"?	Pantalones en llamas	Todo lo que toca Trump muere	Después de la fiebre del oro	Cerco
+90878	Literatura	3	En el libro "Thunderhead", ¿cuál es el nombre de pila del Honorable Scythe Curie?	María	Rebecca	Lindsey	Marie
+347753	Literatura	3	¿Cuántas novelas completas de Sherlock Holmes se escribieron originalmente?	Setenta y cinco	Dieciséis	Uno	Cuatro
+518323	Literatura	3	¿Qué novela se centra en el protagonista Alex Cross, que debe afrontar tres crímenes al mismo tiempo?	Mata a Alex Cross	Feliz Navidad, Alex Cross	Cruza mi corazón	Alex Cross, Corre
+359327	Literatura	3	En la novela "Hijos de sangre y hueso", ¿cómo muere Binta?	Ahogo	Tzain	Zelie	Espada del rey Saran
+265874	Literatura	3	¿Qué historia trata sobre una mujer enérgica que reclama el corazón de Jason Sherbrooke?	Asesino	Viste a tu familia con pana y mezclilla	La promesa de Perricone	Puerta de Lyon
+359346	Literatura	3	¿Quién escribió el libro de ciencia ficción "Tau Zero"?	James Blish	EE "Doc" Smith	Ursula K Le Guin	Poul Anderson
+91255	Literatura	3	¿Cuál es la novela infantil de 2012 y el séptimo libro de la serie "Diario de un niño debilucho"?	Diario de un niño debilucho: la fea verdad	Diario de un niño debilucho: la última gota	Diario de un niño debilucho: el largo recorrido	Diario de un niño debilucho: la tercera rueda
+1L05157	Literatura	3	¿Quién escribió "El corazón oscuro: una historia real de codicia, asesinato y un investigador improbable"?	Christina McDonald	Fabi	Vi Keeland	Joakim Palmkvist
+246914	Literatura	3	En "The Hazel Wood", ¿qué edad tiene el personaje de Alice?	97 años	6 años de edad	29 años	17 años de edad
+352345	Literatura	3	En "La Lotería" de Shirley Jackson, ¿cuántas veces ha estado Old Man Warner en la lotería?	60	82	86	77
+28631	Literatura	3	¿Quién no fue parte de "Merry Pranksters" de Ken Kesey?	Jerry García	Mountain Girl	Neal Cassady	Jack Kerouac
+518343	Literatura	3	¿Quién escribió la obra de radio original de War of the Worlds?	Orson Wells	Rod Serling	Joe Indiviglio	Howard Koch
+139656	Literatura	3	¿Ninety-Nine Glimpses of Princess Margaret es una biografía escrita por quién?	Andrew Morton	Anne Edwards	Hugo Vickers	Craig Brown
+347750	Literatura	3	¿Cuál es la tercera novela de la serie "Will Robie" de David Baldacci que fue lanzada en 2014?	El inocente	Diana	El golpe	El objetivo
+92673	Literatura	3	¿Quién es elegido líder en "El señor de las moscas"?	Simón	Cerdito	Jack	Ralph
+246926	Literatura	3	En la obra de John Webster "La duquesa de Malfi", ¿quién ejecuta a la duquesa?	El cardenal	Fernando	Antonio	Bosola
+266700	Literatura	3	¿Con quién está saliendo Livvy en Thule, en la novela "Reina del aire y la oscuridad"?	Kit Heondale	Rayan Maduabuchi	Jaime Rosales	Cameron Ashdown
+359412	Literatura	3	¿Cómo se llamaba la hermana de Jane Austen?	Elizabeth	Ana	Coño	Casandra
+258637	Literatura	3	¿Quién escribió el libro "Mi historia de amor"?	Madonna	sean Penn	Bette Midler	Tina Turner
+1L05017	Literatura	3	¿Cuál es el nombre del autor de la novela "Una niña anónima"?	Melissa Albert	Sarah J. Maas	Fabi Ghittoni	Christina McDonald
+268961	Literatura	3	¿Cuál es la última palabra escrita del libro "El Príncipe Cruel"?	Won	Futuro	Reino	Tuya
+518367	Literatura	3	¿Por qué tipo de literatura es más conocido el ganador del Premio Nobel de 2005, Harold Pinter?	Cuentos cortos	Poesía	Alegoría	Obras de teatro
+518348	Literatura	3	¿Quién es el protagonista de "Mil novecientos ochenta y cuatro"?	Walter Winston	Cedric Smyth	Seth Winston	Winston Smith
+269039	Literatura	3	¿En qué año se publicó por primera vez "Un libro de oro de Andy Warhol" de Andy Warhol?	1949	1959	1966	1957
+269037	Literatura	3	¿Cuál es el nombre del protagonista de la novela de 2019 "Noche Ancestral"?	Hallie	Halcón	Acebo	Haimey
+359318	Literatura	3	¿Quién escribió el libro de alimentación saludable "Fit for Life"?	Ely Culbertson	Rush Limbaugh	Tom Clancy	Harvey y Marilyn Diamond
+518286	Literatura	3	¿Quién escribió el libro "Earthman, Come Home"?	George Orwell	Jules Verne	Kurt Vonnegut	James Blish
+91012	Literatura	3	¿Bajo qué seudónimo se publicó la novela de ficción policial de 2013 JK Rowling "The Cuckoo's Calling"?	Val McDermid	Mark Billingham	Alex Grey	Robert Galbraith
+246921	Literatura	3	¿Cuál de estos libros de ficción de 1918 fue escrito por Zane Gray?	Los cazadores de mamuts	Cena en casa de Antoine	Nosotros mismos para conocer	El sendero UP
+90147	Literatura	3	¿Dónde se utilizó por primera vez la palabra "nerd" en forma impresa?	La biblia	Winnie-The-Pooh de AA Milne	1984 de George Orwell	Si yo dirigiera el zoológico del Dr. Seuss
+359328	Literatura	3	¿Quién es el autor del poema al comienzo de la novela "El Príncipe Cruel"?	Robert Frost	Henry David Thoreau	Holly Black	Robert Graves
+518335	Literatura	3	¿Qué escritor famoso fue reconocido como un satírico social más adelante en su carrera?	Stephen King	HG Wells	Jules Verne	Kurt Vonnegut
+269028	Literatura	3	¿Quién escribió el libro de ciencia ficción "The Postman"?	Ursula K Le Guin	Audrey Niffenegger	William Gibson	David Brin
+268860	Literatura	3	¿Cuál es el título del libro publicado en 2018 sobre Phyllis Hyman?	Cantando al cielo	Perfume de mujer	es un mundo de hombres	Fuerza de Una Mujer
+518346	Literatura	3	Publicado en 2014, ¿cuál es el decimotercer libro de la serie de misterio "Women's Murder Club" de James Patterson?	Suerte 13	La 13a hora	El 13 de nunca	Mala suerte 13
+359315	Literatura	3	¿Qué libro es sobre un poeta exiliado que regresa a Turquía para informar sobre una ola de suicidios?	Malvado	Blanco caliente	Espantapájaros	Nieve
+518340	Literatura	3	¿Qué dos personajes no están relacionados en la novela "Kingdom of Ash"?	Fallon y Faline	Enda y Sellen	Georgina y Dorian	Kaya y Thea
+359416	Literatura	3	¿Qué novela de 2013 de Jodi Picoult presenta a un maestro de escuela jubilado que dice ser un criminal de guerra nazi?	Lobo solitario	Dejando tiempo	Cambio de corazon	El cuentacuentos
+9363	Literatura	3	El número 17 de la serie Black Dagger Brotherhood, "El Salvador", ¿está escrito por qué autor?	Lyndsay Sands	Pamala Palmer	Lara Adrian	JR Ward
+266777	Literatura	3	¿Qué libro de 2012 está subtitulado: "El viaje de un neurocirujano al más allá"?	El cielo es real	90 minutos en el cielo	Al cielo y de regreso	Prueba del cielo
+1L05111	Literatura	3	Children of Blood and Bone es una novela de fantasía para jóvenes adultos de 2018, ¿quién es el escritor de esta novela?	Angie Thomas	Melissa Albert	Sara Raasch	Tomi Adeyemi
+16041	Literatura	3	¿Quién escribió el libro de ciencia ficción "Extraño en una tierra extraña"?	Roger Zelazny	Joe Haldeman	Kurt Vonnegut	Robert A. Heinlein
+139752	Literatura	3	¿En qué película es Ray Ferrier un personaje?	Extraterrestres	Encuentros cercanos	ET	Guerra de las palabras
+518357	Literatura	3	¿Qué libro de 2013 de David Baldacci es el segundo libro que presenta a Will Robie, un asesino altamente calificado?	Diana	El objetivo	El inocente	El golpe
+1L05019	Literatura	3	¿Qué novela de ciencia ficción para jóvenes adultos de 2012 es el segundo libro de la trilogía "Divergente"?	Leal	Divergente	Sargento	Insurgente
+269027	Literatura	3	¿Qué columnista de periódico también escribió catorce libros más vendidos?	Ann Landers	Heloise	Dave Barry	Erma Bombeck
+359394	Literatura	3	¿En qué año tiene lugar la novela de fantasía "Permafrost" de Alastair Reynolds?	2019	3024	1902	2080
+1L05087	Literatura	3	¿Quién escribió el libro de 1984 "El siciliano"?	James Herriot	Meredith Nicholson	Henry Robinson	Mario Puzo
+140301	Literatura	3	¿"Off The Ropes" se trata de qué boxeador?	Roberto Durán	Sonny Liston	Mike Tyson	Ron Lyle
+518361	Literatura	3	En la novela de Alice Walker "El color púrpura", ¿qué se le dice a la joven Celie sobre sus dos hijos?	Fueron adoptados por misioneros	Serían criados por su papá	Ella podría recuperarlos en un año	Fueron llevados lejos para estar con Dios
+518289	Literatura	3	¿Qué autor escribió el libro "Una oración por Owen Meany"?	Emma Sammons	James Michener	Billy Graham	John Irving
+359421	Literatura	3	¿Quién escribió "Zen y el arte del mantenimiento de motocicletas"?	Jack Canfield	John Naisbitt	Stephen Covey	Robert Pirsig
+266757	Literatura	3	¿Cuál de estos libros de no ficción de 1959 fue escrito por Moss Hart?	El piloto del cielo en tierra de nadie	Vida y gabriella	La recreación de Brian Kent	acto uno
+139716	Literatura	3	En la novela "Donde el bosque se encuentra con las estrellas" de Glendy Vanderah, ¿cómo se llama el misterioso niño?	Hablador	Celeste	Joanne	Ursa
+269036	Literatura	3	En la novela "Kingdom of Ash", ¿cuánto tiempo estuvo Aelin en el ataúd?	3 semanas	6 días	6 meses	2 meses
+268957	Literatura	3	¿De quién trata el libro "Freak Kingdom"?	Robin Williams	George Carlin	Rachel Maddow	Hunter S. Thompson
+245988	Literatura	3	¿Cuál de estos libros de ficción de 1945 fue escrito por Lloyd C. Douglas?	Eso	Una crónica moderna	Polonia	La bata
+90858	Literatura	3	El libro "Where the Crawdads Sing" de Delia Owens se desarrolla en qué estado de Estados Unidos?	Montana	California	Florida	Carolina del Norte
+90964	Literatura	3	¿Quién escribió la novela "La buena tierra"?	Carl Sagan	Sinclair Lewis	Jonathan Swift	Perla S. Buck
+228523	Literatura	3	¿Quién fue el autor del clásico superventas "Doctor Zhivago"?	Winston Churchill	Perla S. Buck	Alexander Woollcott	Boris Pasternak
+518366	Literatura	3	¿Quién escribió el libro "Earth Abides"?	Dan Simmons	Jules Verne	Mary Shelley	George R. Stewart
+140286	Literatura	3	¿Quién escribió el libro de ciencia ficción "Neuromancer"?	Arthur C. Clarke	Gregory Benford	Anthony Burgess	William Gibson
+266806	Literatura	3	En el libro "Hijos de sangre y hueso", ¿qué ciudad tiene la arena?	Gombe	llorin	Ibadán	Ibeji
+268967	Literatura	3	¿Quién escribió el libro "Double Star"?	Clifford Simak	Philip Jose Farmer	Iain M Banks	Robert A Heinlein
+268963	Literatura	3	¿Quién escribió el libro "El torno del cielo"?	James Blish	Clifford Simak	Alfred Bester	Ursula K Le Guin
+359358	Literatura	3	¿Quién escribió el libro "La puerta al verano"?	Niven y Pournelle	Philip K. Dick	Arthur C. Clarke	Robert A Heinlein
+1L05141	Literatura	3	¿Qué dibujante y diseñador de juegos en línea es el autor de la serie de libros "Diario de un niño debilucho"?	Greg Heffley	Rowley Jefferson	Zachary Gordon	Jeff Kinney
+272205	Literatura	3	¿Quién es el autor de "Chill Factor"?	James Patterson y Andrew Gross	Dan Brown	Mark Haddon	Sandra Brown
+518283	Literatura	3	¿El trabajo de quién se cita incorrectamente "Una rosa es una rosa es una rosa"?	Carson McCullers	Mabel Normand	Alice B. Toklas	Gertrude Stein
+140267	Literatura	3	¿Qué obra comienza con "O para una musa de fuego, para ascender a los cielos más brillantes de la invención"?	Sueño de una noche de verano	Antonio y Cleopatra	Macbeth	Enrique V
+266725	Literatura	3	¿Qué autor escribió la novela de suspenso de 2014 "Private Down Under" con Michael White?	John Grisham	Michael Connelly	David Baldacci	James Patterson
+139922	Literatura	3	¿Qué bestseller trata sobre un marino perseguido por temibles cazarrecompensas?	Confesiones de un video vixen	Muertos como yo	Punto de engaño	Espantapájaros
+1L05029	Literatura	3	¿Sobre qué familia escribe el autor ganador del Premio Nobel John Steinbeck en "Grapes of Wrath"?	Judd	Clampett	Mercer	Joad
+139224	Literatura	3	¿Cuál de estos libros de no ficción de 1938 fue escrito por Lin Yutang?	Hablar directamente	Perfiles de valentía: edición conmemorativa	Carrera del Sr. Crewe	La importancia de vivir
+366481	Literatura	3	¿Por quién fue nombrado Celestial en la novela "An American Marriage"?	Su tia	Su abuela	La tía de su madre	Su madre
+518338	Literatura	3	¿Qué libro publicado por Farrar, Straus y Giroux trata sobre un breve 10337 del siglo XXI?	El historiador	La interrupción de todo	Amigos absolutos	El mundo es plano
+1L05073	Literatura	3	¿Qué autor escribió la novela "Kingdom of Ash"?	Sara Raasch	Melissa Albert	Angie Thomas	Sarah J. Maas
+246800	Literatura	3	¿Cuál de estos libros de ficción de 1996 fue escrito por Richard Bachman?	El cáliz de plata	Cómo dejar de preocuparse y empezar a vivir	El oro y el moro	Los reguladores
+266702	Literatura	3	¿Quién es el columnista ganador del premio Pulitzer que escribió "La sensibilidad conservadora"?	Rachel Maddow	David Barstow	Sheri Fink	George F. Will
+373579	Literatura	3	En "Death of a Salesman", ¿cómo se llaman los hijos de Willy Loman?	Santiago y Juan	Sam y Theo	Bob y Ted	Biff y Feliz
+95839	Literatura	3	¿Cuál es el libro más vendido sobre cuatro niñas que se embarcan en aventuras?	Chicas de playa	Amigos absolutos	Parque lunar	El segundo verano de la hermandad
+3498	Literatura	3	¿Cuál es el nombre de la familia en la novela "El libro de visitas"?	Ashford	Plateadas	Barbero	Milton
+272204	Literatura	3	¿Cuántas letras de Will lee Louisa, en el libro "Still Me"?	0	1	2	3
+139554	Literatura	3	¿Qué novela de Ken Follett sigue a cinco familias interrelacionadas a lo largo del siglo XX?	Mundo sin fin	Los pilares de la tierra	Un lugar llamado libertad	Caída de gigantes
+3540	Literatura	3	¿Quién es el autor de la novela más vendida de 2019, "Lost Roses"?	Lisa Scottoline	David Grann	Arundhati Roy	Martha Hall Kelly
+3528	Literatura	3	¿Qué película se basó en el cuento de Philip K. Dick "Podemos recordarlo por usted al por mayor"?	Informe de minorías	Terminator	Respecto a Henry	Recuperación total
+74462	Literatura	3	¿Qué novela de 2013 cuenta la historia de dos mujeres separadas por generaciones que construyen una amistad inesperada?	Toda la luz que no podemos ver	El coleccionista de perfumes	Agradecidamente tuyo	Tren huérfano
+518327	Literatura	3	Deadwood Dick es el apodo de qué vaquero afroamericano?	Jessie Lee	Rich Rogers	Jackson Smith	Nat Love
+347745	Literatura	3	¿Qué autor escribió la serie de novelas históricas "Trilogía del siglo"?	Dan Brown	Wilbur A. Smith	Frederick Forsyth	Ken Follett

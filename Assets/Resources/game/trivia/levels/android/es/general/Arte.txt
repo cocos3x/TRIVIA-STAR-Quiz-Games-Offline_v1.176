@@ -1,0 +1,491 @@
+0DIF38	Arte	0	¿Qué conjunto de colores forman el rojo, el amarillo y el azul?	Colores pastel	Colores neutros	Colores secundarios	Colores primarios
+302444	Arte	0	¿Qué le agregas a un pigmento de acuarela para pintar?	Trementina	Petróleo	pegamento	Agua
+302418	Arte	0	¿Qué color obtienes al mezclar azul y amarillo?	Gris	Púrpura	naranja	Verde
+363448	Arte	0	¿Qué palabra significa hacer correcciones en la obra de arte?	Cuadro	Fresco	Mural	Retocar
+0DIF25	Arte	0	¿Naranja, verde y morado son ejemplos de cuál de estos ?	Colores primarios	Colores neutros	Sombras	Colores secundarios
+362689	Arte	0	¿Cómo se llaman las imágenes que explican la historia en un libro?	Pinturas	Dibujos	Bocetos	Ilustraciones
+318351	Arte	0	¿Qué utensilio de escritura puede ser borrable, permanente o mágico?	Un lápiz	Un bolígrafo	Una impresora	Un marcador
+362687	Arte	0	¿Cómo se llama el arte de cortar la superficie de un material para darle una determinada forma?	Eclosión	Aserradura	Punzonado	Tallado
+0DIF29	Arte	0	¿Qué principio del arte se refiere a la repetición de formas, líneas y colores?	Unidad	Énfasis	Proporción	Patrón
+362935	Arte	0	¿Qué tijeras especiales cortan un borde en zigzag en el papel?	Cuchillería	Tijeras para zurdos	Podadoras de jardín	Tijeras dentadas
+362666	Arte	0	¿Cuál es la línea de nivel en una obra de arte donde la tierra o el agua parecen terminar y el cielo comienza?	Línea de fuga	Cenit	Línea lejana	Línea del horizonte
+302417	Arte	0	¿Qué color obtienes al mezclar azul y rojo?	Negro	naranja	Verde	Púrpura
+0DIF22	Arte	0	¿Cuál de los siguientes sería diseñado por un arquitecto?	Mueble	Carros	Joyas	Edificios
+0DIF34	Arte	0	¿En qué país puedes ver la Esfinge?	Colombia	Alemania	Grecia	Egipto
+362853	Arte	0	¿Cómo se llaman las escenas tridimensionales en miniatura, a menudo colocadas en una caja vacía?	Tabla de anuncios	Manteles individuales	Álbumes de recortes	Dioramas
+362659	Arte	0	¿Qué término artístico se define como "una técnica que implica el uso de dos o más medios artísticos"?	Medios antiguos	Medios de arte	Medios individuales	Medios mixtos
+346273	Arte	0	¿Qué tipo de cámara toma fotografías que se pueden imprimir desde una computadora?	35 milímetros	Desechable	Cámara de caja	Digital
+0DIF27	Arte	0	¿Cuál de estos describe mejor los colores monocromáticos?	Colores que chocan	Opuestos en la rueda de colores	Tres colores diferentes	Un color con diferentes tintes y matices.
+362702	Arte	0	¿Cómo se llama la parte de la imagen que parece estar más alejada del espectador?	Detrás del suelo	Farground	Bajo tierra	Antecedentes
+362700	Arte	0	¿Cuál es el nombre que se le da a un diagrama circular de colores que ayuda en la identificación y mezcla de colores?	Rueda en blanco y negro	Cuadrado de color	Lona	Rueda de color
+363423	Arte	0	¿Cómo se llama el área de una imagen, a menudo en la parte inferior, que parece estar más cerca del espectador?	Antecedentes	Plano medio	Frente	Primer plano
+0DIF24	Arte	0	¿Cómo se llama el área de una obra de arte que atrae la atención del espectador y mantiene el interés se llama?	Formar	Textura	Equilibrar	Énfasis
+362656	Arte	0	¿Cuál es el término para una obra de arte realizada a pequeña o muy reducida escala?	Pastel	Decoración	Escultura	Miniatura
+362678	Arte	0	¿Cómo se llama un dibujo o inscripción que se suele hacer en una pared para ser visto por el público?	Naturaleza muerta	Collage	Animación	Pintada
+362703	Arte	0	¿Cuál es el término para la disposición hábil de partes de una obra de arte?	Plan	Orden	Dibujo	Diseño
+363482	Arte	0	¿Qué es un diseño hecho de pequeños trozos de piedra, vidrio, azulejo o papel de colores pegados a una superficie?	Patrón	Motivo	Decoración	Mosaico
+0DIF39	Arte	0	¿Cuántos colores hay en la rueda de colores?	Cinco	Tres	Dos	Seis
+362691	Arte	0	¿Cómo se llama una obra de arte excepcionalmente grande realizada con una habilidad extraordinaria?	Prueba perfecta	Variación	Collage	Obra maestra
+363432	Arte	0	¿Cuál es la técnica que utilizan los artistas para mostrar el mundo tridimensional en una superficie bidimensional?	Proceso de copiar	Reproducción	Representación	Perspectiva
+346317	Arte	0	En fotografía, ¿para qué propósito especial se usa un teleobjetivo?	Tomas de película	Disparos de adelgazamiento	Reducción de ojos rojos	Disparos de larga distancia
+363619	Arte	0	¿Cómo se llama un retrato que hace un artista usándose a sí mismo como sujeto?	Propio retrato	Retrato de rostro	Retrato reflejado	Auto retrato
+0DIF28	Arte	0	¿Qué elemento del arte se refiere al sentido del tacto?	Valor	Patrón	Sombra	Textura
+0DIF37	Arte	0	¿Dónde está colgada la Mona Lisa en Francia?	Plaza de la gárgola	La torre Eiffel	Catedral de Chartres	El Louvre
+0DIF36	Arte	0	¿Con qué movimiento artístico del siglo XX se asoció Salvador Dalí?	Impresionismo	Dadaísmo	Fluxus	Surrealismo
+0DIF30	Arte	0	¿Cómo se llaman formas o figuras similares a las de la naturaleza?	Geométrico	Patrón	Textura	Orgánico
+363477	Arte	0	¿Cuál es el estilo con el que un artista representa un tema tal como aparece en el mundo natural?	Modernismo	Futurismo	Impresionismo	Naturalismo
+363409	Arte	0	¿Cómo se llama el acto de copiar una obra?	Mejorando	Restauracion	Analizando	Reproducción
+363439	Arte	0	¿Cómo se llama el acto de dibujar la figura humana a partir de un modelo vivo?	Dibujo de naturaleza muerta	Dibujo De Paisaje	Dibujo De Bodyscape	Dibujo de la vida
+362684	Arte	0	¿Cuál es el término que se usa para el material o la técnica que usa un artista para producir una obra de arte?	Algodón	Caucho	Puntero	Medio
+346274	Arte	0	¿Cuál es otro nombre para una cámara de un solo uso?	Cámara Polaroid	Cámara basura	Cámara oscura	Cámara desechable
+363403	Arte	0	¿Cuál es el elemento de arte que se refiere a la marca continua hecha en una superficie por un punto en movimiento?	Forma	Formar	Color	Línea
+363424	Arte	0	¿Cómo se llama una persona que dibuja dibujos animados o tiras cómicas?	Camarógrafo	Pintor	Toonólogo	Dibujante
+0DIF26	Arte	0	¿Cómo se llama una imagen de una sola persona?	Naturaleza muerta	Proporción	Medio	Retrato
+362663	Arte	0	¿Cómo se llama una exhibición pública de obras de arte?	Dibujar	Debut	Drama	Exposición
+0DIF21	Arte	0	¿Cuál de los siguientes no es un color "cálido"?	rojo	naranja	Amarillo	Azul
+0DIF33	Arte	0	¿Qué artista pintó la Mona Lisa?	Pablo Picasso	Angelica Kauffman	Peter Paul Rubens	Leonardo da Vinci
+0DIF23	Arte	0	¿Cuáles de estos son ejemplos de marrón, gris y negro?	Colores pastel	Colores primarios	Colores complementarios	Colores neutros
+362929	Arte	0	¿Con qué se elabora la pasta de papel maché?	Mezcla de cemento	Mezcla para panqueques	Chex Mix	Harina y agua
+0DIF40	Arte	0	¿Cuál de los siguientes no es un tipo de pintura?	Petróleo	Acrílico	Acuarela	Arcilla
+0DIF32	Arte	0	¿Qué forma de arte utiliza materiales para convertir ideas en arte tridimensional?	Pintura	Dibujo	Fotografía	Escultura
+362854	Arte	0	¿Qué se hace con una camiseta de algodón vieja, gomas elásticas y tinte para tela?	Papel maché	Tejer	Decoupage	Tie Dye
+0DIF31	Arte	0	¿Cuál de estos describe la relación de tamaño entre objetos?	Perspectiva	Gesto	Bosquejo	Proporción
+325986	Arte	0	Op Art también se conoce como ¿qué?	Arte Moderno	Arte minimalista	Arte de campo de color	Arte óptico
+362694	Arte	0	¿Cómo se llama la luz que proviene de detrás de un sujeto en una obra de arte?	Detrás de la luz	Luz delantera	Linterna	Iluminar desde el fondo
+346292	Arte	0	¿Cuál es el proceso para asegurarse de que una imagen resulte clara?	Velocidad	Tirante	Imágenes	Enfocar
+302553	Arte	0	¿Qué herramienta suele utilizar un fotógrafo?	Lápiz	Caballete	Cincel	Medidor de luz
+362685	Arte	0	¿Cómo se llama el método para cortar un diseño en un material como el metal con una herramienta afilada?	Fumage	Collage	Bloquea imprimir	Grabado
+12886	Arte	1	¿Qué instrumento de dibujo o escritura utiliza tinta?	Lápiz	Lápiz de color	Carbón	Bolígrafo
+54977	Arte	1	¿Quién de los siguientes fue famoso por sus pinturas?	William Shakespeare	Isaac Newton	George Washington	Pablo Picasso
+364713	Arte	1	¿Qué usa un pintor para sostener su lienzo?	Rock	Personas	Cuerda	Caballete
+80385	Arte	1	¿Cómo se llama la famosa pintura de Vincent Van Gogh de un cielo nocturno con estrellas amarillas arremolinadas?	Madre de Whistler	El grito	Mona Lisa	Noche estrellada
+364688	Arte	1	¿Cómo se le llama a un lienzo impreso con números que muestran de qué color pintar en cada área?	Píntalo tú mismo	Hazlo tu mismo	Pintar aquí	Pintar por número
+324597	Arte	1	¿Cómo se llaman los pigmentos que no se destiñen cuando se colocan uno al lado del otro?	Prueba de mezcla	Impermeable	Solvente	A prueba de sangrado
+363999	Arte	1	¿Qué hizo Frida Kahlo dos veces con respecto a su colega artista Diego Rivera?	Demandarlo	Robar su trabajo	Compra su arte	Casarse con él
+364829	Arte	1	¿Qué no es un material común utilizado en esculturas?	Roca	Madera	Metal	Jabón
+364779	Arte	1	¿Qué forma de arte corporal utiliza una aguja para insertar pigmento de forma permanente en la piel?	Marca	Implantar	Perforación	Tatuaje
+324522	Arte	1	¿El arte griego antiguo contenía mucho de qué artículo?	Tupperware	Maletas	Libros de bolsillo	Jarrones
+367595	Arte	1	¿Quién de aquí no fue un pintor famoso?	van Gogh	Rembrandt	Picasso	Einstein
+364679	Arte	1	Después de la Capilla Sixtina, Miguel Ángel fue referido como "il divino", que es italiano para qué?	El pintor	El mejor	El maestro	El divino
+364821	Arte	1	En la rueda de colores, ¿cuántos colores componen una tríada?	2	4	5	3
+364802	Arte	1	¿Qué tipo de imagen hace un artista con un lápiz?	Fotografía	Pintura	Collage	Dibujo
+364921	Arte	1	De 1901 a 1905, Pablo Picasso entró en su "Período Azul", pintando principalmente ¿en qué colores?	En blanco y negro	Marrón y gris	Rojo y amarillo	Azul y verde
+364818	Arte	1	Un crítico le dijo una vez a Jackson Pollock que su trabajo no tenía principio ni ¿qué?	comienzo	Forma	Borde	Fin
+302442	Arte	1	¿Qué tipo de imagen obtiene un artista cuando usa una cámara?	Collage	Dibujo	Pintura	Fotografía
+364659	Arte	1	¿Cuál de los siguientes es impenetrable a la luz?	Transformador	Translúcido	Transparente	Opaco
+324590	Arte	1	El término francés "trompe l'oeil" se refiere a pinturas tan realistas que ¿engañan a qué?	Las orejas	Las papilas gustativas	La nariz	El ojo
+325718	Arte	1	¿Qué artista pintó "El grito"?	Rembrandt	Pablo Picasso	Leonardo da Vinci	Edvard Munch
+364593	Arte	1	El famoso cuadro de Salvador Dalí "La persistencia de la memoria", ¿qué aparatos presenta fundiendo?	Microondas	Temporizadores de cocina	Relojes de sol	Relojes
+364935	Arte	1	El gran mecenas de la carrera de Tiziano fue Felipe II, ¿a qué título español ostentaba?	Reina	Princesa	presidente	Rey
+364836	Arte	1	¿Qué se empotra en el hormigón armado para aumentar su resistencia a la tracción?	Arena	Fósiles	Color	Hierro o acero
+367596	Arte	1	¿Qué piedra utilizada en la escultura tiene un alto brillo y tiene vetas y coloración por impurezas?	Arenisca	Arcilla	Talco	Mármol
+364670	Arte	1	¿Cuál de estos artistas del Renacimiento comparte su nombre con una Tortuga Ninja adolescente mutante?	Correggio	Tintoretto	Lippi	Leonardo
+324547	Arte	1	¿Cómo se llamaba el famoso pinto español Picasso?	Vincent	Charles	Adán	Pablo
+364754	Arte	1	Los autorretratos de Vincent Van Gogh están marcados por su cabello de colores brillantes, ¿de qué tono?	marrón	Negro	gris	naranja
+325492	Arte	1	¿Qué hito junto al mar es el foco de la pintura "Dos luces" de Edwards Hopper?	Una granja	Una concha de almeja	Una ola	Un faro
+363401	Arte	1	¿Cuál es el término dado para algo dibujado de manera análoga, sin el uso de ningún dispositivo mecánico?	Dibujo no mecánico	Dibujar	Garabateando	A mano
+324593	Arte	1	¿Qué tipo de forma de arte es "haiku"?	Cuento	Música	Acuarela	Poesía
+364669	Arte	1	Un movimiento artístico de principios del siglo XX tomó su nombre de una palabra para decir"charla de bebés", ¿cuál fue?	Cheerios	Gaga Googoo	Mima	Dadá
+11434	Arte	1	El nacimiento de Venus de Botticelli presenta a una diosa flotando en el océano ¿en qué?	Una paloma	Una araña	Una hoja de lirio	Una concha
+363994	Arte	1	¿Cuál de estos es "un objeto hecho de arcilla endurecida en un material relativamente permanente por cocción"?	Retrato	Caricatura	Fotografía	Cerámico
+364813	Arte	1	Paul Cezanne fue un postimpresionista, lo que significa que pintó más tarde que ¿quién?	Los dadaístas	Los Decosistas del Arte	Los modernistas	Los impresionistas
+0DIF35	Arte	1	¿Cómo se llamaba el estilo artístico de Pablo Picasso?	Realismo	Resumen	Romanticismo	Cubismo
+367587	Arte	1	¿Cómo se llama la superficie que usa un artista para mezclar sus colores?	Cincel	Cepillo	Martillo	Paleta
+324550	Arte	1	¿Quién pintó "El Grito" en 1893?	Raphael	Andy Warhol	Georgia O'Keeffe	Edvard Munch
+324576	Arte	1	¿Qué tipo de roca se forma compactando arena o arenilla?	Caliza	Mármol	Granito	Arenisca
+364957	Arte	1	¿Cómo llamas a una serie de fotografías proyectadas en una pantalla que crean la ilusión de movimiento?	Dibujo	Drama	Pintura	Película
+364907	Arte	1	¿Cuál es el nombre de una herramienta que se utiliza para moler sustancias en un mortero?	Rock	Roca	Piedra pómez	Majadero
+367600	Arte	1	¿Qué tipo de imagen hace un artista con óleo?	Collage	Dibujo	Fotografía	Pintura
+364837	Arte	1	1947 fue la primera vez que se sabe que Jackson Pollock utilizó ¿qué técnica de pintura?	Pintura del sueño	Pintura de pies	Estampado con crayón derretido	Pintura que gotea
+364752	Arte	1	¿Cómo se llama el estuche portátil que usa un artista para guardar obras de arte?	Aglutinante	Maletín	Caja	portafolio
+364782	Arte	1	¿Cómo se llama una persona que posa para un pintor?	Objetivo	Prototipo	Escultura	Modelo
+364917	Arte	1	¿Cuál es otro término para pintar retratos?	Resumen	Arte pop	Arte deco	Pintura de figuras
+367583	Arte	1	¿El arte posmoderno incluye obras realizadas en qué dispositivo electrónico?	Refrigerador	Microondas	Teléfono	Computadora
+364662	Arte	1	¿De qué están hechas las primeras esculturas hechas por humanos que se conservan?	Madera	El plastico	Espuma de poliestireno	Roca
+364573	Arte	1	¿Las máscaras africanas son un ejemplo de qué tipo de arte?	Popular	Moderno	Expresionista	Folclor
+302794	Arte	1	¿Qué tipo de pintura presenta una representación de una ciudad?	Naturaleza muerta	Icono	Retrato	Paisaje urbano
+364969	Arte	1	Las pinturas rusas de santos eran conocidas con el mismo nombre que ¿qué imágenes de computadora?	Ratón	Carpeta	Miniatura	Ícono
+363466	Arte	1	¿Cuál es el papel en el que se imprimen normalmente los periódicos?	Lona	Tableta	Papel de construcción	Papel prensa
+364787	Arte	1	Las esculturas de Miguel Ángel a menudo fueron talladas en ¿qué piedra blanca brillante o grisácea?	Ónix	Esmeralda	Hormigón	Mármol
+363593	Arte	1	¿Cómo se llama una forma tridimensional de una persona o un animal esculpido, tallado, modelado o moldeado?	Figura	Figurilla	Modelo	Estatua
+361097	Arte	1	¿Cuál es el nombre de cualquier nivel o superficie plana?	pared	Piso	Suelo	Plano
+364771	Arte	1	¿Qué artista no comparte su nombre con una Tortuga Ninja adolescente mutante?	Donatello	Raphael	Miguel Angel	Bernini
+364852	Arte	1	¿Qué equipo usa un alfarero para hacer girar la arcilla mientras le dan forma a una vasija de cerámica?	Espátula	Cuchillo	Sus manos	Rueda de alfarero
+364849	Arte	1	Las obras de Jackson Pollock no mostraban objetos reales tal como aparecían, lo que significa que ¿qué eran?	Realista	Vistoso	Grande	Abstractas
+324526	Arte	1	¿Las tumbas egipcias eran lugares de enterramiento para quién?	Esclavos	Niños	Mujer	Faraones
+361140	Arte	2	¿Cuál era el nombre del cuadro de Gustav Klimt de un árbol de ramas rizadas?	Auto retrato	Mona Lisa	Vision nocturna	El arbol de la Vida
+364803	Arte	2	¿Cuál es el nombre de los colores no asociados con un tono?	Tinte	Sombra	Brillante	Neutral
+324531	Arte	2	Un viaje a la Toscana en Italia convenció a Diego Rivera de ¿qué gran formato era el futuro del arte?	Libros de historietas	Sellos	Postales	Murales
+346369	Arte	2	¿Qué palabra significa tener muchos colores?	Monocromo	Tricrómico	Bicromo	Policromo
+361138	Arte	2	Durante la Gran Depresión, Jackson Pollock ganó dinero pintando caballetes ¿para quién?	El Papa	Su hijo	Ninguno	El gobierno de los Estados Unidos
+302501	Arte	2	¿Qué palabra es la abreviatura de "Elemento de imagen" y es un punto de color en la pantalla de una computadora?	Punteado	Punto	Sombra	Pixel
+364894	Arte	2	¿Leonardo da Vinci era bien conocido por hacer pinturas sobre qué tema?	Lagos y rios	Museos franceses	Eventos deportivos	Eventos Religiosos
+367584	Arte	2	El Papa Julio II contrató a Rafael para pintar un conjunto de pinturas sobre qué tema clásico de estudio?	Estudios Sociales	Gimnasio	Química	Filosofía
+364773	Arte	2	En 1488, Miguel Ángel fue aprendiz de un taller de arte aunque ¿quién no lo aprobó?	Su hermano	El Papa	Su profesor	Sus padres
+364774	Arte	2	¿Cuál es la imagen principal en la obra de Wassily Kandinsky "The Golden Sail"?	Un coche	Un autobús	Un avion	Un barco
+324575	Arte	2	¿Frida Kahlo estaba casada con qué muralista famoso?	Ralph Macchio	Frida nunca estuvo casada	Salvador Dalí	Diego Rivera
+361059	Arte	2	¿En qué estilo pintaron los artistas franceses Monet, Manet, Renoir, Degas y Cezanne?	Popular	Moderno	Cubismo	Impresionismo
+27872	Arte	2	¿Temple, óleo y acrílico son todos tipos de qué?	Tiza	Lapices	Pasteles	Pintura
+8628	Arte	2	¿Qué artista famoso es muy conocido por cortarse la oreja?	Leonardo Da Vinci	Henri Rousseau	Claude Monet	Vincent Van Gogh
+361036	Arte	2	Una cámara que tiene pocos o ningún ajuste por parte de quien toma la fotografía generalmente se llama ¿qué?	Cámara fácil	Cámara sin problemas	Cámara poco inteligente	Cámara simple
+364672	Arte	2	¿Qué nombre musical le dio Wassily Kandinsky a una serie de sus pinturas?	Risa	Puntos	Sediento	Composición
+361144	Arte	2	Interesado en el movimiento y el movimiento, el artista francés Edgar Degas a menudo pintaba ¿qué?	Gente dormida	Babosas	Viento	Bailarines
+324523	Arte	2	¿En el arte, aéreo, en espiga y lineal son todos tipos de qué?	Lona	Pintar	Lápices de colores	Perspectiva
+27912	Arte	2	¿Cómo se llama un eje de piedra de cuatro lados que se eleva hasta la punta de una pirámide?	Cubo	Caja	Cuboides	Obelisco
+361131	Arte	2	Vincent van Gogh pintó un famoso bodegón ¿de qué flores?	Rosas	Violetas	Hortensias	Girasoles
+364889	Arte	2	Muchos de los que conocieron a Rafael se refirieron a él como "El Príncipe de" ¿qué?	Mareas	Detroit	Corazones	Pintura
+324539	Arte	2	Little Dancer de Edgar Degas muestra a una joven bailarina con ¿qué tipo de uniforme?	Mono	Disfraz de payaso	Pantalones cortos de gimnasio	Tutu
+325429	Arte	2	¿Cuál se considera la cerámica más refinada?	Arcilla	Loza de barro	Terracota	Porcelana
+362544	Arte	2	¿Cuál es la posición desde la que el espectador mira un objeto o campo visual?	Punto de vehículo	Punto de barniz	Punto de fuga	Mirador
+362590	Arte	2	Joan Miró reunió sus ideas artísticas en ¿qué artículo pequeño y portátil?	Un ordenador portátil	Un celular	Una servilleta	Un cuaderno
+362675	Arte	2	¿Cómo se llama un diseño repetitivo?	Mosaico	Motivo	Decoración	Patrón
+364875	Arte	2	¿Quién, al ver el talento de un joven Pablo Picasso, declaró que él mismo no volvería a pintar?	Leonardo Da Vinci	Papa Julio II	John Lennon	Padre de Pablo
+324564	Arte	2	El Papa León X contrató a Rafael para decorar diez de los artículos tejidos para colgar en las paredes del Vaticano, ¿qué eran?	Carteles	Cortinas	Sombreros	Tapices
+364712	Arte	2	¿En 1860, Claude Monet fue reclutado en qué grupo y enviado al norte de África?	Departamento de Bomberos de Nueva York	Caballeros Jedi	Servicio Postal Francés	Ejercito francés
+324573	Arte	2	¿Una pintura de Rene Magritte titulada "Esto no es una pipa" era una imagen de qué?	Un vaso	Un teclado	Una pintura	Una pipa 
+363465	Arte	2	¿Cuál de los siguientes términos se define como "el uso de la luz real como medio artístico"?	Dibujo	Arquitectura	Escultura	Lumina
+364794	Arte	2	¿Grant Wood creó cuál de estas famosas pinturas?	Nenúfares	Mona Lisa	La Grande Jatte	gótico americano
+324561	Arte	2	¿Qué significa numerar las páginas de un libro?	Pie de página	Contar	marca	Paginar
+302439	Arte	2	¿Qué estilo artístico incluye obras compuestas por cientos de puntitos?	Impresionismo	Futurismo	Cubismo	Puntillismo
+364825	Arte	2	En la pintura, "American Gothic", ¿qué sostiene el hombre?	Pala	Azada	Rastrillo	Horca
+364657	Arte	2	¿Qué pasó con el mural neoyorquino de Diego Rivera, "Man At The Crossroads"?	Se cayó	Olía raro	Estaba embrujado	Fue eliminado
+364724	Arte	2	Art Deco fue un movimiento centrado en qué elemento del arte?	Movimiento	Estructural	Talla	Decorativo
+364937	Arte	2	Henri Matisse pintó cuadros brillantes y coloridos porque pasó mucho tiempo ¿dónde?	Bosques oscuros	Tundras heladas	Desiertos secos	Islas cálidas
+364891	Arte	2	¿Cómo se llama el estudio de diseño, organización y gestión de colecciones?	Arqueología	Escultura	Scriptología	Museología
+362555	Arte	2	¿El arte del movimiento neoclásico parecía ser una nueva versión de qué?	El Renacimiento	La edad Oscura	La era pop	La Era Clásica
+364940	Arte	2	¿Un bodegón de Paul Cezanne mostró flores en qué objeto azul?	Un sombrero	Un tazón	Una caja	Un jarrón
+325516	Arte	2	Como pintor de escenas estadounidense, Edward Hopper hizo un trabajo que mostraba ¿qué?	Caballos pequeños	Sonidos musicales	Hierba que crece	Eventos cotidianos
+325840	Arte	2	¿Dónde se pintan los cuadros "al aire libre"?	En un estudio	En un garaje	En Europa	Afuera
+367672	Arte	2	¿Cuál es la principal sustancia que se utiliza para hacer un crayón?	Agua	Petróleo	Tinta	Cera
+302790	Arte	2	Un vecino comerciante fue el primero en enseñar al joven Claude Monet cómo hacer qué.	Hablar	Leer	Caminar	Pintar
+287413	Arte	2	En 1917 Marc Chagall fue nombrado comisario provincial, ¿para qué?	Educación	Defensa	Salud	Arte fino
+367588	Arte	2	Los murales de Diego Rivera a menudo tratan sobre qué tipo de temas nacionales?	Arte	Comedia	Libros	Política
+345170	Arte	2	En 1795, el pintor Francisco de Goya se convirtió en jefe de ¿qué?	La cocina real	El vivero real	Los establos reales	La Real Academia de Arte
+362584	Arte	2	¿Con qué movimiento artístico está asociado Salvador Dalí?	Moderno	Cubismo	Popular	Surrealismo
+346368	Arte	2	¿Qué fue robado del Louvre en 1911?	Hope Diamond	Huevos de Fabergé	Cuaderno de bocetos Da Vinci	Pintura Mona Lisa
+362681	Arte	2	¿Qué palabra describe la representación de una persona específica por un artista?	Fotografía	Imagen	Dibujo de la vida	Retrato
+364769	Arte	2	¿Qué se refiere a una superficie dura como madera, cobre o masonita sobre la que pintar?	Lona	Suelo	Caballete	Panel
+325509	Arte	2	¿Cuál es un metal blanco grisáceo pesado, precioso, no corrosivo que se utiliza en la fabricación de joyas?	Hierro	Acero	Oro amarillo	Platino
+324599	Arte	2	Cuando la gente afirmó que su "Piedad" fue hecha por otra persona, ¿qué agregó Miguel Ángel a la estatua?	Una nota escrita a mano	Otra figura	Un mensaje grabado	Su firma
+364924	Arte	2	¿Cuál es el nombre de cualquier color que se encuentre en su estado puro en el espectro o arco iris?	Tinte	Sombra	Tono	Matiz
+364624	Arte	2	En arquitectura, ¿cómo se llama una puerta o portón?	pared	Ventana	Hazme	Portal
+367602	Arte	2	¿Dónde se encuentra una pintura de 1615 de Peter Paul Rubens del Daniel de la Biblia?	El comedor	La oficina del doctor	La última cena	La guarida del león
+364587	Arte	2	En 1929 Diego Rivera se casó con qué famosa artista mexicana?	Henri Matisse	Edward Hopper	Gian Lorenzo Bernini	Frida Kahlo
+362592	Arte	2	¿Cuál es el nombre de una impresión hecha al cortar un diseño en un bloque de madera?	Escultor	Pintura	Modelo	Xilografía
+361080	Arte	2	¿Cómo se llama el material en polvo fino que se utiliza para colorear cualquier medio?	Matiz	Sombra	Tinte	Pigmento
+363468	Arte	2	Ya que no le gustaban los hábitos de sus ayudantes, ¿quién ayudó a Miguel Ángel a pintar la Capilla Sixtina?	Sus padres	Sus hijos	El Papa	Ninguno
+367674	Arte	2	¿De qué está hecha normalmente la mina de lápiz?	Dirigir	Hierro	Carbón	Grafito
+324551	Arte	2	Como consideraba a Italia su hogar, Peter Paul Rubens a menudo firmaba sus obras como ¿qué?	Solo Peter	PPR	Señor Rubens	Pietro Pauolo
+367591	Arte	2	Como ilustrador, Marc Chagall proporcionó dibujos para ¿qué libro?	Buenas noches Luna	La odisea	Aves de Artemisa	La biblia
+324540	Arte	2	¿Qué sustancias mezclaba a veces Jackson Pollock con pintura para añadir textura?	Cafe y te	Agua y jabón	Huevos y tocino	Vidrio y arena
+302811	Arte	2	¿Cómo se llama la pose de una figura cuando sugiere movimiento?	Postura para dormir	Postura de pie	Postura congelada	Pose de acción
+103984	Arte	2	¿Cuál es el término artístico para la búsqueda de cosas en una forma ideal?	Mejor	Perfección	Alta calidad	Idealismo
+324527	Arte	2	¿Cómo se llama una escena representada que muestra pastores, vida en el campo o serenidad rústica?	Paisaje	Marina	Retrato	Pastoral
+364703	Arte	2	¿Cómo se llama el proceso de llenado de un molde con un material líquido que formará una escultura?	prensa	Halar	empujar	Verter
+325517	Arte	2	Rafael pintó una vez un cuadro de qué figura importante de la Biblia que le dio las llaves a San Pedro.	Juan el Bautista	David	Goliat	Jesús
+367676	Arte	2	¿Pablo Picasso y Georges Braque lideraron qué movimiento artístico centrado en las formas dentro de los objetos?	Arte De La Edad De Piedra	Dadá	Posmodernismo	Cubismo
+364759	Arte	2	¿Qué técnica permite al cineasta dar a la imagen una apariencia tridimensional?	Disolver	Desvanecerse	En blanco y negro	3-D
+187715	Arte	2	¿Cuál de estos artistas creó la famosa imagen de "Lata de sopa Campbell"?	Vincent Van Gogh	Henri Matisse	Paul Klee	Andy Warhol
+361086	Arte	2	El artista judío Marc Chagall diseñó 12 vidrieras para el Hospital Hadassah, ¿dónde se encuentra?	Chicago	Ciudad de México	Calcuta	Israel
+364841	Arte	2	Las esculturas del artista griego Praxiteles eran famosas porque ¿qué hicieron?	Habló	Movido	Color cambiado	Parecía real
+364967	Arte	2	La clase de baile de Edgar Degas y el "ensayo en el set" se establecieron en qué tipo de aula?	Español	Álgebra	Gimnasia	Ballet
+324563	Arte	2	¿Cómo se llaman los colores que tienen poca luminosidad y baja saturación?	Pálido	Profundo	Brillante	Oscuro
+302425	Arte	2	¿Quién fue el primer maestro de pintura del artista renacentista Raphael?	Su hijo	Su bisabuelo	Su hermanastro	Su padre
+364856	Arte	2	En la década de 1630, Diego Velázquez pintó muchas imágenes ecuestres, ¿imágenes de personas en qué?	El terreno	Sofás	Alfombras	Caballos
+364726	Arte	2	¿El primer gran trabajo de Henri Matisse fue en qué evento de París de 1907?	El Desfile de Navidad	Los fuegos artificiales del 4 de julio	El desfile del Rose Bowl	La feria mundial
+364719	Arte	2	En 1905, Pablo Picasso entró en su "Período Rosa", pintando malabaristas y acróbatas ¿de dónde?	Colegio	zoo	Palacio de justicia	Circo
+364863	Arte	2	¿A dónde fue el artista judío Marc Chagall cuando dejó Francia durante la Segunda Guerra Mundial?	Alemania	Rusia	Japón	América
+364925	Arte	2	Las estatuas que Miguel Ángel hizo para la tumba de Lorenzo de Medici son "Amanecer", "Tarde", "Día" y ¿qué?	Luna	Oscuridad	Tarde	Noche
+345158	Arte	2	¿Cómo se llama una herramienta con una barra de hierro curva con una punta en un extremo y un cincel en el otro?	Hacha	tijeras	Espada	Cincel
+325977	Arte	2	¿Cómo se llama una obra de arte colocada encima y detrás de un altar en una iglesia?	Obra maestra	Loft Coro	Pantalla de Rood	Retablo
+367598	Arte	2	¿Cuál es el nombre de un amuleto usado por su supuesto beneficio mágico?	Collar	Colgante	Joyería	Talismán
+362557	Arte	2	¿De qué manera Jackson Pollock no aplicó pintura a sus lienzos de Action Painting?	Goteo	Torrencial	Salpicaduras	Cepillado
+8630	Arte	2	¿Cómo se llama un yeso hecho con arena, tierra y paja?	Estuco	Yeso blanco	Yeso	Adobe
+186879	Arte	2	¿Qué se refiere a la doctrina de que el color es más importante que la forma, que es el estilo de Peter Paul Rubens?	Poussinisme	Markisme	Peterismo	Rubenismo
+302438	Arte	2	Jackson Pollock no usó pinceles en sus lienzos, prefiriendo usar ¿qué?	Plumas	Lápices de color	tijeras	Palos
+287409	Arte	2	¿Qué no usó Gustave Klimt en la creación de sus murales?	Metal	Vaso	Cerámica	Espuma de poliestireno
+103987	Arte	2	Edward Hopper pintó las solitarias calles de la ciudad de Nueva York ¿con cuántas personas?	Veintiocho	Un millón	Uno	Ninguna
+364616	Arte	2	¿Qué artista creó el famoso cuadro "La noche estrellada"?	Claude Monet	Salvador Dalí	Leonardo Da Vinci	Vincent Van Gogh
+364644	Arte	2	¿Cómo se llamaba el cuadro que pintó Francisco de Goya después de "El dos de mayo de 1808"?	El cinco de junio de 1808	El 2 de mayo de 1809	Naturaleza muerta con manzanas	El tres de mayo de 1808
+364816	Arte	2	En 1956, la revista "Time" llamó a Jackson Pollock "Jack" ¿el qué?	Rapero	Destripador	Bebedor	Gotero
+324535	Arte	2	¿Cuál pensó Georgia O'Keeffe que era el objetivo del arte?	Ganar dinero	Perdiendo el tiempo	Relajación	Expresión
+362657	Arte	3	¿Cuál fue la ocupación del hermano de Vincent Van Gogh?	Ministro	Granjero	Artista	Comerciante de arte
+364939	Arte	3	En la "Rosa meditativa" de Salvador Dalí, ¿qué hace la rosa?	Sonriente	Cepillarse los dientes	Tirado en el suelo	Flota
+362582	Arte	3	¿Cómo se llama un ejemplo que sirve como modelo, ejemplar o patrón?	Pedagogía	Parábola	Paralelo	Paradigma
+362589	Arte	3	A mediados del siglo XIX, ¿qué artista pintó "al aire libre"?	George Caleb Bingham	Jean-Baptiste Camille Corot	Theodore Rousseau	Charles-Francois Daubigny
+361142	Arte	3	¿Qué palabra se refiere a la facilidad con la que se puede moldear o moldear un material?	Glíptico	Movilidad	Coloración	Plasticidad
+364696	Arte	3	¿Qué artista pintó "Guernica"?	Monet	Degas	van Gogh	Picasso
+361101	Arte	3	¿Cuál es la sombra parcial ubicada entre la sombra completa y la iluminación completa?	Oscuridad	Matiz	Saturación	Penumbra
+364915	Arte	3	Cuando era demasiado viejo y débil para pintar, ¿Henri Matisse hizo arte haciendo qué con el papel?	Quemándolo	Pintarlo	Arrugándolo	Cortándolo
+80930	Arte	3	¿Qué empresa fabrica la línea de lentes de cámara "Vario Tessar"?	Kodak	Leica	Hasselblad	Zeiss
+74854	Arte	3	¿De qué famoso artista musical no creó Andy Warhol una pintura icónica?	Elvis Presley	Mick Jagger	Michael Jackson	Madonna
+76378	Arte	3	¿Qué marca de lujo de un hotel de lujo son los pisos de mármol negro florentino y los bocetos originales de Caldor?	El Lanesborough	La plaza	Hotel Ritz	Las cuatro estaciones (Four seasons)
+364690	Arte	3	¿Qué característica de una cámara elimina el error de paralaje?	Autoenfoque	Velocidad de obturación	Flash de reducción de ojos rojos	Reflejo de lente única
+71607	Arte	3	¿Qué artista abandonó finalmente la pintura en 1912 por problemas de visión?	Cezanne	Courbet	Renoir	Degas
+27538	Arte	3	Henri Matisse vio la pintura como ¿qué tipo de actividad?	Estímulo	Manteniéndose ocupado	Perdiendo el tiempo	Terapia
+8649	Arte	3	Las pinturas de Vincent Van Gogh son conocidas por sus colores brillantes y ¿qué tipo de composiciones?	Complejo	Lineal	Gracioso	Sencillo
+81636	Arte	3	Al principio de su carrera, Henri Matisse fue llamado fauvista porque le gustaba usar ¿qué tipo de color?	Oscuro	Aburrido	Blanco	Brillante
+346262	Arte	3	¿Qué pintor estaba tan lisiado que se ató pinceles a los brazos?	Auguste Rodin	Rembrandt	Picasso	Pierre Renoir
+346261	Arte	3	¿Cuál es el término para rayar diseños en arcilla húmeda?	Rascarse	Impresión	Impresión de pantalla	Incisión
+324578	Arte	3	¿Cómo se llama un bodegón que aparece en un retrato?	Paisaje	Marina	Retrato	Parergon
+214412	Arte	3	¿Qué artista es famoso por crear pequeñas cajas de madera con objetos cuidadosamente dispuestos en su interior?	Marcel Duchamp	Georges Braque	Pablo Picasso	Joseph Cornell
+363454	Arte	3	¿El arte de Marc Chagall se inspiró en gran medida en imágenes de qué época?	La edad Oscura	Un futuro que imaginó	La edad de piedra	Su infancia
+302446	Arte	3	¿Qué tipo de perspectiva da menos enfoque a los objetos más lejanos?	Perspectiva lineal	Perspectiva en espiga	Perspectiva nublada	Perspectiva aérea
+364728	Arte	3	En lugar de usar lápices para dibujar sus pinturas, ¿qué usó Tiziano?	Lápiz de color	Tiza	Queso	Pintar
+364936	Arte	3	¿Qué es la "Propylaia"?	El arquitecto del Partenón	Una estatua en el ágora	Área donde se encuentran las pirámides	La puerta de entrada a la Acrópolis
+291697	Arte	3	¿Cómo se llama la arcilla blanca fina que se utiliza para hacer porcelana?	Feldespato	Pedernal	Cobre	Caolín
+289172	Arte	3	¿Qué artista canadiense diseñó la bandera de Terranova y Labrador?	Alex Colville	David Blackwood	Robert Bateman	Christopher Pratt
+289170	Arte	3	¿Cuál es otro nombre para una obra de arte que tiene forma de zig-zag o forma de V?	Arte Chicano	Chigi	Vart	Cheurón
+364751	Arte	3	¿Qué término describe la arcilla que se ha secado durante varios días?	Seco sucio	Terrón de arcilla	Bola quebradiza	Leatherhard
+324548	Arte	3	¿Un cuadro de 1924 de Picasso es una imagen de qué trío del mito griego?	Los tres cerditos	Chasquido, crujido y estallido	Tres ratones ciegos	Las tres gracias
+302807	Arte	3	¿Qué color produce el esmalte de estaño?	Negro	rojo	naranja	Blanco
+364823	Arte	3	¿Qué ex miembro de los Beatles era un ávido coleccionista de pinturas de Rene Magritte?	George Harrison	Ringo Starr	John Lennon	Paul McCartney
+50378	Arte	3	¿Una pintura de quién estaba boca abajo en el Museo de Arte Moderno de Nueva York hasta que un estudiante encontró el error?	Alejandro Calder	Georges Braque	Pablo Picasso	Henri Matisse
+364685	Arte	3	Masaccio, quien pintó "La Santísima Trinidad" en 1428, ¿cuántos años tenía cuando murió?	89	41	52	27
+364733	Arte	3	¿Cuál es un estilo de mosaico que incorpora fragmentos de cerámica en un diseño?	Mosaico de cerámica	Embaldosado	Decorar	Piqué Assiette
+364920	Arte	3	¿Cuál es el tema de "La rendición de Breda" de Diego Velázquez?	Lucha artística	Amor romántico	Trabajo duro	Victoria militar
+364602	Arte	3	¿Qué es una película?	Un pájaro	Un tipo de paleta	Un tipo de medio	Una piel o recubrimiento fino
+364822	Arte	3	¿Cuál de estas es la parte de la cámara que concentra la luz y enfoca la imagen?	Película	Obturador	Abertura	Lente
+228482	Arte	3	¿Qué dos artistas asistieron juntos a Cal Arts?	Barbara Kruger y Cindy Sherman	Julian Schnabel y Jeff Koons	Frida Kahlo y Andre Serrano	Eric Fischl y David Salle
+364928	Arte	3	Rafael recibió una formación artística temprana en la corte de ¿qué figura de Urbino?	El director	El anfitrión	El alcalde	El duque
+362668	Arte	3	Rembrandt se graduó de su aprendizaje de arte y enseñó a sus primeros alumnos ¿a qué edad?	10	59	17	22
+81675	Arte	3	¿Cuál es la compensación por la temperatura de color asociada con un conjunto dado de condiciones de iluminación?	Velocidad de obturación	Longitud focal	Velocidad ISO	Balance de blancos
+282589	Arte	3	¿Qué artista de manga fue la artista de cómics más vendida del mundo en 2008?	Naoko Takeuchi	Abrazadera	Yuu Watase	Rumiko Takahashi
+364722	Arte	3	¿Cómo se llaman dos pinturas separadas que se adjuntan y muestran como una obra de arte?	Tríptico	Monóptico	Gemelo	Díptico
+12048	Arte	3	¿Quién escribió una novela gráfica que sigue a un personaje mientras intenta encontrar a su verdadero padre?	Tim Burton	John Wagner	Alex Ross	John Rieber
+364727	Arte	3	Las primeras obras notables de Andy Warhol fueron dibujos caprichosos de qué prendas de vestir?	Pajaritas	Bandas de goma	Calcetines	Zapatos
+51325	Arte	3	¿Quién dijo: "Cuando ves una imagen espantosa una y otra vez, realmente no tiene ningún efecto"?	Max Ernst	Kurt Schwitters	Max Bill	Andy Warhol
+78220	Arte	3	¿Quién diseñó el logo de Old Dutch Cleanser?	Florencia Henderson	Estee Lauder	Coco Channel	Georgia O'Keefe
+364911	Arte	3	¿Cómo se llama el movimiento artístico que floreció durante las décadas de 1960 y 1970?	Arte islámico	Fauvismo	De Stijl	Fluxus
+364549	Arte	3	Antes de convertirse en pintor, Henri Matisse soñaba con ser ¿qué?	Una escritora	Un piloto	Un basurero	Un abogado
+324546	Arte	3	Después de abandonar el arte en 1876, Vincent van Gogh reanudó la pintura ¿en qué año?	1896	1910	1920	1880
+364700	Arte	3	¿En qué habitación de un monasterio de Milán se pintó "La última cena" de Leonardo da Vinci?	El cuarto de baño	La biblioteca	El gimnasio	El comedor
+364606	Arte	3	¿Qué factor indica el número total de veces que se debe cocer una pieza de cerámica?	Tipo de arcilla	Calor del fuego	La cerámica solo se puede cocer una vez	Tipo de esmalte
+361078	Arte	3	¿Qué significan las iniciales "CDV" cuando se usan para describir una foto de la guerra civil?	Confederado Di Vote	Tarjeta visita	Gabinete Do Valentine	Carte De Visite
+364618	Arte	3	¿En qué año celebraron los nazis su exposición de "arte degenerado"?	1933	1938	1935	1937
+362594	Arte	3	¿Qué tipo de arcilla es pesada y pura y se encuentra en el lugar donde se hizo originalmente?	Arcilla secundaria	Arcilla densa	Arcilla de barro	Arcilla primaria
+76755	Arte	3	¿Cuál de los siguientes no fue un tema favorito de Winslow Homer?	Escenas de la guerra civil	Paisajes marinos	Vida al aire libre en las Adirondacks	Retratos de bostonianos ricos
+81638	Arte	3	¿Quién fue el artista cuya pintura titulada "Cuadrado blanco" era un cuadro blanco sobre un fondo blanco?	Mondrian	Moholy-Nagy	El Lissitzky	Malevitch
+364631	Arte	3	¿Qué tipo de arcilla se ha transportado desde su ubicación original y ha acumulado impurezas?	Arcilla primaria	Arcilla glacial	Arcilla corriente	Arcilla secundaria
+324570	Arte	3	La artista de principios del siglo XX, Frida Kahlo, era todo eso, excepto ¿qué?	Mexicana	Una mujer	Un comunista	Enorme en estatura
+74858	Arte	3	En "El nacimiento de Venus" de Botticelli, ¿quién está esperando para arrojar un manto rojo sobre los hombros de Venus?	Diana, diosa de la caza	Danae, esposa de Zeus	Afrodita, hija de Zeus	Flora, diosa de las flores
+364674	Arte	3	Después de muchos fracasos tempranos como pintor, ¿a qué edad comenzó la carrera artística de Paul Cezanne?	15	64	55	30
+324554	Arte	3	En una perspectiva en espiga, ¿dónde convergen todas las líneas de proyección?	En un punto	En la cima	En el fondo	En un eje vertical
+364761	Arte	3	¿Cuál es un aplique en el que se cosen capas de tela y se corta un patrón en la capa superior?	Captura de pantalla	Serigrafía	Bordado	Mola
+364708	Arte	3	La palabra "fotografía" se deriva de palabras en griego que significan "luz" y ¿qué más?	Imagen	Imagen	Copiar	Escritura
+346298	Arte	3	¿Qué pintor expresionista francés fue ciclista de carrera profesional hasta que comenzó a pintar en 1900?	Henri Fantin-Latour	Henri Matisse	Andre Derain	Maurice De Vlaminck
+100510	Arte	3	Las primeras fotografías se revelaron en láminas de qué metal?	Hierro	Estaño	Acero	Cobre
+364742	Arte	3	¿Qué pintor tituló una de sus obras "¿De dónde venimos? ¿Quiénes somos? ¿A dónde vamos?"	Leonardo Di Vinci	Claude Monet	Vincent Van Gogh	Paul Gauguin
+362562	Arte	3	¿Cómo los nativos americanos del suroeste obtienen la arcilla que utilizan para la alfarería?	Comercio	Pagar a otros para que lo busquen	Comprarlo en tiendas	Cavando ellos mismos
+289080	Arte	3	Uno de los ingredientes necesarios para la porcelana, Petuntse, ¿se encuentra solo en qué país?	Rusia	España	Estados Unidos	China
+46697	Arte	3	Wassily Kandinsky se unió a la escuela Bauhaus en 1927, ¿qué arte enseñaba?	Camafeos	Miniaturas	Casas de muñecas	Murales
+361146	Arte	3	¿Qué asociación europea de artistas recibió el nombre de las iniciales de las ciudades de origen de los miembros fundadores?	ROPARB	BRAMPA	BRACO	COBRA
+364661	Arte	3	¿A quién acusó John Ruskin de arrojar un bote de pintura a la cara del público?	Jackson Pollock	Claude Monet	Andy Warhol	James Abbott McNeill Whistler
+186925	Arte	3	¿Qué galería de arte estadounidense tiene el boceto de Constable de "The Lock"?	Museo de la ciudad de Los Ángeles	El Getty	El Museo Metropolitano de Arte	Museo de arte de Filadelfia
+346364	Arte	3	¿En qué año pintó Picasso sus "Amantes y mujeres"?	1979	1864	1849	1923
+362546	Arte	3	La "Alegoría de la seda" de Salvador Dalí es una pintura de un huevo y ¿qué pequeñas y coloridas criaturas voladoras?	Escarabajos	Libélulas	Colibríes	Mariposas
+302414	Arte	3	El pintor Rafael era conocido por sus pinturas de ¿qué mujer bíblica?	Piedad	Raquel	Martha	María
+362561	Arte	3	¿Qué es un gibber plain?	Un llano cubierto de limestome agudo	Un área de suelo salado seco	Un pantano salado	Un llano cubierto de piedras pulidas
+324542	Arte	3	¿Cuáles son los niveles de luminosidad y saturación en colores profundos?	Baja luminosidad, baja saturación	Baja luminosidad, alta saturación	Alta luminosidad, baja saturación	Alta luminosidad, alta saturación
+362599	Arte	3	¿Cuál fue el movimiento de los años 60 también conocido como "Pintura Óptica"?	Cubismo	Modernismo	Arte pop	Arte abstracto
+324557	Arte	3	¿Cómo se llama la creación de tonos y sombras con líneas paralelas poco espaciadas?	Dibujar	Dibujo	Sombreado	Eclosión
+361143	Arte	3	¿Rafael se mudó a Florencia en 1504 para estudiar las obras de qué maestros del Renacimiento?	Picasso y Dali	Rembrandt y Rubens	Warhol y Turner	Leonardo y Miguel Ángel
+76752	Arte	3	¿Qué tipo de estilo de pintura usó Tintoretto que hizo que a algunos les desagradara?	Vistoso	Sucio	Abstracct	Rápido
+74733	Arte	3	¿Qué artista adoptó Francia como su hogar, pero en realidad nació en Stampa, Suiza, en 1901?	Daniel francés	Balthus	Paul Klee	Alberto Giacometti
+364663	Arte	3	Georgia O'Keeffe dejó de pintar por un tiempo después de que la escuela de arte la hizo pintar, ¿cómo?	Con su mano izquierda	Al revés	En su sueño	De modo realista
+364608	Arte	3	¿Por qué se vendió el cuadro de Vincent van Gogh "Girasoles" en 1987?	$ 300 000	$ 9,9 millones	$ 900 000	$ 39,9 millones
+302463	Arte	3	¿Qué palabra describe una pieza delgada de un material costoso aplicado a un material más barato?	Falso	Barniz	Frente falso	Chapa
+362586	Arte	3	¿Qué fotógrafo francés es considerado el "padre del fotoperiodismo moderno"?	Jacques Chirac	Susan Sontag	Steve Morsel	Henri Cartier-Bresson
+75477	Arte	3	¿Cuál de los siguientes no es un elemento esencial del esmalte de cerámica?	Sílice	Elemento vitrificante	Refractario	Níquel
+74850	Arte	3	¿Cómo se conoce también el Renacimiento de Harlem de la década de 1920?	La superación de Harlem	El movimiento ascendente africano	La era de los cambios	El nuevo movimiento negro
+326027	Arte	3	¿Dónde construyó Claude Monet un estudio?	El Louvre	El Ayuntamiento	Su sótano	Su jardín
+364871	Arte	3	¿Qué inglés produjo la primera porcelana en Inglaterra?	Josiah Wedgwood	Nicolás Sprimont	Alboin Birks	Charles Gouyn
+361137	Arte	3	¿Cuál es el nombre del cuadro más famoso de Gustave Klimt?	Divorcio	Pareja	Naturaleza muerta	El beso
+364947	Arte	3	¿Cómo se llaman los bardos y artistas indígenas en África Occidental?	Gitanos	Vitabu	Hlonipha	Griots
+289182	Arte	3	Debido a su uso del color, Henri Matisse y sus amigos fueron llamados "Los Fauves", ¿qué significa?	Los sencillos	Los aburridos	Los inteligentes	Los salvajes
+346284	Arte	3	¿Cómo se llama una pintura que ha sido rayada o manchada con un color más oscuro?	Cocido	Bronceado	Soldado	Brindled
+42709	Arte	3	Pablo Picasso, que pintó al mismo tiempo que Henri Matisse, vio a Matisse como su único ¿qué?	Prima	Maestro	Vecino	Rival
+364767	Arte	3	¿Quién creó la primera fotografía en papel de una figura humana en 1840?	Alexander Hesler	Edward Anthony	George N. Barnard	William Henry Fox Talbot
+302497	Arte	3	¿Wassily Kandinsky creó su primer arte abstracto después de ver el arte de qué religión?	Budismo	cristiandad	judaísmo	islam
+364000	Arte	3	¿Cuál fue la relación entre los dos artistas rococó franceses, Fragonard y Boucher?	Boucher era el cuñado de Fragonard	Eran primos hermanos	Fragonard era el hermano mayor de Boucher	Fragonard fue alumno de Boucher
+289165	Arte	3	¿Por qué Vincent Van Gogh abandonó la Academia de Arte de Amberes?	Era demasiado viejo	No tenía suficiente dinero	Su esposa estaba embarazada	Era demasiado singular
+364665	Arte	3	¿Qué elemento de los rascacielos de la ciudad de Nueva York fascinó a Georgia O'Keeffe?	Su tamaño	Sus tonos de color	Sus ascensores	Su forma
+364675	Arte	3	¿Quién era el propietario del estudio que llevó a cabo la primera exposición impresionista?	Jean August Dominique Ingres	Edouard Manet	Georges Seurat	Paul Nadar
+74134	Arte	3	¿Quién pintó "Dazzle Ships"?	Percy Wyndham Lewis	Gerald Du Maurier	William Holman-Hunt	Edward Wadsworth
+289098	Arte	3	Claude Monet tuvo que tomarse un descanso de la pintura al aire libre en 1867 ¿por qué?	Gripe estomacal	Una espalda rota	Neumonía	Problema ocular
+186867	Arte	3	En 1948, ¿qué diseñó Henri Matisse para la iglesia de St. Dominique?	Decoración de interiores	Un colgante de pared	Cubierta del programa	Vitral
+364565	Arte	3	¿Rafael fue a Florencia para aprender qué de las pinturas de Miguel Ángel?	Dimensiones	Escultura	Dibujo	Anatomía
+364723	Arte	3	¿Cómo se llama la parte inferior de un arco, cornisa o escalera?	Lintil	Nicho	Zócalo	Sofito
+361074	Arte	3	El primer matrimonio de Rembrandt ayudó a su carrera artística porque ¿qué era su suegro?	Un pintor	Un profesor	Un banquero	Un comerciante de arte
+364844	Arte	3	¿Cuál fue la causa del dramático aumento de la popularidad de las caricaturas en el siglo XIX?	Fotografía	Biografía	Cienciología	Cincografía
+289300	Arte	3	¿Qué artista sufrió de dolorosos daños en la columna y úlceras provocadas por muchas caídas a caballo?	Edgar Degas	Claude Monet	Francisco de Goya	Theodore Gericault
+27913	Arte	3	¿Cuál es el nombre de una torre budista con varios aleros alados?	Torreta	Rotonda	Hazme	Pagoda
+324591	Arte	3	¿Cuál de las siguientes es una escultura hecha quitando material de un bloque o forma más grande?	Escultura divisional	Escultura multiplicativa	Escultura aditiva	Escultura sustractiva
+324583	Arte	3	¿En qué año se fundó el Museo del Estado de Nueva York?	1923	1946	1966	1836
+364753	Arte	3	En lugar de usar mármol o bronce, Edgar Degas hizo esculturas de cera o ¿qué?	Espuma de floristería	Play-Doh	Esmeraldas	Arcilla
+364621	Arte	3	La luz sin fuente, técnica utilizada por Rembrandt, ¿cómo se conoce?	Coloratura	Collage	Cromatografia	Claroscuro
+364734	Arte	3	¿Qué palabra describe la falta de oxígeno en un horno que puede afectar el color de la cerámica?	Inducción	Lanzamiento	Fundición deslizante	Reducción
+362548	Arte	3	¿Quién pintó el famoso cuadro de Napoleón cruzando los Alpes?	Frantois Rabelais	Pieter Brueghel el Viejo	Rembrandt Harmenszoon van Rijn	Jacques-Louis David
+78216	Arte	3	Se dice que el pintor italiano Giotto es el que realmente aportó qué a la pintura.	Color	Talla pequeña	Tableros de madera	Realismo
+364676	Arte	3	¿Dónde se produjo el arte del Renacimiento del Norte en la primera mitad del siglo XVI?	Norteamérica	Inglaterra del norte	África del Norte	Fuera de Italia
+100509	Arte	3	¿En qué siglo se produjo la mejor porcelana inglesa?	siglo 14	Siglo 21	Siglo 10	siglo 18
+367594	Arte	3	Los espectadores de sus obras posteriores, más libres, afirmaron que las obras de Tiziano se ven mejor desde qué distancia?	Una pulgada	Dos pies	De cerca	Muy lejos
+346366	Arte	3	¿De qué tipo de cocción depende la técnica de sobrevidriado?	Alta temperatura	Poco tiempo	Largo tiempo	Baja temperatura
+364652	Arte	3	¿Cuál de estas características de artistas Paul Cezanne creía que debería significar más que el contenido del arte?	Educación	Años	Aficiones	Habilidad
+364954	Arte	3	¿Cómo se llama rotar una cámara de izquierda a derecha?	Inclinación	Enfocar	Ángulo	Pan
+346353	Arte	3	¿Cuál es una técnica que utiliza manchas de color para hacer formas con bordes imprecisos?	Lineal	Pintar por número	Estera	Pictóricamente
+364922	Arte	3	¿Quién pintó "El beso"?	Egon Schiele	van Gogh	Henri Bosch	Gustav Klimt
+8654	Arte	3	¿Georges-Pierre Seurat originó qué forma de arte que usa el puntillismo?	Arte mesopotámico	Post impresionismo	Romanticismo	Neoimpresionismo
+362629	Arte	3	Leonardo da Vinci fue contratado por el duque de Milán cuando dijo que podía construir qué cosa portátil.	Casa	Máquina voladora	Imprenta	Puente
+364653	Arte	3	Durante la pintura, la obra de Claude Monet "Mujeres en el jardín" al aire libre fue detenida por un sistema de ¿qué?	Ascensores Hidraulicos	Columpios de árboles	Brazos de ayudantes	Poleas
+214409	Arte	3	¿Falstaff encaja fácilmente en qué tradición cómica?	Avaro	Plomo romántico	Segundo payaso	Miles Gloriosus
+364574	Arte	3	¿Para asegurar su fama, Salvador Dalí hizo un gran uso de qué?	La Internet	El iphone	La biblia	Los medios de comunicación
+364838	Arte	3	En sus pinturas, Wassily Kandinsky trabajó para vincular el color y ¿qué?	Sonidos	Olores	Texturas	Sentimientos
+362558	Arte	3	¿Qué dijo Wassily Kandinsky que vio al escuchar una buena pieza musical?	Letras y numeros	Gatos y perros	Escarabajos y gusanos	Colores y lineas
+362553	Arte	3	¿Por qué característica de sus muchas pinturas se alaba a menudo a Leonardo da Vinci?	Talla pequeña	Firma ordenada	Espesor de pintura	Fondos De Paisajes
+228442	Arte	3	¿Cuál de las siguientes opciones se define como "una capa fina y transparente de pintura o tinta"?	Washington	Menguar	Cera	Lavar
+361055	Arte	3	¿Qué edad tenía Vincent Van Gogh cuando falleció?	43	55	67	37
+324520	Arte	3	A diferencia de muchos artistas, Gustav Klimt nunca pintó un cuadro de ¿qué?	Un amanecer	Una mujer	Fruta	Él mismo
+27079	Arte	3	¿Quién creó el autorretrato oblicuo "Traje de fieltro", que se muestra en una percha?	Marcel Duchamp	Claus Oldenburg	Kurt Schwitters	Josef Beuys
+302470	Arte	3	¿Qué civilización antigua utilizó ladrillos de cerámica alrededor del 4000 a. C.?	chino	japonés	ruso	egipcio
+364658	Arte	3	¿El pintor Jacopo Robusti, un ex tintorero italiano, es más conocido por qué nombre?	Raphael	Botticelli	Lippi	Tintoretto
+100365	Arte	3	¿Qué cuadro se dice que colgó en la oficina de Sigmund Freud?	Ansiedad de Munch	Niño guiando un caballo de Picasso	La persistencia de la memoria de Dalí	La pesadilla de Fuseli
+83692	Arte	3	¿Qué artista creó "La Compañía de Milicias del Capitán Frans Cocq"?	Hieronymus Bosch	Pablo Picasso	Paul Rubens	Rembrandt Van Rijn
+346359	Arte	3	¿Los problemas con el arte de Gustav Klimt en la Universidad de Viena lo llevaron a hacer qué con el trabajo público?	Aceptar más	Hacerlo gratis	Olvidarlo	Deja de hacerlo
+325473	Arte	3	¿Qué palabra describe a una persona que es muy hábil en una técnica?	Aficionado	Profesional	Profesor	Virtuoso
+364625	Arte	3	¿Cómo se llama un dibujo de arriba que muestra dónde colocar los objetos en un espacio?	Bosquejo	Retrato	Paisaje	Plan
+50898	Arte	3	¿Quién pintó el "chico azul"?	John C. Turner	Franz Hals	Rembrandt Van Rijn	Thomas Gainsborough
+364715	Arte	3	La primera película comercial en color, inventada por los hermanos franceses Lumiere en 1907, cómo se llamó?	Hojas de color	Película fotográfica	Hojas de color autocromáticas	Placas Autocromáticas
+362581	Arte	3	¿Qué evento afectó la producción de animación europea, dejando a EE.UU. como líder en el campo?	El hundimiento del Titanic	La guerra de Corea	La guerra de vietnam	Primera Guerra Mundial
+78546	Arte	3	¿Qué pintura de Barnett Newman exhibió por primera vez el "zip"?	Adán	Pacto	Vic Heroticus Sublimus	Onement
+361133	Arte	3	¿Qué tipo de arte surgió en la exposición titulada "Los jóvenes contemporáneos" en 1961?	Posmodernismo	Neo-surrealismo	Minimalismo	Arte pop
+324585	Arte	3	Antes de ser conocido como pintor, ¿Leonardo da Vinci diseñó dispositivos para qué grupo?	El guarda costa	Los montados canadienses	La policía	El ejército
+362556	Arte	3	A diferencia de muchos otros artistas, ¿cuál de los objetos de Rembrandt aún sobreviven?	Pinturas	Ropa	Cintas de video	Dibujos
+364766	Arte	3	¿Quién es el pintor estadounidense que pintó flores y el oeste estadounidense?	Edgar Degas	Jackson Pollock	Andy Warhol	Georgia O'Keeffe
+282596	Arte	3	¿Qué pintor del siglo XIX fue el ídolo artístico de Pablo Picasso?	Rembrandt	Manet	Monet	Goya
+289167	Arte	3	Las pinturas cubistas de Pablo Picasso se centraron en romper cosas y ¿hacer qué?	Colorearlos	Dejándolos solos	Borrándolos	Poniéndolos de nuevo juntos
+362598	Arte	3	¿Qué artista de fotografía tuvo una hija llamada "Doon" que nació en 1945?	Horacio Bristol	Berenice Abbott	Eugene Atget	Diane Arbus
+50379	Arte	3	¿Qué dijo Pablo Picasso que era más fuerte que él y lo hizo "cumplir sus órdenes"?	El sol	Música	Escritura	Pintura
+364892	Arte	3	¿Qué forma de arte rápida y fácil de producir en masa creó Joan Miró?	Murales	Esculturas	Pinturas	Huellas dactilares
+48748	Arte	3	¿En qué año comenzó Claude Monet su serie de obras con nenúfares?	1901	1888	1891	1899
+346296	Arte	3	¿Qué dos pintores austriacos famosos murieron durante la pandemia de influenza española en 1918?	Gustav Klimt y Gabriele Munter	Gabriele Munter y Egon Schiele	Gustav Klimt y Fritz Schippers	Gustav Klimt y Egon Schiele
+362591	Arte	3	¿Qué artista pintó "Les Demoiselles D'Avignon"?	Miguel Angel	Warhol	Liechtenstein	Picasso
+75479	Arte	3	¿Qué término describe las bandas moldeadas que rodean vasijas de cerámica?	Bellarmines	Moldes	Circulares	Cordones
+364905	Arte	3	¿Qué impresionista estadounidense salió con el impresionista francés Edgar Degas?	Vincent Van Gogh	Camille Pissaro	Berthe Morisot	Mary Cassatt
+48750	Arte	3	¿Quién disparó a Andy Warhol?	Edie Sedgwick	Joe Dallesandro	Paul América	Valerie Solanis
+364695	Arte	3	Movido por el deseo de ayudar a la gente, Vincent van Gogh dejó el arte en 1876 para convertirse en ¿qué?	Un basurero	Un cantante	Un profesor	Un sacerdote
+81080	Arte	3	¿Qué tipo de cerámica utiliza una combinación de acabados naturales y sintéticos?	Porcelana	Gres	Rockware	Terracota
+364683	Arte	3	¿Qué estilo de arte italiano utilizó tierra, cemento, ramitas y periódicos?	Barroco	Realismo	Constructivismo	Arte Povera
+361141	Arte	3	¿Cuál es el nombre de un palo de madera que se usa para golpear un cincel para tallar madera?	Palo	Rama	Tubo	Mazo
+324549	Arte	3	¿En qué década se comercializó la primera cámara con enfoque automático?	1930	Los noventa	1950	1970
+364882	Arte	3	¿Qué artista pintó "The Gleaners"?	Vincent Van Gogh	Georges Seurat	Claude Monet	Jean Francois Millet
+364604	Arte	3	Después de que fracasara una revuelta gubernamental, el pintor español Francisco de Goya se mudó voluntariamente a dónde?	La casa de su mamá	Una casa flotante	Madrid	Francia
+361038	Arte	3	Summer Days de Georgia O'Keeffe presenta el cráneo de qué animal del bosque.	Un leon	Un lobo	Una vaca	Un ciervo
+302812	Arte	3	Wassily Kandinsky dijo una vez que los objetos en el arte de los impresionistas son ¿qué?	Bonita	Apariencia divertida	Demasiado grande	Difícil de reconocer
+364745	Arte	3	Los ángulos agudos y los tonos vívidos que pintó Pablo Picasso se inspiraron en máscaras tribales ¿de dónde?	Canadá	China	Grecia	África
+302798	Arte	3	¿Qué vieja técnica de cocción es posible en su propio patio trasero?	Fuego negro	Horno de colmena	Cocción al horno	Cocción en boxes
+91390	Arte	3	¿Cuál es el nombre de un patrón de formas curvas abstractas?	Exacto	Mosaico	Caleidoscopio	cachemir
+364699	Arte	3	¿En qué elemento artístico se centró Rembrandt al principio y luego abandonó para centrarse en el color?	Forma	Talla	Murales	Línea
+289233	Arte	3	¿Qué compró Bill Gates por $ 30 millones en una subasta de Christie's en 1994?	Cancionero de los Beatles	Una pintura de Andy Warhol	Graceland de Elvis Presley	Un cuaderno de Da Vinci
+361034	Arte	3	Las pinturas de la vida cotidiana de Francisco Goya le dieron mucho tiempo para ver ¿qué?	Niños y bebés	Luz solar y sombra	Él mismo en el espejo	Cómo actúa la gente
+361136	Arte	3	¿Qué científico fotografió Julia Margaret Cameron en 1868 que dijo que le gustaba más su foto?	Isaac Newton	Thomas Edison	Lewis Latimer	Charles Darwin
+345169	Arte	3	¿Quién es conocido por haber pintado jinetes, bailarinas y exuberantes desnudos que emergen de las bañeras?	Bonnard	Pissarro	Poussin	Degas
+345161	Arte	3	Antes de ser pintora, Georgia O'Keeffe creó arte ¿con qué?	Cámara y película	Telas y pegamento	Marcadores de colores	Carboncillo Y Pasteles
+324571	Arte	3	¿Cuál dijo Salvador Dalí que fue su mayor alegría?	Despertar tarde	Dándose un baño	Comprobando su correo electrónico	Siendo Salvador Dali
+85806	Arte	3	El 27 de mayo de 1993, ¿qué museo de fama mundial resultó gravemente dañado por la explosión de una bomba?	La Alte Pinakothek, Múnich	El Louvre, París	El Hermitage, San Petersburgo	La Galleria Uffizi, Florencia
+302777	Arte	3	¿En qué ciudad se fundó FW Hasselblad & Co. por primera vez en 1841?	Munich	Amsterdam	Hamburgo	Gotemburgo
+325490	Arte	3	¿Cuál es el nombre de una representación tridimensional del cuerpo humano?	Retrato	Marioneta	Marioneta	Maniquí
+82182	Arte	3	¿Cuál es el componente principal de la arcilla?	Agua	Oxido de aluminio	Monóxido de carbono	Óxido de silicio
+325762	Arte	3	En arte, ¿cuál es la definición de "sombra"?	Cualquier color azul	Colores del arcoiris	Un tipo de cepillo	Un color al que se le añade el negro
+89691	Arte	3	¿Qué personaje de cómic lucha con "los cuatro grupos básicos de culpa: comida, amor, madre y carrera"?	Mujer Maravilla	Brenda Starr	Pequeño nemo	Cathy
+302813	Arte	3	¿Qué lente tiene una distancia focal sustancialmente más corta que la distancia focal de una lente normal?	Teleobjetivo	Lente de enfoque automático	Reflejo de lente única	Lente gran angular
+186877	Arte	3	¿La tira de quién explora la vida de los niños afroamericanos que crecen en un vecindario blanco?	Los años maravillosos	Sopa de piedra	Cocodrilos	Los Boondocks
+184571	Arte	3	¿Cómo se llama la superficie general a la que se aplica la pintura?	Suelo	Avión	Campo	Suelo
+364704	Arte	3	¿Cómo se llama una pintura o talla que tiene tres partes una al lado de la otra, generalmente con bisagras juntas?	Pieza de tres partes	Trillizo	Triopolio	Tríptico
+364551	Arte	3	¿Qué tipo de decoración popular utilizaron los alfareros italianos en el siglo XVI?	Raspado	Blanco Y Blanco	Salazón	Esgrafiado
+346357	Arte	3	¿Qué es un recipiente hueco o una taza como se conoce en la terminología del arte?	Un espaciador	Un Louge	Un hollower	Un recipiente
+100364	Arte	3	¿Cuál es el estilo artístico opuesto al realismo?	Confeccionado	Naturaleza muerta	Surrealismo	Idealización
+361043	Arte	3	¿Qué material utilizado en la pintura hace que las partículas de pigmento se adhieran entre sí y al soporte?	Pigmento	Lavar	Cuaderno	Aglutinante
+32600	Arte	3	Henri Matisse comenzó a dibujar después de estar atrapado en la cama, ¿por qué?	Tuberculosis	Pierna rota	Migraña	Cirugía
+364961	Arte	3	El cuadro de Henri Matisse "La línea verde" es en realidad un retrato de qué mujer?	Su sobrina	Su abuela	Su casera	Su esposa
+364680	Arte	3	En el mundo del arte, ¿a qué se refería originalmente la palabra pastel?	Color claro	Tipo de superficie	Moda	Palo de dibujo similar a la tiza
+345165	Arte	3	Rembrandt era conocido por pintar más de 600 cuadros, 100 de los cuales eran ¿de qué?	Campesinos	Molinos de viento	Batallas	Él mismo
+362560	Arte	3	¿Quién fue el famoso hermano de WB Yeats que pintó muchos cuadros que representan los problemas irlandeses?	Herbert	Toolin	Arrozal	Jack
+324534	Arte	3	La "Fábrica" ​​de Andy Warhol estaba ubicada en qué gran ciudad del este de Estados Unidos?	Bostón	Filadelfia	Baltimore	Nueva York
+346367	Arte	3	Muchos se refieren a Henri Matisse como el artista del siglo XX que mejor sabía cómo usar ¿qué?	Talla	Un pincel	Sus ojos	Color
+364013	Arte	3	En arquitectura, ¿cómo se llama la viga horizontal en la cresta de un techo?	Travesaño	Viga	Viga de fundación	Cumbrera
+324552	Arte	3	En imágenes digitales, ¿cómo se llaman las marcas no identificables recogidas en el curso del escaneo?	Pixeles	Pixelación	Arañazos	ruido
+364851	Arte	3	¿Cuál es el nombre de la técnica de vidriado de cerámica utilizada por primera vez por los babilonios en el Medio Oriente?	Plumando	Gres	Terracota	Mayólica
+41183	Arte	3	¿Qué tipo de loza apareció en Italia a finales del 1300?	porcelana de Delft	Blanc Et Noir	Kenzan	Mayólica
+7520	Arte	3	¿Qué nunca pintaron los antiguos artistas chinos?	Desnudez	Tubería	Gatos	Mujeres Descalzas
+361064	Arte	3	¿De qué forma de arte es un ejemplo la reproducción de "Mona Lisa" adornada con un bigote?	Realismo	Impresionismo	Futurismo	Dada (dadaísmo)
+364873	Arte	3	¿En lugar de hacerse amigo de muchos pintores, Pablo Picasso se hizo amigo de qué artistas?	Cantantes y compositores	Poetas y cantantes	Arquitectos y bailarines	Escritores y poetas
+364846	Arte	3	Cuando la vista de Edgar Degas disminuyó, ¿se volvió hacia qué?	Escritura	Collage	Arquitectura	Escultura
+324537	Arte	3	A diferencia de sus amigos impresionistas, a Edgar Degas le gustaba pintar ¿dónde?	Afuera	En aviones	Bajo tierra	Dentro
+50785	Arte	3	¿Cuándo se debe realizar la cocción de bisque?	Justo después del acristalamiento	Después del primer disparo	Antes de trabajar con arcilla	Justo antes del acristalamiento
+364746	Arte	3	A los 25 años, Francisco Goya consiguió su primer gran trabajo pintando frescos ¿en qué edificio de su ciudad natal?	Una escuela	Un museo	Un teatro	Una iglesia
+289241	Arte	3	¿Qué artista publicó un manifiesto de 1947 en el que predijo que el arte abarcaría las ideas modernas?	Kurt Schwitters	Marcel Duchamp	Lucille Antonieta Blutz	Lucio Fontana
+346350	Arte	3	¿Quién se refirió a la animación como "hacer un par de miles de dibujos por cien pies de película"?	Wladyslaw Starewicz	Andreas Deja	Bob Clampett	Winsor McCay
+324553	Arte	3	¿Cuáles de los siguientes son colores secundarios?	Negro, blanco y gris	Rojo, azul y amarillo	Verde, azul y naranja	Verde, naranja y morado
+96379	Arte	3	¿Cuál es la sustancia que se agrega al esmalte de cerámica para reducir su punto de fusión?	Gránulos	Esgrafiado	Mezcla de fusión	Flujo
+361150	Arte	3	En sus últimos años, ¿a Georgia O'Keeffe le encantaba pintar los desiertos y acantilados de qué estado?	Utah	Nevada	California	Nuevo Mexico
+78221	Arte	3	Andy Warhol creó una serie de pinturas famosas, ¿de qué actriz de los años 50?	Joan Crawford	Audrey Hepburn	Kate Hepburn	Marilyn Monroe
+8655	Arte	3	¿Qué es una impresión fotográfica al colocar objetos en papel sensible a la luz y exponerlos a la luz?	Fotografía	Telefotográfico	Negativo	Fotograma
+364684	Arte	3	Rene Magritte comenzó su carrera artística diseñando ¿qué?	Carteles	Fotos De Revistas	Cortinas	Papel Decorativo de Pared
+258508	Arte	3	¿"El grito" de Edvard Munch también se conoce como qué?	Hombre en un puente	Hombre amarillo	Ay	El llanto
+364639	Arte	3	¿Qué artista moderno tardío pintó una serie de pinturas inspiradas en el criminal británico John Christie?	Georg Baselitz	Richard Estes	Francis Bacon	Brett Whiteley
+361132	Arte	3	En arquitectura, ¿cómo se llama un porche o pasarela con techo?	Rotonda	Habitación	Torre	Pórtico
+289166	Arte	3	¿Cómo se llama un móvil que está sujeto a una base en lugar de suspendido en el aire?	Basile	Móvil al revés	Base móvil	Estable
+76750	Arte	3	Ghirlandaio, el maestro de Miguel Ángel, estaba tan celoso de su talento que ¿qué hizo?	Lo hizo el jefe	Lo convirtió en el chef	Le cobré el doble	Lo envió lejos
+289095	Arte	3	¿Wassily Kandinsky fue profesor en qué escuela europea de arte y diseño?	La sorbona	Wiener Werkstadt	Universidad de Glasgow	La escuela Bauhaus
+367670	Arte	3	Andy Warhol hizo arte usando serigrafía, ¿el proceso que ahora se usa para poner imágenes en qué?	Televisión	Fondo de pantalla	Piel	Camisetas
+289171	Arte	3	¿Qué artista atrajo a personas en los refugios del metro de Londres durante la Segunda Guerra Mundial?	Graham Bell	Kurt Schwitters	Graham Sutherland	Henry Moore
+15529	Arte	3	Antes de convertirse en pintor, ¿Andy Warhol diseñó qué tipos de pantallas?	Catálogos	Revista	Fuegos artificiales	Ventanas de escaparate
+361129	Arte	3	¿Qué dos empresas poseen actualmente los derechos de autor de "Dragon Ball", "Dragon Ball Z" y "Dragon Ball GT"?	Funimation y pionero	Pionero y pájaro	Toei y akira toriyama	Funimation y Toei
+362641	Arte	3	Confinado a la cama después de una operación de 1941, ¿Henri Matisse recurrió a qué tipo de arte?	Cubiertas de caja de cerillas	Diseños de revistas	Miniaturas	Cuadrado - Composición Ilustraciones
+363462	Arte	3	¿Qué artista posimpresionista es conocido por pintar temas tahitianos?	Vincent Van Gogh	Edouard Manet	Henri Matisse	Paul Gauguin
+186922	Arte	3	¿Cuáles fueron las materias principales de la Escuela Bauhaus de Wassily Kandinsky?	Musica y gimnasio	Ciencias y Matemáticas	Leyendo y escribiendo	Arte y Diseño
+324532	Arte	3	¿Qué tipo de personas eran los temas favoritos de Edgar Degas?	Bebés	Ancianos	Extraños	Mujer
+215129	Arte	3	¿En qué parte de la superficie se esmaltaban típicamente los recipientes de "cerámica de borde"?	Solo exterior	Solo moldes decorativos	En todas partes	Solo interior
+74856	Arte	3	¿Cómo se viste a menudo al hombre invisible en los cuadros de Rene Magritte?	En un esmoquin	Con peluca de payaso	Con vestido y gorro	Con traje y sombrero
+346268	Arte	3	¿Las creaciones de Marcel Duchamp a partir de la basura y los artículos desechados se conoce como qué?	Arte basura	Escultura	Cosas desordenadas	Arte Encontrado
+96636	Arte	3	Muchos de sus compañeros surrealistas no querían a Salvador Dalí por sus opiniones sobre qué.	Religión	Técnicas de pintura	Evolución	Política
+364820	Arte	3	¿Cuál de las siguientes series de anime no se combinó para hacer "Robotech" en Estados Unidos?	Genesis Climber Mospeada	Macross	Cruz del Sur	Mobile Suit Gundam
+362619	Arte	3	Todavía tenemos ejemplos de famosas estatuas griegas y romanas perdidas porque la gente hizo ¿qué con ellas?	Tomó fotos	Envolvió	Los enterró	Copias 
+346297	Arte	3	Durante su luna de miel en Inglaterra, ¿Viktor Hasselblad conoció y formó una sociedad con qué hombre?	Edwin H. Land	Ernst Leitz	Zeiss Tessar	George Eastman
+186888	Arte	3	Una de las obras notables de Peter Paul Rubens presentaba ¿qué gemelos mitológicos griegos?	Chip y Dale	Heckle y Jekyll	Mary-Kate y Ashley	Castor y pollux
+362688	Arte	3	En "Evangelion", ¿dónde vivía anteriormente Asuka Langley Sohryu?	Inglaterra	Francia	Estados Unidos	Alemania
+364923	Arte	3	En sus últimos años, Vincent van Gogh creó más de 150 pinturas, ¿desde qué lugar?	Su aula	Su cocina	Las calles	Su habitación de hospital
+364934	Arte	3	¿Cuál de estos no es un tipo de escultura en relieve?	Alto	Hundido	Bajo	Medio
+364729	Arte	3	¿Cuáles son las medidas de la pintura "Mona Lisa" de Leonardo da Vinci?	4 'por 5'	16 "por 20"	2'3 "por 3'2"	1'9 "por 2'6"
+302698	Arte	3	¿Qué término describe los colores que tienen mucha luminosidad y baja saturación?	Brillante	Oscuro	Profundo	Pálido
+362543	Arte	3	¿Cuál de los siguientes no es un tipo de torno de alfarería?	Rueda eléctrica	Rueda de pedal de lixiviación	Rueda de patada de Lockerbie	Rueda de husillo
+364865	Arte	3	La obra más famosa de Rembrandt, "La ronda de noche", ¿es también su qué?	La primera	La peor	La más colorida	La más grande
+362583	Arte	3	¿Cuál es el nombre de un borde de cartón decorativo colocado entre un cuadro y un marco?	Cuadro	Cenefa	Podar	Estera
+364941	Arte	3	Mientras trabajaba como diseñador de tapices, Francisco de Goya dibujó sus primeras escenas ¿de qué?	Plantas Submarinas	Trabajadores de oficina	Niños en el parque	La vida cotidiana
+289100	Arte	3	Después de pasar años copiando obras maestras antiguas, ¿qué hizo Pablo Picasso con ellas?	Los ignoré	Los destruyó	Los olvidé	Los reorganizó
+364607	Arte	3	¿Dónde se originó el movimiento del arte pop?	Alemania	Estados Unidos	China	Inglaterra
+75482	Arte	3	¿Qué artista del Renacimiento cuando se le pidió que mostrara su habilidad simplemente trazó un círculo perfecto?	Botticelli	Miguel Angel	Guisseppe Verdi	Giotto
+75488	Arte	3	¿Quién fundó la empresa Leica Camera?	Viktor Hasselblad	George Eastman	Zeiss Tessar	Ernst Leitz
+290276	Arte	3	¿Andy Warhol produjo "Quince minutos de Andy Warhol" para qué cadena de videos musicales?	CNN	Central de la comedia	VH1	MTV
+324596	Arte	3	En fotografía, ¿qué palabra se refiere a la sensibilidad de la película a la luz?	Exposiciones	Negativo	Abertura	Velocidad
+345155	Arte	3	¿Qué pintor abandonó su profesión de banquero y dejó a su esposa e hijos para dedicarse al arte?	Johannes Vermeer	Rembrandt Van Rijn	Vincent Van Gogh	Paul Gauguin
+361128	Arte	3	¿Cuál de los siguientes estilos de arte abarca tanto lo ordinario como lo surrealista o mágico?	Realismo	Surrealismo	Dadá	Realismo magico
+346271	Arte	3	¿Cuál es el tipo de alfarería más pura?	Gres	Loza de barro	Mármol	Porcelana
+289202	Arte	3	¿Con qué compañero pintor se hizo amigo Salvador Dalí mientras estaba en París?	Henri Matisse	Paul Klee	Andy Warhol	Pablo Picasso
+137611	Arte	3	¿Cómo se conoce un teatro de la ciudad de Nueva York con menos de 500 asientos?	Teatro	Pequeño lugar	Caja negra	Fuera de Broadway
+346354	Arte	3	En sus primeros días, ¿Rembrandt raspó detalles en sus pinturas usando qué?	Su paleta	Un martillo	Su meñique	Su mango de cepillo
+289126	Arte	3	Debido a su interés por la anatomía humana, Leonardo da Vinci hizo estudios de todos, ¿menos cuál de estos?	Sistema circulatorio	Esqueleto	El ojo	Folículos pilosos
+289135	Arte	3	¿Cuál fue la primera serie de anime?	Doraemon	Jungle Taitei (Kimba el león blanco)	Mach Go Go Go (Speed ​​Racer)	Átomo de Tetsuwan (Astro Boy)
+361130	Arte	3	En un día nublado, ¿cuál iluminación es probable que un fotógrafo encuentre?	Iluminación fácil	Iluminación dura	Iluminación brillante	Iluminación suave
+30545	Arte	3	¿Qué movimiento artístico de 1520 a 1600 fue una reacción contra el Alto Renacimiento?	Barroco	románico	gótico	Manierismo
+364812	Arte	3	¿Qué pasó con "La Última Cena" como resultado de la técnica de pintura no probada de Leonardo da Vinci?	Se mantuvo intacto	Se volvió azul	Se lavó	Se deterioró
+364747	Arte	3	¿Cómo se llama el arte japonés de los arreglos florales?	Anime	edamame	Naturaleza muerta	Ikebana
+103986	Arte	3	¿Muchas de las pinturas de Paul Cezanne eran de qué tipo?	Retrato	Murales	Estatuas	Naturaleza muerta
+364691	Arte	3	Los pintores realistas que vieron por primera vez el trabajo de los impresionistas, ¿cómo lo describieron?	Bonita	Realista	Demasiado grande	Descuidado
+364737	Arte	3	¿Qué artista acuñó el término "ensamblaje"?	Pablo Picasso	Duchamp	Kurt Schwitters	Jean Dubuffet
+361114	Arte	3	¿Qué pintor renacentista está enterrado en el Panteón de Roma?	Botticelli	Miguel Angel	Leonardo	Raphael
+361062	Arte	3	¿Cuál de estos artistas tiene un autorretrato famoso de sí mismo?	Henri Matisse	Claude Monet	Leonardo Da Vinci	Pablo Picasso
+364927	Arte	3	¿Qué principio de diseño se refiere a una relación entre objetos en términos de tamaño, cantidad o grado?	Equilibrar	Variedad	Movimiento	Proporción
+364855	Arte	3	¿A qué grupo de artistas pertenecía Vincent van Gogh?	Impresionistas	Ninguno de esos	Prerrafaelitas	Postimpresionistas
+324528	Arte	3	El pintor Andy Warhol dijo una vez que todo el mundo será famoso durante cuánto tiempo.	30 segundos	5 dias	Un año	15 minutos

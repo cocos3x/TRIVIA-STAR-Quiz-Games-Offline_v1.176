@@ -1,0 +1,743 @@
+60E1189	Food	0	Which food item is considered a healthy snack?	Popsicle	Potato Chips	Cookies	Apple
+FTUX45	Food	0	What is the sweet substance made by bees?	Orange juice	Tapioca	Vanilla	Honey
+0DIF188	Food	0	What is the most common fruit used to produce wine?	Cherry	Pear	Plum	Grape
+40E2079	Food	0	Which appliance is used for cooking?	Dishwasher	Washing Machine	Iron	Microwave
+FTUX074	Food	0	Which of these is a breakfast food staple?	Ice Cream	Green beans	Spaghetti	Eggs
+60E1449	Food	0	What must you do to water in order to make pasta?	Cool	Drink	Season	Boil
+FTUX078	Food	0	Butter can be found in which of these food groups?	Grains	Meats	Vegetables	Dairy
+0DIF190	Food	0	Galia, Honeydew and Cantelope are all types of which of these?	Apricot	Cherry	Orange	Melon
+FTUX52	Food	0	What food is used as the base for guacamole?	Strawberry	Onion	Rice	Avocado
+FTUX53	Food	0	Where do grapes grow?	Trees	Underground	Caves	Vines
+FTUXPIC130	Food	0	What Italian dish is this?	Panini	Pizza	Calzone	Lasagna
+40E2499	Food	0	Which food would be more appropriate for lunch?	Cereal	Oatmeal	Waffles	Sandwich
+40E2959	Food	0	Which is not a leafy green?	Romaine	Kale	Spinach	Onion
+60E1569	Food	1	Which vegetable could come in the colors white, purple and green?	Kale	Potato	Cucumber	Cauliflower
+60E2149	Food	0	Which vegetable would be used in marinara sauce?	Kale	Okra	Broccoli	Garlic
+FTUXPIC144	Food	1	What are these rolled tacos called?	Nachos	Sashimi	Enchiladas	Taquitos
+40E2329	Food	0	Which food would be more appropriate for breakfast?	Calzone	Spaghetti And Meat Sauce	Sushi	Pancakes
+FTUX088	Food	0	How are chocolate chip cookies typically prepared?	Broiled	Poached	Fried	Baked
+60E1469	Food	0	Which of these is a cooking method?	Mopping	Shampooing	Bathing	Boiling
+0DIF192	Food	0	Spaghetti, macaroni, and linguini are all types of which of these?	Sandwich	Fruit	Wine	Pasta
+FTUX01N	Food	0	Apples, bananas and oranges are types of what?	Flowers	Grains	Vegetables	Fruits
+FTUXPIC136	Food	0	What are these popular Chinese appetizers?	Chicken Dumplings	Flautas	Taquitos	Spring Rolls
+FTUX071	Food	0	In English, pork refers to the meat of which animal?	Cow	Antelope	Bird	Pig
+FTUXPIC121	Food	0	What is this dessert called?	Cereal	Fluffy bite	Cookie crunch	S'more
+60E1249	Food	0	What food has a large pit in its center?	Ginger	Endive	Orange	Avocado
+40E2349	Food	0	What is a root vegetable that is related to the carrot?	Bell Pepper	Tomato	Potato	Parsnip
+0DIF198	Food	0	Which of these is a common brown caffeinated morning beverage, typically served with milk or sugar?	Milk	Soda pop	Wine	Coffee
+40E2889	Food	0	Which food item contains dairy?	Hamburger	Chicken	Baked Potato	Yogurt
+40E2119	Food	0	What would be an example of a fungus you eat?	Pear	Salmon	Honey	Mushroom
+FTUX46	Food	0	Dairy products are generally made from what liquid?	Water	Soda	Juice	Milk
+FTUXPIC141	Food	0	What is this popular Japanese dish?	Curry	Ramen	Spring Rolls	Sushi
+0DIF184	Food	0	The main ingredient in hummus is which of these?	Rice	Marshmallows	Almonds	Chickpeas
+0DIF200	Food	0	Which of these ingredients is used to line the rim of a margarita glass?	Cinnamon	Flour	Beans	Salt
+60E2089	Food	0	Which ingredient is commonly used when baking bread?	Rice	Beef	Chives	Flour
+40E2129	Food	0	What food is often served stuffed?	Collard Greens	Watercress	Carrot	Mushroom
+FTUX082	Food	0	Finish this food related saying: "It's the best thing since sliced..."	Cherries	Ham	Olives	Bread
+40E2279	Food	0	Which is considered a citrus fruit?	Cherry	Peach	Plum	Orange
+FTUX098	Food	0	A hot dog fried in batter, and usually served on a stick, is called a what?	Cheesesteak	Hoagie	Pigs in a blanket	Corn-dog
+FTUX092	Food	0	Which kind of cheese has holes in it?	American	Cheddar	Gouda	Swiss
+0DIF185	Food	0	What is tofu made from?	Eggs	Artichokes	Mustard	Soybeans
+FTUXPIC129	Food	0	What are these breakfast foods called?	Danishes	Baguettes	Croissants	Bagels
+60E2769	Food	0	Which condiment is used mostly on french fries?	Wasabi	Soy Sauce	Mustard	Ketchup
+FTUX089	Food	0	Which of these baked foods is made from flour, water and yeast?	Ham	Soup	Candy	Bread
+FTUX097	Food	0	What is a croissant?	Variety of sliced meats	Blended fruit beverage	Potato-based pasta	Fluffy, light pastry
+0DIF195	Food	0	Which vegetable can make your eyes water when cut?	Avocado	Broccoli	Kale	Onion
+FTUX095	Food	0	Which Italian food is made by layering flat noodles, sauce, meat, and cheese?	Cannoli	Pappardelle	Rigatoni	Lasagna
+0DIF187	Food	0	Granny Smith, Fuji, and Yellow Delicious are all types of which fruit?	Banana	Strawberry	Blueberry	Apple
+FTUXPIC150	Food	0	What Polish dish is this?	Ramen	Crepe	Spring Roll	Pierogi
+40E2859	Food	0	Which of these is a type of rice?	Onion	Tan	Scary	Jasmine
+60E2269	Food	0	Which is considered a citrus fruit?	Pear	Apple	Grape	Grapefruit
+60E1529	Food	0	Which is a root vegetable?	Apple	Strawberry	Asparagus	Parsnip
+60E2909	Food	0	Which of these is a pasta?	Endive	Leek	Rutabaga	Linguini
+60E2809	Food	0	Which food item is a fruit?	Carrot	Broccoli	Cauliflower	Kiwi
+60E1209	Food	0	Which food has more fiber?	Sugar	Lettuce	Honey	Apple
+60E1649	Food	0	Which food item has the most protein?	Carrot	Apple	Pasta	Chicken
+FTUX51	Food	0	Tilapia is a type of what?	Cheeseburger	Potato	Chicken	Fish
+FTUX63	Food	0	During the pickling process, food is submerged in what?	Orange juice	Watermelon	Soda	Vinegar
+60E1769	Food	0	Which of these requires refrigeration?	Canned Vegetables	Apples	Water	Cow Milk
+FTUX60	Food	0	Venison is a type of meat from what animal?	Chicken	Cow	Shark	Deer
+FTUX091	Food	0	Which vegetable is orange and said to improve eyesight?	Cabbage	Potato	Corn	Carrot
+FTUX077	Food	0	Which of these is not a common pizza topping?	Pepperoni	Green Pepper	Sausage	Saltines
+FTUXPIC137	Food	1	What is this Vietnamese broth-based soup?	Takoyaki	Chicken Noodle	Oatmeal	Pho
+0DIF194	Food	0	Which type of food is often served scrambled, poached or sunny side up?	Bacon	Lobster	Steak	Eggs
+0DIF183	Food	0	Foods rich in starch, such as pasta or bread, are knows as which of these?	Calzones	Dairy	Protein	Carbohydrates
+FTUX094	Food	0	Which of these is not a starchy food?	Potato	Pasta	Rice	Salami
+FTUX093	Food	0	Which is a way you can have your steak prepared?	Al dente	Sunny-side up	Stirred	Medium-rare
+FTUXPIC142	Food	0	What is this avocado-based dip?	Tartar Sauce	Soy Sauce	Wasabi	Guacamole
+0DIF191	Food	0	Which eating utensils are commonly used in China or Thailand?	Fork and Knife	Tongs	Honey Dripper	Chopsticks
+FTUX086	Food	0	Snickerdoodles are what kind of dessert item?	Ice cream sandwiches	Pies	Cakes	Cookies
+FTUXPIC124	Food	0	What is this sweet dessert called?	Juicy fruit	Icee	Icicle	Popsicle
+FTUX080	Food	0	Which beverage can come in light roast, dark roast, or decaf?	Milk	Water	Fruit smoothie	Coffee
+FTUX087	Food	0	What is a liquid dish, typically made by boiling meat, fish or vegetables in water or stock?	Bread	Salad	Cake	Soup
+60E1709	Food	0	Which drink has the most sugar?	Water	Tea	Coffee	Cola
+FTUXPIC143	Food	0	What is this soy-based soup?	Ramen	Chicken Tortilla	Vegetable Soup	Miso Soup
+40E2619	Food	0	Which food item is a vegetable?	Watermelon	Oranges	Banana	Spinach
+FTUX083	Food	0	Which of these is an alcoholic beverage?	Coca-Cola	Lemonade	Water	Wine
+FTUX072	Food	0	Which of these is not a fruit?	Apple	Orange	Banana	Potato
+0DIF193	Food	0	Which of these describes a pasta stuffed with savory filling and cooked?	Calzone	Sandwich	Taco	Ravioli
+0DIF182	Food	0	Lures, reels, and poles, are examples of equipment used for what kind of food gathering?	Farming	Foraging	Cooking	Fishing
+40E2549	Food	0	Which of these is most like an onion?	Corn	Watercress	Bamboo Shoot	Shallot
+0DIF181	Food	0	Traditionaly, a hamburger is made of what type of meat?	Turkey	Chicken	Olives	Beef
+FTUX079	Food	0	What pancake topping comes in maple, blueberry, or strawberry flavors?	Powdered sugar	Gravy	Butter	Syrup
+40E2139	Food	0	What is a common topping for a hot dog?	Raspberries	Lemons	Mushrooms	Mustard
+40E2609	Food	0	Which food would be more appropriate for dinner?	Yogurt	Pancakes	Scrambled Eggs	Spaghetti And Meatballs
+FTUXPIC125	Food	0	What is this Italian inspired dish?	Ziti	Lasagna	Calzone	Pizza
+FTUXPIC134	Food	0	What is this Indian flatbread called?	Tortilla	Crepe	Pizza	Naan
+60E2249	Food	0	A raisin is actually a dried what?	Apple	Tomato	Olive	Grape
+0DIF196	Food	0	Lindt, Ghirardelli, and Nestle are commonly known for which of these food items?	Coffee	Beer	Sandwiches	Chocolate
+60E2489	Food	0	Which item has more sugar?	Lettuce	Carrot	Olive	Ice Cream
+FTUXPIC145	Food	0	What are these fried yeast desserts?	Corndogs	Waffles	Pancakes	Churros
+40E2759	Food	0	Which is a root vegetable?	Broccoli	Cucumber	Lettuce	Turnip
+FTUXPIC148	Food	0	What is this dish wrapped in corn husks?	Taquitos	Tempura	Pita Bread	Tamales
+FTUXPIC135	Food	0	What are these colorful desserts?	Popsicles	Fried Ice Cream	Mochi	Macarons
+0DIF197	Food	0	Cheddar, Gouda and Mozzerella are all types of which type of food?	Cake	Popcorn	Vegetable	Cheese
+FTUXPIC122	Food	0	What type of cake is this?	Angel	Ice cream	Mousse	Bundt
+FTUX50	Food	0	What food would the fictional character Popeye consume in order to increase strength?	Berries	Corn dog	Granola bar	Spinach
+FTUX075	Food	0	Which of these is not a candy?	Sour Ropes	Milk Duds	Reese's Cup	Sour Cream
+FTUX55	Food	0	What ingredient in bread causes it to rise?	Bananas	Nuts	Water	Yeast
+40E2049	Food	0	What is a favorite dish of American children?	Salmon Crocquettes	Liver And Onions	Beef Wellington	Mac And Cheese
+60E2129	Food	0	Which tool would you use to cook with?	Screwdriver	Chainsaw	Fax Machine	Frying Pan
+40E2089	Food	0	Which food has more calcium?	Hamburger	Watermelon	Potato Chips	Milk
+FTUX47	Food	0	What food item is traditionally carved during Halloween?	Apple	Watermelon	Potato	Pumpkin
+FTUXPIC126	Food	0	What is this noodle dish called?	Pho	Ramen	Lasagna	Chow Mein
+FTUXPIC133	Food	0	What is this torched French dessert?	Danish	Pudding	Quiche	Creme Brulee
+40E2389	Food	0	Which is a common topping for a hamburger?	Cranberries	Oranges	Skittles	Pickles
+FTUX59	Food	0	Monterey Jack is a type of what?	Fish	Fruit	Pepper	Cheese
+FTUX61	Food	0	Which of the following is a type of thin pancake?	Cupcake	Brittle	Fondu	Crepe
+0DIF189	Food	0	Shiitake, Oyster, and Chanterelle are all types of which of these foods?	Apples	Breads	Carrots	Mushrooms
+FTUX49	Food	0	What is the main ingredient in hash browns?	Eggs	Onions	Rice	Potatoes
+FTUX62	Food	0	What is sushi traditionally wrapped in?	Rose petals	Tortillas	Paper	Seaweed
+0DIF186	Food	0	Fajitas are a common food from which of these countries?	Denmark	Ireland	China	Mexico
+FTUX56	Food	0	What is another name for maize?	Potato	Grape	Lettuce	Corn
+FTUX073	Food	0	Which of the following is not a type of pasta?	Rigatoni	Spaghetti	Macaroni	Omelette
+FTUX090	Food	0	Which of these is an alcoholic beverage made from yeast-fermented malt, and flavored with hops?	Dr. Pepper	Vodka	Eggnog	Beer
+40E2149	Food	0	What do you typically use to clean your face during a meal?	Washcloth	Tissue	Towel	Napkin
+FTUX096	Food	0	Which tropical fruit contains milk, and is a common candy component?	Avocado	Guava	Pineapple	Coconut
+D0TRV32001	Food	0	Which of the following is a type of cookie?	Lentil	Anchovy	Calzone	Sugar
+D0TRV32002	Food	0	After being dried, which fruit is called a prune?	Grape	Apricot	Pear	Plum
+D0TRV32003	Food	0	How are hushpuppies cooked?	Boiled	Baked	Sauteed	Deep Fried
+D0TRV32004	Food	0	Which fruit is typically placed on top of an ice cream sundae?	Kiwi	Banana	Mango	Cherry
+D0TRV32005	Food	0	Cod is a type of what?	Milk	Bean	Alcoholic Drink	Fish
+D0TRV32006	Food	0	Which of these requires refrigeration?	Potatoes	Beans	Granola	Eggs
+D0TRV32007	Food	0	Salmon is a type of what?	Turkey	Beef 	Chicken	Fish
+D0TRV32008	Food	0	Ahi is a type of what?	Turkey	Beef 	Pasta	Fish
+D0TRV32009	Food	0	Which meat is used to make buffalo wings?	Beef	Bison	Duck	Chicken
+D0TRV32010	Food	0	Which fruit is known for a generally unpopular, strong odor?	Banana	Blackberry	Guava	Durian
+D0TRV32011	Food	0	Which of the following is a Chinese dish?	Chili con Carne	BLT	Pastrami on Rye	Wonton
+D0TRV32012	Food	0	Which U.S. city is known for deep dish pizzas?	Santa Fe	Boston	Juneau	Chicago
+D0TRV32013	Food	0	How are tomatoes grown?	In Hibiscus Flowers	Underground	On Trees	On a Vine
+D0TRV32014	Food	0	Which country does Kobe beef come from?	South Africa	Brazil	Germany	Japan
+D0TRV32015	Food	0	Which part of a chicken is often called a drumstick?	Wing	Breast	Feet	Leg
+D0TRV32016	Food	0	Which of the following is a type of bread?	Biscuit	Brioche	Baguette	All of these
+D0TRV32017	Food	0	Which of the following is NOT an alcoholic beverage?	Vodka	Burbon	Moonshine	Black Tea
+D0TRV32018	Food	0	Which of the following is a Chinese dish?	Lasagna	Burrito	Spaghetti	Sichuan Pork
+D0TRV32019	Food	0	What does the "B" in a BLT sandwich stand for?	Burger	Butter	Bison	Bacon
+D0TRV32020	Food	0	Which of the following is a Chinese dish?	Nachos	California Roll	Jambalaya	Chow Mein
+D0TRV32021	Food	0	Which food item contains dairy?	Spinach	Carrot	Chip	Cheese
+D0TRV32022	Food	0	Which of the following is a typical dessert?	Takoyaki	Carrot	Chicken	Ice Cream
+D0TRV32023	Food	0	Which of these requires refrigeration?	Bottled Water	Cereal	Onions	Cheese
+D0TRV32024	Food	0	Which of the following is a Japanese dish?	Hot Dog	Cheeseburger	Taco	Miso Soup
+D0TRV32025	Food	0	What are baseball players often seen eating in their dugout?	Crab	Cheesecake	Lettuce Wrap	Sunflower Seeds
+D0TRV32026	Food	0	Which utensil is designed to lift or flip food while cooking?	Whisk	Chef's Knife	Sieve	Spatula
+D0TRV32027	Food	0	Which fruit is commonly used to make pies?	Apple	Cherry	Lemon	All of these
+D0TRV32028	Food	0	Which meat is used to make chicken fried steak?	Pork	Chicken	Turkey	Beef
+D0TRV32029	Food	0	Which meat is used to make unagi sushi?	Turkey	Chicken	Abalone	Freshwater Eel
+D0TRV32030	Food	0	Which of the following is a Japanese dish?	Chicago-style Pizza	Chicken Fried Steak	Nachos	Ramen
+D0TRV32031	Food	0	When ordering "fish and chips", what are the chips?	Potato Chips	Chocolate Chips	Pretzels	French Fries
+D0TRV32032	Food	0	Which of the following goes well with a hot dog?	Cinnamon	Chocolate Sauce	Cream Cheese	Bun
+D0TRV32033	Food	0	Which of the following is an Italian dish?	Wonton	Chow Mein	Grits	Parmigiana
+D0TRV32034	Food	0	Which spicy stew is often made with chili peppers, meat, tomatoes, and beans?	Salsa	Chowder	Minestrone	Chili con carne
+D0TRV32035	Food	0	What is a common ingredient in a quesadilla?	Cereal	Cinnamon	Nuts	Cheese
+D0TRV32036	Food	0	What do people commonly sprinkle over fried or boiled eggs?	Paprika	Cinnamon	Cayenne	Salt
+D0TRV32037	Food	0	Which meat is used to make calamari?	Shrimp	Clam	Salami	Squid
+D0TRV32038	Food	0	Which of the following is a type of steak?	Scrambled	Cold Cut	Guacamole	Ribeye
+D0TRV32039	Food	0	As of 2020, which U.S. state produces the most potatoes?	Washington	Connecticut	New Mexico	Idaho
+D0TRV32040	Food	0	Which of the following is an Italian dish?	Enchilada	Cornbread	Barbecue Ribs	Risotto
+D0TRV32041	Food	0	What canned meat product gained popularity worldwide after its use in WWII?	Vienna Sausage	Corned Beef	Tuna	SPAM
+D0TRV32042	Food	0	What is the main ingredient in sauerkraut?	Asparagus	Cucumber	Squid	Cabbage
+D0TRV32043	Food	0	Which of the following is an Indian dish?	BLT	Chicken and Waffles	Taco	Samosa
+D0TRV32044	Food	0	Which U.S. state grows the most pineapples?	South Dakota	Denver	Maine	Hawaii
+D0TRV32045	Food	0	Which meat is used to make a "Turducken" dish?	Turkey	Duck	Chicken	All of these
+D0TRV32046	Food	0	Which of the following is a type of steak?	Pierogi	Enchilada	Macaroni	Filet Mignon
+D0TRV32047	Food	0	Which rating system do many people turn to for high end restaurants?	BBB	FDA	Rotten Tomatoes	Michelin Stars
+D0TRV32048	Food	0	Which of the following is a type of cookie?	Sushi	Feta	Linguini	Peanut Butter
+D0TRV32049	Food	0	Which country is know for the Jerk style of cooking?	Turkey	France	Kazakhstan	Jamaica
+D0TRV32050	Food	0	What snack is often left out for Santa Claus with a glass of milk?	Turkey	French Fries	Trail Mix	Cookies
+D0TRV32051	Food	0	Which of these is a typical ramen ingredient?	Tortilla Chips	Fried Pickles	Fruit Chews	Noodles
+D0TRV32052	Food	0	Which of the following is NOT a type of apple?	Golden Delicious	Gala	Granny Smith	Sticky Bounce
+D0TRV32053	Food	0	What spicy vegetable often accompanies nachos?	Pumpkin	Garlic	Cilantro	Jalapenos
+D0TRV32054	Food	0	Which of the following is NOT an alcoholic beverage?	Tequila	Gin	Rum	Chocolate Milk
+D0TRV32055	Food	0	Which cookie comes with a note inside?	Animal Cracker	Ginger Snap	Wafer Cookie	Fortune Cookie
+D0TRV32056	Food	0	What is a common characteristic of an enchilada?	Filled with Chicken Nuggets	Gluten Free	Served in a Martini Glass	Smothered in Sauce
+D0TRV32057	Food	0	What are "pearls" or "boba" in bubble tea often made from?	Flour	Grapes	Eggs	Tapioca
+D0TRV32058	Food	0	Which is NOT a type of tea?	Black Tea	Green Tea	Oolong Tea	Blue Tea
+D0TRV32059	Food	0	Pepperoni is a common topping on which dish?	Beef Stew	Hamburger	Spaghetti	Pizza
+D0TRV32060	Food	0	Along with dogs, which animal is often used to hunt truffles?	Cat	Hawk	Cow	Pig
+D0TRV32061	Food	0	Which food item contains dairy?	Nuts	Herbal Tea	Pasta	Ice Cream
+D0TRV32062	Food	0	What is another name for a Vietnamese sandwich?	Pho	Hoagie	Big Mac	Banh Mi
+D0TRV32063	Food	0	At which type of restaurant can dishes be selected from carts pushed by servers?	French	Hot Pot	Fried Chicken	Dim Sum
+D0TRV32064	Food	0	Which food was often linked to the comic book character, Deadpool?	Carrots	Ice Cream	Rice	Chimichangas
+D0TRV32065	Food	0	How are apples grown?	In Water Buckets	In Bushes	Underground	On Trees
+D0TRV32066	Food	0	How are blueberries grown?	On Trees	In the Ocean	In Cellars	On Bushes
+D0TRV32067	Food	0	Which cookware is traditionally used to prepare Chinese cuisine?	Skillet	Instapot	Wonder Pot	Wok
+D0TRV32068	Food	0	Which of the following is an Indian dish?	Quesadilla	Jambalaya	Barbecue Ribs	Masala Dosa
+D0TRV32069	Food	0	Which country is paella from?	Italy	Korea	Egypt	Spain
+D0TRV32070	Food	0	Which meat is NOT commonly added to chowder?	Clam	Lamb	Fish	Venison
+D0TRV32071	Food	0	Which of the following is an alcoholic beverage?	Bloody Mary	Long Island Ice Tea	Mojito	All of these
+D0TRV32072	Food	0	Which of the following is a type of cookie?	Sirloin	Macaroni	Pickle	Chocolate Chip
+D0TRV32073	Food	0	Which of the following is a Chinese dish?	Hamburger	Jell-O	Grilled Cheese Sandwich	Kung Pao Chicken
+D0TRV32074	Food	0	Traditionally, which fish's roe is used to make caviar?	Halibut	Mahi Mahi	Cod	Sturgeon
+D0TRV32075	Food	0	Which of the following is a typical dessert?	Olives	Margherita	Chip	Spice Cake
+D0TRV32076	Food	0	Which of the following is a type of pasta?	Olive	Margherita	Coraline	Angel Hair
+D0TRV32077	Food	0	Which of these ingredients are typically in Rocky Road ice cream?	Chocolate Ice Cream	Marshmallow	Nuts	All of these
+D0TRV32078	Food	0	What is the McDonald's quarter pounder called in France?	Bofsandwich	McShawarma	McLaks	McRoyale
+D0TRV32079	Food	0	Which of the following is an Indian dish?	Cheeseburger	Meatloaf	Sushi	Chicken Tikka
+D0TRV32080	Food	0	Which U.S. city is known for cheesesteaks?	Seattle	Miami	New York	Philadelphia
+D0TRV32081	Food	0	What is used to simulate deep frying without submerging food in oil?	Dutch Oven	Microwave Oven	Kiln	Air Fryer
+D0TRV32082	Food	0	Which beverage is celebrated at Oktoberfests?	Tea	Milk	Vodka	Beer
+D0TRV32083	Food	0	Which of the following is NOT a real ramen type?	Tonkotsu	Miso	Shoyu	Tostada
+D0TRV32084	Food	0	How are potatoes grown?	In Pots of Water	On a Vine	On Trees	In the Ground
+D0TRV32085	Food	0	Which of the following is a type of cheese?	Fuji	Moonshine	Basil	Havarti
+D0TRV32086	Food	0	Which of the following is NOT a typical hot dog topping?	Relish	Mustard	Ketchup	Salad Dressing
+D0TRV32087	Food	0	In 2020, which U.S. state grew the most macadamia nuts?	Oregon	Nevada	Vermont	Hawaii
+D0TRV32088	Food	0	Which country is kimchi from?	Japan	Norway	Brazil	South Korea
+D0TRV32089	Food	0	Which of these are alternatives to cow milk?	Almond Milk	Oat Milk	Soy Milk	All of these
+D0TRV32090	Food	0	Which of these is often added to hot cocoa?	Salsa	Olive Oil	Apples	Marshmallow
+D0TRV32091	Food	0	How are caramel apples usually served?	In a bowl	On a string	Cut into slices	On a stick
+D0TRV32092	Food	0	Which of the following is a Mexican dish?	Hot Dog	Ramen	Lasagna	Tostada
+D0TRV32093	Food	0	How are peanuts grown?	In Bushes	On Trees	On a Vine	In the Ground
+D0TRV32094	Food	0	Which of the following is a typical dessert?	Beef	Orange	Pasta	Chocolate Mousse
+D0TRV32095	Food	0	Which food item contains dairy?	Beef	Orange	Potato	Butter
+D0TRV32096	Food	0	In an ice cream float, which beverage is used?	Coffee	Orange Juice	Tea	Soda
+D0TRV32097	Food	0	Which of the following is a type of pasta?	Ghirardelli	Oregano	Basil	Penne
+D0TRV32098	Food	0	Which of the following is a Japanese dish?	Macaroni and Cheese	Parmigiana	Burrito	Sashimi
+D0TRV32099	Food	0	Which of the following fruits do NOT have a pit?	Cherry	Peach	Apricot	Orange
+D0TRV32100	Food	0	Which of these is a traditional movie snack?	Lobster	Peach Cobbler	Carrot Sticks	Popcorn
+D0TRV32101	Food	0	When opened, which fruit has clusters of juicy, gem-like seeds?	Banana	Pear	Strawberry	Pomegranate
+D0TRV32102	Food	0	A surf and turf dish may typically include a beef steak and what?	Jelly	Pecans	Salad	Lobster
+D0TRV32103	Food	0	In the film "E.T.", which candy does E.T. like?	Milky Way	Pez	Mars bar	Reese's Pieces
+D0TRV32104	Food	0	What is a common ingredient in a burrito?	Thousand Island	Pickles	Deli Turkey	Beans
+D0TRV32105	Food	0	What is a typical topping for ice cream?	Saltines	Pickles	Sausage	Caramel
+D0TRV32106	Food	0	What is a common ingredient in a taco?	Potatoes	Pickles	Mayonnaise	Beef
+D0TRV32107	Food	0	Which desert jiggles when shaken?	Cookies	Pies	Cheesecake	Jell-O
+D0TRV32108	Food	0	Which of the following are horderves?	Deviled Eggs	Pigs in a Blanket	Bruschetta	All of these
+D0TRV32109	Food	0	Which ice cream flavor often has a green color?	Green Tea	Pistachio	Mint	All of these
+D0TRV32110	Food	0	Which of the following are common burrito meat options?	Carnitas	Pollo Asado	Al Pastor	All of these
+D0TRV32111	Food	0	How are carrots grown?	In Cellars	On Bushes	On Trees	In the Ground
+D0TRV32112	Food	0	Which snack is fluffy, sweet, and often found at fairs?	Corn Dog	Popcorn	Pizza	Cotton Candy
+D0TRV32113	Food	0	Which meat is traditionally served on the U.S. Thanksgiving holiday?	Beef	Pork	Fish	Turkey
+D0TRV32114	Food	0	Which of the following is a type of steak?	Rib Eye	Porterhouse	T-Bone	All of these
+D0TRV32115	Food	0	Which of the following is a Mexican dish?	Sushi	Ramen	Chow Mein	Enchilada
+D0TRV32116	Food	0	Which of these is considered a citrus fruit?	Peach	Raspberry	Blueberry	Lime
+D0TRV32117	Food	0	Which of the following is NOT a type of apple?	Fuji	Red Delicious	Honeycrisp	Bombshell
+D0TRV32118	Food	0	Mahi Mahi is a type of what?	Chicken	Rice	Vegetable	Fish
+D0TRV32119	Food	0	Which of the following is a type of steak?	BLT	Rigatoni	Hummus	Top Sirloin
+D0TRV32120	Food	0	Usually, what shape is a cleaver blade?	Triangular	Round	Cylindrical	Rectangular
+D0TRV32121	Food	0	Which of the following is a type of cheese?	Golden Delicious	Rum	Bratwurst	Swiss
+D0TRV32122	Food	0	Which of these is NOT a typical side in a restaurant?	Soup	Salad	Bread	Gelato
+D0TRV32123	Food	0	Which of the following is NOT a common pizza topping?	Pepperoni	Sausage	Olives	Chestnuts
+D0TRV32124	Food	0	What is a common spice in Mexican food?	Yogurt	Sesame	Oregano	Cumin
+D0TRV32125	Food	0	Which of the following beverages are usually carbonated?	Champagne	Soda	Sparkling Water	All of these
+D0TRV32126	Food	0	Which of the following is a typical breakfast food?	Chicken Fingers	Soup	Spaghetti	Pancakes
+D0TRV32127	Food	0	Which food grows in pods?	Green Bean	Soy Bean	Peas	All of these
+D0TRV32128	Food	0	How are pot stickers cooked?	Boiled	Steamed	Pan Fried	All of these
+D0TRV32129	Food	0	Which of the following is a type of pasta?	Kettle	Stroganoff	Bratwurst	Macaroni
+D0TRV32130	Food	0	Which of the following is a typical dessert?	Popcorn	Stroganoff	Ravioli	Snickerdoodle
+D0TRV32131	Food	0	Which pastry typically has a hole in its center?	Cupcake	Strudel	Tart	Donut
+D0TRV32132	Food	0	Which Japanese dish consists of battered and fried seafood, meats, or vegetables?	Chow Mein	Sushi	Udon	Tempura
+D0TRV32133	Food	0	What meat dish is popular at IKEA?	Cold Cuts	Sweet and Sour Pork	Buffalo Wings	Meatballs
+D0TRV32134	Food	0	What is poured over tortilla chips to make nachos?	Melted Chocolate	Syrup	Gravy	Melted Cheese
+D0TRV32135	Food	0	Which of the following is an Italian dish?	Burrito	Taco	Kung Pao Chicken	Bruschetta
+D0TRV32136	Food	0	Which food is eaten in Nathan's annual contest in New York?	Dumplings	Tacos	Oranges	Hot Dogs
+D0TRV32137	Food	0	Which of the following is a Mexican dish?	Kung Pao Chicken	Takoyaki	Cheeseburger	Tamale
+D0TRV32138	Food	0	Which of the following is an Italian dish?	Sichuan Pork	Tater Tots	Buffalo Wings	Lasagna
+D0TRV32139	Food	0	Which country is NOT known for a type of curry?	India	Thailand	Japan	Canada
+D0TRV32140	Food	0	Which of the following is a typical breakfast food?	Sushi	Tiki Masala	Fried Chicken	Omelette
+D0TRV32141	Food	0	Which of the following is a Japanese dish?	Lasagna	Tikka Masala	Tamale	Sushi
+D0TRV32142	Food	0	Which of the following is a Chinese dish?	Bruchetta	Tostada	Quesadilla	Sweet and Sour Pork
+D0TRV32143	Food	0	How are raspberries grown?	In Cellars	Underground	On Trees	On Bushes
+D0TRV32144	Food	0	What flavor cake is used to make Red Velvet cake?	Strawberry	Vanilla	Lemon	Chocolate
+D0TRV32145	Food	0	Which fresh fruit has a fuzzy skin?	Nectarine	Watermelon	Orange	Peach
+D0TRV32146	Food	0	Which of these is considered a citrus fruit?	Honeydew	Watermelon	Strawberry	Lemon
+D0TRV32147	Food	0	Which of the following is a type of cheese?	Pepperoni	Whiskey	Honeycrisp	Gouda
+D0TRV32148	Food	0	Which of the following is NOT an alcoholic beverage?	Beer	Wine	Whiskey	Apple Cider
+D0TRV32149	Food	0	Which vegetable is battered and fried, and often served in a ring shape?	Yams	Zucchinis	Egg Plants	Onions
+D0TRV32150	Food	0	How are almonds grown?	On a Vine	Underground	In Bushes	On Trees
+55140	Food	1	What would you be served in a Japanese restaurant if you ordered "Wasabi"?	Sea Urchin	Stuffed Wonton	Octopus	Japanese Horseradish
+415780	Food	2	The book "La Cucina Genovese" had the first recipe for pesto, where was it published?	Spain	Greece	India	Italy
+294576	Food	1	How many fluid ounces make up one quart?	64	28	12	32
+93996	Food	1	Which of these fruits is the smallest?	Orange	Cherry	Kiwi	Raspberry
+1DIFF01	Food	1	Which type of food features samosas, curries, and biryanis?	Australian food	Canadian food	Italian food	Indian food
+355663	Food	1	Which vegetable grows in a pod?	Carrot	Corn	Potato	Pea
+356775	Food	1	If you wanted sliced raw fish served on top of vinegared rice, what would you order?	Domburi	Gomaae	Sashimi	Sushi
+191594	Food	1	Baklava is a traditional food of which country?	India	South Africa	Sweden	Greece
+191591	Food	1	What is the primary ingredient of a Swiss fondue?	Mushroom	Anchovies	Chicken	Cheese
+1DIFF27	Food	1	A "benedict" is a breakfast food consisting of what?	Bacon and sausage	Oatmeal with fruit	Tomato juice with celery and salt	Poached egg on english muffin
+90814	Food	1	With what American city is the cheesesteak sandwich commonly associated?	Washington, D.C.	Dallas	Seattle	Philadelphia
+FTUX099	Food	1	In 'Surf and Turf' which of the following would be an example of 'Turf'?	Salmon	Shrimp	Clams	Steak
+218223	Food	1	What cereal features mostly famous athletes on the front of its box?	Grape Nuts	Cheerios	Life	Wheaties
+1DIFF06	Food	1	What small baked good is normally accompanied by cream cheese or spread?	Croissant	Donut	Cookie	Bagel
+5479	Food	1	Where is Corona beer's home country?	Columbia	Puerto Rico	USA	Mexico
+1DIFF25	Food	1	French fries, gravy, and cheese curds combine to create what food?	Animal fries	Hollandaise	Caesar salad	Poutine
+12101	Food	1	What vegetable is the base ingredient for gazpacho soup?	Cucumber	Onion	Potato	Tomato
+188926	Food	1	What is the most commonly used oil in Chinese cooking?	Olive Oil	Sunflower Oil	Corn Oil	Groundnut Or Peanut Oil
+218180	Food	1	The food pierogi comes from what country?	Canada	Italy	China	Poland
+416556	Food	1	Which fruit is traditionally "bobbed for"?	Grapefruit	Oranges	Grapes	Apples
+15289	Food	1	What name do the French use for pastry shop?	Boulangerie	Supermarche	Charcuterie	Patisserie
+255431	Food	1	Who was the founder of the Kentucky Fried Chicken (KFC) restaurant chain?	Ray Kroc	Colonel Oliver North	Colonel Harold Sanders	Colonel Harland Sanders
+FTUXPIC147	Food	1	What popular seafood dish is this?	Chicken Tenders	Baklava	Pierogi	Fish and Chips
+355420	Food	1	Grapes come in all but which color?	Black	Purple	Green	Orange
+1DIFF15	Food	1	What kind of grain is served white, brown, saffron, or jasmine?	Oats	Corn	Wheat	Rice
+1DIFF17	Food	1	Tofu is made from what?	Chicken	Gelatin	Beef	Soybeans
+53087	Food	1	Which of the following breakfasts has the most nutritional value?	Cookies	Doughnuts And Soda	Waffles And Syrup	Whole Grain Cereal And Milk
+415839	Food	1	What beverage is called "cerveza" in Mexico?	Tequila	Margarita	Jack Daniels	Beer
+FTUXPIC138	Food	1	What is this Australian favorite?	Stuffed Pancake	Creme Brulee	Quiche	Meat Pie
+350047	Food	1	Sweet, black-eyed and snow are types of what vegetable?	Lettuce	Tomato	Corn	Pea
+355593	Food	1	Which of these pastas is not stuffed with a filling?	Ravioli	Tortellini	Tortelloni	Spaghetti
+5454	Food	1	What dish from Spain consists of saffron rice, shrimp, clams, chicken, sausage and peas?	Sangria	Arroz Con Pollo	Gazpacho	Paella
+412825	Food	1	What food group does a bagel belong to?	Fruit Group	Vegetable Group	Meat Group	Grain Group
+5471	Food	1	What is a latke?	A Flour Tortilla	A Drink Made With Espresso And Milk	A Popular Austrian Dessert	A Potato Pancake
+191593	Food	1	Fish and chips is the national dish of which country?	Australia	Finland	New Zealand	England
+54683	Food	1	What colors the pasta black in "Spaghetti al Nero di Seppia"?	Edible Carbon	Ashes	Soy-Based Food Dye	Squid Ink
+218221	Food	1	Which of the following foods is usually prepared by deep frying?	Hamburgers	Rice	Spaghetti	Onion Rings
+55320	Food	1	Which of the following types of Italian noodle is hollow?	Fettuccine	Vermicelli	Linguine	Penne
+88383	Food	1	In what country did okonomiyaki originate?	Thailand	South Africa	Brazil	Japan
+294693	Food	1	What purple-flowered spice is often used in making soaps and potpourri?	Saffron	Nutmeg	Poppy Seeds	Lavender
+294747	Food	1	The advertising slogan "Where's the beef?" was first used by which fast food chain?	Carl's Jr.	McDonald's	Burger King	Wendy's
+295633	Food	1	In writing a recipe, how would "cup" be abbreviated?	Cp.	Cu.	Cc.	C.
+218290	Food	1	What is the primary sugar in milk?	Sucrose	Maltose	Dextrose	Lactose
+416460	Food	1	Which is not a type of cheese?	Muenster	Cheddar	Swiss	Mellow
+FTUXPIC131	Food	1	What popular Japanese food is this?	Chow Mein	Spaghetti	Chicken Noodle Soup	Ramen
+355654	Food	1	To which food groups do a hot dog and a bun belong?	Meat And Fruit Groups	Meat And Vegetable Groups	Milk And Meat Groups	Meat And Grain Groups
+415819	Food	1	Which of the following vegetables can be red, yellow or white?	Cauliflower	Broccoli	Green Beans	Onions
+5464	Food	1	Cutting into which of these vegetables will often make the eyes water?	Rhubarb	Asparagus	Lettuce	Onion
+FTUXPIC149	Food	1	What is this Korean dish?	Ratatouille	Creme Brulee	Enchilada	Bibimbap
+1DIFF29	Food	1	A common hiking snack containing dried fruit, nuts, and chocolate, is called what?	Oatmeal	Pub mix	Buncha crunch	Trail mix
+79829	Food	1	Garbanzo beans are also known as?	Pigeon Peas	Lentils	Kidney Beans	Chick Peas
+1DIFF28	Food	1	People with gluten sensitivities cannot eat what?	Meat	Fruit	Eggs	Wheat
+40743	Food	1	Which of these was not originally a Mexican dish?	Enchiladas	Tortillas	Chile Rellenos	Sushi
+294682	Food	1	What is a main ingredient in ratatouille?	Okra	Milk	Potatoes	Eggplant
+FTUXPIC127	Food	1	What is this Mexican food item?	Taquito	Flauta	Burrito	Tostada
+1DIFF02	Food	1	Gnocchi is a type of what?	Seasoning	Seafood	Gravy	Pasta
+FTUXPIC140	Food	1	What is this vegan product?	Ice Cream	Cheese Blocks	Naan	Tofu
+355419	Food	1	What French term is used to indicate that a dessert is served with a topping, usually ice cream?	Por Favor	Si Vous Plait	E Pluribus Unum	A La Mode
+72659	Food	1	Italians have planted fame around the world for using which of these in their food?	Curry Spice	Corn Meal	Chicken Broth	Herbs
+88352	Food	1	Which of these is not a type of nut?	Pistachio	Almond	Pecan	Mocha
+1DIFF26	Food	1	What flavorful, smelly food addition comes in cloves?	Peppercorn	Roses	Cilantro	Garlic
+1DIFF10	Food	1	Someone who is lactose intolerant has problems processing what?	Alcohol	Spicy things	Tree nuts	Dairy
+294743	Food	1	In Italian cuisine, what are the small potato dumplings called?	Spaghetti	Macaroni	Linguini	Gnocchi
+218193	Food	1	What kind of turkey did most Americans buy for Thanksgiving in the 1990's?	Fresh	Breast	Burgers	Frozen
+12086	Food	1	What is added to some types of pasta to make them green?	Lime Juice	Grass Clippings	Frog Skin	Spinach
+218219	Food	1	How many fluid ounces make up a half gallon?	32	16	29	64
+12114	Food	1	Which food is fat free and high in both Vitamin C and potassium?	Hot Dog	Pizza	Hamburger	Potato
+355413	Food	1	Which fruit is usually considered a vegetable and has been cultivated for over 5,000 years?	Lime	Watermelon	Banana	Olive
+218189	Food	1	What type of dish is a chowder?	Stew	Vegetable	Roast	Soup
+1DIFF30	Food	1	Which crispy, salty plant is associated with sushi?	Arugula	Spinach	Cilantro	Seaweed
+40154	Food	1	Key lime pie is only key lime pie if it is made from limes grown in which city?	Dallas Texas	Atlanta Georgia	Havana Cuba	Key West Florida
+90111	Food	1	What food group do oatmeal, brown rice and whole wheat belong to?	Fruit Group	Meat Group	Vegetable Group	Grain Group
+1DIFF09	Food	1	Horseradish is added to provide what kind of taste?	Savory	Salty	Sweet	Spicy
+12098	Food	1	What religion's influence means many Indian dishes are vegetarian?	Islam	Judaism	Christianity	Hinduism
+318058	Food	1	What do you call champagne mixed with orange juice?	Malibu	Sea Breeze	Screwdriver	Mimosa
+191596	Food	1	Where did jambalaya originate?	Mexico	Texas	Cuba	New Orleans
+294715	Food	1	Which vegetable would not be out of place on a pizza or in a burrito?	Cabbage	Radish	Spinach	Pepper
+356885	Food	1	How many fluid ounces are in one cup?	12	44	16	8
+5461	Food	1	What is used to make hummus?	Lettuce	Tomatoes	Celery	Chickpeas
+1DIFF14	Food	1	What is added to root beer, to make it a root beer float?	Flavored syrup	Anti-gravity particles	Rum	Ice cream
+1DIFF18	Food	1	How many donuts are in a baker's dozen?	9	6	10	13
+413487	Food	1	What fat is used in place of butter in much Southern Italian food preparation?	Peanut Butter	Water	Margarine	Olive Oil
+1DIFF31	Food	1	What does IPA stand for, in regards to beer?	I'll Pour for All	Intolerable Palate Assault	Ick, Putrid Alcohol	India Pale Ale
+1DIFF05	Food	1	French toast is sliced bread dipped in what?	Cheese	Granola	Salt	Eggs
+415778	Food	1	Where did "jerk" seasoning originate?	New York City	Hawaii	Great Britain	Caribbean Islands
+FTUXPIC128	Food	1	What kind of sandwich is this?	Sloppy Joe	Cheesesteak	Calzone	Panini
+1DIFF08	Food	1	Relish is a condiment made from what?	Olives	Beans	Cheese	Pickles
+89040	Food	1	Which of the following is not a form of pasta?	Linguini	Penne	Ziti	Mascarpone
+294568	Food	1	Which fruit is named after a flightless bird?	Banana	Raspberry	Avocado	Kiwi
+355411	Food	1	Which one of these drinks contains no alcohol?	Cherry Bang	Pink Lady	Smokey May	Shirley Temple
+355669	Food	1	Which food/beverage is most effective in waking a human being?	Apple	Orange Juice	Ice Cream	Coffee
+413717	Food	1	Which Mexican food is not usually served at breakfast?	Plato De Frutas	Huevos Rancheros	Huevos A La Mexicana	Tacos
+1DIFF13	Food	1	A greek sandwich-like meal of lamb in pita bread, with tzatziki sauce, is called what?	Kabob	Cheesesteak	Hummus	Gyro
+1DIFF03	Food	1	Green, Black, Earl Grey, and Chamomile are all types of what drink?	Cocoa	Juice	Beer	Tea
+355415	Food	1	What vegetable comes in both hot and non-hot varieties?	Cabbage	Beets	Carrots	Peppers
+FTUXPIC146	Food	1	What type of noodles are these?	Ravioli	Macaroni	Angel Hair	Udon
+39635	Food	1	What should people do to stay healthy?	Eat Junk Food Everyday	Stay Away From Exercising	Go To Dentist Once Every Five Years	Eat A Variety Of Foods
+355661	Food	1	What is Japanese sake?	Rice	Fish	Steak	Rice Wine
+FTUXPIC123	Food	1	What pizza-like item is this?	Baguette	Croissant	Deep dish	Calzone
+355417	Food	1	Coffee mixed with whiskey and topped with whipped cream is called what?	Cappuccino	Luger	Scottish Tea	Irish Coffee
+12100	Food	1	A pimento is what type of vegetable?	Potato	Squash	Onion	Pepper
+218294	Food	1	What animal does venison come from?	Horse	Sheep	Cow	Deer
+58188	Food	1	What garden creature is known in France as "escargot"?	Lizard	Turtle	Slug	Snail
+67061	Food	1	Which meat cannot be made kosher?	Beef	Chicken	Lamb	Pork
+49472	Food	1	What is a leek?	A Baby Potato	An Exotic Fruit From Samoa	A Very Tender Cut Of Meat	A Mild Onion
+300169	Food	1	A "frappe" is a drink that always contains what ingredient?	Cherries	Cola	Milk	Crushed Ice
+75720	Food	1	In what type of cuisine is a tomatillo mainly found?	Chinese	Greek	Japanese	Mexican
+12075	Food	1	What food group is yogurt part of?	Vegetable Group	Meat Group	Fruit Group	Dairy Group
+FTUX64	Food	1	What is the most popular spice in the world?	Cilantro	Clove	Dill	Pepper
+90433	Food	1	Which ingredient is not commonly found in classic Caesar salad?	Anchovies	Croutons	Olive Oil	Bacon
+11487	Food	1	Which of the following is a type of sweet onion?	Mobile	Engineer	Music	Vidalia
+94003	Food	1	What is caviar?	Eggs Of Russian Whales	Eggs Of Oysters	Eggs Of Russian Clams	Eggs Of Sturgeons
+413243	Food	1	How did early Native Americans distinguish good food from poisonous foods out in the wild?	Trial And Error	They Carried A Special Test Kit They Invented	They Had Their Wives Taste It First	They Watched The Animals
+FTUXPIC132	Food	1	What is this breakfast food called?	Sashimi	Crepe	Danish	Quiche
+13814	Food	1	In America, what type of meat is traditionally served at Thanksgiving celebrations?	Chicken	Goose	Hamburger	Turkey
+1DIFF12	Food	1	What is the name for a large sandwich made from a whole loaf of bread?	Baguette	Gyro	Slider	Sub
+191582	Food	1	If you were hungry for a Wiener Schnitzel, what would you be craving?	Sauerkraut	Garlic Roasted Herring	Broiled Rabbit	Pan Fried Veal Fillet
+294740	Food	1	What kind of meat is prosciutto?	Chicken	Beef	Veal	Ham
+69191	Food	1	What food is immortalized by the poem about its musical prowess and its ability to make you toot?	Liver	Burrito	Cabbage	Beans
+88384	Food	1	What is "Coq au Vin"?	Eggs With Mushrooms	Chicken With Brie	Eggs With Brie	Chicken With Wine
+1DIFF07	Food	1	Nutella is what kind of food product?	Sour cream	Mayonnaise	Peanut butter	Chocolate hazelnut spread
+12069	Food	1	What do you call the seed in the middle of a cherry?	Core	Stem	Hull	Pit
+218228	Food	1	What are gnocchi?	An Italian Vegetable	A Mexican Dessert	A Fish Found In The North Atlantic	Potato And Pasta Dumplings
+191628	Food	1	Which of the following Japanese foods is traditionally deep fried?	Sashimi	Udon	Soba	Tempura
+1DIFF11	Food	1	What are crunchy pieces of bread added to salad called?	Bagels	Baguettes	Capers	Croutons
+1DIFF04	Food	1	Tortillas are normally made from flour or what?	Grass	Rice	Chocolate	Corn
+36304	Food	1	Which fruit is used to make prunes?	Grapes	Bananas	Cherries	Plums
+356926	Food	1	What percentage of Americans eat turkey for Thanksgiving?	Estimated At 7%	Estimated At 66%	Estimated At 46%	Estimated At 95%
+FTUXPIC139	Food	1	What is this popular Korean dish?	Soba	Yakitori	Flauta	Kimchi
+1DIFF16	Food	1	Neapolitan ice cream is made of what three flavors?	Honey, Lavender, Butterscotch	Green Tea, Coffee, Rum Raisin	Rocky Road, Mint, Pistachio	Strawberry, Vanilla, Chocolate
+355412	Food	1	Which of these is not a kind of cheese?	Cheddar	Parmesan	Gouda	Rotini
+356904	Food	1	Which of the following is not a type of cheese?	Gouda	American	Cheddar	Parisian
+96732	Food	1	Which type of pasta is shaped like a corkscrew?	Ravioli	Angel Hair	Fettucine	Rotini
+42324	Food	1	Which of these foods is a good source of calcium?	Bananas	Grapefruit	Hamburger	Cheese
+191589	Food	1	What is the Italian name of the dish known in English as "cornmeal mush"?	Ricotta	Risotto	Pappardelle	Polenta
+191575	Food	1	Which vegetable can come in bright red, green, yellow orange or purple?	Carrots	Corn	Lettuce	Peppers
+1DIFF24	Food	1	What kind of product does Ben and Jerry's make?	Mustard	Salsa	Liquor	Ice cream
+37875	Food	1	Which type of pasta would be difficult to string onto a necklace?	Penne	Wagon Wheels	Macaroni	Lasagna Noodles
+416494	Food	1	Which of the following is found on a traditional Mexican breakfast menu?	Oatmeal	Croissants	Lucky Charms	Huevos Rancheros
+191587	Food	1	Creme de Abacate is a Brazilian dessert made from which green fruit?	Kiwi	Lime	Grape	Avocado
+12083	Food	1	Which of these foods has the most sugar added to it?	Macaroni And Cheese	Peanut Butter	Bagel And Cream Cheese	Cookies 'N Cream Ice Cream
+10002	Food	1	Ricotta is an Italian ... what?	Sweet Wine	Pasta Dish	Dried Ham	Soft Cheese
+294618	Food	2	Julia Child is best-known for cooking what type of cuisine?	Cajun	Colonial American	Asian	French
+67430	Food	2	What is Garam Masala?	A Measuring Spoon	An Italian Dessert Wine	Herb Made From Crushed Dried Leaves Of The Vine	A Blend Of Spices
+40247	Food	2	Which meat is used for classic wiener schnitzel?	Pork	It Doesn't Matter	Lamb	Veal
+12080	Food	2	What is the name of a sugared treat, available in the USA, that originated from Spain?	Star Bars	Nougat	Dobos Torte	Churros
+349519	Food	2	What is another name for chick peas?	White Beans	Girl Beans	Black Beans	Garbanzos
+318081	Food	2	What does one do with kohlrabi?	Wear It	Play With It	Salute It	Eat It
+218433	Food	2	What kind of cuisine can you expect to find in a Brazilian "churrascaria"?	Fish-Based Stews And Soups	Pastries And Sweets	Salads	Grilled Meats
+93282	Food	2	What popular Japanese food that features deep fried curry wrapped in a piece of dough?	Ramen Curry	Curry Prawn	Curry Oden	Curry Bread
+36477	Food	2	What is the major ingredient in the British foodstuff "Marmite"?	Beef Extract	Pork Dripping	Bean Curd	Yeast Extract
+57900	Food	2	Which country does the dish biryani come from?	Italy	Turkey	Mexico	India
+81034	Food	2	What flavor does the liqueur Creme de Noisette have?	Cashew	Walnut	Olive	Hazelnut
+294722	Food	2	Which is not a Girl Scout cookie?	Shortbread	Peanut Butter Sandwich	Thin Mints	Ahoys
+355542	Food	2	What part of the chicken is used to make "Chicken Parmigiana"?	Leg	Thigh	Wing	Breast
+88336	Food	2	What multi-purpose condiment is known to help revitalize hair?	Mustard	Barbeque Sauce	Ketchup	Mayonnaise
+356458	Food	2	What is the Mexican dish made of a tortilla filled with melted cheese and folded in half called?	Burrito	Taco	Nachos	Quesadilla
+191599	Food	2	Unilever owns what tea brand?	Tazo	Celestial Seasonings	Nestea	Lipton
+355409	Food	2	What produces the flavor of maple syrup?	A Flavoring Additive	Forest Air	Added Sugars	Cooking The Syrup
+355418	Food	2	What is in succotash?	Peas And Carrots	Lima Beans And Carrots	Corn And Carrots	Lima Beans And Corn
+300137	Food	2	What would you be served in a Japanese restaurant if you ordered "Unagi"?	Monosodium Glutamate (MSG)	Monterey Squid	Grilled Eel Served On Rice	Freshwater Eel
+349520	Food	2	A "ceviche" contains pieces of fish that are what?	Fried	Baked	Grilled On A Stick	Raw
+415306	Food	2	What company makes the Butterfinger bar?	Wonka	Hershey	Mars	Nestle
+347930	Food	2	What is marsala?	A Sour Wine	A Mixed Drink	A Dry White Wine	A Sweet Wine
+300153	Food	2	What is the name of a cold drink made from rice and almonds?	Churro	Burrito	Menudo	Horchata
+48181	Food	2	What are "Angels on Horseback"?	Cauliflower In Cream Sauce	Rice Served On Meat Patties	Potatoes Placed On A Bed Of Spinach	Oysters Wrapped In Bacon
+96731	Food	2	What is NOT used in the making of traditional guacamole?	Onions	Avocado	Cilantro	Sour Cream
+232748	Food	2	What is a "natural" steak?	The Beef Is Organic	The Beef Was Not Given Antibiotics	The Beef Was Not Given Growth Hormone	No Additives, Color Or Preservatives Were Added
+355545	Food	2	Which of these foods takes the longest to spoil?	Crackers	Cashews	Pasta	Honey
+416263	Food	2	Which drink made with triple sec, light/dark rum and juices is named after an undead monster?	Voodoo	Frankenstein	Vampire	Zombie
+412916	Food	2	A screwdriver becomes a fuzzy screw when what is added?	Sweet And Sour	Melon Liqueur	Gin	Peach Schnapps
+100266	Food	2	What Italian food dish is filled with meat?	Fettuccine Alfredo	Pasta Primavera	Mozzarella Marinara	Spaghetti Bolognese
+416499	Food	2	What would you be served in a Japanese restaurant if you ordered "Anago"?	Stuffed Wonton	Striped Bass, Rockfish	Razor-Shell Clam	Conger Eel
+72974	Food	2	What do you call the rotating rod a "rotisserie" item is cooked on?	Skewer	Pike	Pole	Spit
+356416	Food	2	What is the name of a dish that is a combination of sliced pork and soft noodles?	Pork Chow Mein	Moo Shu Pork	Pork Fried Rice	Pork Lo Mein
+355611	Food	2	What is a Red Savina?	A Nut	A Tropical Fish	A Type Of Sandwich	A Hot Pepper
+356730	Food	2	Of the following, which is a term referring to the melting and cooling of chocolate to make candies?	Carameling	The Bunson Process	Marbling	Tempering
+88503	Food	2	Mascarpone is an Italian ... what?	Hard Buffalo Cheese	Sweet Wine	Spiral Shaped Pasta	Soft Cream Cheese
+189520	Food	2	What is the English translation of the popular Indian dish "murgh makhani"?	Lamb Curry	Baked Chicken	Mixed Vegetables	Butter Chicken
+13822	Food	2	Hardees restaurants are also called what in certain states?	Carla's Jr	Pal's Jr	Cal's Jr	Carl's Jr
+88385	Food	2	What ingredient will you not find in antipasti?	Cheese	Peppers	Cold Cuts	Pasta
+226006	Food	2	What is eaten by Jews on the Day of Atonement?	Gefilte Fish	Kreplachs	Matzo Ball Soup	Nothing, They Fast
+57639	Food	2	Which fruit used to be referred to as the "love apple"?	Passion Fruit	Strawberry	Apple	Tomato
+282662	Food	2	In cooking, what does "etoufee" mean?	With Gravy	Boiled	With Rice	Smothered
+416900	Food	2	Which species of crab lives inside a shell?	Horseshoe Crab	Pea Crab	Spiny Spider Crab	Hermit Crab
+294609	Food	2	What kind of instrument was first used to cook Kentucky Fried Chicken in the restaurant?	A Frying Pan	A Crockpot	A Deep Fryer	A Pressure Cooker
+355502	Food	2	What is the name of the sauce that traditionally accompanies souvlaki?	Mint	Hummus	Taratoor	Tzatziki
+88349	Food	2	What is the thinnest form of straight pasta commonly available?	Fettuccini	Gnocchi	Spaghetti	Capelli D'angelo
+41175	Food	2	Which snack is sold under the Spanish name "Chicharrones"?	Chicken Wings	Cheese Curls	Pretzels	Pork Rinds
+356910	Food	2	Mexican Mole sauce is made by mixing what normally sweet substance with chilies and spices?	Whipped Cream	Cinnamon	Caramel	Chocolate
+39535	Food	2	Which animal product does an ovo-vegetarian eat?	Chicken	Fish	Dairy	Eggs
+11485	Food	2	Which single spice combines the tastes of cinnamon, clove, nutmeg, juniper and pepper?	Garam Masala	Mace	Star Anise	Allspice
+75730	Food	2	A ganache is a combination of cream and what?	Eggs	Butter	Cheese	Chocolate
+254934	Food	2	What is the smallest citrus fruit?	Grapefruit	Orange	Lemon	Kumquat
+318077	Food	2	What are the two main ingredients in the Scottish dish "stovies"?	Beef And Herring	Bacon And Eggs	Potatoes And Turnip	Potatoes And Onions
+100267	Food	2	What causes bubbles to appear in beer?	Hops Interacting With Air	Baking Soda	Vapor Particles	Natural Carbonation
+356899	Food	2	What is the Indian drink known as a "lassi" made of?	Tea	Water	Oranges	Yogurt
+415998	Food	2	If you asked for "chili con queso" in a Mexican restaurant, you'd get peppers and tomatoes with?	Corn Tortillas	Garlic	Onions	Cheese
+31145	Food	2	Which one of these condiments has anchovies in it?	Mayonnaise	Dijon Mustard	Salsa	Worcestershire Sauce
+13821	Food	2	What coffee beverage combines one part espresso with three parts steamed milk?	Cafe Au Lait	Latte Macchiato	Cafe Italiano	Cafe Latte
+355512	Food	2	What cheese, named for an Italian town, tastes like a cross between Cheddar and Parmesan?	Ricotta	Feta	Pepato	Asiago
+294806	Food	2	What spice is made from the seeds of the plant whose leaves are called cilantro?	Dill	Caraway	Nutmeg	Coriander
+374648	Food	2	What fruit is St. Nick's nose like?	Grape	Plum	Raisin	Cherry
+294797	Food	2	What is seitan?	A Rare Fresh-Water Fish	A Grilled Meat Dish Served With Peanut Sauce	A Thickener For Soups And Stews	A Meat Substitute Made Of Wheat Gluten
+350046	Food	2	What are the traditional ingredients in a Mexican "Margarita"?	Tequila, Soda Water, Lime Juice	Tequila, Lemonade, Vodka	Tequila, Triple Sec, Midori	Tequila, Triple Sec, Lime Juice
+88048	Food	2	Traditional Mexican "tamales" are wrapped in what food product?	They're Not Wrapped In Anything	Flour Tortillas	Corn Tortillas	Corn Husk
+295604	Food	2	Which African berry removes the sourness of lemons and limes?	Blackberry	Raspberry	Cranberry	Miracle Fruit
+416189	Food	2	If you ordered "Tako" in a Japanese restaurant, what would you get served?	Bean Gelatin Noodles	Squid	Red Pickled Ginger	Octopus
+355555	Food	2	What is another name for pocket bread?	Wheat Bread	Bagels	French Roll	Pita Bread
+415755	Food	2	What type of fish is a dangerous delicacy for sushi eaters if not correctly prepared?	Shark	Jellyfish	Starfish	Blowfish
+294683	Food	2	Which food is known as brain food?	Oysters	Veal	Chicken	Fish
+294571	Food	2	If you ordered "Soba" in a Japanese restaurant, what would you get served?	White Sesame Seeds	Mixed Hot Spices	Cockle Clam	Buckwheat Noodles
+415664	Food	2	What would you be served in a Japanese restaurant if you ordered "Unagi maki"?	Mixed Hot Spices	Conger Eel	Black Sesame Seeds	Eel Roll
+31922	Food	2	If you ordered "Daikon" in a Japanese restaurant, what would you get served?	Fake Crab Meat	Sperm Sacs Of The Cod Fish	Kelp	Long White Radish
+55962	Food	2	What kind of food is "satay"?	Malaysian Soup Of Meat And Peanuts	Skewered Vegetables, Peanut Sauce	Malaysian Soup Of Meat And Carrots	Skewered Meat Morsels, Peanut Sauce
+17102	Food	2	Which fruit is grenadine made from?	Cherries	Nectarines	Guavas	Pomegranates
+294651	Food	2	What is another name for tenderloin steak?	Sirloin	T-Bone	Porterhouse	Filet Mignon
+355602	Food	2	What provides the sour taste in traditional Chinese hot and sour soup?	Lime	Fish Sauce	Lemon	Vinegar
+96947	Food	2	Which of the following cheeses was invented in Greece?	Brie	Cheddar	Gouda	Mizithra
+294781	Food	2	Mexican ceviche is made by marinating raw fish in what type of liquid?	Milk	Tomato Juice	Beer	Lime Juice
+88343	Food	2	If you order a wine in a French restaurant, how will it probably be served?	By The Shot	With Sugar And Cinnamon	In An Ornate Porcelain Mug	In A Carafe
+256505	Food	2	Traditionally in an American restaurant in what order are the courses presented?	Bread, Soup, Appetizer, Salad , Entree	Appetizer, Soup, Salad, Bread, Entree	Appetizer, Bread, Salad, Soup, Entree	Bread, Appetizer, Soup, Salad, Entree
+416261	Food	2	What is the name of the traditional Spanish rice dish cooked in a large pan?	Omelette	Fritatta	Pavlova	Paella
+294658	Food	2	Which berry is known for its ability to relieve cystitis?	Strawberry	Raspberry	Cherry	Cranberry
+413758	Food	2	What do you call the traditional long skinny loaf of bread served in France?	Bateau	Batard	Bredette	Baguette
+12103	Food	2	Phoenix and Dragon is referred to as what food item?	A Chinese Dessert Cake	A Child's Tea Time Treat In England	A Japanese Soup	A Chinese Dish Of Seafood And Chicken
+300144	Food	2	Which of the following is an Italian pasta sauce made with wine and tomatoes?	Alfredo	Cheese Sauce	Pesto	Bolognese
+415777	Food	2	What type of meat would you use for Irish stew?	Pork	Veal	Beef	Lamb
+36384	Food	2	Which of the following is the main ingredient in falafel?	Rice	Lentils	Pork	Chickpeas
+324990	Food	2	What does the Italian term "Al Dente" mean in regards to pasta?	Home-Made	Cooked Perfectly	Can't Dent It	To The Teeth
+355558	Food	2	Which of the following is a white wine?	Chianti	Beaujolais Nouveau	Pinot Noir	Pinot Grigio
+355498	Food	2	What would you most likely find at French "Boulangeries"?	Cafe Au Lait	Grilled Salmon	Steak Tartare	Buttery Croissants
+355665	Food	2	What popular diet cola first appeared in 1962?	Mr. Pibb	Diet Coke	Diet Dr Pepper	Diet Rite
+53089	Food	2	What are the food ingredients of ganache?	A Classic French Sponge Cake	Melted Chocolate Mixed With Paraffin Wax	Whipping Cream And Sugar, Whipped	Whipping Cream And Melted Chocolate
+415549	Food	2	What is the most-eaten food in China?	Chicken	Noodles	Tofu	Rice
+12073	Food	2	What bean and pork stew is known as Brazil's national dish?	Capirinha	Farofa	Goiabada	Feijoada
+193935	Food	2	Which item is a potato-based noodle?	Rotini	Farfalle	Spaetzle	Gnocchi
+92772	Food	2	Tea originated in which country over 5000 years ago?	Japan	England	India	China
+356453	Food	2	Why should you let a roast "rest" before serving it?	To Lower The Calories	It Is Easier To Carve	It Creates A Tasty Crust	For Juices To Spread
+228566	Food	2	What is the lower joint of the leg of a chicken called?	Winglet	Thigh	Knob	Drumstick
+11486	Food	2	What does adding lemon juice to water for cooking cauliflower do?	Make The Cauliflower Mushy	Turn The Cauliflower A Yellowish Color	Keep The Cauliflower Crisp	Keep The Cauliflower White
+350060	Food	2	In Italian cooking, what are salvio, timo, prezzemolo and basilico?	Types Of Meat	Dessert Wines	Regional Cheeses	Commonly Used Herbs
+294719	Food	2	What is the name of the general that has a very popular Chinese dish named after him?	Hu	Woo	Ling	Tso
+295614	Food	2	What type of trout is most commonly available in the US?	Brook Trout	Brown Trout	Blue Trout	Rainbow Trout
+317843	Food	2	What is another name for butter beans?	Navy Beans	Pinto Beans	Red Beans	Lima Beans
+355548	Food	2	What Italian pasta is the larger version of ziti pasta?	Zamboni	Macaroni	Barcelona	Zitoni
+349541	Food	2	What is used to cook ceviche?	An Oiled Skillet	A Double Boiler	A Bar-B-Que Grill	Lime Juice
+12074	Food	2	What is a "brioche"?	Meat Dish	Soup	Pancake	Type Of Bun
+256680	Food	2	Mascarpone cheese, ladyfingers, and espresso are ingredients in what Italian dessert?	Tartufo	Biscotti	Gelato	Tiramisu
+12081	Food	2	Which kind of wine is not chilled before serving?	Blush	Zinfandel	Champagne	Red
+356750	Food	2	Which of these items is not a Japanese noodle dish?	Soba	Ramen	Udon	Gomaae
+295639	Food	2	What is Lapsang Souchong?	Onion Sauce	Organic Chicken	Veal	Black Tea
+416636	Food	2	Where do lobsters live?	In Coastal Tidewater Areas	In Shallow Ponds	On Coral Reefs	On The Ocean Floor
+88351	Food	2	Which of the following was not an item on the Red Lobster menu in 2006?	Popcorn Shrimp	Apple Walnut Chicken Salad	Jumbo Parrot Bay Coconut Shrimp	Grilled Hammerhead Shark
+55319	Food	2	What sauce is made by adding white wine, vinegar and tarragon to hollandaise sauce?	Bechamel	Mayonnaise	Mornay	Bernaise
+13815	Food	2	If you ordered "Kani" in a Japanese restaurant, what would you get served?	Red Clam	Red Pickled Ginger	Fatty Tuna	Crab Meat
+300158	Food	2	What is eaten with most German meals that is not considered a side dish?	Wurst	Eggs	Cheese	Bread
+294741	Food	2	Which of these is a popular brand of bourbon named for a bird?	Gray Goose	Dodo	Cardinal	Wild Turkey
+416547	Food	2	What is the most expensive form of caviar?	Osruga	Sevruga	Putrasa	Beluga
+214482	Food	2	Which of the following fruits is grown on a vine and harvested by flooding its field?	Plum	Cherry	Grape	Cranberry
+294748	Food	2	The alcohol found in wine, beer and liquors is called either grain alcohol or what?	Plenol	Colomol	Methanol	Ethanol
+80007	Food	2	Which vegetable is found in "Chicken Divan"?	Asparagus	Cauliflower	Corn	Broccoli
+294572	Food	2	Which of these is least likely to be in a recipe for lasagna?	Seafood	Beef	Spinach	Bananas
+416913	Food	2	If you ordered "Fugu" in a Japanese restaurant, what would you get served?	Conch	Octopus	Mixed Hot Spices	Blowfish
+294724	Food	2	What is sweet butter?	Butter Sweetened With Sugar	Butter Made From Apples	Butter Sweetened With Honey	Unsalted Butter
+89972	Food	2	Which of the following berries is poisonous?	Blueberries	Strawberries	Mulberries	Jasmine Berries
+218447	Food	2	What famous chef created the world-renowned Spago's restaurant?	Emeril Lagasse	Mario Batali	Julia Child	Wolfgang Puck
+218208	Food	2	Herbs are the leaves of what type of low-growing plants?	Flowers	Trees	Vines	Shrubs
+296172	Food	2	Which Japanese food is made from chicken?	Wakame	Sashimi	Gyoza	Yakitori
+356406	Food	2	Which of the following fish is a flatfish?	Salmon	Shrimp	Eel	Halibut
+62506	Food	2	What food chain prides itself on its varieties of milkshakes, including a "hot fudge" milkshake?	McDonald's	Applebee's	Burger King	Steak And Shake
+12084	Food	2	What is "Vichyssoise"?	Spanish Rice	Italian Ice Cream	A Type Of Chip Dip	Cold French Soup
+5469	Food	2	What is tripe made from?	Pig Ears	Lamb Tails	Ox Tails	Cow Stomachs
+318073	Food	2	What is "Bistecca"?	Pork	Chicken	Duck	Steak
+51540	Food	2	What is royal jelly?	The Necessary Ingredient In Royal Gelatin	A Jelly Like Substance Used To Make Desserts	A Sap Secreted By Royal Palm Trees Used In Sauces	Substance Made By Worker Bees To Feed Queen Bees
+294836	Food	2	What is poi made from?	Breadfruit	Rice	The Hawaiian Potato	Taro Root
+350043	Food	2	Which of these is technically not a crab, and may have existed for millions of years?	Dungeness Crabs	King Crabs	Red Rock Crabs	Horseshoe Crabs
+93068	Food	2	Where was iced tea first sold commercially?	England	India	Canada	United States
+89084	Food	2	Which of these is not an Italian cheese?	Parmesan	Ricotta	Provolone	Velveeta
+356863	Food	2	In religious ceremonies, which fruit juice is often substituted for wine?	Apple Juice	Pear Juice	Cranberry Juice	Grape Juice
+415965	Food	2	If you'd like to order eel at a Japanese restaurant you'd use what word?	Sashimi	Moshi Moshi	Temaki	Unagi
+355676	Food	2	In Cajun cooking, what ingredients are known as the "Holy Trinity"?	Roux, Fish Stock, Shrimp	Tabasco, Cornbread, Okra	Crawdads, Cayenne Peppers, Beer	Celery, Onions, Bell Pepper
+416908	Food	2	If you sit down to dinner in Paris and start with "pain" and "fromage", what are you eating?	Crackers And Onion Soup	Cheese And Wine	Snails And Garlic Butter	Bread And Cheese
+300163	Food	2	Which popular Chinese soup's name means "swallowing a cloud"?	Egg Drop	Hot And Sour	Sizzling Rice	Won Ton
+294732	Food	2	What type of cuisine offers Dim Sum?	Japanese	Thai	Polynesian	Chinese
+294717	Food	2	What is the main ingredient in a "Boxty"?	Rice	Flour	Eggs	Potatoes
+375689	Food	2	Which of these is not considered to be a cephalopod?	Blue Ringed Octopus	Striped Pyjama Squid	Giant Cuttlefish	Sea Slug
+356860	Food	2	What is a common cuisine commodity from Bologna, Italy?	Grapes	Eggs	Pickles	Olives
+416930	Food	2	What is the French term for a grilled cheese and ham sandwich?	Croque Sandwich	Sandwiche Fromage	Fromage Boulange	Croque Monsieur
+415723	Food	2	What do you have when you are served "gazpacho" in southern Spain?	A Spicy Olive Oil	Grilled Fish	Chilled Wine	A Cold Tomato Soup
+416927	Food	2	What is the name of a Mexican deep-fried pastry stick, rolled in sugar and served hot?	Horchata	Menudo	Mole	Churro
+300151	Food	2	What type of dessert is traditionally served at French weddings?	Tiered Vanilla Cake	Bowl Of Burnt Cream	Chocolate Souffle	Tower Of Cream Puffs
+218448	Food	2	What Southern-Italian style of cooking is also the name of a type of ice cream?	Napoleon	Gelato	Campania	Neapolitan
+415542	Food	2	Which sweetener sometimes used in cooking includes laevulose, dextrose and an anti-mold enzyme?	Sugar	Sweet'N Low	Aspartame	Honey
+300139	Food	2	Chamomile tea consists of what?	Tea Bush Stems	Spearmint Leaves	Fungus Shavings	Dried Flowers
+355546	Food	2	Jambon is the French word for what food?	Bacon	Sausage	Pork Ribs	Ham
+12095	Food	2	What are German "Knodel", or dumplings, usually made of?	Rice	Cracked Wheat	Pinto Beans	Mashed Potatoes Or Bread
+356485	Food	2	Who is the largest producer of tea in the world?	India	United States	Italy	China
+96180	Food	2	Which one of the following fruits has a core?	Blueberry	Fig	Lemon	Pear
+355416	Food	2	Which ingredient is used to make caramel?	Chocolate Fudge	Chocolate Syrup	Vanilla Extract	Condensed Milk
+88350	Food	2	From what grain is pumpernickel bread made?	Wheat	Corn	Maize	Rye
+415898	Food	2	If you order a "smothered covered and diced food", which of these might it be?	Chop Suey	Pizza	Steak	Hashbrowns
+64442	Food	2	Which of the following is not a type of pasta?	Mostaccioli	Vermicelli	Rigatoni	Patella
+88344	Food	2	What makes a martini "dirty"?	Vermouth	Diluted With Ice	Vodka	Olive Brine
+255114	Food	2	What is the name of the flatbread eaten with most Indian cuisine?	Shork	Fedge	Talm	Naan
+12092	Food	2	What is the biggest supermarket chain in the U.S.?	Albertson's	Winn Dixie	A&P	Kroger Co.
+52481	Food	2	Beef is the #1 source of what nutrients?	Vitamin B12, Calcium And Protein	Zinc, Calcium And Vitamin C	Vitamin C, Protein And Calcium	Protein, Zinc And Vitamin B12
+415791	Food	2	Calamari is made from what sea creature?	Octopus	Shark	Sea Urchin	Squid
+13811	Food	2	What kind of beef comes from pastured cattle fed with organic feed?	Grade "A" Beef	Natural Beef	Angus Beef	Organic Beef
+415980	Food	2	Which of these fruits has seeds which you shouldn't eat?	Guava	Passion Fruit	Kiwi	Peach
+355405	Food	2	What might you do with a cocktail that had Singapore in its name?	Hurt It	Chuck It	Drop It	Sling It
+93998	Food	2	What are Indian pastries stuffed with potatoes called?	Pakoras	Naan	Chutney	Samosas
+294687	Food	2	What Italian dessert is multi-colored ice cream, often with nuts or fruit embedded?	Neapolitan	Limoncello	Cannoli	Spumoni
+355667	Food	2	What meat is usually found in the Brazilian snack "coxinha"?	Beef	Pork	Lamb	Chicken
+13813	Food	2	Who became a spokesman for "Jell-O" in the 1970's?	Paul Rodriguez	George Carlin	Howie Mandel	Bill Cosby
+356864	Food	2	What herb is supposed to help improve your memory?	Milk Thistle	Ginkogen	Vitamin K	Ginkgo Biloba
+356473	Food	2	Who infused livestock, such as cattle, pigs, goats, and chickens to the Mexican diet?	Asian Merchants	English Soldiers	Nordic Sailors	Spanish Explorers
+355646	Food	2	If you cook up some Mexican Frijoles, what do you have in the pot?	Peppers	Tortillas	Spiced Onions	Beans
+355662	Food	2	From what prime ingredient is Italian ice made?	Cream	Yogurt	Milk	Water
+256608	Food	2	What cheese, originally made in France, has a rich mushroom flavor?	Gouda	Edam	Colby	Brie
+191600	Food	2	The Indian dish "Pakistani Lamb" is traditionally served with which of these?	Onion And Curry	Potato Bread	Tandoori Wine	Rice
+415987	Food	3	What color is the crocus flower that saffron comes from?	Orange	Scarlet	Lemon Yellow	Light Purple
+294588	Food	3	What would you be served in a Japanese restaurant if you ordered "Una-don"?	Gizzard Shad	Monkfish Liver	Small Water Snails	Grilled Eel Served On Rice
+356464	Food	3	What popular Chinese dish was actually invented in America?	Chow Mein	Lo Mein	Egg Roll	Chop Suey
+87106	Food	3	What strangely named type of mackerel is also known as an Ono in Hawaii?	Wackawacka	Woowoo	Yahoo	Wahoo
+349536	Food	3	Which Italian town is considered to make the world's best balsamic vinegar?	Siena	Pisa	Asti	Modena
+71125	Food	3	The history of coffee dates back how many years?	150 Years	500 Years	87 Years	More Than 1000 Years
+355504	Food	3	What does "dim sum" mean in English?	Sticky Buns	Food In Small Dishes	Good Luck	To Touch Your Heart
+356479	Food	3	What is "Finnan Haddie"?	Salt Cod	Cured Shark Fin	Smoked Potato	Smoked Haddock
+294823	Food	3	Which of the following steak cuts is usually marinated to tenderize it before cooking?	T-Bone Steak	Filet Mignon	Rib Steak	Round Steak
+447524	Food	3	What food group does a "lassi" fit into?	Meat	Vegetable	Grains	Dairy
+96665	Food	3	Which pasta is named for its resemblance to a feather quill?	Rigatoni	Orzo	Ravioli	Penne
+294674	Food	3	The "crepe" originated in what area of France?	Paris	Provence	Bordeaux	Brittany
+218192	Food	3	What drink has sloe gin, orange juice, Southern Comfort and vodka?	Southern Screwdriver	Sex On The Beach	Phillips Screwdriver	Slow Comfortable Screw
+349989	Food	3	What is the primary flavoring agent of a Greek Tzatziki sauce?	Mustard	Celery Seed	Onion	Garlic
+300165	Food	3	What type of fish is known as "hamachi", particularly in sushi dishes?	Tuna	Salmon	Shrimp	Yellowtail
+191590	Food	3	Beluga, osetra and sevruga caviar come from what fish?	Salmon	Trout	Pike	Sturgeon
+93710	Food	3	What is the main ingredient in the Indian dish called "dhal"?	Black Beans	Lamb	Tomatoes	Lentils
+232745	Food	3	Who developed commercially prepared root beer?	Roy Hinkley	William Shasta	Harry Burger	Charles Hires
+355618	Food	3	In Peru, which color potatoes are grown, in addition to white?	Orange And Green	Blue And Grey	Pink And Chocolate	Purple And Black
+186018	Food	3	Where was the first macaroni factory established?	Los Angeles, CA	Springfield, MA	Seattle, WA	Brooklyn, NY
+374746	Food	3	The Italian term "Neapoletana" implies the use of what in a food dish?	Chestnut Flour	Barley	Wine	Tomato Sauce
+294648	Food	3	What would you be served in a Japanese restaurant if you ordered "Umeboshi"?	Black Sesame Seeds	Grilled Eel Served On Rice	Bits Of Fish Scraped From The Bones	Pickled Japanese Plum
+300178	Food	3	Which of the following is a common ingredient in traditional Italian risotto alla Milanese?	Lemon	Orange	Strawberry	Saffron
+300190	Food	3	Of the different varieties of scallops, which is the largest?	Bay Scallop	Lake Scallop	Gulf Scallop	Sea Scallop
+356459	Food	3	In what year was the first coffee tree grown in the first European greenhouse?	1875	1812	1492	1715
+416259	Food	3	Native tea plants are found in only southern China and what other region in the world?	Cyprus	Sri Lanka	Bangladesh	Assam
+95939	Food	3	What's between the bread in a Denny's club sandwich?	Turkey, Ham, Lettuce, Tomato	Chicken, Bacon, Lettuce, Tomato	Turkey, Bacon, Tomato	Turkey, Bacon, Lettuce, Tomato
+294786	Food	3	What is the name of the rooster on boxes of Kellogg's "Corn Flakes"?	Flakey	Crane	Corny	Cornelius
+416153	Food	3	What is the main flavoring agent in a Mornay Sauce?	Milk	Asparagus	Bechamel	Gruyere Cheese
+300145	Food	3	Which group of pies uses the whole egg as a major ingredient?	Cherry, Blueberry And Apple	Banana, Coconut And Chocolate Cream	Pumpkin, Lime And Lemon Chiffon	Custard, Pumpkin And Pecan
+294645	Food	3	What would you be served in a Japanese restaurant if you ordered "Tarako"?	Japanese Horseradish	Red Pickled Ginger	Yellowtail Collars	Cod Roe
+49023	Food	3	What kind of food is "filleted finney"?	Scandinavian Cod Stew	A Cut Of Lamb	A Type Of European Tuna	Smoked Haddock
+355647	Food	3	What candy company bought the Friendly's Restaurant chain in 1979?	Ghiradelli	Necco	Mars	Hershey's
+294764	Food	3	What is "Abbacchio"?	Chicken	Pork	Ham	Baby Lamb
+88341	Food	3	With which city do you associate a Wiener Schnitzel?	Munich	Salzburg	Wiemar	Vienna
+294729	Food	3	What kind of cheese is sometimes made from buffalo milk?	Parmesan	Gouda	Swiss	Mozzarella
+294689	Food	3	Which of these berries is milder and sweeter when white?	Blueberries	Raspberries	Blackberries	Cranberries
+217534	Food	3	What one ingredient must a fish or poultry dish have to be called "Veronique"?	Apples	Mayonnaise	Eggs	Grapes
+356482	Food	3	Coffee plants originated on what continent over 1000 years ago?	Europe	South America	Asia	Africa
+355566	Food	3	Which company owned and controlled the Frito-Lay brand in 2006?	Coors	Coca-Cola	General Mills	Pepsico
+300148	Food	3	What are 3 ingredients in the famous chilled Spanish vegetable soup, Gazpacho?	Salsa, Potatoes, And Corn	Red Wine, Chili Peppers, And Beef Stock	Chorizo Sausage, Zucchini, And Rice	Ripe Tomatoes, Cucumbers, And Vinegar
+88460	Food	3	Traditional Italian menus have how many sections?	Three Sections	One Section	Two Sections	Five Sections
+300149	Food	3	If you ordered "Sumitomo" in a Japanese restaurant, what would you get served?	Ginger Root	Small Water Snails	Lotus Roots	Cucumber Salad
+416855	Food	3	Outside of Hawaii, what is the common name for Mahi Mahi?	Porpoise Fish	Whale Fish	Seal Fish	Dolphin Fish
+318063	Food	3	What are canapes?	Awnings Seen Over Sidewalk Bistros	Raw Vegetables Usually Served With Dip	Similiar To Sugar Snap Peas	Small Open-Faced Sandwiches
+5482	Food	3	What Indian spice that grows in pods is used to make chai tea?	Saffron	Turmeric	Cinnamon	Cardamom
+81033	Food	3	What vegetable family does Calabrese broccoli come from?	Swede Family	Lettuce Family	Spinach Family	Cabbage Family
+356851	Food	3	Which of the following sauces does not contain eggs?	Bearnaise	Creme Anglaise	Hollandaise	Veloute
+416863	Food	3	Which of the following Italian liqueurs, made with rose petals, is commonly served with dessert?	Jager	Sagne	Rotini	Rosolio
+34104	Food	3	Tibetan butter tea contains rock salt and "dre", which is what kind of butter?	Goat	Sheep	Buffalo	Yak
+300183	Food	3	In a McDonald's in Japan, which of these unique burgers would you be able to order?	Sushi Burger	Rice Burger	Tempura Burger	Chicken-Tatuta Burger
+356460	Food	3	Which province in France boasts many dishes influenced by German cuisine?	Bretagne	Bordeaux	Provence	Alsace-Lorraine
+415681	Food	3	Which city of Germany is famous for its world class "Marzipan"?	Berlin	Mitte	Hamburg	Lubeck
+338839	Food	3	Which fruit contains more Vitamin C than oranges?	Lemon	Mandarin	Pineapple	Kiwi
+294716	Food	3	Which of these varieties of pasta is the tiniest?	Buctani	Pipette Rigate	Rocchetti	Acini Di Pepe
+447669	Food	3	What imprinted German cookies originated in Baden-Wurttemberg?	Lebkuchen	Anise Cookies	Bademburst	Springerle
+300142	Food	3	What is the Brazilian word for breakfast?	Petit-Dejeuner	Jantar	Jiorno	Cafe da manha
+355527	Food	3	Which of the following is a medicinal use of celery?	Analgesic	Anti-Inflammatory	Antibiotic	Diuretic
+324826	Food	3	What cheese is named after the farm in Denmark where it was first made?	Brie	Monterey Jack	Provolone	Havarti
+38001	Food	3	How many calories is a quarter-pound cheeseburger, large fries and a 16 oz. soda from McDonalds?	550 Calories	750 Calories	980 Calories	1,166 Calories
+3268	Food	3	What is "tahini" made from?	Pumpkin Seeds	Poppy Seeds	Sunflower Seeds	Sesame Seeds
+355630	Food	3	What kind of juice goes in a "Salty Dog" cocktail?	Pineapple	Orange	None Of These	Grapefruit
+415827	Food	3	Which part of an abalone is edible?	Its Eyes	The Floppy Nose	The Shell	Its Muscular Foot
+295624	Food	3	Which of the following ingredients is not found in a classic "Salad Nicoise"?	Haricots Verts	Nicoise Olives	Tuna	Grilled Chicken Breast
+416884	Food	3	Which foodstuff is referred to by the Mexican name "pulpo"?	Chicken	Cabbage	Vegetable Bisque	Octopus
+415477	Food	3	Which country first developed the Pilsner style of beer?	Germany	The Netherlands	Belgium	Czech Republic
+355576	Food	3	In cooking terms, what is ghee?	Chicken Grease	Bacon Drippings	Coddled Eggs	Clarified Butter
+356861	Food	3	What is the spice that makes the yellow color in paella?	Pimento	Paprika	Curry	Saffron
+214996	Food	3	What would you be served in a Japanese restaurant if you ordered "Toro"?	Salmon Roe	Pickled Vegetables	Cod Roe	Fatty Tuna
+254992	Food	3	What Mexican cheese, used in making enchiladas, is often rolled in paprika for increased flavor?	Cheddar	Asadero	American	Anejo Enchilado
+12096	Food	3	What is a compote?	A Sauce Made From Fruit And Nuts	Anything Coarsely Chopped Or Ground	An Artistically Arranged Salad	Fruit Cooked In A Sugar Syrup
+77443	Food	3	Which is the most popular apple variety based on sales?	Granny Smith	Jonathan	Golden Delicious	Red Delicious
+356480	Food	3	What is the name given to a special French wedding cake, made of profiteroles?	Boulangbouche	Macaron	Le Tart Citron	Croquembouche
+416213	Food	3	What does "oolong" mean?	Thin, Reedy Leaf	Pipe Smoke	Good Fortune	Black Dragon
+355679	Food	3	What is the first name of Sir Lipton, the creator of Lipton Tea?	Robert	Sigmund	Erik	Thomas
+37749	Food	3	What alcoholic ingredient is essential to classic "lobster Newburg"?	Vermouth	Champagne	Vodka	Dry Sherry
+300146	Food	3	The bark of the cassia tree is often used to produce a lesser grade of what spice?	Nutmeg	Cardamom	Frankincense	Cinnamon
+54682	Food	3	Who is considered "The Father of Modern French Cooking"?	Wolfgang Puck	Emeril Lagasse	Jaques Pepin	August Escoffier
+13817	Food	3	Which food commonly considered a staple of German cuisine is actually Chinese?	Bratwurst	Riesling	Wiener Schnitzel	Sauerkraut
+355638	Food	3	What is the name of the famous brand of cast iron cookware that originated in France?	Zola	Le Pain Irone	Henckel Solingen	Le Creuset
+294702	Food	3	In Missouri, what is the bread/pastry store "'Panera Bread" referred to as?	Kansas City Bread	Springfield Bagel	Missouri Bread Co	St Louis Bread Company
+375022	Food	3	What is the main ingredient in the Spanish dish called "tortilla"?	Flour	Corn	Water	Eggs
+447891	Food	3	Which one of these mushroom species are safe for humans to eat?	Brown Roll-rim Mushroom	Devil's Bolete Mushroom	Cortinarius Rubellus Mushroom	Shaggy Ink Cap Mushroom
+355506	Food	3	What is "Frumenty"?	German Santa Claus	A Type Of Pie	A Type Of Drink	A Spiced Porridge
+218206	Food	3	What is the name of the flat bread popular with Aboriginal peoples of North America?	Pita	Naan	Roti	Bannock
+349517	Food	3	What is the very yummy German treat "Apfelpfannkuchen" in English?	Cinnamon Bread	Maple Syrup Candy	Peppermint Tea	Apple Pancake
+416876	Food	3	What is "Leberkas"?	A Mexican Dish	A Portuguese Dish	An Italian Dish	A German Dish
+295621	Food	3	Discovered in Japan where it is called "Umami", what is this food item better known as?	Squid	Tuna	Instant Ramen	Monosodium Glutamate
+356942	Food	3	What does the "ascorbic" in vitamin C's other name, ascorbic acid, mean?	Poisonous	Delicious Citrus	Grumpy Old Sourpuss	No Scurvy
+88345	Food	3	Which of these is not a type of grapefruit?	Ruby Red	White	Golden	Purple Petunia
+294666	Food	3	Which one can be kosher?	Calamari	Lobster	Shrimp	Tuna
+100268	Food	3	What is chicken stuffed with garlic butter traditionally called?	Chicken Maryland	Garlic Chicken	Chicken Cordon Bleu	Chicken Kiev
+416004	Food	3	What would you be served in a Japanese restaurant if you ordered "Iwana"?	Pickled Vegetables	Soybeans	Japanese Horseradish	Char
+356461	Food	3	Brazilian food is influenced by what European country's, whose settlers arrived in the 1500's?	Great Britain	France	Spain	Portugal
+416340	Food	3	In cooking, a "dash" is equivalent to about what amount of liquid?	2 Teaspoons	1 Tablespoon	2 Shakes	3 Drops
+413244	Food	3	Which Japanese food is seaweed, often used as soup stock?	Okonomiyaki	Sashimi	Gyoza	Kombu
+294582	Food	3	What is dry Vermouth?	Juice And Vodka	Hops	Apple Drink	Wine
+294656	Food	3	In addition to filet mignon, what will you find in a Filet Antonio?	Crabmeat And Hollandaise Sauce	Crabmeat And Bechamel Sauce	Crabmeat And Antonio Sauce	Crabmeat And Bearnaise Sauce
+415773	Food	3	Which flower yields the spice saffron?	Dandelion	Orchid	Tulip	Crocus
+33448	Food	3	What is not an ingredient of frumenty?	Wheat	Dried Fruit	Cinnamon	Dried Meat
+294825	Food	3	What cut of meat is traditionally used for the dish osso buco?	Bottom Round	Loin Chops	Porterhouse	Shanks
+13816	Food	3	What does "enhanced" mean in the world of steak sales?	Fat Has Been Removed	The Meat Had Coloring Added	The Cows Were Fed Enhanced Grain	Flavoring, Tenderizer Or A Salt Solution Was Added
+416911	Food	3	What would you be served in a Japanese restaurant if you ordered "Kani-kamaboko"?	Cucumber	Bonito Fish	Buckwheat Noodles	Fake Crab Meat
+36441	Food	3	King, Coho and Silver are subspecies of what fish?	Carp	Cod	Tuna	Salmon
+356469	Food	3	What drink do you get when you mix 1 1/2 oz of gin, 3/4 of grenadine, and 1 egg white?	Pink Squirrel	Pink Rose	Pink Panther	Pink Pussycat
+64445	Food	3	If you ordered "Tobiko" in a Japanese restaurant, what would you get served?	Sesame Seeds	Ginger Root	Sea Urchin	Flying Fish Roe
+348054	Food	3	What ingredients are in the garnish called gremolata?	Chopped Green And Black Olives	Mozzarella, Basil, Vinegar	Tomatoes, Garlic, Olive Oil	Parsley, Lemon Peel, Garlic
+415413	Food	3	Coriander and what other spice come from the same plant?	Rosemary	Lavender	Parsley	Cilantro
+356850	Food	3	Which one of these mushroom species are safe for humans to eat?	Death Cap Mushroom	Panther Mushroom	Fly Agaric Mushroom	Hedgehog Fungus Mushroom
+300130	Food	3	What would you be served in a Japanese restaurant if you ordered "Odori-ebi"?	Wheat Noodles	Kelp	Fattest Tuna	Dancing Shrimp
+282646	Food	3	Where's Vatapa from?	Japan	Puerto Rico	Swiss	Brazil
+46271	Food	3	What would you be served in a Japanese restaurant if you ordered "Geoduck"?	Yellowtail	Fish Topping In Nigiri Sushi	Sardine	Mirugai
+294840	Food	3	Blueberries are native to which continent?	Asia	Africa	Europe	North America
+416640	Food	3	If you ordered "Unagi no kimo" in a Japanese restaurant, what would you get served?	Freshwater Eel	Sesame Seeds	Scallops	Eel Innards
+65863	Food	3	What is called "black tea" in England would be considered what kind of tea in China?	Blue-Green Tea	Unblended Tea	Flush	Red Tea
+416873	Food	3	What is a "sabayon"?	Japanese Seasoning	Dutch Shoe	A Cake	A Custard Dessert
+416538	Food	3	If you ordered "Shoga" in a Japanese restaurant, what would you get served?	Bamboo Shoots	Small Water Snails	Pickled Daikon	Ginger Root
+294725	Food	3	A coffee tree produces its first full crop when it is how old?	15 Years	1 Year	10 Years	5 Years
+12077	Food	3	Brandy, Creme De Cacao and cream make what drink?	Brandy Spritzer	Creamy Brandy	Brandy You're A Fine Girl	Brandy Alexander
+361218	Food	3	In a Japanese restaurant what is a requirement to prepare a Nabe dish?	Soy Sauce	Ice	Sea Weed	A Hot Pot
+294664	Food	3	Which of the following is the largest citrus crop in the world?	Lemon	Lime	Grapefruit	Orange
+374790	Food	3	The acai berry comes from what area located in Brazil?	Sahara Desert	Sun Valley Desert	Olympic Rainforest	Amazon Rainforest
+88462	Food	3	In which year did the Coca-Cola Company release "New Coke"?	1999	1973	1983	1985
+218178	Food	3	Mixing Scotch whisky and Drambuie will produce which drink?	Rob Roy	Dry Manhattan	Old Fashioned	Rusty Nail
+415387	Food	3	Who introduced the potato as a staple in the German diet?	Genghis Khan	King Louis XIV	Czar Peter I	King Frederick II
+300134	Food	3	What is "Lihaperunasoselaatikko"?	A Type Of Cracker	Wine	A Dessert	A Boxed Potato/Meat Stew
+294843	Food	3	Which of the following is not an ingredient in Middle Eastern tabbouleh?	Lemon Juice	Mint	Bulgur Wheat	Lentils
+415699	Food	3	If you ordered "Katsuo-boshi" in a Japanese restaurant, what would you get served?	Trout	Green Contents Of A Crab's Head	Bonito Fish	Dried Bonito Fish
+232747	Food	3	What is another name for the antioxidants found in tea?	Tea Steamers	Antihistamines	Progesterone	Flavonoids
+356770	Food	3	Which fruit is slivovitz made from?	Apples	Bananas	Apricots	Plums
+375766	Food	3	With which vegetable are Norwegian Lefse made?	Cabbage	Zucchini	Carrots	Potatoes
+79389	Food	3	What company labels every box of tea with "blessed by a certified tea shaman"?	Celestial Seasonings	Arizona Tea	Jones	Tazo
+300193	Food	3	What is "tahini"?	An Indian Spice	Lamb Pate	A Mediterranean Fish	Sesame Seed Paste
+300159	Food	3	What would you be served in a Japanese restaurant if you ordered "Hirame"?	Japanese Mackerel	Ginger Root	Sandfish	Halibut
+350027	Food	3	What is the main ingredient in the Malaysian dish called Nasi Lemak?	Beef Cooked In Coconut Milk	Rice Cooked In A Curried Stew	Beef Cooked In A Curried Stew	Rice Cooked In Coconut Milk
+300141	Food	3	What famous dish uses arborio rice?	Gumbo	Jambalaya	Fried Rice	Risotto
+48686	Food	3	Brazilians consider which of these dishes a staple?	Shrimp Soup	Sopa De Palmito	Pasteis Fritos	Arroz
+94000	Food	3	Which of these fruits is also called a "custard apple" and grows on an evergreen tree?	Grape	Boysenberry	Watermelon	Cherimoya
+416321	Food	3	Which of the following food items is native to the Umbria region of Italy?	Bananas	Peaches	Peanuts	Black Truffles
+294830	Food	3	What kind of paste is served in some Chinese desserts?	Sweet Prawn Paste	Melon Seed Paste	Creme Custard Paste	Lotus Seed Paste
+294820	Food	3	On the cooking show "The Iron Chef", who was the first Iron Chef Chinese?	Katsuhako Kobe	Chairman Mao	General Tsao	Chen Kenichi
+48685	Food	3	What two things create a chemical reaction which causes leavening in Irish soda bread?	Tonic Water And Flour	Eggs And Baking Powder	Yeast And Water	Baking Soda And Buttermilk
+43989	Food	3	What is a common Indian frozen dessert?	Burfi	Murski	Sturli	Kulfi
+350031	Food	3	Which popular North American food product "helps build strong bodies 12 ways"?	Mac N Cheese	Milk	Flintstones Vitamins	Wonder Bread
+34099	Food	3	In cooking, what is cutting herbs or vegetables into very fine strips called?	Dicing	Grating	Rough Chop	Chiffonade
+11488	Food	3	The typical 15 pound turkey is made up of what percentage of white meat to dark meat?	30% White - 70% Dark	40% White - 60% Dark	80% White - 20% Dark	70% White - 30% Dark
+294816	Food	3	What is preserved in salt, ash, lime and black tea then packed in rice husks & urns?	Tianjin Preserved Cabbage	Chai Poh (Preserved Turnips)	Fermented Black Soy Beans	Thousand-Year-Old Eggs
+294761	Food	3	What is Italian Mascarpone cheese made with?	Goats Milk	Garlic	Grapes	Cream
+349977	Food	3	What kind of food is "burgoo"?	Pie	Bread	Pudding	Meat Stew
+30090	Food	3	Which one of these mushroom species are safe for humans to eat?	Panther Mushroom	Greengills Mushroom	Devil's Bolete Mushroom	Giant Puffball Mushroom
+41225	Food	3	Coffee plants were introduced to Hawaii in what year?	1942	1721	1910	1825
+349498	Food	3	What is a "Haricot Vert"?	A French Pastry	A Type Of Squash	An Indian Rice Dish	A Thin, Tender String Bean
+100066	Food	3	Due to its unique shape, the Carambola fruit is also called what?	Egg Fruit	Zig Zag Nut	Oblong Berry	Star Fruit
+349965	Food	3	What ingredients when added to Hollandaise make the sauce Bearnaise?	Fish Fumet And Basil	Lemon Thyme And Port Wine	Blood Orange Juice	Wine And Tarragon
+355568	Food	3	What is a zucchini also known as?	Courgotte	Courgene	Courgate	Courgette
+355601	Food	3	In Italian cuisine, what sort of sauce is "agliata"?	Lemon	Tomato	Eggplant	Garlic

@@ -1,0 +1,100 @@
+FTUXAU229	Rugby	0	In a World Rugby match, how many points is a penalty goal worth?	1	2	4	3
+FTUXAU205	Rugby	0	In a World Rugby or Rugby League match, how long is it until halftime?	20 minutes	60 minutes	90 minutes	40 minutes
+FTUXAU232	Rugby	0	Who does the Super League champ play in the World Club Challenge?	Africa Cup champ	Calcutta Cup champ	Premiership Rugby champ	National Rugby League champ
+FTUXAU226	Rugby	0	In Rugby League matches, how many tackles are allowed per possession?	3	No Limit	12	6
+FTUXAU224	Rugby	0	When drop kicking or attempting a drop goal, what must the ball do before the kick?	All of these	Spin	Flip	Hit the ground
+FTUXAU280	Rugby	0	Who won The Tri Nations competition in 2020?	Argentina	South Africa	Australia	New Zealand
+FTUXAU286	Rugby	0	Which Six Nations trophy is awarded to the winner of the Scotland vs. Ireland match?	Auld Alliance Trophy	Calcutta Cup	Stanley Cup	Centenary Quaich
+FTUXAU279	Rugby	0	Who won The Rugby Championship in 2019?	Australia	New Zealand	Argentina	South Africa
+FTUXAU245	Rugby	0	Which city's Premiership Rugby team has a bear on their logo?	Bath	Northampton	Worcester	Bristol
+FTUXAU228	Rugby	0	In Rugby League matches, how many a points is penalty goal worth?	5	7	10	2
+FTUXAU268	Rugby	0	What is the NRL Grand Final trophy called?	Billy	Stanley Cup	Heisman Trophy	Provan-Summons Trophy
+FTUXAU274	Rugby	0	Which city's NRL team has a Knight on their logo?	Brisbane	Parramatta	Wollongong	Newcastle
+FTUXAU211	Rugby	0	In a World Rugby match, how many points is a drop goal worth?	2	1	4	3
+FTUXAU289	Rugby	0	Which Six Nations trophy is awarded to the winner of the Wales vs. Scotland match?	Calcutta Cup	Auld Alliance Trophy	Provan-Summons Trophy	Doddie Weir Cup
+FTUXAU208	Rugby	0	In a World Rugby match, how many points is a try worth?	12	7	9	5
+FTUXAU260	Rugby	0	Where was the 2017 Women's Rugby World Cup held?	Canada	Netherlands	Scotland	Ireland
+FTUXAU299	Rugby	0	In 2020, which country did NOT compete in the Americas Rugby Championship?	Canada	U.S.A.	Uruguay	Mexico
+FTUXAU273	Rugby	0	Which city's NRL team has a Rooster on their logo?	Canberra	Melbourne	Auckland	Sydney
+FTUXAU243	Rugby	0	Which city's Super League team has a rhino on their logo?	Castleford	Wakefield	Kingston upon Hull	Leeds
+FTUXAU215	Rugby	0	In rugby, it is against the rules to tackle above what part of the body?	Elbows	Waist	Knees	Shoulders
+FTUXAU240	Rugby	0	What other club competitions do Premiership clubs qualify for?	European Rugby Challenge Cup	All of these	RFU Championship	European Rugby Champions Cup
+FTUXAU227	Rugby	0	In World Rugby matches, how many tackles are allowed per possession?	12	6	3	No Limit
+FTUXAU250	Rugby	0	How often is the Rugby World Cup held?	Every year	Every 2 years	Every 5 years	Every 4 years
+FTUXAU246	Rugby	0	Which city's Premiership Rugby team has a shark on their logo?	Exeter	London	Bristol	Salford
+FTUXAU285	Rugby	0	Which Six Nations trophy is awarded to the winner of the England vs. Ireland match?	Calcutta Cup	Doddie Weir Cup	Web Ellis Cup	Millennium Trophy
+FTUXAU223	Rugby	0	In World Rugby, what may be used to trip the ball-carrier?	Feet	Legs	All of these	Hands
+FTUXAU210	Rugby	0	In rugby, what is the kick right after scoring a try called?	Field Goal	Place Kick	Clear Kick	Conversion
+FTUXAU254	Rugby	0	As of 2020, which country has won the Rugby World Cup 3 times?	Fiji	France	Argentina	New Zealand
+FTUXAU204	Rugby	0	In a Rugby Sevens match, how long is it until halftime?	40 minutes	15 minutes	20 minutes	7 minutes
+FTUXAU221	Rugby	0	Which position exists in World Rugby, but not in Rugby League matches?	Full-Back	Prop	Hooker	Number-8
+FTUXAU281	Rugby	0	Which country joined the Home Nations championship in 1910?	Germany	Spain	Italy	France
+FTUXAU248	Rugby	0	Which city's Premiership Rugby team has a tiger on their logo?	Gloucester	Brentford	Newcastle upon Tyne	Leicester
+FTUXAU271	Rugby	0	Which city's NRL team has a Shark on their logo?	Gold Coast	Brookvale	Townsville	Cronulla
+FTUXAU216	Rugby	0	What is the maximum number of players from each team in a scrum?	3	13	5	8
+FTUXAU276	Rugby	0	Which competition is only between Argentina, Australia, New Zealand, and South Africa?	Home Nations Championship	NRL Grand Final	Rugby World Cup	The Rugby Championship
+FTUXAU233	Rugby	0	In Super League, who is the 12th team in the 2021 season.	Huddersfield Giants	Hull Kinston Roveres	Catalans Dragons	Leigh Centurions
+FTUXAU272	Rugby	0	Which city's NRL team has a Black Panther on their logo?	Belmore	Redfern	Kogarah	Penrith
+FTUXAU222	Rugby	0	What is the length (between try lines) of a rugby field?	120 meters	60 meters	150 meters	100 meters
+FTUXAU257	Rugby	0	Who won the 2020 Six Nations Championship?	Italy	France	Wales	England
+FTUXAU241	Rugby	0	Which city's Super League team has a wolf on their logo?	Kingston upon Hull	St. Helens	Castleford	Warrington
+FTUXAU218	Rugby	0	In rugby, it is against the rules to pass the ball in which direction?	Left 	Right	Backward	Forward
+FTUXAU214	Rugby	0	What term describes when opposing players bind to onto the ball carrier, and the carrier's teammates also bind?	Line-out	Ruck	Scrum	Maul
+FTUXAU212	Rugby	0	In a Rugby League match, how many points is a drop goal worth?	3	2	4	1
+FTUXAU247	Rugby	0	Which city's Premiership Rugby team has a wasp on their logo?	London	Worcester	Exeter	Coventry
+FTUXAU267	Rugby	0	After an NRL Grand Final, usually who is handed the Provan-Summons Trophy?	Man of the Match	Head Coach	Team Owner	Team Captain
+FTUXAU217	Rugby	0	In World Rugby, what term describes how a ball usually returns into play after going out of bounds?	Maul	Scrum	Ruck	Line-out
+FTUXAU225	Rugby	0	In Rugby League matches, which of these is not allowed?	Maul	Ruck	Line-out	All of these
+FTUXAU202	Rugby	0	In a Rugby League match, 2 teams of how many players are on-field?	7	11	9	13
+FTUXAU287	Rugby	0	Which Six Nations trophy is awarded to the winner of the France vs. Italy match?	Millennium Trophy	Auld Alliance Trophy	Lombardy Trophy	Giuseppe Garibaldi Trophy
+FTUXAU252	Rugby	0	Who were the 2019 Rugby World Cup champions?	Namibia	Tonga	Georgia	South Africa
+FTUXAU263	Rugby	0	Who were the 2020 NRL Grand Final champions?	Parramatta Eels	South Sydney Rabbitohs	Gold Coast Titans	Melbourne Storm
+FTUXAU207	Rugby	0	In rugby, the term "try" is analogus to what in American football?	Pass	Field Goal	Tackle	Touchdown
+FTUXAU220	Rugby	0	Which of the following is a position name in rugby?	Prop	Full-Back	Lock	All of these
+FTUXAU201	Rugby	0	In a World Rugby match, 2 teams of how many players are on-field?	7	11	18	15
+FTUXAU264	Rugby	0	After an NRL Grand Final, what is awarded to the man of the match?	Provan-Summons Trophy	Wooden Spoon	Cy Young Award	Clive Churchill Medal
+FTUXAU266	Rugby	0	After an NRL Grand Final, what is awarded to each player of the winning team?	Provan-Summons Trophy	Clive Churchill Medal	Bottle of Milk	Premiership Ring
+FTUXAU277	Rugby	0	What was the Tri Nations competition called after a 4th member joined?	Rugby World Cup	Premiership Final	NRL Grand Final	The Rugby Championship
+FTUXAU282	Rugby	0	What was the Home Nations competition called after a 5th member joined?	Rugby World Cup	The Rugby Championship	NRL Grand Final	Five Nations
+FTUXAU261	Rugby	0	As of 2020, which country has won the Women's Rugby World Cup 5 times?	Russia	France	Sweden	New Zealand
+FTUXAU242	Rugby	0	Which city's Super League team has a dragon on their logo?	Salford	Warrington	Leeds	Perpignan
+FTUXAU237	Rugby	0	Who were the champions of the 2020 Super League Grand Final?	Salford Red Devils	Hull F.C.	Wakefield Trinity	St. Helens
+FTUXAU255	Rugby	0	As of 2020, which country has won the Rugby World Cup 3 times?	Samoa	Japan	Canada	South Africa
+FTUXAU258	Rugby	0	Who won the 2020 Women's Six Nations Championship?	Scotland	Ireland	Italy	England
+FTUXAU213	Rugby	0	What term describes when opposing players bind to onto each other with the ball on the ground between them?	Scrum	Line-out	Maul	Ruck
+FTUXAU219	Rugby	0	Which of the following is a position name in rugby?	Scrum-Half	Hooker	Wing	All of these
+FTUXAU230	Rugby	0	In World Rugby, when are players allowed to support jumping players?	Scrums	Mauls	Rucks	Line-outs
+FTUXAU209	Rugby	0	In a Rugby League match, how many points is a try worth?	12	7	9	4
+FTUXAU293	Rugby	0	What is the France national rugby union team's emblem?	Shamrock	Wallabies	Red Rose	Gallic Rooster
+FTUXAU278	Rugby	0	Which country joined the Tri Nations competition in 2012?	South Africa	Australia	New Zealand	Argentina
+FTUXAU283	Rugby	0	Which country joined the Five Nations competition in 2000?	Spain	France	Scotland	Italy
+FTUXAU290	Rugby	0	What is the South Africa national rugby union team's nickname?	Springboks	Bokke	Amabokoboko	All of these
+FTUXAU244	Rugby	0	Which city's Super League team has a tiger on their logo?	St. Helens	Perpignan	Wigan	Castleford
+FTUXAU234	Rugby	0	Where was the first Magic Weekend held in 2007?	St. James Park	Anfield	Murrayfield Stadium	Millennium Stadium
+FTUXAU251	Rugby	0	What is the Rugby World Cup trophy called?	Stanley Cup	Lombardy Trophy	Provan-Summons Trophy	Web Ellis Cup
+FTUXAU297	Rugby	0	What is the rugby union competition in Japan called?	Super League	National Rugby League	Premiership Rugby	Top League
+FTUXAU203	Rugby	0	In a Rugby Sevens match, 2 teams of how many players are on-field?	14	8	10	7
+FTUXAU265	Rugby	0	Who were the 2020 NRL Women's Premiership Grand Final champions?	Sydney Roosters	New Zealand Warriors	St. George Illawarra Dragons	Brisbane Broncos
+FTUXAU292	Rugby	0	What is the England national rugby union team's emblem?	The Blues	The Pumas	Thistle	Red Rose
+FTUXAU291	Rugby	0	What is the New Zealand national rugby union team's nickname?	The Pumas	Wallabies	Springboks	All Blacks
+FTUXAU294	Rugby	0	What is the Scotland national rugby union team's emblem?	Three Feathers	Springboks	Shamrock	Thistle
+FTUXAU275	Rugby	0	As of 2020, the NRL's St. George Illawarra Dragons had HQ's in Kogarah and where?	Townsville	Newcastle	Canberra	Wollongong
+FTUXAU259	Rugby	0	Who were the 2017 Women's Rugby World Cup champions?	U.S.A.	Hong Kong	Spain	New Zealand
+FTUXAU253	Rugby	0	Where was the 2019 Rugby World Cup held?	Wales	Australia	France	Japan
+FTUXAU288	Rugby	0	Which Six Nations trophy is awarded to the winner of the France vs. Scotland match?	Web Ellis Cup	Doddie Weir Cup	Millennium Trophy	Auld Alliance Trophy
+FTUXAU270	Rugby	0	Of which NRL team is Russell Crowe a co-owner?	Wests Tigers	North Queensland Cowboys	Canberra Raiders	South Sydney Rabbitohs
+FTUXAU239	Rugby	0	Who were the champions of the 2019-20 Premiership Final?	Worcester Warriors	Harlequins	London Irish	Exeter Chiefs
+FTUXAU284	Rugby	0	Which Six Nations trophy is awarded to the winner of the England vs. Scotland match?		Doddie Weir Cup	Provan-Summons Trophy	Calcutta Cup
+FTUXAU300	Rugby	1	As of 2020, how many teams competed in Rugby League British Columbia?	12	20	4	6
+FTUXAU256	Rugby	1	How many teams participated in the 2019 Rugby World Cup?	54	12	36	20
+FTUXAU231	Rugby	1	How many non-English teams were in Super League in 2020?	11	4	8	1
+FTUXAU298	Rugby	1	As of 2020, how many teams competed in Top League?	6	24	32	16
+FTUXAU296	Rugby	1	As of 2020, how many teams competed in France's Rugby Pro D2?	6	24	32	16
+FTUXAU269	Rugby	1	How many teams competed in the 2020 NRL season?	10	28	40	16
+FTUXAU238	Rugby	1	In what year was the first Premiership Rugby season?	1906	2010	1955	1987
+FTUXAU249	Rugby	1	In what year was the first Rugby World Cup held?	1908	2000	2008	1987
+FTUXAU262	Rugby	1	How many teams competed in the 2017 Women's Rugby World Cup?	24	8	40	12
+FTUXAU295	Rugby	1	As of 2020, how many teams competed in N.A.'s Major League Rugby?	6	24	32	13
+FTUXAU206	Rugby	1	In which year was Rugby Sevens first played in the Summer Olympics?	1921	2000	1976	2016
+FTUXAU236	Rugby	1	In what year was the first Super League season?	1956	2012	2004	1996
+FTUXAU235	Rugby	1	In what year did Super League split from the Rugby Footbal League?	2007	2013	2000	2018

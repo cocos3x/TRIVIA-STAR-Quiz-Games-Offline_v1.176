@@ -1,0 +1,12 @@
+Sports Commentator	Epic	18	7	Basketball	5	4	Cricket	1		Tennis	1		Hockey	4	2	Boxing	3	1	Soccer	4			5	0	0	0	4	0	1	0	4	3	1	0
+Tailgater	Uncommon	12	3	Football	5	2	Auto Racing	3		Cricket	4	1											0	0	5	3	0	0	0	0	0	0	4	0
+Referee	Common	9	1	Hockey	5	1	College Sports	2		Boxing	2												0	0	0	0	5	0	0	0	0	2	0	2
+Little League Coach	Common	9	1	Baseball	5	1	College Sports	3		Olympics	1												0	5	0	0	0	0	0	1	0	0	0	3
+Country Clubber	Epic	18	7	Tennis	5	4	Golf	4	2	Cricket	2		Olympics	2		Boxing	1		Auto Racing	4	1		0	0	0	4	0	4	5	2	0	1	2	0
+Commissioner 	Rare	15	5	Auto Racing	5	3	Golf	2		Basketball	2		Olympics	3	1	Tennis	3	1					2	0	0	5	0	2	3	3	0	0	0	0
+Pitching Coach	Common	9	1	Cricket	5	1	Baseball	3		College Sports	1												0	3	0	0	0	0	0	0	0	0	5	1
+Sports Photographer	Uncommon	12	3	Soccer	5	2	Football	4	1	Baseball	2		Golf	1									0	2	4	0	0	1	0	0	5	0	0	0
+Bookie	Common	9	1	Boxing	5	1	Soccer	3		Auto Racing	1												0	0	0	1	0	0	0	0	3	5	0	0
+Gold Medalist	Rare	15	5	Olympics	5	3	Baseball	4	1	Hockey	1		Basketball	3	1	Tennis	2						3	4	0	0	1	0	2	5	0	0	0	0
+Golpher	Common	9	1	Golf	5	1	Soccer	2		Football	2												0	0	2	0	0	5	0	0	2	0	0	0
+Super Fan	Uncommon	12	3	College Sports	5	2	Hockey	3	1	Football	3		Basketball	1									1	0	3	0	3	0	0	0	0	0	0	5

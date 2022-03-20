@@ -1,0 +1,24 @@
+Celebrity Chef	Epic	18	7	Food	5	4	Wine	4	2	Animals	3	1	Chemistry	1		Birds	3		Oceans	2			3	5	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	4
+Zookeeper	Common	9	1	Animals	5	1	Earth	2		Biology	2												5	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+History Teacher	Rare	15	5	World History	5	3	U.S. History	4	1	Landmarks	2		World Geography	3	1	Capital Cities	1						0	0	0	0	3	1	0	0	0	2	5	0	0	0	0	0	0	0	0	4	0	0	0
+Marine Biologist	Epic	18	7	Oceans	5	4	Animals	2		Biology	4	2	Earth	3	1	Science	3		Birds	1			2	0	0	1	0	0	4	0	0	0	0	0	0	0	0	3	0	5	0	0	3	0	0
+Librarian	Common	9	1	Literature	5	1	World History	3		Poetry	1												0	0	0	0	0	0	0	0	0	0	3	5	1	0	0	0	0	0	0	0	0	0	0
+Astronaut	Rare	15	5	Earth	5	3	Science	4	1	Technology	3	1	Food	2		Landmarks	1						0	2	0	0	0	0	0	0	0	1	0	0	0	3	0	4	0	0	0	0	5	0	0
+Tech CEO	Uncommon	12	3	Technology	5	2	Travel	4	1	Brands	3												0	0	3	0	0	0	0	4	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0
+Fortune Teller	Common	9	1	Mythology	5	1	World History	2		Literature	2												0	0	0	0	0	0	0	0	0	0	2	2	0	0	5	0	0	0	0	0	0	0	0
+Sculptor	Uncommon	12	3	Landmarks	5	2	Art	3		Mythology	4	1											0	0	0	0	0	0	0	0	0	5	0	0	0	0	4	0	3	0	0	0	0	0	0
+Gallerist	Common	9	1	Art	5	1	Poetry	3		Brands	1												0	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	5	0	0	0	0	0	0
+Doomsday Prepper	Epic	18	7	U.S. Geography	5	4	Technology	2		Food	3	2	Capital Cities	3	1	U.S. History	3		Birds	2			0	3	0	2	0	3	0	0	0	0	0	0	0	2	0	0	0	0	0	3	0	5	0
+Pilot	Uncommon	12	3	Travel	5	2	World Geography	4	1	U.S. Geography	3												0	0	0	0	4	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+Exchange Student	Uncommon	12	3	World History	4	1	World Geography	2		Capital Cities	5	2	Pets	1									0	0	0	0	2	5	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+Winemaker	Uncommon	12	3	Wine	5	2	Brands	4	1	Chemistry	3												0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	5
+Barista	Common	9	1	Poetry	5	1	Literature	3		Food	1												0	1	0	0	0	0	0	0	0	0	0	3	5	0	0	0	0	0	0	0	0	0	0
+Veterinarian	Uncommon	12	3	Pets	5	2	Animals	4	1	Biology	3												4	0	0	0	0	0	3	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Birdwatcher	Common	9	1	Birds	5	1	Oceans	1		Pets	3												0	0	0	5	0	0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PhD Student	Common	9	1	Science	5	1	U.S. History	1		Pets	2		Wine	1									0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	5	0	0	0	1	0	0	1
+Marketing Exec	Common	9	1	Brands	5	1	Travel	2		Wine	2												0	0	5	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+International Spy	Rare	15	5	World Geography	5	3	Capital Cities	4	1	Technology	4	1	Science	2									0	0	0	0	5	4	0	0	0	0	0	0	0	4	0	2	0	0	0	0	0	0	0
+Epidemiologist	Uncommon	12	3	Biology	5	2	Travel	3		Chemistry	4	1											0	0	0	0	0	0	5	3	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0
+Time Traveler	Rare	15	5	U.S. History	5	3	Earth	4	1	U.S. Geography	2	1	Art	2		Mythology	2						0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0	0	5	4	2	0
+Meteorologist	Rare	15	5	Chemistry	5	3	U.S. Geography	4	1	Oceans	3	1	Landmarks	3									0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	3	5	0	0	4	0
+Professor	Rare	15	5	Mythology	3		Poetry	4	1	Literature	4	1	Art	4	3								0	0	0	0	0	0	0	0	0	0	0	4	4	0	3	0	4	0	0	0	0	0	0

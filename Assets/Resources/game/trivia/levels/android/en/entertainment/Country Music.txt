@@ -1,0 +1,492 @@
+0DIFETM90	Country Music	0	Which of the following songs was by Toby Keith?	Shake it Off	Blank Space	Mississippi Girl	I Wanna Talk About Me
+0DIFETM82	Country Music	0	Which singer sang "I Walk the Line"?	Garth Brooks	George Strait	Willie Nelson	Johnny Cash
+0DIFETM99	Country Music	0	Dolly Parton did not sing which of the following?	Jolene	9 to 5	I Will Always Love You	Paper Planes
+0DIFETM93	Country Music	0	Which of the following is a Kenny Chesney song?	Blank Space	Honey, I'm Home	Before He Cheats	She Thinks my Tractor's Sexy
+0DIFETM98	Country Music	0	Which of the following is not a famous country singer?	Shania Twain	Brooks & Dunn	Toby Keith	Eminem
+0DIFETM95	Country Music	0	Who sang the famous song "I Hope You Dance"?	Toby Keith	George Strait	Taylor Swift	Lee Ann Womack
+0DIFETM87	Country Music	0	Who had a No. 1 hit in 2001 with the song “Ain’t Nothin ’Bout You”?	Toby Keith	Jason Aldean	Zac Brown Band	Brooks & Dunn
+0DIFETM85	Country Music	0	Which country singer sang "Don't Take the Girl"?	Shania Twain	George Strait	Keith Hill	Tim McGraw
+0DIFETM88	Country Music	0	Which of the following is not a famous country singer?	Keith Urban	Faith Hill	George Strait	Kanye West
+0DIFETM100	Country Music	0	Who sang "I Got Friends in Low Places"?	Conway Twitty	Buck Owens	Miranda Lambert	Garth Brooks
+0DIFETM92	Country Music	0	Which country star sang "Dirt Road Anthem"?	Gwen Stefani	Carrie Underwood	Brad Pitt	Jason Aldean
+0DIFETM84	Country Music	0	Which country superstar had her award speech interrupted by Kanye West?	Faith Hill	Carrie Underwood	Shania Twain	Taylor Swift
+0DIFETM91	Country Music	0	All my Ex's Live in Texas is a song by whom?	Dolly Parton	Patsy Cline	Keith Urban	George Strait
+0DIFETM83	Country Music	0	Jolene is a song by whom?	Tammy Wynette	Lee Ann Womack	Taylor Swift	Dolly Parton
+0DIFETM96	Country Music	0	Luke Combs sang which of the following?	Better Together	She Got the Best of Me	Beer Never Broke My Heart	All of the Above
+0DIFETM97	Country Music	0	Which of the following is not a song by Brad Paisley?	Whiskey Lullaby	Waitin' on a Woman	She's Everything	Hey Jude
+0DIFETM89	Country Music	0	Which country singer sang "Any Man of Mine"?	Kelsea Ballerini	Faith Hill	LeAnn Rimes	Shania Twain
+0DIFETM94	Country Music	0	Rascal Flatts did not sing which of the following songs?	My Wish	Bless the Broken Road	Life is a Highway	Thriller
+0DIFETM81	Country Music	0	Finish this song title: Save a Horse, Ride a...what?	Bear	Prius	Tesla	Cowboy
+0DIFETM86	Country Music	0	What country artist holds the world record for more No. 1 hit singles than any other artist in the history of music?	Blake Shelton	Tim McGraw	Jason Aldean	George Strait
+20VE1781	Country Music	0	What is a genre of roots music developed in the 1940s in the Appalachian region?	Honky Tonk	Southern Rock	Zydeco	Bluegrass
+20VE1827	Country Music	0	Follow Your Arrow is a mega hit for what country music singer?	Sonny James	Crystal Gayle	Elvis Presley	Kacy Musgraves
+20VE1787	Country Music	0	In what country was country music star Shania Twain born?	France	Mexico	Brazil	Canada
+20VE1823	Country Music	0	What country star was Johnny Cash married to?	Barbara Mandrell	Kitty Wells	Dolly Parton	June Carter
+20VE1809	Country Music	0	Complete the title of this Johnny Cash hit. "Ring of _?	Love	Snow	Madness	Fire
+20VE1825	Country Music	0	Who sang with Dan + Shay on their hit song 10,000 hours?	Tom Jones	Axl Rose	Stevie Wonder	Justin Bieber
+20VE1795	Country Music	0	Complete the lyric to the Glenn Campbell song, "Like a rhinestone _"?	Shirt	Hat	Ring	Cowboy
+20VE1831	Country Music	0	The 1978 song "The Gambler" was a hit for what country recording artist?	Kelsea Ballerini	Kacy Musgraves	Kenny Chesney	Kenny Rogers
+20VE1847	Country Music	0	In 1962, "Crazy" was a number 1 hit for what country singer?	Shania Twain	Taylor Swift	Carrie Underwood	Patsy Cline
+20VE1861	Country Music	0	In what state does the Austin City Limits concert series take place?	Utah	New Mexico	Alabama	Texas
+20VE1863	Country Music	0	It's centrifugal motion, It's perpetual bliss are lyrics from what Faith Hill song?	The Problem	The Greeting	The Hug	The Kiss
+20VE1841	Country Music	0	What country music mecca is nicknamed "Music City"?	Memphis	Austin	Hollywood	Nashville
+20VE1799	Country Music	0	Who sang the hit song "9 to 5" from the movie of the same name?	Tammy Wynette	Patsy Cline	Keith Urban	Dolly Parton
+20VE1873	Country Music	0	What country star is known for his long braided hair?	Johnny Cash	Eddy Arnold	Bill Monroe	Willie Nelson
+20VE1839	Country Music	0	What country singer wrote and sang the iconic song "Coal Miner's Daughter"?	Beyonce	Ariana Grande	Shania Twain	Loretta Lynn
+20VE1867	Country Music	0	Who is the country music artist that is baseball's Tug McGraw's son?	Ray	Oscar	Harry	Tim
+20VE1819	Country Music	0	What Dolly Parton song contains the lyric "'I'm begging of you please don't take my man"?	Over The Rainbow	Rhinestone Cowboy	9 To 5	Jolene
+20VE1807	Country Music	0	Complete the Reba McEntire song lyric, "I might have been born just plain white trash/But _ was my name"?	Margo	Harriet	Jane	Fancy
+20VE1793	Country Music	0	Complete the name of the Garth Brooks song, "If Tomorrow Never _"?	Happens	Was	Cries	Comes
+20VE1777	Country Music	0	What never broke Luke Combs heart in his 2019 hit?	Burgers	Horses	Cowboys	Beer
+20VE1869	Country Music	0	What song did Willie Nelson and Julio Iglesias perform a duet and record together?	Stardust	Pretty Paper	Crazy	To All The Girls I've Loved Before
+20VE1797	Country Music	0	Whose theme park in the Smoky Mountains is Dollywood?	Barbara Mandrell	Elvis Presley	Charley Pride	Dolly Parton
+20VE1849	Country Music	0	Complete the title of the Glenn Campbell song, "By the Time I Get to _"?	California	Washington	Miami	Phoenix
+20VE1803	Country Music	0	Complete the title of the Tim McGraw song "Live Like You Were _"?	Happy	Alive	Surprised	Dying
+20VE1865	Country Music	0	Blake Shelton is known for his role as a judge on what show?	America's Got Talent	Big Brother	Biggest Loser	The Voice
+20VE1785	Country Music	0	What LeAnn Rimes song was featured in the film "Coyote Ugly"?	Blue	I Need You	One Way Ticket	Can't Fight The Moonlight
+20VE1845	Country Music	0	What actress did Keith Urban marry in 2006?	Anna Kendrick	Carol Burnett	Salma Hayek	Nicole Kidman
+20VE1833	Country Music	0	In 2018 Reba McEntire portrayed the first female Colonel Sanders for what fast food restaurant?	McDonald's	Wendy's	Burger King	KFC
+20VE1817	Country Music	0	Who is known for always wearing black?	Garth Brooks	Dolly Parton	Willie Nelson	Johnny Cash
+20VE1789	Country Music	0	What country music star won the fourth season on the show "American Idol"?	Randy Travis	Shania Twain	Rosanne Cash	Carrie Underwood
+20VE1871	Country Music	0	Complete the name of this country music band, Little Big _?	Trio	Baby	Horn	Town
+20VE1805	Country Music	0	Who is the country superstar married to Tim McGraw?	Carrie Underwood	Loretta Lynn	Dolly Parton	Faith Hill
+20VE1853	Country Music	0	You're Still the One was a huge hit in 1998 for what country songstress?	Patsy Cline	Carrie Underwood	Taylor Swift	Shania Twain
+20VE1775	Country Music	0	Complete the name of the Willie Nelson song, "On the Road _"?	Forever	Once More	Today	Again
+20VE1855	Country Music	0	Complete the lyric to the Blake Shelton song "Austin", "If your callin' 'bout the car I _ it"?	Crashed	Drove	Parked	Sold
+20VE1813	Country Music	0	Complete the lyric to the George Strait song "Check Yes or No", "Do you love me, do you wanna be my _"?	Teacher	Enemy	Boss	Friend
+20VE1773	Country Music	0	Which of the following is a country music artist?	Shawn Mendes	Rihanna	Ed Sheeran	George Strait
+20VE1835	Country Music	0	Need You Now is a 2009 hit song by which country music band?	The Statler Brothers	Dixie Chicks	Nitty Gritty Dirt Band	Lady Antebellum
+20VE1851	Country Music	0	Who is Johnny Cash's Grammy award winning eldest daughter?	Betty Cash	June Cash	Debra Gayle Cash	Rosanne Cash
+20VE1801	Country Music	0	Who did Kenny Rogers do a duet with in 1983 hit song "Islands in the Stream?	Carrie Underwood	Faith Hill	Kacy Musgraves	Dolly Parton
+20VE1791	Country Music	0	Complete the name of the Carrie Underwood hit, "Before He _"?	Greets	Weeps	Eats	Cheats
+20VE1859	Country Music	0	What is a genre of country music originating among Mexican-American populations?	Swamp Music	Polka	Red Dirt	Tejano
+20VE1837	Country Music	0	What group is Hillary Scott, Charles Kelley and Dave Haywood in?	Sugarland	Band Perry	Louvin Brothers	Lady Antebellum
+20VE1857	Country Music	0	What country singer had their first hit with the 1972 song "Delta Dawn"?	Trisha Yearwood	James Taylor	Kris Kristofferson	Tanya Tucker
+20VE1811	Country Music	0	Cruise topped the charts for 24 weeks in 2012, what country music band released it?	The Bellamy Brothers	Carter Family	Dixie Chicks	Florida Georgia Line
+444524	Country Music	1	Which country artist won the CMA in 2008 for Musician of the Year?	Randy Scruggs	Pam Tillis	Tim McGraw	Mac McAnally
+161142	Country Music	1	Who recorded the hit single "Don't Happen Twice" in 2001?	Little River Band	Dave Clark Five	Genesis	Kenny Chesney
+12052	Country Music	1	Which famous country-music singer was inducted into the Grand Ole Opry in 1986?	Kathy Mattea	Lila McCann	Lorrie Morgan	Reba McEntire
+507944	Country Music	1	Tim McGraw partnered with which country singer for the 2012 single "Feel Like a Rock Star"?	Eric Church	Luke Bryan	Justin Moore	Kenny Chesney
+444474	Country Music	1	Which song by Alan Jackson won the CMA for Single of the Year in 2002?	455 Rocket	Stay	When I Call Your Name	Where Were You (When The World Stopped Turning)
+457066	Country Music	1	What song did Miranda Lambert debut at the ACM awards in April 2009?	Kerosene	Gunpowder & Lead	More Like Her	Dead Flowers
+1V10689	Country Music	1	What is the name of Steve Earle's band?	The Front	The Heartbreakers	The Attractions	The Dukes
+226139	Country Music	1	Which artist was not a member of the "Highwaymen"?	Kris Kristofferson	Johnny Cash	Waylon Jennings	Hank Williams, Jr.
+1V10521	Country Music	1	What country artist released the hit song, "Drowns the Whiskey"?	Tim McGraw	Kacey Musgraves	Dolly Parton	Jason Aldean feat. Miranda Lambert
+457176	Country Music	1	Which "American Idol" winner released "Seven Mile Breakdown" with a "country remix"?	Jordin Sparks	Carrie Underwood	Kelly Clarkson	Taylor Hicks
+11156	Country Music	1	Which country singer was diagnosed with multiple sclerosis in 1996?	George Jones	Aaron Tippin	Alan Jackson	Clay Walker
+1V10530	Country Music	1	What country artist released the hit song, "Space Cowboy"?	Carly Pearce	Maren Morris	Randy Houser	Kacey Musgraves
+420480	Country Music	1	The CD titled, "Lady Antebellum", was released by which country artist?	Jamey Johnson	Miranda Lambert	Tim McGraw	Lady Antebellum
+1V10680	Country Music	1	Who won the Grammy for Album of the Year at the Grammy Award Show held in 2019?	Miranda Lambert	Carrie Underwood	Chris Stapleton	Kacey Musgraves
+8CR1549	Country Music	1	On the "Johnny Cash: Forever Words" tribute album, who did "You Never Knew My Mind'?	Elvis Costello	Kris Kristofferson	Willie Nelson	Chris Cornell
+535182	Country Music	1	What was named the CMA 2015 Single of the Year?	American Kids by Kenny Chesney	I Donít Dance by Lee Brice	Talladega by Eric Church	Girl Crush by Little Big Town
+507965	Country Music	1	Which 2013 single by The Band Perry sold over 1 million copies?	Aw Naw	Drunk Last Night	Goodbye Town	Better Dig Two
+8CR1159	Country Music	1	Who released the 2018 album "Last Man Standing"?	Miranda Lambert	Taylor Swift	Mary Chapin Carpenter	Willie Nelson
+8CR1169	Country Music	1	Who released the country album "Unapologetically"?	Jason Aldean	Jason Aldean	Sister Hazel	Kelsea Ballerini
+1V10470	Country Music	1	What country superstar released the 2019 song, "God's Country"?	Luke Combs	Jon Pardi	Kelsea Ballerini	Blake Shelton
+1V10599	Country Music	1	Complete the title of this Clay Walker song "Rock the ___?	Point	Clothes	Clock	Radio
+444450	Country Music	1	Which song by Brooks & Dunn won the CMA for Song of The Year in 2006?	I Hope You Dance	Give it Away	Wide Open Spaces	Believe
+64041	Country Music	1	What was the name of George Lynch's most popular guitar?	Mr. Skull	Mr. Evil	Mr. Bones	Mr. Scary
+287811	Country Music	1	What finishes the Carrie Underwood song lyric "This downtown apartment sure makes ..."?	Me Cry Inside	Me Feel Warm	Me Miss You	Me Miss Home
+1V10641	Country Music	1	Lauren Alaina's song is about "Ladies " in what decade?	1950s	1960s	1940s	1990s
+1V10590	Country Music	1	Complete the title of this Jordon Davis song, "Slow Dance in a ____ ___"?	Ocean Breeze	Funeral Parlor	Dance Hall	Parking Lot
+512942	Country Music	1	What is the last word in the title of the Zac Brown Band song, "Sweet..."?	Melody	Girl	Ride	Annie
+8CR1599	Country Music	1	On the "Johnny Cash: Forever Words" tribute album, who did "Gold All Over the Ground'?	Luke Combs	Thomas Rhett	Scotty McCreery	Brad Paisley
+161148	Country Music	1	Who recorded the hit single "You Shouldn't Kiss Me Like This" in 2001?	The Rolling Stones	War	Lovin' Spoonful	Toby Keith
+1V10509	Country Music	1	What country group released the popular song, "Simple"?	Midland	Hunter Brothers	Eli Young Band	Florida Georgia Line
+507896	Country Music	1	Which member of Hootie and the Blowfish had a solo hit single in 2010 with "Come Back Song"?	Dean Felber	Jim Sonefeld	Mark Bryan	Darius Rucker
+507941	Country Music	1	Red Solo Cup was a 2012 hit by which Oklahoma-born country singer?	Hunter Hayes	Thomas Rhett	Josh Turner	Toby Keith
+512888	Country Music	1	What is the last word in the title of the Scotty McCreery song, "Feelin..."?	Good	Tears	Sad	It
+1V10626	Country Music	1	Who won Video of the Year at the 2019 CMT Music Awards?	Luke Combs	Chris Stapleton	LANCO	Carrie Underwood
+13938	Country Music	1	Who released a collection of hits titled, "Songbook"?	Patty Loveless	Shania Twain	Deana Carter	Trisha Yearwood
+1V10515	Country Music	1	What country artist released the hit song, "Rednecker"?	Chase Rice	Carrie Underwood	Gord Bamford	HARDY
+1V10497	Country Music	1	What country artist released the song, "Burning Man"?	Jake Owen	Justin Townes Earle	Toby Keith	Dierks Bentley feat. Brothers Osborne
+512883	Country Music	1	Complete the Big and Rich song title "Look at..."?	Them	It	This	You
+513271	Country Music	1	What song says, "So make lots of noise, Kiss lots of boys Or kiss lots of girls"?	19 You + Me	Farthest Away	DJ The Night	Follow Your Arrow
+17690	Country Music	1	Who is the original artist of "These Boots Were Made For Walking"?	Dean Martin	Billy Ray Cyrus	Petula Clark	Nancy Sinatra
+1V10743	Country Music	1	Which song has the lyric "Baptize me in that barroom smoke"?	One That Got Away	Whiskey Glasses	Eyes On You	Neon Church
+161089	Country Music	1	Who recorded the hit single "I Hope You Dance" in 2001?	Johnny Gill	Tim McGraw	Herman's Hermits	Lee Ann Womack
+8CR1219	Country Music	1	Who performed "Wildflowers" at the 2018 Grammy Awards with Chris Stapleton?	Taylor Swift	Lady Antebellum	Miranda Lambert	Emmylou Harris
+1V10698	Country Music	1	Where did the band Midland form?	California	Chicago	Boca Raton Florida	Dripping Springs, Texas
+512912	Country Music	1	What is the last word in the title of the Florida Georgia Line song, "This Is How We..."?	Do	Live	Cry	Roll
+512909	Country Music	1	What is the last word in the title of the Blake Shelton (Feat. Gwen Sebastian) song, "My..."?	Time	Life	Girl	Eyes
+20VE1783	Country Music	1	Complete the Miranda Lambert song title, "The House That _ Me"?	Destroyed	Hated	Raised	Built
+21319	Country Music	1	Who wrote the music and lyrics to Patsy Cline's huge hit "Crazy"?	Kris Kristofferson	James Taylor	Carole King	Willie Nelson
+1V10707	Country Music	1	Whose 2019 tour is their 50th Anniversary Tour?	Zac Brown	Dixie Chcks	Luke Combs	Alabama
+512889	Country Music	1	Complete the Dan + Shay song title "Show You..."?	Fun	Right	Dreams	Off
+8CR1329	Country Music	1	Who performed "Millionaire" at the 2018 CMT Music Awards?	Sam Hunt	Rosanne Cash	Taylor Swift	Chris Stapleton
+92727	Country Music	1	Who wrote the country hit "I Walk The Line"?	Barbara Mandrell	Lyle Lovett	Willie Nelson	Johnny Cash
+444473	Country Music	1	The CMA for Single of the Year in 2003 was which Johnny Cash song?	I'm Gonna Miss Her (The Fishin' Song)	It Just Comes Natural	Live Like You Were Dying	Hurt
+8551	Country Music	1	What was the first complaint the "Harper Valley PTA" had for Mrs. Johnson?	Practicing Witchcraft	Running Around With Men	Drinking	Wearing Your Dresses Way Too High
+513245	Country Music	1	What state is Tyler Hubbard of Florida Georgia Line from?	Florida	Texas	Mississippi	Georgia
+507962	Country Music	1	Who teamed up with Pistol Annies to record the 2013 hit "Boys 'Round Here"?	Luke Bryan	Darius Rucker	Tim McGraw	Blake Shelton
+507935	Country Music	1	Which country artist was elected to the Country Music Hall of Fame at the age of 50 in 2012?	Tim Johnson	Phil Stone	Andy Griffith	Garth Brooks
+77156	Country Music	1	Where was Kris Kristofferson born?	Dallas, Texas	Oklahoma City, Oklahoma	Mesa, Arizona	Brownsville, Texas
+457087	Country Music	1	Darius Rucker, who topped the country charts in March 2009, was lead singer of which band?	ZZ Top	Blackhawk	Maroon 5	Hootie & The Blowfish
+512913	Country Music	1	Complete the Lee Brice song title "I Don't..."?	Sing	Fight	Tonight	Dance
+1V10536	Country Music	1	What country artist released the hit song, "Coming Home"?	Scotty McCreary	Justin Townes Earle	Eric Church	Keith Urban feat. Julia Michaels
+8CR1299	Country Music	1	Who performed "Don't Go Breaking My Heart" at the 2018 CMT Music Awards?	Dan + Shay	LANCO	Little Big Town	The Backstreet Boys
+20VE1821	Country Music	1	What type of band uses a mix of conventional and homemade instruments?	Country-punk Band	Cowboy Pop Band	Hokum Band	Jug Band
+287800	Country Music	1	Who does Carrie Underwood want to take the wheel, according to a song title of hers?	Simon Cowell	Fred Flintstone	God	Jesus
+507974	Country Music	1	Brad Paisley had a hit single in 2014 with a song named after what painting?	Guernica	The Scream	Starry Night	The Mona Lisa
+1V10548	Country Music	1	What country artist released the song, "Summer Fever"?	Reba McEntire	Dwight Yoakam	Chris Young	Little Big Town
+161052	Country Music	1	Who recorded the hit single "Cowboy Take Me Away" in 2000?	George Harrison	Eddie Brickell & New Bohemians	Ambrosia	Dixie Chicks
+507905	Country Music	1	Who won the 2011 Best Female Country Performance Grammy for "The House That Built Me"?	Hillary Scott	Patty Loveless	Joyce Smith	Miranda Lambert
+8CR1579	Country Music	1	On the "Johnny Cash: Forever Words" tribute album, who did "Them Double Blues"?	T Bone Burnett	Elvis Costello	Chris Stapleton	John Mellencamp
+1V10713	Country Music	1	Whose 2019 concert tour is called the "Cry Pretty Tour 360"?	Luke Bryan	Eric Church	Keith Urban	Carrie Underwood
+1V10551	Country Music	1	What country artist released the 2019 song, "Feels Like a Party"?	Cassadee Pope	Merle Haggard	Cody Johnson	LOCASH
+1V10602	Country Music	1	Complete the title of this Thomas Rhett song, "Center Point ___"?	Lake	Lane	Mountain	Road
+8CR1319	Country Music	1	Who performed "Sunrise, Sunburn, Sunset" at the 2018 CMT Music Awards?	Jason Aldean	Willie Nelson	Charles Kelley	Luke Bryan
+444475	Country Music	1	The CMA for Single of the Year in 2001 was for which The Soggy Bottom Boys song?	This Kiss	It Just Comes Natural	Online	I Am A Man Of Constant Sorrow
+507938	Country Music	1	Who topped the Billboard Country charts in 2012 with the song "Cruise"?	Jason Aldean	Dierks Bentley	Luke Bryan	Florida Georgia Line
+1V10518	Country Music	1	What country artist released the hit song, "Rearview Town"?	Jordan Davis	Carrie Underwood	Cody Johnson	Jason Aldean
+457077	Country Music	1	Which country singer released "Kiss A Girl" in March 2009?	Dierks Bentley	Kenny Chesney	Chris Cagle	Keith Urban
+457174	Country Music	1	What song performance at the 2009 ACM Awards was introduced by Iraq veteran Lt. Andrew Kinard?	Dead Flowers	Strange	I Told You So	Til The Last Shot's Fired
+507902	Country Music	1	What famous building was damaged in 2010 when the Cumberland River flooded?	Graceland	The Branson Center	The Fillmore East	Grand Ole Opry House
+1V10710	Country Music	1	Whose 2019 concert tour is called the "Friends and Heroes Tour"?	Kacey Musgraves	Willie Nelson	Steve Earle	Blake Shelton
+5220759	Country Music	1	What talent reality show did Scotty McCreery win in 2011?	The Hills	Survivor	The Bachelor	American Idol
+507890	Country Music	1	Which album by Carrie Underwood was named Album of the Year at the 2010 American Country Awards?	Rock On	Jump On	Fight On	Play On
+1V10584	Country Music	1	What country artist released the song, "Babe"?	Steve Earle	Cody Jinks	Kacey Musgraves	Sugarland feat. Taylor Swift
+507911	Country Music	1	In 2011, Scotty McCreery became the second country music-focused artist to win what show?	The Voice	The X Factor	America's Got Talent	American Idol
+28108	Country Music	1	Who sang "Man! I feel like a woman"?	Pam Tillis	Terri Clark	Faith Hill	Shania Twain
+88240	Country Music	1	What was Patsy Cline's real first name?	Kitty	Loretta	Patsy	Virginia
+507893	Country Music	1	Which artist had #1 hits on the Billboard Country charts in 2010 with "Anything Like Me" and "Water"?	Dierks Bentley	Justin Moore	Luke Bryan	Brad Paisley
+535175	Country Music	1	What was awarded the CMA 2015 Album of the Year?	Pageant Material by Kacey Musgraves	Pain Killer by Little Big Town	The Big Revival by Kenny Chesney	Traveller by Chris Stapleton
+512943	Country Music	1	Complete the Cassadee Pope song title "Wasting All These..."?	Days	Boys	Nights	Tears
+1V10674	Country Music	1	What is the title of the song by Dan + Shay that was Single Record of the Year in 2019?	Whiskey	Beer	Vodka	Tequila
+287792	Country Music	1	Who finished in 2nd place behind Carrie Underwood during "American Idol"?	Vonzell Solomon	Anthony Fedorov	Scott Savol	Bo Bice
+8CR1119	Country Music	1	Who released the 2018 album "Graffiti U"?	Shania Twain	John Prine	Dan + Shay	Keith Urban
+1V10512	Country Music	1	What country group released the popular song, "Talk You Out Of It"?	Midland	Zac Brown Band	Rascal Flatts	Florida Georgia Line
+457175	Country Music	1	Which duo debuted in 2009 with "Dreaming Love"?	Aly & AJ	Joey + Rory	Caitlin & Will	Kate & Kacey
+507887	Country Music	1	What song by Lee Brice was named Billboard's number one country song of 2010?	Love Like Mad	Love Like Insanity	Love Like Delusions	Love Like Crazy
+513244	Country Music	1	What state is Brian Kelley of Florida Georgia Line from?	Georgia	Texas	Kentucky	Florida
+512887	Country Music	1	Finish the title of this 2014 hit country song title "Close Your..."?	Heart	Night	Shop	Eyes
+5962	Country Music	1	Which country singer/songwriter has the distinction of having been a Rhodes Scholar?	Barbara Mandrell	Paul Overstreet	Martina McBride	Kris Kristofferson
+8CR1279	Country Music	1	Whose video was named Group Video of the Year at the 2018 CMT Music Awards?	Zac Brown Band	Midland	Lady Antebellum	Little Big Town
+157348	Country Music	1	Who recorded the hit single, "Ring Of Fire" in 1963?	Bob Dylan	Tom Jones	Glen Campbell	Johnny Cash
+1V10611	Country Music	1	Complete the title of this Riley Green song, "In Love By ___"?	Cars	Chance	Luck	Now
+512894	Country Music	1	What is the last word in the title of the Swon Brothers song, "Later..."?	Music	Roll	Date	On
+405067	Country Music	1	Which Carrie Underwood album does "All-American Girl" appear on?	Some Hearts	American Idol Tour	Limited Edition	Carnival Ride
+507968	Country Music	1	According to Gary Allan's 2013 hit "Every Storm", what does "Every Storm" run out of?	Steam	Rage	Love	Rain
+8CR1249	Country Music	1	Whose video won Video of the Year at the 2018 CMT Music Awards?	Shania Twain	Dierks Bentley	Kelly Clarkson	Blake Shelton
+512893	Country Music	1	Finish the title of this 2014 hit country song title "Sunshine and..."?	Kiss	Smile	You	Whiskey
+512907	Country Music	1	Complete the Chris Young song title "Who I Am With..."?	Annie	Love	Me	You
+8CR1179	Country Music	1	Who released the 2018 album "Port Saint Joe"?	Rhett Akins	Upchurch	Scotty McCreery	Brothers Osborne
+507971	Country Music	1	Out Among the Stars was a posthumous 2014 album by what country legend?	Merle Haggard	Ernie Ford	Jimmy Dean	Johnny Cash
+1V10539	Country Music	1	What country artist released the hit song, "Miss Me More"?	Rodney Atkins	Miranda Lambert	Luke Combs	Kelsea Ballerini
+1V10644	Country Music	1	Where were the 54th Annual Academy of Country Music Awards held in 2019?	Miami Beach	New York City	Nashville	Las Vegas
+512884	Country Music	1	Finish the title of this 2014 hit country song title "I Wish I Could Break Your..."?	Face	Arm	Love	Heart
+1V10560	Country Music	1	What country artist released the song, "GIRL"?	Miley Cyrus	Brett Eldredge	Gord Bamford	Maren Morris
+1V10647	Country Music	1	Who was named Entertainer of the Year at 2019 Academy of Country Music Awards?	Chris Stapleton	Luke Bryan	Eric Church	Keith Urban
+8CR1309	Country Music	1	Who performed "American Woman" at the 2018 CMT Music Awards?	Carrie Underwood	Jason Aldean	Lindsay Ell	Kelly Clarkson
+161084	Country Music	1	Who recorded the hit single "The Way You Love Me" in 2001?	Lionel Richie	Lisa Loeb	Melissa Etheridge	Faith Hill
+161145	Country Music	1	Who recorded the hit single "It's A Great Day To Be Alive" in 2000?	ABBA	Player	Ian Whitcomb	Travis Tritt
+8CR1229	Country Music	2	Say Something was released by Justin Timberlake featuring what country artist?	Miranda Lambert	Keith Urban	Dierks Bentley	Chris Stapleton
+457072	Country Music	2	Which country singer reminisced in 2009 about "taking 45 minutes to kiss goodnight"?	Keith Urban	Vince Gill	Tim McGraw	Brad Paisley
+65526	Country Music	2	What was the name of Chely Wright's first band?	Wellsville	Single White Female	Hickory Smoked	Country Line
+444528	Country Music	2	Which country artist won the CMA in 2003 for Musician of the Year?	Keith Urban	Carrie Underwood	Vince Gill	Randy Scruggs
+5918	Country Music	2	The song "Seeds" was a hit in the 1990's for who?	Shania Twain	Barbra Streisand	Suzy Bogguss	Kathy Mattea
+35198	Country Music	2	What song has the line "I will do the dishes"?	Faith Hill's "This Kiss"	Jewel's "Hands"	Shania Twain's "That Don't Impress Me Much"	Paula Cole's "Where Have All The Cowboys Gone"
+5912	Country Music	2	In what year did Patsy Cline die?	1964	1962	1961	1963
+13942	Country Music	2	Which group sings and stars in a video called "There's Your Trouble"?	Dashboard Confessional	Cypress Hill	The Judds	Dixie Chicks
+10642	Country Music	2	Which country music singer made their home in Casey, Wyoming?	Trisha Yearwood	Kix Brooks	George Ducas	Chris Ledoux
+43237	Country Music	2	What popular country group was originally David Allen Coe's back-up band?	Desert Rose Band	Little Texas	Sawyer Brown	Confederate Railroad
+8CR1109	Country Music	2	Who released the country album "Golden Hour"?	Blake Shelton	Scotty McCreery	John Prine	Kacey Musgraves
+154159	Country Music	2	What decade is the hit single "Funny Face" by Donna Fargo from?	Eighties	Sixties	Nineties	Seventies
+507975	Country Music	2	Chainsaw was a 2014 hit by what band from Alabama?	Florida Georgia Line	Thompson Square	Dan + Shay	The Band Perry
+1V10479	Country Music	2	What country artist released the song, "Eyes On You"?	Chris Young	Miranda Lambert	Little Big Town	Chase Rice
+457136	Country Music	2	What up-tempo track was a February 2009 release for Montgomery Gentry?	I Pick My Parties	Roll With Me	The Big Revival	One In Every Crowd
+444525	Country Music	2	Who won the CMA for Musician of the Year in 2006?	George Strait	Garth Brooks	Alan Jackson	Randy Scruggs
+512906	Country Music	2	What is the last word in the title of the Tyler Farr song, "Whiskey in My..."?	Cup	Beer	Mouth	Water
+12243	Country Music	2	Who was the originator of bluegrass music's three-finger banjo roll?	Bill Monroe	Andy Griffith	Grandpa Jones	Earl Scruggs
+507903	Country Music	2	Estaban's 2010 album "Wear the Black" was a tribute to what artist?	Waylon Jennings	Bill Phillips	Joe Williams	Johnny Cash
+8CR1139	Country Music	2	Who released the 2018 album "Here's to You"?	Billy Ray Cyrus	Tim McGraw and Faith Hill	Jim Lauderdale	Montgomery Gentry
+1V10542	Country Music	2	What country artist released the song, "Born to Love You"?	Aaron Lewis	Billy Dean	Chris Stapleton	LANCO
+1V10719	Country Music	2	Whose 2019 concert tour is called the "Still ... Kilin' Time Tour"?	Midland	Tucker Beathard	Ashley McBryde	Clint Black
+405019	Country Music	2	In the first line of "Stay" by Sugarland, what is the singer looking at?	The Cars Going By	The Rain Outside	The News On TV	The Clock On The Wall
+1V10494	Country Music	2	What country artist released the song, "All To Myself'?	Dallas Smith	Miranda Lambert	Dixie Chicks	Dan + Shay
+1V10617	Country Music	2	Where is the brother -sister duo The Reklaws from?	Las Vegas	London	Australia	Canada
+457138	Country Music	2	Who sang about "Small Town USA" in February 2009?	Eli Young Band	Zac Brown Band	Whitney Duncan	Justin Moore
+512908	Country Music	2	Finish the title of this 2014 hit country song title "Meanwhile Back at..."?	School	Home	You	Mamas
+512891	Country Music	2	What is the last word in the title of the Miranda Lambert (Feat. Carrie Underwood) song, "Somethin..."?	Good	Fun	Exciting	Bad
+1V10473	Country Music	2	What country artist released the 2019 song, "What Happens in a Small Town"?	Chris Stapleton	Brett Young	LANCO	Brantley Gilbert and Lindsay Ell
+512944	Country Music	2	Finish the title of this 2014 hit country song title "Whatever She's..."?	On	You	Fine	Got
+444454	Country Music	2	Which song by Alan Jackson won the CMA for Song of the Year in 2002?	Look At Us	I Hope You Dance	Fly	Where Were You (When The World Stopped Turning)
+457117	Country Music	2	Which member of a duo released the solo single "Another You" in 2009?	Jennifer Nettles	Ronnie Dunn	Caitlin Lynn	John Rich
+5971	Country Music	2	Which of these songs was not written by Willie Nelson?	Bloody Mary Morning	Crazy	Me And Paul	Blue Eyes Crying In The Rain
+457075	Country Music	2	Sweet Thing was the first single release from which 2009 country album?	Feel That Fire	Then Sings My Soul	It's America	Defying Gravity
+1V10569	Country Music	2	What country artist released the song, "Drunk Me"?	Kiefer Sutherland	Chris Young	Wilie Nelson	Mitchell Tenpenny
+457137	Country Music	2	Where was Billy Ray Cyrus going "Back to" in February 2009?	Bed	The Beginning	My Hometown	Tennessee
+5964	Country Music	2	Wabash Cannonball was the theme song of what late Grand Ole Opry star?	Ernest Tubb	Hawkshaw Hawkins	Kitty Wells	Roy Acuff
+457076	Country Music	2	Which North Carolina native released the single "Love Your Love The Most" in 2009?	Randy Travis	Ronnie Milsap	Claudia Church	Eric Church
+1V10695	Country Music	2	What band includes Mark Wystrach, Cameron Duddy, and Jess Carson?	Hunter Brothers	Eli Young Band	Florida Georgia Line	Midland
+1V10728	Country Music	2	Whose 2019 concert tour is called the "Tall Boys and Short Stories Tour"?	Lindsay Ell	Hayes Carll	Lindsay Ell	Jerrod Niemann
+1V10659	Country Music	2	Who was named Best Group of the Year at 2019 Academy of Country Music Awards?	Lanco	Little Big Town	Midland	Old Dominion
+8CR1149	Country Music	2	Who released the country album "Home State"?	Zac Brown Band	Eric Church	Carrie Underwood	Jordan Davis
+1V10755	Country Music	2	How many members are there of the band Old Dominion?	2 Members	8 Members	3 Members	5 Members
+1V10545	Country Music	2	What country artist released the song, "Rumor"?	Randy Houser	Joe Diffie	George Strait	Lee Brice
+1V10692	Country Music	2	Which is the title of a Billy Ray Cyrus album?	The Snake Eater	Circus of Power	The Witch Doctor	The SnakeDoctor Circus
+1V10566	Country Music	2	What country artist released the song, "Keeper of the Flame"?	Sara Storer	Chris Lane	Jake Owen	Miranda Lambert
+512885	Country Music	2	What is the last word in the title of the Love and Theft song, "Night That You'll Never..."?	Remember	Leave	Have	Forget
+5966	Country Music	2	Who was the Country Music Association's first Entertainer of the Year?	Johnny Cash	Patsy Montana	Bob Wills	Eddy Arnold
+20VE1779	Country Music	2	What country superstar did Miranda Lambert divorce in 2015?	Gene Autry	Hank Williams Jr.	George Strait	Blake Shelton
+444456	Country Music	2	Which song by Lee Ann Womack won the CMA for Song of the Year in 2000?	Holes In The Floor Of Heaven	Fly	My Wife Thinks You're Dead	I Hope You Dance
+1V10749	Country Music	2	Where was country artist Mitchell Tenpenny born and raised?	Hawaii	Dallas	Brooklyn	Nashville
+8CR1199	Country Music	2	Who released the 2018 album "Seasons Change"?	Brothers Osborne	Blackberry Smoke	Lady Antebellum	Scotty McCreery
+512886	Country Music	2	Complete the Eric Church song title "Cold..."?	Heart	Feet	Night	One
+535184	Country Music	2	Who was named the CMA 2015 Musician of the Year?	Dann Huff	Paul Franklin	Jerry Douglas	Mac McAnally
+1V10722	Country Music	2	Whose 2019 concert tour is called the "Stray Off Course Tour"?	Florida Georgia Line	Dan + Shay	LANCO	Devin Dawson
+513064	Country Music	2	Which 2013 album is by Lady Antebellum and includes "Goodbye Town"?	Life On A Rock	Drinks After Work	Platinum	Golden
+20VE1829	Country Music	2	Which of these country artists is the youngest?	Shania Twain	Carrie Underwood	Miranda Lambert	Kelsea Ballerini
+20VE1815	Country Music	2	Which of these country artists is the oldest?	Blake Shelton	Keith Urban	Brad Paisley	Garth Brooks
+1V10503	Country Music	2	What country artist released the song, "Desperate Man"?	Dolly Parton	Jillian Jacqueline	Trisha Yearwood	Eric Church
+444489	Country Music	2	The CMA for Music Video of the Year in 2006 was which Brooks & Dunn song?	Hurt	Troubadour	Everywhere	Believe
+1V10485	Country Music	2	What country artist released the song, "Raised On Country"?	Luke Bryan	Steve Earle	Luke Combs	Chris Young
+5983	Country Music	2	Which movie star sang a duet with Randy Travis on his album "Heroes and Friends"?	Burt Reynolds	Sally Field	Gilda Radner	Clint Eastwood
+444529	Country Music	2	Who won the CMA for Musician of the Year in 2002?	Mark O'Connor	Alan Jackson	Carrie Underwood	Jerry Douglas
+513046	Country Music	2	The song "Damn Thing" is on which album?	It Goes Like This	Out Among The Stars	Storyline	Annie Up
+1V10533	Country Music	2	What country artist released the hit song, "Good as You"?	Mitchell Tenpenny	Carrie Underwood	Eli Young Band	Kane Brown
+287814	Country Music	2	How do you end this Carrie Underwood lyric, "But that would be like ..."?	Glowing Glitter	Shooting Stars	Falling Leaves	Pouring Rain Drops
+15768	Country Music	2	Which country singer performed the theme song for "Con Air", starring Nicolas Cage?	Dixie Chicks	Dierks Bentley	Patty Loveless	Trisha Yearwood
+513273	Country Music	2	Who sings with Kelly Clarkson on "Don't Rush"?	Brad Paisley	Miranda Lambert	Keith Richards	Vince Gill
+24537	Country Music	2	Which country singer married a Hooter's waitress?	Clint Black	Tim McGraw	Randy Travis	Travis Tritt
+1V10476	Country Music	2	What country artist released the hit song, "Love Someone"?	George Strait	Carrie Underwood	Lee Brice	Brett Eldredge
+513246	Country Music	2	Lead singer Jaren Johnston is from which country rock band?	Big & Rich	Florida Georgia Line	Alabama Shakes	The Cadillac Three
+1V10731	Country Music	2	Whose 2019 concert tour is called the "Oh, What a World Tour"?	Bob Dylan	Cody Jinks	Lauren Alaina	Kacey Musgraves
+535195	Country Music	2	Who released the hit country song, "Are You Ready for the Country"?	Zac Brown Band	Lady Antebellum	Eric Church	Hank Williams Jr. (Feat. Eric Church)
+8CR1569	Country Music	2	On the "Johnny Cash: Forever Words" tribute album, who did "Spirit Rider"?	Robert Glasper	I'm With Her	Dailey & Vincent	Jamey Johnson
+5927	Country Music	2	Who was formerly known as San Quentin prison inmate #A-45200?	Willie Nelson	Johnny Paycheck	Lefty Frizzell	Merle Haggard
+1V10686	Country Music	2	What It Is is the title of what country artist's 2019 album?	Chris Stapleton	Jordan Davis	Cole Swindell	Hayes Carll
+11151	Country Music	2	Where is George Jones from?	Green Bank, West Virginia	Memphis, Tennessee	Dallas, Texas	Saratoga, Texas
+457118	Country Music	2	Which country legend surprisingly covered a Fine Young Cannibals song in 2009?	George Strait	Garth Brooks	Randy Travis	Dolly Parton
+1V10623	Country Music	2	What country song contains the lyric "If I was a race car driver well I'd be right behind her"?	Georgia Time	Drink All Day	Blessed	Bettin’ Man
+457134	Country Music	2	Who reminded us of "The Bed That You Made" in 2009?	Erika Jo	Angela Hacker	Miranda Lambert	Whitney Duncan
+513247	Country Music	2	Who won the 2014 Billboard Award for Top Country Artist?	Blake Shelton	Toby Keith	Kenny Chesney	Luke Bryan
+512911	Country Music	2	Finish the title of this 2014 hit country song title "Drunk On a..."?	Horse	Whim	Roll	Plane
+507960	Country Music	2	The 2013 Country Music Association Awards were held in what city?	Branson	Jacksonville	Oklahoma City	Nashville
+444495	Country Music	2	The CMA for Music Video of the Year in 2000 was which Dixie Chicks song?	Holes In The Floor OF Heaven	Stay	Whiskey Lullaby	Goodbye Earl
+512892	Country Music	2	Complete the Zac Brown Band song title "All..."?	Time	Over	That	Alright
+267084	Country Music	2	Whose 2005 country song is titled "Arlington"?	Hootie And The Blowfish	Dwight Yoakam	Tim McGraw	Trace Adkins
+1V10752	Country Music	2	Who re-released the song "Alcohol You Later" in 2019?	Chris Stapleton	Keith Urban	The Silos	Mitchell Tenpenny
+457073	Country Music	2	Which country singer was "In Overdrive" in 2009?	Dwight Yoakam	George Strait	Alan Jackson	Aaron Tippin
+513269	Country Music	2	According to Kacey Musgraves' song "If you won't have a drink", what are you?	Rude	A Dude	A Nerd	A Prude
+8CR1059	Country Music	2	Bigger is the sixth studio album by American country music artists?	Brothers Osborne	Florida Georgia Line	Zac Brown Band	Sugarland
+1V10650	Country Music	2	Who was named Male Artist of the Year at 2019 Academy of Country Music Awards?	Chris Stapleton	Dierks Bentley	Cole Swindell	Thomas Rhett
+513270	Country Music	2	According to Kacey Musgraves' song "If you don't save yourself for marriage", what are you?	A Slut	A Man	A Lonely Person	A Horrible Person
+1V10620	Country Music	2	Complete the title of this Jake Owen song, "Down To The ___"?	River	Swamp	Dance	Honkytonk
+1V10557	Country Music	2	What country artist released the song, "Friends Don’t"?	Trisha Yearwood	Brantley Gilbert and Lindsay Ell	Dean Brody	Maddie & Tae
+1V10572	Country Music	2	What country artist released the song, "Whiskey Glasses"?	Laura Jenkins	Cody Johnson	Dolly Parton	Morgan Wallen
+8CR1209	Country Music	2	Who released the country album "The Tree of Forgiveness"?	Jason Aldean	The Wood Brothers	Chris Stapleton	John Prine
+512941	Country Music	2	Finish the title of this 2014 hit country song title "When She Says..."?	Hello	Goodbye	Love	Baby
+1V10605	Country Music	2	Complete the title of this song by the James Barker Band, "Keep it ___"?	Cheap	Free	Real	Simple
+1V10596	Country Music	2	Complete the title of this Ingrid Andress song, "More ___ Than Mine"?	Money	Love	Hair	Hearts
+1V10500	Country Music	2	What artist released the country song, "Love Ain’t"?	Wilie Nelson	Jordan Davis	Mark Wills	Eli Young Band
+1V10638	Country Music	2	Who is featured with Kane Brown on the son ""Lost in the Middle of Nowhere"?	Lauren Alaina	Carly Pearce	Jes	Becky G
+507923+359:359	Country Music	2	What band won Breakthrough Single of the Year at the 2011 American Country Awards for "Are You Gonna Kiss Me or Not"?	Eli Young Band	Lady Antebellum	Hey Romeo	Thompson Square
+507963	Country Music	2	Jason Aldean had a hit in 2013 with a country song named for what year?	1984	1974	2004	1994
+444526	Country Music	2	Which country artist won the CMA in 2004 for Musician of the Year?	Martina McBride	Keith Urban	Randy Scruggs	Dann Huff
+1V10488	Country Music	2	What country artist released the song, "On My Way To You'?	Dean Brody	Jordan Davis	Maddie & Tae	Cody Johnson
+5923	Country Music	2	Who is known as the "Gentleman of Country Music"?	Eddy Arnold	George Jones	Roy Rogers	Jim Reeves
+157279	Country Music	2	Who recorded the hit single "Can't Get Used To Losing You" in 1963?	A-Ha	Phoebe Snow	Dan Hill (Duet With Vonda Shepard)	Andy Williams
+43231	Country Music	2	What state is Dwight Yoakam's birthplace?	Texas	Tennessee	California	Kentucky
+1V10734	Country Music	2	Whose 2019 concert tour is called the 'The Meaning of Life Tour"?	Maren Morris	Cassadee Pope	Kelsea Ballerini	Kelly Clarkson
+14996	Country Music	2	Who wrote Linda Ronstadt's hit song "Blue Bayou"?	Linda Ronstadt	Jimmy Buffett	John Hardford	Roy Orbison
+377860	Country Music	2	Which Kenny Chesney song features the lyric "Her little ring was a little thing"?	All I Need To Know	Me And You	Fall In Love	Never Wanted Nothing More
+512910	Country Music	2	Complete the Dustin Lynch song title "Where It's..."?	On	Fun	Annie	At
+13030	Country Music	2	Who is considered the "father of country music"?	Les Paul	Cowboy Copas	Roy Acuff	Jimmie Rodgers
+8CR1129	Country Music	2	Who released the country album "Hallelujah Nights"?	Chris Young	Thomas Rhett	Cody Jinks	Lanco
+507966	Country Music	2	Darius Rucker's 2013 hit "Wagon Wheel" begins with the singer traveling to which state?	Connecticut	Nevada	Idaho	North Carolina
+444577	Country Music	2	Who won the CMA for Entertainer of the Year in 2006?	Trisha Yearwood	Martina McBride	Keith Urban	Kenny Chesney
+1V10725	Country Music	2	Whose 2019 concert tour is called the "Nothing to Do Town Tour"?	Little Big Town	Chris Janson	James Barker Band	Dylan Scott
+507969	Country Music	2	Which TV family released the country Christmas album "Duck the Halls" in 2013?	The Andersons	The Smithsons	The Eagletons	The Robertsons
+1V10506	Country Music	2	What country artist released the hit song, "Some Of It"?	Keith Urban	Kip Moore	Miley Cyrus	Eric Church
+1V10746	Country Music	2	"Roll the windows down, bass too loud from this burnt CD" is a lyric from which song?	Space Cowboy	Drowns the Whiskey	Rednecker	Sixteen
+1V10668	Country Music	2	What won Album of the Year at the 2019 Academy of Country Music Awards?	Keith Urban	Dan + Shay	Chris Stapleton	Kacey Musgraves
+8CR1079	Country Music	2	Who released the 2018 album "Dark Horse"?	Luke Combs	Zac Brown Band	Brothers Osborne	Devin Dawson
+444530	Country Music	2	Which country artist won the CMA in 2001 for Musician of the Year?	Brent Mason	Mac McAnally	Keith Urban	Dann Huff
+20VE1843	Country Music	2	What country was country music star Keith Urban born?	Canada	China	Mexico	New Zealand
+507885	Country Music	2	Taylor Swift won the 2010 Grammy for Best Country song for what song about one of Swift's ex-boyfriends?	You Belong with Me	Love Story	Mean	White Horse
+405069	Country Music	2	In the song "Stay" by Sugarland, what is the "one thing you should know"?	Things Will Get Better Soon	I Love You More Than Anything	We Can Make A Change	We Don't Have To Live This Way
+5958	Country Music	2	According to a Hoyt Axton single, what do you get "working your fingers to the bone"?	Nothing At All	Calluses	Lots Of Money	Boney Fingers
+1V10614	Country Music	2	Which is the title of a 2019 album by Clay Walker?	Long Live the Man	Long Live the Ranch	Long Live the Kids	Long Live the Cowboy
+444575	Country Music	2	Who won the CMA for Entertainer of the Year in 2007?	Trisha Yearwood	George Strait	Brad Paisley	Kenny Chesney
+1V10761	Country Music	2	Matthew Ramsey is the leas singer of what country band?	Brothers Osbourne	Florida Georgia Line	Restless Heart	Old Dominion
+444527	Country Music	2	Who won the CMA for Musician of the Year in 2005?	George Strait	Garth Brooks	Tim McGraw	Jerry Douglas
+1V10635	Country Music	2	Saturday Nights is a remix by Kane Brown and what artist?	Moby	Weeknd	Jay Z	Khalid
+444472	Country Music	2	Which song by Tim McGraw won the CMA for Single of the Year in 2004?	As Good As I Once Was	Murder On Music Row	Baby Likes To Rock It	Live Like You Were Dying
+444457	Country Music	2	The CMA for Song of the Year in 2001 was which Alan Jackson and George Strait song?	Live Like You Were Dying	I Swear	Fly	Murder On Music Row
+1V10482	Country Music	2	What country artist released the song, "I Don't Know About You"?	Cody Johnson	Jordan Davis	LOCASH	Chris Lane
+1V10656	Country Music	2	Who was named Duo of the Year at 2019 Academy of Country Music Awards?	Brothers Osbourne	Florida Georgia Line	LoCash	Dan + Shay
+287812	Country Music	2	What finishes the Carrie Underwood song lyric "Some hearts have the ..."?	Blood Pumping Good	Sun In Their Eyes	Wind On Their Side	Stars On Their Side
+535183	Country Music	2	What was named the CMA 2015 Music Video of the Year?	Biscuits by Kacey Musgraves	Little Red Wagon by Miranda Lambert	Something In The Water by Carrie Underwood	Girl In A Country Song by Maddie & Tae
+1V10632	Country Music	2	What year was country star Morgan Wallen born?	1990	1988	1983	1993
+507978	Country Music	2	Released in 2014, "Blue Smoke" was the 42nd studio album by what country artist?	Kenny Rogers	Tim McGraw	Hank Williams III	Dolly Parton
+512890	Country Music	2	Finish the title of this 2014 hit country song title "Kiss You..."?	Again	Never	More	Tonight
+154319	Country Music	2	What decade is the hit single "I Can Help" by Billy Swan from?	Eighties	Nineties	Sixties	Seventies
+507891	Country Music	2	Which artist who died in 2010 was inducted into the Country Music Hall of Fame the same year?	Bill Phillips	George Richey	Carl Smith	Jimmy Dean
+457116	Country Music	2	What did Trace Adkins "Marry For" in 2009?	Life	Fun	The Kids	Money
+8CR1589	Country Music	2	On the "Johnny Cash: Forever Words" tribute album, who did "The Captain's Daughter"?	Carlene Carter	Jamey Johnson	Rosanne Cash	Alison Krauss
+5948	Country Music	2	Who sings a song with the lyrics "I ain't gonna be a clown in your rodeo"?	Wynona Judd	Shania Twain	Alan Jackson	Kathy Mathea
+406494	Country Music	2	In Carrie Underwood's 2008 single "Last Name", what does the singer discover in the morning?	A Double Rainbow	A Door Behind The Window	A Baby In Her Arms	A Ring On Her Finger
+377885	Country Music	2	What Martina McBride song was inspired by a poem by Mother Theresa?	Waking Up Laughing	This One's For The Girls	Concrete Angel	Anyway
+1V10671	Country Music	2	Whose album is titled "The Mountain"?	Jordan Davis	Luke Combs	Ashley McBryde	Dierks Bentley
+1V10578	Country Music	2	What country artist released the song, "Buy My Own Drinks"?	Seckond Chaynce	Dan + Shay	Midland	Runaway June
+8CR1369	Country Music	2	David Lee Murphy & Kenny Chesney hit No. 1 with what song?	Party Crowd	Dust on the Bottle	Alright Now	Everything's Gonna Be Alright
+507881	Country Music	2	Who became the youngest country music artist to win an Album of the Year Grammy in 2010?	Garth Brooks	Blake Shelton	Carrie Underwood	Taylor Swift
+457071	Country Music	2	What was "It", according to Rodney Atkins' patriotic 2009 album?	God's Country	Red, White & Blue	Liberty	America
+8CR1009	Country Music	2	Who is featured on the Dierks Bentley's song "Burning Man"?	Scotty McCreery	Chris Stapleton	Lindsay Ell	Brothers Osborne
+5928	Country Music	2	Which artist is the only double inductee in the Country Music Hall of Fame?	Garth Brooks	Hank Williams	Patsy Cline	Roy Rogers
+457114	Country Music	2	Whose first single release of 2009 was "Nothin' To Die For"?	Kenny Chesney	Dierks Bentley	Josh Turner	Tim McGraw
+535196	Country Music	2	Who released the hit country song, "You Look Like I Need a Drink"?	Miranda Lambert	Alison Krauss	Luke Bryan	Justin Moore
+154884	Country Music	2	What decade is the hit single "9 To 5" by Dolly Parton from?	Seventies	Sixties	Nineties	Eighties
+507972	Country Music	2	That Girl was the 2014 debut solo album by what member of Sugarland?	Sara Bareilles	Kristian Bush	Kristen Hall	Jennifer Nettles
+507888	Country Music	2	Who became the first major country artist to come out as gay in 2010?	Kellie Pickler	Bucky Covington	Tyler Dickerson	Chely Wright
+444488	Country Music	2	Which song by Brad Paisley won the CMA for Music Video of the Year in 2007?	Drive	Stay	I Still Believe In You	Online
+14699	Country Music	2	Who originally recorded "The Night the Lights Went Out in Georgia"?	Shania Twain	Dolly Parton	Reba McEntire	Vicki Lawrence
+507939	Country Music	2	Rascal Flatts had a hit in 2012 with a song titled after what instrument?	Guitar	Drum	Piano	Banjo
+457115	Country Music	2	What, according to his 2009 single, did Shane O'Dazier "Hate"?	My Life	Hatin' You	That Dog	This Town
+1V10683	Country Music	2	What is the second studio album by country music singer and songwriter Cassadee Pope?	Chowder	Crazy	Lemons	Stages
+8CR1289	Country Music	2	What song by Carly Pearce was named Breakthrough Video of the Year at the 2018 CMT Music Awards?	All Little Things	Every Big Thing	Every Small Thing	Every Little Thing
+1V10740	Country Music	2	What Makes You Country is a hit song by which artist?	Lauren Alaina	Kacey Musgraves	Blake Shelton	Luke Bryan
+507912	Country Music	2	Which Oscar-winning actor released his second country album in 2011?	Kevin Spacey	Anthony Hopkins	Cristoph Waltz	Jeff Bridges
+5930	Country Music	2	Which female country singer was the first to sell one million records?	Kitty Wells	Patsy Cline	Loretta Lynn	Patsy Montana
+8CR1559	Country Music	2	On the "Johnny Cash: Forever Words" tribute album, who did "Body on Body"?	Carlene Carter	Rosanne Cash	T Bone Burnett	Jewel
+1V10701	Country Music	2	Who did Little Big Town tour with 2018 on the Bandwagon Tour?	Chris Stapleton	Kacey Musgraves	Blake Shelton	Miranda Lambert
+1V10677	Country Music	2	Whose "Drunk Girl" video was named Video of the Year at the 2019 Academy of Country Music Awards?	Chris Stapleton	Kelsea Ballerini	Keith Urban	Chris Janson
+507936	Country Music	2	According to Love and Theft's 2012 hit "Angel Eyes", what does "she" like with her water?	Wine	Beer	Bourbon	Whiskey
+507942	Country Music	2	Who collaborated with David Nail on his 2012 hit "Let it Rain"?	Carrie Underwood	Martina McBride	Cassadee Pope	Sarah Buxtton
+513045	Country Music	2	The songs "Who I Am With You" and "Lonely Eyes" can be found on which album?	Duck The Halls: A Robertson Family Christmas	Out Among The Stars	The Bluegrass Album	A.M.
+457074	Country Music	2	Which act performed their #1 hit "Here Comes Goodbye" at the Grand Ole Opry in April 2009?	Alabama	Big & Rich	Sugarland	Rascal Flatts
+12C4437	Country Music	2	What is Chris Stapleton's middle name?	Jonathan	Elvis	Manny	Alvin
+507906	Country Music	2	Keith Urban won a Grammy in what category in 2011 for "Til Summer Comes Around"?	Best Country Instrumental Performance	Best Country Song	Best Country Collaboration with Vocals	Best Male Country Vocal Performance
+5954	Country Music	2	In what year was the song "Devil Went Down to Georgia" recorded?	1983	1969	1980	1979
+5926	Country Music	2	Which female country singer was first to have hits on the Pop charts as well as the Country charts?	George Jones	Mary Jo Jennings	Patricia Lynn Shepherd	Virginia Patterson Hensley
+1V10653	Country Music	2	Who was named Female Artist of the Year at 2019 Academy of Country Music Awards?	Ashley McBryde	Kelsea Ballerini	Carrie Underwood	Kacey Musgraves
+1V10554	Country Music	2	What country artist released the song, "She Got the Best of Me"?	Joy Williams	Blake Shelton	Luke Bryan	Luke Combs
+1V10716	Country Music	2	Whose 2019 concert tour is called the "All-American Road Show Tour"?	Scotty McCreery	Justin Townes Earle	The Cleverlys	Chris Stapleton
+319603	Country Music	3	Taylor Swift was chosen to perform as an opening act for whose tour in 2007?	Tim McGraw	Garth Brooks	Willie Nelson	George Strait
+12C4422	Country Music	3	Which feature film did Chris Stapleton contribute to the soundtrack?	Inside Out	Creed	The Revenant	Cars 2
+287806	Country Music	3	What do Carrie Underwood's fans like to call themselves?	The Underwood Crew	Carrie's Clan	Woody's Crew	The Care Bears
+507961	Country Music	3	Who won New Artist of the Year at the 2013 Academy of Country Music Awards?	Mac McAnally	Corb Lund	Hunter Hayes	Kacey Musgraves
+12C4564	Country Music	3	Who makes up the brother duo in the Brothers Osbourne?	Buddy and Rip	Ted and Marco	Sam and Will	T.J. and John
+287795	Country Music	3	How many copies of Carrie Underwood's single "Inside Your Heaven" sold in its first week of sales?	525,000	90,000	250,000	170,000
+507976	Country Music	3	Florida Georgia Line had a hit in 2014 covering what song by Black Stone Cherry?	Sweet Annie	Drink a Beer	This is How We Roll	Stay
+78171	Country Music	3	What singer featured on Willie Nelson's album "Across the Borderline" did not write any of the featured songs?	Lyle Lovett	Paul Simon	Bob Dylan	Tom Waits
+406123	Country Music	3	What does Taylor Swift wish on in "Teardrops on My Guitar"?	Penny	Birthday Cake Candles	Wish Bone	Wishing Star
+507883	Country Music	3	Which famous country music label was closed by Disney in 2010?	Main Street	Blues Street	Magic Street	Lyric Street
+405003	Country Music	3	What is happening in Carrie Underwood's "All-American Girl"?	A Football Game	A Boy Meets A Girl	A Baseball Game	A Baby Is Born
+58517	Country Music	3	Who was the first country artist to perform solo at Billy Bob's Texas?	Merle Haggard	Waylon Jennings	Willie Nelson	Jerry Jeff Walker
+68748	Country Music	3	In which military branch did George Jones serve?	Coast Guard	Navy	Army	Marines
+1V10767	Country Music	3	What country star has two children , Boone McCoy and Tennessee Hawkins?	Chris Stapleton	Jason Aldean	Clint Black	Eric Church
+5929	Country Music	3	When did the Country Music Association hold the first Fan Fair?	1962	1965	1975	1972
+507910	Country Music	3	Cheyenne Kimball left what country quartet in 2011?	Rascal Flatts	Edens Edge	Eli Young Band	Gloriana
+405055	Country Music	3	In the remake of "Workin' for a Livin'", when is the raise supposed to be?	This Week	Today	Tomorrow	Next Week
+507964	Country Music	3	Which country musician released the compilation album "Precious Memories Volume II" in 2013?	Kenny Rogers	Toby Keith	Cheryl Crow	Alan Jackson
+374840	Country Music	3	What was the name of Rascal Flatts' 2007 tour?	It's Alright	Warped Tour	Revolution Tour	Still Feels Good
+76898	Country Music	3	What was the name of George Jones' restaurant in Vidor, Texas?	George Jones' Cafe	Possum Holler Restaurant	The Wagon Wheel Restaurant	George Jones' Chuck Wagon Restaurant
+156844	Country Music	3	What decade is the hit single "Swear It Again" by Westlife from?	Sixties	Nineties	Eighties	2000's
+8CR1029	Country Music	3	Who did Dierks Bentley say inspired the song "Woman, Amen"?	Michelle Obama	His Mom	His Daughter	His Wife
+15039	Country Music	3	What was Gram Parsons' first professional group?	The Pacers	The Legends	The Village Vanguards	The Shilos
+405005	Country Music	3	What else did the narrator ask for in "Bring Him Home Santa!"?	Truck And Puppy	A Playstation And A CD	A Kitten	Barbie Doll And A Soccer Ball
+5937	Country Music	3	Which performer is credited with first using an electric guitar in country music?	Marty Robbins	Buck Owens	Porter Wagoner	Bob Dunn
+1V10665	Country Music	3	Who was named Best New Male Artist of the Year at 2019 Academy of Country Music Awards?	Mitchell Tenpenny	Michael Ray	Jordan Davis	Luke Combs
+375092	Country Music	3	What Beatles song did Rascal Flatts cover and release on iTunes in late July, 2007?	All My Loving	Eight Days A Week	Lady Madonna	Revolution
+375258	Country Music	3	What is the first single from the 2007 Rascal Flatts album "Still Feels Good"?	Take Me Away	Take Them Away	Take Them There	Take Me There
+8CR1019	Country Music	3	What is the name of Dierks Bentley's ninth studio album?	Just Us	Colorado High	Big Sky	The Mountain
+5947	Country Music	3	Who originally performed "Friends in Low Places"?	Randy Travis	Garth Brooks	Clint Black	Mark Chestnut
+507943	Country Music	3	In his 2012 hit "Truck Yeah", what rapper did Tim McGraw have "pumpin'" on his iPod?	Snoop Dogg	50 Cent	Eminem	Lil' Wayne
+8CR1069	Country Music	3	Sparrow is the fourth studio album by what American country music artist?	Mary Chapin Carpenter	Keith Urban	Dierks Bentley	Ashley Monroe
+154906	Country Music	3	What decade is the hit single "Elvira" by Oak Ridge Boys from?	Sixties	Nineties	Seventies	Eighties
+156848	Country Music	3	From what decade is the hit single "Yes!" by Chad Brock?	Sixties	Seventies	Eighties	2000's
+5931	Country Music	3	Which was country music's first platinum album?	The Essential George Jones	Alone And Forsaken	On The Road Again	Wanted! The Outlaws
+267104	Country Music	3	Which of the following is an album from Dwight Yoakam?	Modern Day Drifter	Drain The Vain	Love In Vain	Blame The Vain
+8CR1089	Country Music	3	Who released the country album "Find a Light"?	Brett Young	Brothers Osborne	Jason Aldean	Blackberry Smoke
+70369	Country Music	3	Why did Lynyrd Skynyrd title their 1997 album "Twenty"?	Their Twentieth Album	Johnny Van Zant Turned Twenty	To Honor Twentieth Member Of Band	Twenty Years Since Plane Crash
+12C4431	Country Music	3	What was the name of the southern rock band Chris Stapleton founded in 2010?	Stapleton Brothers	Stomp Inc.	Zac Brown Band	The Jompson Brothers
+507889	Country Music	3	Which country singer was honored at the 2010 Kennedy Center Honors?	Willie Nelson	Johnny Cash	Roy Nichols	Merle Haggard
+507904	Country Music	3	Who won the 2011 Best Country Instrumental Performance Grammy for "Hummingbyrd"?	Eric Church	Wayne Rostad	Aaron Watson	Marty Stuart
+6274203	Country Music	3	Who co-wrote the song "Beautiful Drug" with Zac Brown?	Coy Bowles	Jimmy DeMartini	Thomas Rhett	Niko Moon
+507934	Country Music	3	Which country artist collaborated with Beck and Kid Rock on his 2012 album "3 Pears"?	Easton Corbin	Chris Cagle	Blake Shelton	Dwight Yoakam
+507967	Country Music	3	Emmylou Harris and Rodney Crowell team up for a 2013 country album titled after an "Old Moon" of what color?	White	Blue	Red	Yellow
+315084	Country Music	3	What Dixie Chicks album was nominated for "Album of the Year" in the 2007 Grammys?	Live In Concert	Accidents And Accusations	Top Of The World	Taking The Long Way
+12827	Country Music	3	Where was Clint Black born?	Tennessee	California	Texas	New Jersey
+405057	Country Music	3	In Alan Jackson's song "Small Town Southern Man", how many daughters are there?	One	Two	Seven	Four
+68749	Country Music	3	Who wrote and first recorded "White Lightning"?	George Jones	Webb Pierce	Buck Owens	J.P. Richardson
+8549	Country Music	3	Which group of words were spelled out in Tammy Wynette's hit "D-I-V-O-R-C-E"?	I L-O-V-E Y-O-U	J-O-E, G-E-O-R-G-E, T-A-M-M-Y	L-O-V-E, K-I-S-S, Y-O-U, M-E	H-E-L-L, J-O-E, D-I-V-O-R-C-E
+287813	Country Music	3	How do you end this Carrie Underwood lyric, "I felt a revelation ..."?	Coming To You	In Front Of My Eyes	Happening In Me	Coming Around
+41367	Country Music	3	Who was the first country music artist to perform in Central Park in New York?	Garth Brooks	George Strait	Suzy Bogguss	Victoria Shaw
+288481	Country Music	3	From what city are the members of Sugarland originally based out of?	Los Angeles	New York	Dallas	Atlanta
+40008	Country Music	3	What year did the "Grand Ole Opry" get its name?	1899	1945	1981	1927
+83170	Country Music	3	Who was the artist who sang "Sweet Country Music"?	Alabama	Lynyrd Skynyrd	Ricky Skaggs	Atlanta
+1V10737	Country Music	3	What is the brand of tequila that George Strait invested in?	Tapatio	Ocho	Herradura	Codigo
+406133	Country Music	3	What does everyone need in Keith Urban's "Everybody"?	Something Sometimes	Something To Hold	Someone To Hold	Somebody Sometimes
+406134	Country Music	3	In Trace Adkins' "I Got My Game On", what kind of shirt does he wear?	White Cotton	Armani	T-Shirt	Black Silk
+58522	Country Music	3	Which group/artist has not covered Robert Earl Keen's "The Road Goes On Forever"?	The Highwaymen	Jack Ingram	Joe Ely	Hank Williams, Jr.
+507901	Country Music	3	Which band's aptly-named "Album Number Two" was a best-seller in 2010?	The Secret Sisters	Trailer Choir	Reckless Kelly	Joey+Rory
+507937	Country Music	3	Elected to the Country Music Hall of Fame in 2012, Hargus Robbins had what nickname?	Bull	Horse	Rooster	Pig
+1V10581	Country Music	3	What artist released the country song, "Every Little Thing"?	Mandolin Orange	Dierks Bentley feat. Brothers Osborne	Eric Church	Russell Dickerson
+406129	Country Music	3	What does Travis Tritt want to drown "'til the morning comes" in "Something Stronger Than Me"?	His Foolish Pride	The Phone That Keeps Ringing	His Weak Feelings	The Ache In His Heart
+5941	Country Music	3	Who is credited with the creation of "The Nashville Sound"?	Billy Sherrill	Chet Atkins	Eddy Arnold	Owen Bradley
+5874208	Country Music	3	What is Wheeler Walker, Jr.'s real name?	John Brasino	Joe Epstein	Bernard Sanders	Ben Hoffman
+8CR1039	Country Music	3	Who is featured on the Dierks Bentley's song "Travelin' Light"?	Shania Twain	Taylor Swift	Mary Chapin Carpenter	Brandi Carlile
+1V10758	Country Music	3	Where did the band Old Dominion form?	Atlanta	Orlando	Dallas	Nashville
+1V10587	Country Music	3	What country artist released the song, "Somebody’s Daughter"?	The Cleverlys	Keith Whitley	Aaron Lewis	Tenille Townes
+5994	Country Music	3	Whose booth at Fan Fair '96 won 1st place as voted upon by Fan Fair organizers?	Shania Twain	Lee Roy Parnell	Clay Walker	Pam Tillis
+507913	Country Music	3	Which country artist collaborated with Alabama on the single "Old Alabama"?	Keith Urban	Jake Owen	Tim McGraw	Brad Paisley
+507979	Country Music	3	Who won New Artist of the Year at the 2014 Academy of Country Music Awards?	Dallas Smith	Don Williams	Randy Rogers	Justin Moore
+513272	Country Music	3	When did The Band Perry release their song "Chainsaw"?	March 3rd 2013	December 25th 2013	August 3rd 2014	March 3rd 2014
+15762	Country Music	3	Which country star appeared on the HBO mini "Tales from the Crypt"?	John Michael Montgomery	Garth Brooks	Marty Stuart	Travis Tritt
+15767	Country Music	3	Which country singer sang the theme song for the movie "Sgt Bilko" starring Steve Martin?	Randy Travis	Vince Gill	Garth Brooks	Travis Tritt
+5554212	Country Music	3	How old was country music singer/songwriter Joey Martin Feek when he died in 2016?	54 Years Old	50 Years Old	24 Years Old	40 Years Old
+507886	Country Music	3	Which country music disbanded in September 2010 after the final date of their concert tour?	Rascal Flatts	Lady Antebellum	The Old Skillets	The Lost Trailers
+507940	Country Music	3	2012's "100 Proof" was the 3rd studio album by what country artist?	Casey James	Jerrod Niemann	Lee Brice	Kellie Pickler
+1V10524	Country Music	3	What country artist released the hit song, "Best Shot"?	George Strait	Cody Jinks	Midland	Jimmie Allen
+5990	Country Music	3	Who won the 1994 CMA vocalist of the year?	Reba McEntire	George Strait	Vince Gill	Garth Brooks
+154629	Country Music	3	What decade is the hit single "My Angel Baby" by Toby Beau from?	Sixties	Eighties	Nineties	Seventies
+405010	Country Music	3	In Alan Jackson's "Small Town Southern Man" what is the job of his father?	Rancher	Lumberjack	Blacksmith	Farmer
+8CR1379	Country Music	3	Where was the alt country band Band of Horses formed?	Dallas	Toronto	Newark	Seattle
+8CR1259	Country Music	3	What rapper is featured on Carrie Underwood's "The Champion"?	Drake	Lil Wayne	Common	Ludacris
+5993	Country Music	3	Who wrote John Michael Montgomery's hit "I Swear"?	John Calvert And Aaron Sain	Dave Robbins Of Blackhawk	John Michael Montgomery	Gary Baker And Frank Myers
+8CR1099	Country Music	3	Who released the 2018 album "Girl Going Nowhere"?	Brett Young	Jason Aldean	Scotty McCreery	Ashley McBryde
+1V10527	Country Music	3	What country artist released the hit song, "Take It From Me"?	Logan Mize	Kip Moore	Morgan Wallen	Jordan Davis
+535185	Country Music	3	What state was Kacey Musgraves born in?	Florida	Oklahoma	California	Texas
+1V10575	Country Music	3	What country artist released the song, "Hotel Key"?	Lauren Duski	Cole Swindell	Keith Urban	Old Dominion
+8CR1239	Country Music	3	Who released the country single "Lose it" in June 2018 on Sony Records?	Kacey Musgraves	Garth Brooks	Chris Stapleton	Kane Brown
+10074	Country Music	3	Who was the first artist to record "Honky Tonk Man"?	Willie Nelson	Hank Williams	Dwight Yoakam	Johnny Horton
+68795	Country Music	3	In what year did Charlie Pride become a member of the Grand Ole Opry?	1990	1989	1983	1993
+507895	Country Music	3	Which husband-and-wife country music team were inducted into the Country Music Hall of Fame in 2010?	Wayne and Ellie Rostad	Don and Marsha Harron	Willie and Marie Bottrell	Hal & Ginger Willis
+405068	Country Music	3	What is the last line of the Rascal Flatts song "Winner at a Losing Game"?	I Just Can't Win	Love Can't Be Forever	I'm Not Who You're Dreaming Of	I'm Tired Of Losing
+55454	Country Music	3	On what song did Brian Wilson duet with Tammy Wynette?	Keep An Eye On Summer	Don't Worry, Baby	Stand By Your Man	In My Room
+406132	Country Music	3	In "More Than a Memory" by Garth Brooks, when is the friend awakened?	In The Morning	In The Evening	The Friend Remains Asleep	In The Dead Of Night
+406131	Country Music	3	What does Faith Hill say is/are falling from the sky in "Red Umbrella"?	My Self-Esteem	My Broken Heart	My Hopes And Dreams	My Broken Dreams
+83697	Country Music	3	In the Dixie Chicks' "Goodbye Earl" video, what was the lawyer's name?	J.P. Worthington	The Lawyer's Name Is Not Given	Ralph Siedel	Ezekiel Kincaid
+406136	Country Music	3	In Billy Ray Cyrus' "Ready, Set, Don't Go", what is in her eyes?	Tears	Dreams	Smoke	Stars
+406135	Country Music	3	In Carrie Underwood's "So Small," what comes after "it's like a river"?	That Never Makes It To Shore	That Floods The Outer Banks	That Runs So Deep	That's So Wide
+1V10563	Country Music	3	What country artist released the song, "Burn Out"?	Molly Tuttle	Chase Rice	Dallas Smith	Midland
+405056	Country Music	3	What charity does "Bring Him Home Santa!" benefit?	The Salvation Army	Kiwanis	Make A Wish	St. Jude Children's Hospital
+68750	Country Music	3	Who wrote the Buck Owens smash hit "Act Naturally"?	Bobby Braddock And Curly Putman	Darrell Edwards	Buck Owens	Johnny Russell
+1V10704	Country Music	3	Whose 2019 concert tour is called "The State I'm In Tour"?	Walker Hayes	Jordan Davis	Morgan Wallen	Aaron Lewis
+1V10764	Country Music	3	At what University did members of the Eli Young Band meet?	Penn State	Florida State	Alabama	University of North Texas
+287794	Country Music	3	What was the title of Carrie Underwood's debut single?	Some Hearts	Before He Cheats	Jesus, Take The Wheel	Inside Your Heaven
+287165	Country Music	3	What finishes the Rascal Flatts song lyric "We got hippies, gypsies, ...."?	Hotties With Bodies	And Freakish Geeks	Puppies And Kitties	Freaks And Geeks
+406130	Country Music	3	What kind of grin is described in Chuck Wicks' "Stealing Cinderella"?	Toothy Grin	Gap-Toothed Grin	Big Grin	Popsicle Grin
+40014	Country Music	3	Who was the Grand Ole Opry's first individual star?	Minnie Pearl	Roy Acuff	Sarah Cannon	Uncle Dave Macon
+96837	Country Music	3	Which singer is a cousin of Loretta Lynn who has had many #1 hits?	Dolly Parton	Crystal Gayle	Deanna Carter	Patty Loveless
+287143	Country Music	3	Who is the lead vocalist of the country group Rascal Flatts?	Joe Don Rooney	Jay DeMarcus	Steven Tyler	Gary LeVox
+507973	Country Music	3	Which group's 5th studio album "10,000 Towns" was a bestseller in 2014?	Dan + Shay	The Oak Ridge Boys	Moonshine Bandits	Eli Young Band
+1V10662	Country Music	3	Who was named Best New Female Artist of the Year at 2019 Academy of Country Music Awards?	Kelsea Ballerini	Lindsay Ell	Carly Pearce	Ashley McBryde
+154576	Country Music	3	What decade is the hit single "Devil's Gun" by C.J. & Co. from?	Sixties	Nineties	Eighties	Seventies
+5914	Country Music	3	What country music legend was born in Floydada, TX?	Willie Nelson	Waylon Jennings	Bob Wills	Don Williams
+12C4410	Country Music	3	What is the name of Chris Stapleton's debut album?	Going Home	Settler	Country Life	Traveller
+523891	Country Music	3	Which song by Glen Campbell won Best Country Song at the 2015 Grammys?	American Kids	Automatic	Give Me Back My Hometown	I'm Not Gonna Miss You
+194421	Country Music	3	What song has the lyrics, "will I promise to be your best friend, and am I here until the end"?	Keith Whitley "Don't Close Your Eyes"	Kenny Chesney "Me And You"	Mark Wills "Jacobs' Ladder"	Paul Brandt "I Do"
+8CR1049	Country Music	3	How many of the 13 songs on the album "The Mountain" did Dierks Bentley write?	3	All	Zero	10
+287793	Country Music	3	After winning "American Idol", what record company did Carrie Underwood sign with?	RCA Records	Nashville Records	Virgin Records	Arista Records
+8CR1359	Country Music	3	What song starts with the line "I wanna bump into you spill some coffee on your shirt"?	Die a Happy Man	May We All	Deep Forest	I Need a Love Story
+1V10608	Country Music	3	Connor Stephen and Bobby Martin are members of what band?	The Reklaws	Lady Antebellum	Restless Heart	James Barker Band
+507970	Country Music	3	What best-selling single won the 2014 Grammy for Best Country Song?	From This Valley	Wagon Wheel	Over You	Merry Go 'Round
+14995	Country Music	3	On which song made famous by Frank Sinatra was Glen Campbell featured on guitar?	I Left My Heart In San Francisco	Oceans Eleven	My Way	Strangers In The Night
+405014	Country Music	3	In the Rascal Flatts song "Winner at a Losing Game", two hearts can't what?	Beat As One	Sing	Fly	Dance
+320749	Country Music	3	Which Kenny Chesney single did BNA Records promote in early 2007?	The Road And The Radio	Summertime	In A Small Town	Beer In Mexico
+1V10629	Country Music	3	In what season of "The Voice" did Morgan Wallen compete?	Season 2	Season 1	Season 11	Season 6
+96164	Country Music	3	What name did Leon Russell use when he recorded a minor country-western hit in 1973?	Shot Jackson	Lonesome Luke Williams	Wilson Hanks	Hank Wilson
+5940	Country Music	3	Which independent record label currently owns the domain name "country-music.com"?	Island Records	River North Records	Rounder Records	Windshear Records

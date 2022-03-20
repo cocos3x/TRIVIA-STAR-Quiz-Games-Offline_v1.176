@@ -1,0 +1,593 @@
+60E1189	Comida	0	¿Cuál es la sustancia dulce que producen las abejas?	zumo de naranja	Tapioca	Vainilla	Miel
+FTUX45	Comida	0	¿Cuál es un método de cocción?	Trapear	Aplausos	Descargando	Hirviendo
+0DIF188	Comida	1	¿Cuál de estos es un tipo de arroz?	Cebolla	Broncearse	De miedo	Salvaje
+40E2079	Comida	0	¿Qué aparato se utiliza para cocinar?	Lavavajillas	Lavadora	Hierro	Microondas
+FTUX074	Comida	1	En 'Surf and Turf', ¿cuál de los siguientes sería un ejemplo de 'Turf'?	Salmón	Camarón	Almejas	filete
+60E1449	Comida	0	¿Qué comida sería más apropiada para el desayuno?	Calzone	Salsa De Espagueti Y Carne	Sushi	Panqueques
+FTUX078	Comida	0	Termine este dicho relacionado con la comida: "Es lo mejor desde que se inventó _____ cortado."	Cerezas	jamón	Olivos	Un pan
+0DIF190	Comida	0	¿Qué comida se sirve a menudo rellena?	Berza	Berro	Zanahoria	Seta
+FTUX52	Comida	0	¿Cuál de estos es un alimento básico para el desayuno?	Helado	Judías verdes	Espaguetis	Huevos
+FTUX53	Comida	0	¿Qué verdura podría venir en los colores blanco, morado y verde?	Brócoli	Patata	Pepino	Coliflor
+FTUXPIC130	Comida	0	¿Qué debes hacer con el agua para hacer pasta?	Enfriar	Beber	Remover	Hervir
+40E2499	Comida	0	¿En cuál de estos grupos de alimentos se encuentra la mantequilla?	Granos	Carnes	Vegetales	Lechería
+40E2959	Comida	0	Galia, Honeydew y Cantelope son todos tipos de cuál de estos?	Albaricoque	Cereza	naranja	Melón
+60E1569	Comida	0	¿Qué alimento se utiliza como base para el guacamole?	fresa	Cebolla	Arroz	Aguacate
+60E2149	Comida	0	¿Dónde crecen las uvas?	Árboles	Subterráneo	Cuevas	Vides
+FTUXPIC144	Comida	0	¿Qué plato italiano es este?	Panini	Pizza	Calzone	Lasaña
+40E2329	Comida	0	¿Qué comida sería más apropiada para el almuerzo?	Cereal	Harina de avena	Gofres	Emparedado
+FTUX088	Comida	0	¿Cuál no es un verde frondoso?	Lechuga romana	col rizada	Espinacas	Cebolla
+60E1469	Comida	0	¿Qué verdura se usaría en la salsa marinara?	col rizada	Okra	Brócoli	Ajo
+0DIF192	Comida	1	¿Cómo se llaman estos tacos enrollados?	Nachos	Sashimi	Enchiladas	Taquitos
+FTUX01N	Comida	0	¿Qué comida italiana se elabora con capas de fideos planos, salsa, carne y queso?	cannoli	Pappardelle	Rigatoni	Lasaña
+FTUXPIC136	Comida	0	¿Cuál es la fruta más utilizada para producir vino?	Cereza	Pera	ciruela	Uva
+FTUX071	Comida	0	¿Cómo se preparan normalmente las galletas con chispas de chocolate?	Asado	Escalfado	Frito	Horneado
+FTUXPIC121	Comida	0	¿Los espaguetis, los macarrones y los linguini son todos tipos de cuál de estos?	Emparedado	Fruta	Vino	Pasta
+60E1249	Comida	0	¿Las manzanas, los plátanos y las naranjas son tipos de qué?	Flores	Granos	Vegetales	Frutas
+40E2349	Comida	0	¿Cuáles son estos populares aperitivos chinos?	Albóndigas de pollo	Flautas	Taquitos	Rollitos de primavera
+0DIF198	Comida	0	En inglés, "pork" se refiere a la carne de qué animal?	Vaca	Antílope	Pájaro	Cerdo
+40E2889	Comida	0	¿Cómo se llama este postre?	Cereal	Mordida esponjosa	Crujido de galletas	S'more
+40E2119	Comida	0	¿Qué alimento tiene un hoyo grande en el centro?	Jengibre	Endibia	naranja	Aguacate
+FTUX46	Comida	0	¿Qué es un tubérculo relacionado con la zanahoria?	Pimiento morrón	Tomate	Patata	Chirivía
+FTUXPIC141	Comida	0	¿Cuál de estas es una bebida matutina marrón común con cafeína, que normalmente se sirve con leche o azúcar?	Leche	Gaseosa	Vino	café
+0DIF184	Comida	0	¿Qué alimento contiene lácteos?	Hamburguesa	Pollo	Patata	Yogur
+0DIF200	Comida	0	¿Cuál sería un ejemplo de un hongo que comes?	Pera	Salmón	Miel	Seta
+60E2089	Comida	0	Los productos lácteos generalmente se elaboran con qué líquido?	Agua	soda	Jugo	Leche
+40E2129	Comida	0	¿Qué es este popular plato japonés?	Curry	Ramen	Rollitos de primavera	Sushi
+FTUX082	Comida	0	¿Cuál de estos es el ingrediente principal del hummus?	Arroz	Malvaviscos	Almendras	Garbanzos
+40E2279	Comida	0	¿Cuál de estos ingredientes se usa para revestir el borde de una copa de margarita?	Canela	Harina	Frijoles	sal
+FTUX098	Comida	0	¿Qué ingrediente se usa comúnmente para hornear pan?	Arroz	Carne de vaca	Cebollín	Harina
+FTUX092	Comida	0	¿Cuál de estos alimentos horneados está hecho de harina, agua y levadura?	jamón	Sopa	Dulce	Un pan
+0DIF185	Comida	0	¿Cuál se considera una fruta cítrica?	Cereza	melocotón	ciruela	naranja
+FTUXPIC129	Comida	0	Un hot dog frito rebozado y, por lo general, servido en un palito, se llama ¿qué?	Filete de queso	Hoagie	Puercos en una sábana	Perro de maíz
+60E2769	Comida	0	¿Qué tipo de queso tiene agujeros?	Americano	Queso Cheddar	Queso cheddar blanco	Suizo
+FTUX089	Comida	0	¿De qué está hecho el tofu?	Huevos	Alcachofas	Mostaza	Soja
+FTUX097	Comida	0	¿Cómo se llaman estos alimentos para el desayuno?	Danesas	Baguettes	Croissants	Bagels
+0DIF195	Comida	0	¿Qué condimento se usa principalmente en las papas fritas?	Wasabi	Salsa de soja	Mostaza	Salsa de tomate
+FTUX095	Comida	0	¿Qué es un croissant?	Variedad de carnes en lonchas	Bebida de frutas mezcladas	Pasta a base de patata	Pastelería ligera y esponjosa
+0DIF187	Comida	0	¿Qué verdura puede hacer que lloren los ojos cuando se corta?	Aguacate	Brócoli	col rizada	Cebolla
+FTUXPIC150	Comida	0	Granny Smith, Fuji y Yellow Delicious son todos tipos de qué fruta?	Plátano	fresa	Arándano	manzana
+40E2859	Comida	0	¿Qué plato polaco es este?	Ramen	Crepe	Rollo de primavera	Pierogi
+60E2269	Comida	0	¿Cuál se considera una fruta cítrica?	Pera	manzana	Uva	Pomelo
+60E1529	Comida	0	¿Cuál es un tubérculo?	manzana	fresa	Espárragos	Chirivía
+60E2909	Comida	0	¿Cuál de estos es una pasta?	Endibia	Puerro	Nabo sueco	Pasta linguini
+60E2809	Comida	0	¿Qué alimento es una fruta?	Zanahoria	Brócoli	Coliflor	kiwi
+60E1209	Comida	0	¿Qué alimento tiene más fibra?	Azúcar	Lechuga	Miel	manzana
+60E1649	Comida	0	¿Qué alimento tiene más proteínas?	Zanahoria	manzana	Pasta	Pollo
+FTUX51	Comida	0	¿La tilapia es un tipo de qué?	Hamburguesa con queso	Patata	Pollo	Pescado
+FTUX63	Comida	0	Durante el proceso de decapado, ¿en qué se sumerge la comida?	zumo de naranja	Sandía	soda	Vinagre
+60E1769	Comida	0	¿Cuál de estos requiere refrigeración?	Vegetales enlatados	Manzanas	Agua	Leche de vaca
+FTUX60	Comida	0	¿El venado es un tipo de carne de qué animal?	Pollo	Vaca	Tiburón	Ciervo
+FTUX091	Comida	0	¿Qué vegetal es naranja y se dice que mejora la vista?	Repollo	Espinacas	Maíz	Zanahoria
+FTUX077	Comida	0	¿Cuál de estos no es un aderezo común para pizza?	Pepperoni	Pimiento verde	Salchicha	Galletas saladas
+FTUXPIC137	Comida	1	¿Qué es esta sopa vietnamita a base de caldo?	Takoyaki	Pollo con fideos	Harina de avena	Pho
+0DIF194	Comida	0	¿Cómo se llama este pan plano indio?	Tortilla	Crepe	Pizza	naan
+0DIF183	Comida	0	¿Qué tipo de comida se sirve a menudo revuelto, escalfado o con el lado soleado hacia arriba?	Tocino	langosta	filete	Huevos
+FTUX094	Comida	0	Los alimentos ricos en almidón, como la pasta o el pan, ¿se conoce como cuál de estos?	calzones	Lechería	Proteína	Carbohidratos
+FTUX093	Comida	0	¿Cuál de estos no es un alimento con almidón?	Patata	Pasta	Arroz	Salami
+FTUXPIC142	Comida	0	¿De qué manera puedes preparar tu bistec?	Al dente	Lado soleado hacia arriba	Movido	Medianamente raro
+0DIF191	Comida	0	¿Qué es este dip a base de aguacate?	Salsa tártara	Salsa de soja	Wasabi	Guacamole
+FTUX086	Comida	0	¿Qué utensilios para comer se usan comúnmente en China o Tailandia?	Tenedor y cuchillo	Tenazas	Dispensador de miel	Palillos
+FTUXPIC124	Comida	0	¿Qué tipo de postre son los snickerdoodles?	Sándwiches de helado	Pasteles	Tortas	Galletas
+FTUX080	Comida	0	¿Cómo se llama este dulce postre?	Fruta jugosa	Icee	Carámbano	paleta de hielo
+FTUX087	Comida	0	¿Qué bebida puede venir en tostado claro, tostado oscuro o descafeinado?	Leche	Agua	Batido de frutas	café
+60E1709	Comida	0	¿Qué es un plato líquido, que normalmente se prepara hirviendo carne, pescado o verduras en agua o caldo?	Un pan	ensalada	pastel	Sopa
+FTUXPIC143	Comida	0	¿Qué bebida tiene más azúcar?	Agua	Té	Café	Cola
+40E2619	Comida	0	¿Qué es esta sopa a base de soja?	Ramen	Tortilla de pollo	Sopa de verduras	Sopa de miso
+FTUX083	Comida	0	¿Qué vegetal te haría llorar los ojos?	Calabaza Squash	Coliflor	Espinacas	Cebolla
+FTUX072	Comida	0	¿Qué alimento es un vegetal?	Sandía	Naranjas	Plátano	Espinacas
+0DIF193	Comida	0	¿Cuál de estas es una bebida alcohólica?	Coca Cola	Limonada	Agua	Vino
+0DIF182	Comida	0	¿Qué son estos postres de masa frita?	Perros de maíz	Gofres	Panqueques	churros
+40E2549	Comida	0	¿Cuál de estos no es una fruta?	manzana	naranja	Plátano	Patata
+0DIF181	Comida	0	¿Cuál de estos describe una pasta rellena con relleno sabroso y cocida?	Calzone	Emparedado	Taco	Ravioles
+FTUX079	Comida	0	Señuelos, carretes y postes, ¿son ejemplos de equipos utilizados para qué tipo de recolección de alimentos?	Agricultura	Forrajeando	Cocinando	Pescar
+40E2139	Comida	0	¿Cuál de estos se parece más a una cebolla?	Maíz	Berro	Brote de bambú	Chalote
+40E2609	Comida	0	Tradicionalmente, ¿de qué tipo de carne se hace una hamburguesa?	pavo	Pollo	Olivos	Carne de vaca
+FTUXPIC125	Comida	0	¿Qué cobertura para panqueques viene en sabores de arce, arándano o fresa?	Azúcar en polvo	Salsa	Mantequilla	Jarabe
+FTUXPIC134	Comida	0	¿Cuál es un aderezo común para un hot dog?	Frambuesas	Limones	Hongos	Mostaza
+60E2249	Comida	0	¿Qué comida sería más apropiada para cenar?	Yogur	Panqueques	Huevos revueltos	Espagueti y albóndigas
+0DIF196	Comida	0	¿Qué es este plato de inspiración italiana?	Ziti	Lasaña	Calzone	Pizza
+60E2489	Comida	0	¿Una pasa es en realidad un qué seca?	manzana	Tomate	Aceituna	Uva
+FTUXPIC145	Comida	0	¿Lindt, Ghirardelli y Nestlé son comúnmente conocidos por cuál de estos alimentos?	café	Cerveza	Sándwiches	Chocolate
+40E2759	Comida	0	¿Qué artículo tiene más azúcar?	Lechuga	Zanahoria	Aceituna	Helado
+FTUXPIC148	Comida	0	¿Cuál es un tubérculo?	Brócoli	Pepino	Lechuga	Nabo
+FTUXPIC135	Comida	0	¿Qué es este plato envuelto en hojas de maíz?	Taquitos	Tempura	Pan pita	Tamales
+0DIF197	Comida	0	¿Qué son estos postres coloridos?	Paletas de hielo	Helado frito	Mochi	Macarons
+FTUXPIC122	Comida	0	¿Cheddar, Gouda y Mozzerella son todos tipos de qué tipo de comida?	pastel	Palomitas de maiz	Vegetal	Queso
+FTUX50	Comida	0	¿Qué tipo de pastel es este?	Ángel	Helado	Mousse	Bundt
+FTUX075	Comida	0	¿Qué comida consumiría el personaje de ficción Popeye para aumentar su fuerza?	Bayas	Perro de maíz	Barra de granola	Espinacas
+FTUX55	Comida	0	¿Cuál de estos no es un caramelo?	Cuerdas amargas	Trapos de leche	Copa de Reese	Crema Agria
+40E2049	Comida	0	¿Qué ingrediente del pan hace que suba?	Plátanos	Nueces	Agua	Levadura
+60E2129	Comida	0	¿Cuál es el plato favorito de los niños estadounidenses?	Croquetas de salmón	Hígado y cebollas	Buey Wellington	Macarrones con queso
+40E2089	Comida	0	¿Qué qué herramienta usarías para cocinar?	Destornillador	Motosierra	Máquina de fax	Sartén
+FTUX47	Comida	0	¿Qué alimento tiene más calcio?	Hamburguesa	Sandía	Patatas fritas	Leche
+FTUXPIC126	Comida	0	¿Qué alimento se talla tradicionalmente durante Halloween?	manzana	Sandía	Patata	Calabaza
+FTUXPIC133	Comida	0	¿Cómo se llama este plato de fideos?	Pho	Ramen	Lasaña	Chow mein
+40E2389	Comida	0	¿Qué es este postre francés quemado?	danés	Pudín	Quiche	Creme Brulee
+FTUX59	Comida	0	¿Cuál es un complemento común para una hamburguesa?	Arándanos	Naranjas	Juego de bolos	Pepinillos
+FTUX61	Comida	0	Monterey Jack es un tipo de qué?	Pescado	Fruta	Pimienta	Queso
+0DIF189	Comida	0	¿Cuál de los siguientes es un tipo de panqueque delgado?	Magdalena	Frágil	Fondu	Crepe
+FTUX49	Comida	0	¿Cuál de estos alimentos son el shiitake, la ostra y el rebozuelo?	Manzanas	Panes	Zanahorias	Hongos
+FTUX62	Comida	0	¿Cuál es el ingrediente principal de las croquetas de patata?	Huevos	Cebollas	Arroz	Patatas
+0DIF186	Comida	0	¿En qué se envuelve tradicionalmente el sushi?	Pétalos de rosa	Tortillas	Papel	Algas marinas
+FTUX56	Comida	0	¿Las fajitas son un alimento común de cuál de estos países?	Dinamarca	Irlanda	China	México
+FTUX073	Comida	0	¿Cuál es otro nombre para el maíz?	Patata	Uva	Lechuga	Elote
+FTUX090	Comida	0	¿Cuál de los siguientes no es un tipo de pasta?	Rigatoni	Espaguetis	Macarrones	Tortilla
+40E2149	Comida	0	¿Cuál de estas es una bebida alcohólica elaborada con malta fermentada con levadura y aromatizada con lúpulo?	Dr Pepper	Vodka	Ponche de huevo	Cerveza
+FTUX096	Comida	0	¿Qué usas para limpiarte la cara durante una comida?	Toallita	Tejido	Toalla	Servilleta
+55140	Comida	0	¿Qué fruta tropical contiene agua y es un componente dulce común?	Aguacate	Guayaba	Piña	Coco
+415780	Comida	1	¿Qué te servirían en un restaurante japonés si pidieras "Wasabi"?	Erizo de mar	Wonton relleno	Pulpo	Rábano picante japonés
+294576	Comida	1	El libro "La Cucina Genovese" tenía la primera receta de pesto, ¿dónde se publicó?	España	Grecia	India	Italia
+93996	Comida	1	¿Cuántas onzas líquidas componen un cuarto de galón?	64	28	12	32
+1DIFF01	Comida	1	¿Cuál de estas frutas es la más pequeña?	naranja	Cereza	kiwi	Frambuesa
+355663	Comida	1	¿Qué tipo de comida incluye samosas, curry y biryanis?	Comida australiana	Comida canadiense	comida italiana	comida india
+356775	Comida	1	¿Qué vegetal crece en una vaina?	Zanahoria	Maíz	Patata	Guisante
+191594	Comida	1	Si quisieras pescado crudo en rodajas servido sobre arroz con vinagre, ¿qué pedirías?	Domburi	Gomaae	Sashimi	Sushi
+191591	Comida	1	¿Baklava es una comida tradicional de qué país?	India	Sudáfrica	Suecia	Grecia
+1DIFF27	Comida	1	¿Cuál es el ingrediente principal de una fondue suiza?	Seta	Anchoas	Pollo	Queso
+90814	Comida	1	¿Un "benedicto" es un desayuno que consiste en qué?	Tocino y salchicha	Avena con frutas	Jugo de tomate con apio y sal	Huevo escalfado sobre muffin inglés
+FTUX099	Comida	1	¿Con qué ciudad estadounidense se asocia comúnmente el sándwich de cheesesteak?	Washington DC	Dallas	Seattle	Filadelfia
+218223	Comida	1	¿Qué cereal presenta en su mayoría a atletas famosos en la parte frontal de su caja?	Semillas de uva	Cheerios	Vida	Wheaties
+1DIFF06	Comida	1	¿Qué pequeño producto horneado suele ir acompañado de queso crema o para untar?	Cuerno	Rosquilla	Galleta	Bagel
+5479	Comida	1	¿Cuál es el país de origen de la cerveza Corona?	Columbia	Puerto Rico	Estados Unidos	México
+1DIFF25	Comida	1	¿Qué comida se crea al combinar papas fritas, salsa y requesón?	Papas fritas de animales	Holandesa	ensalada César	Poutine
+12101	Comida	1	¿Qué verdura es el ingrediente base de la sopa de gazpacho?	Pepino	Cebolla	Patata	Tomate
+188926	Comida	1	¿Cuál es el aceite más utilizado en la cocina china?	Aceite de oliva	Aceite de girasol	Aceite de maíz	Aceite de cacahuete o maní
+218180	Comida	1	¿El platillo pierogi viene de qué país?	Canadá	Italia	China	Polonia
+416556	Comida	1	¿Qué fruta es tradicionalmente "cortada"?	Pomelo	Naranjas	Uvas	Manzanas
+15289	Comida	1	¿Qué nombre usan los franceses para pastelería?	Boulangerie	Supermarche	Charcutería	Patisserie
+255431	Comida	1	¿Quién fue el fundador de la cadena de restaurantes Kentucky Fried Chicken (KFC)?	Ray Kroc	Coronel Oliver North	Coronel Harold Sanders	Coronel Harland Sanders
+FTUXPIC147	Comida	1	¿Qué plato de mariscos popular es este?	Tiras de pollo	baklava	Pierogi	Pescado y papas fritas
+355420	Comida	1	Las uvas vienen en todos estos colores, ¿menos cual?	Negro	Púrpura	Verde	naranja
+1DIFF15	Comida	1	¿Qué tipo de grano se sirve blanco, marrón, azafrán o jazmín?	Avena	Maíz	Trigo	Arroz
+1DIFF17	Comida	1	¿De qué se hace el tofu?	Pollo	Gelatina	Carne de vaca	Soja
+53087	Comida	1	¿Cuál de los siguientes desayunos tiene más valor nutricional?	Galletas	Donuts y refrescos	Waffles y almíbar	Leche y cereales integrales
+415839	Comida	1	¿Qué bebida se llama "beer" en Ingles?	Tequila	Margarita	Jack Daniels	Cerveza
+FTUXPIC138	Comida	1	¿Cuál es este favorito australiano?	Panqueque Relleno	Creme Brulee	Quiche	Pastel de carne
+350047	Comida	1	¿Qué vegetales son dulces, ojos negros y nieve?	Lechuga	Tomate	Maíz	Guisante
+355593	Comida	1	¿Cuál de estas pastas no tiene relleno?	Ravioles	Tortellini	Tortelloni	Espaguetis
+5454	Comida	1	¿Qué plato de España consiste en arroz con azafrán, gambas, almejas, pollo, salchicha y guisantes?	Sangría	Arroz con pollo	Gazpacho	Paella
+412825	Comida	1	¿A qué grupo de alimentos pertenece un bagel?	Grupo de frutas	Grupo de vegetales	Grupo cárnico	Grupo de cereales
+5471	Comida	1	¿Qué es un latke?	Una tortilla de harina	Una bebida hecha con espresso y leche.	Un postre austriaco popular	Un panqueque de papa
+191593	Comida	1	Fish and chips es el plato nacional de qué país?	Australia	Finlandia	Nueva Zelanda	Inglaterra
+54683	Comida	1	¿Qué colorea la pasta de negro en "Spaghetti al Nero di Seppia"?	Carbón comestible	despojos mortales	Colorante alimentario a base de soja	Tinta de calamar
+218221	Comida	1	¿Cuál de los siguientes alimentos se suele preparar frito?	Hamburguesas	Arroz	Espaguetis	Aros de cebolla
+55320	Comida	1	¿Cuál de los siguientes tipos de fideos italianos es hueco?	Fettuccine	Fideos	Linguini	Pasta
+88383	Comida	1	¿En qué país se originó el okonomiyaki?	Tailandia	Sudáfrica	Brasil	Japón
+294693	Comida	1	¿Qué especie de flores moradas se usa a menudo para hacer jabones y popurrí?	Azafrán	Nuez moscada	Semillas de amapola	Lavanda
+294747	Comida	1	El eslogan publicitario "¿Dónde está la carne?" ¿Qué cadena de comida rápida lo utilizó por primera vez?	Carl's Jr.	McDonald's	Burger king	Wendy's
+295633	Comida	1	Al escribir una receta, ¿cómo se abreviaría "taza"?	Cp.	Cu.	Cc.	tz.
+218290	Comida	1	¿Cuál es el azúcar principal de la leche?	Sacarosa	Maltosa	Dextrosa	Lactosa
+416460	Comida	1	¿Cuál no es un tipo de queso?	queso Muenster	queso Cheddar	suizo	Meloso
+FTUXPIC131	Comida	1	¿Qué comida japonesa popular es esta?	Chow mein	Espaguetis	Sopa de fideos con pollo	Ramen
+355654	Comida	1	¿A qué grupos de alimentos pertenecen un hot dog y un bollo?	Grupos de carnes y frutas	Grupos de carnes y vegetales	Grupos de leche y carne	Grupos de carnes y cereales
+415819	Comida	1	¿Cuál de las siguientes verduras puede ser roja, amarilla o blanca?	Coliflor	Brócoli	Judías verdes	Cebollas
+5464	Comida	1	¿Cortar cuál de estas verduras a menudo hará que los ojos se llenen de lágrimas?	Ruibarbo	Espárragos	Lechuga	Cebolla
+FTUXPIC149	Comida	1	¿Qué es este plato coreano?	Ratatouille	Creme Brulee	Enchilada	Bibimbap
+1DIFF29	Comida	1	¿Cómo se llama un bocadillo común para caminatas que contiene frutas secas, nueces y chocolate?	Harina de avena	Mezcla de pub	Crujido de buncha	Mezcla de frutos secos
+79829	Comida	1	Los garbanzos también se conocen como?	Guisantes	Lentejas	Frijoles	Chick Peas
+1DIFF28	Comida	1	¿Qué cosa no pueden comer personas con sensibilidad al glúten ?	Carne	Fruta	Huevos	Trigo
+40743	Comida	1	¿Cuál de estos no era originalmente un plato mexicano?	Enchiladas	Tortillas	Chile Rellenos	Sushi
+294682	Comida	1	¿Cuál es el ingrediente principal de la ratatouille?	Okra	Leche	Patatas	Berenjena
+FTUXPIC127	Comida	1	¿Qué es este alimento mexicano?	Taquito	Flauta	Burrito	Tostada
+1DIFF02	Comida	1	¿Gnocchi es un tipo de qué?	Condimento	Mariscos	Salsa	Pasta
+FTUXPIC140	Comida	1	¿Qué es este producto vegano?	Helado	Bloques de queso	naan	tofu
+355419	Comida	1	¿Qué término francés se usa para indicar que un postre se sirve con un aderezo, generalmente helado?	Por favor	Trenza Si Vous	E Pluribus Unum	A la moda
+72659	Comida	1	¿Los italianos han sembrado fama en todo el mundo por usar cuál de estos en su comida?	Especia de curry	Harina de maíz	Caldo de pollo	Hierbas
+88352	Comida	1	¿Cuál de estos no es un tipo de nuez?	Pistacho	Almendra	Pacana	Moca
+1DIFF26	Comida	1	¿Qué adición de alimento sabroso y maloliente viene en los clavos?	Grano de pimienta	Rosas	Cilantro	Ajo
+1DIFF10	Comida	1	¿Alguien que es intolerante a la lactosa tiene problemas para procesar qué?	Alcohol	Cosas picantes	Nueces de árbol	Lechería
+294743	Comida	1	En la cocina italiana, ¿cómo se llaman las pequeñas albóndigas de patata?	Espaguetis	Macarrones	Pasta linguini	Ñoquis
+218193	Comida	1	¿Qué tipo de pavo compraron la mayoría de los estadounidenses para el Día de Acción de Gracias en la década de 1990?	Fresco	Pecho	Hamburguesas	Congelado
+12086	Comida	1	¿Qué se agrega a algunos tipos de pasta para hacerlas verdes?	Jugo de lima	Recortes de césped	Piel de rana	Espinacas
+218219	Comida	1	¿Cuántas onzas líquidas componen medio galón?	32	dieciséis	29	64
+12114	Comida	1	¿Qué alimento es libre de grasas y rico en vitamina C y potasio?	Pancho	Pizza	Hamburguesa	Patata
+355413	Comida	1	¿Qué fruta se suele considerar hortaliza y se cultiva desde hace más de 5000 años?	Lima	Sandía	Plátano	Aceituna
+218189	Comida	1	¿Qué tipo de plato es una "chowder"?	Estofado	Vegetal	Asado	Sopa
+1DIFF30	Comida	1	¿Qué planta crujiente y salada se asocia con el sushi?	Rúcula	Espinacas	Cilantro	Algas marinas
+40154	Comida	1	La tarta de lima es solo una tarta de lima si está hecha de limas cultivadas en qué ciudad.	Dallas, Texas	Atlanta, Georgia	La Habana Cuba	Cayo Hueso Florida
+90111	Comida	1	¿A qué grupo de alimentos pertenecen la avena, el arroz integral y el trigo integral?	Grupo de frutas	Grupo cárnico	Grupo de vegetales	Grupo de cereales
+1DIFF09	Comida	1	¿Se agrega rábano picante para proporcionar qué tipo de sabor?	Sabroso	Salado	Dulce	Picante
+12098	Comida	1	¿Qué influencia de la religión significa que muchos platos indios son vegetarianos?	islam	judaísmo	cristiandad	hinduismo
+318058	Comida	1	¿Cómo se llama champán mezclado con jugo de naranja?	Malibú	Brisa marina	Destornillador	Mimosa
+191596	Comida	1	¿Dónde se originó la jambalaya?	México	Texas	Cuba	Nueva Orleans
+294715	Comida	1	¿Qué vegetal no estaría fuera de lugar en una pizza o en un burrito?	Repollo	Rábano	Espinacas	Pimiento
+356885	Comida	1	¿Cuántas onzas líquidas hay en una taza?	12	44	dieciséis	8
+5461	Comida	1	¿Qué se usa para hacer hummus?	Lechuga	Tomates	Apio	Garbanzos
+1DIFF14	Comida	1	¿Qué se agrega a la cerveza de raíz para convertirla en una cerveza flotante?	Jarabe aromatizado	Partículas antigravedad	Ron	Helado
+1DIFF18	Comida	1	¿Cuántas donas hay en una docena de panaderos?	9	6	10	13
+413487	Comida	1	¿Qué grasa se usa en lugar de mantequilla en gran parte de la preparación de alimentos del sur de Italia?	Mantequilla de maní	Agua	Margarina	Aceite de oliva
+1DIFF31	Comida	1	¿Qué significa IPA con respecto a la cerveza?	Verteré por todos	Ataque al paladar intolerable	Ick, alcohol pútrido	cerveza pálida India
+1DIFF05	Comida	1	¿La tostada francesa es pan de molde sumergido en qué?	Queso	Granola	sal	Huevos
+415778	Comida	1	¿Dónde se originó el condimento "jerk"?	Nueva York	Hawai	Gran Bretaña	Islas del caribe
+FTUXPIC128	Comida	1	¿Qué tipo de sándwich es este?	Joe descuidado	Filete de queso	Calzone	Panini
+1DIFF08	Comida	1	¿El relish es un condimento hecho de qué?	Olivos	Frijoles	Queso	Pepinillos
+89040	Comida	1	¿Cuál de las siguientes no es una forma de pasta?	Pasta linguini	Pasta	Ziti	Mascarpone
+294568	Comida	1	¿Qué fruta lleva el nombre de un ave no voladora?	Plátano	Frambuesa	Aguacate	kiwi
+355411	Comida	1	¿Cuál de estas bebidas no contiene alcohol?	Cherry Bang	Mujer Rosa	Smokey mayo	Shirley Temple
+355669	Comida	1	¿Qué alimento / bebida es más eficaz para despertar a un ser humano?	manzana	Zumo de naranja	Helado	café
+413717	Comida	1	¿Qué comida mexicana no se suele servir en el desayuno?	Platón De Frutas	huevos rancheros	Huevos A La Mexicana	Tacos
+1DIFF13	Comida	1	¿Cómo se llama una comida griega tipo sándwich de cordero en pan de pita, con salsa tzatziki?	Brocheta	Filete de queso	hummus	Gyro
+1DIFF03	Comida	1	¿El verde, el negro, el gris Earl y la manzanilla son todos tipos de qué bebida?	Cacao	Jugo	Cerveza	Té
+355415	Comida	1	¿Qué verdura viene en variedades picantes y no picantes?	Repollo	Remolacha	Zanahorias	Pimientos
+FTUXPIC146	Comida	1	¿Qué tipo de fideos son estos?	Ravioles	Macarrones	Cabello de ángel	Udon
+39635	Comida	1	¿Qué deben hacer las personas para mantenerse saludables?	Come comida chatarra todos los días	Manténgase alejado del ejercicio	Ir al dentista una vez cada cinco años	Coma una variedad de alimentos
+355661	Comida	1	¿Qué es el sake japonés?	Arroz	Pescado	filete	Vino de arroz
+FTUXPIC123	Comida	1	¿Qué artículo parecido a una pizza es este?	Junquillo	Cuerno	Plato hondo	Calzone
+355417	Comida	1	¿Cómo se llama el café mezclado con whisky y cubierto con crema batida?	Capuchino	Luger	Té escocés	Café irlandés
+12100	Comida	1	¿Qué tipo de verdura es un pimiento?	Patata	Squash	Cebolla	Hortaliza
+218294	Comida	1	¿De qué animal proviene el venado?	Caballo	Oveja	Vaca	Ciervo
+58188	Comida	1	¿Qué criatura de jardín se conoce en Francia como "escargot"?	Lagartija	Tortuga	Babosa	Caracol
+67061	Comida	1	¿Qué carne no se puede hacer kosher?	Carne de vaca	Pollo	Cordero	Cerdo
+49472	Comida	1	¿Qué es un puerro?	Una papa bebé	Una fruta exótica de Samoa	Un corte de carne muy tierno	Una cebolla suave
+300169	Comida	1	¿Un "frappé" es una bebida que siempre contiene qué ingrediente?	Cerezas	Reajuste salarial	Leche	Hielo picado
+75720	Comida	1	¿En qué tipo de cocina se encuentra principalmente un tomatillo?	chino	griego	japonés	mexicano
+12075	Comida	1	¿De qué grupo de alimentos forma parte el yogur?	Grupo de vegetales	Grupo cárnico	Grupo de frutas	Grupo lácteo
+FTUX64	Comida	1	¿Cuál es la especia más popular del mundo?	Cilantro	Clavo	eneldo	Pimienta
+90433	Comida	1	¿Qué ingrediente no se encuentra comúnmente en la ensalada César clásica?	Anchoas	Crutones	Aceite de oliva	Tocino
+11487	Comida	1	¿Cuál de los siguientes es un tipo de cebolla dulce?	Móvil	Ingeniero	Música	Vidalia
+94003	Comida	1	¿Qué es el caviar?	Huevos de ballenas rusas	Huevos De Ostras	Huevos de almejas rusas	Huevos de esturiones
+413243	Comida	1	¿Cómo distinguían los primeros nativos americanos la buena comida de la comida venenosa en la naturaleza?	Prueba y error	Llevaron un kit de prueba especial que inventaron	Hicieron que sus esposas lo probaran primero	Observaron a los animales
+FTUXPIC132	Comida	1	¿Cómo se llama este alimento para el desayuno?	Sashimi	Crepe	danés	Quiche
+13814	Comida	1	En Estados Unidos, ¿qué tipo de carne se sirve tradicionalmente en las celebraciones de Acción de Gracias?	Pollo	ganso	Hamburguesa	pavo
+1DIFF12	Comida	1	¿Cómo se llama un sándwich grande hecho con una barra de pan entera?	Junquillo	Gyro	Deslizador	Sub
+191582	Comida	1	Si tuvieras hambre de un Wiener Schnitzel, ¿qué estarías deseando?	Chucrut	Arenque tostado con ajo	Conejo asado	Filete de ternera frito
+294740	Comida	1	¿Qué tipo de carne es el prosciutto?	Pollo	Carne de vaca	Ternera	jamón
+69191	Comida	1	¿Qué comida inmortaliza el poema sobre su destreza musical y su capacidad para hacerte sonar?	Hígado	Burrito	Repollo	Frijoles
+88384	Comida	1	¿Qué es "Coq au Vin"?	Huevos Con Setas	Pollo Con Brie	Huevos Con Brie	Pollo Con Vino
+1DIFF07	Comida	1	Nutella es qué tipo de producto alimenticio?	CCrea agria	Mayonesa	Mantequilla de maní	Crema de avellana con chocolate
+12069	Comida	1	¿Cómo llamas a la semilla en medio de una cereza?	Núcleo	Vástago	Cáscara	Pozo
+218228	Comida	1	¿Qué son los ñoquis?	Una verdura italiana	Un postre mexicano	Un pez encontrado en el Atlántico norte	Albóndigas De Patata Y Pasta
+191628	Comida	1	¿Cuál de los siguientes alimentos japoneses se fríe tradicionalmente?	Sashimi	Udon	Soba	Tempura
+1DIFF11	Comida	1	¿Cómo se llaman los trozos de pan crujientes que se agregan a la ensalada?	Bagels	Baguettes	alcaparras	Crutones
+1DIFF04	Comida	1	Las tortillas normalmente se hacen con harina o ¿qué?	Césped	Arroz	Chocolate	Maíz
+36304	Comida	1	¿Qué fruta se usa para hacer ciruelas pasas?	Uvas	Plátanos	Cerezas	Ciruelas
+356926	Comida	1	¿Qué porcentaje de estadounidenses comen pavo en Acción de Gracias?	Estimado al 7%	Estimado en 66%	Estimado en 46%	Estimado al 95%
+FTUXPIC139	Comida	1	¿Qué es este popular plato coreano?	Soba	Yakitori	Flauta	kimchi
+1DIFF16	Comida	1	¿Cuáles son los tres sabores del helado napolitano?	Miel, lavanda, caramelo	Té verde, café, ron con pasas	Rocky Road, menta, pistacho	Fresa, Vainilla, Chocolate
+355412	Comida	1	¿Cuál de estos no es un tipo de queso?	queso Cheddar	parmesano	Gouda	Rotini
+356904	Comida	1	¿Cuál de los siguientes no es un tipo de queso?	Gouda	americano	queso Cheddar	parisino
+96732	Comida	1	¿Qué tipo de pasta tiene forma de sacacorchos?	Ravioles	Cabello de ángel	Fettucina	Rotini
+42324	Comida	1	¿Cuál de estos alimentos es una buena fuente de calcio?	Plátanos	Pomelo	Hamburguesa	Queso
+191589	Comida	1	¿Cuál es el nombre italiano del plato conocido en inglés como "papilla de harina de maíz"?	Ricotta	risotto	Pappardelle	Polenta
+191575	Comida	1	¿Qué vegetal puede venir en rojo brillante, verde, amarillo anaranjado o morado?	Zanahorias	Maíz	Lechuga	Pimientos
+1DIFF24	Comida	1	¿Qué tipo de producto fabrica Ben and Jerry's?	Mostaza	Salsa	Espíritu	Helado
+37875	Comida	1	¿Qué tipo de pasta sería difícil de ensartar en un collar?	Pasta	Ruedas de carro	Macarrones	Fideos de lasaña
+416494	Comida	1	¿Cuál de los siguientes se encuentra en un menú de desayuno tradicional mexicano?	Harina de avena	Croissants	Amuletos de la suerte	huevos rancheros
+191587	Comida	1	¿"Creme de Abacate" es un postre brasileño elaborado con qué fruta verde?	kiwi	Lima	Uva	Aguacate
+12083	Comida	1	¿Cuál de estos alimentos tiene más azúcar agregada?	Macarrones con queso	Mantequilla de maní	Bagel Y Queso Crema	Helado de Cookies 'N Cream
+10002	Comida	1	Ricotta es italiana ... ¿qué?	Vino dulce	Plato de pasta	Jamon Seco	Queso suave
+294618	Comida	2	Julia Child es mejor conocida por cocinar ¿qué tipo de cocina?	Cajún	Americano colonial	asiático	francés
+67430	Comida	2	¿Qué es Garam Masala?	Una cuchara medidora	Un vino de postre italiano	Hierba hecha de hojas secas trituradas de la vid	Una mezcla de especias
+40247	Comida	2	¿Qué carne se utiliza para el clásico escalope de salchicha?	Cerdo	No importa	Cordero	Ternera
+12080	Comida	2	¿Cómo se llama una golosina azucarada, disponible en los EE. UU. que se originó en España?	Barras de estrellas	Turrón	Dobos Torte	churros
+349519	Comida	2	¿Cuál es otro nombre para "chick peas"?	Judías blancas	Frijoles niña	Frijoles negros	Garbanzos
+318081	Comida	2	¿Qué se hace con el colinabo?	Póntelo	Juega con ello	Saludarlo	Cometelo
+218433	Comida	2	¿Qué tipo de cocina se puede esperar encontrar en una "churrascaria" brasileña?	Guisos y sopas a base de pescado	Pasteles y dulces	Ensaladas	Carnes a la brasa
+93282	Comida	2	¿Qué comida japonesa popular tiene curry frito envuelto en un trozo de masa?	Ramen al curry	Langostinos al curry	Curry Oden	Pan de curry
+36477	Comida	2	¿Cuál es el ingrediente principal del producto alimenticio británico "Marmite"?	Extracto de carne	Goteo de cerdo	Cuajada de frijoles	Extracto de levadura
+57900	Comida	2	¿De qué país proviene el plato biryani?	Italia	pavo	México	India
+81034	Comida	2	¿Qué sabor tiene el licor Creme de Noisette?	Anacardo	Nuez	Aceituna	Avellana
+294722	Comida	2	¿Qué no es una galleta de Girl Scouts?	Mantecada	Sándwich de mantequilla de maní	Mentas finas	Ahoys
+355542	Comida	2	¿Qué parte del pollo se usa para hacer "Chicken Parmigiana"?	Pierna	Muslo	Ala	Pecho
+88336	Comida	2	¿Qué condimento multiusos se sabe que ayuda a revitalizar el cabello?	Mostaza	Salsa de barbacoa	Salsa de tomate	Mayonesa
+356458	Comida	2	¿Cómo se llama el platillo mexicano hecho de una tortilla rellena de queso derretido y doblada por la mitad?	Burrito	Taco	Nachos	Quesadilla
+191599	Comida	2	¿Qué marca de té posee Unilever?	Tazo	Condimentos celestiales	Nestea	Lipton
+355409	Comida	2	¿Qué produce el sabor del jarabe de arce?	Un aditivo aromatizante	Aire del bosque	Azúcares añadidos	Cocinar el almíbar
+355418	Comida	2	¿Qué hay en succotash?	Arvejas y zanahorias	Frijoles Lima Y Zanahorias	Maíz y zanahorias	Frijoles Lima Y Maíz
+300137	Comida	2	¿Qué te servirían en un restaurante japonés si pidieras "Unagi"?	Glutamato monosódico (MSG)	Calamar de Monterrey	Anguila a la parrilla servida sobre arroz	Anguila de agua dulce
+349520	Comida	2	¿Un "ceviche" contiene trozos de pescado con qué preparación?	Frito	Horneado	A la parrilla en un palo	Crudo
+415306	Comida	2	¿Qué empresa fabrica la barra Butterfinger?	Wonka	Hershey	Marte	Nestle
+347930	Comida	2	¿Qué es marsala?	Un vino agrio	Una bebida mezclada	Un vino blanco seco	Un vino dulce
+300153	Comida	2	¿Cómo se llama una bebida fría a base de arroz y almendras?	Churro	Burrito	Menudo	Horchata
+48181	Comida	2	¿Qué son los "Ángeles a caballo"?	Coliflor En Salsa Crema	Arroz servido en empanadas de carne	Papas colocadas sobre una cama de espinacas	Ostras envueltas en tocino
+96731	Comida	2	¿Qué NO se usa en la elaboración del guacamole tradicional?	Cebollas	Aguacate	Cilantro	CCrea agria
+232748	Comida	2	¿Qué es un bistec "natural"?	La carne es orgánica	La carne no recibió antibióticos	La carne de res no recibió hormona de crecimiento	No se agregaron aditivos, colorantes ni conservantes
+355545	Comida	2	¿Cuál de estos alimentos tarda más en echarse a perder?	Galletas	Anacardos	Pasta	Miel
+416263	Comida	2	¿Qué bebida hecha con triple sec, ron claro / oscuro y jugos lleva el nombre de un monstruo no muerto?	Vudú	Frankenstein	Vampiro	Zombi
+412916	Comida	2	Un destornillador se convierte en un tornillo difuso cuando ¿qué se agrega?	Dulce y amargo	Licor de melón	Ginebra	Licor de duraznos
+100266	Comida	2	¿Qué plato de comida italiana se rellena con carne?	Fettuccine Alfredo	Pasta Primavera	Mozzarella Marinara	Spaghetti a la boloñesa
+416499	Comida	2	¿Qué te servirían en un restaurante japonés si pidieras "Anago"?	Wonton relleno	Lubina Rayada, Pez De Roca	Almeja de concha de navaja	Congrio
+72974	Comida	2	¿Cómo se llama la varilla giratoria en la que se cocina un artículo "asador"?	Brocheta	Lucio	Polo	Espada
+356416	Comida	2	¿Cómo se llama un plato que es una combinación de carne de cerdo en rodajas y fideos blandos?	Carne de cerdo Chow Mein	Carne de cerdo Moo Shu	Arroz frito de puerco	Carne de cerdo Lo Mein
+355611	Comida	2	¿Qué es una savina roja?	Una nuez	Un pez tropical	Un tipo de sándwich	Un pimiento picante
+356730	Comida	2	De los siguientes, ¿cuál es un término que se refiere a derretir y enfriar el chocolate para hacer dulces?	Caramelo	El proceso de Bunson	Jaspeado	Templado
+88503	Comida	2	Mascarpone es italiano ... ¿qué?	Queso de búfalo duro	Vino dulce	Pasta en forma de espiral	Queso Crema Suave
+189520	Comida	2	¿Cuál es la traducción al inglés del popular plato indio "murgh makhani"?	Curry de Cordero	Pollo al horno	Verduras mixtas	Pollo de mantequilla
+13822	Comida	2	Los restaurantes Hardees también se llaman ¿cómo en ciertos estados?	Jr de Carla	Pal's Jr	Cam's Jr	Carl's Jr
+88385	Comida	2	¿Qué ingrediente no encontrarás en los antipasti?	Queso	Pimientos	Fiambres	Pasta
+226006	Comida	2	¿Qué comen los judíos en el Día de la Expiación?	Pescado relleno	Kreplachs	Sopa de bolas de matzá	Nada, ellos ayunan
+57639	Comida	2	¿Qué fruta solía llamarse la "manzana del amor"?	Maracuyá	fresa	manzana	Tomate
+282662	Comida	2	En cocina, ¿qué significa "etoufee"?	Con salsa	Hervido	Con arroz	Sofocado
+416900	Comida	2	¿Qué especie de cangrejo vive dentro de un caparazón?	Cangrejo de herradura	Cangrejo guisante	Cangrejo Araña Espinoso	Cangrejo ermitaño
+294609	Comida	2	¿Qué tipo de instrumento se utilizó por primera vez para cocinar Kentucky Fried Chicken en el restaurante?	Una sartén	Una olla de barro	Una freidora	Una olla a presión
+355502	Comida	2	¿Cómo se llama la salsa que tradicionalmente acompaña al souvlaki?	menta	hummus	Taratoor	Tzatziki
+88349	Comida	2	¿Cuál es la forma más fina de pasta recta disponible comúnmente?	Fettuccini	Ñoquis	Espaguetis	Capelli D'angelo
+41175	Comida	2	¿Qué bocadillo se vende con el nombre español "Chicharrones"?	Alitas de pollo	Rizos de queso	Pretzels	Cortezas de cerdo
+356910	Comida	2	La salsa de mole mexicano se elabora mezclando lo que normalmente es una sustancia dulce con chiles y especias.	Crema batida	Canela	Caramelo	Chocolate
+39535	Comida	2	¿Qué producto animal come un ovo-vegetariano?	Pollo	Pescado	Lechería	Huevos
+11485	Comida	2	¿Qué especia combina los sabores de la canela, el clavo, la nuez moscada, el enebro y la pimienta?	Mezcla de especias	Mazo	Anís estrellado	Pimienta de Jamaica
+75730	Comida	2	Un ganache es una combinación de crema y ¿qué?	Huevos	Mantequilla	Queso	Chocolate
+254934	Comida	2	¿Cuál es la fruta cítrica más pequeña?	Pomelo	naranja	Limón	Naranja china
+318077	Comida	2	¿Cuáles son los dos ingredientes principales del plato escocés "stovies"?	Carne de res y arenque	Tocino y huevos	Patatas Y Nabo	Papas y cebollas
+100267	Comida	2	¿Qué hace que aparezcan burbujas en la cerveza?	Lúpulo interactuando con el aire	Bicarbonato de sodio	Partículas de vapor	Carbonatación natural
+356899	Comida	2	¿De qué está hecha la bebida india conocida como "lassi"?	Té	Agua	Naranjas	Yogur
+415998	Comida	2	Si pidieras "chili con queso" en un restaurante mexicano, ¿qué llevaria aparte de pimientos y tomates?	Tortillas de maiz	Ajo	Cebollas	Queso
+31145	Comida	2	¿Cuál de estos condimentos tiene anchoas?	Mayonesa	Mostaza de Dijon	Salsa	Salsa Worcestershire
+13821	Comida	2	¿Qué bebida de café combina una parte de espresso con tres partes de leche al vapor?	Café con leche	Latte Macchiato	Café Italiano	Café latte
+355512	Comida	2	¿Qué queso, llamado así por una ciudad italiana, sabe como un cruce entre Cheddar y Parmesano?	Ricotta	Queso feta	Pepato	Asiago
+294806	Comida	2	¿Qué especia se elabora con las semillas de la planta cuyas hojas se llaman cilantro?	eneldo	Alcaravea	Nuez moscada	Cilantro
+374648	Comida	2	¿Qué fruta es la nariz de San Nicolás?	Uva	ciruela	Pasa	Cereza
+294797	Comida	2	¿Qué es el seitán?	Un raro pez de agua dulce	Un plato de carne a la parrilla servido con salsa de maní	Un espesante para sopas y guisos	Un sustituto de la carne a base de gluten de trigo
+350046	Comida	2	¿Cuáles son los ingredientes tradicionales de una "Margarita" mexicana?	Tequila, agua con gas, jugo de limón verde	Tequila, Limonada, Vodka	Tequila, Triple Seco, Midori	Tequila, Triple Seco, Zumo de Lima
+88048	Comida	2	¿En qué producto alimenticio se envuelven los tradicionales "tamales" mexicanos?	No están envueltos en nada	Tortillas de harina	Tortillas de maiz	Hoja de maíz
+295604	Comida	2	¿Qué baya africana elimina la acidez de los limones y las limas?	Mora	Frambuesa	Arándano	Fruta milagrosa
+416189	Comida	2	Si pidieras "Tako" en un restaurante japonés, ¿qué te servirían?	Tallarines De Gelatina De Frijoles	Calamar	Jengibre en escabeche rojo	Pulpo
+355555	Comida	2	¿Cuál es otro nombre para el pan de bolsillo?	Pan de trigo	Bagels	Rollo francés	Pan pita
+415755	Comida	2	¿Qué tipo de pescado es un manjar peligroso para los amantes del sushi si no se prepara correctamente?	Tiburón	Medusa	Estrella de mar	Pez globo
+294683	Comida	2	¿Qué alimento se conoce como alimento para el cerebro?	ostras	Ternera	Pollo	Pescado
+294571	Comida	2	Si pidieras "Soba" en un restaurante japonés, ¿qué te servirían?	Semillas de sésamo blanco	Especias picantes mixtas	Almeja de berberechos	Tallarines De Alforfón
+415664	Comida	2	¿Qué te servirían en un restaurante japonés si pidieras "Unagi maki"?	Especias picantes mixtas	Congrio	Semillas de sésamo negro	Rollo de anguila
+31922	Comida	2	Si pidieras "Daikon" en un restaurante japonés, ¿qué te servirían?	Carne de cangrejo falsa	Sacos de esperma del bacalao	Quelpo	Rábano blanco largo
+55962	Comida	2	¿Qué tipo de comida es "satay"?	Sopa malaya de carne y maní	Brochetas de Verduras, Salsa de Maní	Sopa Malaya De Carne Y Zanahorias	Brochetas de carne, salsa de maní
+17102	Comida	2	¿De qué fruta está hecha la granadina?	Cerezas	Nectarinas	Guayabas	Granadas
+294651	Comida	2	¿Cuál es otro nombre para el filete de lomo?	Solomillo	T-Bone	Mesón	Filet Mignon
+355602	Comida	2	¿Qué proporciona el sabor amargo a la sopa agria y picante tradicional china?	Lima	Salsa de pescado	Limón	Vinagre
+96947	Comida	2	¿Cuál de los siguientes quesos se inventó en Grecia?	queso Brie	queso Cheddar	Gouda	Mizithra
+294781	Comida	2	El ceviche mexicano se elabora marinando pescado crudo en qué tipo de líquido?	Leche	Jugo de tomate	Cerveza	Jugo de lima
+88343	Comida	2	Si pide un vino en un restaurante francés, ¿cómo probablemente lo servirán?	Por el tiro	Con azúcar y canela	En una taza de porcelana adornada	En una jarra
+256505	Comida	2	Tradicionalmente en un restaurante americano, ¿en qué orden se presentan los platos?	Pan, sopa, aperitivo, ensalada, plato principal	Aperitivo, Sopa, Ensalada, Pan, Entrante	Aperitivo, Pan, Ensalada, Sopa, Entrante	Pan, Aperitivo, Sopa, Ensalada, Entrante
+416261	Comida	2	¿Cómo se llama el arroz tradicional español cocinado en una sartén grande?	Tortilla	Fritatta	Pavlova	Paella
+294658	Comida	2	¿Qué baya es conocida por su capacidad para aliviar la cistitis?	fresa	Frambuesa	Cereza	Arándano
+413758	Comida	2	¿Cómo se llama la tradicional barra de pan larga y delgada que se sirve en Francia?	Bateau	Batard	Bredette	Baguette
+12103	Comida	2	¿Fénix y Dragón se conoce como qué alimento?	Un pastel de postre chino	El regalo de la hora del té para niños en Inglaterra	Una sopa japonesa	Un plato chino de mariscos y pollo
+300144	Comida	2	¿Cuál de las siguientes es una salsa para pasta italiana hecha con vino y tomates?	Alfredo	Salsa de queso	pesto	Boloñesa
+415777	Comida	2	¿Qué tipo de carne usarías para el estofado irlandés?	Cerdo	Ternera	Carne de vaca	Cordero
+36384	Comida	2	¿Cuál de los siguientes es el ingrediente principal del falafel?	Arroz	Lentejas	Cerdo	Garbanzos
+324990	Comida	2	¿Qué significa el término italiano "Al Dente" con respecto a la pasta?	Hecho en casa	Cocinado perfectamente	No puedo abollarlo	A los dientes
+355558	Comida	2	¿Cuál de los siguientes es un vino blanco?	Chianti	Beaujolais Nouveau	Pinot Noir	Pinot Grigio
+355498	Comida	2	¿Qué es lo más probable que encuentre en las "Boulangeries" francesas?	Café con leche	Salmón a la parrilla	Steak Tartar	Croissants mantecosos
+355665	Comida	2	¿Qué cola de dieta popular apareció por primera vez en 1962?	Rito de la dieta	Coca de dieta	Dieta Dr Pepper	Lengüeta
+53089	Comida	2	¿Cuáles son los ingredientes alimentarios del ganache?	Un bizcocho francés clásico	Chocolate derretido mezclado con cera de parafina	Crema batida y azúcar, batida	Crema batida y chocolate derretido
+415549	Comida	2	¿Cuál es la comida más consumida en China?	Pollo	Tallarines	tofu	Arroz
+12073	Comida	2	¿Qué guiso de frijoles y cerdo se conoce como plato nacional de Brasil?	Capirinha	Farofa	Goiabada	Feijoada
+193935	Comida	2	¿Qué artículo es un fideo a base de papa?	Rotini	Farfalle	spaetzle	Ñoquis
+92772	Comida	2	¿El té se originó en qué país hace más de 5000 años?	Japón	Inglaterra	India	China
+356453	Comida	2	¿Por qué debería dejar "reposar" un asado antes de servirlo?	Para bajar las calorías	Es más fácil de tallar	Crea una corteza sabrosa	Para que los jugos se esparzan
+228566	Comida	2	¿Cómo se llama la articulación inferior de la pierna de un pollo?	Winglet	Muslo	Mando	Palillo de tambor
+11486	Comida	2	¿Qué hace agregar jugo de limón al agua para cocinar la coliflor?	Hacer la coliflor espesa	Convierte la coliflor en un color amarillento	Mantenga la coliflor crujiente	Mantenga la coliflor blanca
+350060	Comida	2	En la cocina italiana, ¿qué son salvio, timo, prezzemolo y basilico?	Tipos de carne	Vinos de postre	Quesos regionales	Hierbas de uso común
+294719	Comida	2	¿Cómo se llama el general que lleva su nombre a un plato chino muy popular?	Hu	Cortejar	Abadejo	Tso
+295614	Comida	2	¿Qué tipo de trucha se encuentra más comúnmente disponible en los EE. UU.?	Trucha de arroyo	Trucha marrón	Trucha azul	Trucha arcoiris
+317843	Comida	2	¿Cuál es otro nombre para los frijoles de mantequilla?	Frijoles blancos	Frijoles pintos	Frijoles rojos	Habas
+355548	Comida	2	¿Qué pasta italiana es la versión más grande de la pasta ziti?	Zamboni	Macarrones	Barcelona	Zitoni
+349541	Comida	2	¿Qué se usa para cocinar ceviche?	Una sartén aceitada	Una caldera doble	Un Bar-B-Que Grill	Jugo de lima
+12074	Comida	2	¿Qué es un "brioche"?	Plato de carne	Sopa	Tortita	Tipo de bollo
+256680	Comida	2	Queso mascarpone, bizcochos y espresso son ingredientes en qué postre italiano?	Tartufo	Biscotti	Helado	Tiramisu
+12081	Comida	2	¿Qué tipo de vino no se enfría antes de servir?	Sonrojo	Zinfandel	champán	rojo
+356750	Comida	2	¿Cuál de estos artículos no es un plato de fideos japonés?	Soba	Ramen	Udon	Gomaae
+295639	Comida	2	¿Qué es Lapsang Souchong?	Salsa de cebolla	Pollo Orgánico	Ternera	Té negro
+416636	Comida	2	¿Dónde viven las langostas?	En áreas costeras de mareas	En estanques poco profundos	En arrecifes de coral	En el fondo del océano
+88351	Comida	2	¿Cuál de los siguientes no estaba incluido en el menú de Red Lobster en 2006?	Camarones Palomitas De Maíz	Ensalada de pollo con manzana y nueces	Camarones Jumbo Parrot Bay Coconut	Tiburón martillo a la parrilla
+55319	Comida	2	¿Qué salsa se hace agregando vino blanco, vinagre y estragón a la salsa holandesa?	Besamel	Mayonesa	Mornay	Bernaise
+13815	Comida	2	Si ordenaras "Kani" en un restaurante japonés, ¿qué te servirían?	Almeja roja	Jengibre en escabeche rojo	Atún graso	Carne de cangrejo
+300158	Comida	2	¿Qué se come con la mayoría de las comidas alemanas que no se considera guarnición?	Wurst	Huevos	Queso	Un pan
+294741	Comida	2	¿Cuál de estas es una marca popular de bourbon que lleva el nombre de un pájaro?	Ganso gris	Vejestorio	Cardenal	Pavo salvaje
+416547	Comida	2	¿Cuál es la forma de caviar más cara?	Osruga	Sevruga	Putrasa	Beluga
+214482	Comida	2	¿Cuál de las siguientes frutas se cultiva en una vid y se cosecha inundando su campo?	ciruela	Cereza	Uva	Arándano
+294748	Comida	2	El alcohol que se encuentra en el vino, la cerveza y los licores se llama alcohol de grano o ¿qué?	Plenol	Colomol	Metanol	Etanol
+80007	Comida	2	¿Qué verdura se encuentra en "Chicken Divan"?	Espárragos	Coliflor	Maíz	Brócoli
+294572	Comida	2	¿Cuál de estos es menos probable que esté en una receta de lasaña?	Mariscos	Carne de vaca	Espinacas	Plátanos
+416913	Comida	2	Si ordenaras "Fugu" en un restaurante japonés, ¿qué te servirían?	Concha	Pulpo	Especias picantes mixtas	Pez globo
+294724	Comida	2	¿Qué es la mantequilla dulce?	Mantequilla endulzada con azúcar	Mantequilla hecha de manzanas	Mantequilla endulzada con miel	Mantequilla sin sal
+89972	Comida	2	¿Cuál de las siguientes bayas es venenosa?	Arándanos	Fresas	Moras	Bayas de jazmín
+218447	Comida	2	¿Qué chef famoso creó el restaurante Spago's de renombre mundial?	Emeril Lagasse	Mario Batali	Julia Child	Wolfgang Puck
+218208	Comida	2	¿Las hierbas son las hojas de qué tipo de plantas de bajo crecimiento?	Flores	Árboles	Vides	Arbustos
+296172	Comida	2	¿Qué comida japonesa se elabora con pollo?	Wakame	Sashimi	Gyoza	Yakitori
+356406	Comida	2	¿Cuál de los siguientes peces es un pez plano?	Salmón	Camarón	Anguila	Hipogloso
+62506	Comida	2	¿Qué cadena alimentaria se enorgullece de sus variedades de batidos, incluido un batido de "chocolate caliente"?	McDonald's	Applebee's	Burger king	Bistec y batido
+12084	Comida	2	¿Qué es "Vichyssoise"?	Arroz español	Helado italiano	Un tipo de inmersión de chips	Sopa Francesa Fría
+5469	Comida	2	¿De qué están hechos los callos?	Orejas de cerdo	Colas de cordero	Colas de buey	Estómagos de vaca
+318073	Comida	2	¿Qué es "Bistecca"?	Cerdo	Pollo	Pato	filete
+51540	Comida	2	¿Qué es la jalea real?	El ingrediente necesario en Royal Gelatin	Una sustancia gelatinosa que se usa para hacer postres	Una savia secretada por las palmeras reales utilizada en salsas	Sustancia fabricada por abejas obreras para alimentar a las abejas reinas
+294836	Comida	2	¿De qué está hecho el poi?	Panapen	Arroz	La patata hawaiana	Raiz de Taro
+350043	Comida	2	¿Cuál de estos no es técnicamente un cangrejo y puede haber existido durante millones de años?	Cangrejos Dungeness	Cangrejos rey	Cangrejos de roca roja	Cangrejos herradura
+93068	Comida	2	¿Dónde se vendió comercialmente por primera vez el té helado?	Inglaterra	India	Canadá	Estados Unidos
+89084	Comida	2	¿Cuál de estos no es un queso italiano?	parmesano	Ricotta	queso Provolone	Velveeta
+356863	Comida	2	En las ceremonias religiosas, ¿qué jugo de fruta suele sustituir al vino?	Jugo de manzana	Jugo de pera	Jugo de arándano	Jugo de uva
+415965	Comida	2	Si quisieras pedir anguila en un restaurante japonés, ¿qué palabra usarías?	Sashimi	Moshi Moshi	Temaki	Unagi
+355676	Comida	2	En la cocina cajún, ¿qué ingredientes se conocen como la "Santísima Trinidad"?	Roux, caldo de pescado, camarones	Tabasco, Pan De Maíz, Okra	Crawdads, Cayenne Peppers, Cerveza	Apio, Cebolla, Pimiento Morrón
+416908	Comida	2	Si te sientas a cenar en París y comienzas con "pain" y "fromage", ¿qué estás comiendo?	Galletas Y Sopa De Cebolla	Queso y vino	Caracoles Y Mantequilla De Ajo	Pan y queso
+300163	Comida	2	¿Qué nombre popular de sopa china significa "tragarse una nube"?	Gota de huevo	Picante y amargo	Arroz chisporroteante	Won Ton
+294732	Comida	2	¿Qué tipo de cocina ofrece Dim Sum?	japonés	tailandés	polinesio	chino
+294717	Comida	2	¿Cuál es el ingrediente principal de un "Boxty"?	Arroz	Harina	Huevos	Patatas
+375689	Comida	2	¿Cuál de estos no se considera cefalópodo?	Pulpo de anillos azules	Calamar Pijama Rayas	Sepia gigante	Babosa de mar
+356860	Comida	2	¿Cuál es un bien común de la cocina de Bolonia, Italia?	Uvas	Huevos	Pepinillos	Olivos
+416930	Comida	2	¿Cuál es el término francés para un sándwich de jamón y queso a la parrilla?	Sándwich de croque	Sandwiche Fromage	Fromage Boulange	Croque Monsieur
+415723	Comida	2	¿Qué tienes cuando te sirven "gazpacho" en el sur de España?	Un aceite de oliva picante	Pescado asado	Vino frío	Una sopa fría de tomate
+416927	Comida	2	¿Cómo se llama una barra mexicana de hojaldre frita, envuelta en azúcar y servida caliente?	Horchata	Menudo	Topo	Churro
+300151	Comida	2	¿Qué tipo de postre se sirve tradicionalmente en las bodas francesas?	Pastel de vainilla escalonado	Cuenco de crema quemada	Suflé de chocolate	Torre de bocanadas de crema
+218448	Comida	2	¿Qué estilo de cocina del sur de Italia es también el nombre de un tipo de helado?	Napoleón	Helado	Campania	napolitano
+415542	Comida	2	¿Qué edulcorante que se utiliza a veces en la cocina incluye levulosa, dextrosa y una enzima antimoho?	Azúcar	Dulce n bajo	Aspartamo	Miel
+300139	Comida	2	¿En qué consiste el té de manzanilla?	Tallos de arbusto de té	Hojas de menta verde	Virutas de hongos	Flores secas
+355546	Comida	2	¿Jambon es la palabra francesa para qué comida?	Tocino	Salchicha	Costillas de cerdo	jamón
+12095	Comida	2	¿De qué están hechos normalmente los "Knodel" alemanes o bolas de masa hervida?	Arroz	Trigo partido	Frijoles pintos	Puré de papas o pan
+356485	Comida	2	¿Quién es el mayor productor de té del mundo?	India	Estados Unidos	Italia	China
+96180	Comida	2	¿Cuál de las siguientes frutas tiene núcleo?	Arándano	Higo	Limón	Pera
+355416	Comida	2	¿Qué ingrediente se usa para hacer caramelo?	Dulce de chocolate	Sirope de chocolate	Extracto de vainilla	Leche condensada
+88350	Comida	2	¿De qué grano se elabora el pan de centeno?	Trigo	Maíz	Maíz	Centeno
+415898	Comida	2	Si pide un "alimento cubierto y cortado en cubitos", ¿cuál de estos podría ser?	Chop Suey	Pizza	filete	Hashbrowns
+64442	Comida	2	¿Cuál de los siguientes no es un tipo de pasta?	Mostaccioli	Fideos	Rigatoni	Rótula
+88344	Comida	2	¿Qué hace que un martini esté "sucio"?	Vermut	Diluido con hielo	Vodka	Salmuera de oliva
+255114	Comida	2	¿Cuál es el nombre del pan plano que se come con la mayoría de la cocina india?	Shork	Fedge	Talm	naan
+12092	Comida	2	¿Cuál es la cadena de supermercados más grande de EE. UU.?	Albertson	Winn Dixie	A&P	Kroger Co.
+52481	Comida	2	¿La carne de res es la fuente # 1 de qué nutrientes?	Vitamina B12, calcio y proteínas	Zinc, calcio y vitamina C	Vitamina C, Proteína y Calcio	Proteína, zinc y vitamina B12
+415791	Comida	2	¿Calamari están hechos de qué criatura marina?	Pulpo	Tiburón	Erizo de mar	Calamar
+13811	Comida	2	¿Qué tipo de carne proviene de ganado en pastoreo alimentado con pasto orgánico?	Carne de res de grado "A"	Carne de vacuno natural	Carne de res Angus	Carne de res orgánica
+415980	Comida	2	¿Cuál de estas frutas tiene semillas que no deberías comer?	Guayaba	Maracuyá	kiwi	melocotón
+355405	Comida	2	¿Qué harías con un cóctel que tuviera Singapur en su nombre?	Lastimarlo	Tíralo	Déjalo caer	Sling It
+93998	Comida	2	¿Cómo se llaman los pasteles indios rellenos de patatas?	Pakoras	naan	Chatney	Samosas
+294687	Comida	2	¿Qué postre italiano es un helado multicolor, a menudo con nueces o frutas incrustadas?	napolitano	Licor de limón italiano	cannoli	Spumoni
+355667	Comida	2	¿Qué carne se encuentra habitualmente en el snack brasileño "coxinha"?	Carne de vaca	Cerdo	Cordero	Pollo
+13813	Comida	2	¿Quién se convirtió en portavoz de "Jell-O" en la década de 1970?	Paul Rodríguez	George Carlin	Howie Mandel	Bill Cosby
+356864	Comida	2	¿Qué hierba se supone que ayuda a mejorar tu memoria?	Cardo de leche	Ginkogen	Vitamina K	Ginkgo biloba
+356473	Comida	2	¿Quién introdujo ganado, como vacas, cerdos, cabras y pollos en la dieta mexicana?	Comerciantes asiáticos	Soldados ingleses	Marineros nórdicos	Exploradores españoles
+355646	Comida	2	Si cocinas unos frijoles mexicanos, ¿qué tienes en la olla?	Pimientos	Tortillas	Cebollas especiadas	Frijoles
+355662	Comida	2	¿De qué ingrediente principal se elabora el helado italiano?	Crema	Yogur	Leche	Agua
+256608	Comida	2	¿Qué queso, elaborado originalmente en Francia, tiene un rico sabor a hongos?	Gouda	queso Edam	Colby	queso Brie
+191600	Comida	2	¿Con cuál de estos se sirve tradicionalmente el plato indio "Cordero pakistaní"?	Cebolla y curry	Pan de patata	Vino Tandoori	Arroz
+415987	Comida	3	¿De qué color es la flor del azafrán de donde proviene el azafrán?	naranja	Escarlata	Limon amarillo	Morado claro
+294588	Comida	3	¿Qué te servirían en un restaurante japonés si pidieras "Una-don"?	Sábalo de molleja	Hígado de rape	Caracoles de agua pequeños	Anguila a la parrilla servida sobre arroz
+356464	Comida	3	¿Qué plato chino popular se inventó realmente en Estados Unidos?	Chow mein	Lo Mein	Rollo de huevo	Chop Suey
+87106	Comida	3	¿Qué tipo de caballa de nombre extraño también se conoce como Ono en Hawái?	Wackawacka	Woowoo	Yahoo	Wahoo
+349536	Comida	3	¿Qué ciudad italiana se considera que produce el mejor vinagre balsámico del mundo?	Siena	Pisa	Asti	Modena
+71125	Comida	3	¿La historia del café se remonta a cuántos años?	150 años	500 años	87 años	Más de 1000 años
+355504	Comida	3	¿Qué significa "dim sum" en español?	Bollos pegajosos	Alimentos en platos pequeños	Buena suerte	Tocar tu corazón
+356479	Comida	3	¿Qué es "Finnan Haddie"?	Bacalao salado	Aleta de tiburón curada	Papa Ahumada	Abadejo ahumado
+294823	Comida	3	¿Cuál de los siguientes cortes de carne se suele marinar para ablandarlo antes de cocinarlo?	Filete T-bone	Filet Mignon	Filete de costilla	Filete redondo
+447524	Comida	3	¿En qué grupo de alimentos encaja un "lassi"?	Carne	Vegetal	Granos	Lechería
+96665	Comida	3	¿Qué pasta se llama así por su parecido con una pluma?	Rigatoni	Orzo	Ravioles	Penne
+294674	Comida	3	¿El "crepe" se originó en qué zona de Francia?	París	Provenza	Burdeos	Bretaña
+218192	Comida	3	¿Qué bebida tiene ginebra de endrinas, jugo de naranja, Southern Comfort y vodka?	Destornillador del sur	Sexo en la playa	Destornillador Phillips	Tornillo cómodo lento
+349989	Comida	3	¿Cuál es el agente aromatizante principal de una salsa Tzatziki griega?	Mostaza	Semilla de apio	Cebolla	Ajo
+300165	Comida	3	¿Qué tipo de pescado se conoce como "hamachi", especialmente en los platos de sushi?	Atún	Salmón	Camarón	Cola amarilla
+191590	Comida	3	¿De qué pescado proceden los caviar beluga, osetra y sevruga?	Salmón	Trucha	Lucio	Esturión
+93710	Comida	3	¿Cuál es el ingrediente principal del plato indio llamado "dhal"?	Frijoles negros	Cordero	Tomates	Lentejas
+232745	Comida	3	¿Quién desarrolló la cerveza de raíz preparada comercialmente?	Roy Hinkley	William Shasta	Harry hamburguesa	Charles contrata
+355618	Comida	3	En Perú, ¿de qué color se cultivan las papas, además de las blancas?	Naranja y verde	Azul y gris	Rosa y chocolate	Morado y negro
+186018	Comida	3	¿Dónde se estableció la primera fábrica de macarrones?	Los Ángeles, California	Springfield, MA	Seattle, WA	Brooklyn, Nueva York
+374746	Comida	3	¿El término italiano "Neapoletana" implica el uso de qué en un plato de comida?	Harina de castaña	Cebada	Vino	Salsa de tomate
+294648	Comida	3	¿Qué te servirían en un restaurante japonés si pidieras "Umeboshi"?	Semillas de sésamo negro	Anguila a la parrilla servida sobre arroz	Pedazos de pescado raspados de los huesos	Ciruela japonesa en escabeche
+300178	Comida	3	¿Cuál de los siguientes es un ingrediente común en el tradicional risotto italiano alla Milanese?	Limón	naranja	fresa	Azafrán
+300190	Comida	3	De las diferentes variedades de vieiras, ¿cuál es la más grande?	Vieira de la bahía	Vieira de lago	Vieira del Golfo	Vieira de mar
+356459	Comida	3	¿En qué año se cultivó el primer cafeto en el primer invernadero europeo?	1875	1812	1492	1715
+416259	Comida	3	¿Las plantas de té nativas se encuentran solo en el sur de China y en qué otra región del mundo?	Chipre	Sri Lanka	Bangladesh	Assam
+95939	Comida	3	¿Qué hay entre el pan en un sándwich club Denny's?	Pavo, Jamón, Lechuga, Tomate	Pollo, Tocino, Lechuga, Tomate	Pavo, Tocino, Tomate	Pavo, Tocino, Lechuga, Tomate
+294786	Comida	3	¿Cómo se llama el gallo en las cajas de "Corn Flakes" de Kellogg?	Flakey	Grua	Cursi	Cornelio
+416153	Comida	3	¿Cuál es el principal agente aromatizante en una salsa Mornay?	Leche	Espárragos	Besamel	Queso gruyere
+300145	Comida	3	¿Qué grupo de pasteles usa el huevo entero como ingrediente principal?	Cereza, arándano y manzana	Crema de plátano, coco y chocolate	Gasa Calabaza, Lima Y Limón	Natillas, Calabaza Y Nuez
+294645	Comida	3	¿Qué te servirían en un restaurante japonés si pidieras "Tarako"?	Rábano picante japonés	Jengibre en escabeche rojo	Collares de cola amarilla	Huevas de bacalao
+49023	Comida	3	¿Qué tipo de comida es "finney fileteado"?	Estofado de bacalao escandinavo	Un corte de cordero	Un tipo de atún europeo	Abadejo ahumado
+355647	Comida	3	¿Qué empresa de dulces compró la cadena Friendly's Restaurant en 1979?	Ghiradelli	Necco	Marte	Hershey
+294764	Comida	3	¿Qué es "Abbacchio"?	Pollo	Cerdo	jamón	Cordero bebé
+88341	Comida	3	¿Con qué ciudad asocia un Wiener Schnitzel?	Munich	Salsburgo	Wiemar	Viena
+294729	Comida	3	¿Qué tipo de queso se elabora a veces con leche de búfala?	parmesano	Gouda	suizo	Queso Mozzarella
+294689	Comida	3	¿Cuál de estas bayas es más suave y dulce cuando está blanca?	Arándanos	Frambuesas	Moras	Arándanos
+217534	Comida	3	¿Qué ingrediente debe tener un plato de pescado o aves para llamarse "Veronique"?	Manzanas	Mayonesa	Huevos	Uvas
+356482	Comida	3	¿Las plantas de café se originaron en qué continente hace más de 1000 años?	Europa	Sudamerica	Asia	África
+355566	Comida	3	¿Qué empresa poseía y controlaba la marca Frito-Lay en 2006?	Coors	Coca Cola	Molinos generales	Pepsico
+300148	Comida	3	¿Cuáles son los 3 ingredientes de la famosa sopa de verduras española fría, Gazpacho?	Salsa, papas y maíz	Vino tinto, chiles y caldo de res	Salchicha De Chorizo, Calabacín Y Arroz	Tomates maduros, pepinos y vinagre
+88460	Comida	3	¿Cuántas secciones tienen los menús tradicionales italianos?	Tres secciones	Una sección	Dos secciones	Cinco secciones
+300149	Comida	3	Si pidieras "Sumitomo" en un restaurante japonés, ¿qué te servirían?	Raíz de jengibre	Caracoles de agua pequeños	Raíces de loto	Ensalada de pepino
+416855	Comida	3	Fuera de Hawái, ¿cuál es el nombre común de Mahi Mahi?	Pez marsopa	Pez ballena	Pez foca	Pez delfín
+318063	Comida	3	¿Qué son los canapés?	Toldos vistos sobre bistrós en la acera	Verduras crudas generalmente servidas con salsa	Similar a los guisantes dulces	Sándwiches pequeños abiertos
+5482	Comida	3	¿Qué especia india que crece en vainas se usa para hacer té chai?	Azafrán	Cúrcuma	Canela	Cardamomo
+81033	Comida	3	¿De qué familia vegetal proviene el brócoli Calabrese?	Familia sueca	Familia de la lechuga	Familia de la espinaca	Familia de la col
+356851	Comida	3	¿Cuál de las siguientes salsas no contiene huevos?	Bearnaise	Creme Anglaise	Holandesa	Veloute
+416863	Comida	3	¿Cuál de los siguientes licores italianos, hecho con pétalos de rosa, se sirve comúnmente con postre?	Jager	Sagne	Rotini	Rosolio
+34104	Comida	3	El té de mantequilla tibetano contiene sal de roca y "dre", ¿qué tipo de mantequilla es?	Cabra	Oveja	Búfalo	Yak
+300183	Comida	3	En un McDonald's en Japón, ¿cuál de estas hamburguesas únicas podrías pedir?	Hamburguesa de sushi	Hamburguesa de arroz	Hamburguesa Tempura	Hamburguesa de pollo y tatuta
+356460	Comida	3	¿Qué provincia de Francia cuenta con muchos platos influenciados por la cocina alemana?	Bretagne	Burdeos	Provenza	Alsace Lorraine
+415681	Comida	3	¿Qué ciudad de Alemania es famosa por su "mazapán" de clase mundial?	Berlín	Mitte	Hamburgo	Lubeck
+338839	Comida	3	¿Qué fruta contiene más vitamina C que las naranjas?	Limón	mandarín	Piña	kiwi
+294716	Comida	3	¿Cuál de estas variedades de pasta es la más pequeña?	Buctani	Pipeta Rigate	Rocchetti	Acini Di Pepe
+447669	Comida	3	¿Qué galletas alemanas impresas se originaron en Baden-Wurttemberg?	Lebkuchen	Galletas de anís	Bademburst	Springerle
+300142	Comida	3	¿Cuál es la palabra brasileña para desayuno?	Petit-Dejeuner	Jantar	Jiorno	Desayuno
+355527	Comida	3	¿Cuál de los siguientes es un uso medicinal del apio?	Analgésico	Antiinflamatorio	Antibiótico	Diurético
+324826	Comida	3	¿Qué queso lleva el nombre de la granja en Dinamarca donde se fabricó por primera vez?	queso Brie	Monterey Jack	queso Provolone	Havarti
+38001	Comida	3	¿Cuántas calorías tiene una hamburguesa con queso de un cuarto de libra, papas fritas grandes y una de 16 oz. refresco de McDonalds?	550 Calorías	750 Calorías	980 Calorías	1,166 Calorías
+3268	Comida	3	¿De qué está hecho el "tahini"?	Semillas de calabaza	Semillas de amapola	Semillas de girasol	Semillas de sésamo
+355630	Comida	3	¿Qué tipo de jugo hay en un cóctel "Salty Dog"?	Piña	naranja	Ninguna de las anteriores	Pomelo
+415827	Comida	3	¿Qué parte de un abulón es comestible?	Sus ojos	La nariz flácida	La cáscara	Su pie musculoso
+295624	Comida	3	¿Cuál de los siguientes ingredientes no se encuentra en una clásica "Ensalada Nicoise"?	Verduras de judías	Nicoise Olives	Atún	Pechuga de pollo a la parrilla
+416884	Comida	3	¿Qué alimento recibe el nombre ingles "octopus"?	Pollo	Repollo	Bisque de verduras	Pulpo
+415477	Comida	3	¿Qué país desarrolló por primera vez el estilo de cerveza Pilsner?	Alemania	Los países bajos	Bélgica	Republica checa
+355576	Comida	3	En términos de cocina, ¿qué es ghee?	Grasa de pollo	Goteos de tocino	Huevos Cocidos	Mantequilla Clarificada
+356861	Comida	3	¿Cuál es la especia que da el color amarillo a la paella?	Pimiento morrón	Pimenton	Curry	Azafrán
+214996	Comida	3	¿Qué te servirían en un restaurante japonés si pidieras "Toro"?	Hueva de salmón	Vegetales en escabeche	Huevas de bacalao	Atún graso
+254992	Comida	3	¿Qué queso mexicano, que se usa para hacer enchiladas, a menudo se enrolla en pimentón para aumentar el sabor?	queso Cheddar	Asadero	americano	Anejo Enchilado
+12096	Comida	3	¿Qué es una compota?	Una salsa hecha con frutas y nueces	Cualquier cosa picada o triturada	Una ensalada arreglada artísticamente	Fruta cocida en almíbar de azúcar
+77443	Comida	3	¿Cuál es la variedad de manzana más popular según las ventas?	Granny Smith	Jonathan	Golden Delicious	rojo delicioso
+356480	Comida	3	¿Cómo se llama un pastel de bodas francés especial, hecho de profiteroles?	Boulangbouche	Macaron	Le Tart Citron	Croquembouche
+416213	Comida	3	¿Qué significa "oolong"?	Hoja delgada y carnosa	Humo de pipa	Buena fortuna	Dragón Negro
+355679	Comida	3	¿Cuál es el primer nombre de Sir Lipton, el creador de Lipton Tea?	Robert	Sigmund	Erik	Thomas
+37749	Comida	3	¿Qué ingrediente alcohólico es esencial para la clásica "langosta Newburg"?	Vermut	champán	Vodka	Jerez seco
+300146	Comida	3	¿La corteza del árbol de casia se usa a menudo para producir un grado menor de qué especia?	Nuez moscada	Cardamomo	Incienso	Canela
+54682	Comida	3	¿Quién es considerado "el padre de la cocina francesa moderna"?	Wolfgang Puck	Emeril Lagasse	Jaques Pepin	Agosto Escoffier
+13817	Comida	3	¿Qué comida comúnmente considerada un alimento básico de la cocina alemana es realmente china?	Bratwurst	Riesling	Wiener Schnitzel	Chucrut
+355638	Comida	3	¿Cómo se llama la famosa marca de utensilios de cocina de hierro fundido que se originó en Francia?	Zola	Le Pain Irone	Henckel Solingen	Le Creuset
+294702	Comida	3	En Missouri, ¿cómo se llama la tienda de pan / pastelería "'Panera Bread"?	Pan de Kansas City	Springfield Bagel	Missouri Bread Co	Compañía de pan de San Luis
+375022	Comida	3	¿Cuál es el ingrediente principal del plato español llamado "tortilla"?	Harina	Maíz	Agua	Huevos
+447891	Comida	3	¿Cuál de estas especies de hongos es segura para el consumo humano?	Hongo Marrón De Borde De Rollo	Hongo Bolete del Diablo	Hongo Cortinarius Rubellus	Champiñón Shaggy Ink Cap
+355506	Comida	3	¿Qué es "Frumenty"?	Papá Noel alemán	Un tipo de pastel	Un tipo de bebida	Una papilla especiada
+218206	Comida	3	¿Cómo se llama el pan plano popular entre los pueblos aborígenes de América del Norte?	Agave	naan	Roti	Bannock
+349517	Comida	3	¿Cuál es el delicioso manjar alemán "Apfelpfannkuchen" en inglés?	Pan de canela	Caramelo de jarabe de arce	Té de menta	Panqueque de manzana
+416876	Comida	3	¿Qué es "Leberkas"?	Un plato mexicano	Un plato portugués	Un plato italiano	Un plato alemán
+295621	Comida	3	Descubierto en Japón, donde se le llama "Umami", ¿cómo es más conocido este alimento?	Calamar	Atún	Ramen instantáneo	Glutamato monosódico
+356942	Comida	3	¿Qué significa "ascórbico" en el otro nombre de la vitamina C, ácido ascórbico?	Venenoso	Cítricos deliciosos	Viejo gruñón Sourpuss	Sin escorbuto
+88345	Comida	3	¿Cuál de estos no es un tipo de pomelo?	Rojo rubí	Blanco	dorado	Petunia morada
+294666	Comida	3	¿Cuál puede ser kosher?	Calamares	langosta	Camarón	Atún
+100268	Comida	3	¿Cómo se llama tradicionalmente el pollo relleno con mantequilla de ajo?	Pollo Maryland	pollo con ajo	Pollo Cordon Bleu	Pedazos de pollo
+416004	Comida	3	¿Qué te servirían en un restaurante japonés si pidieras "Iwana"?	Vegetales en escabeche	Soja	Rábano picante japonés	Carbonizarse
+356461	Comida	3	¿La comida brasileña está influenciada por qué país europeo, cuyos colonos llegaron en el siglo XVI?	Gran Bretaña	Francia	España	Portugal
+416340	Comida	3	En la cocina, ¿una "pizca" equivale aproximadamente a qué cantidad de líquido?	2 cucharaditas	1 cucharada	2 batidos	3 gotas
+413244	Comida	3	¿Cómo se llaman las algas en la comida japonesa que se utilizan a menudo como caldo de sopa?	Okonomiyaki	Sashimi	Gyoza	Kombu
+294582	Comida	3	¿Qué es el Vermú seco?	Jugo y vodka	Lúpulo	Bebida de manzana	Vino
+294656	Comida	3	Además del filet mignon, ¿qué encontrarás en un Filet Antonio?	Carne de cangrejo y salsa holandesa	Carne de cangrejo y salsa bechamel	Carne De Cangrejo Y Salsa Antonio	Carne de cangrejo y salsa bearnesa
+415773	Comida	3	¿Qué flor produce el azafrán especiado?	Diente de león	Orquídea	Tulipán	Azafrán
+33448	Comida	3	¿Qué no es un ingrediente de frutado?	Trigo	Fruta seca	Canela	Carne seca
+294825	Comida	3	¿Qué corte de carne se utiliza tradicionalmente para el plato osso buco?	Ronda inferior	Chuletas de lomo	Mesón	Shanks
+13816	Comida	3	¿Qué significa "mejorado" en el mundo de la venta de bistecs?	Se ha eliminado la grasa	La carne tenía colorante añadido	Las vacas fueron alimentadas con grano mejorado	Se añadió aromatizante, ablandador o solución salina
+416911	Comida	3	¿Qué te servirían en un restaurante japonés si pidieras "Kani-kamaboko"?	Pepino	Pescado Bonito	Tallarines De Alforfón	Carne de cangrejo falsa
+36441	Comida	3	King, Coho y Silver son subespecies de qué pez?	Carpa	Bacalao	Atún	Salmón
+356469	Comida	3	¿Qué bebida obtienes cuando mezclas 1 1/2 oz de ginebra, 3/4 de granadina y 1 clara de huevo?	Ardilla rosa	Rosa rosada	Pantera Rosa	Minino rosa
+64445	Comida	3	Si pidieras "Tobiko" en un restaurante japonés, ¿qué te servirían?	Semillas de sésamo	Raíz de jengibre	Erizo de mar	Huevas de pez volador
+348054	Comida	3	¿Qué ingredientes hay en la guarnición llamada gremolata?	Aceitunas verdes y negras picadas	Mozzarella, Albahaca, Vinagre	Tomates, Ajo, Aceite de Oliva	Perejil, cáscara de limón, ajo
+415413	Comida	3	¿Coriander y qué otras especias provienen de la misma planta?	Romero	Lavanda	Perejil	Cilantro
+356850	Comida	3	¿Cuál de estas especies de hongos es segura para el consumo humano?	Hongo Gorro de Muerte	Hongo pantera	Hongo agárico de mosca	Seta Hongo Erizo
+300130	Comida	3	¿Qué te servirían en un restaurante japonés si pidieras "Odori-ebi"?	Tallarines de trigo	Quelpo	Atún más gordo	Camarones Bailando
+282646	Comida	3	¿De dónde es Vatapa?	Japón	Puerto Rico	suizo	Brasil
+46271	Comida	3	¿Qué te servirían en un restaurante japonés si pidieras "Geoduck"?	Cola amarilla	Aderezo de pescado en Nigiri Sushi	Sardina	Mirugai
+294840	Comida	3	¿Los arándanos son nativos de qué continente?	Asia	África	Europa	Norteamérica
+416640	Comida	3	Si pidieras "Unagi no kimo" en un restaurante japonés, ¿qué te servirían?	Anguila de agua dulce	Semillas de sésamo	Vieiras	Entrañas de anguila
+65863	Comida	3	¿Al que se llama "té negro" en Inglaterra se consideraría qué tipo de té en China?	Té verde azulado	Té sin mezclar	Enjuagar	Té rojo
+416873	Comida	3	¿Qué es un "sabayón"?	Condimento japonés	Zapato holandés	Una torta	Un postre de natillas
+416538	Comida	3	Si ordenaras "Shoga" en un restaurante japonés, ¿qué te servirían?	Brotes de bambú	Caracoles de agua pequeños	Daikon en escabeche	Raíz de jengibre
+294725	Comida	3	¿Un cafeto produce su primera cosecha completa cuando tiene cuántos años?	15 años	1 año	10 años	5 años
+12077	Comida	3	Brandy, Creme De Cacao y nata hacen ¿qué bebida?	Spritzer de brandy	Brandy cremoso	Brandy eres una buena chica	Brandy Alexander
+361218	Comida	3	En un restaurante japonés ¿cuál es el requisito para preparar un plato nabe?	Salsa de soja	Hielo	Algas marinas	Una olla caliente
+294664	Comida	3	¿Cuál de los siguientes es el cultivo de cítricos más grande del mundo?	Limón	Lima	Pomelo	naranja
+374790	Comida	3	¿La baya del acai proviene de qué área ubicada en Brasil?	el desierto del Sahara	Desierto de Sun Valley	Selva olímpica	Selva amazónica
+88462	Comida	3	¿En qué año lanzó Coca-Cola Company "New Coke"?	1999	1973	1983	1985
+218178	Comida	3	¿Qué bebida producirá la mezcla de whisky escocés y Drambuie?	Rob Roy	Manhattan seco	Anticuado	clavo oxidado
+415387	Comida	3	¿Quién introdujo la papa como alimento básico en la dieta alemana?	Genghis Khan	Rey Luis XIV	Zar Pedro I	Rey Federico II
+300134	Comida	3	¿Qué es "Lihaperunasoselaatikko"?	Un tipo de galleta	Vino	Un postre	Estofado de patatas / carne en caja
+294843	Comida	3	¿Cuál de los siguientes no es un ingrediente del tabulé de Oriente Medio?	Jugo de limon	menta	Trigo hervido, trigo vulgar	Lentejas
+415699	Comida	3	Si ordenaras "Katsuo-boshi" en un restaurante japonés, ¿qué te servirían?	Trucha	Contenido verde de la cabeza de un cangrejo	Pescado Bonito	Pescado Bonito Seco
+232747	Comida	3	¿Cuál es otro nombre para los antioxidantes que se encuentran en el té?	Vapores de té	Antihistamínicos	Progesterona	Flavonoides
+356770	Comida	3	¿De qué fruta está hecho el slivovitz?	Manzanas	Plátanos	Albaricoques	Ciruelas
+375766	Comida	3	¿Con que verdura se elabora el Norwegian Lefse?	Repollo	Calabacín	Zanahorias	Patatas
+79389	Comida	3	¿Qué empresa etiqueta cada caja de té con "bendecido por un chamán del té certificado"?	Condimentos celestiales	Té de Arizona	Jones	Tazo
+300193	Comida	3	¿Qué es "tahini"?	Una especia india	Paté de Cordero	Un pez mediterráneo	Pasta de semillas de sésamo
+300159	Comida	3	¿Qué te servirían en un restaurante japonés si pidieras "Hirame"?	Caballa japonesa	Raíz de jengibre	Pez arena	Hipogloso
+350027	Comida	3	¿Cuál es el ingrediente principal del plato malayo llamado Nasi Lemak?	Carne de Res Cocida en Leche de Coco	Arroz cocido en un guiso al curry	Carne de res cocida en un guiso al curry	Arroz Cocido En Leche De Coco
+300141	Comida	3	¿Qué plato famoso usa arroz arborio?	Gumbo	Jambalaya	Arroz frito	risotto
+48686	Comida	3	¿Los brasileños consideran cuál de estos platos un alimento básico?	Sopa de camarones	Sopa De Palmito	Pasteis Fritos	Arroz
+94000	Comida	3	¿Cuál de estas frutas también se llama "chirimoya" y crece en un árbol de hoja perenne?	Uva	Boysenberry	Sandía	Chirimoya
+416321	Comida	3	¿Cuál de los siguientes alimentos es originario de la región de Umbría en Italia?	Plátanos	Melocotones	Miseria	Trufas negras
+294830	Comida	3	¿Qué tipo de pasta se sirve en algunos postres chinos?	Pasta Dulce De Gambas	Pasta de semillas de melón	Pasta de crema pastelera	Pasta de semilla de loto
+294820	Comida	3	En el programa de cocina "The Iron Chef", ¿quién fue el primer Iron Chef chino?	Katsuhako Kobe	Presidente Mao	General Tsao	Chen Kenichi
+48685	Comida	3	¿Qué dos cosas crean una reacción química que provoca la levadura en el pan de soda irlandés?	Harina y agua tónica	Huevos y levadura en polvo	Levadura y agua	Bicarbonato de sodio y suero de leche
+43989	Comida	3	¿Qué es un postre helado indio común?	Burfi	Murski	Sturli	Kulfi
+350031	Comida	3	¿Qué producto alimenticio popular de América del Norte "ayuda a desarrollar cuerpos fuertes de 12 maneras"?	Macarrones con queso	Leche	Vitaminas Picapiedra	Pan maravilloso
+34099	Comida	3	Al cocinar, ¿cómo se llama cortar hierbas o verduras en tiras muy finas?	Cortar en cubitos	Rejilla	Chuleta áspera	Gasa
+11488	Comida	3	El pavo típico de 15 libras se compone de qué porcentaje de carne blanca y carne oscura?	30% blanco - 70% oscuro	40% blanco - 60% oscuro	80% blanco - 20% oscuro	70% blanco - 30% oscuro
+294816	Comida	3	¿Qué se conserva en sal, ceniza, lima y té negro y luego se envasa en cáscaras y urnas de arroz?	Col en conserva de Tianjin	Chai Poh (nabos conservados)	Habas de soja negra fermentadas	Huevos de mil años
+294761	Comida	3	¿Con que se elabora el queso Mascarpone italiano?	Leche de cabra	Ajo	Uvas	Crema
+349977	Comida	3	¿Qué tipo de comida es "burgoo"?	Tarta	Un pan	Pudín	Guiso de carne
+30090	Comida	3	¿Cuál de estas especies de hongos es segura para el consumo humano?	Hongo pantera	Hongo Greengills	Hongo Bolete del Diablo	Champiñón gigante
+41225	Comida	3	¿En qué año se introdujeron las plantas de café en Hawái?	1942	1721	1910	1825
+349498	Comida	3	¿Qué es un "Haricot Vert"?	Una pastelería francesa	Un tipo de calabaza	Un plato de arroz indio	Una judía tierna y fina
+100066	Comida	3	Debido a su forma única, ¿cómo se llama también la fruta Carambola?	Fruta de huevo	Tuerca Zig Zag	Baya alargada	Fruta estrella
+349965	Comida	3	¿Qué ingredientes se agregan a la holandesa para hacer la salsa bearnesa?	Fumet de pescado y albahaca	Tomillo de limón y vino de Oporto	Jugo de naranja sanguina	Vino y estragón
+355568	Comida	3	¿Cómo se conoce también el "zucchini"?	Cilantro	Courgene	Courgate	Calabacín
+355601	Comida	3	En la cocina italiana, ¿qué contiene la salsa "agliata"?	Limón	Tomate	Berenjena	Ajo

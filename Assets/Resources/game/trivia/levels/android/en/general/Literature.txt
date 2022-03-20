@@ -1,0 +1,437 @@
+0DIF224	Literature	0	Who chased Moby Dick?	Captain Hook	Captain Jack Sparrow	Captain Kingsley	Captain Ahab
+0DIF230	Literature	0	Which book is centered around a horse?	To Kill a Mockingbird	Animal Farm	One Flew Over the Cuckoo's Nest	Black Beauty
+0DIF229	Literature	0	Which book is about a little girl from Kansas?	Carrie	Sisterhood of the Traveling Pants	The Outsiders	The Wonderful Wizard of Oz
+0DIF240	Literature	0	Harry Potter went to what school?	Harvard	St. Judes	Umbrella Academy	Hogwarts
+0DIF238	Literature	0	Which Dickens novel is considered an autobiography?	Moby Dick	The Scarlet Letter	1984	David Copperfield
+0DIF233	Literature	0	What is the final word in 'The Raven' by Edgar Allan Poe?	Forevermore	Begone	End	Nevermore
+0DIF223	Literature	0	Who is the main character in 'Catcher in the Rye'?	Oliver Twist	Tom Sawyer	Clark Kent	Holden Caulfield
+0DIF221	Literature	0	Mark Twain wrote about which of these characters?	Dennis the Menace	Boo Radley	Red Riding Hood	Tom Sawyer
+0DIF231	Literature	0	Which play by Shakespeare has lovers committing suicide?	Macbeth	Taming of the Shrew	Hamlet	Romeo and Juliet
+0DIF239	Literature	0	What is not a name of one of the three ‘Darling’ children in J.M. Barrie’s ‘Peter Pan’?	Wendy	John	Michael	David
+0DIF234	Literature	0	In 'Charlotte's Web,' what is the name of Fern's pig?	Jeff	Babe	Also Fern	Wilbur
+0DIF227	Literature	0	Which of the following was written by George Orwell?	Brave New World	Night	Salem's Lot	Animal Farm
+0DIF228	Literature	0	Ron Weasley is a character from which book series?	Lord of the Rings	Percy Jackson	Animal Farm	Harry Potter
+0DIF222	Literature	0	Please, sir, I want some more, was said by which character?	Atticus Finch	Darth Vader	Charles Dickens	Oliver Twist
+0DIF237	Literature	0	Who wrote ‘Don Quixote’?	James Bond	Ernest Hemmingway	John Gray	Miguel de Cervantes
+0DIF235	Literature	0	In 'The Princess Bride,' who is the title character?	Princess Aurora	Princess Peach	Princess Diana	Princess Buttercup
+0DIF225	Literature	0	Which is the "Scarlet Letter?"	C	K	F	A
+0DIF232	Literature	0	What 1981 Stephen King novel is about a rabid dog?	The Shining	1984	Carrie	Cujo
+0DIF236	Literature	0	What kind of book is a Nebula Award given for?	Musical	Poetry	Picture book	Science Fiction
+0DIF226	Literature	0	Who wrote 'To Kill a Mockingbird'?	John Abrams	Mark Twain	Stephen King	Harper Lee
+1L05201	Literature	1	Where was 2006 Nobel Prize winner Orhan Pamuk, author of "Istanbul: Memories and the City", born?	Israel	Czechoslovakia	Germany	Turkey
+1L05105	Literature	1	What is the first name of the famous Beat Generation author Kerouac?	Joseph	Lawrence	Anthony	Jack
+518276	Literature	1	What is the name of the wizard's game in "Harry Potter"?	Mugglein	Broom Basketball	Snapper	Quidditch
+1L05059	Literature	1	What is a 2012 erotic romance novel and is the third installment in the "Fifty Shades" trilogy?	Fifty Shades Of Steel	Fifty Shades Of Grey	Fifty Shades Darker	Fifty Shades Freed
+1L05205	Literature	1	In which comic strip is there a lasagna-loving cat?	Snoopy	Mutts	Arkensdale	Garfield
+1L05031	Literature	1	In what piece will you find "I took the one less traveled by, and that has made all the difference"?	A Never-Released Beatles Song	A Book By Issac Hayes	A Walt Whitman Poem	A Robert Frost Poem
+1L05095	Literature	1	Which of the following best sellers is about cures for more than 50 diseases?	The Five People You Meet In Heaven	New Rules	From Pieces To Weight	Natural Cures
+1L05165	Literature	1	In Jane Austen's "Pride & Prejudice", Elizabeth unexpectedly falls in love with which man?	Mr. Bingley	Colonel Fitzwilliam	Mr. Rochester	Mr. Darcy
+1L05173	Literature	1	What famous Irish novelist wrote "The Dubliners"?	William Butler Yeats	Dylan Thomas	Sean O'Casey	James Joyce
+1L05183	Literature	1	"Crime and Punishment," "Anna Karenina" and "Dr. Zhivago" all belong to which kind of literature?	Spanish	German	Polish	Russian
+1L05159	Literature	1	What does character define in a story?	When The Action Happened	Where The Story Took Place	Why The Action Happened	Who The Story Is About
+1L05147	Literature	1	Which of these could be a definition of character?	Time And Place	Feelings And Emotions	Events In A Story	Person Who Participates In Story
+1L05115	Literature	1	What is the title of Michelle Obama's 2018 book?	Barack	I Win	Let's Get Physical	Becoming
+1L05051	Literature	1	What color is the Hogwarts Express?	Yellow	Emerald Green	Black	Red
+1L05137	Literature	1	What best selling book is about Harry at age 16, encountering danger, death, love, betrayal and sacrifice?	Pirate	Day Of The Dead	Assassin	Harry Potter And The Half-Blood Prince
+1L05107	Literature	1	The famous collection of children's fantasy books called "The Chronicles of Narnia" were created by who?	Jrr Tolkien	William Shakespeare	Lord Alfred Tennyson	C.S. Lewis
+1L05075	Literature	1	Which fictional character took a trip down the Mississippi on a raft with the runaway slave Jim?	Tom Sawyer	Oliver Twist	Harry Potter	Huckleberry Finn
+1L05035	Literature	1	What's the first name of the best-selling author Bradbury?	Maurice	Virginia	D. H.	Ray
+87708	Literature	1	Which one of these 1956 nonfiction books was written by Betty Crocker?	Gorky Park	Talking Straight	The 9 Steps To Financial Freedom	Betty Crocker's Picture Cook Book
+1L05129	Literature	1	Who wrote the best-selling novel "Carrie"?	Michel Jackson	Wes Craven	John Carpenter	Stephen King
+1L05063	Literature	1	Which best seller is about in heaven, life is explained by five people?	The Wedding	No Country For Old Men	From Pieces To Weight	The Five People You Meet In Heaven
+1L05171	Literature	1	What term is used to name the main character in a story?	Personification	Round Character	Stock Character	Protagonist
+1L05145	Literature	1	Which best seller is about a girl who juggles an after-school job, art class, and dating the President's son?	The Second Summer Of The Sisterhood	100 People Who Are Screwing Up America	The Five People You Meet In Heaven	Ready Or Not: An All-American Girl Novel
+1L05085	Literature	1	In the Bible, what was name of the garden where Adam and Eve lived?	The Zen Garden	The Secret Garden	The Garden of Idyllia	The Garden of Eden
+1L05045	Literature	1	Who wrote "Charlotte's Web"?	E.P. Gray	Emma Brown	Ernest Green	E.B. White
+1L05161	Literature	1	In "Harry Potter and the Sorcerer's Stone", what was the first test to pass?	Tkaa, A Magical Basilisk	Rex, A T-Rex Dinosaur	Kit, A Young, Blue Dragon	Fluffy, A Giant Three-Headed Dog
+1L05113	Literature	1	In "A Visit From St. Nicholas", visions of what danced in children's heads on Christmas Eve?	Candy	Presents	Turkey	Sugar Plums
+266756	Literature	1	Which one of these 1997 fiction books was written by John Grisham?	Days Of Our Years	Drivin' Woman	How To Read A Book	The Partner
+1L05069	Literature	1	What 2012 thriller novel is about Nick Dunne and whether he is involved in the disappearance of his wife?	Sharp Objects	Dark Places	The Disappearance	Gone Girl
+88196	Literature	1	What are the Audie awards presented for?	Book Reviewers	Novel Of The Year	Excellence In Audio Engineering	Excellence In Audio Books
+231001	Literature	1	The 2012 young adult fiction novel "The Fault in Our Stars" is the sixth novel by which author?	Veronica Roth	Nicholas Sparks	David Levithan	John Green
+1L05041	Literature	1	Who wrote the children's book "The Giving Tree"?	Cement Hurd	Dr. Seuss	Dav Pilkey	Shel Silverstein
+1L05167	Literature	1	Robert Louis Stevenson is famous for writing which of the following?	Gulliver's Travels	Remembrance Of Things Past	The Picture Of Dorian Gray	Treasure Island
+1L05185	Literature	1	Ichabod Crane is from what story?	Scrooge	The Wizard Of Oz	Charlotte's Web	The Legend Of Sleepy Hollow
+1L05187	Literature	1	Charles Darwin is known best as this?	World Leader	Author	Social Activist	Scientist
+87720	Literature	1	Which is a popular children's book by Madeleine L'Engle?	Jacob Have I Loved	Island Of The Blue Dolphins	Johnny Tremain	A Wrinkle In Time
+139011	Literature	1	The "Lord of the Rings" trilogy includes which of these titles?	Fellowship Of The Brothers	The Hobbit	The Three Towers	The Return Of The King
+1L05169	Literature	1	A plot arranges what in a story?	Place Names	Descriptions	Character Traits	Sequence Of Events
+318223	Literature	1	What biblical character was said to have been created from the dust of the ground and the breath of God?	Abraham	Moses	Abel	Adam
+1L05209	Literature	1	Who is the author of "The Adventures of Huckleberry Finn"?	Nathaniel Hawthorne	Stephen Crane	Theodore Dreiser	Mark Twain
+1L05179	Literature	1	Who is the main character of "Gone with the Wind"?	Holden Caulfield	Violet Baudelaire	Bilbo Baggins	Scarlett O'Hara
+1L05055	Literature	1	Which story is about a woman dealing with the boss from hell at a stylish magazine?	The Second Summer Of The Sisterhood	Double Tap	The Interruption Of Everything	The Devil Wears Prada
+1L05133	Literature	1	What is the best-selling author Woolf's first name?	Henry	Richard	John K.	Virginia
+1L05189	Literature	1	Who wrote "Salem's Lot"?	Tabitha King	Bret Favre	Clive Barker	Stephen King
+266688	Literature	1	What best-selling book is subtitled: "A Little Boy's Astounding Story of His Trip to Heaven and Back"?	90 Minutes In Heaven	Heaven Changes Everything	The Boy Who Came Back From Heaven	Heaven Is For Real
+518308	Literature	1	Who is the author of the book "Pride and Prejudice"?	Emily Dickinson	J.K. Rowling	Emily Bronte	Jane Austen
+518281	Literature	1	Which of the following is not in E. L. James' erotic romance "Fifty Shades" trilogy?	Fifty Shades Darker	Fifty Shades Freed	Fifty Shades of Grey	Fifty Shades Lighter
+1L05197	Literature	1	Who wrote the 2013 mystery thriller novel "Inferno"?	Robert Langdon	Tom Hanks	Ron Howard	Dan Brown
+246752	Literature	1	What biblical place is said to the starting point of different languages?	City Of Bethlehem	Garden Of Eden	Sodom And Gomorrah	Tower Of Babel
+50026	Literature	1	Katniss Everdeen is the protagonist of which best-selling young adult dystopian fiction series?	Divergent	The Maze Runner	Delirium	The Hunger Games
+318226	Literature	1	Which of these books was a Dan Brown best seller?	The Rule Of Four	The Five People You Meet In Heaven	Father Joe	The Da Vinci Code
+266687	Literature	2	What is the name for the central idea in a story, play, or poem?	Plot	Allegory	Character	Theme
+359314	Literature	2	Which one of these 1998 fiction books was written by Tom Wolfe?	Our Times, Vol. I	Dr. Atkins' Diet Revolution	Man The Unknown	A Man In Full
+373551	Literature	2	Who is the only author to get a death sentence for his work?	Clive Barker	Steven King	Edgar Allen Poe	Salman Rushdie
+518290	Literature	2	Which story is about taking aim at what the author calls "America Bashers"?	Day Of The Dead	Deception Point	Before You Know Kindness	100 People Who Are Screwing Up America
+518287	Literature	2	Who wrote, "who controls the past, controls the future: who controls the present, controls the past"?	Steven King	Ernest Hemmingway	Mark Twain	George Orwell
+1L05049	Literature	2	What 2012 fiction novel is set in a town called Pagford and begins with the death of Barry Fairbrother?	The Cuckoo's Calling	The Silkworm	The Tales Of Beedle The Bard	The Casual Vacancy
+359317	Literature	2	Who wrote the novel "Finnegans Wake"?	Tracy Stuart	William MacDonald	Flannery O'Connor	James Joyce
+217602	Literature	2	Which George Orwell novel begins with the words "It was a bright cold day in April"?	Keep The Aspidistra Flying	The Road To Wigan Pier	Down And Out In Paris And London	1984
+1L05117	Literature	2	Complete the title of the 2019 book by Caleb Roehrig, "Death Prefers ___"?	Bugs	Life	Darkness	Blondes
+266710	Literature	2	Who was the author of the book "Bag of Bones?	Alice Hegan	Don Whitehead	Danielle Steel	Stephen King
+32417	Literature	2	How does Gatsby die in "The Great Gatsby"?	Heart Attack	Poison	Car Accident	Shot In His Pool
+20059	Literature	2	The book "The Grapes of Wrath" by John Steinbeck was set in what time period?	The Revolutionary War	World War Two	The Civil War	The Great Depression
+518303	Literature	2	What caused hysteria on October 30th, 1938 mainly in eastern US?	Fake Meteor Shower	King Kong Premiere	Twilight Zone TV Show	War Of The Worlds
+1L05043	Literature	2	What Nobel Prize winning Frenchman declined the award in 1964 "in protest of bourgeois society"?	Simone De Beauvoir	Marcel Marceau	Albert Camus	Jean-Paul Sartre
+140279	Literature	2	Who coined the phrase "Turn on, tune in, drop out"?	Tom Wolfe	Ken Kesey	Allen Ginsberg	Timothy Leary
+245876	Literature	2	Which of the following is the female protagonist of the young adult science fiction "Divergent" trilogy?	Cassia Reyes	Teresa	Katniss Everdeen	Beatrice Prior
+65819	Literature	2	What novel by Diana Gabaldon tells the story of Claire Randall who time travels to 18th century Scotland?	The Private Matter	Naked Came The Phoenix	The Scottish Prisoner	Outlander
+246679	Literature	2	Who was the author of the best selling 1998 fiction book "The Street Lawyer"?	Margaret Halsey	Maria Montessori	Art Linkletter	John Grisham
+1L05067	Literature	2	What 2013 best-selling novel is the fourth book in the "Robert Langdon" series?	Angels & Demons	The Da Vinci Code	The Lost Symbol	Inferno
+518350	Literature	2	Metamorphosis is a famous novella by which author?	James Joyce	William Faulkner	Fyodor Dostoyevsky	Franz Kafka
+3478	Literature	2	To what state did the Joad family move in "The Grapes of Wrath"?	Oregon	Texas	Oklahoma	California
+1L05061	Literature	2	Where did J.K. Rowling write most of "Harry Potter and the Philosopher's Stone?	At Work On Her Lunch Break	On Her 1980's Typewriter At Home	At The Local Library	In Edinburgh Cafes
+1L05151	Literature	2	Who wrote the book "The Runaway Jury"?	Betty MacDonald	Irving Wallace	Tom Kavanaugh	John Grisham
+1L05079	Literature	2	What 2013 science fiction novel for young adults completes the "Divergent" trilogy?	Divergent	Sergeant	Insurgent	Allegiant
+139854	Literature	2	Published in 2013, what is the eighteenth book in the "Jack Reacher" series written by Lee Child?	A Wanted Man	The Affair	Make Me	Never Go Back
+359406	Literature	2	What 2013 book written by Sheryl Sandberg is subtitled: "Women, Work, and the Will to Lead"?	Lean Out	Lean Back	Lean On	Lean In
+1L05091	Literature	2	What war is the setting for "A Farewell to Arms"?	Spanish-American War	Civil War	World War II	World War I
+518285	Literature	2	Who wrote the 1979 book "The Hitchhiker's Guide to the Galaxy"?	Zora Neale Hurston	Ayn Rand	Jack London	Douglas Adams
+202435	Literature	2	Who penned "The Mortal Instruments", a series of young adult fantasy novels?	Stephenie Meyer	Veronica Roth	Suzanne Collins	Cassandra Clare
+1L05127	Literature	2	Who is the author of the book "The Exorcist"?	Ernest Hemingway	Peter Couomo	Agnes Newton Keith	William P. Blatty
+1L05163	Literature	2	In "To Kill a Mockingbird", who is Tom Robinson accused of raping?	Newt Gingrich	Jean-Louis Finch	Calpurnia	Mayella Ewell
+246906	Literature	2	Which book published by Three Rivers Press concerns the oddities of the human body?	Can You Keep A Secret?	Body Double	The Rule Of Four	Why Do Men Have Nipples?
+24122	Literature	2	Who was the author of the 1995 fiction book "The Rainmaker"?	Bess Streeter Aldrich	Zane Grey	John Steinbeck	John Grisham
+1L05177	Literature	2	Arthur Miller was known for being which one of the following?	Film Director	Broadway Director	Opera Singer	Playwright
+373596	Literature	2	In "Lord of the Flies", what do the boys hold when they want to speak?	A Staff	A Torch	A Spear	A Conch Shell
+518342	Literature	2	What novel by Markus Zusak is narrated by "Death" and set in Nazi Germany?	The Diary Of A Young Girl	The Boy In The Striped Pyjamas	The Kite Runner	The Book Thief
+1L05125	Literature	2	What author was only popular after his death and married his first cousin?	Walt Whitman	Joe Kennedy	Lenny Bruce	Edgar Allan Poe
+1L05155	Literature	2	Whose book is "Born a Crime: Stories from a South African Childhood"?	Dave Matthews	Charlize Theron	Jacob Zuma	Trevor Noah
+1L05015	Literature	2	Norwegian writer Knut Hamsun won the Nobel Prize in Literature for what monumental work?	The Grapes Of Wrath	To Kill A Mockingbird	Demian	The Growth Of The Soil
+1L05011	Literature	2	What book published by Washington Square Press is about a teen who helps cure her sister's leukemia?	The Purpose-Driven Life	Selling The Lite Of Heaven	Beach Girls	My Sister's Keeper
+518307	Literature	2	Which author taught at Harvard while working as an astrophysicist?	Isaac Newton	Stephen Hawking	Albert Einstein	Carl Sagan
+1L05203	Literature	2	Who wrote, "On the Pulse of the Morning" for Clinton's Inauguration?	Rita Dove	Robert Frost	Chelsea Clinton	Maya Angelou
+80945	Literature	2	What 2013 novel by Stephen King is a sequel to his 1977 novel "The Shining"?	True Knot	The Hat	The Steam	Doctor Sleep
+347751	Literature	2	In "Lord of the Flies", what is the heavyset boy's name?	Eric	Tim	Ralph	Piggy
+1L05077	Literature	2	What philosophy did Dr. Timothy Leary preach in the 60's?	Turn Over, Drop Out, Eat Peanuts	Turn On, Tune In, Rewind	Tune In, Relax, Unwind	Turn On, Tune In, Drop Out
+1L05101	Literature	2	In "Hamlet", who called Hamlet to go to a duel with Laertes?	Omar	Oscar	Ophelia	Osric
+1L05027	Literature	2	What best selling book is about a beautiful social climber who wants to succeed in the big city?	Dress Your Family In Corduroy And Denim	The Wedding	My Sister's Keeper	Trading Up
+266755	Literature	2	What is Louis L'Amour famous for?	Editing Romances	Cookbooks	Art Criticism	Writing Westerns
+245904	Literature	2	What is the peculiar language called in "Nineteen Eighty-Four"?	Bureaucratese	Truth Telling	Thought Verbals	Double Speak
+1L05199	Literature	2	What 2012 best-seller is J.K. Rowling's first novel for adult readers?	The Cuckoo's Calling	The Silkworm	The Tales Of Beedle The Bard	The Casual Vacancy
+3480	Literature	2	Which is the true story of a Jewish family separated at the start of World War II?	Sold on a Monday	A Mother’s Secret	Ordinary Grace	We Were the Lucky Ones
+518297	Literature	2	What English author wrote "The Canterbury Tales"?	Lord Byron	Charles Dickens	John Milton	Geoffrey Chaucer
+38127	Literature	2	What is the title of the memoir by the "Queer Eye" star, Tan France?	Naturally Pretty	France Naturally	Naturally Hungry	Naturally Tan
+359220	Literature	2	What best selling book is about an actor who searches for his mysterious father?	Final Scream	100 People Who Are Screwing Up America	1776	Until I Find You
+359320	Literature	2	Who wrote the 2013 novel "Alex Cross, Run", which is the twentieth novel in the Alex Cross series?	John Grisham	Michael Connelly	David Baldacci	James Patterson
+347752	Literature	2	Who enforces the thoughtcrime laws in "Nineteen Eighty-Four"?	Thought Knights	Idea Constables	Big Sheriffs	Thought Police
+1L05131	Literature	2	Who is the author of "Of Human Bondage"?	Francis Bacon	William Shakespeare	William Wordsworth	William Somerset Maugham
+318285	Literature	2	Who wrote the sci-fi book "Foundation"?	Robert A. Heinlein	Roger Zelazny	Frederik Pohl	Isaac Asimov
+1L05123	Literature	2	Who wrote the book "The Partner"?	John Gunther	Alex Haley	James A. Michener	John Grisham
+518280	Literature	2	In "Flowers for Algernon", who is Algernon?	The Brain Surgeon	The Pigeon	The Dumb Janitor	The Mouse
+93106	Literature	3	In the book "Still me", what is Louisa's granddad's full name?	William Louis Clark	jack Louis Johnson	Alfred John Clark	Albert John Compton
+518371	Literature	3	The book "Lucifer's Hammer" was written by whom?	H G Wells	Alfred Bester	William Gibson	Niven & Pournelle
+268999	Literature	3	How many conclaves are held each year, in the book "Thunderhead"?	1	2	3	4
+246067	Literature	3	What 2013 novel by John Grisham features Jake Brigance as the main character?	The Racketeer	Gray Mountain	Calico Joe	Sycamore Row
+268858	Literature	3	What is the title of the fifth book in the "Memory Man" series?	Becoming	Sea Stories	Skin Game	Redemption
+518332	Literature	3	What 2014 historical novel by Sue Monk Kidd tells the story of two women bound together as mistress and slave?	The Goldfinch	The Husband's Secret	Still Life With Bread Crumbs	The Invention Of Wings
+202378	Literature	3	Which of the following plays was written by Eugene O'Neill?	Porn Stars At Home	Edward My Son	Death Of A Salesman	The Iceman Cometh
+257842	Literature	3	What 2013 novel by Donna Tartt is a first-person story of Theodore Decker, an art dealer?	The Little Friend	The Secret History	The Luminaries	The Goldfinch
+359389	Literature	3	Myths and Mortals by Charlie N. Holmberg is number 2 in the Numina trilogy, what is the title of the 1st book?	Siege And Sacrifice	Words And Voices	Salt And Sacrifice	Smoke And Summons
+269004	Literature	3	How many pages does the book "Leah on the Offbeat" contain?	1243	780	120	343
+1L05119	Literature	3	First is a biography written by Evan Thomas , who is it about?	Barack Obama	George Washington	Mark Spitz	Sandra Day O’Connor
+1L05039	Literature	3	What is the Genre of the 2019 best selling novel "The Silent Patient"?	Romance	Crime	War	Mystery Thriller
+518333	Literature	3	In the book "Thunderhead", what is the name of the scythe thought to be dead?	Honorable Scythe	Scythe Farday	Farday	Honorable Scythe Faraday
+3469	Literature	3	Which one of these 1903 fiction books was written by Mary Augusta Ward?	Autobiography With Letters	By Love Possessed	The Burden Of Proof	Lady Rose's Daughter
+90866	Literature	3	Finding Stevie: A dark secret. A child in crisis is written by what author	Tara Westover	Frances Mayes	Ryan Becker	Cathy Glass
+1L05071	Literature	3	Which one of these 1997 nonfiction books was written by John Berendt?	The Wall	Diet And Health	The Mind In The Making	Midnight In The Garden Of Good And Evil
+1L05181	Literature	3	What 2012 best-selling legal thriller novel was written by John Grisham?	Gone Girl	Killing Lincoln	Threat Vector	The Racketeer
+269041	Literature	3	What was Yrene's secret, In this book "Kingdom of Ash"?	She's valg	She's a Healer	She's the lost daughter of Rowan	She's pregnant
+70573	Literature	3	Who was the author of the best selling fiction books "about Jason Bourne?	H. G. Wells	Gregg Hurwitz	Bryan Cassiday	Robert Ludlum
+518324	Literature	3	The 2013 novel "Sycamore Row" by John Grisham is a direct sequel to which novel of his?	The Racketeer	Gray Mountain	The Pelican Brief	A Time To Kill
+89393	Literature	3	What 2013 novel by Charlaine Harris is the thirteenth novel in "The Sookie Stackhouse" series?	Deadlocked	Dead Reckoning	Dead and Gone	Dead Ever After
+139422	Literature	3	In "The Hound of the Baskervilles", how did Charles Baskerville die?	Gun Shot	Pushed Out A Window	Stab Wound	Heart Attack
+266701	Literature	3	The book "Starship Troopers" was written by whom?	Philip Jose Farmer	Kurt Vonnegut	Orson Scott	Robert A Heinlein
+140273	Literature	3	What best selling book is about a young couple who discovers drug trafficking and murder in border town?	Lunar Park	Final Scream	Absolute Friends	No Country For Old Men
+269030	Literature	3	Who wrote the 2012 best-selling military memoir "No Easy Day"?	Chris Kyle	Patrick Robinson	Marcus Luttrell	Mark Owen
+518364	Literature	3	What 20th-century American author was famous as a sportsman?	Edith Wharton	Jack London	Joseph Heller	Ernest Hemingway
+268859	Literature	3	What genre of novel 2019's "The Silent Patient"?	Western	Romance	Hhistorical	Psychological Thriller
+1L05121	Literature	3	What is the title of the George R.R. Martin "A Song of Ice and Fire, Book 3"?	A Storm of Ships	A Storm of Ice	A Storm of Thorns	A Storm of Swords
+90185	Literature	3	Which author wrote the 2014 fiction novel "The Perfect Witness"?	Catherine Coulter	Kay Hooper	Lisa Jackson	Iris Johansen
+27119	Literature	3	Which one of these 1914 fiction books was written by Eleanor H. Porter?	Guadalcanal Diary	Anatomy Of A Murder	Life Is Worth Living	Pollyanna
+140307	Literature	3	Complete the title of Melinda Gates' book "The Moment of ___"?	Wealth	Vision	Zen	Lift
+62083	Literature	3	In S.E. Hinton's "The Outsiders", which book does Johnny ask for while he is in the hospital?	To Kill A Mockingbird	A Tale Of Two Cities	The Great Gatsby	Gone With The Wind
+1L05135	Literature	3	The Kingdom of Copper is the 2nd book in which trilogy?	The Farseer Trilogy	The Fionavar Tapestry Trilogy	The Inheritance Trilogy	The Daevabad Trilogy
+139890	Literature	3	Which one of these 1925 nonfiction books was written by Bruce Barton?	The Client	Airport	Elvis And Me	The Man Nobody Knows
+1L05191	Literature	3	Carl Sandburg is generally known for being which one of the following?	Screenwriter	Composer	Journalist	Poet
+359387	Literature	3	In the novel "Queen of Air and Darkness", who kills Sebastian in Thule?	Ash	Jace	Julian	Emma
+3521	Literature	3	What is the best-selling author Tyler's first name?	Don	John	Flannery	Anne
+359357	Literature	3	Toni Morrison wrote which classic in 1969?	Where Angels Fear To Tread	Ordinary People	Mrs. Dalloway	The Bluest Eye
+90859	Literature	3	Which book, published by Viking, is about a woman who returns home after her mother commits a violent act?	Your Best Life Now	Inside The Mind Of Scott Peterson	Day Of The Dead	The Mermaid Chair
+518358	Literature	3	Who wrote the sci-fi book "Downbelow Station"?	Greg Bear	Connie Willis	Walter M Miller	C J Cherryh
+518370	Literature	3	How many books by Nicholas Sparks preceded his 2013 romance novel "The Longest Ride"?	10	14	12	16
+25706	Literature	3	Nobel Prize winner Pearl S. Buck wrote under what male pseudonym?	John Henry	D. H. Lawrence	George Eliot	John Sedges
+347755	Literature	3	Gregor Samsa is the main character in which of the following short stories by Franz Kafka?	The Penal Colony	Barn Burning	Bartleby The Scrivener	The Metamorphosis
+518328	Literature	3	What is the 2011 sequel for Gayle Forman's young adult novel "If I Stay"?	Before I Die	Looking For Her	Before I Fall	Where She Went
+347741	Literature	3	Who wrote "A Passage to India"?	Salman Rushdie	James M. Barrie	Jack London	E.M. Forster
+89648	Literature	3	Who loans money to Willy Loman in "Death of a Salesman"?	His Wife	His Pastor	His Father	His Neighbor
+186919	Literature	3	What is a political thriller novel by Tom Clancy and Mark Greaney published posthumously on December 2013?	Threat Vector	Locked On	Dead Or Alive	Command Authority
+92710	Literature	3	Ernest Hemingway's final work published during his lifetime was?	A Moveable Feast	Islands In The Stream	Across The River And Into The Trees	The Old Man And The Sea
+269010	Literature	3	Which is not a children's book written by Judy Blume?	Blubber	Superfudge	Freckle Juice	Sarah, Plain And Tall
+268955	Literature	3	In the novel "The Fever King", what is Noam's ability?	Control The Elements	Control Minds	Control Animals	Control Technology
+518329	Literature	3	Daisy Jones & The Six is a 2019 novel about what?	Orphans	Politics	Magic	Rock And Roll
+3439	Literature	3	Who is the 2019 YA novel "On the Come Up" written by?	Casey Cep	Taylor Jenkins	David Brooks	Angie Thomas
+359422	Literature	3	In Don Delillo's novel "White Noise", Jack Gladney is fatally infected by what?	HIV	Television Signals	Dylorama	Airborne Toxic Event
+518326	Literature	3	J.D. Salinger and which writer are thought by some to be one and the same?	Trevanian	Kurt Vonnegut, Jr.	Will Self	Thomas Pynchon
+91035	Literature	3	What is the second novel in David Baldacci's "John Puller" series and was released in 2012?	The Hit	Hour Game	The Collectors	The Forgotten
+88208	Literature	3	Which one of these 1922 fiction books was written by Booth Tarkington?	Star Money	A Shade Of Difference	Curtain	Gentle Julia
+518360	Literature	3	Otto Frank published his daughter Anne's diaries in what year (English version was published years later)?	1958	1944	1952	1947
+518362	Literature	3	Who elected the new Consul in the novel "Queen of Air and Darkness"?	Maryse Lightwood	Diana Wrayburn	Aline Penhallow	Alec Lightwood
+13W9614	Literature	3	The Age of Disenchantments by Aaron Shulman is set during what war?	War of 1812	World War I	Vietnam War	Spanish Civil War
+89670	Literature	3	Joan la Pucelle (aka Joan of Arc) appears as a character in which play?	Henry V	Henry VI, Part 3	Henry IV, Part 1	Henry VI, Part 1
+74859	Literature	3	The book "Grey Lensman" was written by whom?	Hal Clement	Alfred Bester	Daniel Keyes	E E "Doc" Smith
+45513	Literature	3	Life Will Be the Death of Me is about and written by whom?	Bette Midler	Wanda Sykes	Kathy Griffin	Chelsea Handler
+256572	Literature	3	Who wrote the book "Rainbow Six"?	Richard Bach	Stephen King	Howard Stern	Tom Clancy
+269015	Literature	3	What 2012 book is the third of "The Heroes of Olympus" series written by Rick Riordan?	The Lost Hero	The Son Of Neptune	The Blood Of Olympus	The Mark Of Athena
+1L05083	Literature	3	What is the name of the New York times best selling author who wrote "King of Scars" in 2019?	Fabi Ghittoni	Brigid Kemmerer	Holly Black	Leigh Bardugo
+1L05099	Literature	3	Which journalist was the first to infiltrate the Hell's Angels?	Edward R. Murrow	Peter Jennings	Geraldo Rivera	Hunter S. Thompson
+258634	Literature	3	Who wrote the sci-fi book "A Case of Conscience"?	Niven & Pournelle	Neal Stephenson	Frank Herbert	James Blish
+139782	Literature	3	Who wrote the bestseller "Scarecrow"?	Mark Leyner And Billy Goldberg	James Patterson And Andrew Gross	Dan Brown	Matthew Reilly
+1L05149	Literature	3	Which author wrote the young adult science fiction "Divergent" trilogy?	Suzanne Collins	Cassandra Clare	Shailene Woodley	Veronica Roth
+1L05153	Literature	3	Who is the author of the 2018 book "Leah on the Offbeat"?	Vi Keeland	christina McDonald	Lisa Scottoline	Becky Albertalli
+373566	Literature	3	Which one of these 1952 nonfiction books was written by Jack Lait and Lee Mortimer?	Rhymes Of A Red Cross Man	The Deliverance	How To Prosper During The Coming Bad Years	USA Confidential
+246928	Literature	3	Which author wrote the 2013 romance novel "The Husband's Secret"?	Gillian Flynn	Emily Giffin	Jojo Moyes	Liane Moriarty
+518341	Literature	3	What war is the setting for 'Bugs and Bullets"?	War of 1812	US Civil War	Vietnam War	World War I
+1L05023	Literature	3	Who is the writer of the novel “The Tale Teller”?	Roamn Senchin	Alexander Genis	Maria Stepanova	Anne Hillerman
+269011	Literature	3	What color dress did Elain wear on Aelin's coronation in the book "Kingdom of Ash"?	Balck	Pink	White	Lilac
+366516	Literature	3	Which of the following does the "Ancient Egyptian Book of the Dead" contain?	Maps	Recipes	Potions	Spells
+518282	Literature	3	Which ingredient is not used in the witches' brew from "Macbeth"?	Finger Of Birth-Strangled Babe	Lizard's Leg And Owlet's Wing	Liver Of The Blaspheming Jew	Tongue Of The African Giraffe
+518336	Literature	3	What famous poet went on a walking tour of France and Switzerland, before settling in England with his sister?	Robert Walden	Percy Shelley	Henry Wadsworth Longfellow	William Wordsworth
+359224	Literature	3	How does Bonnie die in "Gone with the Wind"?	Measles	Typhoid	Hit By A Wagon	Falls Off A Horse
+359335	Literature	3	Which famous author owned Joan Miro's painting "The Farm"?	Andre Breton	Carl Jung	Henry Miller	Ernest Hemingway
+359367	Literature	3	What is the book "Smash!" about?	Chefs In Paris	Broadway	Ultimate Fighting	90s Punk Music
+1L05065	Literature	3	The Big Fella is a biography about what athlete?	Ted Williams	Joe Frazier	Tiger Woods	Babe Ruth
+246927	Literature	3	Which book in the "Divergent" trilogy is written from the perspective of both Tris and Four?	Divergent	Sergeant	Insurgent	Allegiant
+76182	Literature	3	Who wrote the book "Simple Abundance"?	John Hersey	Jacqueline Susann	Walter D. Edmonds	Sarah Breathnach
+1L05047	Literature	3	What genre is the 2019 novel "Neon Prey"?	Biography	Science Fiction	Romance	Mystery Thriller
+90865	Literature	3	What is the eighth book in Rachel Renee Russell's "Dork Diaries" series, published in 2014?	Tales From A Not-So-Glam TV Star	Tales From A Not So Smart Miss Know-It-All	Tales From A Not So Graceful Ice Princess	Tales From A Not-So-Happily Ever After
+518373	Literature	3	What 2013 memoir is subtitled: "The Story of the Girl Who Stood Up for Education and was Shot by the Taliban"?	The Reason I Jump	Unbroken	David And Goliath	I Am Malala
+67718	Literature	3	What was Zulaikha's magic power, In the novel "Children of Blood and Bone"?	Lighter	Seer	Winder	Healer
+518368	Literature	3	At the end of 2018 , Vi Keeland published his best seller book, what was the name of book?	Stuck-up Suit	Boss Man	Julia Quinn	Hate Notes
+359331	Literature	3	Who wrote the book "The 9 Steps to Financial Freedom"?	Scott Turow	Negley Farson	H. G. Wells	Suze Orman
+269034	Literature	3	The 2013 "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants" is written by which author?	Seth Godin	Michael Lewis	Daniel H. Pink	Malcolm Gladwell
+1L05175	Literature	3	Who wrote the book "Mommie Dearest"?	Gail Sheehy	Ely Culbertson	Alex Comfort	Christina Crawford
+269012	Literature	3	In the book "The Cruel Prince", what is it that mortals can do that faeries cannot?	Cheat	Trick	Kick	Lie
+269032	Literature	3	Who wrote the play that the movie "About Last Night" was based upon?	Samuel Beckett	Neil Simon	Susan Sontag	David Mamet
+266751	Literature	3	What 2012 novel by David Baldacci tells the story of a hit man who refuses a job then finds himself a target?	The Hit	Bullseye	The Target	The Innocent
+15443	Literature	3	Which is a 2019 teen novel by Jennifer Dugan?	Pizza Kids	Hamburger Boy	Taco Kid	Hot Dog Girl
+62086	Literature	3	What motel were Celestial and Roy staying in when Roy was arrested, in "An American Marriage"?	Pine forest Inn	Piney Hills Inn	Pleasant hills Inn	Piney woods Inn
+139488	Literature	3	What is the most feared room in "Nineteen Eighty-Four"?	Room 666	End Of The Line Room	Big Brother's Den	Room 101
+246775	Literature	3	Which of the following literary genres describes a "coming-of-age" story?	Epistolary Novel	Roman A Clef	Juvenilia	Bildungsroman
+359420	Literature	3	Who wrote "Utopia"?	William James	William Blake	John Milton	Thomas More
+518325	Literature	3	In "Hard Times" by Charles Dickens, what was the name of the performing circus dog?	Bandylegs	Funnylegs	Happylegs	Merrylegs
+268959	Literature	3	Which story is about a matchmaker who tries to find the perfect wife for a client?	The Five People You Meet In Heaven	The Da Vinci Code	My Sister's Keeper	Match Me If You Can
+3451	Literature	3	What 2014 novel by Sandra Brown follows the story of a pediatrician, who disappears on a mountain road?	The Lost Key	The Target	Cold Cold Heart	Mean Streak
+359265	Literature	3	Who wrote the sci-fi book "Which Immortal"?	Alfred Bester	Ursula K Le Guin	Iain M Banks	Roger Zelazny
+359368	Literature	3	What year did "Eben Holden", written by Irving Bacheller, first become a best selling fiction book?	1922	1940	1977	1900
+22151	Literature	3	Which of the following is not a woman?	Harper Lee	Carson McCullers	Flannery O'Connor	Evelyn Waugh
+86000	Literature	3	What famous writer was a high school dropout who worked as an office boy for "The New Yorker"?	Stephen King	Ray Bradbury	Clive Barker	Truman Capote
+218542	Literature	3	What 2014 book written by James Patterson and Michael Ledwidge is the seventh in the "Michael Bennett" series?	Gone	Tick Tock	Worst Case	Burn
+139369	Literature	3	Lifeguard is published by Little, Brown, who wrote it?	Ian Caldwell And Dustin Thomason	Lisa Jackson	Michael Roizen And Mehmet Oz	James Patterson And Andrew Gross
+139686	Literature	3	In the 2019 fantasy book "Middlegame" by Seanan McGuire, what is the name of the twins?	Night And Day	Slick And Slack	Sam And Sally	Roger And Dodger
+518330	Literature	3	What happens to Piggy in "Lord of the Flies"?	He Catches The Plague	He Drowns	He Is Stabbed By A Spear	He Is Killed By A Boulder
+518347	Literature	3	What is the name of the protagonist in the fantasy novel "The Ruin of Kings"?	Azariel	Rashin	Locran	Kihrin
+518277	Literature	3	Which one of these 1995 nonfiction books was written by Deepak Chopra?	Sir Mortimer	Misery Is A Blind Date	The Day Of The Jackal	The Seven Spiritual Laws Of Success
+268968	Literature	3	What is Lorcan's new name , In the novel "Kingdom of Ash"?	Extra L	Lady Lorcan	Lorcan Moonbeam	Loed Lorcan Lochan
+359424	Literature	3	Which author was dressed and treated as a girl by his mother?	Jack Kerouac	Tennessee Williams	Truman Capote	Ernest Hemingway
+266722	Literature	3	The book "The City and the Stars" was written by whom?	Orson Scott Card	C J Cherryh	Gregory Benford	Arthur C. Clarke
+359339	Literature	3	Edward Albee wrote this famous play in the sixties?	The Misfits	Breakfast At Tiffany's	Funny Girl	Who's Afraid Of Virginia Woolf?
+518337	Literature	3	What 2013 novel by Sylvia Day is the third in the "Crossfire" series?	Reflected In You	Bared To You	Captivated By You	Entwined With You
+359333	Literature	3	The Washington Irving character Ichabod Crane had feet shaped like what?	Washboards	Pumpkins	Ladles	Shovels
+366548	Literature	3	In which William Faulkner novel is "My mother is a fish" an entire chapter?	The Sound And The Fury	The Old Man And The Sea	Sanctuary	As I Lay Dying
+246814	Literature	3	What 2013 book is subtitled: "Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics"?	One Summer	The Unwinding	The Light Between Oceans	The Boys In The Boat
+366519	Literature	3	Where did members of the "Saturday Club" (which included Emerson, Longfellow and Oliver Wendell Holmes) meet?	Eldridge Hotel, Lawrence, Kan	Madden's On Gull Lake, Brainerd, Minn	The Algonquin, New York	Omni Parker House Hotel, Boston
+359417	Literature	3	Who wrote "Twelve Years a Slave", a memoir and slave narrative?	Steve McQueen	Chiwetel Ejiofor	Frederick Douglass	Solomon Northup
+151364	Literature	3	What classic book has the quote "I have been a stranger in a strange land"?	The Adventure Of Huckleberry Finn	The Scarlet Letter	The Old Man And The Sea	The Bible
+139512	Literature	3	The Hitchhiker's Guide to the Galaxy was about whom?	John Smith And Benjamin Diaz	George Lutz And Billy Lutz	Smiley And Sgt. Jake Roenick	Arthur Dent And Ford Prefect
+1L05025	Literature	3	What 2013 children's novel is the eighth book in the "Diary of a Wimpy Kid" series?	Diary Of A Wimpy Kid: Rodrick Rules	Diary Of A Wimpy Kid: Dog Days	Diary Of A Wimpy Kid: Cabin Fever	Diary Of A Wimpy Kid: Hard Luck
+266728	Literature	3	To whom was Scrooge an apprentice in "A Christmas Carol"?	Old Joe	Marley	Peter Cratchit	Fezziwig
+92126	Literature	3	In what year did famed mystery author Agatha Christie die?	1996	1944	1906	1976
+1L05097	Literature	3	Prism Cloud by Jeff Wheeler is the 4th installment in which trilogy?	Empirium Trilogy	Winternight Trilogy	Sky Bringer Trilogy	Harbinger Trilogy
+3433	Literature	3	In what year did Charles Darwin publish his first work explaining the theory of natural selection?	1899	1920	1805	1858
+139458	Literature	3	What was the weapon that the young man used in Stephen King's short story "The Man Who Loved Flowers"?	A Handgun	An Axe	A Butcher Knife	A Hammer
+518349	Literature	3	Where is the story of "Cold Waters" set?	Australia	Wyoming	Canada	Alabama
+266733	Literature	3	In the novel "An American Marriage", what kind of car did Big Roy drive?	Cadillac	Chevy	Camry	Chrysler
+518344	Literature	3	What Nicholas Sparks' novel tells the story of two former high school sweethearts who reunite 25 years later?	The Longest Ride	Safe Haven	The Lucky One	The Best Of Me
+3562	Literature	3	The 2019 novel "On the Come Up" is set in the same universe as what 2017 novel?	The Whistler	Year One	If You Go Down To The Woods	The Hate U Give
+518355	Literature	3	What US city does the novel "Cemetery Road" take place?	Alabama	Arizona	Georgia	Mississippi
+1L05103	Literature	3	Who was the author of the book, "Angela's Ashes"?	James A. Michener	Frank Norris	Alex Comfort	Frank McCourt
+518356	Literature	3	In the book "Still me", what does Agnes ask from Steven Lipkott?	A Poster	A Poem	A Song	A Doodle
+257956	Literature	3	What 2013 crime fiction novel by J. K. Rowling features Cormoran Strike, a private investigator?	The Goldfinch	The Luminaries	The Husband's Secret	The Cuckoo's Calling
+266727	Literature	3	Which of the following does Jude want to be at one point or another, In the book "The Cruel Prince"?	Faerie	A Knight	Deadlier than her enemies	All
+269035	Literature	3	What is the thirteenth title in Daniel Silva's "Gabriel Allon" series which was released in July 2013?	The Fallen Angel	Portrait Of A Spy	The Heist	The English Girl
+266715	Literature	3	What is the name of the protagonist in the 2019 romance novel "The Mister"?	Walden Martin	Elliott Stricter	David Sanderson	Maxim Trevelyan
+373541	Literature	3	In the 2019 novel "One Word Kill", who is the new girl to join the group of friends?	Maya	Dahlia	Billie	Mia
+518339	Literature	3	Which hotel served as the inspiration for Arthur Hailey's best-selling novel "Hotel"?	Omni Parker House Hotel, Boston	Hotel Pattee, Perry, Iowa	Hotel Winneshiek, Decorah, Iowa	Fairmont Hotel, New Orleans
+26553	Literature	3	Who is the book "Lady First" about?	Melania Trump	Martha Washington	Barbara Bush	Sarah Polk
+90965	Literature	3	In the novel "An American Marriage", what was Davina's son's nickname?	Vicky	Hatter	Hippo	Hopper
+266731	Literature	3	Who wrote the sci-fi book "The Fountains of Paradise"?	Philip Jose Farmer	Kim Stanley Robinson	Robert A. Heinlein	Arthur C. Clarke
+518321	Literature	3	What are the names of the enemy monsters portrayed by Shoichi Hirose in "King Kong Escapes"?	Mechani-Kong And Mogera	Gorosaurus And Angilas	Mechani-Kong And Mechagodzilla	Gorosaurus And Mechani-Kong
+518284	Literature	3	Who wrote the book "A Man in Full"?	Norman F. Dacey	Bill Cosby	Victor Heiser	Tom Wolfe
+89045	Literature	3	What was the name of Ashley's plantation in "Gone With the Wind"?	Lakeview	Fair Oaks	Mimosa	Twelve Oaks
+1L05093	Literature	3	Complete the title of this Camille Pagan book, "I'm Fine and Neither____ ____"?	Am I	Is He	Are They	Are You
+1L05089	Literature	3	Doctor Who: Scratchman was written by which "Doctor Who" alumni?	Christopher Eccleston	David Bradley	Peter Davison	Tom Baker
+518293	Literature	3	Who was awarded the Nobel Prize for Literature in 1954?	Gertrude Stein	Shakespeare	Pablo Picasso	Ernest Hemingway
+518345	Literature	3	How many "Dead Queens" are in the title of Astrid Scholte's book about Keralie Corrington?	Seven	One	Twenty	Four
+269031	Literature	3	What is the 2012 debut novel by M.L. Stedman which is set in 1918 Australia?	Me Before You	Where'd You Go, Bernadette?	Beautiful Ruins	The Light Between Oceans
+268965	Literature	3	In the novel "Queen of Air and Darkness", who was Kit's mother?	The Seelie Queen	Tessa Herondale carstairs	Cecily Heondale	Aurelia Herondale
+139812	Literature	3	What 2012 novel by R.J. Palacio tells the story of August Pullman, who was born with a facial deformity?	Carnival	Tigerlily	River	Wonder
+518278	Literature	3	Who wrote the biography of Alice B. Toklas?	Eudora Welty	Alice B. Toklas	Mary Ann Evans	Gertrude Stein
+518363	Literature	3	In "The Wasteland", which month does T.S. Eliot call "the cruellest"?	May	January	February	April
+347746	Literature	3	The book "The Anubis Gates" was written by whom?	Lois McMaster	James Blish	Isaac Asimov	Tim Powers
+373540	Literature	3	The movie "This Boy's Life" was based on the life of which author?	J.D. Salinger	William Shakespeare	V.C. Andrews	Tobias Wolff
+73878	Literature	3	Who is the author of the book "Gorky Park"?	Taylor Caldwell	Douglas Fairbanks	Edgar Hoover	Martin Cruz Smith
+139590	Literature	3	Which one of these 1942 fiction books was written by John Steinbeck?	The Source	Living, Loving And Learning	The River's End	The Moon Is Down
+28050	Literature	3	Who is Lotus in "The Good Earth"?	Wang Lung's Aunt	Wang Lung's Sister	Wang Lung's Daughter	Wang Lung's Concubine
+266694	Literature	3	Who wrote the sci-fi book "Hyperion"?	David Brin	Robert A. Heinlein	Margaret Atwood	Dan Simmons
+184427	Literature	3	Which soon-to-be famous poets were both students, in the same class, of Robert Lowell?	Bukowski And Vonnegut	May Sarton And Elizabeth Bishop	Jane Gentry And Toni Morrison	Sylvia Plath And Anne Sexton
+246916	Literature	3	Which one of these 1910 fiction books was written by Winston Churchill?	The Ranch	The French Lieutenant's Woman	A Rage To Live	A Modern Chronicle
+140292	Literature	3	Which one of these 1948 fiction books was written by Norman Mailer?	Eat To Win: The Sports Nutrition Bible	Bury My Heart At Wounded Knee	Mistral's Daughter	The Naked And The Dead
+272177	Literature	3	Published in 2013, what is the third novel by Afghan-American author Khaled Hosseini?	The Kite Runner	A Thousand Splendid Suns	Survivor's Guilt	And The Mountains Echoed
+246930	Literature	3	What is the title of the best selling novel written by Cassandra Clare that published at the end of 2018?	Other Worlds	City of Bones	City of Glass	Queen of Air and Darkness
+518279	Literature	3	What year did "The Virginian", written by Owen Wister, first become a best selling fiction book?	1978	1979	1936	1902
+518365	Literature	3	Which of Ian Fleming's 007 novels was first sold in the U.S. as "Too Hot To Handle"?	Dr. No	You Only Live Twice	Casino Royale	Moonraker
+1L05037	Literature	3	Who is the author of the 2019 best selling novel, "An American Marriage'?	Vi Keeland	Arundhati Roy	David Grann	Tayari Jones
+266754	Literature	3	Who wrote the novel "The Hazel Wood"?	Diana Wrayburn	Andrew Sean Greer	Kathy Dawson	Melissa Albert
+359347	Literature	3	In the novel "Queen of Air and Darkness", who cuts off Horace Dearborn's arm?	Emma Carstairs	Julian Blackthor	Gwyn up Nudd	Diana Wraybrun
+518331	Literature	3	Which main character in the film "Lord of Illusions" was not in the short story?	Swann	D'amour	Butterfield	Nix
+90122	Literature	3	What 20th-century American author was an ambulance driver in World War One?	F. Scott Fitzgerald	T.S. Eliot	William Faulkner	Ernest Hemingway
+89887	Literature	3	Who wrote the sci-fi book "Gateway"?	Orson Scott	Robert A. Heinlein	Roger Zelazny	Frederik Pohl
+518359	Literature	3	The book "Way Station" was written by whom?	Arthur C Clarke	Isaac Asimov	Kurt Vonnegut	Clifford Simak
+359312	Literature	3	In the book "Kingdom of Ash", who said "I realized today that the assassin I came to call a friend is actually the queen I believed dead."	Ren Allsbrook	Lysandra	Dorian Havillard	Nox Owen
+518322	Literature	3	Which famous writer wrote the opera "Libretto"?	H.P. Lovecraft	H.G. Wells	Stephen King	Jules Verne
+1L05139	Literature	3	Who wrote the book "False Step"?	Anne Hillerman	Adam Southward	William Dameron	Victoria Helen Stone
+518291	Literature	3	In 1996, which John Gray book was the second leading nonfiction book on the best sellers list?	Gift And Mystery	The Zone	In Contempt	Men Are From Mars, Women Are From Venus
+269029	Literature	3	Who wrote the sci-fi book "Time Enough For Love"?	Stanislaw Lem	Greg Bear	Philip Jose Farmer	Robert A Heinlein
+269038	Literature	3	Which of the following Spanish-speaking writers was executed under Generalissimo Franco's regime?	Marquez	Borges	Neruda	Lorca
+518369	Literature	3	In the novel "Children of Blood and Bone", what is the name of the Sentaro from Chandomble?	Inan	Tzain	Saran	Lekan
+1L05081	Literature	3	Who is the author of the best selling novel "One Word Kill"?	C. J. Box	Jennifer Weiner	Lisa See	Mark Lawrence
+359378	Literature	3	Which book published by Warner Books is about a thirty-year-old unsolved crime that begins to unravel?	The Five People You Meet In Heaven	The Da Vinci Code	The Wedding	Shoot The Moon
+359423	Literature	3	Which best seller is about Dr. Kay Scarpetta returning to Richmond to work on a perplexing crime?	Black Rose	Inside The Mind Of Scott Peterson	Final Scream	Trace
+518372	Literature	3	In the J.D. Salinger book "The Catcher in the Rye", what does the dream-character of the title do?	Catches Truant Children	Catches Butterflies	Catches Baseballs	Catches Kids Before They Fall
+74658	Literature	3	Which is a 2019 young adult novel by Angie Thomas?	Lemonade Tree	Shoebox Man	The King Fever	On the Come Up
+77104	Literature	3	What young adult novel by Gayle Forman follows 17-year-old Mia Hall after an automobile accident?	Where She Went	Just One Day	You Can't Get There From Here	If I Stay
+87941	Literature	3	Which one of these 1932 nonfiction books was written by James Truslow Adams?	The Aquitaine Progression	The Right Of Way	How To Prosper During The Coming Bad Years	The Epic Of America
+266744	Literature	3	Which one of these 1935 nonfiction books was written by Anne Morrow Lindbergh?	The Spy Who Came In From The Cold	The Street Called Straight	Coniston	North To The Orient
+139399	Literature	3	Which story is about Alex Hawke, who tries to foil a Franco-Chinese plot to rule the world?	The Five People You Meet In Heaven	The Perricone Promise	Lakeside Cottage	Pirate
+359223	Literature	3	The book "The Puppet Masters" was written by whom?	Niven & Pournelle	Mary Shelley	Stanislaw Lem	Robert A Heinlein
+269033	Literature	3	Who wrote the sci-fi book "Ringworld"?	H.G. Wells	Arthur C. Clarke	Isaac Asimov	Larry Niven
+90955	Literature	3	In the novel "Children of Blood and Bone", what is Zelie's sister deity?	Yoruba	Ori	Mama agba	Oya
+2011	Literature	3	Which bestseller is about a workaholic attorney who accepts a position as a housekeeper?	Can You Keep A Secret?	Pirate	Back To The Bedroom	The Undomestic Goddess
+269042	Literature	3	Who wrote the sci-fi book "Timescape"?	Aldous Huxley	Ursula K Le Guin	Edgar Rice Burroughs	Gregory Benford
+70803	Literature	3	How old is Leah Burke main character in the book "Leah on the Offbeat"?	15 years old	46 years old	7 years old	18 years old
+65967	Literature	3	In the book "Shogun", what did the Japanese call Blackthorn?	Blackthorn-San	The Barbarian	Brackforn-San	Anjin-San
+266745	Literature	3	What color is Amari's hand at the end of the book "Children of Blood and Bone"?	Yellow	Orange	Red	Blue
+518334	Literature	3	Who wrote the science fiction book "Player Of Games"?	Poul Anderson	Robert A Heinlein	Isaac Asimov	Iain M Banks
+518374	Literature	3	Who wrote the science fiction novel "The Moon Is a Harsh Mistress"?	H.G. Wells	Joe Haldeman	Dan Simmons	Robert A. Heinlein
+352348	Literature	3	How many pages are in the best selling book "The Cruel Prince" by Holly Black?	100	3100	54	370
+266730	Literature	3	What is the fourth book in Rick Riordan's "The Heroes of Olympus" series, released in 2013?	The Lost Hero	The Son Of Neptune	The Blood Of Olympus	The House Of Hades
+366485	Literature	3	Who wrote the sci-fi book "Eon"?	Robert A Heinlein	Neal Stephenson	Connie Willis	Greg Bear
+1L05013	Literature	3	Which author's books have been outsold only by the Bible and Shakespeare?	Margaret Mitchell's	Anne Rice's	J.K. Rowling's	Agatha Christie's
+266767	Literature	3	What 2013 novel by James Patterson takes place after "Alex Cross, Run"?	Kill Alex Cross	Merry Christmas, Alex Cross	Cross Fire	Cross My Heart
+90966	Literature	3	What animal does Satan enter to tempt Eve in "Paradise Lost"?	A Goat	A Spider	A Dragon	A Serpent
+352331	Literature	3	Which HarperCollins book is about a debutante from Charleston who alters a 12-year-old girl's life?	The Five People You Meet In Heaven	You: The Owner's Manual	Deception Point	Sweetwater Creek
+359415	Literature	3	What is the name of Charles Bukowski's fictional alter-ego?	Larry Brewski	Chuck Bukowski	Buck Wild	Henry Chinaski
+1L05021	Literature	3	Published in 2019, what is the name of the last book in the "Winternight Trilogy"?	Night Of The Witch	The Witch Of Winter	The Witch And The Owl	The Winter Of The Witch
+266716	Literature	3	The 2013 novel "12th of Never" is the twelfth book of which author's "Women's Murder Club" series?	John Grisham	Michael Connelly	Lee Child	James Patterson
+359418	Literature	3	Which author wrote the 2014 fiction novel "Somewhere Safe with Somebody Good"?	Miss Read	Janette Oke	Karen Kingsbury	Jan Karon
+1L05143	Literature	3	What is the title of the Michael Wolf book about Trump written after "Fire and Fury"?	Pants On Fire	Everything Trump Touches Dies	After The Gold Rush	Siege
+90878	Literature	3	In the book "Thunderhead", what is Honorable Scythe Curie's first name?	Mary	Rebbecca	Lindsey	Marie
+347753	Literature	3	How many full-length Sherlock Holmes novels were originally written?	Seventy-Five	Sixteen	One	Four
+518323	Literature	3	What novel focuses on protagonist Alex Cross, who must take on three crimes at the same time?	Kill Alex Cross	Merry Christmas, Alex Cross	Cross My Heart	Alex Cross, Run
+359327	Literature	3	In the novel "Children of Blood and Bone", how does Binta die?	Drowning	Tzain	Zelie	King Saran's Blade
+265874	Literature	3	Which story is about a spirited woman who claims the heart of Jason Sherbrooke?	Assassin	Dress Your Family In Corduroy And Denim	The Perricone Promise	Lyon's Gate
+359346	Literature	3	Who wrote the sci-fi book "Tau Zero"?	James Blish	E E "Doc" Smith	Ursula K Le Guin	Poul Anderson
+91255	Literature	3	What is a 2012 best-selling children's novel and the seventh book in the "Diary of a Wimpy Kid" series?	Diary Of A Wimpy Kid: The Ugly Truth	Diary Of A Wimpy Kid: The Last Straw	Diary Of A Wimpy Kid: The Long Haul	Diary Of A Wimpy Kid: The Third Wheel
+1L05157	Literature	3	Who wrote "The Dark Heart: A True Story of Greed, Murder, and an Unlikely Investigator"?	christina McDonald	Fabi	Vi Keeland	Joakim Palmkvist
+246914	Literature	3	In the "The Hazel Wood" how old is the character Alice?	97 Years Old	6 Years Old	29 Years Old	17 Years Old
+352345	Literature	3	In Shirley Jackson's "The Lottery", how many times has Old Man Warner been in the lottery?	60	82	86	77
+28631	Literature	3	Who was not part of Ken Kesey's "Merry Pranksters"?	Jerry Garcia	Mountain Girl	Neal Cassady	Jack Kerouac
+518343	Literature	3	Who wrote the original radio play of War of the Worlds?	Orson Wells	Rod Serling	Joe Indiviglio	Howard Koch
+139656	Literature	3	Ninety-Nine Glimpses of Princess Margaret is a biography written by whom?	Andrew Morton	Anne Edwards	Hugo Vickers	Craig Brown
+347750	Literature	3	What is the third novel in David Baldacci's "Will Robie" series and was released in 2014?	The Innocent	Bullseye	The Hit	The Target
+92673	Literature	3	Who is elected leader in "Lord of the Flies"?	Simon	Piggy	Jack	Ralph
+246926	Literature	3	In John Webster's play "The Duchess of Malfi", who executes the Duchess?	The Cardinal	Ferdinand	Antonio	Bosola
+266700	Literature	3	Who is Livvy dating in Thule, in the novel "Queen of Air and Darkness"?	Kit Heondale	Rayan Maduabuchi	Jaime Rosales	Cameron Ashdown
+359412	Literature	3	What was Jane Austen's sister's name?	Elizabeth	Anne	Fanny	Cassandra
+258637	Literature	3	Who wrote the book "My Love Story"?	Madonna	Sean Penn	Bette Midler	Tina Turner
+1L05017	Literature	3	What is the name of the author of the novel "An Anonymous Girl"?	Melissa Albert	Sarah J. Maas	Fabi Ghittoni	Christina McDonald
+268961	Literature	3	What is the last written word of the book "The Cruel Prince"?	Won	Future	Kingdom	Yours
+518367	Literature	3	What type of literature is 2005 Nobel Prize winner Harold Pinter best known for?	Short Stories	Poetry	Allegory	Plays
+518348	Literature	3	Who is the protagonist of "Nineteen Eighty-Four"?	Walter Winston	Cedric Smyth	Seth Winston	Winston Smith
+269039	Literature	3	In what year was Andy Warhol's "A Gold Book By Andy Warhol" first published?	1949	1959	1966	1957
+269037	Literature	3	What is the name of the protagonist in the 2019 novel "Ancestral Night"?	Hallie	Hawk	Holly	Haimey
+359318	Literature	3	Who wrote the healthy eating book "Fit for Life"?	Ely Culbertson	Rush Limbaugh	Tom Clancy	Harvey & Marilyn Diamond
+518286	Literature	3	The book "Earthman, Come Home" was written by whom?	George Orwell	Jules Verne	Kurt Vonnegut	James Blish
+91012	Literature	3	J. K. Rowling's 2013 crime fiction novel "The Cuckoo's Calling" was published under what pseudonym?	Val McDermid	Mark Billingham	Alex Gray	Robert Galbraith
+246921	Literature	3	Which one of these 1918 fiction books was written by Zane Grey?	The Mammoth Hunters	Dinner At Antoine's	Ourselves To Know	The U. P. Trail
+90147	Literature	3	Where was the word "nerd" first used in print?	The Bible	A.A. Milne's "Winnie-The-Pooh"	George Orwell's "1984"	Dr. Seuss' "If I Ran The Zoo"
+359328	Literature	3	Who is the author of the poem at the beginning of the novel "The Cruel Prince"?	Robert Frost	henry david Thoreau	Holly Black	Robert Graves
+518335	Literature	3	Which famous writer was recognized as a social satirist later in his career?	Stephen King	H.G. Wells	Jules Verne	Kurt Vonnegut
+269028	Literature	3	Who wrote the sci-fi book "The Postman"?	Ursula K Le Guin	Audrey Niffenegger	William Gibson	David Brin
+268860	Literature	3	What is the title of the 2018 book published about Phyllis Hyman?	Singing to Heaven	Scent of a Woman	It’s a Man's World	Strength of a Woman
+518346	Literature	3	Released in 2014, what is the thirteenth book in James Patterson's "Women's Murder Club" mystery series?	Lucky 13	The 13th Hour	The 13th Of Never	Unlucky 13
+359315	Literature	3	What best selling book is about an exiled poet who returns to Turkey to report on a wave of suicides?	Wicked	White Hot	Scarecrow	Snow
+518340	Literature	3	Which two characters are not related in the novel "Kingdom of Ash"?	Fallon and Faline	Enda and Sellen	Georgina and Dorian	Kaya and Thea
+359416	Literature	3	What 2013 novel by Jodi Picoult features a retired schoolteacher, who claims to be a Nazi war criminal?	Lone Wolf	Leaving Time	Change of Heart	The Storyteller
+9363	Literature	3	Number 17 in the Black Dagger Brotherhood series, "The Savior" is written by what author?	Lyndsay Sands	Pamala Palmer	Lara Adrian	J.R. Ward
+266777	Literature	3	What 2012 book is subtitled: "A Neurosurgeon's Journey into the Afterlife"?	Heaven Is For Real	90 Minutes In Heaven	To Heaven And Back	Proof Of Heaven
+1L05111	Literature	3	Children of Blood and Bone is a 2018 young adult fantasy novel, who is the writer of this novel?	Angie Thomas	Melissa Albert	Sara Raasch	Tomi Adeyemi
+16041	Literature	3	Who wrote the science fiction book "Stranger in a Strange Land"?	Roger Zelazny	Joe Haldeman	Kurt Vonnegut	Robert A. Heinlein
+139752	Literature	3	What film is Ray Ferrier a character in?	Aliens	Close Encounters	E.T.	War Of The Worlds
+518357	Literature	3	What 2013 book by David Baldacci is the second book to feature Will Robie, a highly skilled assassin?	Bullseye	The Target	The Innocent	The Hit
+1L05019	Literature	3	What 2012 science fiction young adult novel is the second book in the "Divergent" trilogy?	Allegiant	Divergent	Sergeant	Insurgent
+269027	Literature	3	Which newspaper columnist also wrote fourteen best selling books?	Ann Landers	Heloise	Dave Barry	Erma Bombeck
+359394	Literature	3	The fantasy novel "Permafrost" by Alastair Reynolds takes place in what year?	2019	3024	1902	2080
+1L05087	Literature	3	Who wrote the 1984 book "The Sicilian"?	James Herriot	Meredith Nicholson	Henry Robinson	Mario Puzo
+140301	Literature	3	Off The Ropes is about what boxer?	Roberto Duran	Sonny Liston	Mike Tyson	Ron Lyle
+518361	Literature	3	In Alice Walker's novel "The Color Purple", what is young Celie told about her two children?	They Were Adopted By Missionaries	They Would Be Raised By Their Dad	She Could Get Them Back In A Year	They Were Taken Away To Be With God
+518289	Literature	3	Which author wrote the book "A Prayer for Owen Meany"?	Emma Sammons	James Michener	Billy Graham	John Irving
+359421	Literature	3	Who wrote "Zen and the Art of Motorcycle Maintenance"?	Jack Canfield	John Naisbitt	Stephen Covey	Robert Pirsig
+266757	Literature	3	Which one of these 1959 nonfiction books was written by Moss Hart?	The Sky Pilot In No Man's Land	Life And Gabriella	The Re-Creation Of Brian Kent	Act One
+139716	Literature	3	In the novel "Where the Forest Meets the Stars" by Glendy Vanderah, what is the name of the mysterious child?	Gabby	Celeste	Joanne	Ursa
+269036	Literature	3	In the novel "Kingdom of Ash", how long did Aelin stay in the coffin?	3 weeks	6 days	6 months	2 months
+268957	Literature	3	Who is the book 'Freak Kingdom" about?	Robin Williams	George Carlin	Rachel Maddow	Hunter S. Thompson
+245988	Literature	3	Which one of these 1945 fiction books was written by Lloyd C. Douglas?	It	A Modern Chronicle	Poland	The Robe
+90858	Literature	3	The book "Where the Crawdads Sing" by Delia Owens is set in which U.S. state?	Montana	California	Florida	North Carolina
+90964	Literature	3	Who wrote the novel "The Good Earth"?	Carl Sagan	Sinclair Lewis	Jonathan Swift	Pearl S. Buck
+228523	Literature	3	Who was the author of the best selling classic "Doctor Zhivago"?	Winston Churchill	Pearl S. Buck	Alexander Woollcott	Boris Pasternak
+518366	Literature	3	The book "Earth Abides" was written by whom?	Dan Simmons	Jules Verne	Mary Shelley	George R Stewart
+140286	Literature	3	Who wrote the sci-fi book "Neuromancer"?	Arthur C. Clarke	Gregory Benford	Anthony Burgess	William Gibson
+266806	Literature	3	In the book "Children of Blood and Bone", what city holds the arena?	Gombe	llorin	Ibadan	Ibeji
+268967	Literature	3	The book "Double Star" was written by whom?	Clifford Simak	Philip Jose Farmer	Iain M Banks	Robert A Heinlein
+268963	Literature	3	The book "The Lathe of Heaven" was written by whom?	James Blish	Clifford Simak	Alfred Bester	Ursula K Le Guin
+359358	Literature	3	The book "The Door Into Summer" was written by whom?	Niven & Pournelle	Philip K Dick	Arthur C Clarke	Robert A Heinlein
+1L05141	Literature	3	What cartoonist and online game designer is the author of the "Diary of a Wimpy Kid" book series?	Greg Heffley	Rowley Jefferson	Zachary Gordon	Jeff Kinney
+272205	Literature	3	Who is the author of "Chill Factor"?	James Patterson And Andrew Gross	Dan Brown	Mark Haddon	Sandra Brown
+518283	Literature	3	Whose work is incorrectly quoted "A rose is a rose is a rose"?	Carson McCullers	Mabel Normand	Alice B. Toklas	Gertrude Stein
+140267	Literature	3	Which play begins with "O for a muse of fire, to ascend the brightest heavens of invention"?	A Midsummer Night's Dream	Antony And Cleopatra	Macbeth	Henry V
+266725	Literature	3	Which author wrote the 2014 suspense fiction novel "Private Down Under" with Michael White?	John Grisham	Michael Connelly	David Baldacci	James Patterson
+139922	Literature	3	Which bestseller is about a Marine being chased by fearsome bounty hunters?	Confessions Of A Video Vixen	Dead Like Me	Deception Point	Scarecrow
+1L05029	Literature	3	What family does Nobel Prize-winning author John Steinbeck write about in "Grapes of Wrath"?	Judd	Clampett	Mercer	Joad
+139224	Literature	3	Which one of these 1938 nonfiction books was written by Lin Yutang?	Talking Straight	Profiles In Courage: Memorial Edition	Mr. Crewe's Career	The Importance Of Living
+366481	Literature	3	Who was Celestial named after, in the novel "An American Marriage"?	Her aunt	Her grandmother	Her mother's aunt	Her mother
+518338	Literature	3	Which book published by Farrar, Straus and Giroux is about a brief 10337 of the twenty-first century?	The Historian	The Interruption Of Everything	Absolute Friends	The World Is Flat
+1L05073	Literature	3	Which author wrote the novel "Kingdom of Ash"?	Sara Raasch	Melissa Albert	Angie Thomas	Sarah J. Maas
+246800	Literature	3	Which one of these 1996 fiction books was written by Richard Bachman?	The Silver Chalice	How To Stop Worrying And Start Living	All This, And Heaven Too	The Regulators
+266702	Literature	3	Who is the Pulitzer Prize-winning columnist that wrote "The Conservative Sensibility"?	Rachel Maddow	David Barstow	Sheri Fink	George F. Will
+373579	Literature	3	In "Death of a Salesman", what are the names of Willy Loman's sons?	James And John	Sam And Theo	Bob And Ted	Biff And Happy
+95839	Literature	3	What best selling book is about four girls who set off on adventures?	Beach Girls	Absolute Friends	Lunar Park	The Second Summer Of The Sisterhood
+3498	Literature	3	What is the name of the family in the novel "The Guest Book"?	Ashford	Silvers	Barber	Milton
+272204	Literature	3	How many letters of Will does Louisa read, In book "Still Me"?	0	1	2	3
+139554	Literature	3	What novel by Ken Follett follows five interrelated families throughout the course of the 20th century?	World Without End	The Pillars Of The Earth	A Place Called Freedom	Fall Of Giants
+3540	Literature	3	Who is the author of the 2019 best selling novel, "Lost Roses'?	Lisa Scottoline	David Grann	Arundhati Roy	Martha Hall Kelly
+3528	Literature	3	What movie was based on Philip K Dick's short story "We Can Remember it for You Wholesale"?	Minority Report	Terminator	Regarding Henry	Total Recall
+74462	Literature	3	What 2013 novel tells the story of two women separated by generations who build an unexpected friendship?	All The Light We Cannot See	The Perfume Collector	Gratefully Yours	Orphan Train
+518327	Literature	3	Deadwood Dick is the nickname of what African American Cowboy?	Jessie Lee	Rich Rogers	Jackson Smith	Nat Love
+347745	Literature	3	Which author wrote the "Century Trilogy" series of historical novels?	Dan Brown	Wilbur A. Smith	Frederick Forsyth	Ken Follett
